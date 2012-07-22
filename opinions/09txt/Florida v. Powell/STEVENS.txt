@@ -1,0 +1,181 @@
+No. 08–1175 [February 23, 2010]  JUSTICE STEVENS, with whom JUSTICE BREYER joins as to Part II, dissenting. Today, the Court decides a case in which the Florida Supreme Court held a local police practice violated the Florida Constitution. The Court’s power to review that decision is doubtful at best; moreover, the Florida Su preme Court has the better view on the merits. In this case, the Florida Supreme Court concluded that “[b]oth Miranda and article I, section 9 of the Florida Constitution require that a suspect be clearly informed of the right to have a lawyer present during questioning,” and that the warnings given to Powell did not satisfy either the State or the Federal Constitution. 998 So. 2d 531, 542 (2008). In my view, the Florida Supreme Court held on an adequate and independent state-law ground that the warnings provided to Powell did not sufficiently inform him of the “ ‘right to a lawyer’s help’ ” under the Florida Constitution, id., at 535. This Court therefore lacks jurisdiction to review the judgment below, notwith standing the failure of that court to include some express sentence that would satisfy this Court’s “plain-statement rule,” ante, at 5. The adequate-and-independent-state-ground doctrine rests on two “cornerstones”: “[r]espect for the independ
+ence of state courts” and “avoidance of rendering advisory In Long, the Court adopted a novel presumption in favor of jurisdiction when the independence of a state court’s state-law judgment is not clear. But we only respect the independence of state courts and avoid rendering advisory opinions if we limit the application of that presumption to truly ambiguous cases.1 This is not such a case. “[I]f the same judgment would be rendered by the state court after we corrected its views of federal laws, our review could amount to nothing more than an advisory Long we advised every state court of a formula by which it could assure us that our review would indeed amount to nothing more than an advisory opinion. The state court “need only make clear by a plain statement in its judg ment or opinion that the federal cases are being used only for the purpose of guidance, and do not themselves compel the result that the court has reached.” 463 U. S., at 1041. That advice has sometimes been misunderstood as a com mand that unless such a plain statement is included in a state-court opinion, the court’s ruling cannot have rested on an adequate and independent state ground. But the real question is whether “the adequacy and independence of any possible state law ground is . . . clear from the face
+of the opinion.” Id., at 1040–1041. Even if a state court opinion does not include the magic words set forth in Long, or some similarly explicit sentence, we lack jurisdic tion if it is nonetheless apparent that the decision is in deed supported by an adequate and independent state ground. Contrary to the assumption made by the Court, we have no power to assume jurisdiction that does not otherwise exist simply because the Florida Supreme Court did not include in its decision some express statement that its interpretation of state law is independent. In my view, we can tell from the face of the Florida Supreme Court’s opinion that “the decision rested on a state ground separate from Miranda,” ante, at 6. This case is easily distinguished from Long in that regard. In Long, although the Michigan Supreme Court had twice cited the Michigan Constitution in its opinion, it “relied U. S. 1 (1968),] and other federal cases. Not a single state case was cited to support the state court’s holding that the search of the passenger compartment was unconstitu tional.” 463 U. S., at 1043. There was, in short, nothing to “indicate that the decision below rested on grounds in any way independent from the state court’s interpretation of federal law.” Id., at 1044. Other cases in which we have applied the Long pre sumption have been similarly devoid of independent state law analysis. We typically apply the Long presumption when the state court’s decision cited a state constitutional provision only a few times or not at all, and rested exclu sively upon federal cases or upon state cases that them selves cited only federal law.2 We have also applied Long
+when the state court’s decision indicated that under state law, the relevant state constitutional provision is consid ered coextensive with the federal one.3 This case shares none of those features.4
+The Florida Supreme Court did not merely cite the Florida Constitution a time or two without state-law analysis.5 Rather, the court discussed and relied on the separate rights provided under Art. I, §9 of the Florida Constitution. For example, after a paragraph describing the general scope of Miranda warnings under federal law, the Court explained the general scope of warnings under state law. 998 So. 2d, at 534–535 (“[T]o ensure the volun tariness of confessions as required by article I, section 9 of 596 So. 2d 957 (Fla. 1992), outlined the . . . rights Florida suspects must be told of prior to custodial interrogation,” which includes “ ‘that they have a right to a lawyer’s help’ ”). The court consistently referred to these state-law rights as separate and distinct from Miranda, noting that in its earlier cases, it had explained that “the require ments of both the Fifth Amendment, as explained in Miranda, and the Florida Constitution, as explained in Traylor,” include “the requirement that a suspect be in formed of the right to have counsel present during ques tioning.” 998 So. 2d, at 537–538. And when applying the law to the specific facts of this case, the Florida Supreme Court again invoked the specific and distinct “right to a
+lawyer’s help” under the Florida Constitution. Id., at 540. Moreover, the state cases relied upon by the Florida Supreme Court did not themselves rely exclusively on federal law. The primary case relied upon for the state law holding, Traylor, rested exclusively upon state law. See 596 So. 2d, at 961. In that decision, the Florida Su preme Court embraced the principle that “[w]hen called upon to decide matters of fundamental rights, Florida’s state courts are bound under federalist principles to give primacy to our state Constitution and to give independent legal import to every phrase and clause contained therein.” Id., at 962. Elaborating upon the meaning of Art. I, §9 of the Florida Constitution, the Florida Supreme Court explained the roots of Florida’s commitment to protecting its citizens from self-incrimination. Florida has long “required as a matter of state law that one charged with a crime be informed of his rights prior to rendering a confession.” Id., at 964. It has required warnings before some interrogations since at least 1889, and has for that long excluded confessions obtained in violation of those rules. Ibid. In sum, this case looks quite different from those cases in which we have applied the Long presump tion in the past. The Court concludes otherwise by relying primarily upon the formulation of the certified question and re statements of that question within the Florida Supreme Court’s opinion. See ante, at 6. Yet while the certified question asks whether particular phrases “vitiate[d] Miranda warnings,” 998 So. 2d, at 532 (capitalization and footnote omitted), Miranda has become a generic term to refer to the warnings suspects must be given before inter rogation, see Merriam-Webster’s Collegiate Dictionary 792 (11th ed. 2003) (defining “Miranda” as “of, relating to, or being the legal rights of an arrested person to have an attorney and to remain silent so as to avoid self incrimination”). Thus, its invocation of Miranda in the
+certified question and in its statement of the issue presented is entirely consistent with the fact that the state-law basis for its decision is fully adequate and independent. That said, I agree with the Court that the decision below is interwoven with federal law. In reaching its state-law holding, the Florida Supreme Court found Miranda and our other precedents instructive.6 But that alone is insuf ficient to assure our jurisdiction, even under Long. In my view, the judgment—reversal of Powell’s conviction—is supported by the Florida Supreme Court’s independent and carefully considered holding that these warnings were inadequate under the Florida Constitution. See 998 So. 2d, at 534–535, 537–538, 540, 542. The Court acknowledges that nothing in today’s decision “trenches on the Florida Supreme Court’s authority to impose, based on the State’s Constitution, any additional protections against coerced confessions it deems appropri ate.” Ante, at 7. As the Florida Supreme Court has noted on more than one occasion, its interpretation of the Flor ida Constitution’s privilege against self-incrimination need not track our construction of the parallel provision in the
+241 (2009) (“[T]he federal Constitution sets the floor, not the ceiling, and this Court retains the ability to interpret the right against self-incrimination afforded by the Florida Constitution more broadly than that afforded by its fed eral counterpart”); Traylor, 596 So. 2d, at 961–963. In this very case, the Florida Supreme Court may reinstate its judgment upon remand. If the Florida Supreme Court does so, as I expect it will, this Court’s opinion on the merits will qualify as the sort of advisory opinion that we should studiously seek to avoid. The Court’s decision on the merits is also unpersuasive. As we recognized in Miranda, “the right to have counsel present at [an] interrogation is indispensable to the pro Arizona, 384 U. S. 436, 469 (1966). Furthermore, “the need for counsel to protect the Fifth Amendment privilege comprehends not merely a right to consult with counsel prior to questioning, but also to have counsel present during any questioning.” Id., at 470. Because the “ac cused who does not know his rights and therefore does not make a request may be the person who most needs coun sel,” id., at 470–471, a defendant “must be clearly in formed” regarding two aspects of his right to consult an attorney: “the right to consult with a lawyer and to have the lawyer with him during interrogation,” id., at 471. In this case, the form regularly used by the Tampa police warned Powell that he had “the right to talk to a lawyer before answering any of our questions.” App. 3. This informed him only of the right to consult with a lawyer before questioning, the very right the Miranda Court identified as insufficient to protect the Fifth Amendment privilege. The warning did not say anything about the right to have counsel present during interroga
+tion. Although we have never required “rigidity in the U. S. 355, 359 (1981) (per curiam), this is, I believe, the first time the Court has approved a warning which, if given its natural reading, entirely omitted an essential element of a suspect’s rights. Despite the failure of the warning to mention it, in the Court’s view the warning “reasonably conveyed” to Powell that he had the right to a lawyer’s presence during the interrogation. Ante, at 10. The Court cobbles together this conclusion from two elements of the warning. First, the Court assumes the warning regarding Powell’s right “to talk to a lawyer before answering any of [the officers’] questions,” App. 3, conveyed that “Powell could consult with a lawyer before answering any particular question,” ante, at 10 (emphasis added).7 Second, in the Court’s view, the addition of a catchall clause at the end of the recitation of rights “confirmed” that Powell could use his right to consult an attorney “while the interrogation was underway.” Ibid. The more natural reading of the warning Powell was given, which (1) contained a temporal limit and (2) failed to mention his right to the presence of counsel in the interrogation room, is that Powell only had the right to consult with an attorney before the interrogation began, not that he had the right to have an attorney with him during questioning. Even those few Courts of Appeals that have approved warnings that did not expressly men
+tion the right to an attorney’s presence during interroga tion8 have found language of the sort used in Powell’s warning to be misleading. For instance, petitioner cites 429 F. 2d 373 (1970), as an example of a court applying the properly flexible approach to Miranda. But in that case, the Second Circuit expressly distinguished a warning that a suspect “ ‘could consult an attorney prior to any question,’ ” which was “affirmatively misleading since it was thought to imply that the attorney could not be pre sent during questioning.” 429 F. 2d, at 377.9 That even
+the Courts of Appeals taking the most flexible approach to Miranda have found warnings like Powell’s misleading should caution the Court against concluding that such a warning reasonably conveyed Powell’s right to have an attorney with him during the interrogation. When the relevant clause of the warning in this case is given its most natural reading, the catchall clause does not meaningfully clarify Powell’s rights. It communicated that Powell could exercise the previously listed rights at any time. Yet the only previously listed right was the “right to talk to a lawyer before answering any of [the officers’] questions.” App. 3 (emphasis added). Informing Powell that he could exercise, at any time during the interview, the right to talk to a lawyer before answering any questions did not reasonably convey the right to talk to a lawyer after answering some questions, much less implicitly inform Powell of his right to have a lawyer with him at all times during interrogation. An intelligent suspect could reasonably conclude that all he was provided was a one-time right to consult with an attorney, not a right to have an attorney present with him in the interro gation room at all times.10
+(1989), and Prysock, 453 U. S. 355, but in neither case did the warning at issue completely omit one of a suspect’s rights. In Prysock, the warning regarding the right to an appointed attorney contained no temporal limitation, see id., at 360–361, which clearly distinguishes that case from Powell’s. In Duckworth, the suspect was explicitly in formed that he had the right “to talk to a lawyer for advice before we ask you any questions, and to have him with you during questioning,” and that he had “this right to the advice and presence of a lawyer even if you cannot afford to hire one.” 492 U. S., at 198 (emphasis deleted; internal quotation marks omitted). The warning thus conveyed in full the right to appointed counsel before and during the interrogation. Although the warning was arguably under cut by the addition of a statement that an attorney would be appointed “if and when you go to court,” the Court found the suspect was informed of his full rights and the warning simply added additional, truthful information regarding when counsel would be appointed. Ibid. (em phasis deleted; internal quotation marks omitted). Unlike the Duckworth warning, Powell’s warning did not convey his Miranda rights in full with the addition of some ar guably misleading statement. Rather, the warning en tirely failed to inform him of the separate and distinct right “to have counsel present during any questioning.” Miranda, 384 U. S., at 470. In sum, the warning at issue in this case did not rea sonably convey to Powell his right to have a lawyer with him during the interrogation. “The requirement of warn ings . . . [is] fundamental with respect to the Fifth Amendment privilege and not simply a preliminary ritual to existing methods of interrogation.” Id., at 476. In determining that the warning implied what it did not say,
+it is the Court “that is guilty of attaching greater impor tance to the form of the Miranda ritual than to the sub stance of the message it is intended to convey.” Prysock, 453 U. S., at 366 (STEVENS, J., dissenting). Whether we focus on Powell’s particular case, or the use of the warning form as the standard used in one jurisdic tion, it is clear that the form is imperfect. See ante, at 12. As the majority’s decision today demonstrates, reasonable judges may well differ over the question whether the deficiency is serious enough to violate the Federal Consti tution. That difference of opinion, in my judgment, falls short of providing a justification for reviewing this case when the judges of the highest court of the State have decided the warning is insufficiently protective of the rights of the State’s citizens. In my view, respect for the independence of state courts, and their authority to set the rules by which their citizens are protected, should result in a dismissal of this petition. I respectfully dissent.
+——————
+1 In my view, this Court would better respect the independence of
+state courts by applying the opposite presumption, as it did in the years
+prior to 1983. See Long, 463 U. S., at 1066–1067 (STEVENS, J., dissent
+ing). But accepting Long as the law, we can limit its negative effects—
+unnecessary intrusion into the business of the state courts and unnec
+essary advisory opinions—only if we limit its application to cases in
+which the independence of the state-law ground is in serious doubt.
+See Pennsylvania v. Labron, 518 U. S. 938, 950 (1996) (STEVENS, J.,
+dissenting) (“[T]he unfortunate effects of [its] rule” are “exacerbate[d]
+. . . to a nearly intolerable degree” when the Long presumption is
+applied to cases in which “the state-law ground supporting th[e] judg
+men[t] is so much clearer than has been true on most prior occasions”).
+
+
+——————
+2 See, e.g., Illinois v. Fisher, 540 U. S. 544, 547, n. (2004) (per curiam)
+(describing decision below as relying upon the portion of a state prece
+dent that solely discussed due process under the Federal Constitution);
+Ohio v. Robinette, 519 U. S. 33, 37 (1996) (“[T]he only cases [the opin
+ion] discusses or even cites are federal cases, except for one state case
+
+
+——————
+which itself applies the Federal Constitution”); Illinois v. Rodriguez,
+497 U. S. 177, 182 (1990) (“The opinion does not rely on (or even men
+tion) any specific provision of the Illinois Constitution, nor even the
+Illinois Constitution generally. Even the Illinois cases cited by the
+opinion rely on no constitutional provisions other than the Fourth and
+Fourteenth Amendments of the United States Constitution”); Florida v.
+Riley, 488 U. S. 445, 448, n. 1 (1989) (plurality opinion) (finding Florida
+Supreme Court mentioned the State Constitution three times but the
+discussion “focused exclusively on federal cases dealing with the Fourth
+Amendment”); Michigan v. Chesternut, 486 U. S. 567, 571, n. 3 (1988)
+(describing state court as resting its holding on two state cases that
+each relied upon federal law); New York v. P. J. Video, Inc., 475 U. S.
+868, 872, n. 4 (1986) (“Here, the New York Court of Appeals cited the
+New York Constitution only once, near the beginning of its opinion . . .
+[and] repeatedly referred to the ‘First Amendment’ and ‘Fourth
+Amendment’ during its discussion of the merits of the case”); Oliver v.
+United States, 466 U. S. 170, 175, n. 5 (1984) (“The Maine Supreme
+Judicial court referred only to the Fourth Amendment . . . [and] the
+prior state cases that the court cited also construed the Federal Consti
+tution”).
+3 See, e.g., Fitzgerald v. Racing Assn. of Central Iowa, 539 U. S. 103,
+106 (2003) (“The Iowa Supreme Court’s opinion . . . says that ‘Iowa
+courts are to “apply the same analysis in considering the state equal
+protection clause as . . . in considering the federal equal protection
+claim” ’ ”); Pennsylvania v. Muniz, 496 U. S. 582, 588, n. 4 (1990) (state
+court explained that relevant state constitutional provision “offers a
+protection against self-incrimination identical to that provided by the
+Fifth Amendment” (internal quotation marks omitted)); Maryland v.
+Garrison, 480 U. S. 79, 83–84 (1987) (state-court opinion relied on state
+cases but indicated “that the Maryland constitutional provision is
+construed in pari materia with the Fourth Amendment”).
+4 I do not mean to suggest that this Court has never reached out be
+yond these bounds in order to decide a case. For example, in Labron,
+518 U. S. 938, we found that a state court decision resting on the
+“Commonwealth’s jurisprudence of the automobile exception,” Com
+monwealth v. Labron, 543 Pa. 86, 100, 669 A. 2d 917, 924 (1995), was
+not so clearly based on state law that the Long presumption did not
+apply, even though only “some” of the state cases discussed in the state
+
+
+——————
+court’s opinion analyzed federal law. 518 U. S., at 939. The Court’s
+analysis proved wrong; on remand, the Pennsylvania Supreme Court
+reaffirmed its prior holding and “explicitly note[d] that it was, in fact,
+decided upon independent grounds, i.e., Article I, Section 8 of the
+Pennsylvania Constitution.” Commonwealth v. Labron, 547 Pa. 344,
+345, 690 A. 2d 228 (1997). That we have overreached before is no
+reason to repeat the mistake again.
+5 In examining what the state-court opinion said regarding state law,
+and whether the state precedent cited in the opinion relied upon state
+law, I am undertaking no effort more arduous than what the Court has
+typically undertaken in order to determine whether the Long presump
+tion applies: examining how frequently a state-court opinion cited state
+law, whether state law is coextensive with federal law, and whether the
+cited state cases relied upon federal law. See nn. 2–3, supra.
+
+
+——————
+6 The Florida Supreme Court need not have decided that state-law
+sources “gave Powell rights . . . broader than . . . those delineated in
+Miranda,” ante, at 6, in order for its judgment to have rested upon an
+independent state-law ground. The independence of a state-law ground
+may be especially clear when a state court explicitly finds that the state
+constitution is more protective of a certain right than the national
+charter, but a state constitutional provision is no less independent for
+providing the same protection in a given case as does the federal
+provision, so long as the content of the state-law right is not compelled
+by or dependent upon federal law. Unlike other provisions of Art. I of
+the Florida Constitution, §9 does not contain an express proviso requir
+ing that the right be construed in conformity with the analogous federal
+provision. Compare Fla. Const., Art. I, §9, with Fla. Const., Art I, §12.
+Furthermore, under Florida law the scope of Art. I, §9 is clearly not
+dependent upon federal law. Rigterink v. State, 2 So. 3d 221, 241 (Fla.
+2009); Traylor v. State, 596 So. 2d 957, 962 (Fla. 1992).
+
+
+——————
+7 This
+
+assumption makes it easier for the Court to conclude the warn
+ing conveyed a right to have a lawyer present. If a suspect is told he
+has the right to consult with an attorney before answering any particu
+lar question, the Court may be correct that he would reasonably con
+clude he has the right to a lawyer’s presence because otherwise he
+would have to imagine he could consult his attorney in some unlikely
+fashion (e.g., by leaving the interrogation room between every ques
+tion).
+
+
+——————
+8 Several Courts of Appeals have held that warnings that did not
+expressly inform a suspect of his right to have counsel present during
+interrogation did not adequately inform a suspect of his Miranda
+rights. See, e.g., United States v. Tillman, 963 F. 2d 137, 141 (CA6
+1992); United States v. Bland, 908 F. 2d 471, 474 (CA9 1990); United
+States v. Anthon, 648 F. 2d 669, 672–673 (CA10 1981); Windsor v.
+United States, 389 F. 2d 530, 533 (CA5 1968). And most of the Circuits
+that have not required express mention of the right to an attorney’s
+presence have approved only general warnings regarding the right to
+an attorney; that is, warnings which did not specifically mention the
+right to counsel’s presence during interrogation but which also con
+tained no limiting words that might mislead a suspect as to the broad
+nature of his right to counsel. See, e.g., United States v. Frankson, 83
+F. 3d 79, 82 (CA4 1996); United States v. Caldwell, 954 F. 2d 496, 502
+(CA8 1992); United States v. Adams, 484 F. 2d 357, 361–362 (CA7
+1973). I am doubtful that warning a suspect of his “right to counsel,”
+without more, reasonably conveys a suspect’s full rights under
+Miranda, but at least such a general warning does not include the same
+sort of misleading temporal limitation as in Powell’s warning.
+9 Petitioner also cites Bridgers v. Dretke, 431 F. 3d 853 (CA5 2005), in
+which the Fifth Circuit held the Texas Court of Criminal Appeals did
+not unreasonably apply clearly established federal law in finding
+adequate a warning in which a suspect was informed that “he had the
+right to the presence of an attorney before any questioning commenced.”
+Id., at 857 (internal quotation marks omitted). But even assuming that
+warning would sufficiently apprise an individual of his right to an
+attorney’s presence during interrogation, the fact that the warning
+mentioned an attorney’s presence materially distinguishes it from the
+warning Powell received. The Fifth Circuit quoted with approval the
+
+
+——————
+state court’s assessment that warning a suspect solely that “he had the
+right to consult or speak to an attorney before questioning . . . might
+have created the [impermissible] impression that the attorney could not
+be present during interrogation.” Ibid. (internal quotation marks
+omitted).
+10 The Court supports its analysis by taking note of Powell’s testi
+mony at trial, given after the trial judge had overruled his lawyer’s
+objection that the warning he received was inadequate. In my view, the
+testimony in context is not probative of what Powell thought the
+warnings meant. It did not explore what Powell understood the warn
+ings to mean, but simply established, as a prelude to Powell’s testimony
+explaining his prior statement, that he had waived his rights. Regard
+less, the testimony is irrelevant, as the Court acknowledges. “No
+amount of circumstantial evidence that a person may have been aware
+of [the right to have a lawyer with him during interrogation] will suffice
+to stand” in the stead of an adequate warning. Miranda v. Arizona, 384
+
+
+——————
+U. S. 436, 471–472 (1966).
+
+

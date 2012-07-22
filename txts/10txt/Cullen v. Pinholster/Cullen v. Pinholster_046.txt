@@ -1,0 +1,49 @@
+Cite as: 563 U. S. ____ (2011)
+
+7
+
+SOTOMAYOR, J., dissenting
+
+quires review of the state court’s “determination of the
+facts”—more logically depends on the facts presented to
+the state court. Because this provision needs less clarifi
+cation on this point than §2254(d)(1), it is all the more
+telling that Congress included this phrase in §2254(d)(2)
+but elected to exclude it from §2254(d)(1).
+Unlike my colleagues in the majority, I refuse to assume
+that Congress simply engaged in sloppy drafting. The
+inclusion of this phrase in §2254(d)(2)—coupled with its
+omission
+from
+§2254(d)(2)’s
+partner
+provision,
+§2254(d)(1)—provides strong reason to think that Con
+gress did not intend for the §2254(d)(1) analysis to be
+limited categorically to “the evidence presented in the
+State court proceeding.”
+2
+The “ ‘broader context of the statute as a whole,’ ” ante,
+at 9 (quoting Robinson v. Shell Oil Co., 519 U. S. 337, 341
+(1997)), reinforces this conclusion. In particular, Con
+gress’ decision to include in AEDPA a provision,
+§2254(e)(2), that permits federal evidentiary hearings in
+certain circumstances provides further evidence that
+Congress did not intend to limit the §2254(d)(1) inquiry to
+the state-court record in every case.
+We have long recognized that some diligent habeas
+petitioners are unable to develop all of the facts support
+ing their claims in state court.4 As discussed above, in
+——————
+4 See, e.g., Michael Williams, 529 U. S. 420, 432 (2000) (noting that
+diligent efforts to develop the facts might be “thwarted, for example, by
+the conduct of another or by happenstance”); id., at 434 (noting that the
+prosecution might have “concealed the facts” supporting “a claim which
+was pursued with diligence”); Townsend v. Sain, 372 U. S. 293, 313
+(1963) (requiring federal courts to grant evidentiary hearings when,
+inter alia, “the fact-finding procedure employed by the state court was
+not adequate to afford a full and fair hearing” or “there is a substantial
+allegation of newly discovered evidence”), overruled in part on other
+grounds by Keeney v. Tamayo-Reyes, 504 U. S. 1, 5 (1992).
+
+

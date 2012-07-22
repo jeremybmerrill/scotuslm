@@ -1,0 +1,38 @@
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+judges would use to determine sentences imposed upon
+offenders convicted of committing federal crimes. 28
+U. S. C. §§991, 994. Congress thereby sought to increase
+transparency, uniformity, and proportionality in sentencing. United States Sentencing Commission (USSC or
+Commission), Guidelines Manual §1A1.3, p. 2 (Nov. 2011)
+(USSG); see 28 U. S. C. §§991(b)(1), 994(f).
+The Sentencing Reform Act directed the Commission to
+create in the Guidelines categories of offense behavior
+(e.g., “ ‘bank robbery/committed with a gun/$2500 taken’ ”)
+and offender characteristics (e.g., “one prior conviction”).
+USSG §1A1.2, at 1; see 28 U. S. C. §§994(a)–(e). A sentencing judge determines a Guidelines range by (1) finding
+the applicable offense level and offender category and then
+(2) consulting a table that lists proportionate sentencing ranges (e.g., 18 to 24 months of imprisonment) at the
+intersections of rows (marking offense levels) and columns
+(marking offender categories). USSG ch. 5, pt. A, Sentencing Table, §§5E1.2, 7B1.4; see also §1A1.4(h), at 11.
+The Guidelines, after telling the judge how to determine the
+applicable offense level and offender category, instruct the
+judge to apply the intersection’s range in an ordinary case,
+but they leave the judge free to depart from that range in
+an unusual case. See 18 U. S. C. §3553(b); USSG §§1A1.2,
+at 1–2, 1A1.4(b), at 6–7. This Court has held that the
+Guidelines are now advisory. United States v. Booker, 543
+U. S. 220, 245, 264 (2005); see Kimbrough v. United
+States, 552 U. S. 85, 91 (2007).
+The Guidelines determine most drug-crime offense levels in a special way. They set forth a Drug Quantity
+Table (or Table) that lists amounts of various drugs and
+associates different amounts with different “Base Offense
+Levels” (to which a judge may add or subtract levels depending upon the “specific” characteristics of the offender’s
+behavior). See USSG §2D1.1. The Table, for example,
+associates 400 to 499 grams of powder cocaine with a base
+
+

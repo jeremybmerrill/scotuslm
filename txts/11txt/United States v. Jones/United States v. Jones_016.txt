@@ -1,0 +1,37 @@
+2
+
+UNITED STATES v. JONES
+SOTOMAYOR, J., concurring
+
+that the reach of the Fourth Amendment does not “turn
+upon the presence or absence of a physical intrusion.” Id.,
+at 353. As the majority’s opinion makes clear, however,
+Katz’s reasonable-expectation-of-privacy test augmented,
+but did not displace or diminish, the common-law trespassory test that preceded it. Ante, at 8. Thus, “when the
+Government does engage in physical intrusion of a constitutionally protected area in order to obtain information,
+that intrusion may constitute a violation of the Fourth
+Amendment.” United States v. Knotts, 460 U. S. 276, 286
+(1983) (Brennan, J., concurring in judgment); see also, e.g.,
+Rakas v. Illinois, 439 U. S. 128, 144, n. 12 (1978). JUSTICE
+ALITO’s approach, which discounts altogether the constitutional relevance of the Government’s physical intrusion on
+Jones’ Jeep, erodes that longstanding protection for privacy expectations inherent in items of property that people
+possess or control. See post, at 5–7 (opinion concurring in
+judgment). By contrast, the trespassory test applied in
+the majority’s opinion reflects an irreducible constitutional
+minimum: When the Government physically invades
+personal property to gather information, a search occurs.
+The reaffirmation of that principle suffices to decide this
+case.
+Nonetheless, as JUSTICE ALITO notes, physical intrusion
+is now unnecessary to many forms of surveillance. Post, at
+9–12. With increasing regularity, the Government will be
+capable of duplicating the monitoring undertaken in this
+case by enlisting factory- or owner-installed vehicle tracking devices or GPS-enabled smartphones. See United
+States v. Pineda-Moreno, 617 F. 3d 1120, 1125 (CA9 2010)
+(Kozinski, C. J., dissenting from denial of rehearing en
+banc). In cases of electronic or other novel modes of surveillance that do not depend upon a physical invasion
+on property, the majority opinion’s trespassory test may
+provide little guidance. But “[s]ituations involving merely
+the transmission of electronic signals without trespass
+
+

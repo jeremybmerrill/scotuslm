@@ -1,0 +1,43 @@
+14
+
+DAVIS v. UNITED STATES
+Opinion of the Court
+
+defendant should obtain. See Powell v. Nevada, 511 U. S.
+79, 84 (1994) (noting that it “does not necessarily follow”
+from retroactive application of a new rule that the defen
+dant will “gain . . . relief”). Remedy is a separate, analyti
+cally distinct issue. Cf. American Trucking Assns., Inc. v.
+Smith, 496 U. S. 167, 189 (1990) (plurality opinion) (“[T]he
+Court has never equated its retroactivity principles with
+remedial principles”). As a result, the retroactive applica
+tion of a new rule of substantive Fourth Amendment law
+raises the question whether a suppression remedy applies;
+it does not answer that question. See Leon, 468 U. S., at
+906 (“Whether the exclusionary sanction is appropriately
+imposed in a particular case . . . is ‘an issue separate from
+the question whether the Fourth Amendment rights of the
+party seeking to invoke the rule were violated by police
+conduct’ ”).
+When this Court announced its decision in Gant, Davis’s
+conviction had not yet become final on direct review. Gant
+therefore applies retroactively to this case. Davis may
+invoke its newly announced rule of substantive Fourth
+Amendment law as a basis for seeking relief. See Griffith,
+supra, at 326, 328. The question, then, becomes one of
+remedy, and on that issue Davis seeks application of the
+exclusionary rule. But exclusion of evidence does not
+automatically follow from the fact that a Fourth Amend
+ment violation occurred. See Evans, 514 U. S., at 13–14.
+The remedy is subject to exceptions and applies only
+where its “purpose is effectively advanced.” Krull, 480
+U. S., at 347.
+The dissent and Davis recognize that at least some of
+the established exceptions to the exclusionary rule limit
+its availability in cases involving new Fourth Amendment
+rules. Suppression would thus be inappropriate, the
+dissent and Davis acknowledge, if the inevitable-discovery
+exception were applicable in this case. See post, at 3;
+Reply Brief for Petitioner 22 (“Doctrines such as inevitable
+
+

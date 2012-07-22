@@ -1,0 +1,39 @@
+4
+
+MARTINEZ v. RYAN
+SCALIA, J., dissenting
+
+the Court’s pretended avoidance of requiring States to appoint collateral-review counsel is a sham.3
+Of course even the appointment of state-collateralreview counsel will not guarantee that the State’s criminal
+proceeding can be concluded without years-long federal
+retrial. Appointment of counsel may, as I have said, avoid
+federal review of the adequacy of representation that
+occurred years ago, at the original trial. But since, under
+today’s opinion, the condition for exclusion of federal
+habeas is the very same condition that would apply if
+appointment of state-collateral-review counsel were constitutionally required, it will remain to be determined in
+federal habeas review whether the state-appointed counsel
+was effective. Thus, as a consequence of today’s decision
+the States will always be forced to litigate in federal habeas, for all defaulted ineffective-assistance-of-trial-counsel
+claims (and who knows what other claims), either (1) the
+validity of the defaulted claim (where collateral-review
+counsel was not appointed), or (2) the effectiveness of
+collateral-review counsel (where collateral-review counsel
+was appointed). The Court notes that many States already provide for the appointment of counsel in first col——————
+years-ago representation has been substituted for summary dismissal
+by reason of procedural default.
+3 The Court also claims, ante, at 13, that its “equitable” ruling, unlike
+a constitutional ruling, will not require “a reversal in all state collateral
+cases on direct review from state courts” where counsel has not been
+appointed. Surely the Court does not mean to suggest that an unconstitutional failure to appoint counsel on collateral review, like an
+unconstitutional failure to appoint counsel at trial, would require the
+entire conviction to be set aside. That is inconceivable. So either one of
+two things would happen: Either the reviewing state court would be
+able to inquire into prejudice (which is an improvement over having the
+federal habeas court make that inquiry, as the Court’s “equitable”
+solution requires); or else the appellate state court will remand for a
+collateral proceeding with counsel (which is, as we have said, just what
+the Court’s “equitable” ruling effectively requires anyway). So the
+Court’s “equitable” ruling is no boon to the States.
+
+

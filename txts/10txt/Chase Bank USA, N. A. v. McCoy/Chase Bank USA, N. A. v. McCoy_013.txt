@@ -1,0 +1,46 @@
+10
+
+CHASE BANK USA, N. A. v. MCCOY
+Opinion of the Court
+
+McCoy argues that the plain text of the regulation indi­
+cates that a change in the periodic rate due to such default
+is a “change in terms” requiring notice under §226.9(c)(1).
+We recognize that McCoy’s argument has some force;
+read in isolation, the language quoted above certainly
+suggests that credit card issuers must provide notice of an
+interest-rate increase imposed pursuant to cardholder
+delinquency or default. But McCoy’s analysis begs the key
+question: whether the increase actually changed a “term”
+of the Agreement that was “required to be disclosed under
+§226.6.” If not, §226.9(c)’s subsequent notice requirement
+with respect to a “change in terms” does not apply. Chase
+argues precisely this: The increase did not change a term
+in the Agreement, but merely implemented one that had
+been initially disclosed, as required. This interpretation,
+though not commanded by the text of the regulation, is
+reasonable. Section 226.6(a)(2) requires initial disclosure
+of “each periodic rate that may be used to compute the
+finance charge.” The Agreement itself discloses both the
+initial rate (Preferred rate) and the maximum rate to be
+imposed in the event of default (Non-Preferred rate). See
+Brief for Respondent 8, n. 2; Brief for Petitioner 13–14.4
+Accordingly, it is plausible to understand the Agreement
+to initially disclose “each periodic rate” to be applied to the
+account, and Chase arguably did not “change” those rates
+as a result of McCoy’s default. Instead, Chase merely
+implemented the previously disclosed term specifying the
+Non-Preferred rate.5
+——————
+4 The
+
+Pricing Schedule referred to in the Agreement is not contained
+in the case record, nor are its contents apparent from the parties’ briefs,
+but neither side disputes that it specified a maximum Non-Preferred
+rate applicable to the Agreement.
+5 We are not persuaded by McCoy’s argument that, although Chase
+did not change a “contract term” when it raised his interest rate pursu­
+ant to the terms of the Agreement, it changed a “credit term,” thereby
+triggering §226.9(c)’s notice requirement. The relevant text of Regula­
+
+

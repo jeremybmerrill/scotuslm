@@ -1,0 +1,42 @@
+8
+
+CONNICK v. THOMPSON
+Opinion of the Court
+
+United States or other person within the jurisdiction
+thereof to the deprivation of any rights, privileges, or
+immunities secured by the Constitution and laws,
+shall be liable to the party injured in an action at law,
+suit in equity, or other proper proceeding for
+redress . . . .”
+A municipality or other local government may be liable
+under this section if the governmental body itself “sub
+jects” a person to a deprivation of rights or “causes” a
+person “to be subjected” to such deprivation. See Monell v.
+New York City Dept. of Social Servs., 436 U. S. 658, 692
+(1978). But, under §1983, local governments are responsi
+ble only for “their own illegal acts.” Pembaur v. Cincin
+nati, 475 U. S. 469, 479 (1986) (citing Monell, 436 U. S., at
+665–683). They are not vicariously liable under §1983 for
+their employees’ actions. See id., at 691; Canton, 489
+U. S., at 392; Board of Comm’rs of Bryan Cty. v. Brown,
+520 U. S. 397, 403 (1997) (collecting cases).
+Plaintiffs who seek to impose liability on local govern
+ments under §1983 must prove that “action pursuant to
+official municipal policy” caused their injury. Monell, 436
+U. S., at 691; see id., at 694. Official municipal policy
+includes the decisions of a government’s lawmakers, the
+acts of its policymaking officials, and practices so persis
+tent and widespread as to practically have the force of law.
+See ibid.; Pembaur, supra, at 480–481; Adickes v. S. H.
+Kress & Co., 398 U. S. 144, 167–168 (1970). These are
+“action[s] for which the municipality is actually responsi
+ble.” Pembaur, supra, at 479–480.
+In limited circumstances, a local government’s decision
+not to train certain employees about their legal duty to
+avoid violating citizens’ rights may rise to the level of an
+official government policy for purposes of §1983. A mu
+nicipality’s culpability for a deprivation of rights is at its
+most tenuous where a claim turns on a failure to train.
+
+

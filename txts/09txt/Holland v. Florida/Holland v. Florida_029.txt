@@ -1,0 +1,43 @@
+4
+
+HOLLAND v. FLORIDA
+Opinion of ALITO, J.
+
+While Lawrence addressed an allegation of attorney
+miscalculation, its rationale fully applies to other forms of
+attorney negligence. Instead of miscalculating the filing
+deadline, for example, an attorney could compute the
+deadline correctly but forget to file the habeas petition on
+time, mail the petition to the wrong address, or fail to do
+the requisite research to determine the applicable dead
+line. In any case, however, counsel’s error would be con
+structively attributable to the client.
+Second, the mere fact that a missed deadline involves
+“gross negligence” on the part of counsel does not by itself
+establish an extraordinary circumstance. As explained
+above, the principal rationale for disallowing equitable
+tolling based on ordinary attorney miscalculation is that
+the error of an attorney is constructively attributable to
+the client and thus is not a circumstance beyond the liti
+gant’s control. See Lawrence, supra, at 336–337; Coleman,
+supra, at 752–754; see also Powell v. Davis, 415 F. 3d 722,
+727 (CA7 2005); Johnson v. McBride, 381 F. 3d 587, 589–
+590 (CA7 2004); Harris v. Hutchinson, 209 F. 3d 325, 330
+(CA4 2000). That rationale plainly applies regardless
+whether the attorney error in question involves ordinary
+or gross negligence. See Coleman, 501 U. S., at 754 (“[I]t
+is not the gravity of the attorney’s error that matters, but
+that it constitutes a violation of petitioner’s right to coun
+sel, so that the error must be seen as an external factor,
+i.e., ‘imputed to the State’ ”); id., at 752 (rejecting the
+contention that “[t]he late filing was . . . the result of
+attorney error of sufficient magnitude to excuse the de
+fault in federal habeas”).
+Allowing equitable tolling in cases involving gross
+rather than ordinary attorney negligence would not only
+fail to make sense in light of our prior cases; it would also
+be impractical in the extreme. Missing the statute of
+limitations will generally, if not always, amount to negli
+gence, see Lawrence, 549 U. S., at 336, and it has been
+
+

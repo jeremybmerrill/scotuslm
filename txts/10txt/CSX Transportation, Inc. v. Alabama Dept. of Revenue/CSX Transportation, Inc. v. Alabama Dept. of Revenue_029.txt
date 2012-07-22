@@ -1,0 +1,46 @@
+Cite as: 562 U. S. ____ (2011)
+
+7
+
+THOMAS, J., dissenting
+
+Widespread exemptions could theoretically cause a facially
+general tax to target railroads, but the limited exemptions
+at issue here do not suggest that, and CSX has not argued
+it.2 Accordingly, CSX has not stated a cognizable claim for
+discrimination under §11501(b)(4).
+II
+The Court does not settle the ambiguity in the word
+“discriminates” in subsection (b)(4)—leaving open both the
+appropriate comparison class and the type of differential
+treatment required to constitute discrimination.3 The
+majority “hold[s] only that §11501(b)(4) enables a railroad
+to challenge an excise or other non-property tax as dis
+criminatory on the basis of the tax scheme’s exemptions.”
+Ante, at 10, n. 8. Thus, when the majority says that “a
+state excise tax that applies to railroads but exempts their
+interstate competitors is subject to challenge under sub
+section (b)(4),” ante, at 10, it must mean only that a tax
+exemption scheme could potentially violate subsection
+(b)(4).
+As I understand it, the majority does not decide whether
+——————
+2 Although the majority rightly observes that whether a given tax is
+discriminatory may often be a difficult question, see ante, at 19, this is
+not a close case. I therefore need not define the exact boundaries of
+what constitutes targeting or singling out. See, e.g., Norfolk Southern
+R. Co. v. Alabama Dept. of Revenue, 550 F. 3d 1306, 1316, n. 16 (CA11
+2008) (listing examples of courts finding railroads targeted by various
+state tax schemes).
+3 The majority declines to reach the comparison class issue. But the
+question presented was: “Whether a State’s exemptions of rail carrier
+competitors, but not rail carriers, from generally applicable sales and
+use taxes on fuel subject the taxes to challenge under 49 U. S. C.
+§11501(b)(4) as ‘another tax that discriminates against a rail carrier.’ ”
+The question presented thus asks whether CSX can challenge a “gener
+ally applicable” tax based on exemptions granted to rail competitors—a
+straightforward comparison class issue. The lower courts have split
+over the proper scope of the comparison class, and the issue was pre
+sented in this case. I would decide it.
+
+

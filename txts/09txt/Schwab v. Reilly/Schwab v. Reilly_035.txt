@@ -1,0 +1,47 @@
+8
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+B
+The Court’s account, however, shuts from sight the vital
+part played by the fourth entry on Schedule C—current
+market value—when a capped exemption is claimed. A
+debtor who estimates a market value below the cap, and
+lists an identical amount as the value of her claimed ex­
+emption, thereby signals that her aim is to keep the listed
+property in her possession, outside the estate-in­
+bankruptcy. In contrast, a debtor who estimates a market
+value above the cap, and above the value of her claimed
+exemption, thereby recognizes that she cannot shelter the
+property itself and that the trustee may seek to sell it for
+whatever it is worth.7 Schedule C’s final column, in other
+words, alerts the trustee whether the debtor is claiming a
+right to retain the listed property itself as her own, a right
+secured to her if the trustee files no timely objection.8
+Because an asset’s market value is key to determining
+——————
+7 By authorizing exemption of assets that a debtor would want to
+keep in kind, such as her jewelry and car, but limiting the exemptible
+value of this property, Congress struck a balance between debtors’
+and creditors’ interests: Debtors can reclaim items helpful to their
+fresh start after bankruptcy, but only if those items are of modest
+value. Assets of larger worth, however, are subject to liquidation so
+that creditors may obtain a portion of the item’s value. Cf. In re Price,
+370 F. 3d 362, 378 (CA3 2004) (“[B]ankruptcy law is bilateral, replete
+with protections and policy considerations favoring both debtors and
+creditors.”).
+8 The significance of market value is what differentiates capped ex­
+emptions from uncapped ones that permit debtors to exempt certain
+property in kind regardless of its worth. See supra, at 7, n. 5. For
+uncapped exemptions, the nature of the property the debtor has re­
+claimed is clear: If the exemption is valid, the debtor gets the asset in
+full every time. For capped exemptions, however, market value is a
+crucial component in determining whether the debtor gets the item
+itself or a sum of money representing a share of the item’s liquidation
+value. Reading Bankruptcy Rule 4003(b) to require objections to
+valuation thus does not, as the Court contends, “elid[e] the distinction”
+between capped and uncapped exemptions, ante, at 12 (emphasis
+added), but instead accounts for that distinction.
+
+

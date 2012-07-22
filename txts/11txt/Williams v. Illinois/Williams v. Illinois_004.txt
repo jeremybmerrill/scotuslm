@@ -1,0 +1,38 @@
+4
+
+WILLIAMS v. ILLINOIS
+Syllabus
+cepted for their truth, and that an expert’s opinion is only as good as
+the independent evidence establishing its underlying premises.
+Fourth, if the prosecution cannot muster independent admissible evidence to prove foundational facts, the expert’s testimony cannot be
+given weight by the trier of fact. Pp. 25–27.
+(e) Even if Cellmark’s report had been introduced for its truth,
+there would have been no Confrontation Clause violation. The
+Clause refers to testimony by “witnesses against” an accused, prohibiting modern-day practices that are tantamount to the abuses that
+gave rise to the confrontation right, namely, (a) out-of-court statements having the primary purpose of accusing a targeted individual
+of engaging in criminal conduct, and (b) formalized statements such
+as affidavits, depositions, prior testimony, or confessions. These
+characteristics were present in every post-Crawford case in which a
+Confrontation Clause violation has been found, except for Hammon v.
+Indiana, 547 U. S. 813. But, even in Hammon, the particular statement, elicited during police interrogation, had the primary purpose of
+accusing a targeted individual. A person who makes a statement to
+resolve an ongoing emergency is not like a trial witness because the
+declarant’s purpose is to bring an end to an ongoing threat. Michigan
+v. Bryant, 562 U. S. ___, ___. Such a statement’s admissibility “is the
+concern of . . . rules of evidence, not the Confrontation Clause. ” Id.,
+___–___ . The forensic reports in Melendez-Diaz and Bullcoming ran
+afoul of the Confrontation Clause because they were the equivalent of
+affidavits made for the purpose of proving a particular criminal defendant’s guilt. But the Cellmark report’s primary purpose was to
+catch a dangerous rapist who was still at large, not to obtain evidence
+for use against petitioner, who was neither in custody nor under suspicion at that time. Nor could anyone at Cellmark possibly know
+that the profile would inculpate petitioner. There was thus no “prospect of fabrication” and no incentive to produce anything other than
+a scientifically sound and reliable profile. Bryant, supra, at ___, ___.
+Lab technicians producing a DNA profile generally have no way of
+knowing whether it will turn out to be incriminating, exonerating, or
+both. And with numerous technicians working on a profile, it is likely that each technician’s sole purpose is to perform a task in accordance with accepted procedures. The knowledge that defects in a DNA
+profile may be detected from the profile itself provides a further safeguard. Pp. 28–33.
+JUSTICE THOMAS concluded that the disclosure of Cellmark’s out-ofcourt statements through Lambatos’ expert testimony did not violate
+the Confrontation Clause solely because Cellmark’s statements
+lacked the requisite “formality and solemnity” to be considered “ ‘testimonial,’ ” see Michigan v. Bryant, 562 U. S. ___, ___ (THOMAS, J.,
+
+

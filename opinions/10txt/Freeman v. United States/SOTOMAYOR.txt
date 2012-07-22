@@ -1,0 +1,118 @@
+SOTOMAYOR, J., concurring in judgment No. 09–10245 [June 23, 2011]  JUSTICE SOTOMAYOR, concurring in the judgment. I agree with the plurality that petitioner William Free man is eligible for sentence reduction under 18 U. S. C. §3582(c)(2), but I differ as to the reason why. In my view, the term of imprisonment imposed by a district court pursuant to an agreement authorized by Federal Rule of Criminal Procedure 11(c)(1)(C) ((C) agreement) is “based on” the agreement itself, not on the judge’s calculation of the Sentencing Guidelines. However, I believe that if a (C) agreement expressly uses a Guidelines sentencing range applicable to the charged offense to establish the term of imprisonment, and that range is subsequently lowered by the United States Sentencing Commission, the term of imprisonment is “based on” the range employed and the defendant is eligible for sentence reduction under §3582(c)(2). To ask whether a particular term of imprisonment is “based on” a Guidelines sentencing range is to ask whether that range serves as the basis or foundation for the term of imprisonment. No term of imprisonment—
+SOTOMAYOR, J., concurring in judgment whether derived from a (C) agreement or otherwise—has legal effect until the court enters judgment imposing it. As a result, in applying §3582(c)(2) a court must discern the foundation for the term of imprisonment imposed by the sentencing judge. As the plurality explains, in the normal course the district judge’s calculation of the Guide lines range applicable to the charged offenses will serve as the basis for the term of imprisonment imposed. See ante, Sentencing under (C) agreements, however, is different. At the time of sentencing, the term of imprisonment im posed pursuant to a (C) agreement does not involve the court’s independent calculation of the Guidelines or con sideration of the other 18 U. S. C. §3553(a) factors. The court may only accept or reject the agreement, and if it chooses to accept it, at sentencing the court may only impose the term of imprisonment the agreement calls for; the court may not change its terms. See Fed. Rule Crim. Proc. 11(c)(3)(A) (“To the extent the plea agreement is of the type specified in [Rule 11(c)(1)(C)], the court may accept the agreement, reject it, or defer a decision until the court has reviewed the presentence report”); Advisory Committee’s Notes on 1979 Amendments to Fed. Rule Crim. Proc. 11, 18 U. S. C. App., pp. 583–584 (1982 ed.) (“[C]ritical to a . . . (C) agreement is that the defendant receive the . . . agreed-to sentence”); accord, United States In the (C) agreement context, therefore, it is the binding plea agreement that is the foundation for the term of im prisonment to which the defendant is sentenced. At the moment of sentencing, the court simply implements the terms of the agreement it has already accepted. Contrary to the plurality’s view, see ante, at 5–6, the fact that USSG Guidelines as a yardstick in deciding whether to accept a
+SOTOMAYOR, J., concurring in judgment (C) agreement does not mean that the term of imprison ment imposed by the court is “based on” a particular Guidelines sentencing range. The term of imprisonment imposed by the sentencing judge is dictated by the terms of the agreement entered into by the parties, not the judge’s Guidelines calculation. In short, the term of im prisonment imposed pursuant to a (C) agreement is, for purposes of §3582(c)(2), “based on” the agreement itself. To hold otherwise would be to contravene the very pur pose of (C) agreements—to bind the district court and allow the Government and the defendant to determine what sentence he will receive. Although district courts ordinarily have significant discretion in determining the appropriate sentence to be imposed on a particular defen dant, see Gall, 552 U. S., at 46, under Rule 11(c)(1)(C) it is the parties’ agreement that determines the sentence to be imposed, see Advisory Committee’s Notes on 1999 Amendments to Fed. Rule Crim. Proc. 11, 18 U. S. C. App., p. 1570 (2000 ed.) (noting that, under a (C) agreement, “the government and defense have actually agreed on what amounts to an appropriate sentence . . . . [T]his agreement is binding on the court once the court accepts it”). To be sure, the court “retains absolute discretion whether to accept a plea agreement,” ibid., but once it does it is bound at sentencing to give effect to the parties’ agreement as to the appropriate term of imprisonment. Allowing district courts later to reduce a term of im prisonment simply because the court itself considered the Guidelines in deciding whether to accept the agree ment would transform §3582(c)(2) into a mechanism by which courts could rewrite the terms of (C) agreements in ways not contemplated by the parties. At the time that §3582(c)(2) was enacted in 1984, it was already well un derstood that, under Rule 11, the term of imprisonment stipulated in a (C) agreement bound the district court once it accepted the agreement. See Fed. Rule Crim. Proc.
+SOTOMAYOR, J., concurring in judgment 11(e)(1) (1982) (specifying that the parties to a (C) agree ment may “agree that a specific sentence is the appropri F. 2d 387, 389, n. 2 (CA11 1983) (per curiam) (noting that a Rule 11(e)(1)(C) plea agreement was a “ ‘binding’ plea bargain”).1 In the absence of any indication from the statutory text or legislative history that §3582(c)(2) was meant to fun damentally alter the way in which Rule 11(c)(1)(C) oper ates, I cannot endorse the plurality’s suggestion that §3582(c)(2) should be understood “to permit the district court to revisit a prior sentence to whatever extent the sentencing range in question was a relevant part of the analytic framework the judge used to determine the sen tence or to approve the agreement.” Ante, at 6; cf. Dillon (“Congress intended [§3582(c)(2)] to authorize only a limited adjustment to an otherwise final sentence”). By the same token, the mere fact that the parties to a (C) agreement may have considered the Guidelines in the course of their negotiations does not empower the court under §3582(c)(2) to reduce the term of imprisonment they ultimately agreed upon, as Freeman argues. Undoubt edly, he is correct that in most cases the Government and the defendant will negotiate the term of imprisonment in a (C) agreement by reference to the applicable Guidelines provisions. See Brief for Petitioner 30–31 (“[T]he Guide lines are . . . the starting point and initial benchmark for plea negotiations”); Brief for United States 33 (noting the “concededly strong likelihood that the parties will . . . calculat[e] and conside[r] potential Guidelines ranges in
+SOTOMAYOR, J., concurring in judgment the course of negotiating a plea agreement and selecting a specific sentence”). This only makes sense; plea bargain ing necessarily occurs in the shadow of the sentencing scheme to which the defendant would otherwise be sub (2005) (“[P]lea bargaining takes place in the shadow of . . . a potential trial” (emphasis deleted)). The term of imprisonment imposed by the district court, however, is not “based on” those background negotiations; instead, as explained above, it is based on the binding agreement produced by those negotiations. I therefore cannot agree with Freeman that §3582(c)(2) calls upon district courts to engage in a free-ranging search through the parties’ negotiating history in search of a Guidelines sentencing range that might have been relevant to the agreement or the court’s acceptance of it. Nor can I agree with the plurality that the district judge’s calculation of the Guidelines provides the basis for the term of impris onment imposed pursuant to a (C) agreement. These conclusions, however, do not mean that a term of imprisonment imposed pursuant to a (C) agreement can never be reduced under §3582(c)(2), as the Government contends. For example, Rule 11(c)(1)(C) allows the parties to “agree that a specific . . . sentencing range is the appro priate disposition of the case.” In delineating the agreed upon term of imprisonment, some (C) agreements may call for the defendant to be sentenced within a particular Guidelines sentencing range. In such cases, the district court’s acceptance of the agreement obligates the court to sentence the defendant accordingly, and there can be no doubt that the term of imprisonment the court imposes is “based on” the agreed-upon sentencing range within the meaning of §3582(c)(2). If that Guidelines range is sub sequently lowered by the Sentencing Commission, the de
+SOTOMAYOR, J., concurring in judgment fendant is eligible for sentence reduction. Similarly, a plea agreement might provide for a specific term of imprisonment—such as a number of months—but also make clear that the basis for the specified term is a Guidelines sentencing range applicable to the offense to which the defendant pleaded guilty. As long as that sentencing range is evident from the agreement itself, for purposes of §3582(c)(2) the term of imprisonment imposed by the court in accordance with that agreement is “based on” that range. Therefore, when a (C) agreement ex pressly uses a Guidelines sentencing range to establish the term of imprisonment, and that range is subsequently lowered by the Commission, the defendant is eligible for sentence reduction under §3582(c)(2).2 In so holding, I necessarily reject the categorical rule advanced by the Government and endorsed by the dissent, which artificially divorces a (C) agreement from its ex press terms.3 Because the very purpose of a (C) agreement
+SOTOMAYOR, J., concurring in judgment is to allow the parties to determine the defendant’s sen tence, when the agreement itself employs the particular Guidelines sentencing range applicable to the charged offenses in establishing the term of imprisonment, the defendant is eligible to have his sentence reduced under §3582(c)(2).4 In such cases, the district court’s reduction of the sentence does not rewrite the plea agreement; instead, it enforces the agreement’s terms. Like the plurality, I am not persuaded by the Govern ment’s argument that allowing a term of imprisonment imposed pursuant to a (C) agreement to be reduced under §3582(c)(2) deprives the Government of the benefit of the bargain it struck with the defendant. When a (C) agree ment explicitly employs a particular Guidelines sentenc ing range to establish the term of imprisonment, the agreement itself demonstrates the parties’ intent that the imposed term of imprisonment will be based on that range, as required for sentence reduction under the stat ute.5 The Government’s concern that application of
+SOTOMAYOR, J., concurring in judgment §3582(c)(2) to (C) agreements will result in certain defen dants receiving an “unjustified windfall” is therefore mis placed. See Brief for United States 40, 43. Furthermore, in cases where the Government believes that even the limited sentence reduction authorized by §3582(c)(2) and USSG §1B1.10 improperly benefits the defendant, it can argue to the district court that the court should not exercise its discretion under the statute to reduce the sentence.6 See Dillon, 560 U. S., at ___ (slip op., at 9) (noting that, in applying §3582(c)(2), the court must “consider whether the authorized reduction is war ranted, either in whole or in part, according to the factors set forth in [18 U. S. C.] §3553(a)”). Finally, if the Government wants to ensure ex ante that a particular defendant’s term of imprisonment will not be reduced later, the solution is simple enough: Nothing prevents the Government from negotiating with a defen dant to secure a waiver of his statutory right to seek sen tence reduction under §3582(c)(2), just as it often does with respect to a defendant’s rights to appeal and collater ally attack the conviction and sentence.7 See 18 U. S. C. §3742; 28 U. S. C. §2255 (2006 ed., Supp. III); see also App. 28a–29a (provision in Freeman’s agreement ex pressly waiving both rights). In short, application of
+SOTOMAYOR, J., concurring in judgment §3582(c)(2) to an eligible defendant does not—and will not—deprive the Government of the benefit of its bargain. In order to conclude that Freeman is eligible for sen tence reduction under §3582(c)(2), the plea agreement between Freeman and the Government must use a Guide lines sentencing range that has subsequently been low ered by the Sentencing Commission to establish the term of imprisonment imposed by the District Court. Free man’s agreement does. The agreement states that Freeman “agrees to have his sentence determined pursuant to the Sentencing Guide lines,” App. 28a, and that 106 months is the total term of imprisonment to be imposed, id., at 26a. The agreement also makes clear that the §924(c)(1)(A) count to which Freeman agrees to plead guilty carries a minimum sen tence of 60 months, “which must be served consecutively to” any other sentence imposed. Id., at 27a. This leaves 46 months unaccounted for. The agreement sets Free man’s offense level at 19, as determined by the quantity of drugs and his acceptance of responsibility, and states that the parties anticipate a criminal history category of IV. Id., at 27a–28a. Looking to the Sentencing Guidelines, an offense level of 19 and a criminal history category of IV produce a sentencing range of 46 to 57 months.8 See USSG ch. 5, pt. A (sentencing table). Therefore, contrary to the dissent’s curious suggestion that “there is no way of knowing what th[e] sentence was ‘based on,’ ” post, at 6, it is evident that Freeman’s agreement employed the
+SOTOMAYOR, J., concurring in judgment 46-month figure at the bottom end of this sentencing range, in combination with the 60-month mandatory minimum sentence under §924(c)(1)(A), to establish his 106-month sentence.9 Thus the first of §3582(c)(2)’s conditions is satisfied—Freeman’s term of imprisonment is “based on” a Guidelines sentencing range. In 2007 the Commission amended the Guidelines provi sions applicable to cocaine base offenses, such that the offense level applicable to the quantity of drugs for which Freeman was charged was lowered from 22 to 20. See App. 142a–143a (Sealed); USSG Supp. App. C, Amdt. 706. Taking into account the three-level reduction for accep tance of responsibility, Freeman’s recalculated offense level is 17, resulting in an amended sentencing range of 37 to 46 months. Thus there can be no doubt that the Guide lines sentencing range originally used to establish Free man’s term of imprisonment “has subsequently been
+SOTOMAYOR, J., concurring in judgment lowered by the Sentencing Commission,” §3582(c)(2), such that the amendment “ha[s] the effect of lowering [Free man’s] applicable guideline range,” §1B1.10(a)(2)(B). As a result, Freeman’s term of imprisonment satisfies the second of §3582(c)(2)’s conditions. I therefore concur in the plurality’s judgment that he is eligible for sentence reduction.
+——————
+1 Prior
+
+to 2002, Rule 11’s provisions governing binding plea agree
+ments were located in Rule 11(e)(1)(C). In substance they were largely
+identical to the current rules in 11(c)(1)(C). See Fed. Rule Crim. Proc.
+11(e)(1)(C) (2000).
+
+
+——————
+2 The
+
+dissent suggests that this rule results from a “mistaken shift in
+analysis” in this opinion from the actions of the judge to the intent of
+the parties. See post, at 4 (opinion of ROBERTS, C. J.). The purpose of a
+(C) agreement, however, is to bind the sentencing court to the terms
+agreed upon by the parties. See supra, at 3–4. Therefore, to determine
+whether a sentence imposed pursuant to a (C) agreement was “based
+on” a Guidelines sentencing range, the reviewing court must necessar
+ily look to the agreement itself.
+3 The majority of the Courts of Appeals to have addressed this ques
+tion have taken approaches consistent with the one I take today. See
+United States v. Rivera-Martínez, 607 F. 3d 283, 286–287 (CA1 2010);
+United States v. Ray, 598 F. 3d 407, 409–410 (CA7 2010); United States
+v. Main, 579 F. 3d 200, 203 (CA2 2009); United States v. Scurlark, 560
+F. 3d 839, 842–843 (CA8 2009). It appears that only the Third Circuit
+has applied the absolute rule advanced by the Government. See United
+States v. Sanchez, 562 F. 3d 275, 282, and n. 8 (2009). As noted by the
+plurality, see ante, at 1, even the Sixth Circuit allows for sentence
+reduction “to avoid a miscarriage of justice or to correct a mutual
+mistake,” United States v. Peveler, 359 F. 3d 369, 378, n. 4 (2004) (in
+ternal quotation marks omitted). And only two Courts of Appeals
+have adopted a wide-ranging approach similar to the one suggested by
+
+
+——————
+Freeman. See United States v. Garcia, 606 F. 3d 209, 214 (CA5 2010)
+(per curiam); United States v. Cobb, 584 F. 3d 979, 985 (CA10 2009).
+4 The dissent contends that, even when a (C) agreement expressly
+uses a Guidelines sentencing range to establish the term of imprison
+ment, the district court imposing a sentence pursuant to that agree
+ment does not “appl[y]” that range within the meaning of the appli
+cable Guidelines policy statement. See post, at 4–5 (citing USSG
+§1B1.10(b)(1) (Nov. 2010)). But in so arguing, the dissent—like the
+Government—would have courts ignore the agreement’s express terms,
+which the court “applie[s]” when imposing the term of imprisonment.
+5 The plurality asserts that “[t]here is no good reason to extend the
+benefit [of sentence reduction] only to an arbitrary subset of defendants
+. . . based on whether their plea agreements refer to the Guidelines.”
+Ante, at 10. But the “good reason” is evident: Rule 11(c)(1)(C)’s entire
+purpose is to allow the parties’ intent to determine sentencing out
+comes. See supra, at 3–4. If a (C) agreement does not indicate the
+parties’ intent to base the term of imprisonment on a particular Guide
+lines range subsequently lowered by the Commission, then §3582(c)(2)
+simply does not apply.
+
+
+——————
+6 For example, the district court might decline to reduce the term of
+imprisonment of an eligible defendant in light of the Government’s
+argument that it made significant concessions in the agreement—such
+as dropping a charge or forgoing a future charge—and therefore it
+would not have agreed to a lower sentence at the time the agreement
+was made.
+7 The opposite would not necessarily be true, however, under the
+reading of §3582(c)(2) proposed by the Government and the dissent. If
+a district court has no statutory authority to reduce a term of impris
+onment imposed pursuant to a (C) agreement—because such a term is
+never “based on” a Guidelines sentencing range within the meaning of
+§3582(c)(2)—it is not clear how the parties could effectively confer that
+authority upon the court by the terms of their agreement.
+
+
+——————
+8 Because it is the parties’ agreement that controls in the (C) agree
+ment context, see supra, at 3–4, even if the District Court had calcu
+lated the range differently than the parties, see post, at 8 (ROBERTS,
+C. J., dissenting), Freeman would still be eligible for resentencing, as
+long as the parties’ chosen range was one that was “subsequently . . .
+lowered by the Sentencing Commission,” §3582(c)(2).
+
+
+——————
+9 The dissent asks whether Freeman would be eligible for sentence
+reduction if the agreement had called for a 53-month term of impris
+onment. See post, at 7. Though that question is not presented by the
+facts of this case, the answer is evident from the foregoing discussion: If
+the agreement itself made clear that the parties arrived at the 53
+month term of imprisonment by determining the sentencing range ap
+plicable to Freeman’s offenses and then halving the 106-month figure
+at its low end, he would have been eligible under §3582(c)(2). See
+United States v. Franklin, 600 F. 3d 893, 897 (CA7 2010) (noting that a
+(C) agreement would not foreclose relief under §3582(c)(2) if it provided
+that the term of imprisonment was to be 40 percent below the low end
+of the applicable sentencing range).
+Of course, if a (C) agreement “does not contain any references to the
+Guidelines,” post, at 8 (ROBERTS, C. J., dissenting), there is no way of
+knowing whether the agreement “use[d] a Guidelines sentencing range
+to establish the term of imprisonment,” supra, at 6, and a prisoner
+sentenced under such an agreement would not be eligible. It is there
+fore unclear why the dissent believes that the straightforward inquiry
+called for by the rule I apply today will “foster confusion” among the
+lower courts. Post, at 7. This approach is consistent with the one
+already taken by most Courts of Appeals, see n. 3, supra, and there
+is no indication that they have found it unpalatable, cf. post, at 9.
+
+

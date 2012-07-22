@@ -1,0 +1,44 @@
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+be understood to prefigure abuse. As used in §526(a)(4),
+however, we think the phrase refers to a specific type of
+misconduct designed to manipulate the protections of the
+bankruptcy system. In light of our decision in Pender, and
+in context of other sections of the Code, we conclude that
+§526(a)(4) prohibits a debt relief agency only from advising
+a debtor to incur more debt because the debtor is filing for
+bankruptcy, rather than for a valid purpose.
+Pender addressed the meaning of former §96(d), which
+authorized reexamination of a debtor’s payment of attor
+ney’s fees “in contemplation of the filing of a petition.”
+Recognizing “ ‘the temptation of a failing debtor to deal too
+liberally with his property in enabling counsel to protect
+him,’ ” 289 U. S., at 478 (quoting In re Wood & Henderson,
+210 U. S. 246, 253 (1908)), we read “in contemplation of
+. . . filing” in that context to require that the portended
+bankruptcy have “induce[d]” the transfer at issue, 289
+U. S., at 477, understanding inducement to engender
+suspicion of abuse. In so construing the statute, we identi
+fied the “controlling question” as “whether the thought of
+bankruptcy was the impelling cause of the transaction.”
+Ibid. Given the substantial similarities between §§96(d)
+and 526(a)(4), we think the controlling question under the
+latter provision is likewise whether the impelling reason
+for “advis[ing] an assisted person . . . to incur more debt”
+was the prospect of filing for bankruptcy.
+To be sure, there are relevant differences between the
+provision at issue in Pender and the one now under re
+view. Most notably, the inquiry in Pender was as to pay
+ments made on the eve of bankruptcy, whereas §526(a)(4)
+regards advice to incur additional debts. Consistent with
+that difference, under §96(d) a finding that a payment was
+made “in contemplation of” filing resolved only a threshold
+inquiry triggering further review of the reasonableness of
+the payment; the finding thus supported an inference of
+abuse but did not conclusively establish it. By contrast,
+
+

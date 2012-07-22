@@ -1,0 +1,48 @@
+Cite as: 565 U. S. ____ (2012)
+
+1
+
+ALITO, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–1259
+_________________
+
+UNITED STATES, PETITIONER v. ANTOINE JONES
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+[January 23, 2012]
+
+
+
+
+JUSTICE ALITO, with whom JUSTICE GINSBURG, JUSTICE
+BREYER, and JUSTICE KAGAN join, concurring in the
+judgment.
+This case requires us to apply the Fourth Amendment’s
+prohibition of unreasonable searches and seizures to a
+21st-century surveillance technique, the use of a Global Positioning System (GPS) device to monitor a vehicle’s movements for an extended period of time. Ironically, the Court
+has chosen to decide this case based on 18th-century
+tort law. By attaching a small GPS device1 to the underside of the vehicle that respondent drove, the law enforcement officers in this case engaged in conduct that might
+have provided grounds in 1791 for a suit for trespass
+to chattels.2 And for this reason, the Court concludes,
+the installation and use of the GPS device constituted
+a search. Ante, at 3–4.
+——————
+1 Although the record does not reveal the size or weight of the device
+used in this case, there is now a device in use that weighs two ounces
+and is the size of a credit card. Tr. of Oral Arg. 27.
+2 At common law, a suit for trespass to chattels could be maintained if
+there was a violation of “the dignitary interest in the inviolability of
+chattels,” but today there must be “some actual damage to the chattel
+before the action can be maintained.” W. Keeton, D. Dobbs, R. Keeton,
+& D. Owen, Prosser & Keeton on Law of Torts 87 (5th ed. 1984) (hereinafter Prosser & Keeton). Here, there was no actual damage to the
+vehicle to which the GPS device was attached.
+
+

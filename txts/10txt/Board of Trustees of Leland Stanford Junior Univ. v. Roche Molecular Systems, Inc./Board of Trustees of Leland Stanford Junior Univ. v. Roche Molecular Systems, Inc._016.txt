@@ -1,0 +1,48 @@
+12
+
+BOARD OF TRUSTEES OF LELAND STANFORD JUNIOR
+UNIV. v. ROCHE MOLECULAR SYSTEMS, INC.
+Opinion of the Court
+
+§210(a), applies only to “subject inventions”—“inventions
+of the contractor”—it does not displace an inventor’s ante
+cedent title to his invention. Only when an invention
+belongs to the contractor does the Bayh-Dole Act come into
+play. The Act’s disposition of rights—like much of the
+rest of the Bayh-Dole Act—serves to clarify the order of
+priority of rights between the Federal Government and a
+federal contractor in a federally funded invention that
+already belongs to the contractor. Nothing more.5
+The isolated provisions of the Bayh-Dole Act dealing
+with inventors’ rights in subject inventions are consistent
+with our construction of the Act. Under the Act, a federal
+agency may “grant requests for retention of rights by the
+inventor . . . [i]f a contractor does not elect to retain title to
+a subject invention.” §202(d). If an employee inventor
+never had title to his invention because title vested in the
+contractor by operation of law—as Stanford submits—it
+would be odd to allow the Government to grant “requests
+for retention of rights by the inventor.” By using the word
+“retention,” §202(d) assumes that the inventor had rights
+in the subject invention at some point, undermining the
+notion that the Act automatically vests title to federally
+funded inventions in federal contractors.6
+——————
+5 Far
+
+from superseding the Patent Act in such a backhanded way, it is
+clear that §210(a)’s concern is far narrower. That provision specifies 21
+different statutory provisions that the Bayh-Dole Act “take[s] prece
+dence over,” the vast majority of which deal with the division of owner
+ship in certain inventions between a contractor and the Government.
+35 U. S. C. §§210(a)(1)–(21); see, e.g., §§210(a)(19)–(20) (the Bayh-Dole
+Act takes precedence over “section 6(b) of the Solar Photovoltaic Energy
+Research Development and Demonstration Act” and “section 12 of the
+Native Latex Commercialization and Economic Development Act”).
+6 Stanford contends that it cannot be the case “that the contractor can
+only ‘retain title’ to an invention that it already owns, while an inventor
+may be considered for ‘retention’ of title only when he has assigned title
+away.” Reply Brief for Petitioner 8. That argument has some force.
+But there may be situations where an inventor, by the terms of an
+
+

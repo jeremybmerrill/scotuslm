@@ -1,0 +1,46 @@
+16
+
+MICROSOFT CORP. v. i4i LTD. PARTNERSHIP
+Opinion of the Court
+
+depart from that understanding to enact a standard of
+proof that would rise and fall with the facts of each
+case. Indeed, had Congress intended to drop the heightened
+standard of proof where the evidence before the jury var
+ied from that before the PTO—and thus to take the un
+usual and impractical step of enacting a variable standard
+of proof that must itself be adjudicated in each case, cf.
+Santosky v. Kramer, 455 U. S. 745, 757 (1982)10—we as
+sume it would have said so expressly.
+To be sure, numerous courts of appeals in the years
+preceding the 1952 Act observed that the presumption of
+validity is “weakened” or “dissipated” in the circumstance
+that the evidence in an infringement action was never
+considered by the PTO. See Jacuzzi Bros., Inc. v. Berkeley
+Pump Co., 191 F. 2d 632, 634 (CA9 1951) (“largely dissi
+pated”); H. Schindler & Co. v. C. Saladino & Sons, 81
+F. 2d 649, 651 (CA1 1936) (“weakened”); Gillette Safety
+Razor Co. v. Cliff Weil Cigar Co., 107 F. 2d 105, 107 (CA4
+1939) (“greatly weakened”); Butler Mfg. Co. v. Enterprise
+Cleaning Co., 81 F. 2d 711, 716 (CA8 1936) (“weakened”).
+But we cannot read these cases to hold or even to suggest
+that a preponderance standard would apply in such cir
+——————
+10 Not the least of the impracticalities of such an approach arises from
+the fact that whether a PTO examiner considered a particular reference
+will often be a question without a clear answer. In granting a patent,
+an examiner is under no duty to cite every reference he considers. 1
+Dept. of Commerce, PTO, Manual of Patent Examining Procedure
+§904.03, p. 900–51 (8th rev. ed. 2010) (“The examiner is not called upon
+to cite all references that may be available, but only the ‘best.’ Multiply
+ing references, any one of which is as good as, but no better than, the
+others, adds to the burden and cost of prosecution and should therefore
+be avoided” (emphasis deleted)); Manual of Patent Examining Proce
+dure §904.02, p. 129 (1st rev. ed. 1952) (same), http://www.uspto.gov/
+web/offices/pac/mpep/old/E1R3_900.pdf (all Internet materials as
+visited June 6, 2011, and available in Clerk of Court’s case file); see also
+Brief for Respondents 45–46 (describing additional impracticalities).
+We see no indication in §282 that Congress meant to require collateral
+litigation on such an inherently uncertain question.
+
+

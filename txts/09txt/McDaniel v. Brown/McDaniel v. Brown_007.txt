@@ -1,0 +1,44 @@
+Cite as: 558 U. S. ____ (2010)
+
+7
+
+Per Curiam
+
+court granted respondent habeas relief on his Jackson
+claim.3
+The Ninth Circuit affirmed. 525 F. 3d 787. The court
+held the Nevada Supreme Court had unreasonably applied
+Jackson. 525 F. 3d, at 798; see 28 U. S. C. §2254(d)(1).
+The Court of Appeals first reasoned “the admission of
+Romero’s unreliable and misleading testimony violated
+Troy’s due process rights,” so the District Court was cor
+rect to exclude it. 525 F. 3d, at 797. It then “weighed the
+sufficiency of the remaining evidence,” including the Dis
+trict Court’s “catalogu[e] [of] the numerous inconsistencies
+that would raise a reasonable doubt as to Troy’s guilt in
+the mind of any rational juror.” Ibid. In light of the
+“stark” conflicts in the evidence and the State’s concession
+that there was insufficient evidence absent the DNA
+evidence, the court held it was objectively unreasonable
+for the Nevada Supreme Court to reject respondent’s
+insufficiency-of-the-evidence claim. Id., at 798.
+We granted certiorari, 555 U. S. ___ (2009), to consider
+two questions: the proper standard of review for a Jackson
+claim on federal habeas, and whether such a claim may
+rely upon evidence outside the trial record that goes to the
+reliability of trial evidence.
+II
+Respondent’s claim has now crystallized into a claim
+about the import of two specific inaccuracies in the testi
+mony related to the DNA evidence, as indicated by the
+Mueller Report. The Mueller Report does not challenge
+——————
+3 The District Court also granted habeas relief on respondent’s claim
+that he was denied effective assistance of counsel with respect to his
+attorney’s handling of the DNA evidence and failure to adequately
+investigate the victim’s stepfather as an alternative suspect. Brown v.
+Farwell, No. 3:03–cv–00712–PMP–VPC, 2006 WL 6181129, *9–*10
+(Nev., Dec. 14, 2006). The Court of Appeals did not consider those
+claims on appeal and they are not now before us.
+
+

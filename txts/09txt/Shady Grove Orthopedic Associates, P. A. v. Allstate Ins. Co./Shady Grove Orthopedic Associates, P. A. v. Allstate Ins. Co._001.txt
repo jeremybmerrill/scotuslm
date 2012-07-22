@@ -1,0 +1,51 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A. v. 
+
+ALLSTATE INSURANCE CO. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SECOND CIRCUIT
+No. 08–1008. Argued November 2, 2009—Decided March 31, 2010
+After respondent Allstate refused to remit the interest due under New
+York law on petitioner Shady Grove’s insurance claim, Shady Grove
+filed this class action in diversity to recover interest Allstate owed it
+and others. Despite the class action provisions set forth in Federal
+Rule of Civil Procedure 23, the District Court held itself deprived of
+jurisdiction by N. Y. Civ. Prac. Law Ann. §901(b), which precludes a
+class action to recover a “penalty” such as statutory interest. Affirm
+ing, the Second Circuit acknowledged that a Federal Rule adopted in
+compliance with the Rules Enabling Act, 28 U. S. C. §2072, would
+control if it conflicted with §901(b), but held there was no conflict be
+cause §901(b) and Rule 23 address different issues—eligibility of the
+particular type of claim for class treatment and certifiability of a
+given class, respectively. Finding no Federal Rule on point, the Court
+of Appeals held that §901(b) must be applied by federal courts sitting
+in diversity because it is “substantive” within the meaning of Erie R.
+Co. v. Tompkins, 304 U. S. 64 (1938).
+Held: The judgment is reversed, and the case is remanded.
+549 F. 3d 137, reversed and remanded.
+JUSTICE SCALIA delivered the opinion of the Court with respect to
+PARTS I and II–A, concluding that §901(b) does not preclude a federal
+district court sitting in diversity from entertaining a class action un
+der Rule 23. Pp. 3–12.
+(a) If Rule 23 answers the question in dispute, it governs here
+unless it exceeds its statutory authorization or Congress’s rulemak
+ing power. Burlington Northern R. Co. v. Woods, 480 U. S. 1, 4–5.
+Pp. 3–4.
+
+

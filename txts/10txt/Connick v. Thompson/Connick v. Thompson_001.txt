@@ -1,0 +1,55 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+CONNICK, DISTRICT ATTORNEY, ET AL. v. 
+
+THOMPSON 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FIFTH CIRCUIT
+No. 09–571.
+
+Argued October 6, 2010—Decided March 29, 2011
+
+Petitioner the Orleans Parish District Attorney’s Office concedes that,
+in prosecuting respondent Thompson for attempted armed robbery,
+prosecutors violated Brady v. Maryland, 373 U. S. 83, by failing to
+disclose a crime lab report. Because of his robbery conviction,
+Thompson elected not to testify at his later murder trial and was
+convicted. A month before his scheduled execution, the lab report
+was discovered. A reviewing court vacated both convictions, and
+Thompson was found not guilty in a retrial on the murder charge. He
+then filed suit against the district attorney’s office under 42 U. S. C.
+§1983, alleging, inter alia, that the Brady violation was caused by the
+office’s deliberate indifference to an obvious need to train prosecutors
+to avoid such constitutional violations. The district court held that,
+to prove deliberate indifference, Thompson did not need to show a
+pattern of similar Brady violations when he could demonstrate that
+the need for training was obvious. The jury found the district attor
+ney’s office liable for failure to train and awarded Thompson dam
+ages. The Fifth Circuit affirmed by an equally divided court.
+Held: A district attorney’s office may not be held liable under §1983 for
+failure to train its prosecutors based on a single Brady violation. Pp.
+6–20.
+(a) Plaintiffs seeking to impose §1983 liability on local governments
+must prove that their injury was caused by “action pursuant to offi
+cial municipal policy,” which includes the decisions of a government’s
+lawmakers, the acts of its policymaking officials, and practices so
+persistent and widespread as to practically have the force of law.
+Monell v. New York City Dept. of Social Servs., 436 U. S. 658, 691. A
+local government’s decision not to train certain employees about their
+
+

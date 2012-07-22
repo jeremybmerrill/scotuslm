@@ -1,0 +1,510 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+ROBERTS, C. J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–7412
+_________________
+
+TERRANCE JAMAR GRAHAM, PETITIONER v.
+
+FLORIDA 
+
+ON WRIT OF CERTIORARI TO THE DISTRICT COURT OF APPEAL
+OF FLORIDA, FIRST DISTRICT
+[May 17, 2010]
+
+CHIEF JUSTICE ROBERTS, concurring in the judgment.
+I agree with the Court that Terrance Graham’s sentence
+of life without parole violates the Eighth Amendment’s
+prohibition on “cruel and unusual punishments.” Unlike
+the majority, however, I see no need to invent a new con
+stitutional rule of dubious provenance in reaching that
+conclusion. Instead, my analysis is based on an applica
+tion of this Court’s precedents, in particular (1) our cases
+requiring “narrow proportionality” review of noncapital
+sentences and (2) our conclusion in Roper v. Simmons, 543
+U. S. 551 (2005), that juvenile offenders are generally less
+culpable than adults who commit the same crimes.
+These cases expressly allow courts addressing allega
+tions that a noncapital sentence violates the Eighth
+Amendment to consider the particular defendant and
+particular crime at issue. The standards for relief under
+these precedents are rigorous, and should be. But here
+Graham’s juvenile status—together with the nature of his
+criminal conduct and the extraordinarily severe punish
+ment imposed—lead me to conclude that his sentence of
+life without parole is unconstitutional.
+I
+Our Court has struggled with whether and how to apply
+the Cruel and Unusual Punishments Clause to sentences
+
+
+2
+
+GRAHAM v. FLORIDA
+ROBERTS, C. J., concurring in judgment
+
+for noncapital crimes. Some of my colleagues have raised
+serious and thoughtful questions about whether, as an
+original matter, the Constitution was understood to re
+quire any degree of proportionality between noncapital
+offenses and their corresponding punishments. See, e.g.,
+Harmelin v. Michigan, 501 U. S. 957, 962–994 (1991)
+(principal opinion of SCALIA, J.); post, at 3–5, and n. 1
+(THOMAS, J., dissenting). Neither party here asks us to
+reexamine our precedents requiring such proportionality,
+however, and so I approach this case by trying to apply
+our past decisions to the facts at hand.
+A
+Graham’s case arises at the intersection of two lines of
+Eighth Amendment precedent. The first consists of deci
+sions holding that the Cruel and Unusual Punishments
+Clause embraces a “narrow proportionality principle” that
+we apply, on a case-by-case basis, when asked to review
+noncapital sentences. Lockyer v. Andrade, 538 U. S. 63, 72
+(2003) (internal quotation marks omitted); Solem v. Helm,
+463 U. S. 277, 290 (1983); Ewing v. California, 538 U. S.
+11, 20 (2003) (plurality opinion); Harmelin, supra, at 996–
+997 (KENNEDY, J., concurring in part and concurring in
+judgment). This “narrow proportionality principle” does
+not grant judges blanket authority to second-guess deci
+sions made by legislatures or sentencing courts. On the
+contrary, a reviewing court will only “rarely” need “to
+engage in extended analysis to determine that a sentence
+is not constitutionally disproportionate,” Solem, supra, at
+290, n. 16 (emphasis added), and “successful challenges” to
+noncapital sentences will be all the more “exceedingly
+rare,” Rummel v. Estelle, 445 U. S. 263, 272 (1980).
+We have “not established a clear or consistent path for
+courts to follow” in applying the highly deferential “narrow
+proportionality” analysis. Lockyer, supra, at 72. We have,
+however, emphasized the primacy of the legislature in
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+ROBERTS, C. J., concurring in judgment
+
+setting sentences, the variety of legitimate penological
+schemes, the state-by-state diversity protected by our
+federal system, and the requirement that review be guided
+by objective, rather than subjective, factors. Ewing, supra,
+at 23 (plurality opinion); Harmelin, supra, at 998–1001
+(opinion of KENNEDY, J.). Most importantly, however, we
+have explained that the Eighth Amendment “ ‘does not
+require strict proportionality between crime and sen
+tence’ ”; rather, “ ‘it forbids only extreme sentences that are
+“grossly disproportionate” to the crime.’ ” Ewing, supra, at
+23 (plurality opinion) (quoting Harmelin, supra, at 1001
+(opinion of KENNEDY, J.)).
+Our cases indicate that courts conducting “narrow pro
+portionality” review should begin with a threshold inquiry
+that compares “the gravity of the offense and the harsh
+ness of the penalty.” Solem, 463 U. S., at 290–291. This
+analysis can consider a particular offender’s mental state
+and motive in committing the crime, the actual harm
+caused to his victim or to society by his conduct, and any
+prior criminal history. Id., at 292–294, 296–297, and n. 22
+(considering motive, past criminal conduct, alcoholism,
+and propensity for violence of the particular defendant);
+see also Ewing, supra, at 28–30 (plurality opinion) (exam
+ining defendant’s criminal history); Harmelin, 501 U. S.,
+at 1001–1004 (opinion of KENNEDY, J.) (noting specific
+details of the particular crime of conviction).
+Only in “the rare case in which a threshold comparison
+of the crime committed and the sentence imposed leads
+to an inference of gross disproportionality,” id., at 1005,
+should courts proceed to an “intrajurisdictional” compari
+son of the sentence at issue with those imposed on other
+criminals in the same jurisdiction, and an “interjurisdic
+tional” comparison with sentences imposed for the same
+crime in other jurisdictions. Solem, supra, at 291–292. If
+these subsequent comparisons confirm the inference of
+gross disproportionality, courts should invalidate the
+
+
+4
+
+GRAHAM v. FLORIDA
+ROBERTS, C. J., concurring in judgment
+
+sentence as a violation of the Eighth Amendment.
+B
+The second line of precedent relevant to assessing Gra
+ham’s sentence consists of our cases acknowledging that
+juvenile offenders are generally—though not necessarily in
+every case—less morally culpable than adults who commit
+the same crimes. This insight animated our decision in
+Thompson v. Oklahoma, 487 U. S. 815 (1988), in which we
+invalidated a capital sentence imposed on a juvenile who
+had committed his crime under the age of 16. More re
+cently, in Roper, 543 U. S. 551, we extended the prohibi
+tion on executions to those who committed their crimes
+before the age of 18.
+Both Thompson and Roper arose in the unique context
+of the death penalty, a punishment that our Court has
+recognized “must be limited to those offenders who commit
+‘a narrow category of the most serious crimes’ and whose
+extreme culpability makes them ‘the most deserving of
+execution.’ ” 543 U. S., at 568 (quoting Atkins v. Virginia,
+536 U. S. 304, 319 (2002)). Roper’s prohibition on the
+juvenile death penalty followed from our conclusion that
+“[t]hree general differences between juveniles under 18
+and adults demonstrate that juvenile offenders cannot
+with reliability be classified among the worst offenders.”
+543 U. S., at 569. These differences are a lack of maturity
+and an underdeveloped sense of responsibility, a height
+ened susceptibility to negative influences and outside
+pressures, and the fact that the character of a juvenile is
+“more transitory” and “less fixed” than that of an adult.
+Id., at 569–570. Together, these factors establish the
+“diminished culpability of juveniles,” id., at 571, and “ren
+der suspect any conclusion” that juveniles are among “the
+worst offenders” for whom the death penalty is reserved,
+id., at 570.
+Today, the Court views Roper as providing the basis for
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+ROBERTS, C. J., concurring in judgment
+
+a new categorical rule that juveniles may never receive a
+sentence of life without parole for nonhomicide crimes. I
+disagree. In Roper, the Court tailored its analysis of
+juvenile characteristics to the specific question whether
+juvenile offenders could constitutionally be subject to
+capital punishment. Our answer that they could not be
+sentenced to death was based on the explicit conclusion
+that they “cannot with reliability be classified among the
+worst offenders.” Id., at 569 (emphasis added).
+This conclusion does not establish that juveniles can
+never be eligible for life without parole. A life sentence is
+of course far less severe than a death sentence, and we
+have never required that it be imposed only on the very
+worst offenders, as we have with capital punishment.
+Treating juvenile life sentences as analogous to capital
+punishment is at odds with our longstanding view that
+“the death penalty is different from other punishments in
+kind rather than degree.” Solem, supra, at 294. It is also
+at odds with Roper itself, which drew the line at capital
+punishment by blessing juvenile sentences that are “less
+severe than death” despite involving “forfeiture of some of
+the most basic liberties.” 543 U. S., at 573–574. Indeed,
+Roper explicitly relied on the possible imposition of life
+without parole on some juvenile offenders. Id., at 572.
+But the fact that Roper does not support a categorical
+rule barring life sentences for all juveniles does not mean
+that a criminal defendant’s age is irrelevant to those
+sentences. On the contrary, our cases establish that the
+“narrow proportionality” review applicable to noncapital
+cases itself takes the personal “culpability of the offender”
+into account in examining whether a given punishment is
+proportionate to the crime. Solem, supra, at 292. There
+is no reason why an offender’s juvenile status should be
+excluded from the analysis. Indeed, given Roper’s conclu
+sion that juveniles are typically less blameworthy than
+adults, 543 U. S., at 571, an offender’s juvenile status can
+
+
+6
+
+GRAHAM v. FLORIDA
+ROBERTS, C. J., concurring in judgment
+
+play a central role in the inquiry.
+JUSTICE THOMAS disagrees with even our limited reli
+ance on Roper on the ground that the present case does
+not involve capital punishment. Post, at 26 (dissenting
+opinion). That distinction is important—indeed, it under
+lies our rejection of the categorical rule declared by the
+Court. But Roper’s conclusion that juveniles are typically
+less culpable than adults has pertinence beyond capital
+cases, and rightly informs the case-specific inquiry I be
+lieve to be appropriate here.
+In short, our existing precedent already provides a
+sufficient framework for assessing the concerns outlined
+by the majority. Not every juvenile receiving a life sen
+tence will prevail under this approach. Not every juvenile
+should. But all will receive the protection that the Eighth
+Amendment requires.
+II
+Applying the “narrow proportionality” framework to the
+particular facts of this case, I conclude that Graham’s
+sentence of life without parole violates the Eighth
+Amendment.*
+——————
+* JUSTICE ALITO suggests that Graham has failed to preserve any
+challenge to his sentence based on the “narrow, as-applied proportional
+ity principle.” Post, at 1 (dissenting opinion). I disagree. It is true that
+Graham asks us to declare, categorically, that no juvenile convicted of a
+nonhomicide offense may ever be subject to a sentence of life without
+parole. But he claims that this rule is warranted under the narrow
+proportionality principle we set forth in Solem v. Helm, 463 U. S. 277
+(1983), Harmelin v. Michigan, 501 U. S. 957 (1991), and Ewing v.
+California, 538 U. S. 11 (2003). Brief for Petitioner 30, 31, 54–64.
+Insofar as he relies on that framework, I believe we may do so as well,
+even if our analysis results in a narrower holding than the categorical rule Graham seeks. See also Reply Brief for Petitioner 15, n. 8
+(“[T]he Court could rule narrowly in this case and hold only that
+petitioner’s sentence of life without parole was unconstitutionally
+disproportionate”).
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+ROBERTS, C. J., concurring in judgment
+
+A
+I begin with the threshold inquiry comparing the gravity
+of Graham’s conduct to the harshness of his penalty.
+There is no question that the crime for which Graham
+received his life sentence—armed burglary of a nondomicil
+with an assault or battery—is “a serious crime deserving
+serious punishment.” Enmund v. Florida, 458 U. S. 782,
+797 (1982). So too is the home invasion robbery that was
+the basis of Graham’s probation violation. But these
+crimes are certainly less serious than other crimes, such
+as murder or rape.
+As for Graham’s degree of personal culpability, he com
+mitted the relevant offenses when he was a juvenile—a
+stage at which, Roper emphasized, one’s “culpability or
+blameworthiness is diminished, to a substantial degree, by
+reason of youth and immaturity.” 543 U. S., at 571. Gra
+ham’s age places him in a significantly different category
+from the defendants in Rummel, Harmelin, and Ewing, all
+of whom committed their crimes as adults. Graham’s
+youth made him relatively more likely to engage in reck
+less and dangerous criminal activity than an adult; it also
+likely enhanced his susceptibility to peer pressure. See,
+e.g., Roper, supra, at 569; Johnson v. Texas, 509 U. S. 350,
+367 (1993); Eddings v. Oklahoma, 455 U. S. 104, 115–117
+(1982). There is no reason to believe that Graham should
+be denied the general presumption of diminished culpabil
+ity that Roper indicates should apply to juvenile offenders.
+If anything, Graham’s in-court statements—including his
+request for a second chance so that he could “do whatever
+it takes to get to the NFL”—underscore his immaturity.
+App. 380.
+The fact that Graham committed the crimes that he did
+proves that he was dangerous and deserved to be pun
+ished. But it does not establish that he was particularly
+dangerous—at least relative to the murderers and rapists
+for whom the sentence of life without parole is typically
+
+
+8
+
+GRAHAM v. FLORIDA
+ROBERTS, C. J., concurring in judgment
+
+reserved. On the contrary, his lack of prior criminal con
+victions, his youth and immaturity, and the difficult cir
+cumstances of his upbringing noted by the majority, ante,
+at 1, all suggest that he was markedly less culpable than a
+typical adult who commits the same offenses.
+Despite these considerations, the trial court sentenced
+Graham to life in prison without the possibility of parole.
+This is the second-harshest sentence available under our
+precedents for any crime, and the most severe sanction
+available for a nonhomicide offense. See Kennedy v. Lou
+isiana, 554 U. S. ___ (2008). Indeed, as the majority notes,
+Graham’s sentence far exceeded the punishment proposed
+by the Florida Department of Corrections (which sug
+gested a sentence of four years, Brief for Petitioner 20),
+and the state prosecutors (who asked that he be sentenced
+to 30 years in prison for the armed burglary, App. 388).
+No one in Graham’s case other than the sentencing judge
+appears to have believed that Graham deserved to go to
+prison for life.
+Based on the foregoing circumstances, I conclude that
+there is a strong inference that Graham’s sentence of life
+imprisonment without parole was grossly disproportionate
+in violation of the Eighth Amendment. I therefore proceed
+to the next steps of the proportionality analysis.
+B
+Both intrajurisdictional and interjurisdictional compari
+sons of Graham’s sentence confirm the threshold inference
+of disproportionality.
+Graham’s sentence was far more severe than that im
+posed for similar violations of Florida law, even without
+taking juvenile status into account. For example, indi
+viduals who commit burglary or robbery offenses in Flor
+ida receive average sentences of less than 5 years and less
+than 10 years, respectively. Florida Dept. of Corrections,
+Annual Report FY 2007–2008: The Guidebook to Correc
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+ROBERTS, C. J., concurring in judgment
+
+tions in Florida 35. Unsurprisingly, Florida’s juvenile
+criminals receive similarly low sentences—typically less
+than five years for burglary and less than seven years for
+robbery. Id., at 36. Graham’s life without parole sentence
+was far more severe than the average sentence imposed on
+those convicted of murder or manslaughter, who typically
+receive under 25 years in prison. Id., at 35. As the Court
+explained in Solem, 463 U. S., at 291, “[i]f more serious
+crimes are subject to the same penalty, or to less serious
+penalties, that is some indication that the punishment at
+issue may be excessive.”
+Finally, the inference that Graham’s sentence is dispro
+portionate is further validated by comparison to the sen
+tences imposed in other domestic jurisdictions. As the
+majority opinion explains, Florida is an outlier in its will
+ingness to impose sentences of life without parole on juve
+niles convicted of nonhomicide crimes. See ante, at 11–13.
+III
+So much for Graham. But what about Milagro Cun
+ningham, a 17-year-old who beat and raped an 8-year-old
+girl before leaving her to die under 197 pounds of rock in a
+recycling bin in a remote landfill? See Musgrave, Cruel or
+Necessary? Life Terms for Youths Spur National Debate,
+Palm Beach Post, Oct. 15, 2009, p. 1A. Or Nathan Walker
+and Jakaris Taylor, the Florida juveniles who together
+with their friends gang-raped a woman and forced her to
+perform oral sex on her 12-year-old son? See 3 Sentenced
+to Life for Gang Rape of Mother, Associated Press, Oct. 14,
+2009. The fact that Graham cannot be sentenced to life
+without parole for his conduct says nothing whatever
+about these offenders, or others like them who commit
+nonhomicide crimes far more reprehensible than the
+conduct at issue here. The Court uses Graham’s case as a
+vehicle to proclaim a new constitutional rule—applicable
+well beyond the particular facts of Graham’s case—that a
+
+
+10
+
+GRAHAM v. FLORIDA
+ROBERTS, C. J., concurring in judgment
+
+sentence of life without parole imposed on any juvenile for
+any nonhomicide offense is unconstitutional. This cate
+gorical conclusion is as unnecessary as it is unwise.
+A holding this broad is unnecessary because the particu
+lar conduct and circumstances at issue in the case before
+us are not serious enough to justify Graham’s sentence.
+In reaching this conclusion, there is no need for the Court
+to decide whether that same sentence would be constitu
+tional if imposed for other more heinous nonhomicide
+crimes.
+A more restrained approach is especially appropriate in
+light of the Court’s apparent recognition that it is perfectly
+legitimate for a juvenile to receive a sentence of life with
+out parole for committing murder. This means that there
+is nothing inherently unconstitutional about imposing
+sentences of life without parole on juvenile offenders;
+rather, the constitutionality of such sentences depends on
+the particular crimes for which they are imposed. But if
+the constitutionality of the sentence turns on the particu
+lar crime being punished, then the Court should limit its
+holding to the particular offenses that Graham committed
+here, and should decline to consider other hypothetical
+crimes not presented by this case.
+In any event, the Court’s categorical conclusion is also
+unwise. Most importantly, it ignores the fact that some
+nonhomicide crimes—like the ones committed by Milagro
+Cunningham, Nathan Walker, and Jakaris Taylor—are
+especially heinous or grotesque, and thus may be deserv
+ing of more severe punishment.
+Those under 18 years old may as a general matter have
+“diminished” culpability relative to adults who commit the
+same crimes, Roper, 543 U. S., at 571, but that does not
+mean that their culpability is always insufficient to justify
+a life sentence. See generally Thompson, 487 U. S., at 853
+(O’Connor, J., concurring in judgment). It does not take a
+moral sense that is fully developed in every respect to
+
+
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+ROBERTS, C. J., concurring in judgment
+
+know that beating and raping an 8-year-old girl and leav
+ing her to die under 197 pounds of rocks is horribly wrong.
+The single fact of being 17 years old would not afford
+Cunningham protection against life without parole if the
+young girl had died—as Cunningham surely expected she
+would—so why should it do so when she miraculously
+survived his barbaric brutality?
+The Court defends its categorical approach on the
+grounds that a “clear line is necessary to prevent the
+possibility that life without parole sentences will be im
+posed on juvenile nonhomicide offenders who are not
+sufficiently culpable to merit that punishment.” Ante, at
+24. It argues that a case-by-case approach to proportional
+ity review is constitutionally insufficient because courts
+might not be able “with sufficient accuracy [to] distinguish
+the few incorrigible juvenile offenders from the many that
+have the capacity for change.” Ante, at 27.
+The Court is of course correct that judges will never
+have perfect foresight—or perfect wisdom—in making
+sentencing decisions. But this is true when they sentence
+adults no less than when they sentence juveniles. It is
+also true when they sentence juveniles who commit mur
+der no less than when they sentence juveniles who commit
+other crimes.
+Our system depends upon sentencing judges applying
+their reasoned judgment to each case that comes before
+them. As we explained in Solem, the whole enterprise of
+proportionality review is premised on the “justified” as
+sumption that “courts are competent to judge the gravity
+of an offense, at least on a relative scale.” 463 U. S., at
+292. Indeed, “courts traditionally have made these judg
+ments” by applying “generally accepted criteria” to analyze
+“the harm caused or threatened to the victim or society,
+and the culpability of the offender.” Id., at 292, 294.
+
+
+12
+
+GRAHAM v. FLORIDA
+ROBERTS, C. J., concurring in judgment
+
+*
+*
+*
+Terrance Graham committed serious offenses, for which
+he deserves serious punishment. But he was only 16 years
+old, and under our Court’s precedents, his youth is one
+factor, among others, that should be considered in decid
+ing whether his punishment was unconstitutionally exces
+sive. In my view, Graham’s age—together with the nature
+of his criminal activity and the unusual severity of his
+sentence—tips the constitutional balance. I thus concur in
+the Court’s judgment that Graham’s sentence of life with
+out parole violated the Eighth Amendment.
+I would not, however, reach the same conclusion in
+every case involving a juvenile offender. Some crimes are
+so heinous, and some juvenile offenders so highly culpable,
+that a sentence of life without parole may be entirely
+justified under the Constitution. As we have said, “suc
+cessful challenges” to noncapital sentences under the
+Eighth Amendment have been—and, in my view, should
+continue to be—“exceedingly rare.” Rummel, 445 U. S., at
+272. But Graham’s sentence presents the exceptional case
+that our precedents have recognized will come along. We
+should grant Graham the relief to which he is entitled
+under the Eighth Amendment. The Court errs, however,
+in using this case as a vehicle for unsettling our estab
+lished jurisprudence and fashioning a categorical rule
+applicable to far different cases.
+
+

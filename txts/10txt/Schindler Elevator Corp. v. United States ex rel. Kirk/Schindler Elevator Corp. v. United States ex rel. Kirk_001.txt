@@ -1,0 +1,53 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+SCHINDLER ELEVATOR CORP. v. UNITED STATES EX
+REL. KIRK
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SECOND CIRCUIT
+No. 10–188.
+
+Argued March 1, 2011—Decided May 16, 2011
+
+The public disclosure bar of the False Claims Act (FCA) generally fore
+closes private parties from bringing qui tam suits to recover falsely or
+fraudulently obtained federal payments where those suits are “based
+upon the public disclosure of allegations or transactions in a criminal,
+civil, or administrative hearing, in a congressional, administrative, or
+Government Accounting Office report, hearing, audit, or investiga
+tion, or from the news media.” 31 U. S. C. §3730(e)(4)(A). Respon
+dent Kirk brought such a suit, alleging that his former employer, pe
+titioner Schindler Elevator Corp., had submitted hundreds of false
+claims for payment under its federal contracts. To support his alle
+gations, Kirk pointed to information his wife received from the Labor
+Department (DOL) in response to three requests for records she filed
+under the Freedom of Information Act (FOIA), 5 U. S. C. §552.
+Granting Schindler’s motion to dismiss, the District Court concluded,
+inter alia, that the FCA’s public disclosure bar deprived it of jurisdic
+tion over Kirk’s allegations that were based on information disclosed
+in a Government “report” or “investigation.” The Second Circuit va
+cated and remanded, holding, in effect, that an agency’s response to a
+FOIA request is neither a “report” nor an “investigation.”
+Held: A federal agency’s written response to a FOIA request for records
+constitutes a “report” within the meaning of the FCA’s public disclo
+sure bar. Pp. 4–14.
+(a) “[R]eport” in this context carries its ordinary meaning. Pp. 4–8.
+(1) Because the FCA does not define “report,” the Court looks
+first to the word’s ordinary meaning. See, e.g., Gross v. FBL Finan
+cial Services, Inc., 557 U. S. ___, ___. Dictionaries define “report” as,
+for example, something that gives information. This ordinary mean
+
+

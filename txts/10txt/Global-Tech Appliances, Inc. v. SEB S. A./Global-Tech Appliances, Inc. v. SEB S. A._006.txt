@@ -1,0 +1,43 @@
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+offering to sell its deep fryers; and second, SEB claimed
+that Pentalpha had contravened §271(b) by actively induc­
+ing Sunbeam, Fingerhut, and Montgomery Ward to sell or
+to offer to sell Pentalpha’s deep fryers in violation of SEB’s
+patent rights.
+Following a 5-day trial, the jury found for SEB on both
+theories and also found that Pentalpha’s infringement had
+been willful. Pentalpha filed post-trial motions seeking
+a new trial or judgment as a matter of law on several
+grounds. As relevant here, Pentalpha argued that there
+was insufficient evidence to support the jury’s finding of
+induced infringement under §271(b) because Pentalpha
+did not actually know of SEB’s patent until it received the
+notice of the Sunbeam lawsuit in April 1998.
+The District Court rejected Pentalpha’s argument, as
+did the Court of Appeals for the Federal Circuit, which
+affirmed the judgment, SEB S. A. v. Montgomery Ward &
+Co., 594 F. 3d 1360 (2010). Summarizing a recent en banc
+decision, the Federal Circuit stated that induced in­
+fringement under §271(b) requires a “plaintiff [to] show
+that the alleged infringer knew or should have known
+that his actions would induce actual infringements” and
+that this showing includes proof that the alleged infringer
+knew of the patent. Id., at 1376. Although the record
+contained no direct evidence that Pentalpha knew of
+SEB’s patent before April 1998, the court found adequate
+evidence to support a finding that “Pentalpha deliberately
+disregarded a known risk that SEB had a protective pat­
+ent.” Id., at 1377. Such disregard, the court said, “is not
+different from actual knowledge, but is a form of actual
+knowledge.” Ibid.
+We granted certiorari. 562 U. S. ___ (2010).
+II
+Pentalpha argues that active inducement liability under
+§271(b) requires more than deliberate indifference to a
+
+

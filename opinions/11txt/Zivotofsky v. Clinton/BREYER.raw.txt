@@ -1,0 +1,356 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+BREYER, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–699
+_________________
+
+MENACHEM BINYAMIN ZIVOTOFSKY, BY HIS PARENTS
+
+
+
+
+
+AND GUARDIANS, ARI Z. AND NAOMI SIEGMAN
+
+ZIVOTOFSKY, PETITIONER v. HILLARY
+
+
+
+RODHAM CLINTON, SECRETARY 
+
+OF STATE
+
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+[March 26, 2012]
+
+
+
+
+JUSTICE BREYER, dissenting.
+I join Part I of JUSTICE SOTOMAYOR’s opinion. As she
+points out, Baker v. Carr, 369 U. S. 186 (1962), set forth
+several categories of legal questions that the Court had
+previously held to be “political questions” inappropriate for
+judicial determination. Those categories include (1) instances in which the Constitution clearly commits decisionmaking power to another branch of Government, and
+(2) issues lacking judicially manageable standards for
+resolution. Id., at 217. They also include (3) issues that
+courts cannot decide without making “an initial policy
+determination of a kind clearly for nonjudicial discretion,”
+(4) issues that a court cannot independently decide “without expressing lack of the respect due coordinate branches
+of government,” (5) cases in which there is “an unusual
+need for unquestioning adherence to a political decision
+already made,” and (6) cases in which there is a potential
+for “embarrassment from multifarious pronouncements by
+various departments on one question.” Ibid.
+As JUSTICE SOTOMAYOR also points out, these categories
+(and in my view particularly the last four) embody “circumstances in which prudence may counsel against a
+
+
+2
+
+ZIVOTOFSKY v. CLINTON
+BREYER, J., dissenting
+
+court’s resolution of an issue presented.” Ante, at 3 (opinion concurring in part and concurring in judgment); see
+Nixon v. United States, 506 U. S. 224, 253 (1993) (Souter,
+J., concurring in judgment) (the political-question doctrine
+“deriv[es] in large part from prudential concerns about the
+respect we owe the political departments”); Goldwater v.
+Carter, 444 U. S. 996, 1000 (1979) (Powell, J., concurring
+in judgment) (“[T]he political-question doctrine rests in
+part on prudential concerns calling for mutual respect
+among the three branches of Government”); see also Jaffe,
+Standing to Secure Judicial Review: Public Actions, 74
+Harv. L. Rev. 1265, 1304 (1961) (prudence counsels hesitation where a legal issue is “felt to be so closely related to
+a complex of decisions not within the court’s jurisdiction
+that its resolution by the court would either be poor in
+itself or would jeopardize sound decisions in the larger
+complex”).
+JUSTICE SOTOMAYOR adds that the circumstances in
+which these prudential considerations lead the Court not
+to decide a case otherwise properly before it are rare.
+Ante, at 7. I agree. But in my view we nonetheless have
+before us such a case. Four sets of prudential considerations, taken together, lead me to that conclusion.
+First, the issue before us arises in the field of foreign
+affairs. (Indeed, the statutory provision before us is a
+subsection of a section that concerns the relation between
+Jerusalem and the State of Israel. See §214 of the Foreign
+Relations Authorization Act, Fiscal Year 2003, 116 Stat.
+1365 (“United States Policy with Respect to Jerusalem as
+the Capital of Israel”).) The Constitution primarily delegates the foreign affairs powers “to the political departments of the government, Executive and Legislative,” not
+to the Judiciary. Chicago & Southern Air Lines, Inc. v.
+Waterman S. S. Corp., 333 U. S. 103, 111 (1948); see also
+Marbury v. Madison, 1 Cranch 137, 166 (1803) (noting
+discretionary foreign affairs functions of Secretary of State
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+BREYER, J., dissenting
+
+as beyond the power of the Judiciary to review). And that
+fact is not surprising. Decisionmaking in this area typically is highly political. It is “delicate” and “complex.” Chicago & Southern Air Lines, 333 U. S., at 111. It often
+rests upon information readily available to the Executive
+Branch and to the intelligence committees of Congress,
+but not readily available to the courts. Ibid. It frequently
+is highly dependent upon what Justice Jackson called
+“prophecy.” Ibid. And the creation of wise foreign policy
+typically lies well beyond the experience or professional
+capacity of a judge. Ibid. At the same time, where foreign
+affairs is at issue, the practical need for the United States
+to speak “with one voice and ac[t] as one,” is particularly
+important. See United States v. Pink, 315 U. S. 203, 242
+(1942) (Frankfurter, J., concurring); see also R. Fallon,
+J. Manning, D. Meltzer, & D. Shapiro, Hart and
+Wechsler’s The Federal Courts and the Federal System
+240 (6th ed. 2009).
+The result is a judicial hesitancy to make decisions that
+have significant foreign policy implications, as reflected in
+the fact that many of the cases in which the Court has invoked the political-question doctrine have arisen in this
+area, e.g., cases in which the validity of a treaty depended
+upon the partner state’s constitutional authority, Doe v.
+Braden, 16 How. 635, 657 (1854), or upon its continuing
+existence, Terlinden v. Ames, 184 U. S. 270, 285 (1902);
+cases concerning the existence of foreign states, governments, belligerents, and insurgents, Oetjen v. Central
+Leather Co., 246 U. S. 297, 302 (1918); United States v.
+Klintock, 5 Wheat. 144, 149 (1820); United States v. Palmer, 3 Wheat. 610, 634–635 (1818); and cases concerning
+the territorial boundaries of foreign states, Williams v.
+Suffolk Ins. Co., 13 Pet. 415, 420 (1839); Foster v. Neilson,
+2 Pet. 253, 307 (1829). See Baker, supra, at 186, 211–213
+(citing these cases as the Court’s principal foreignrelations political-question cases); see also Fallon, supra,
+
+
+4
+
+ZIVOTOFSKY v. CLINTON
+BREYER, J., dissenting
+
+at 243–247.
+Second, if the courts must answer the constitutional
+question before us, they may well have to evaluate the
+foreign policy implications of foreign policy decisions. The
+constitutional question focuses upon a statutory provision,
+§214(d), that says: The Secretary of State, upon the request of a U. S. citizen born in Jerusalem (or upon the
+request of the citizen’s legal guardian), shall “record” in
+the citizen’s passport or consular birth report “the place
+of birth as Israel.” 116 Stat. 1366. And the question is
+whether this statute unconstitutionally seeks to limit the
+President’s inherent constitutional authority to make certain kinds of foreign policy decisions. See American Ins.
+Assn. v. Garamendi, 539 U. S. 396, 414–415 (2003)
+(citing cases); Clinton v. City of New York, 524 U. S. 417,
+445 (1998) (“[T]his Court has recognized that in the foreign affairs arena, the President has ‘a degree of discretion
+and freedom from statutory restriction which would not be
+admissible were domestic affairs alone involved’ ” (quoting
+United States v. Curtiss-Wright Export Corp., 299 U. S.
+304, 320 (1936))); cf. Youngstown Sheet & Tube Co.
+v. Sawyer, 343 U. S. 579, 637–638 (1952) (Jackson, J.,
+concurring).
+The Secretary of State argues that the President’s constitutional authority to determine foreign policy includes
+the power to recognize foreign governments, that this
+Court has long recognized that the latter power belongs
+to the President exclusively, that the power includes the
+power to determine claims over disputed territory as well
+as the policy governing recognition decisions, and that the
+statute unconstitutionally limits the President’s exclusive
+authority to exercise these powers. See U. S. Const., Art.
+II, §2, cl. 2; Art. II, §3; e.g., Kennett v. Chambers, 14 How.
+38, 50–51 (1852) (recognition); Williams, supra, at 420
+(disputed territory); Pink, supra, at 229 (recognition policy); see also Haig v. Agee, 453 U. S. 280, 293 (1981) (execu-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+BREYER, J., dissenting
+
+tive passport authority).
+Zivotofsky, supported by several Members of Congress,
+points out that the Constitution also grants Congress
+powers related to foreign affairs, such as the powers to
+declare war, to regulate foreign commerce, and to regulate
+naturalization. See Art. I, §8, cls. 3, 4, 11; see also American Ins. Assn., supra, at 414. They add that Congress may
+share some of the recognition power and its attendant
+power of determining claims over disputed territory. E.g.,
+Palmer, supra, at 634 (recognition); Jones v. United States,
+137 U. S. 202, 212 (1890) (disputed territory). And they
+add that Congress may enact laws concerning travel into
+this country and concerning the citizenship of children
+born abroad to U. S. citizens. See Henderson v. Mayor of
+New York, 92 U. S. 259, 270–271 (1876) (travel); Fong Yue
+Ting v. United States, 149 U. S. 698, 714 (1893) (immigration); United States v. Wong Kim Ark, 169 U. S. 649, 688
+(1898) (citizenship). They argue that these powers include
+the power to specify the content of a passport (or consular
+birth report). And when such a specification takes the
+form of statutory law, they say, the Constitution requires
+the President (through the Secretary of State) to execute
+that statute. See Art. II, §3.
+Were the statutory provision undisputedly concerned
+only with purely administrative matters (or were its enforcement undisputedly to involve only major foreign
+policy matters), judicial efforts to answer the constitutional question might not involve judges in trying to answer questions of foreign policy. But in the Middle East,
+administrative matters can have implications that extend
+far beyond the purely administrative. Political reactions
+in that region can prove uncertain. And in that context it
+may well turn out that resolution of the constitutional
+argument will require a court to decide how far the statute, in practice, reaches beyond the purely administrative,
+determining not only whether but also the extent to
+
+
+6
+
+ZIVOTOFSKY v. CLINTON
+BREYER, J., dissenting
+
+which enforcement will interfere with the President’s
+ability to make significant recognition-related foreign
+policy decisions.
+Certainly the parties argue as if that were so. Zivotofsky, for example, argues that replacing “Jerusalem” on
+his passport with “Israel” will have no serious foreign
+policy significance. See Brief for Petitioner 43, 46–52;
+Reply Brief for Petitioner 25–26. And in support he points
+to (1) a State Department official’s statement that birthplace designation serves primarily as “an element of identification,” while omitting mention of recognition; (2) the
+fact that the State Department has recorded births in
+unrecognized territories in the region, such as the Gaza
+Strip and the West Bank, apparently without adverse
+effect; and (3) the fact that sometimes Jerusalem does
+(because of what the Government calls “clerical errors”)
+carry with it the name of “Israel” on certain official documents, again apparently without seriously adverse effect.
+See Brief for Petitioner 7–10, 15, 43, 50; App. 50, 58–60,
+75–76. Moreover, Zivotofsky says, it is unfair to allow the
+100,000 or so Americans born in cities that the United
+States recognizes as under Israeli sovereignty, such as Tel
+Aviv or Haifa, the right to a record that mentions Israel,
+while denying that privilege to the 50,000 or so Americans
+born in Jerusalem. See Brief for Petitioner 18–20, 48–49;
+App. 48.
+At the same time, the Secretary argues that listing
+Israel on the passports (and consular birth reports) of
+Americans born in Jerusalem will have significantly adverse foreign policy effects. See Brief for Respondent 8,
+37–41. She says that doing so would represent “ ‘an official decision by the United States to begin to treat Jerusalem as a city located within Israel,’ ” id., at 38–39, that it
+“would be interpreted as an official act of recognizing
+Jerusalem as being under Israeli sovereignty,” App. 56,
+and that our “national security interests” consequently
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+BREYER, J., dissenting
+
+“would be significantly harmed,” id., at 49. Such an action, she says, “ ‘would signal, symbolically or concretely,
+that’ ” the United States “ ‘recognizes that Jerusalem is a
+city that is located within the sovereign territory of Israel,’” and doing so, “‘would critically compromise the ability
+of the United States to work with Israelis, Palestinians
+and others in the region to further the peace process.’ ”
+Brief for Respondent 2; App. 52–53. She adds that the
+very enactment of this statutory provision in 2002 produced headlines in the Middle East stating the “the U. S.
+now recognizes Jerusalem as Israel’s capital.” Id., at 231;
+Brief for Respondent 10; see also App. 53–55, 227–231.
+A judge’s ability to evaluate opposing claims of this kind
+is minimal. At the same time, a judicial effort to do so
+risks inadvertently jeopardizing sound foreign policy
+decisionmaking by the other branches of Government.
+How, for example, is this Court to determine whether, or
+the extent to which, the continuation of the adjudication
+that it now orders will itself have a foreign policy effect?
+Third, the countervailing interests in obtaining judicial
+resolution of the constitutional determination are not
+particularly strong ones. Zivotofsky does not assert the
+kind of interest, e.g., an interest in property or bodily
+integrity, which courts have traditionally sought to protect. See, e.g., Ingraham v. Wright, 430 U. S. 651, 673–
+674 (1977) (enduring commitment to legal protection of
+bodily integrity). Nor, importantly, does he assert an
+interest in vindicating a basic right of the kind that the
+Constitution grants to individuals and that courts traditionally have protected from invasion by the other branches
+of Government. And I emphasize this fact because the
+need for judicial action in such cases can trump the foreign
+policy concerns that I have mentioned. As Professor Jaffe
+pointed out many years ago, “Our courts would not refuse
+to entertain habeas corpus to test the constitutionality of
+the imprisonment of an alleged Chinese agent even if it
+
+
+8
+
+ZIVOTOFSKY v. CLINTON
+BREYER, J., dissenting
+
+were clear that his imprisonment was closely bound up
+with our relations to the Chinese government.” 74 Harv.
+L. Rev., at 1304; see also T. Franck, Political Questions/
+Judicial Answers 63–64 (1992); cf. Boumediene v. Bush,
+553 U. S. 723, 755 (2008).
+The interest that Zivotofsky asserts, however, is akin to
+an ideological interest. See Brief for Petitioner 54 (citizen
+born in Jerusalem, unlike citizen born in Tel Aviv or
+Haifa, does not have the “option” to “specify or suppress the
+name of a country that accords with his or her ideology”);
+see also id., at 19 (State Department policy bars citizens
+born in Jerusalem “from identifying their birthplace in a
+manner that conforms with their convictions”). And insofar as an individual suffers an injury that is purely ideological, courts have often refused to consider the matter,
+leaving the injured party to look to the political branches
+for protection. E.g., Diamond v. Charles, 476 U. S. 54, 66–
+67 (1986); Sierra Club v. Morton, 405 U. S. 727, 739–740
+(1972). This is not to say that Zivotofsky’s claim is unimportant or that the injury is not serious or even that it is
+purely ideological. It is to point out that those suffering
+somewhat similar harms have sometimes had to look to
+the political branches for resolution of relevant legal issues. Cf. United States v. Richardson, 418 U. S. 166, 179
+(1974); Laird v. Tatum, 408 U. S. 1, 15 (1972).
+Fourth, insofar as the controversy reflects different
+foreign policy views among the political branches of Government, those branches have nonjudicial methods of
+working out their differences. Cf. Goldwater, 444 U. S., at
+1002, 1004 (Rehnquist, J., joined by Burger, C. J., and
+Stewart and Stevens, JJ., concurring in judgment) (finding
+in similar fact strong reason for Judiciary not to decide
+treaty power question). The Executive and Legislative
+Branches frequently work out disagreements through
+ongoing contacts and relationships, involving, for example,
+budget authorizations, confirmation of personnel, commit-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+9
+
+BREYER, J., dissenting
+
+tee hearings, and a host of more informal contacts, which,
+taken together, ensure that, in practice, Members of Congress as well as the President play an important role in
+the shaping of foreign policy. Indeed, both the Legislative
+Branch and the Executive Branch typically understand
+the need to work each with the other in order to create
+effective foreign policy. In that understanding, those
+related contacts, and the continuous foreign policy-related
+relationship lies the possibility of working out the kind of
+disagreement we see before us. Moreover, if application of
+the political-question “doctrine ultimately turns, as
+Learned Hand put it, on ‘how importunately the occasion
+demands an answer,’ ” Nixon, 506 U. S., at 253 (Souter, J.,
+concurring in judgment) (quoting L. Hand, The Bill of
+Rights 15 (1958)), the ability of the political branches to
+work out their differences minimizes the need for judicial
+intervention here.
+The upshot is that this case is unusual both in its minimal need for judicial intervention and in its more serious
+risk that intervention will bring about “embarrassment,”
+show lack of “respect” for the other branches, and potentially disrupt sound foreign policy decisionmaking. For
+these prudential reasons, I would hold that the politicalquestion doctrine bars further judicial consideration of
+this case. And I would affirm the Court of Appeals’ similar conclusion.
+With respect, I dissent.
+
+

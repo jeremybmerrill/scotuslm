@@ -1,0 +1,39 @@
+16
+
+MIMS v. ARROW FINANCIAL SERVICES, LLC
+Opinion of the Court
+
+First, the views of a single legislator, even a bill’s sponsor, are not controlling. Consumer Product Safety Comm’n
+v. GTE Sylvania, Inc., 447 U. S. 102, 118 (1980). Second,
+Senator Hollings did not mention federal-court jurisdiction
+or otherwise suggest that 47 U. S. C. §227(b)(3) is intended to divest federal courts of authority to hear TCPA
+claims. Hollings no doubt believed that mine-run TCPA
+claims would be pursued most expeditiously in state
+small-claims court.14 But one cannot glean from his
+statement any expectation that those courts, or state
+courts generally, would have exclusive jurisdiction over
+private actions alleging violations of the Act or of the
+FCC’s implementing regulations. Third, even if we agreed
+with Arrow that Senator Hollings expected private TCPA
+actions to proceed solely in state courts, and even if other
+supporters shared his view, that expectation would not
+control our judgment on 28 U. S. C. §1331’s compass. Cf.
+Yellow Freight, 494 U. S., at 826 (“persuasive showing
+that most legislators, judges, and administrators . . .
+involved in the enactment, amendment, enforcement, and
+interpretation of Title VII expected that such litigation would be processed exclusively in federal courts”
+did not overcome presumption of concurrent state-court
+jurisdiction).
+Among its arguments for state-court exclusivity, Arrow
+raises a concern about the impact on federal courts were
+we to uphold §1331 jurisdiction over private actions under
+the TCPA. “[G]iven the enormous volume of telecommunications presenting potential claims,” Arrow projects, federal courts could be inundated by $500-per-violation TCPA
+——————
+14 The complaint in this very case, we note, could not have been
+brought in small-claims court. Mims alleged some 12 calls, and sought
+treble damages ($1,500) for each. See App. 9–14; Tr. of Oral Arg. 12.
+The amount he sought to recover far exceeded the $5,000 ceiling on
+claims a Florida small-claims court can adjudicate. See Fla. Small
+Claims Rule 7.010(b) (rev. ed. 2011).
+
+

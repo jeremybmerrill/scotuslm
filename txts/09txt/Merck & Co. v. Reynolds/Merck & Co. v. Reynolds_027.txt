@@ -1,0 +1,44 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of SCALIA, J.
+
+True, the sensible presumption that a word means the
+same thing when it appears more than once in the same
+statutory context—or even in the very same statute—is
+rebuttable. See General Dynamics Land Systems, Inc. v.
+Cline, 540 U. S. 581, 595–596 (2004). Context may make
+clear that in one instance the word carries one meaning,
+and in a second instance another. See, e.g., id., at 596–
+597. But nothing in the context of §77m or §1658(b)(1)
+suggests that is the case. Both provisions impose limita
+tions periods for federal-law claims based on various false
+statements or omissions involving securities. The former
+applies to false statements or omissions in registration
+statements, §77k, and offers to sell securities, §77l(a)(2);
+the broad language of the latter (“claim[s] of fraud, deceit,
+manipulation, or contrivance in contravention of a regula
+tory requirement concerning the securities laws”) covers
+other “manipulative or deceptive device[s] or contriv
+ance[s]” made “in connection with the purchase or sale” of
+a security in violation of Securities and Exchange Com
+mission regulations, §78j(b), including SEC Rule 10b–5, 17
+CFR §240.10b–5(b) (2009). There is good reason, more
+over, for providing an actual-discovery rule for private
+§10(b) claims but providing (explicitly) a constructive
+discovery rule for claims governed by §77m: The elements
+of §10(b) claims, which include scienter, are likely more
+difficult to discover than the elements of claims under
+§77k or §77l(a)(2), which do not, see Herman & MacLean
+v. Huddleston, 459 U. S. 375, 382 (1983); Ernst & Ernst v.
+Hochfelder, 425 U. S. 185, 208–209 (1976); In re Morgan
+Stanley Information Fund Securities Litigation, 592 F. 3d
+347, 359 (CA2 2010). And a constructive-discovery stan
+dard may be easier to apply to the claims covered by §77m.
+Determining when the plaintiff should have uncovered an
+untrue assertion in a registration statement or prospectus
+is much simpler than assessing when a plaintiff should
+have learned that the defendant deliberately misled him
+
+

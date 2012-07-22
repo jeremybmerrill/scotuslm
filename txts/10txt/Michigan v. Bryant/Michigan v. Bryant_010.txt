@@ -1,0 +1,43 @@
+6
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+We held that reliability can be established if “the evidence
+falls within a firmly rooted hearsay exception,” or if it does
+not fall within such an exception, then if it bears “particu
+larized guarantees of trustworthiness.” Ibid.
+Nearly a quarter century later, we decided Crawford v.
+Washington, 541 U. S. 36. Petitioner Michael Crawford
+was prosecuted for stabbing a man who had allegedly
+attempted to rape his wife, Sylvia. Sylvia witnessed the
+stabbing, and later that night, after she and her husband
+were both arrested, police interrogated her about the
+incident. At trial, Sylvia Crawford claimed spousal privi
+lege and did not testify, but the State introduced a tape
+recording of Sylvia’s statement to the police in an effort to
+prove that the stabbing was not in self-defense, as Michael
+Crawford claimed. The Washington Supreme Court af
+firmed Crawford’s conviction because it found Sylvia’s
+statement to be reliable, as required under Ohio v. Rob
+erts. We reversed, overruling Ohio v. Roberts. 541 U. S.,
+at 60–68; see also Davis, 547 U. S., at 825, n. 4.
+Crawford examined the common-law history of the
+confrontation right and explained that “the principal evil
+at which the Confrontation Clause was directed was the
+civil-law mode of criminal procedure, and particularly its
+use of ex parte examinations as evidence against the ac
+cused.” 541 U. S., at 50. We noted that in England, pre
+trial examinations of suspects and witnesses by govern
+ment officials “were sometimes read in court in lieu of live
+testimony.” Id., at 43. In light of this history, we empha
+sized the word “witnesses” in the Sixth Amendment, defin
+ing it as “those who ‘bear testimony.’ ” Id., at 51 (quoting
+2 N. Webster, An American Dictionary of the English
+Language (1828)). We defined “testimony” as “ ‘ [a] solemn
+declaration or affirmation made for the purpose of estab
+lishing or proving some fact.’ ” 541 U. S., at 51 (quoting
+Webster). We noted that “[a]n accuser who makes a for
+mal statement to government officers bears testimony in a
+
+

@@ -1,0 +1,43 @@
+10
+
+MATRIXX INITIATIVES, INC. v. SIRACUSANO
+Opinion of the Court
+
+held that this materiality requirement is satisfied when
+there is “ ‘a substantial likelihood that the disclosure of
+the omitted fact would have been viewed by the reasonable
+investor as having significantly altered the “total mix” of
+information made available.’ ” Id., at 231–232 (quoting
+TSC Industries, Inc. v. Northway, Inc., 426 U. S. 438, 449
+(1976)). We were “careful not to set too low a standard of
+materiality,” for fear that management would “ ‘bury
+the shareholders in an avalanche of trivial information.’ ”
+485 U. S., at 231 (quoting TSC Industries, 426 U. S., at
+448–449).
+Basic involved a claim that the defendant had made
+misleading statements denying that it was engaged in
+merger negotiations when it was, in fact, conducting pre­
+liminary negotiations. See 485 U. S., at 227–229. The
+defendant urged a bright-line rule that preliminary
+merger negotiations are material only once the parties to
+the negotiations reach an agreement in principle. Id., at
+232–233. We observed that “[a]ny approach that desig­
+nates a single fact or occurrence as always determinative
+of an inherently fact-specific finding such as materiality,
+must necessarily be overinclusive or underinclusive.” Id.,
+at 236. We thus rejected the defendant’s proposed rule,
+explaining that it would “artificially exclud[e] from the
+definition of materiality information concerning merger
+discussions, which would otherwise be considered significant to the trading decision of a reasonable investor.”
+Ibid.
+Like the defendant in Basic, Matrixx urges us to adopt a
+bright-line rule that reports of adverse events5 associated
+——————
+statement alleged to have been misleading, [and] the reason or reasons
+why the statement is misleading.” 15 U. S. C. §78u–4(b)(1).
+5 The FDA defines an “[a]dverse drug experience” as “[a]ny adverse
+event associated with the use of a drug in humans, whether or not
+considered drug related.” 21 CFR §314.80(a) (2010). Federal law
+imposes certain obligations on pharmaceutical manufacturers to report
+
+

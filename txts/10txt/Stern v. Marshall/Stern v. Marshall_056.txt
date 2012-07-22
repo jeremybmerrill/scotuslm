@@ -1,0 +1,46 @@
+10
+
+STERN v. MARSHALL 
+
+BREYER, J., dissenting 
+
+
+B
+
+Applying Schor’s approach here, I conclude that the
+delegation of adjudicatory authority before us is consti­
+tutional. A grant of authority to a bankruptcy court
+to adjudicate compulsory counterclaims does not violate
+any constitutional separation-of-powers principle related to
+Article III.
+First, I concede that the nature of the claim to be adju
+dicated argues against my conclusion. Vickie Marshall’s
+counterclaim—a kind of tort suit—resembles “a suit at the
+common law.” Murray’s Lessee, 18 How., at 284. Although
+not determinative of the question, see Schor, 478 U. S., at
+853, a delegation of authority to a non-Article III judge to
+adjudicate a claim of that kind poses a heightened risk of
+encroachment on the Federal Judiciary, id., at 854.
+At the same time the significance of this factor is miti­
+gated here by the fact that bankruptcy courts often decide
+claims that similarly resemble various common-law ac­
+tions. Suppose, for example, that ownership of 40 acres of
+land in the bankruptcy debtor’s possession is disputed by a
+creditor. If that creditor brings a claim in the bankruptcy
+court, resolution of that dispute requires the bankruptcy
+court to apply the same state property law that would
+govern in a state court proceeding. This kind of dispute
+arises with regularity in bankruptcy proceedings.
+Of course, in this instance the state-law question is
+embedded in a debtor’s counterclaim, not a creditor’s
+claim. But the counterclaim is “compulsory.” It “arises
+out of the transaction or occurrence that is the subject
+matter of the opposing party’s claim.” Fed. Rule Civ. Proc.
+13(a); Fed. Rule Bkrtcy. Proc. 7013. Thus, resolution of
+the counterclaim will often turn on facts identical to, or at
+least related to, those at issue in a creditor’s claim that is
+undisputedly proper for the bankruptcy court to decide.
+Second, the nature of the non-Article III tribunal argues
+in favor of constitutionality. That is because the tribunal
+
+

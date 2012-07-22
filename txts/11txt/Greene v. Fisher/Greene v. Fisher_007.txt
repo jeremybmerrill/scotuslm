@@ -1,0 +1,40 @@
+Cite as: 565 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+occurs when direct state appeals have been exhausted and
+a petition for writ of certiorari from this Court has become
+time barred or has been disposed of. Griffith v. Kentucky,
+479 U. S. 314, 321, n. 6 (1987). Greene contends that,
+because finality marks the temporal cutoff for Teague
+purposes, it must mark the temporal cutoff for “clearly
+established Federal law” under AEDPA.
+The analogy has been rejected by our cases. We have
+explained that AEDPA did not codify Teague, and that
+“the AEDPA and Teague inquiries are distinct.” Horn v.
+Banks, 536 U. S. 266, 272 (2002) (per curiam). The retroactivity rules that govern federal habeas review on the
+merits—which include Teague—are quite separate from
+the relitigation bar imposed by AEDPA; neither abrogates
+or qualifies the other. If §2254(d)(1) was, indeed, pegged
+to Teague, it would authorize relief when a state-court
+merits adjudication “resulted in a decision that became
+contrary to, or an unreasonable application of, clearly
+established Federal law, before the conviction became
+final.” The statute says no such thing, and we see no
+reason why Teague should alter AEDPA’s plain meaning.*
+Greene alternatively contends that the relevant “decision” to which the “clearly established Federal law” criterion must be applied is the decision of the state supreme
+court that disposes of a direct appeal from a defendant’s
+conviction or sentence, even when (as here) that decision
+does not adjudicate the relevant claim on the merits. This
+is an implausible reading of §2254(d)(1). The text, we
+repeat, provides that habeas relief
+——————
+* Whether §2254(d)(1) would bar a federal habeas petitioner from
+relying on a decision that came after the last state-court adjudication
+on the merits, but fell within one of the exceptions recognized in
+Teague, 489 U. S., at 311, is a question we need not address to resolve
+this case.
+
+

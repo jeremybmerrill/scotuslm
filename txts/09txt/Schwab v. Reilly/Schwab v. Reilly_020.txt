@@ -1,0 +1,68 @@
+16
+
+SCHWAB v. REILLY 
+
+Opinion of the Court 
+
+
+III 
+
+The Court of Appeals erred in holding that our decision
+in Taylor dictates a contrary conclusion. See 534 F. 3d, at
+178. Taylor does not rest on what the debtor “meant” to
+exempt. 534 F. 3d, at 178. Rather, Taylor applies to the
+face of a debtor’s claimed exemption the Code provisions
+that compel reversal here.
+The debtor in Taylor, like the debtor here, filed a sched­
+ule of exemptions with the Bankruptcy Court on which the
+debtor described the property subject to the claimed ex­
+emption, identified the Code provision supporting the
+exemption, and listed the dollar value of the exemption.
+Critically, however, the debtor in Taylor did not, like the
+debtor here, state the value of the claimed exemption as a
+specific dollar amount at or below the limits the Code
+allows. Instead, the debtor in Taylor listed the value of
+the exemption itself as “$ unknown”:
+Schedule B-4. ─Property Claimed Exempt
+Type of
+Property
+
+Proceeds from
+lawsuit
+
+Location, Description,
+and, So Far As Relevant
+to the Claim of Exemp­
+tion, Present Use of
+Property
+Winn v. TWA
+Claim for lost wages
+
+Specify the
+Statute
+Creating the
+Exemption
+
+Value Claimed
+Exempt
+
+11 U. S. C.
+522(b)(d)
+
+$ unknown
+
+The interested parties in Taylor agreed that this entry
+——————
+the estimate must be viewed as part of the exemption and is therefore
+subject to the Rule. See Brief for Respondent 40−41. The dissent
+ranges far beyond even this unavailing argument in suggesting that the
+market value estimate served as “an essential factor in determining the
+nature of the ‘interest’ a debtor lists as exempt,” post, at 9, n. 9, even
+before 1991 when that estimate did not appear on the schedule of
+“property claimed as exempt” (former Schedule B−4), but rather ap­
+peared on former “Schedule B–2,” post, at 7, n. 6, which merely listed
+the debtor’s “personal property” as of the date of the petition filing.
+Interim Fed. Rule Bkrtcy. Proc. Official Form 6, Schedules B–2, B–4
+(1979).
+
+

@@ -1,0 +1,173 @@
+NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Wash­ ington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press. No. 10–6 GLOBAL-TECH APPLIANCES, INC., ET AL., [May 31, 2011]  JUSTICE ALITO delivered the opinion of the Court. We consider whether a party who “actively induces in­ fringement of a patent” under 35 U. S. C. §271(b) must know that the induced acts constitute patent infringement. This case concerns a patent for an innovative deep fryer designed by respondent SEB S. A., a French maker of home appliances. In the late 1980’s, SEB invented a “cool­ touch” deep fryer, that is, a deep fryer for home use with external surfaces that remain cool during the frying proc­ ess. The cool-touch deep fryer consisted of a metal frying pot surrounded by a plastic outer housing. Attached to the housing was a ring that suspended the metal pot and insulated the housing from heat by separating it from the pot, creating air space between the two components. SEB obtained a U. S. patent for its design in 1991, and some­ time later, SEB started manufacturing the cool-touch fryer and selling it in this country under its well-known “T-Fal” brand. Superior to other products in the American market at the time, SEB’s fryer was a commercial success.
+In 1997, Sunbeam Products, Inc., a U. S. competitor of SEB, asked petitioner Pentalpha Enterprises, Ltd., to supply it with deep fryers meeting certain specifications. Pentalpha is a Hong Kong maker of home appliances and a wholly owned subsidiary of petitioner Global-Tech Ap­ pliances, Inc.1 In order to develop a deep fryer for Sunbeam, Pentalpha purchased an SEB fryer in Hong Kong and copied all but its cosmetic features. Because the SEB fryer bought in Hong Kong was made for sale in a foreign market, it bore no U. S. patent markings. After copying SEB’s design, Pentalpha retained an attorney to conduct a right-to-use study, but Pentalpha refrained from telling the attorney that its design was copied directly from SEB’s. The attorney failed to locate SEB’s patent, and in Au­ gust 1997 he issued an opinion letter stating that Pental­ pha’s deep fryer did not infringe any of the patents that he had found. That same month, Pentalpha started selling its deep fryers to Sunbeam, which resold them in the United States under its trademarks. By obtaining its product from a manufacturer with lower production costs, Sunbeam was able to undercut SEB in the U. S. market. After SEB’s customers started defecting to Sunbeam, SEB sued Sunbeam in March 1998, alleging that Sun­ beam’s sales infringed SEB’s patent. Sunbeam notified Pentalpha of the lawsuit the following month. Unde­ terred, Pentalpha went on to sell deep fryers to Fingerhut Corp. and Montgomery Ward & Co., both of which resold them in the United States under their respective trade­ marks. SEB settled the lawsuit with Sunbeam, and then sued Pentalpha, asserting two theories of recovery: First, SEB claimed that Pentalpha had directly infringed SEB’s patent in violation of 35 U. S. C. §271(a), by selling or
+offering to sell its deep fryers; and second, SEB claimed that Pentalpha had contravened §271(b) by actively induc­ ing Sunbeam, Fingerhut, and Montgomery Ward to sell or to offer to sell Pentalpha’s deep fryers in violation of SEB’s patent rights. Following a 5-day trial, the jury found for SEB on both theories and also found that Pentalpha’s infringement had been willful. Pentalpha filed post-trial motions seeking a new trial or judgment as a matter of law on several grounds. As relevant here, Pentalpha argued that there was insufficient evidence to support the jury’s finding of induced infringement under §271(b) because Pentalpha did not actually know of SEB’s patent until it received the notice of the Sunbeam lawsuit in April 1998. The District Court rejected Pentalpha’s argument, as did the Court of Appeals for the Federal Circuit, which Co., 594 F. 3d 1360 (2010). Summarizing a recent en banc decision, the Federal Circuit stated that induced in­ fringement under §271(b) requires a “plaintiff [to] show that the alleged infringer knew or should have known that his actions would induce actual infringements” and that this showing includes proof that the alleged infringer knew of the patent. Id., at 1376. Although the record contained no direct evidence that Pentalpha knew of SEB’s patent before April 1998, the court found adequate evidence to support a finding that “Pentalpha deliberately disregarded a known risk that SEB had a protective pat­ ent.” Id., at 1377. Such disregard, the court said, “is not different from actual knowledge, but is a form of actual knowledge.” Ibid. We granted certiorari. 562 U. S. ___ (2010). Pentalpha argues that active inducement liability under §271(b) requires more than deliberate indifference to a
+known risk that the induced acts may violate an existing patent. Instead, Pentalpha maintains, actual knowledge of the patent is needed. In assessing Pentalpha’s argument, we begin with the text of §271(b)—which is short, simple, and, with respect to the question presented in this case, inconclusive. Sec­ tion 271(b) states: “Whoever actively induces infringement of a patent shall be liable as an infringer.” Although the text of §271(b) makes no mention of intent, we infer that at least some intent is required. The term “induce” means “[t]o lead on; to influence; to prevail on; to move by persuasion or influence.” Webster’s New Interna­ tional Dictionary 1269 (2d ed. 1945). The addition of the adverb “actively” suggests that the inducement must involve the taking of affirmative steps to bring about the desired result, see id., at 27. When a person actively induces another to take some action, the inducer obviously knows the action that he or she wishes to bring about. If a used car salesman induces a customer to buy a car, the salesman knows that the desired result is the purchase of the car. But what if it is said that the salesman induced the customer to buy a damaged car? Does this mean merely that the salesman induced the customer to purchase a car that happened to be damaged, a fact of which the salesman may have been unaware? Or does this mean that the salesman knew that the car was damaged? The statement that the salesman induced the customer to buy a damaged car is ambiguous. So is §271(b). In referring to a party that “induces infringement,” this provision may require merely that the inducer lead another to engage in conduct that happens to amount to infringement, i.e., the making, using, offering to sell, selling, or importing of a patented invention. See
+§271(a).2 On the other hand, the reference to a party that “induces infringement” may also be read to mean that the inducer must persuade another to engage in conduct that the inducer knows is infringement. Both readings are possible. Finding no definitive answer in the statutory text, we turn to the case law that predates the enactment of §271 as part the Patent Act of 1952. As we recognized in Aro (1964) (Aro II), “[t]he section was designed to ‘codify in statutory form principles of contributory infringement’ which had been ‘part of our law for about 80 years.’ ” Id., at 485–486, n. 6 (quoting H. R. Rep. No. 1923, 82d Cong., 2d Sess., 9 (1952)). Unfortunately, the relevant pre-1952 cases are less clear than one might hope with respect to the question pre­ sented here. Before 1952, both the conduct now covered by §271(b) (induced infringement) and the conduct now addressed by §271(c) (sale of a component of a patented invention) were viewed as falling within the overarching concept of “contributory infringement.” Cases in the latter category—i.e., cases in which a party sold an item that was not itself covered by the claims of a patent but that enabled another party to make or use a patented machine, process, or combination—were more common. The pre-1952 case law provides conflicting signals re­ garding the intent needed in such cases. In an oft-cited decision, then-Judge Taft suggested that it was sufficient if the seller of the component part intended that the part
+be used in an invention that happened to infringe a pat­ ent. He wrote that it was “well settled that where one makes and sells one element of a combination covered by a patent with the intention and for the purpose of bringing about its use in such a combination he is guilty of con­ Ohio Brass Co., 80 F. 712, 721 (CA6 1897).3 Co., 224 U. S. 1 (1912), overruled on other grounds, Motion 502 (1917), stated that “if the defendants [who were ac­ cused of contributory infringement] knew of the patent and that [the direct infringer] had unlawfully made the pat­
+ented article . . . with the intent and purpose that [the direct infringer] should use the infringing article . . . they would assist in her infringing use.” 224 U. S., at 33 (em­ 913 (2005), which looked to the law of contributory patent infringement for guidance in determining the standard to be applied in a case claiming contributory copyright in­ fringement, contains dicta that may be read as interpret­ ing the pre-1952 cases this way. In Grokster, we said that “[t]he inducement rule . . . premises liability on purpose­ ful, culpable expression and conduct.” Id., at 937. While both the language of §271(b) and the pre-1952 case law that this provision was meant to codify are sus­ ceptible to conflicting interpretations, our decision in Aro II resolves the question in this case. In Aro II, a majority held that a violator of §271(c) must know “that the combi­
+nation for which his component was especially designed was both patented and infringing,” 377 U. S., at 488, and as we explain below, that conclusion compels this same knowledge for liability under §271(b). As noted above, induced infringement was not consid­ ered a separate theory of indirect liability in the pre-1952 case law. Rather, it was treated as evidence of “contribu­ tory infringement,” that is, the aiding and abetting of direct infringement by another party. See Lemley, In­ (2005). When Congress enacted §271, it separated what had previously been regarded as contributory infringe­ ment into two categories, one covered by §271(b) and the other covered by §271(c). Aro II concerned §271(c), which states in relevant part: “Whoever offers to sell or sells . . . a component of a patented [invention] . . . , constituting a material part of the invention, knowing the same to be especially made or especially adapted for use in an infringement of such patent, and not a staple article or commodity of commerce suitable for substantial noninfringing use, shall be liable as a contributory infringer.” (Em­ phasis added.) This language contains exactly the same ambiguity as §271(b). The phrase “knowing [a component] to be espe­ cially made or especially adapted for use in an infringe­ ment” may be read to mean that a violator must know that the component is “especially adapted for use” in a product that happens to infringe a patent. Or the phrase may be read to require, in addition, knowledge of the patent’s existence. This question closely divided the Aro II Court. In a badly fractured decision, a majority concluded that knowl­
+edge of the patent was needed. 377 U. S., at 488, and n. 8; id., at 514 (White, J., concurring); id., at 524–527 (Black, J., dissenting).5 Justice Black’s opinion, which explained the basis for the majority’s view, concluded that the lan­ guage of §271(c) supported this interpretation. See id., at 525. His opinion also relied on an amendment to this language that was adopted when the bill was in commit­ tee. Id., at 525–527. Four Justices disagreed with this interpretation and would have held that a violator of §271(c) need know only that the component is specially adapted for use in a prod­ uct that happens to infringe a patent. See id., at 488–490, n. 8. These Justices thought that this reading was sup­ ported by the language of §271(c) and the pre-1952 case law, and they disagreed with the inference drawn by the majority from the amendment of §271(c)’s language. Ibid. While there is much to be said in favor of both views expressed in Aro II, the “holding in Aro II has become a fixture in the law of contributory infringement under [section] 271(c),” 5 R. Moy, Walker on Patents §15:20, p. 15–131 (4th ed. 2009)—so much so that SEB has not asked us to overrule it, see Brief for Respondent 19, n. 3. Nor has Congress seen fit to alter §271(c)’s intent re­ quirement in the nearly half a century since Aro II was decided. In light of the “ ‘special force’ ” of the doctrine of stare decisis with regard to questions of statutory inter­ 552 U. S. 130, 139 (2008), we proceed on the premise that §271(c) requires knowledge of the existence of the patent that is infringed.
+Based on this premise, it follows that the same knowl­ edge is needed for induced infringement under §271(b). As noted, the two provisions have a common origin in the pre­ 1952 understanding of contributory infringement, and the language of the two provisions creates the same difficult interpretive choice. It would thus be strange to hold that knowledge of the relevant patent is needed under §271(c) but not under §271(b). Accordingly, we now hold that induced infringement under §271(b) requires knowledge that the induced acts constitute patent infringement. Returning to Pentalpha’s principal challenge, we agree that deliberate indifference to a known risk that a patent exists is not the appropriate standard under §271(b). We nevertheless affirm the judgment of the Court of Appeals because the evidence in this case was plainly sufficient to support a finding of Pentalpha’s knowledge under the doctrine of willful blindness. The doctrine of willful blindness is well established in criminal law. Many criminal statutes require proof that a defendant acted knowingly or willfully, and courts apply­ ing the doctrine of willful blindness hold that defendants cannot escape the reach of these statutes by deliberately shielding themselves from clear evidence of critical facts that are strongly suggested by the circumstances. The traditional rationale for this doctrine is that defendants who behave in this manner are just as culpable as those who have actual knowledge. Edwards, The Criminal (hereinafter Edwards) (observing on the basis of English authorities that “up to the present day, no real doubt has been cast on the proposition that [willful blindness] is as
+culpable as actual knowledge”). It is also said that per­ sons who know enough to blind themselves to direct proof of critical facts in effect have actual knowledge of those 1976) (en banc). This Court’s opinion more than a century ago in Spurr term “willful blindness,” endorsed a similar concept. The case involved a criminal statute that prohibited a bank officer from “willfully” certifying a check drawn against insufficient funds. We said that a willful violation would occur “if the [bank] officer purposely keeps himself in ignorance of whether the drawer has money in the bank.” Id., at 735. Following our decision in Spurr, several fed­ eral prosecutions in the first half of the 20th century invoked the doctrine of willful blindness.7 Later, a 1962 proposed draft of the Model Penal Code, which has since become official, attempted to incorporate the doctrine by
+defining “knowledge of the existence of a particular fact” to include a situation in which “a person is aware of a high probability of [the fact’s] existence, unless he actually believes that it does not exist.” ALI, Model Penal Code §2.02(7) (Proposed Official Draft 1962). Our Court has used the Code’s definition as a guide in analyzing whether certain statutory presumptions of knowledge comported 46–47, and n. 93 (1969). And every Court of Appeals— with the possible exception of the District of Columbia Circuit, see n. 9, infra—has fully embraced willful blind­ ness, applying the doctrine to a wide range of criminal statutes. Given the long history of willful blindness and its wide acceptance in the Federal Judiciary, we can see no reason why the doctrine should not apply in civil lawsuits for induced patent infringement under 35 U. S. C. §271(b).8 Pentalpha urges us not to take this step, arguing that §271(b) demands more than willful blindness with respect to the induced acts that constitute infringement. See Reply Brief for Petitioners 13–14. This question, however, is not at issue here. There is no need to invoke the doc­ trine of willful blindness to establish that Pentalpha knew that the retailers who purchased its fryer were selling that product in the American market; Pentalpha was indis­ putably aware that its customers were selling its product in this country.
+Pentalpha further contends that this Court in Grokster did not accept the Solicitor General’s suggestion that Grokster and StreamCast could be held liable for inducing the infringement of copyrights under a theory of willful blindness. Reply Brief for Petitioners 14 (citing Brief for United States, O. T. 2004, No. 04–480, pp. 29–30). But the Court had no need to consider the doctrine of willful blindness in that case because the Court found ample evidence that Grokster and StreamCast were fully aware—in the ordinary sense of the term—that their file­ sharing software was routinely used in carrying out the acts that constituted infringement (the unauthorized sharing of copyrighted works) and that these acts violated the rights of copyright holders. See 545 U. S., at 922–927, 937–940. While the Courts of Appeals articulate the doctrine of willful blindness in slightly different ways, all appear to agree on two basic requirements: (1) the defendant must subjectively believe that there is a high probability that a fact exists and (2) the defendant must take deliberate actions to avoid learning of that fact.9 We think these
+requirements give willful blindness an appropriately limited scope that surpasses recklessness and negligence. Under this formulation, a willfully blind defendant is one who takes deliberate actions to avoid confirming a high probability of wrongdoing and who can almost be said to have actually known the critical facts. See G. Williams, Criminal Law §57, p. 159 (2d ed. 1961) (“A court can prop­ erly find wilful blindness only where it can almost be said that the defendant actually knew”). By contrast, a reck­ less defendant is one who merely knows of a substantial and unjustified risk of such wrongdoing, see ALI, Model Penal Code §2.02(2)(c) (1985), and a negligent defendant is one who should have known of a similar risk but, in fact, did not, see §2.02(2)(d). The test applied by the Federal Circuit in this case departs from the proper willful blindness standard in two important respects. First, it permits a finding of knowl­ edge when there is merely a “known risk” that the induced acts are infringing. Second, in demanding only “deliberate indifference” to that risk, the Federal Circuit’s test does not require active efforts by an inducer to avoid knowing about the infringing nature of the activities. In spite of these flaws, we believe that the evidence when viewed in the light most favorable to the verdict for SEB is sufficient under the correct standard. The jury could have easily found that before April 1998 Pentalpha willfully blinded itself to the infringing nature of the sales it encouraged Sunbeam to make.10
+SEB’s cool-touch fryer was an innovation in the U. S. market when Pentalpha copied it. App. to Brief for Re­ spondent 49. As one would expect with any superior product, sales of SEB’s fryer had been growing for some time. Ibid. Pentalpha knew all of this, for its CEO and president, John Sham, testified that, in developing a product for Sunbeam, Pentalpha performed “market re­ search” and “gather[ed] information as much as possible.” App. 23a. Pentalpha’s belief that SEB’s fryer embodied advanced technology that would be valuable in the U. S. market is evidenced by its decision to copy all but the cosmetic features of SEB’s fryer. Also revealing is Pentalpha’s decision to copy an over­ seas model of SEB’s fryer. Pentalpha knew that the prod­ uct it was designing was for the U. S. market, and Sham— himself a named inventor on numerous U. S. patents, see id., at 78a–86a—was well aware that products made for overseas markets usually do not bear U. S. patent mark­ ings, App. in No. 2009–1099 etc. (CA Fed.), pp. A–1904 to A–1906. Even more telling is Sham’s decision not to in­ form the attorney from whom Pentalpha sought a right-to­ use opinion that the product to be evaluated was simply a knockoff of SEB’s deep fryer. On the facts of this case, we cannot fathom what motive Sham could have had for withholding this information other than to manufacture a claim of plausible deniability in the event that his com­ pany was later accused of patent infringement. Nor does Sham’s testimony on this subject provide any reason to
+doubt that inference. Asked whether the attorney would have fared better had he known of SEB’s design, Sham was nonresponsive. All he could say was that a patent search is not an “easy job” and that is why he hired attor­ neys to perform them. App. 112a. Taken together, this evidence was more than sufficient for a jury to find that Pentalpha subjectively believed there was a high probability that SEB’s fryer was pat­ ented, that Pentalpha took deliberate steps to avoid know­ ing that fact, and that it therefore willfully blinded itself to the infringing nature of Sunbeam’s sales. * * * The judgment of the United States Court of Appeals for the Federal Circuit is Affirmed.
+——————
+1 We
+
+refer to both petitioners as “Pentalpha.”
+
+
+——————
+2 Direct infringement has long been understood to require no more
+than the unauthorized use of a patented invention. See Aro Mfg. Co. v.
+Convertible Top Replacement Co., 377 U. S. 476, 484 (1964); 3 A. Deller,
+Walker on Patents §453, p. 1684 (1937) (hereinafter Deller). Thus, a
+direct infringer’s knowledge or intent is irrelevant.
+
+
+——————
+3 For an article that is particularly clear on this point, see H. Howson,
+Paper before American Association of Inventors and Manufacturers,
+Washington, D. C., Contributory Infringement of Patents 9 (Jan. 1895)
+(reading late 19th-century case law to require only that a party “inten­
+tionally contribut[e] to the act, which the Court holds to be an in­
+fringement” (emphasis in original)). Other authorities from this era
+likewise suggest that it was sufficient if the seller intended a compo­
+nent part to be used in a manner that happened to infringe a patent.
+See, e.g., Morgan Envelope Co. v. Albany Perforated Wrapping Paper
+Co., 152 U. S. 425, 433 (1894) (“There are doubtless many cases to the
+effect that the manufacture and sale of a single element of a combina­
+tion, with intent that it shall be united to the other elements, and so
+complete the combination, is an infringement”); Individual Drinking
+Cup Co. v. Errett, 297 F. 733, 739–740 (CA2 1924) (“[B]efore one may be
+held for contributory infringement, it must be shown that he had
+knowingly done some act without which the infringement would not
+have occurred”); New York Scaffolding Co. v. Whitney, 224 F. 452, 459
+(CA8 1915) (“Contributory infringement is the intentional aiding of one
+person by another in the unlawful making, or selling, or using of a third
+person’s patented invention”); 3 Deller §507, at 1764–1765 (“[W]here a
+person furnishes one part of a patented combination, intending that it
+shall be assembled with the other parts thereof, and that the complete
+combination shall be used or sold; that person is liable to an action, as
+infringer of the patent on the complete combination”); 3 W. Robinson,
+Patents §924, p. 101 (1890) (“To make or sell a single element with the
+intent that it shall be united to the other elements, and so complete
+the combination, is infringement”).
+
+
+——————
+4 The earlier case of Cortelyou v. Charles Eneu Johnson & Co., 207
+U. S. 196 (1907), contains language that may be read as adopting a
+similar position. In that case, the Neostyle Company had a patent for
+a “stencil duplicating machine” called the “rotary Neostyle,” and it
+licensed the use of its machine pursuant to a license requiring the
+licensee to use only Neostyle’s ink. Id., at 198. Another company,
+Charles Eneu Johnson & Co., sold its ink to a Neostyle licensee, and
+Neostyle sued the Johnson company, claiming that it was “inducing a
+breach of the license contracts” and was thus indirectly infringing
+Neostyle’s patent rights. Id., at 199. The Court held that the defen­
+dant did not have “sufficient evidence of notice” to support liability.
+The Court wrote:
+“True, the defendant filled a few orders for ink to be used on a rotary
+Neostyle, but it does not appear that it ever solicited an order for ink to
+be so used, that it was ever notified by the plaintiffs of the rights which
+they claimed, or that anything which it did was considered by them an
+infringement upon those rights.” Id., at 200 (emphasis added).
+The italicized language above may suggest that it was necessary to
+show that the defendants had notice of Neostyle’s patent rights. See
+also Tubular Rivet & Stud Co. v. O’Brien, 93 F. 200, 203 (CC Mass.
+1898) (“a necessary condition of the defendant’s guilt is his knowledge
+of the complainant’s patent”).
+
+
+——————
+5 Although Justice Black disagreed with the judgment and was thus
+in dissent, he was in the majority with respect to the interpretation of
+§271(c), and his opinion sets out the reasoning of the majority on this
+point. Three other Justices joined his opinion, and a fourth, Justice
+White, endorsed his reasoning with respect to the interpretation of
+§271(c). See 377 U. S., at 514 (White, J., concurring).
+
+
+——————
+6 The
+
+doctrine emerged in English law almost four decades earlier
+and became firmly established by the end of the 19th century. Edwards
+298–301. In American law, one of the earliest references to the doctrine
+appears in an 1882 jury charge in a federal prosecution. In the charge,
+the trial judge rejected the “great misapprehension” that a person may
+“close his eyes, when he pleases, upon all sources of information, and
+then excuse his ignorance by saying that he does not see anything.”
+See United States v. Houghton, 14 F. 544, 547 (DC NJ).
+7 United States v. Yasser, 114 F. 2d 558, 560 (CA3 1940) (interpreting
+the crime of knowingly and fraudulently concealing property belonging
+to the estate of a bankrupt debtor to include someone who “closed his
+eyes to facts which made the existence of” the receiver or trustee
+“obvious”); Rachmil v. United States, 43 F. 2d 878, 881 (CA9 1930) (per
+curiam) (same); United States v. Erie R. Co., 222 F. 444, 448–451 (DC
+NJ 1915) (approving a “willful ignorance” jury instruction to a charge
+that a rail carrier knowingly granted a concession to a shipper); Grant
+Bros. Constr. Co. v. United States, 13 Ariz. 388, 400, 114 P. 955, 959
+(1911) (interpreting the crime of knowingly encouraging the importa­
+tion of contract laborers to include those who “willfully and intention­
+ally ignored facts and circumstances known to them, which would have
+led to [actual] knowledge”).
+
+
+——————
+8 Unlike
+
+the dissent, we do not think that utilitarian concerns de­
+mand a stricter standard for knowledge under §271(b), see post, at 3
+(opinion of KENNEDY, J.). The dissent does not explain—nor can we
+see—why promoting “ ‘the Progress of Science and useful Arts,’ ” ibid.,
+requires protecting parties who actively encourage others to violate
+patent rights and who take deliberate steps to remain ignorant of those
+rights despite a high probability that the rights exist and are being
+infringed, see infra, at 13–14.
+
+
+——————
+9 United States v. Pérez-Meléndez, 599 F. 3d 31, 41 (CA1 2010);
+United States v. Svoboda, 347 F. 3d 471, 477–478 (CA2 2003); United
+States v. Stadtmauer, 620 F. 3d 238, 257 (CA3 2010); United States v.
+Schnabel¸ 939 F. 2d 197, 203 (CA4 1991) (“The willful blindness in­
+struction allows the jury to impute the element of knowledge to the
+defendant if the evidence indicates that he purposely closed his eyes to
+avoid knowing what was taking place around him”); United States v.
+Freeman, 434 F. 3d 369, 378 (CA5 2005); United States v. Holloway,
+731 F. 2d 378, 380–381 (CA6 1984) (per curiam) (upholding jury in­
+struction on knowledge when “it prevent[ed] a criminal defendant from
+escaping conviction merely by deliberately closing his eyes to the
+obvious risk that he is engaging in unlawful conduct”); United States v.
+Draves, 103 F. 3d 1328, 1333 (CA7 1997) (“knowledge may in some
+circumstances be inferred from strong suspicion of wrongdoing coupled
+with active indifference to the truth”); United States v. Florez, 368 F. 3d
+
+
+——————
+1042, 1044 (CA8 2004) (“Ignorance is deliberate if the defendant was
+presented with facts that put her on notice that criminal activity was
+particularly likely and yet she intentionally failed to investigate those
+facts”); United States v. Heredia, 483 F. 3d 913, 917, 920 (CA9 2007) (en
+banc); United States v. Glick, 710 F. 2d 639, 643 (CA10 1983); United
+States v. Perez-Tosta, 36 F. 3d 1552, 1564 (CA11 1994). But see United
+States v. Alston-Graves, 435 F. 3d 331, 339–341 (CADC 2006).
+10 The District Court did not instruct the jury according to the stan­
+
+
+——————
+dard we set out today, see App. to Brief for Respondent 26–27, and
+Pentalpha asks us to remand the case so it can move for a new trial.
+We reject that request. Pentalpha did not challenge the jury instruc­
+tions in the Court of Appeals, see Brief for Appellants in No. 2009–1099
+etc. (CA Fed.), pp. 21–22, and that court did not pass upon the issue.
+Finding no “exceptional” circumstances in this case, we follow our usual
+course and refuse to consider the issue. See Youakim v. Miller, 425
+U. S. 231, 234 (1976) (per curiam).
+
+

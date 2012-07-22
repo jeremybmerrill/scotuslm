@@ -1,0 +1,52 @@
+Cite as: 561 U. S. ____ (2010)
+
+3
+
+Syllabus
+Finally, the Federal Circuit incorrectly concluded that this Court has
+endorsed the machine-or-transformation test as the exclusive test.
+Recent authorities show that the test was never intended to be ex
+haustive or exclusive. See, e.g., Parker v. Flook, 437 U. S. 584, 588,
+n. 9. Pp. 5–8.
+(c) Section 101 similarly precludes a reading of the term “process”
+that would categorically exclude business methods.
+The term
+“method” within §100(b)’s “process” definition, at least as a textual
+matter and before other consulting other Patent Act limitations and
+this Court’s precedents, may include at least some methods of doing
+business. The Court is unaware of any argument that the “ordinary,
+contemporary, common meaning,” Diehr, supra, at 182, of “method”
+excludes business methods. Nor is it clear what a business method
+exception would sweep in and whether it would exclude technologies
+for conducting a business more efficiently. The categorical exclusion
+argument is further undermined by the fact that federal law explic
+itly contemplates the existence of at least some business method pat
+ents: Under §273(b)(1), if a patent-holder claims infringement based
+on “a method in [a] patent,” the alleged infringer can assert a defense
+of prior use. By allowing this defense, the statute itself acknowledges
+that there may be business method patents. Section 273 thus clari
+fies the understanding that a business method is simply one kind of
+“method” that is, at least in some circumstances, eligible for patent
+ing under §101. A contrary conclusion would violate the canon
+against interpreting any statutory provision in a manner that would
+render another provision superfluous. See Corley v. United States,
+556 U. S. ___, ___. Finally, while §273 appears to leave open the pos
+sibility of some business method patents, it does not suggest broad
+patentability of such claimed inventions. Pp. 10–11.
+(d) Even though petitioners’ application is not categorically outside
+of §101 under the two atextual approaches the Court rejects today,
+that does not mean it is a “process” under §101. Petitioners seek to
+patent both the concept of hedging risk and the application of that
+concept to energy markets. Under Benson, Flook, and Diehr, how
+ever, these are not patentable processes but attempts to patent ab
+stract ideas. Claims 1 and 4 explain the basic concept of hedging and
+reduce that concept to a mathematical formula. This is an unpat
+entable abstract idea, just like the algorithms at issue in Benson and
+Flook. Petitioners’ remaining claims, broad examples of how hedging
+can be used in commodities and energy markets, attempt to patent
+the use of the abstract hedging idea, then instruct the use of well
+known random analysis techniques to help establish some of the in
+puts into the equation. They add even less to the underlying abstract
+principle than the invention held patent ineligible in Flook. Pp. 12–
+
+

@@ -1,0 +1,50 @@
+2
+
+JONES v. HARRIS ASSOCIATES L. P.
+Syllabus
+concept in the analogous bankruptcy context: “The essence of the test
+is whether or not under all the circumstances the transaction carries
+the earmarks of an arm’s length bargain. If it does not, equity will
+set it aside.” Gartenberg’s approach fully incorporates this under
+standing, insisting that all relevant circumstances be taken into ac
+count and using the range of fees that might result from arm’s-length
+bargaining as the benchmark for reviewing challenged fees. Pp. 9–
+11.
+(c) Gartenberg’s approach also reflects §36(b)’s place in the statu
+tory scheme and, in particular, its relationship to the other protec
+tions the Act affords investors. Under the Act, scrutiny of investment
+adviser compensation by a fully informed mutual fund board, see
+Burks v. Lasker, 441 U. S. 471, 482, and shareholder suits under
+§36(b) are mutually reinforcing but independent mechanisms for con
+trolling adviser conflicts of interest, see Daily Income Fund, Inc. v.
+Fox, 464 U. S. 523, 541. In recognition of the disinterested directors’
+role, the Act instructs courts to give board approval of an adviser’s
+compensation “such consideration . . . as is deemed appropriate under
+all the circumstances.” §80a–35(b)(1). It may be inferred from this
+formulation that (1) a measure of deference to a board’s judgment
+may be appropriate in some instances, and (2) the appropriate meas
+ure of deference varies depending on the circumstances. Gartenberg
+heeds these precepts. See 694 F. 2d, at 930. Pp. 11–12.
+(d) The Court resolves the parties’ disagreements on several impor
+tant questions. First, since the Act requires consideration of all rele
+vant factors, §80a–35(b)(2), courts must give comparisons between
+the fees an investment adviser charges a captive mutual fund and
+the fees it charges its independent clients the weight they merit in
+light of the similarities and differences between the services the cli
+ents in question require. In doing so, the Court must be wary of in
+apt comparisons based on significant differences between those ser
+vices and must be mindful that the Act does not necessarily ensure
+fee parity between the two types of clients. However, courts should
+not rely too heavily on comparisons with fees charged mutual funds
+by other advisers, which may not result from arm’s-length negotia
+tions. Finally, a court’s evaluation of an investment adviser’s fiduci
+ary duty must take into account both procedure and substance.
+Where disinterested directors consider all of the relevant factors,
+their decision to approve a particular fee agreement is entitled to
+considerable weight, even if the court might weigh the factors differ
+ently. Cf. Lasker, 441 U. S., at 486. In contrast, where the board’s
+process was deficient or the adviser withheld important information,
+the court must take a more rigorous look at the outcome. Id., at 484.
+Gartenberg’s “so disproportionately large” standard, 694 F. 2d, at
+
+

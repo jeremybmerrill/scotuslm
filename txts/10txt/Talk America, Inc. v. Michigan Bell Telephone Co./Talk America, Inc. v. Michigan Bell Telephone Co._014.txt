@@ -1,0 +1,44 @@
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+element—to include entrance facilities. Triennial Review
+Remand Order ¶¶136–137; see 47 CFR §51.319(e)(1)
+(defining dedicated transport to include “incumbent LEC
+transmission facilities . . . between wire centers or
+switches owned by incumbent LECs and switches owned
+by [competing] carriers”). Given that revised definition, it
+is perfectly sensible to conclude that entrance facilities are
+a part of incumbent LECs’ networks.
+Second, we are not persuaded by AT&T’s argument that
+the Commission’s views conflict with the definition of
+interconnection in §51.5. That regulation provides: “Inter­
+connection is the linking of two networks for the mutual
+exchange of traffic. This term does not include the trans­
+port and termination of traffic.” AT&T focuses on the
+definition’s exclusion of “transport and termination of
+traffic.” An entrance facility is a transport facility, AT&T
+argues, and it makes no sense to require an incumbent
+LEC to furnish a transport facility for interconnection
+when the definition of interconnection expressly excludes
+transport.
+We think AT&T reads too much into the exclusion of
+“transport.” The regulation cannot possibly mean that no
+transport can occur across an interconnection facility, as
+that would directly conflict with the statutory language.
+See §251(c)(2) (requiring “interconnection . . . for the
+transmission and routing of [local] telephone exchange
+service”). The very reason for interconnection is the “mu­
+tual exchange of traffic.” 47 CFR §51.5; see also Competi
+tive Telecommunications Assn. v. FCC, 117 F. 3d 1068,
+1071–1072 (CA8 1997) (“[T]he transmission and routing of
+telephone exchange service” is “what the interconnection,
+the physical link, would be used for” (internal quotation
+marks omitted)).
+The better reading of the regulation is that it merely
+reflects that the “transport and termination of traffic” is
+subject to different regulatory treatment than intercon­
+
+

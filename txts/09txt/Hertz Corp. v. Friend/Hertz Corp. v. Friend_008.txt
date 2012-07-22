@@ -1,0 +1,42 @@
+4
+
+HERTZ CORP. v. FRIEND
+Opinion of the Court
+
+(applying “nerve center” test).
+II
+At the outset, we consider a jurisdictional objection.
+Respondents point out that the statute permitting Hertz
+to appeal the District Court’s remand order to the Court of
+Appeals, 28 U. S. C. §1453(c), constitutes an exception to a
+more general jurisdictional rule that remand orders are
+“not reviewable on appeal.” §1447(d). They add that the
+language of §1453(c) refers only to “court[s] of appeals,”
+not to the Supreme Court. The statute also says that if “a
+final judgment on the appeal” in a court of appeals “is not
+issued before the end” of 60 days (with a possible 10-day
+extension), “the appeal shall be denied.” And respondents
+draw from these statutory circumstances the conclusion
+that Congress intended to permit review of a remand
+order only by a court of appeals, not by the Supreme Court
+(at least not if, as here, this Court’s grant of certiorari
+comes after §1453(c)’s time period has elapsed).
+This argument, however, makes far too much of too
+little. We normally do not read statutory silence as implic
+itly modifying or limiting Supreme Court jurisdiction that
+another statute specifically grants. Felker v. Turpin, 518
+U. S. 651, 660–661 (1996); Ex parte Yerger, 8 Wall. 85,
+104–105 (1869). Here, another, pre-existing federal stat
+ute gives this Court jurisdiction to “revie[w] . . . [b]y writ
+of certiorari” cases that, like this case, are “in the courts of
+appeals” when we grant the writ. 28 U. S. C. §1254. This
+statutory jurisdictional grant replicates similar grants
+that yet older statutes provided. See, e.g., §1254, 62 Stat.
+928; §1, 43 Stat. 938–939 (amending §240, 36 Stat. 1157);
+§240, 36 Stat. 1157; Evarts Act, §6, 26 Stat. 828. This
+history provides particularly strong reasons not to read
+§1453(c)’s silence or ambiguous language as modifying or
+limiting our pre-existing jurisdiction.
+We thus interpret §1453(c)’s “60-day” requirement as
+
+

@@ -1,0 +1,1765 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+CHRISTIAN LEGAL SOCIETY CHAPTER OF THE 
+
+UNIVERSITY OF CALIFORNIA, HASTINGS COLLEGE
+
+OF THE LAW, AKA HASTINGS CHRISTIAN FELLOW-
+
+SHIP v. MARTINEZ ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 08–1371. Argued April 19, 2010—Decided June 28, 2010
+Respondent Hastings College of the Law (Hastings), a school within the
+University of California public-school system, extends official recog
+nition to student groups through its “Registered Student Organiza
+tion” (RSO) program. Several benefits attend this school-approved
+status, including the use of school funds, facilities, and channels of
+communication, as well as Hastings’ name and logo. In exchange for
+recognition, RSOs must abide by certain conditions. Critical here, all
+RSOs must comply with the school’s Nondiscrimination Policy, which
+tracks state law barring discrimination on a number of bases, includ
+ing religion and sexual orientation. Hastings interprets this policy, as
+it relates to the RSO program, to mandate acceptance of all comers:
+RSOs must allow any student to participate, become a member, or
+seek leadership positions, regardless of her status or beliefs.
+At the beginning of the 2004–2005 academic year, the leaders of an
+existing Christian RSO formed petitioner Christian Legal Society
+(CLS) by affiliating with a national Christian association that char
+ters student chapters at law schools throughout the country. These
+chapters must adopt bylaws that, inter alia, require members and of
+ficers to sign a “Statement of Faith” and to conduct their lives in ac
+cord with prescribed principles. Among those tenets is the belief that
+sexual activity should not occur outside of marriage between a man
+and a woman. CLS interprets its bylaws to exclude from affiliation
+anyone who engages in “unrepentant homosexual conduct” or holds
+religious convictions different from those in the Statement of Faith.
+
+
+2
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL., 
+
+HASTINGS COLLEGE OF LAW v. MARTINEZ 
+
+Syllabus 
+
+Hastings rejected CLS’s application for RSO status on the ground
+that the group’s bylaws did not comply with Hastings’ open-access
+policy because they excluded students based on religion and sexual
+orientation.
+CLS filed this suit for injunctive and declaratory relief under 42
+U. S. C. §1983, alleging that Hastings’ refusal to grant the group
+RSO status violated its First and Fourteenth Amendment rights to
+free speech, expressive association, and free exercise of religion. On
+cross-motions for summary judgment, the District Court ruled for
+Hastings. The court held that the all-comers condition on access to a
+limited public forum was both reasonable and viewpoint neutral, and
+therefore did not violate CLS’s right to free speech. Nor, in the
+court’s view, did Hastings impermissibly impair CLS’s right to ex
+pressive association: Hastings did not order CLS to admit any stu
+dent, nor did the school proscribe any speech; Hastings merely placed
+conditions on the use of school facilities and funds. The court also re
+jected CLS’s free exercise argument, stating that the Nondiscrimina
+tion Policy did not single out religious beliefs, but rather was neutral
+and of general applicability. The Ninth Circuit affirmed, ruling that
+the all-comers condition on RSO recognition was reasonable and
+viewpoint neutral.
+
+Held:
+1. The Court considers only whether a public institution’s condi
+tioning access to a student-organization forum on compliance with an
+all-comers policy violates the Constitution. CLS urges the Court to
+review, instead, the Nondiscrimination Policy as written—prohibiting
+discrimination on enumerated bases, including religion and sexual
+orientation. The policy’s written terms, CLS contends, target solely
+those groups that organize around religious beliefs or that disapprove
+of particular sexual behavior, and leave other associations free to
+limit membership to persons committed to the group’s ideology. This
+argument flatly contradicts the joint stipulation of facts the parties
+submitted at the summary-judgment stage, which specified: “Hast
+ings requires that [RSOs] allow any student to participate, . . . re
+gardless of [her] status or beliefs. For example, the Hastings Democ
+ratic Caucus cannot bar students holding Republican political beliefs
+. . . .” This Court has long recognized that parties are bound by, and
+cannot contradict, their stipulations. See, e.g., Board of Regents of
+Univ. of Wis. System v. Southworth, 529 U. S. 217, 226. The Court
+therefore rejects CLS’s attempt to escape from the stipulation and
+shift its target to Hastings’ policy as written. Pp. 8–12.
+2. The all-comers policy is a reasonable, viewpoint-neutral condi
+tion on access to the RSO forum; it therefore does not transgress
+First Amendment limitations. Pp. 12–31.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+3
+
+Syllabus
+(a) The Court’s limited public forum decisions supply the appro
+priate framework for assessing both CLS’s free-speech and expres
+sive-association claims; those decisions recognize that a governmen
+tal entity, in regulating property in its charge, may impose
+restrictions on speech that are reasonable in light of the purposes of
+the forum and viewpoint neutral, e.g., Rosenberger v. Rector and Visi
+tors of Univ. of Va., 515 U. S. 819, 829. CLS urges the Court to apply
+to its expressive-association claim a different line of cases—decisions
+in which the Court has rigorously reviewed restrictions on associa
+tional freedom in the context of public accommodations, e.g., Roberts
+v. United States Jaycees, 468 U. S. 609, 623. But, because CLS’s ex
+pressive-association and free-speech arguments merge—who speaks
+on its behalf, CLS reasons, colors what concept is conveyed—it makes
+little sense to treat the claims as discrete. Instead, three observa
+tions lead the Court to analyze CLS’s arguments under limited
+public-forum precedents.
+First, the same considerations that have led the Court to apply a
+less restrictive level of scrutiny to speech in limited public forums, as
+compared to other environments, apply with equal force to expressive
+association occurring in a limited public forum. Speech and expres
+sive-association rights are closely linked. See id., at 622. When
+these intertwined rights arise in exactly the same context, it would
+be anomalous for a speech restriction to survive constitutional review
+under the limited-public-forum test only to be invalidated as an im
+permissible infringement of expressive association. Second, the strict
+scrutiny the Court has applied in some settings to laws that burden
+expressive association would, in practical effect, invalidate a defining
+characteristic of limited public forums—the State’s authority to “re
+serv[e] [them] for certain groups.” Rosenberger, 515 U. S., at 829.
+Third, this case fits comfortably within the limited-public-forum
+category, for CLS may exclude any person for any reason if it forgoes
+the benefits of official recognition. The Court’s expressive-association
+decisions, in contrast, involved regulations that compelled a group to
+include unwanted members, with no choice to opt out. See, e.g., Boy
+Scouts of America v. Dale, 530 U. S. 640, 648. Application of the less
+restrictive limited-public-forum analysis better accounts for the fact
+that Hastings, through its RSO program, is dangling the carrot of
+subsidy, not wielding the stick of prohibition. Pp. 12–17.
+(b) In three cases, this Court held that public universities had
+unconstitutionally singled out student groups for disfavored treat
+ment because of their points of view. See Healy v. James, 408 U. S.
+169; Widmar v. Vincent, 454 U. S. 263; and Rosenberger. Most re
+cently and comprehensively, in Rosenberger, the Court held that a
+university generally may not withhold benefits from student groups
+
+
+4
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL., 
+
+HASTINGS COLLEGE OF LAW v. MARTINEZ 
+
+Syllabus 
+
+because of their religious outlook. “Once it has opened a limited
+[public] forum,” the Court emphasized, “the State must respect the
+lawful boundaries it has itself set.” 515 U. S, at 829. It may “not ex
+clude speech where its distinction is not reasonable in light of the
+purpose served by the forum, . . . nor may it discriminate against
+speech on the basis of . . . viewpoint.” Ibid. Pp. 17–19.
+(c) Hastings’ all-comers policy is reasonable, taking into account
+the RSO forum’s function and “all the surrounding circumstances.”
+Cornelius v. NAACP Legal Defense & Ed. Fund, Inc., 473 U. S. 788,
+809. Pp. 19–28.
+(1) The Court’s inquiry is shaped by the educational context in
+which it arises: “First Amendment rights must be analyzed in light of
+the special characteristics of the school environment.” Widmar, 454
+U. S., at 268, n. 5. This Court is the final arbiter of whether a public
+university has exceeded constitutional constraints. The Court has,
+however, cautioned courts to resist “substitut[ing] their own notions
+of sound educational policy for those of . . . school authorities,” for
+judges lack the on-the-ground expertise and experience of school ad
+ministrators. Board of Ed. of Hendrick Hudson Central School Dist.,
+Westchester Cty. v. Rowley, 458 U. S. 176, 206. Because schools enjoy
+“a significant measure of authority over the type of officially recog
+nized activities in which their students participate,” Board of Ed. of
+Westside Community Schools (Dist. 66) v. Mergens, 496 U. S. 226,
+240, the Court approaches its task here mindful that Hastings’ deci
+sions about the character of its student-group program are due de
+cent respect. Pp. 19–21.
+(2) The justifications Hastings asserts in support of its all
+comers policy are reasonable in light of the RSO forum’s purposes.
+First, the policy ensures that the leadership, educational, and social
+opportunities afforded by RSOs are available to all students. RSOs
+are eligible for financial assistance drawn from mandatory student
+activity fees; the policy ensures that no Hastings student is forced to
+fund a group that would reject her as a member. Second, the policy
+helps Hastings police the written terms of its Nondiscrimination Pol
+icy without inquiring into an RSO’s motivation for membership re
+strictions. CLS’s proposal that Hastings permit exclusion because of
+belief but forbid discrimination due to status would impose on Hast
+ings the daunting task of trying to determine whether a student or
+ganization cloaked prohibited status exclusion in belief-based garb.
+Third, Hastings reasonably adheres to the view that its policy, to the
+extent it brings together individuals with diverse backgrounds and
+beliefs, encourages tolerance, cooperation, and learning among stu
+dents. Fourth, the policy incorporates state-law discrimination pro
+scriptions, thereby conveying Hastings’ decision to decline to subsi
+
+
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+Syllabus
+dize conduct disapproved by the State. So long as a public school
+does not contravene constitutional limits, its choice to advance state
+law goals stands on firm footing. Pp. 21–24.
+(3) Hastings’ policy is all the more creditworthy in light of the
+“substantial alternative channels that remain open for [CLS-student]
+communication to take place.” Perry Ed. Assn. v. Perry Local Educa
+tors’ Assn., 460 U. S. 37, 53. Hastings offered CLS access to school
+facilities to conduct meetings and the use of chalkboards and certain
+bulletin boards to advertise events. Although CLS could not take ad
+vantage of RSO-specific methods of communication, the advent of
+electronic media and social-networking sites lessens the importance
+of those channels. Private groups, such as fraternities and sororities,
+commonly maintain a presence at universities without official school
+affiliation. CLS was similarly situated: It hosted a variety of activi
+ties the year after Hastings denied it recognition, and the number of
+students attending those meetings and events doubled. “The variety
+and type of alternative modes of access present here,” in short, “com
+pare favorably with those in other [limited public] forum cases where
+[the Court has] upheld restrictions.” Id., at 53–54. Pp. 24–25.
+(4) CLS’s arguments that the all-comers policy is not reason
+able are unavailing. CLS contends that there can be no diversity of
+viewpoints in a forum when groups are not permitted to form around
+viewpoints, but this argument confuses CLS’s preferred policy with
+constitutional limitation—the advisability of Hastings’ policy does
+not control its permissibility. A State’s restriction on access to a lim
+ited public forum, moreover, “need not be the most reasonable or the
+only reasonable limitation.” Cornelius, 473 U. S., at 808. CLS’s con
+tention that Hastings’ policy will facilitate hostile takeovers of RSOs
+by student saboteurs bent on subverting a group’s mission is more
+hypothetical than real; there is no history or prospect of RSO
+hijackings at Hastings. Cf. National Endowment for Arts v. Finley,
+524 U. S. 569, 584. Finally, CLS’s assertion that Hastings lacks any
+legitimate interest in urging religious groups not to favor co
+religionists erroneously focuses on the benefits the group must forgo,
+while ignoring the interests of those it seeks to fence out. Hastings,
+caught in the crossfire between a group’s desire to exclude and stu
+dents’ demand for equal access, may reasonably draw a line in the
+sand permitting all organizations to express what they wish but no
+group to discriminate in membership. Pp. 25–28.
+(d) Hastings’ all-comers policy is viewpoint neutral. Pp. 28–31.
+(1) The policy draws no distinction between groups based on
+their message or perspective; its requirement that all student groups
+accept all comers is textbook viewpoint neutral. Pp. 28–29.
+(2) Conceding that the policy is nominally neutral, CLS asserts
+
+
+6
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL., 
+
+HASTINGS COLLEGE OF LAW v. MARTINEZ 
+
+Syllabus 
+
+that it systematically—and impermissibly—burdens most heavily
+those groups whose viewpoints are out of favor with the campus
+mainstream. This argument fails because “[a] regulation that serves
+purposes unrelated to the content of expression is deemed neutral,
+even if it has an incidental effect on some speakers or messages but
+not others.” Ward v. Rock Against Racism, 491 U. S. 781, 791. Hast
+ings’ requirement that RSOs accept all comers, the Court is satisfied,
+is “justified without reference to the content [or viewpoint] of the
+regulated speech.” Id., at 791. It targets the act of rejecting would-be
+group members without reference to the reasons motivating that be
+havior. Pp. 29–31.
+3. Neither lower court addressed CLS’s argument that Hastings se
+lectively enforces its all-comers policy. This Court is not the proper
+forum to air the issue in the first instance. On remand, the Ninth
+Circuit may consider this argument if, and to the extent, it is pre
+served. Pp. 31–32.
+
+319 Fed. Appx. 645, affirmed and remanded.
+GINSBURG, J., delivered the opinion of the Court, in which STEVENS,
+KENNEDY, BREYER, and SOTOMAYOR, JJ., joined. STEVENS, J., and KENNEDY, J., filed concurring opinions. ALITO, J., filed a dissenting opinion,
+in which ROBERTS, C. J., and SCALIA and THOMAS, JJ., joined.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1371
+_________________
+
+CHRISTIAN LEGAL SOCIETY CHAPTER OF THE UNI- 
+
+VERSITY OF CALIFORNIA, HASTINGS COLLEGE OF 
+
+THE LAW, AKA HASTINGS CHRISTIAN FELLOW- 
+
+SHIP, PETITIONER v. LEO P. MARTINEZ ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[June 28, 2010] 
+
+
+JUSTICE GINSBURG delivered the opinion of the Court.
+In a series of decisions, this Court has emphasized that
+the First Amendment generally precludes public universi­
+ties from denying student organizations access to school­
+sponsored forums because of the groups’ viewpoints. See
+Rosenberger v. Rector and Visitors of Univ. of Va., 515
+U. S. 819 (1995); Widmar v. Vincent, 454 U. S. 263 (1981);
+Healy v. James, 408 U. S. 169 (1972). This case concerns a
+novel question regarding student activities at public uni­
+versities: May a public law school condition its official
+recognition of a student group—and the attendant use of
+school funds and facilities—on the organization’s agree­
+ment to open eligibility for membership and leadership to
+all students?
+In the view of petitioner Christian Legal Society (CLS),
+an accept-all-comers policy impairs its First Amendment
+rights to free speech, expressive association, and free
+exercise of religion by prompting it, on pain of relinquish­
+ing the advantages of recognition, to accept members who
+
+
+2
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL., 
+
+HASTINGS COLLEGE OF LAW v. MARTINEZ 
+
+Opinion of the Court 
+
+
+do not share the organization’s core beliefs about religion
+and sexual orientation. From the perspective of respon­
+dent Hastings College of the Law (Hastings or the Law
+School), CLS seeks special dispensation from an across­
+the-board open-access requirement designed to further the
+reasonable educational purposes underpinning the school’s
+student-organization program.
+In accord with the District Court and the Court of Ap­
+peals, we reject CLS’s First Amendment challenge. Com­
+pliance with Hastings’ all-comers policy, we conclude, is a
+reasonable, viewpoint-neutral condition on access to the
+student-organization forum. In requiring CLS—in com­
+mon with all other student organizations—to choose be­
+tween welcoming all students and forgoing the benefits of
+official recognition, we hold, Hastings did not transgress
+constitutional limitations. CLS, it bears emphasis, seeks
+not parity with other organizations, but a preferential
+exemption from Hastings’ policy. The First Amendment
+shields CLS against state prohibition of the organization’s
+expressive activity, however exclusionary that activity
+may be. But CLS enjoys no constitutional right to state
+subvention of its selectivity.
+I
+Founded in 1878, Hastings was the first law school in
+the University of California public-school system. Like
+many institutions of higher education, Hastings encour­
+ages students to form extracurricular associations that
+“contribute to the Hastings community and experience.”
+App. 349. These groups offer students “opportunities to
+pursue academic and social interests outside of the class­
+room [to] further their education” and to help them “de­
+velo[p] leadership skills.” Ibid.
+Through its “Registered Student Organization” (RSO)
+program, Hastings extends official recognition to student
+groups. Several benefits attend this school-approved
+
+
+Cite as: 561 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+status. RSOs are eligible to seek financial assistance from
+the Law School, which subsidizes their events using funds
+from a mandatory student-activity fee imposed on all
+students. Id., at 217. RSOs may also use Law-School
+channels to communicate with students: They may place
+announcements in a weekly Office-of-Student-Services
+newsletter, advertise events on designated bulletin boards,
+send e-mails using a Hastings-organization address, and
+participate in an annual Student Organizations Fair
+designed to advance recruitment efforts. Id., at 216–219.
+In addition, RSOs may apply for permission to use the
+Law School’s facilities for meetings and office space. Id.,
+at 218–219. Finally, Hastings allows officially recognized
+groups to use its name and logo. Id., at 216.
+In exchange for these benefits, RSOs must abide by
+certain conditions. Only a “non-commercial organization
+whose membership is limited to Hastings students may
+become [an RSO].” App. to Pet. for Cert. 83a. A prospec­
+tive RSO must submit its bylaws to Hastings for approval,
+id., at 83a–84a; and if it intends to use the Law School’s
+name or logo, it must sign a license agreement, App. 219.
+Critical here, all RSOs must undertake to comply with
+Hastings’ “Policies and Regulations Applying to College
+Activities, Organizations and Students.” Ibid.1
+The Law School’s Policy on Nondiscrimination (Nondis­
+crimination Policy), which binds RSOs, states:
+“[Hastings] is committed to a policy against legally
+impermissible, arbitrary or unreasonable discrimina­
+tory practices. All groups, including administration,
+faculty, student governments, [Hastings]-owned stu­
+dent residence facilities and programs sponsored by
+[Hastings], are governed by this policy of nondis­
+——————
+1 These policies and regulations address a wide range of matters, for
+example, alcoholic beverages at campus events, bake sales, and blood
+drives. App. 246.
+
+
+4
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL., 
+
+HASTINGS COLLEGE OF LAW v. MARTINEZ 
+
+Opinion of the Court 
+
+
+crimination. [Hasting’s] policy on nondiscrimination
+is to comply fully with applicable law.
+“[Hastings] shall not discriminate unlawfully on the
+basis of race, color, religion, national origin, ancestry,
+disability, age, sex or sexual orientation. This nondis­
+crimination policy covers admission, access and
+treatment in Hastings-sponsored programs and activi­
+ties.” Id., at 220.
+Hastings interprets the Nondiscrimination Policy, as it
+relates to the RSO program, to mandate acceptance of all
+comers: School-approved groups must “allow any student
+to participate, become a member, or seek leadership posi­
+tions in the organization, regardless of [her] status or
+beliefs.” Id., at 221.2 Other law schools have adopted
+similar all-comers policies. See, e.g., Georgetown Univer­
+sity Law Center, Office of Student Life: Student Organi
+zations, available at http://www.law.georgetown.edu/
+StudentLife/StudentOrgs/NewGroup.htm (All Internet
+——————
+2 “Th[is] policy,” Hastings clarifies, “does not foreclose neutral and
+generally applicable membership requirements unrelated to ‘status or
+beliefs.’ ” Brief for Hastings 5. So long as all students have the oppor
+tunity to participate on equal terms, RSOs may require them, inter alia,
+to pay dues, maintain good attendance, refrain from gross misconduct,
+or pass a skill-based test, such as the writing competitions adminis­
+tered by law journals. See ibid. The dissent trumpets these neutral,
+generally applicable membership requirements, arguing that, in truth,
+Hastings has a “some-comers,” not an all-comers, policy. Post, at 2, 3,
+8–9, 10, 23–24, 32–33 (opinion of ALITO, J.). Hastings’ open-access
+policy, however, requires only that student organizations open eligibil­
+ity for membership and leadership regardless of a student’s status or
+beliefs; dues, attendance, skill measurements, and comparable uni­
+formly applied standards are fully compatible with the policy. The
+dissent makes much of Hastings’ observation that groups have imposed
+“even conduct requirements.” Post, at 9, 23–24. But the very example
+Hastings cites leaves no doubt that the Law School was referring to
+boilerplate good-behavior standards, e.g., “[m]embership may cease . . .
+if the member is found to be involved in gross misconduct,” App. 173
+(cited in Brief for Hastings 5).
+
+
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+materials as visited June 24, 2010, and included in Clerk
+of Court’s case file) (Membership in registered groups
+must be “open to all students.”); Hofstra Law School Stu­
+dent Handbook 2009–2010, p. 49, available at http://
+law.hofstra.edu/pdf/StudentLife/StudentAffairs/Handbook/
+stuhb_handbook.pdf (“[Student] organizations are open to
+all students.”). From Hastings’ adoption of its Nondis­
+crimination Policy in 1990 until the events stirring this
+litigation, “no student organization at Hastings . . . ever
+sought an exemption from the Policy.” App. 221.
+In 2004, CLS became the first student group to do so.
+At the beginning of the academic year, the leaders of a
+predecessor Christian organization—which had been an
+RSO at Hastings for a decade—formed CLS by affiliating
+with the national Christian Legal Society (CLS-National).
+Id., at 222–223, 225. CLS-National, an association of
+Christian lawyers and law students, charters student
+chapters at law schools throughout the country. Id., at
+225. CLS chapters must adopt bylaws that, inter alia,
+require members and officers to sign a “Statement of
+Faith” and to conduct their lives in accord with prescribed
+principles. Id., at 225–226; App. to Pet. for Cert. 101a.3
+Among those tenets is the belief that sexual activity
+should not occur outside of marriage between a man and a
+woman; CLS thus interprets its bylaws to exclude from
+affiliation anyone who engages in “unrepentant homosex­
+——————
+3 The
+
+Statement of Faith provides:
+
+“Trusting in Jesus Christ as my Savior, I believe in: 
+
+•	 One God, eternally existent in three persons, Father, Son and Holy
+Spirit.
+•	 God the Father Almighty, Maker of heaven and earth.
+•	 The Deity of our Lord, Jesus Christ, God’s only Son conceived of the
+Holy Spirit, born of the virgin Mary; His vicarious death for our sins
+through which we receive eternal life; His bodily resurrection and
+personal return.
+•	 The presence and power of the Holy Spirit in the work of regeneration.
+•	 The Bible as the inspired Word of God.” App. 226.
+
+
+6
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL., 
+
+HASTINGS COLLEGE OF LAW v. MARTINEZ 
+
+Opinion of the Court 
+
+
+ual conduct.” App. 226. CLS also excludes students who
+hold religious convictions different from those in the
+Statement of Faith. Id., at 227.
+On September 17, 2004, CLS submitted to Hastings an
+application for RSO status, accompanied by all required
+documents, including the set of bylaws mandated by CLSNational. Id., at 227–228. Several days later, the Law
+School rejected the application; CLS’s bylaws, Hastings
+explained, did not comply with the Nondiscrimination
+Policy because CLS barred students based on religion and
+sexual orientation. Id., at 228.
+CLS formally requested an exemption from the Nondis­
+crimination Policy, id., at 281, but Hastings declined to
+grant one. “[T]o be one of our student-recognized organi­
+zations,” Hastings reiterated, “CLS must open its mem­
+bership to all students irrespective of their religious be­
+liefs or sexual orientation.” Id., at 294. If CLS instead
+chose to operate outside the RSO program, Hastings
+stated, the school “would be pleased to provide [CLS] the
+use of Hastings facilities for its meetings and activities.”
+Ibid. CLS would also have access to chalkboards and
+generally available campus bulletin boards to announce its
+events. Id., at 219, 233. In other words, Hastings would
+do nothing to suppress CLS’s endeavors, but neither would
+it lend RSO-level support for them.
+Refusing to alter its bylaws, CLS did not obtain RSO
+status. It did, however, operate independently during the
+2004–2005 academic year. CLS held weekly Bible-study
+meetings and invited Hastings students to Good Friday
+and Easter Sunday church services. Id., at 229. It also
+hosted a beach barbeque, Thanksgiving dinner, campus
+lecture on the Christian faith and the legal practice, sev­
+eral fellowship dinners, an end-of-year banquet, and other
+informal social activities. Ibid.
+On October 22, 2004, CLS filed suit against various
+Hastings officers and administrators under 42 U. S. C.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+§1983. Its complaint alleged that Hastings’ refusal to
+grant the organization RSO status violated CLS’s First
+and Fourteenth Amendment rights to free speech, expres­
+sive association, and free exercise of religion. The suit
+sought injunctive and declaratory relief.4
+On cross-motions for summary judgment, the U. S.
+District Court for the Northern District of California ruled
+in favor of Hastings. The Law School’s all-comers condi­
+tion on access to a limited public forum, the court held,
+was both reasonable and viewpoint neutral, and therefore
+did not violate CLS’s right to free speech. App. to Pet. for
+Cert. 27a–38a.
+Nor, in the District Court’s view, did the Law School
+impermissibly impair CLS’s right to expressive associa­
+tion. “Hastings is not directly ordering CLS to admit [any]
+studen[t],” the court observed, id., at 42a; “[r]ather, Hast­
+ings has merely placed conditions on” the use of its facili­
+ties and funds, ibid. “Hastings’ denial of official recogni­
+tion,” the court added, “was not a substantial impediment
+to CLS’s ability to meet and communicate as a group.” Id.,
+at 49a.
+The court also rejected CLS’s Free Exercise Clause
+argument.
+“[T]he Nondiscrimination Policy does not
+target or single out religious beliefs,” the court noted;
+rather, the policy “is neutral and of general applicability.”
+Id., at 63a. “CLS may be motivated by its religious beliefs
+to exclude students based on their religion or sexual orien­
+tation,” the court explained, “but that does not convert the
+reason for Hastings’ [Nondiscrimination Policy] to be one
+that is religiously-based.” Id., at 63a–64a.
+On appeal, the Ninth Circuit affirmed in an opinion that
+stated, in full:
+——————
+4 The District Court allowed respondent Hastings Outlaw, an RSO
+committed to “combating discrimination based on sexual orientation,”
+id., at 97, to intervene in the suit, id., at 104.
+
+
+8
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL., 
+
+HASTINGS COLLEGE OF LAW v. MARTINEZ 
+
+Opinion of the Court 
+
+
+“The parties stipulate that Hastings imposes an
+open membership rule on all student groups—all
+groups must accept all comers as voting members
+even if those individuals disagree with the mission of
+the group. The conditions on recognition are therefore
+viewpoint neutral and reasonable. Truth v. Kent Sch.
+Dist., 542 F. 3d 634, 649–50 (9th Cir. 2008).” Chris
+tian Legal Soc. Chapter of Univ. of Cal. v. Kane, 319
+Fed. Appx. 645, 645–646 (CA9 2009).
+We granted certiorari, 558 U. S. ____ (2009), and now
+affirm the Ninth Circuit’s judgment.
+II
+Before considering the merits of CLS’s constitutional
+arguments, we must resolve a preliminary issue: CLS
+urges us to review the Nondiscrimination Policy as writ­
+ten—prohibiting discrimination on several enumerated
+bases, including religion and sexual orientation—and not
+as a requirement that all RSOs accept all comers. The
+written terms of the Nondiscrimination Policy, CLS con­
+tends, “targe[t] solely those groups whose beliefs are based
+on religion or that disapprove of a particular kind of sex­
+ual behavior,” and leave other associations free to limit
+membership and leadership to individuals committed to
+the group’s ideology. Brief for Petitioner 19 (internal
+quotation marks omitted). For example, “[a] political . . .
+group can insist that its leaders support its purposes and
+beliefs,” CLS alleges, but “a religious group cannot.” Id.,
+at 20.
+CLS’s assertion runs headlong into the stipulation of
+facts it jointly submitted with Hastings at the summary­
+judgment stage. In that filing, the parties specified:
+“Hastings requires that registered student organiza­
+tions allow any student to participate, become a mem­
+ber, or seek leadership positions in the organization,
+
+
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+regardless of [her] status or beliefs. Thus, for exam­
+ple, the Hastings Democratic Caucus cannot bar stu­
+dents holding Republican political beliefs from becom­
+ing members or seeking leadership positions in the
+organization.” App. 221 (Joint Stipulation ¶18) (em­
+phasis added; citations omitted).5
+Under the District Court’s local rules, stipulated facts are
+deemed “undisputed.” Civil Local Rule 56–2 (ND Cal.
+2010). See also Pet. for Cert. 2 (“The material facts of this
+case are undisputed.”).6
+——————
+5 In its briefs before the District Court and the Court of Appeals, CLS
+several times affirmed that Hastings imposes an all-comers rule on
+RSOs. See, e.g., Plaintiff’s Notice of Motion for Summary Judgment
+and Memorandum in Support of Motion for Summary Judgment in No.
+C 04 4484 JSW (ND Cal.), p. 4 (“Hastings interprets the [Nondiscrimi­
+nation Policy] such that student organizations must allow any student,
+regardless of their status or beliefs, to participate in the group’s activi­
+ties and meetings and to become voting members and leaders of the
+group.”); Brief for Appellant in No. 06–15956 (CA9), pp. 29–30 (“Hast­
+ings illustrates the application of the Nondiscrimination Policy by
+explaining that for the Hastings Democratic Caucus to gain recogni­
+tion, it must open its leadership and voting membership to Republi­
+cans.”). In a hearing before the District Court, CLS’s counsel reiterated
+that “it’s important to understand what Hastings’ policy is. According
+to . . . the stipulated facts, Hastings requires . . . that registered student
+organizations allow any student to participate, become a member or
+seek leadership positions in the organization regardless of their status
+or beliefs.” App. 438 (capitalization and internal quotation marks
+omitted). And at oral argument in this Court, counsel for CLS ac­
+knowledged that “the Court needs to reach the constitutionality of the
+all-comers policy as applied to CLS in this case.” Tr. of Oral Arg. 59
+(emphasis added). We repeat, in this regard, that Hastings’ all-comers
+policy is hardly novel. Other law schools have adopted similar re­
+quirements. See supra, at 4–5; Brief for Association of American Law
+Schools as Amicus Curiae 20, n. 5.
+6 The dissent spills considerable ink attempting to create uncertainty
+about when the all-comers policy was adopted. See post, at 2, 3, 5, 6, 7,
+8, 10, 11. What counts, however, is the parties’ unqualified agreement
+that the all-comers policy currently governs. CLS’s suit, after all, seeks
+only declaratory and injunctive—that is, prospective—relief. See App.
+
+
+10
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+Litigants, we have long recognized, “[a]re entitled to
+have [their] case tried upon the assumption that . . . facts,
+stipulated into the record, were established.” H. Hackfeld
+& Co. v. United States, 197 U. S. 442, 447 (1905).7 This
+entitlement is the bookend to a party’s undertaking to be
+bound by the factual stipulations it submits. See post, at
+10 (ALITO, J., dissenting) (agreeing that “the parties must
+be held to their Joint Stipulation”). As a leading legal
+reference summarizes:
+“[Factual stipulations are] binding and conclusive . . . ,
+and the facts stated are not subject to subsequent
+variation. So, the parties will not be permitted to
+deny the truth of the facts stated, . . . or to maintain a
+contention contrary to the agreed statement, . . . or to
+suggest, on appeal, that the facts were other than as
+stipulated or that any material fact was omitted. The
+burden is on the party seeking to recover to show his
+or her right from the facts actually stated.” 83
+C. J. S., Stipulations §93 (2000) (footnotes omitted).
+This Court has accordingly refused to consider a party’s
+argument that contradicted a joint “stipulation [entered]
+at the outset of th[e] litigation.” Board of Regents of Univ.
+of Wis. System v. Southworth, 529 U. S. 217, 226 (2000).
+——————
+80 (First Amended Verified Complaint for Declaratory and Injunctive
+Relief).
+7 Record evidence, moreover, corroborates the joint stipulation con­
+cerning Hastings’ all-comers policy. The Law School’s then-Chancellor
+and Dean testified, for example, that “in order to be a registered stu­
+dent organization you have to allow all of our students to be members
+and full participants if they want to.” App. 343. Hastings’ Director of
+Student Services confirmed that RSOs must “be open to all students”—
+“even to students who may disagree with [an RSO’s] purposes.” Id., at
+320 (internal quotation marks omitted). See also id., at 349 (“Hastings
+interprets the Nondiscrimination Policy as requiring that student
+organizations wishing to register with Hastings allow any Hastings
+student to become a member and/or seek a leadership position in the
+organization.”).
+
+
+Cite as: 561 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+Time and again, the dissent races away from the facts to
+which CLS stipulated. See, e.g., post, at 2, 3, 5, 6, 7, 8, 11,
+24.8 But factual stipulations are “formal concessions . . .
+that have the effect of withdrawing a fact from issue and
+dispensing wholly with the need for proof of the fact.
+Thus, a judicial admission . . . is conclusive in the case.” 2
+K. Broun, McCormick on Evidence §254, p. 181 (6th ed.
+2006) (footnote omitted). See also, e.g., Oscanyan v. Arms
+Co., 103 U. S. 261, 263 (1881) (“The power of the court to
+act in the disposition of a trial upon facts conceded by
+counsel is as plain as its power to act upon the evidence
+produced.”).9
+In light of the joint stipulation, both the District Court
+and the Ninth Circuit trained their attention on the con­
+stitutionality of the all-comers requirement, as described
+in the parties’ accord. See 319 Fed. Appx., at 645–646;
+App. to Pet. for Cert. 32a; id., at 36a. We reject CLS’s
+unseemly attempt to escape from the stipulation and shift
+——————
+8 In
+
+an effort to undermine the stipulation, the dissent emphasizes a
+sentence in Hastings’ answer to CLS’s first amended complaint which,
+the dissent contends, casts doubt on Hastings’ fidelity to its all-comers
+policy. See post, at 5–6, 11. In context, Hastings’ answer—which
+responded to CLS’s allegation that the Law School singles out religious
+groups for discriminatory treatment—is sensibly read to convey that
+Hastings’ policies and regulations apply to all groups equally. See App.
+79 (denying that the Nondiscrimination Policy imposes on religious
+organizations restraints that are not applied to political, social, and
+cultural groups). In any event, the parties’ joint stipulation supersedes
+the answer, to the extent of any conflict between the two filings. See
+Pepper & Tanner, Inc. v. Shamrock Broadcasting, Inc., 563 F. 2d 391,
+393 (CA9 1977) (Parties’ “stipulation of facts . . . superseded all prior
+pleadings and controlled the subsequent course of the action.”).
+9 The dissent indulges in make-believe when it suggests that we are
+making factual findings about Hastings’ all-comers policy. Post, at 1, 2.
+As CLS’s petition for certiorari stressed, “[t]he material facts of this case
+are undisputed.” Pet. for Cert. 2 (emphasis added). We take the facts
+as the joint stipulation describes them, see supra, at 8–11; our decision
+respects, while the dissent ignores, the conclusive effect of the parties’
+accord.
+
+
+12
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+its target to Hastings’ policy as written. This opinion,
+therefore, considers only whether conditioning access to a
+student-organization forum on compliance with an all­
+comers policy violates the Constitution.10
+III 
+
+A
+
+In support of the argument that Hastings’ all-comers
+policy treads on its First Amendment rights to free speech
+and expressive association, CLS draws on two lines of
+decisions. First, in a progression of cases, this Court has
+employed forum analysis to determine when a governmen­
+tal entity, in regulating property in its charge, may place
+limitations on speech.11 Recognizing a State’s right “to
+preserve the property under its control for the use to
+which it is lawfully dedicated,” Cornelius v. NAACP Legal
+Defense & Ed. Fund, Inc., 473 U. S. 788, 800 (1985) (inter­
+——————
+10 The dissent, in contrast, devotes considerable attention to CLS’s
+arguments about the Nondiscrimination Policy as written. Post, at 2, 3,
+5, 18–23. We decline to address these arguments, not because we agree
+with the dissent that the Nondiscrimination Policy is “plainly” uncon­
+stitutional, post, at 18, but because, as noted, supra, at 8–12, that
+constitutional question is not properly presented.
+11 In conducting forum analysis, our decisions have sorted govern­
+ment property into three categories. First, in traditional public forums,
+such as public streets and parks, “any restriction based on the content
+of . . . speech must satisfy strict scrutiny, that is, the restriction must
+be narrowly tailored to serve a compelling government interest.”
+Pleasant Grove City v. Summum, 555 U. S. ___ (2009) (slip op., at 6).
+Second, governmental entities create designated public forums when
+“government property that has not traditionally been regarded as a
+public forum is intentionally opened up for that purpose”; speech
+restrictions in such a forum “are subject to the same strict scrutiny as
+restrictions in a traditional public forum.” Id., at ___ (slip op., at 7).
+Third, governmental entities establish limited public forums by opening
+property “limited to use by certain groups or dedicated solely to the
+discussion of certain subjects.” Ibid. As noted in text, “[i]n such a
+forum, a governmental entity may impose restrictions on speech that
+are reasonable and viewpoint-neutral.” Ibid.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+nal quotation marks omitted), the Court has permitted
+restrictions on access to a limited public forum, like the
+RSO program here, with this key caveat: Any access bar­
+rier must be reasonable and viewpoint neutral, e.g.,
+Rosenberger, 515 U. S., at 829. See also, e.g., Good News
+Club v. Milford Central School, 533 U. S. 98, 106–107
+(2001); Lamb’s Chapel v. Center Moriches Union Free
+School Dist., 508 U. S. 384, 392–393 (1993); Perry Ed.
+Assn. v. Perry Local Educators’ Assn., 460 U. S. 37, 46
+(1983).12
+Second, as evidenced by another set of decisions, this
+Court has rigorously reviewed laws and regulations that
+constrain associational freedom. In the context of public
+accommodations, we have subjected restrictions on that
+freedom to close scrutiny; such restrictions are permitted
+only if they serve “compelling state interests” that are
+“unrelated to the suppression of ideas”—interests that
+cannot be advanced “through . . . significantly less restric­
+tive [means].” Roberts v. United States Jaycees, 468 U. S.
+609, 623 (1984). See also, e.g., Boy Scouts of America v.
+Dale, 530 U. S. 640, 648 (2000). “Freedom of association,”
+we have recognized, “plainly presupposes a freedom not to
+associate.” Roberts, 468 U. S., at 623. Insisting that an
+organization embrace unwelcome members, we have
+therefore concluded, “directly and immediately affects
+associational rights.” Dale, 530 U. S., at 659.
+CLS would have us engage each line of cases independ­
+ently, but its expressive-association and free-speech ar­
+guments merge: Who speaks on its behalf, CLS reasons,
+colors what concept is conveyed. See Brief for Petitioner
+35 (expressive association in this case is “the functional
+——————
+12 Our decisions make clear, and the parties agree, that Hastings,
+through its RSO program, established a limited public forum. See
+Rosenberger v. Rector and Visitors of Univ. of Va., 515 U. S. 819, 829
+(1995); Tr. of Oral Arg. 24 (counsel for CLS); Brief for Petitioner 25–26;
+Brief for Hastings 27–28; Brief for Hastings Outlaw 27.
+
+
+14
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+equivalent of speech itself”). It therefore makes little
+sense to treat CLS’s speech and association claims as
+discrete. See Citizens Against Rent Control/Coalition for
+Fair Housing v. Berkeley, 454 U. S. 290, 300 (1981). In­
+stead, three observations lead us to conclude that our
+limited-public-forum precedents supply the appropriate
+framework for assessing both CLS’s speech and associa­
+tion rights.
+First, the same considerations that have led us to apply
+a less restrictive level of scrutiny to speech in limited
+public forums as compared to other environments, see
+supra, at 12–13, and n. 11, apply with equal force to ex­
+pressive association occurring in limited public forums. As
+just noted, speech and expressive-association rights are
+closely linked. See Roberts, 468 U. S., at 622 (Associa­
+tional freedom is “implicit in the right to engage in activi­
+ties protected by the First Amendment.”). When these
+intertwined rights arise in exactly the same context, it
+would be anomalous for a restriction on speech to survive
+constitutional review under our limited-public-forum test
+only to be invalidated as an impermissible infringement of
+expressive association. Accord Brief for State Universities
+and State University Systems as Amici Curiae 37–38.
+That result would be all the more anomalous in this case,
+for CLS suggests that its expressive-association claim
+plays a part auxiliary to speech’s starring role. See Brief
+for Petitioner 18.
+Second, and closely related, the strict scrutiny we have
+applied in some settings to laws that burden expressive
+association would, in practical effect, invalidate a defining
+characteristic of limited public forums—the State may
+“reserv[e] [them] for certain groups.” Rosenberger, 515
+U. S., at 829. See also Perry Ed. Assn., 460 U. S., at 49
+(“Implicit in the concept” of a limited public forum is the
+State’s “right to make distinctions in access on the basis of
+. . . speaker identity.”); Cornelius, 473 U. S., at 806 (“[A]
+
+
+Cite as: 561 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+speaker may be excluded from” a limited public forum “if
+he is not a member of the class of speakers for whose
+especial benefit the forum was created.”).
+An example sharpens the tip of this point: Schools,
+including Hastings, see App. to Pet. for Cert. 83a, ordinar­
+ily, and without controversy, limit official student-group
+recognition to organizations comprising only students—
+even if those groups wish to associate with nonstudents.
+See, e.g., Volokh, Freedom of Expressive Association and
+Government Subsidies, 58 Stan. L. Rev. 1919, 1940 (2006).
+The same ground rules must govern both speech and
+association challenges in the limited-public-forum context,
+lest strict scrutiny trump a public university’s ability to
+“confin[e] a [speech] forum to the limited and legitimate
+purposes for which it was created.” Rosenberger, 515
+U. S., at 829. See also Healy, 408 U. S., at 189 (“Associa­
+tional activities need not be tolerated where they infringe
+reasonable campus rules.”).
+Third, this case fits comfortably within the limited­
+public-forum category, for CLS, in seeking what is effec­
+tively a state subsidy, faces only indirect pressure to mod­
+ify its membership policies; CLS may exclude any person
+for any reason if it forgoes the benefits of official recogni­
+tion.13 The expressive-association precedents on which
+CLS relies, in contrast, involved regulations that com
+pelled a group to include unwanted members, with no
+choice to opt out. See, e.g., Dale, 530 U. S., at 648 (regula­
+tion “forc[ed] [the Boy Scouts] to accept members it [did]
+not desire” (internal quotation marks omitted)); Roberts,
+——————
+13 The fact that a university “expends funds to encourage a diversity
+of views from private speakers,” this Court has held, does not justify it
+in “discriminat[ing] based on the viewpoint of private persons whose
+speech it facilitates.” Rosenberger, 515 U. S., at 834. Applying limited­
+public-forum analysis (which itself prohibits viewpoint discrimination)
+to CLS’s expressive association claim, we emphasize, does not upset
+this principle.
+
+
+16
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+468 U. S., at 623 (“There can be no clearer example of
+an intrusion into the internal structure or affairs of
+an association than” forced inclusion of unwelcome
+participants.). 14
+In diverse contexts, our decisions have distinguished
+between policies that require action and those that with­
+hold benefits. See, e.g., Grove City College v. Bell, 465
+U. S. 555, 575–576 (1984); Bob Jones Univ. v. United
+States, 461 U. S. 574, 602–604 (1983). Application of the
+less-restrictive limited-public-forum analysis better ac­
+counts for the fact that Hastings, through its RSO pro­
+gram, is dangling the carrot of subsidy, not wielding the
+stick of prohibition. Cf. Norwood v. Harrison, 413 U. S.
+455, 463 (1973) (“That the Constitution may compel tol­
+eration of private discrimination in some circumstances
+does not mean that it requires state support for such
+discrimination.”).
+In sum, we are persuaded that our limited-public-forum
+precedents adequately respect both CLS’s speech and
+expressive-association rights, and fairly balance those
+rights against Hastings’ interests as property owner and
+educational institution. We turn to the merits of the
+——————
+14 CLS also brackets with expressive-association precedents our deci­
+sion in Hurley v. Irish-American Gay, Lesbian and Bisexual Group of
+Boston, Inc., 515 U. S. 557 (1995). There, a veterans group sponsoring
+a St. Patrick’s Day parade challenged a state law requiring it to allow
+gay individuals to march in the parade behind a banner celebrating
+their Irish heritage and sexual orientation. Id., at 572. In evaluating
+that challenge, the Hurley Court focused on the veterans group’s
+interest in controlling the message conveyed by the organization. See
+id., at 573–581. Whether Hurley is best conceptualized as a speech or
+association case (or both), however, that precedent is of little help to
+CLS.
+Hurley involved the application of a statewide public­
+accommodations law to the most traditional of public forums: the
+street. That context differs markedly from the limited public forum at
+issue here: a university’s application of an all-comers policy to its
+student-organization program.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+instant dispute, therefore, with the limited-public-forum
+decisions as our guide.
+B
+As earlier pointed out, supra, at 1, 12–13, we do not
+write on a blank slate; we have three times before consid­
+ered clashes between public universities and student
+groups seeking official recognition or its attendant bene­
+fits. First, in Healy, a state college denied school affilia­
+tion to a student group that wished to form a local chapter
+of Students for a Democratic Society (SDS). 408 U. S., at
+170. Characterizing SDS’s mission as violent and disrup­
+tive, and finding the organization’s philosophy repugnant,
+the college completely banned the SDS chapter from cam­
+pus; in its effort to sever all channels of communication
+between students and the group, university officials went
+so far as to disband a meeting of SDS members in a cam­
+pus coffee shop. Id., at 174–176. The college, we noted,
+could require “that a group seeking official recognition
+affirm in advance its willingness to adhere to reasonable
+campus law,” including “reasonable standards respecting
+conduct.” Id., at 193. But a public educational institution
+exceeds constitutional bounds, we held, when it “restrict[s]
+speech or association simply because it finds the views
+expressed by [a] group to be abhorrent.” Id., at 187–188.15
+——————
+15 The dissent relies heavily on Healy, post, at 13–17, but its other­
+wise exhaustive account of the case elides the very fact the Healy Court
+identified as dispositive: The president of the college explicitly denied
+the student group official recognition because of the group’s viewpoint.
+See 408 U. S, at 187 (“The mere disagreement of the President with the
+group’s philosophy affords no reason to deny it recognition.”). In this
+case, in contrast, Hastings denied CLS recognition not because the
+school wanted to silence the “viewpoint that CLS sought to express
+through its membership requirements,” post, at 17, n. 2, but because
+CLS, insisting on preferential treatment, declined to comply with the
+open-access policy applicable to all RSOs, see R. A. V. v. St. Paul, 505
+U. S. 377, 390 (1992) (“Where the [State] does not target conduct on the
+
+
+18
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+We later relied on Healy in Widmar. In that case, a
+public university, in an effort to avoid state support for
+religion, had closed its facilities to a registered student
+group that sought to use university space for religious
+worship and discussion. 454 U. S., at 264–265. “A univer­
+sity’s mission is education,” we observed, “and decisions of
+this Court have never denied a university’s authority to
+impose reasonable regulations compatible with that mis­
+sion upon the use of its campus and facilities.” Id., at 268,
+n. 5. But because the university singled out religious
+organizations for disadvantageous treatment, we sub­
+jected the university’s regulation to strict scrutiny. Id., at
+269–270. The school’s interest “in maintaining strict
+separation of church and State,” we held, was not “suffi­
+ciently compelling to justify . . . [viewpoint] discrimination
+against . . . religious speech.” Id., at 270, 276 (internal
+quotation marks omitted).
+Most recently and comprehensively, in Rosenberger, we
+reiterated that a university generally may not withhold
+benefits from student groups because of their religious
+outlook. The officially recognized student group in Rosen
+berger was denied student-activity-fee funding to distrib­
+——————
+basis of its expressive content, acts are not shielded from regulation
+merely because they express a discriminatory . . . philosophy.” (emphasis
+added)). As discussed infra, at 28–31, Hastings’ all-comers policy is
+paradigmatically viewpoint neutral. The dissent’s contention that “the
+identity of the student group” is the only “way of distinguishing Healy,”
+post, at 16, is thus untenable.
+The dissent’s description of Healy also omits the Healy Court’s
+observation that “[a] college administration may . . . requir[e] . . . that a
+group seeking official recognition affirm in advance its willingness to
+adhere to reasonable campus law. Such a requirement does not impose
+an impermissible condition on the students’ associational rights. . . . It
+merely constitutes an agreement to conform with reasonable standards
+respecting conduct. . . . [T]he benefits of participation in the internal
+life of the college community may be denied to any group that reserves
+the right to violate any valid campus rules with which it disagrees.”
+408 U. S., at 193–194.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+ute a newspaper because the publication discussed issues
+from a Christian perspective. 515 U. S., at 825–827. By
+“select[ing] for disfavored treatment those student journal­
+istic efforts with religious editorial viewpoints,” we held,
+the university had engaged in “viewpoint discrimination,
+which is presumed impermissible when directed against
+speech otherwise within the forum’s limitations.” Id., at
+831, 830.
+In all three cases, we ruled that student groups had
+been unconstitutionally singled out because of their points
+of view. “Once it has opened a limited [public] forum,” we
+emphasized, “the State must respect the lawful bounda­
+ries it has itself set.” Id., at 829. The constitutional con­
+straints on the boundaries the State may set bear repeti­
+tion here: “The State may not exclude speech where its
+distinction is not reasonable in light of the purpose served
+by the forum, . . . nor may it discriminate against speech
+on the basis of . . . viewpoint.” Ibid. (internal quotation
+marks omitted).
+C
+We first consider whether Hastings’ policy is reasonable
+taking into account the RSO forum’s function and “all the
+surrounding circumstances.” Cornelius, 473 U. S., at 809.
+1
+Our inquiry is shaped by the educational context in
+which it arises: “First Amendment rights,” we have ob­
+served, “must be analyzed in light of the special character­
+istics of the school environment.” Widmar, 454 U. S., at
+268, n. 5 (internal quotation marks omitted). This Court
+is the final arbiter of the question whether a public uni­
+versity has exceeded constitutional constraints, and we
+owe no deference to universities when we consider that
+question. Cf. Pell v. Procunier, 417 U. S. 817, 827 (1974)
+(“Courts cannot, of course, abdicate their constitutional
+
+
+20
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+responsibility to delineate and protect fundamental liber­
+ties.”). Cognizant that judges lack the on-the-ground
+expertise and experience of school administrators, how­
+ever, we have cautioned courts in various contexts to
+resist “substitut[ing] their own notions of sound educa­
+tional policy for those of the school authorities which they
+review.” Board of Ed. of Hendrick Hudson Central School
+Dist., Westchester Cty. v. Rowley, 458 U. S. 176, 206
+(1982). See also, e.g., Hazelwood School Dist. v. Kuhl
+meier, 484 U. S. 260, 273 (1988) (noting our “oft-expressed
+view that the education of the Nation’s youth is primarily
+the responsibility of parents, teachers, and state and local
+school officials, and not of federal judges”); Healy, 408
+U. S., at 180 (“[T]his Court has long recognized ‘the need
+for affirming the comprehensive authority of the States
+and of school officials, consistent with fundamental consti­
+tutional safeguards, to prescribe and control conduct in
+the schools.’ ” (quoting Tinker v. Des Moines Independent
+Community School Dist., 393 U. S. 503, 507 (1969))).
+A college’s commission—and its concomitant license to
+choose among pedagogical approaches—is not confined to
+the classroom, for extracurricular programs are, today,
+essential parts of the educational process. See Board of
+Ed. of Independent School Dist. No. 92 of Pottawatomie
+Cty. v. Earls, 536 U. S. 822, 831, n. 4 (2002) (involvement
+in student groups is “a significant contributor to the
+breadth and quality of the educational experience” (inter­
+nal quotation marks omitted)). Schools, we have empha­
+sized, enjoy “a significant measure of authority over the
+type of officially recognized activities in which their stu­
+dents participate.” Board of Ed. of Westside Community
+Schools (Dist. 66) v. Mergens, 496 U. S. 226, 240 (1990).
+We therefore “approach our task with special caution,”
+Healy, 408 U. S., at 171, mindful that Hastings’ decisions
+about the character of its student-group program are due
+
+
+Cite as: 561 U. S. ____ (2010)
+
+21
+
+Opinion of the Court
+
+decent respect.16
+2
+With appropriate regard for school administrators’
+judgment, we review the justifications Hastings offers in
+defense of its all-comers requirement.17 First, the open­
+access policy “ensures that the leadership, educational,
+and social opportunities afforded by [RSOs] are available
+——————
+16 The dissent mischaracterizes the nature of the respect we accord to
+Hastings. See post, at 1, 15–16, 27. As noted supra, at 19–20, this
+Court, exercising its independent judgment, must “interpre[t] and
+appl[y] . . . the right to free speech.” Post, at 16. But determinations of
+what constitutes sound educational policy or what goals a student­
+organization forum ought to serve fall within the discretion of school
+administrators and educators. See, e.g., Board of Ed. of Hendrick
+Hudson Central School Dist., Westchester Cty. v. Rowley, 458 U. S. 176,
+206 (1982).
+17 Although the dissent maintains it is “content to address the consti­
+tutionality of Hastings’ actions under our limited public forum cases,”
+post, at 17, it resists the import of those cases at every turn. For
+example, although the dissent acknowledges that a university has the
+authority to set the boundaries of a limited public forum, post, at 17, 24,
+the dissent refuses to credit Hastings’ all-comers policy as one of those
+boundaries. See ibid. (insisting that “Hastings’ regulations . . . impose
+only two substantive limitations: A group . . . must have student
+members and must be non-commercial.”). In short, “the design of the
+RSO forum,” post, at 26, which the dissent discusses at length, post, at
+24–31, is of its own tailoring.
+Another example: The dissent pointedly observes that “[w]hile there
+can be no question that the State of California could not impose [an all­
+comers] restrictio[n] on all religious groups in the State, the Court now
+holds that Hastings, a state institution, may impose these very same
+requirements on students who wish to participate in a forum that is
+designed to foster the expression of diverse viewpoints.” Post, at 27. As
+noted supra, at 12–13, and n. 11, this difference reflects the lesser
+standard of scrutiny applicable to limited public forums compared to
+other forums. The dissent fights the distinction between state prohibi
+tion and state support, but its real quarrel is with our limited public
+forum doctrine, which recognizes that distinction. CLS, it bears repeti­
+tion, remains free to express whatever it will, but it cannot insist on an
+exemption from Hastings’ embracive all-comers policy.
+
+
+22
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+to all students.” Brief for Hastings 32; see Brief for
+American Civil Liberties Union et al. as Amici Curiae 11.
+Just as “Hastings does not allow its professors to host
+classes open only to those students with a certain status or
+belief,” so the Law School may decide, reasonably in our
+view, “that the . . . educational experience is best promoted
+when all participants in the forum must provide equal
+access to all students.” Brief for Hastings 32. RSOs,
+we count it significant, are eligible for financial assistance drawn from mandatory student-activity fees, see
+supra, at 3; the all-comers policy ensures that no Hastings
+student is forced to fund a group that would reject her as a
+member.18
+Second, the all-comers requirement helps Hastings
+police the written terms of its Nondiscrimination Policy
+without inquiring into an RSO’s motivation for member­
+ship restrictions. To bring the RSO program within CLS’s
+view of the Constitution’s limits, CLS proposes that Hast­
+ings permit exclusion because of belief but forbid discrimi­
+nation due to status. See Tr. of Oral Arg. 18. But that
+proposal would impose on Hastings a daunting labor.
+How should the Law School go about determining whether
+a student organization cloaked prohibited status exclusion
+in belief-based garb? If a hypothetical Male-Superiority
+Club barred a female student from running for its presi­
+dency, for example, how could the Law School tell whether
+the group rejected her bid because of her sex or because,
+by seeking to lead the club, she manifested a lack of belief
+in its fundamental philosophy?
+This case itself is instructive in this regard. CLS con­
+tends that it does not exclude individuals because of sex­
+——————
+18 CLS notes that its “activities—its Bible studies, speakers, and din­
+ners—are open to all students,” even if attendees are barred from
+membership and leadership. Reply Brief 20. Welcoming all comers as
+guests or auditors, however, is hardly equivalent to accepting all
+comers as full-fledged participants.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+23
+
+Opinion of the Court
+
+ual orientation, but rather “on the basis of a conjunction of
+conduct and the belief that the conduct is not wrong.”
+Brief for Petitioner 35–36 (emphasis deleted). Our deci­
+sions have declined to distinguish between status and
+conduct in this context. See Lawrence v. Texas, 539 U. S.
+558, 575 (2003) (“When homosexual conduct is made
+criminal by the law of the State, that declaration in and of
+itself is an invitation to subject homosexual persons to
+discrimination.” (emphasis added)); id., at 583 (O’Connor,
+J., concurring in judgment) (“While it is true that the law
+applies only to conduct, the conduct targeted by this law is
+conduct that is closely correlated with being homosexual.
+Under such circumstances, [the] law is targeted at more
+than conduct. It is instead directed toward gay persons as
+a class.”); cf. Bray v. Alexandria Women’s Health Clinic,
+506 U. S. 263, 270 (1993) (“A tax on wearing yarmulkes is
+a tax on Jews.”). See also Brief for Lambda Legal Defense
+and Education Fund, Inc., et al. as Amici Curiae 7–20.
+Third, the Law School reasonably adheres to the view
+that an all-comers policy, to the extent it brings together
+individuals with diverse backgrounds and beliefs, “encour­
+ages tolerance, cooperation, and learning among stu­
+dents.” App. 349.19 And if the policy sometimes produces
+discord, Hastings can rationally rank among RSO­
+program goals development of conflict-resolution skills,
+toleration, and readiness to find common ground.
+Fourth, Hastings’ policy, which incorporates—in fact,
+subsumes—state-law proscriptions on discrimination,
+conveys the Law School’s decision “to decline to subsidize
+with public monies and benefits conduct of which the
+——————
+19 CLS’s predecessor organization, the Hastings Christian Fellowship
+(HCF), experienced these benefits first-hand when it welcomed an
+openly gay student as a member during the 2003–2004 academic year.
+That student, testified another HCF member, “was a joy to have” in the
+group and brought a unique perspective to Bible-study discussions. See
+App. 325, 327.
+
+
+24
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+people of California disapprove.” Brief for Hastings 35;
+id., at 33–34 (citing Cal. Educ. Code §66270 (prohibiting
+discrimination on various bases)). State law, of course,
+may not command that public universities take action
+impermissible under the First Amendment. But so long as
+a public university does not contravene constitutional
+limits, its choice to advance state-law goals through the
+school’s educational endeavors stands on firm footing.
+In sum, the several justifications Hastings asserts in
+support of its all-comers requirement are surely reason­
+able in light of the RSO forum’s purposes.20
+3
+The Law School’s policy is all the more creditworthy in
+view of the “substantial alternative channels that remain
+open for [CLS-student] communication to take place.”
+Perry Ed. Assn., 460 U. S., at 53. If restrictions on access
+to a limited public forum are viewpoint discriminatory, the
+ability of a group to exist outside the forum would not cure
+the constitutional shortcoming. But when access barriers
+are viewpoint neutral, our decisions have counted it sig­
+nificant that other available avenues for the group to
+exercise its First Amendment rights lessen the burden
+created by those barriers. See ibid.; Cornelius, 473 U. S.,
+at 809; Greer v. Spock, 424 U. S. 828, 839 (1976); Pell, 417
+U. S., at 827–828.
+In this case, Hastings offered CLS access to school facili­
+ties to conduct meetings and the use of chalkboards and
+generally available bulletin boards to advertise events.
+App. 232–233. Although CLS could not take advantage of
+RSO-specific methods of communication, see supra, at 3,
+the advent of electronic media and social-networking sites
+reduces the importance of those channels. See App. 114–
+——————
+20 Although the Law School has offered multiple justifications for its
+all-comers policy, we do not suggest that each of them is necessary for
+the policy to survive constitutional review.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+25
+
+Opinion of the Court
+
+115 (CLS maintained a Yahoo! message group to dissemi­
+nate information to students.); Christian Legal Society v.
+Walker, 453 F. 3d 853, 874 (CA7 2006) (Wood, J., dissent­
+ing) (“Most universities and colleges, and most college­
+aged students, communicate through email, websites, and
+hosts like MySpace . . . . If CLS had its own website, any
+student at the school with access to Google—that is, all of
+them—could easily have found it.”). See also Brief for
+Associated Students of the University of California, Hast­
+ings College of Law as Amicus Curiae 14–18 (describing
+host of ways CLS could communicate with Hastings’ stu­
+dents outside official channels).
+Private groups, from fraternities and sororities to social
+clubs and secret societies, commonly maintain a presence
+at universities without official school affiliation.21 Based
+on the record before us, CLS was similarly situated: It
+hosted a variety of activities the year after Hastings de­
+nied it recognition, and the number of students attending
+those meetings and events doubled. App. 224, 229–230.
+“The variety and type of alternative modes of access pre­
+sent here,” in short, “compare favorably with those in
+other [limited public] forum cases where we have upheld
+restrictions on access.” Perry Ed. Assn., 460 U. S., at 53–
+54. It is beyond dissenter’s license, we note again, see
+supra, at 21, n. 17, constantly to maintain that nonrecog­
+nition of a student organization is equivalent to prohibit­
+ing its members from speaking.
+——————
+21 See,
+
+e.g., Baker, Despite Lack of University Recognition, Pi Kappa
+Theta Continues to Grow, The New Hampshire, Sept. 28, 2009, pp. 1, 5
+(unrecognized fraternity able to grow despite severed ties with the
+University of New Hampshire); Battey, Final Clubs Provide Controver­
+sial Social Outlet, Yale Daily News, Apr. 5, 2006, pp. 1, 4 (Harvard
+social clubs, known as “final clubs,” “play a large role in the experience
+of . . . students” even though “they became completely disassociated
+from the university in 1984”).
+
+
+26
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+4
+CLS nevertheless deems Hastings’ all-comers policy
+“frankly absurd.” Brief for Petitioner 49. “There can be no
+diversity of viewpoints in a forum,” it asserts, “if groups
+are not permitted to form around viewpoints.” Id., at 50;
+accord post, at 25 (ALITO, J., dissenting). This catchphrase
+confuses CLS’s preferred policy with constitutional limita­
+tion—the advisability of Hastings’ policy does not control
+its permissibility. See Wood v. Strickland, 420 U. S. 308,
+326 (1975). Instead, we have repeatedly stressed that a
+State’s restriction on access to a limited public forum
+“need not be the most reasonable or the only reasonable
+limitation.” Cornelius, 473 U. S., at 808.22
+CLS also assails the reasonableness of the all-comers
+policy in light of the RSO forum’s function by forecasting
+that the policy will facilitate hostile takeovers; if organiza­
+tions must open their arms to all, CLS contends, saboteurs
+will infiltrate groups to subvert their mission and mes­
+sage. This supposition strikes us as more hypothetical
+than real. CLS points to no history or prospect of RSO­
+hijackings at Hastings. Cf. National Endowment for Arts
+v. Finley, 524 U. S. 569, 584 (1998) (“[W]e are reluctant
+. . . to invalidate legislation on the basis of its hypothetical
+application to situations not before the Court.” (internal
+quotation marks omitted)). Students tend to self-sort and
+presumably will not endeavor en masse to join—let alone
+——————
+22 CLS’s concern, shared by the dissent, see post, at 25–26, that an
+all-comers policy will squelch diversity has not been borne out by
+Hastings’ experience. In the 2004–2005 academic year, approximately
+60 student organizations, representing a variety of interests, registered
+with Hastings, from the Clara Foltz Feminist Association, to the
+Environmental Law Society, to the Hastings Chinese Law and Culture
+Society. App. 215, 237–238. Three of these 60 registered groups had a
+religious orientation: Hastings Association of Muslim Law Students,
+Hastings Jewish Law Students Association, and Hastings Koinonia.
+Id., at 215–216.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+27
+
+Opinion of the Court
+
+seek leadership positions in—groups pursuing missions
+wholly at odds with their personal beliefs. And if a rogue
+student intent on sabotaging an organization’s objectives
+nevertheless attempted a takeover, the members of that
+group would not likely elect her as an officer.
+RSOs, moreover, in harmony with the all-comers policy,
+may condition eligibility for membership and leadership
+on attendance, the payment of dues, or other neutral
+requirements designed to ensure that students join be­
+cause of their commitment to a group’s vitality, not its
+demise. See supra, at 4, n. 2. Several RSOs at Hastings
+limit their membership rolls and officer slates in just this
+way. See, e.g., App. 192 (members must “[p]ay their dues
+on a timely basis” and “attend meetings regularly”); id., at
+173 (members must complete an application and pay dues;
+“[a]ny active member who misses a semester of regularly
+scheduled meetings shall be dropped from rolls”); App. to
+Pet. for Cert. 129a (“Only Hastings students who have
+held membership in this organization for a minimum of
+one semester shall be eligible to be an officer.”).23
+Hastings, furthermore, could reasonably expect more
+from its law students than the disruptive behavior CLS
+hypothesizes—and to build this expectation into its educa­
+tional approach. A reasonable policy need not anticipate
+and preemptively close off every opportunity for avoidance
+or manipulation. If students begin to exploit an all-comers
+policy by hijacking organizations to distort or destroy their
+missions, Hastings presumably would revisit and revise
+its policy. See Tr. of Oral Arg. 41 (counsel for Hastings);
+Brief for Hastings 38.
+Finally, CLS asserts (and the dissent repeats, post, at
+——————
+23 As Hastings notes, other “checks [are also] in place” to prevent
+RSO-sabotage. Brief for Hastings 43, n. 16. “The [Law] School’s
+student code of conduct applies to RSO activities and, inter alia, prohib­
+its obstruction or disruption, disorderly conduct, and threats.” Ibid.
+(internal quotation marks and brackets omitted).
+
+
+28
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+29) that the Law School lacks any legitimate interest—let
+alone one reasonably related to the RSO forum’s pur­
+poses—in urging “religious groups not to favor co­
+religionists for purposes of their religious activities.” Brief
+for Petitioner 43; id., at 50. CLS’s analytical error lies in
+focusing on the benefits it must forgo while ignoring the
+interests of those it seeks to fence out: Exclusion, after all,
+has two sides. Hastings, caught in the crossfire between a
+group’s desire to exclude and students’ demand for equal
+access, may reasonably draw a line in the sand permitting
+all organizations to express what they wish but no group
+to discriminate in membership.24
+D
+We next consider whether Hastings’ all-comers policy is
+viewpoint neutral.
+1
+Although this aspect of limited-public-forum analysis
+has been the constitutional sticking point in our prior
+decisions, as earlier recounted, supra, at 17–19, we need
+not dwell on it here. It is, after all, hard to imagine a
+more viewpoint-neutral policy than one requiring all
+student groups to accept all comers. In contrast to Healy,
+Widmar, and Rosenberger, in which universities singled
+out organizations for disfavored treatment because of their
+——————
+24 In arguing that the all-comers policy is not reasonable in light of
+the RSO forum’s purposes, the dissent notes that Title VII, which
+prohibits employment discrimination on the basis of religion, among
+other categories, provides an exception for religious associations. Post,
+at 28, n. 8. The question here, however, is not whether Hastings could,
+consistent with the Constitution, provide religious groups dispensation
+from the all-comers policy by permitting them to restrict membership to
+those who share their faith. It is instead whether Hastings must grant
+that exemption. This Court’s decision in Employment Div., Dept. of
+Human Resources of Ore. v. Smith, 494 U. S. 872, 878–882 (1990),
+unequivocally answers no to that latter question. See also infra, at 31,
+n. 27.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+29
+
+Opinion of the Court
+
+points of view, Hastings’ all-comers requirement draws no
+distinction between groups based on their message or
+perspective. An all-comers condition on access to RSO
+status, in short, is textbook viewpoint neutral.25
+2
+Conceding that Hastings’ all-comers policy is “nominally
+neutral,” CLS attacks the regulation by pointing to its
+effect: The policy is vulnerable to constitutional assault,
+CLS contends, because “it systematically and predictably
+burdens most heavily those groups whose viewpoints are
+out of favor with the campus mainstream.” Brief for Peti­
+tioner 51; cf. post, at 1 (ALITO, J., dissenting) (charging
+that Hastings’ policy favors “political[ly] correc[t]” student
+expression). This argument stumbles from its first step
+because “[a] regulation that serves purposes unrelated to
+the content of expression is deemed neutral, even if it has
+an incidental effect on some speakers or messages but not
+——————
+25 Relying
+
+exclusively on Board of Regents of Univ. of Wis. System v.
+Southworth, 529 U. S. 217 (2000), the dissent “would not be so quick to
+jump to th[e] conclusion” that the all-comers policy is viewpoint neu­
+tral. Post, at 31, and 31–32, n. 10. Careful consideration of South
+worth, however, reveals how desperate the dissent’s argument is. In
+Southworth, university students challenged a mandatory student­
+activity fee used to fund student groups. Finding the political and
+ideological speech of certain groups offensive, the student-challengers
+argued that imposition of the fee violated their First Amendment
+rights. 529 U. S., at 221. This Court upheld the university’s choice to
+subsidize groups whose expression some students found distasteful, but
+we admonished that the university could not “prefer some viewpoints to
+others” in the distribution of funds. Id., at 233. We cautioned that the
+university’s referendum process, which allowed students to vote on
+whether a student organization would receive financial support, risked
+violation of this principle by allowing students to select groups to fund
+based on their viewpoints. Id., at 235. In this case, in contrast, the all­
+comers policy governs all RSOs; Hastings does not pick and choose
+which organizations must comply with the policy on the basis of view­
+point. App. 221. Southworth accordingly provides no support for the
+dissent’s warped analysis.
+
+
+30
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ
+Opinion of the Court
+
+others.” Ward v. Rock Against Racism, 491 U. S. 781, 791
+(1989). See also Madsen v. Women’s Health Center, Inc.,
+512 U. S. 753, 763 (1994) (“[T]he fact that the injunction
+covered people with a particular viewpoint does not itself
+render the injunction content or viewpoint based.”).
+Even if a regulation has a differential impact on groups
+wishing to enforce exclusionary membership policies,
+“[w]here the [State] does not target conduct on the basis of
+its expressive content, acts are not shielded from regula­
+tion merely because they express a discriminatory idea or
+philosophy.” R. A. V. v. St. Paul, 505 U. S. 377, 390
+(1992). See also Roberts, 468 U. S., at 623 (State’s nondis­
+crimination law did not “distinguish between prohibited
+and permitted activity on the basis of viewpoint.”); Board
+of Directors of Rotary Int’l v. Rotary Club of Duarte, 481
+U. S. 537, 549 (1987) (same).
+Hastings’ requirement that student groups accept all
+comers, we are satisfied, “is justified without reference to
+the content [or viewpoint] of the regulated speech.” Ward,
+491 U. S., at 791 (internal quotation marks and emphasis
+omitted). The Law School’s policy aims at the act of reject­
+ing would-be group members without reference to the
+reasons motivating that behavior: Hastings’ “desire to
+redress th[e] perceived harms” of exclusionary member­
+ship policies “provides an adequate explanation for its [all­
+comers condition] over and above mere disagreement with
+[any student group’s] beliefs or biases.” Wisconsin v.
+Mitchell, 508 U. S. 476, 488 (1993). CLS’s conduct—not
+its Christian perspective—is, from Hastings’ vantage
+point, what stands between the group and RSO status.
+“In the end,” as Hastings observes, “CLS is simply confus­
+ing its own viewpoint-based objections to . . . nondiscrimi­
+nation laws (which it is entitled to have and [to] voice)
+with viewpoint discrimination.” Brief for Hastings 31.26
+——————
+26 Although
+
+registered student groups must conform their conduct to
+
+
+Cite as: 561 U. S. ____ (2010)
+
+31
+
+Opinion of the Court
+
+Finding Hastings’ open-access condition on RSO status
+reasonable and viewpoint neutral, we reject CLS’ free­
+speech and expressive-association claims.27
+IV
+In its reply brief, CLS contends that “[t]he peculiarity,
+incoherence, and suspect history of the all-comers policy
+all point to pretext.” Reply Brief 23. Neither the District
+Court nor the Ninth Circuit addressed an argument that
+Hastings selectively enforces its all-comers policy, and this
+Court is not the proper forum to air the issue in the first
+instance.28 On remand, the Ninth Circuit may consider
+—————— 
+
+the Law School’s regulation by dropping access barriers, they may
+
+express any viewpoint they wish—including a discriminatory one. Cf. 
+
+Rumsfeld v. Forum for Academic and Institutional Rights, Inc., 547
+
+U. S. 47, 60 (2006) (“As a general matter, the Solomon Amendment
+regulates conduct, not speech. It affects what law schools must do—
+afford equal access to military recruiters—not what they may or may
+not say.”). Today’s decision thus continues this Court’s tradition of
+“protect[ing] the freedom to express ‘the thought that we hate.’ ” Post,
+at 1 (ALITO, J., dissenting) (quoting United States v. Schwimmer, 279
+U. S. 644, 655 (1929) (Holmes, J., dissenting)).
+27 CLS briefly argues that Hastings’ all-comers condition violates the
+Free Exercise Clause. Brief for Petitioner 40–41. Our decision in
+Smith, 494 U. S. 872, forecloses that argument. In Smith, the Court
+held that the Free Exercise Clause does not inhibit enforcement of
+otherwise valid regulations of general application that incidentally
+burden religious conduct. Id., at 878–882. In seeking an exemption
+from Hastings’ across-the-board all-comers policy, CLS, we repeat,
+seeks preferential, not equal, treatment; it therefore cannot moor its
+request for accommodation to the Free Exercise Clause.
+28 Finding the Ninth Circuit’s analysis cursory, the dissent repeatedly
+urges us to resolve the pretext question. See, e.g., post, at 2, 31–35, and
+17, n. 2. In doing so, the dissent forgets that “we are a court of review,
+not of first view.” Cutter v. Wilkinson, 544 U. S. 709, 718, n. 7 (2005).
+When the lower courts have failed to address an argument that de­
+served their attention, our usual practice is to remand for further
+consideration, not to seize the opportunity to decide the question
+ourselves. That is especially true when we agree to review an issue on
+the understanding that “[t]he material facts . . . are undisputed,” as
+
+
+32
+
+CHRISTIAN LEGAL SOC. CHAPTER OF UNIV. OF CAL.,
+HASTINGS COLLEGE OF LAW v. MARTINEZ 
+
+Opinion of the Court 
+
+
+CLS’s pretext argument if, and to the extent, it is
+preserved.29
+*
+*
+*
+For the foregoing reasons, we affirm the Court of Ap­
+peals’ ruling that the all-comers policy is constitutional
+and remand the case for further proceedings consistent
+with this opinion.
+It is so ordered.
+
+——————
+CLS’s petition for certiorari emphasized was the case here. Pet. for
+Cert. 2.
+29 The dissent’s pretext discussion presents a one-sided summary of
+the record evidence, post, at 31–34, an account depending in large part
+on impugning the veracity of a distinguished legal scholar and a well
+respected school administrator, post, at 3, 5, 6, 7, 8, 9, 11, 24, 32, 34.
+See also supra, at 10, n. 7.
+
+

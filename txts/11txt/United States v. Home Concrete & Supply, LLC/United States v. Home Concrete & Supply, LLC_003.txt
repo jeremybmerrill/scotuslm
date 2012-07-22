@@ -1,0 +1,42 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 11–139
+_________________
+
+UNITED STATES, PETITIONER v. HOME CONCRETE
+& SUPPLY, LLC, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FOURTH CIRCUIT
+[April 25, 2012]
+
+JUSTICE BREYER delivered the opinion of the Court,
+except as to Part IV–C.
+Ordinarily, the Government must assess a deficiency
+against a taxpayer within “3 years after the return was
+filed.” 26 U. S. C. §6501(a) (2000 ed.). The 3-year period
+is extended to 6 years, however, when a taxpayer “omits
+from gross income an amount properly includible therein
+which is in excess of 25 percent of the amount of gross
+income stated in the return.” §6501(e)(1)(A) (emphasis
+added). The question before us is whether this latter
+provision applies (and extends the ordinary 3-year limitations period) when the taxpayer overstates his basis in
+property that he has sold, thereby understating the gain
+that he received from its sale. Following Colony, Inc. v.
+Commissioner, 357 U. S. 28 (1958), we hold that the provision does not apply to an overstatement of basis. Hence
+the 6-year period does not apply.
+I
+For present purposes the relevant underlying circumstances are not in dispute. We consequently assume that
+(1) the respondent taxpayers filed their relevant tax re-
+
+

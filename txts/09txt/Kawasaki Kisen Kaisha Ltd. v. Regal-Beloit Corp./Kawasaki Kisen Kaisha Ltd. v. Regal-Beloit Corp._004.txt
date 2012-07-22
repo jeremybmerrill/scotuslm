@@ -1,0 +1,34 @@
+4
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Syllabus
+§11706(d)(1). Pp. 8–15.
+(2) Carmack’s statutory history supports this conclusion. None of
+its legislative versions—the original 1906 statute or the amended
+1915, 1978, or 1995 ones—have applied to the inland domestic rail
+segment of an import shipment from overseas under a through bill.
+Pp. 15–17.
+(3) This interpretation also attains the most consistency between
+Carmack and COGSA. Applying Carmack to the inland segment of
+an international carriage originating overseas under a through bill
+would undermine Carmack’s purposes, which are premised on the
+view that a shipment has a single bill of lading and any damage is
+the responsibility of both receiving and delivering carriers. Under
+the Ninth Circuit’s interpretation, there might be no venue in which
+to sue the receiving carrier. That interpretation would also under
+mine COGSA and international, container-based multimodal trans
+port: COGSA’s liability and venue rules would apply when cargo is
+damaged at sea and Carmack’s rules almost always would apply
+when the damage occurs on land. Moreover, applying Carmack to in
+ternational import shipping transport would undermine COGSA’s
+purpose “to facilitate efficient contracting in contracts for carriage by
+sea.” Kirby, supra, at 29. The cargo owners’ contrary policy argu
+ments are unavailing. Pp. 17–20.
+
+557 F. 3d 985, reversed and remanded.
+KENNEDY, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and SCALIA, THOMAS, BREYER, and ALITO, JJ., joined. SOTOMAYOR,
+J., filed a dissenting opinion, in which STEVENS and GINSBURG, JJ.,
+joined.
+
+

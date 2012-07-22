@@ -1,0 +1,38 @@
+4
+
+MILNER v. DEPARTMENT OF NAVY
+ALITO, J., concurring
+
+example, documents originally gathered for routine busi
+ness purposes may fall within Exemption 7 if they are
+later compiled for use in a criminal investigation. Simi
+larly, federal building plans and related information—
+which may have been compiled originally for architectural
+planning or internal purposes—may fall within Exemption
+7 if that information is later compiled and given to law
+enforcement officers for security purposes.
+Documents compiled for multiple purposes are not necessarily deprived of Exemption 7’s protection. The text
+of Exemption 7 does not require that the information
+be compiled solely for law enforcement purposes. Cf.
+§552(b)(2) (“related solely to the internal personnel rules
+and practices of an agency”). Therefore, it may be
+enough that law enforcement purposes are a significant
+reason for the compilation.
+In this case, the Navy has a fair argument that the
+Explosive Safety Quantity Distance (ESQD) information
+falls within Exemption 7(F). The ESQD information, the
+Navy argues, is used “for the purpose of identifying and
+addressing security issues” and for the “protection of
+people and property on the base, as well as in [the] nearby
+community, from the damage, loss, death, or injury that
+could occur from an accident or breach of security.” Brief
+for Appellee in No. 07–36056 (CA9), pp. 39–40. If, indeed,
+the ESQD information was compiled as part of an effort to
+prevent crimes of terrorism and to maintain security,
+there is a reasonable argument that the information has
+been “compiled for law enforcement purposes.” §552(b)(7).
+Assuming that this threshold requirement is satisfied, the
+ESQD information may fall comfortably within Exemption
+7(F).
+
+

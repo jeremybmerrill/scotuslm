@@ -1,0 +1,44 @@
+6
+
+GONZALEZ v. THALER
+Opinion of the Court
+
+waived or forfeited. The objections may be resurrected at
+any point in the litigation, and a valid objection may lead
+a court midway through briefing to dismiss a complaint in
+its entirety. “[M]any months of work on the part of the
+attorneys and the court may be wasted.” Henderson, 562
+U. S., at ___ (slip op., at 5). Courts, we have said, should
+not lightly attach those “drastic” consequences to limits
+Congress has enacted. Ibid.
+We accordingly have applied the following principle: A
+rule is jurisdictional “[i]f the Legislature clearly states
+that a threshold limitation on a statute’s scope shall count
+as jurisdictional.” Arbaugh v. Y & H Corp., 546 U. S. 500,
+515 (2006). But if “Congress does not rank a statutory
+limitation on coverage as jurisdictional, courts should
+treat the restriction as nonjurisdictional.” Id., at 516.3
+That clear-statement principle makes particular sense in
+this statute, as we consider—against the backdrop of
+§2253(a)’s clear jurisdictional grant to the courts of ap——————
+3 We
+
+have also held that “context, including this Court’s interpretation of similar provisions in many years past, is relevant to whether a
+statute ranks a requirement as jurisdictional.” Reed Elsevier, Inc. v.
+Muchnick, 559 U. S. ___, ___ (2010) (slip op., at 13). Here, however,
+even though the requirement of a COA (or its predecessor, the certificate of probable cause (CPC)) dates back to 1908, Congress did not
+enact the indication requirement until 1996. There is thus no “long line
+of this Court’s decisions left undisturbed by Congress” on which to rely.
+Union Pacific R. Co. v. Locomotive Engineers and Trainmen Gen.
+Comm. of Adjustment, Central Region, 558 U. S. ___, ___ (2009) (slip
+op., at 13).
+The issuance of a CPC, like the issuance of a COA, was jurisdictional.
+Contrary to the dissent’s assertions, post, at 8–10 (opinion of SCALIA,
+J.), that fact does not suggest that the indication requirement is jurisdictional as well. If anything, the inference runs the other way. For
+nearly a century, a judge’s granting or withholding of a CPC, absent
+any indication of issues, was the fully effective “expression of opinion,”
+post, at 8, required for an appeal to proceed. AEDPA’s new requirement that judges indicate the specific issues to be raised on appeal has
+no predecessor provision—indeed, it is the primary difference between
+a CPC and COA.
+
+

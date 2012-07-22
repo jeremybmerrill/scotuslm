@@ -1,0 +1,616 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1438
+_________________
+
+HARVEY LEROY SOSSAMON, III, PETITIONER v.
+
+TEXAS ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FIFTH CIRCUIT
+
+[April 20, 2011] 
+
+
+JUSTICE THOMAS delivered the opinion of the Court.
+This case presents the question whether the States, by
+accepting federal funds, consent to waive their sovereign
+immunity to suits for money damages under the Religious
+Land Use and Institutionalized Persons Act of 2000
+(RLUIPA), 114 Stat. 803, 42 U. S. C. §2000cc et seq. We
+hold that they do not. Sovereign immunity therefore bars
+this suit for damages against the State of Texas.
+I
+
+A
+
+RLUIPA is Congress’ second attempt to accord height
+ened statutory protection to religious exercise in the wake
+of this Court’s decision in Employment Division, Depart­
+ment of Human Resources of Oregon v. Smith, 494 U. S.
+872 (1990). Congress first enacted the Religious Freedom
+Restoration Act of 1993 (RFRA), 107 Stat. 1488, 42
+U. S. C. §2000bb et seq., with which it intended to “restore
+the compelling interest test as set forth in Sherbert v.
+Verner, 374 U. S. 398 (1963) and Wisconsin v. Yoder, 406
+U. S. 205 (1972) . . . in all cases where free exercise of
+religion is substantially burdened.” §2000bb(b)(1). See
+
+
+2
+
+SOSSAMON v. TEXAS
+Opinion of the Court
+
+generally Gonzales v. O Centro Espírita Beneficente União
+do Vegetal, 546 U. S. 418, 424 (2006). We held RFRA
+unconstitutional as applied to state and local governments
+because it exceeded Congress’ power under §5 of the Four
+teenth Amendment. See City of Boerne v. Flores, 521 U. S.
+507 (1997).
+Congress responded by enacting RLUIPA pursuant to
+its Spending Clause and Commerce Clause authority.
+RLUIPA borrows important elements from RFRA—which
+continues to apply to the Federal Government—but
+RLUIPA is less sweeping in scope. See Cutter v. Wilkin­
+son, 544 U. S. 709, 715 (2005). It targets two areas of
+state and local action: land-use regulation, 42 U. S. C.
+§2000cc (RLUIPA §2), and restrictions on the religious
+exercise of institutionalized persons, §2000cc–1 (RLUIPA
+§3).
+Section 3 of RLUIPA provides that “[n]o government
+shall impose a substantial burden on the religious exer
+cise” of an institutionalized person unless, as in RFRA, the
+government demonstrates that the burden “is in further
+ance of a compelling governmental interest” and “is the
+least restrictive means of furthering” that interest.
+§2000cc–1(a); cf. §§2000bb–1(a), (b). As relevant here, §3
+applies “in any case” in which “the substantial burden is
+imposed in a program or activity that receives Federal
+financial assistance.”1 §2000cc–1(b)(1).
+RLUIPA also includes an express private cause of action
+that is taken from RFRA: “A person may assert a violation
+of [RLUIPA] as a claim or defense in a judicial proceeding
+and obtain appropriate relief against a government.”
+§2000cc–2(a); cf. §2000bb–1(c). For purposes of this provi
+——————
+1 No party contends that the Commerce Clause permitted Congress to
+address the alleged burden on religious exercise at issue in this case.
+See 42 U. S. C. §2000cc–1(b)(2). Nor is Congress’ authority to enact
+RLUIPA under the Spending Clause challenged here. We therefore do
+not address those issues.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+sion, “government” includes, inter alia, States, counties,
+municipalities, their instrumentalities and officers, and
+persons acting under color of state law. §2000cc–5(4)(A).
+B
+Petitioner Harvey Leroy Sossamon III is an inmate in
+the Robertson Unit of the Texas Department of Criminal
+Justice, Correctional Institutions Division. In 2006, Sos
+samon sued the State of Texas and various prison officials
+in their official capacities under RLUIPA’s private cause of
+action, seeking injunctive and monetary relief. Sossamon
+alleged that two prison policies violated RLUIPA: (1) a
+policy preventing inmates from attending religious ser
+vices while on cell restriction for disciplinary infractions;
+and (2) a policy barring use of the prison chapel for reli
+gious worship. The District Court granted summary
+judgment in favor of respondents and held, as relevant
+here, that sovereign immunity barred Sossamon’s claims
+for monetary relief.2 See 713 F. Supp. 2d 657, 662–663
+(WD Tex. 2007).
+The Court of Appeals for the Fifth Circuit affirmed. 560
+F. 3d 316, 329 (2009). Acknowledging that Congress
+enacted RLUIPA pursuant to the Spending Clause, the
+court determined that Texas had not waived its sovereign
+immunity by accepting federal funds. The Court of Ap
+peals strictly construed the text of RLUIPA’s cause of
+action in favor of the State and concluded that the statu
+——————
+2 The District Court also denied injunctive relief. 713 F. Supp. 2d
+657, 668 (WD Tex. 2007). The Court of Appeals subsequently held that
+Sossamon’s claim for injunctive relief with respect to the cell-restriction
+policy was moot because the State had abandoned that policy after
+Sossamon filed a prison grievance. 560 F. 3d 316, 326 (CA5 2009). The
+Court of Appeals reversed the District Court with respect to Sossamon’s
+chapel-use policy claim, id., at 331–335, although the Robertson Unit
+later amended that policy also and now permits inmates to attend
+scheduled worship services in the chapel subject to certain safety
+precautions.
+
+
+4
+
+SOSSAMON v. TEXAS
+Opinion of the Court
+
+tory phrase “appropriate relief against a government” did
+not “unambiguously notif[y]” Texas that its acceptance of
+funds was conditioned on a waiver of immunity from
+claims for money damages. Id., at 330–331. We granted
+certiorari to resolve a division of authority among the
+courts of appeals on this question.3 560 U. S. ___ (2010).
+II
+“Dual sovereignty is a defining feature of our Nation’s
+constitutional blueprint.” Federal Maritime Comm’n v.
+South Carolina Ports Authority, 535 U. S. 743, 751 (2002).
+Upon ratification of the Constitution, the States entered
+the Union “with their sovereignty intact.” Ibid. (internal
+quotation marks omitted).
+Immunity from private suits has long been considered
+“central to sovereign dignity.” Alden v. Maine, 527 U. S.
+706, 715 (1999). As was widely understood at the time the
+Constitution was drafted:
+“It is inherent in the nature of sovereignty not to be
+amenable to the suit of an individual without its con­
+sent. This is the general sense, and the general prac
+tice of mankind; and the exemption, as one of the
+attributes of sovereignty, is now enjoyed by the
+government of every State in the Union.” The Feder
+alist No. 81, p. 511 (Wright ed. 1961) (A. Hamilton).
+Indeed, when this Court threatened state immunity from
+private suits early in our Nation’s history, the people
+responded swiftly to reiterate that fundamental principle.
+See Hans v. Louisiana, 134 U. S. 1, 11 (1890) (discussing
+——————
+3 Compare Madison v. Virginia, 474 F. 3d 118, 131 (CA4 2006); 560
+F. 3d, at 331 (case below); Cardinal v. Metrish, 564 F. 3d 794, 801 (CA6
+2009); Nelson v. Miller, 570 F. 3d 868, 885 (CA7 2009); Van Wyhe v.
+Reisch, 581 F. 3d 639, 655 (CA8 2009); and Holley v. California Dept. of
+Corrections, 599 F. 3d 1108, 1112 (CA9 2010), with Smith v. Allen, 502
+F. 3d 1255, 1276, n. 12 (CA11 2007) (citing Benning v. Georgia, 391
+F. 3d 1299, 1305–1306 (CA11 2004)).
+
+
+Cite as: 563 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+Chisholm v. Georgia, 2 Dall. 419 (1793), and the Eleventh
+Amendment).
+Sovereign immunity principles enforce an important
+constitutional limitation on the power of the federal
+courts. See Pennhurst State School and Hospital v. Hal­
+derman, 465 U. S. 89, 98 (1984). For over a century now,
+this Court has consistently made clear that “federal juris
+diction over suits against unconsenting States ‘was not
+contemplated by the Constitution when establishing the
+judicial power of the United States.’ ” Seminole Tribe of
+Fla. v. Florida, 517 U. S. 44, 54 (1996) (quoting Hans,
+supra, at 15); see Seminole Tribe, supra, at 54–55, n. 7
+(collecting cases). A State, however, may choose to waive
+its immunity in federal court at its pleasure. Clark v.
+Barnard, 108 U. S. 436, 447–448 (1883).
+Accordingly, “our test for determining whether a State
+has waived its immunity from federal-court jurisdiction is
+a stringent one.” College Savings Bank v. Florida Prepaid
+Postsecondary Ed. Expense Bd., 527 U. S. 666, 675 (1999)
+(internal quotation marks omitted). A State’s consent to
+suit must be “unequivocally expressed” in the text of the
+relevant statute. Pennhurst State School and Hospital,
+supra, at 99; see Atascadero State Hospital v. Scanlon, 473
+U. S. 234, 238, n. 1, 239–240 (1985). Only by requiring
+this “clear declaration” by the State can we be “certain
+that the State in fact consents to suit.” College Savings
+Bank, 527 U. S., at 680. Waiver may not be implied. Id.,
+at 682.
+For these reasons, a waiver of sovereign immunity “will
+be strictly construed, in terms of its scope, in favor of the
+sovereign.” Lane v. Peña, 518 U. S. 187, 192 (1996).4 So,
+——————
+4 Although Lane concerned the Federal Government, the strict con
+struction principle, which flows logically from the requirement that
+consent be “unequivocally expressed,” applies to the sovereign immu
+nity of the States as well. Cf. United States v. Nordic Village, Inc., 503
+U. S. 30, 37 (1992) (equating the “unequivocal expression” principle
+
+
+6
+
+SOSSAMON v. TEXAS
+Opinion of the Court
+
+for example, a State’s consent to suit in its own courts is
+not a waiver of its immunity from suit in federal court.
+College Savings Bank, supra, at 676. Similarly, a waiver
+of sovereign immunity to other types of relief does not
+waive immunity to damages: “[T]he waiver of sovereign
+immunity must extend unambiguously to such monetary
+claims.” Lane, supra, at 192; cf. United States v. Nordic
+Village, 503 U. S. 30, 34 (1992) (construing an ambiguous
+waiver of sovereign immunity to permit equitable but not
+monetary claims); Hoffman v. Connecticut Dept. of Income
+Maintenance, 492 U. S. 96, 101–102 (1989) (construing a
+statute to authorize injunctive relief but not “monetary
+recovery from the States” because intent to abrogate im
+munity to monetary recovery was not “ ‘unmistakably clear
+in the language of the statute’ ” (quoting Atascadero, su­
+pra, at 242)).
+III 
+
+A
+
+RLUIPA’s authorization of “appropriate relief against a
+government,” §2000cc–2(a), is not the unequivocal expres
+sion of state consent that our precedents require. “Appro
+priate relief ” does not so clearly and unambiguously waive
+sovereign immunity to private suits for damages that we
+can “be certain that the State in fact consents” to such a
+suit. College Savings Bank, 527 U. S., at 680.
+1
+“Appropriate relief ” is open-ended and ambiguous about
+what types of relief it includes, as many lower courts have
+——————
+from “the Eleventh Amendment context” with the principle applicable
+to federal sovereign immunity); College Savings Bank v. Florida Pre­
+paid Postsecondary Ed. Expense Bd., 527 U. S. 666, 682 (1999) (noting
+the “clos[e] analogy” between federal and state sovereign immunity);
+Belknap v. Schild, 161 U. S. 10, 18 (1896) (“[A] State . . . is as exempt
+as the United States [is] from private suit”).
+
+
+Cite as: 563 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+recognized. See, e.g., 560 F. 3d, at 330–331.5 Far from
+clearly identifying money damages, the word “appropriate”
+is inherently context-dependent. See Webster’s Third New
+International Dictionary 106 (1993) (defining “appropri
+ate” as “specially suitable: FIT, PROPER”). The context
+here—where the defendant is a sovereign—suggests, if
+anything, that monetary damages are not “suitable” or
+“proper.” See Federal Maritime Comm’n, 535 U. S., at 765
+(“[S]tate sovereign immunity serves the important func
+tion of shielding state treasuries . . .”).
+Indeed, both the Court and dissent appeared to agree in
+West v. Gibson, 527 U. S. 212 (1999), that “appropriate”
+relief, by itself, does not unambiguously include damages
+against a sovereign. The question was whether the Equal
+Employment Opportunity Commission, which has author
+ity to enforce Title VII of the Civil Rights Act against the
+Federal Government “through appropriate remedies,”
+could require the Federal Government to pay damages. 42
+U. S. C. §2000e–16(b). The dissent argued that the phrase
+“appropriate remedies” did not authorize damages “in
+express and unequivocal terms.” Gibson, 527 U. S., at 226
+(opinion of KENNEDY, J.). The Court apparently did not
+disagree but reasoned that “appropriate remedies” had a
+flexible meaning that had expanded to include money
+damages after a related statute was amended to explicitly
+allow damages in actions under Title VII. See id., at 217–
+218.
+Further, where a statute is susceptible of multiple
+plausible interpretations, including one preserving immu
+nity, we will not consider a State to have waived its sover
+eign immunity. See Dellmuth v. Muth, 491 U. S. 223, 232
+——————
+5 See
+
+also Holley, supra, at 1112; Nelson, supra, at 884; Van Wyhe,
+supra, at 654; Cardinal, supra, at 801; Madison, supra, at 131–132; cf.
+Webman v. Federal Bur. of Prisons, 441 F. 3d 1022, 1023 (CADC 2006)
+(interpreting the “appropriate relief ” provision of RFRA).
+
+
+8
+
+SOSSAMON v. TEXAS
+Opinion of the Court
+
+(1989) (holding that “a permissible inference” is not the
+necessary “unequivocal declaration” that States were
+intended to be subject to damages actions); Nordic Village,
+supra, at 37 (holding that the existence of “plausible”
+interpretations that would not permit recovery “is enough
+to establish that a reading imposing monetary liability on
+the Government is not ‘unambiguous’ and therefore should
+not be adopted”). That is the case here.
+Sossamon argues that, because RLUIPA expressly
+limits the United States to “injunctive or declaratory
+relief ” to enforce the statute, the phrase “appropriate re
+lief ” in the private cause of action necessarily must be
+broader. 42 U. S. C. §2000cc–2(f). Texas responds that,
+because the State has no immunity defense to a suit
+brought by the Federal Government, Congress needed to
+exclude damages affirmatively in that context but not in
+the context of private suits. Further, the private cause of
+action provides that a person may assert a violation of the
+statute “as a claim or defense.” §2000cc–2(a) (emphasis
+added). Because an injunction or declaratory judgment is
+not “appropriate relief ” for a successful defense, Texas
+explains, explicitly limiting the private cause of action to
+those forms of relief would make no sense.
+Sossamon also emphasizes that the statute requires
+that it be “construed in favor of a broad protection of
+religious exercise.” §2000cc–3(g). Texas responds that
+this provision is best read as addressing the substantive
+standards in the statute, not the scope of “appropriate
+relief.” Texas also highlights Congress’ choice of the word
+“relief,” which it argues primarily connotes equitable
+relief. See Black’s Law Dictionary 1295 (7th ed. 1999)
+(defining “relief ” as “[t]he redress or benefit, esp. equitable
+in nature . . . , that a party asks of a court”).
+These plausible arguments demonstrate that the phrase
+“appropriate relief ” in RLUIPA is not so free from ambigu
+ity that we may conclude that the States, by receiving
+
+
+Cite as: 563 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+federal funds, have unequivocally expressed intent to
+waive their sovereign immunity to suits for damages.
+Strictly construing that phrase in favor of the sovereign—
+as we must, see Lane, 518 U. S., at 192—we conclude that
+it does not include suits for damages against a State.
+2
+The Court’s use of the phrase “appropriate relief” in
+Franklin v. Gwinnett County Public Schools, 503 U. S. 60
+(1992), and Barnes v. Gorman, 536 U. S. 181 (2002), does
+not compel a contrary conclusion. In those cases, the
+Court addressed what remedies are available against
+municipal entities under the implied right of action to
+enforce Title IX of the Education Amendments of 1972,
+§202 of the Americans with Disabilities Act of 1990, and
+§504 of the Rehabilitation Act of 1973. With no statutory
+text to interpret, the Court “presume[d] the availability of
+all appropriate remedies unless Congress ha[d] expressly
+indicated otherwise.” Franklin, 503 U. S., at 66. The
+Court described the presumption as “[t]he general rule”
+that “the federal courts have the power to award any
+appropriate relief in a cognizable cause of action brought
+pursuant to a federal statute.” Id., at 70–71 (emphasis
+added); see Barnes, supra, at 185 (quoting Franklin, su­
+pra, at 73). Finding no express congressional intent to
+limit the remedies available under the implied right of
+action, the Court held that compensatory damages were
+available. Franklin, supra, at 73.
+The presumption in Franklin and Barnes is irrelevant to
+construing the scope of an express waiver of sovereign
+immunity. See Lane, supra, at 196 (“[R]eliance on Frank­
+lin . . . is misplaced” in determining whether damages are
+available against the Federal Government). The question
+here is not whether Congress has given clear direction
+that it intends to exclude a damages remedy, see Franklin,
+supra, at 70–71, but whether Congress has given clear
+
+
+10
+
+SOSSAMON v. TEXAS
+Opinion of the Court
+
+direction that it intends to include a damages remedy.
+The text must “establish unambiguously that the waiver
+extends to monetary claims.” Nordic Village, 503 U. S., at
+34. In Franklin and Barnes, congressional silence had an
+entirely different implication than it does here. Whatever
+“appropriate relief ” might have meant in those cases does
+not translate to this context.6
+B
+Sossamon contends that, because Congress enacted §3 of
+RLUIPA pursuant to the Spending Clause, the States
+were necessarily on notice that they would be liable for
+damages. He argues that Spending Clause legislation
+operates as a contract and damages are always available
+relief for a breach of contract, whether the contract explic
+itly includes a damages remedy or not. Relying on Barnes
+and Franklin, he asserts that all recipients of federal
+funding are “ ‘generally on notice that [they are] subject
+. . . to those remedies traditionally available in suits for
+breach of contract,’ ” including compensatory damages.
+Brief for Petitioner 27 (quoting Barnes, 536 U. S., at 187).
+We have acknowledged the contract-law analogy, but we
+have been clear “not [to] imply . . . that suits under Spend
+ing Clause legislation are suits in contract, or that
+——————
+6 Nor can it be said that this Court’s use of the phrase “appropriate
+relief ” in Franklin and Barnes somehow put the States on notice that
+the same phrase in RLUIPA subjected them to suits for monetary
+relief. Those cases did not involve sovereign defendants, so the Court
+had no occasion to consider sovereign immunity. Liability against
+nonsovereigns could not put the States on notice that they would be
+liable in the same manner, absent an unequivocal textual waiver.
+Moreover, the same phrase in RFRA had been interpreted not to
+include damages relief against the Federal Government or the States
+and so could have signaled to the States that damages are not “appro
+priate relief ” under RLUIPA. See, e.g., Tinsley v. Pittari, 952 F. Supp.
+384, 389 (ND Tex. 1996); Commack Self-Service Kosher Meats Inc. v.
+New York, 954 F. Supp. 65, 69 (EDNY 1997).
+
+
+Cite as: 563 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+contract-law principles apply to all issues that they raise.”
+Barnes, supra, at 189, n. 2. We have not relied on the
+Spending Clause contract analogy to expand liability
+beyond what would exist under non-spending statutes,
+much less to extend monetary liability against the States,
+as Sossamon would have us do. In fact, in Barnes and
+Franklin, the Court discussed the Spending Clause con
+text only as a potential limitation on liability. See Barnes,
+supra, at 187–188; Franklin, supra, at 74–75.
+In any event, applying ordinary contract principles here
+would make little sense because contracts with a sovereign
+are unique. They do not traditionally confer a right of
+action for damages to enforce compliance: “ ‘The contracts
+between a Nation and an individual are only binding on
+the conscience of the sovereign and have no pretensions to
+compulsive force. They confer no right of action independ
+ent of the sovereign will.’ ” Lynch v. United States, 292
+U. S. 571, 580–581 (1934) (quoting The Federalist, No. 81,
+at 511 (A. Hamilton)).7
+More fundamentally, Sossamon’s implied-contract
+remedies proposal cannot be squared with our longstand
+ing rule that a waiver of sovereign immunity must be
+expressly and unequivocally stated in the text of the rele
+vant statute. It would be bizarre to create an “unequivocal
+statement” rule and then find that every Spending Clause
+enactment, no matter what its text, satisfies that rule
+because it includes unexpressed, implied remedies against
+the States. The requirement of a clear statement in the
+text of the statute ensures that Congress has specifically
+considered state sovereign immunity and has intentionally
+legislated on the matter. Cf. Spector v. Norwegian Cruise
+Line Ltd., 545 U. S. 119, 139 (2005) (plurality opinion)
+——————
+7 Of course, the Federal Government has, by statute, waived its sov
+ereign immunity to damages for breach of contract in certain contexts.
+See, e.g., 28 U. S. C. §1491(a)(1).
+
+
+12
+
+SOSSAMON v. TEXAS
+Opinion of the Court
+
+(“[C]lear statement rules ensure Congress does not, by
+broad or general language, legislate on a sensitive topic
+inadvertently or without due deliberation”). Without such
+a clear statement from Congress and notice to the States,
+federal courts may not step in and abrogate state sover
+eign immunity.8
+IV
+Sossamon also argues that §1003 of the Rehabilitation
+Act Amendments of 1986, 42 U. S. C. §2000d–7, independ
+ently put the State on notice that it could be sued for
+damages under RLUIPA. That provision expressly waives
+state sovereign immunity for violations of “section 504 of
+the Rehabilitation Act of 1973, title IX of the Education
+Amendments of 1972, the Age Discrimination Act of 1975,
+title VI of the Civil Rights Act of 1964, or the provisions of
+any other Federal statute prohibiting discrimination by
+recipients of Federal financial assistance.” §2000d–7(a)(1)
+(emphasis added). Section 1003 makes “remedies (includ
+ing remedies both at law and in equity) . . . available for
+such a violation to the same extent as such remedies are
+available for such a violation in the suit against any public
+or private entity other than a State.” §2000d–7(a)(2).
+Sossamon contends that §3 of RLUIPA falls within the
+residual clause of §1003 and therefore §1003 waives Texas’
+sovereign immunity to RLUIPA suits for damages.
+——————
+8 The
+
+dissent finds our decision “difficult to understand,” post, at 6
+(opinion of SOTOMAYOR, J.), but it follows naturally from this Court’s
+precedents regarding waiver of sovereign immunity, which the dissent
+gives astonishingly short shrift. The dissent instead concerns itself
+primarily with “general remedies principles.” Post, at 1. The essence of
+sovereign immunity, however, is that remedies against the government
+differ from “general remedies principles” applicable to private litigants.
+See, e.g., Lane v. Peña, 518 U. S. 187, 196 (1996) (calling it a “crucial
+point that, when it comes to an award of money damages, sovereign
+immunity places the . . . Government on an entirely different footing
+than private parties”).
+
+
+Cite as: 563 U. S. ____ (2011)
+
+13
+
+Opinion of the Court
+
+Even assuming that a residual clause like the one in
+§1003 could constitute an unequivocal textual waiver, §3
+is not unequivocally a “statute prohibiting discrimination”
+within the meaning of §1003.9 The text of §3 does not
+prohibit “discrimination”; rather, it prohibits “substantial
+burden[s]” on religious exercise. This distinction is espe
+cially conspicuous in light of §2 of RLUIPA, in which
+Congress expressly prohibited “land use regulation[s] that
+discriminat[e] . . . on the basis of religion.” §2000cc(b)(2).
+A waiver of sovereign immunity must be “strictly con
+strued, in terms of its scope, in favor of the sovereign.”
+Lane, 518 U. S., at 192. We cannot say that the residual
+clause clearly extends to §3; a State might reasonably
+conclude that the clause covers only provisions using the
+term “discrimination.”
+The statutory provisions specifically listed in §1003
+confirm that §3 does not unequivocally come within the
+scope of the residual clause. “[G]eneral words,” such as
+the residual clause here, “are construed to embrace only
+objects similar in nature to those objects enumerated by
+the preceding specific words.” Washington State Dept. of
+Social and Health Servs. v. Guardianship Estate of Keffe­
+ler, 537 U. S. 371, 384 (2003) (internal quotation marks
+omitted); see also Jarecki v. G. D. Searle & Co., 367 U. S.
+303, 307 (1961) (noting that this maxim “is often wisely
+applied where a word is capable of many meanings in
+order to avoid the giving of unintended breadth to the Acts
+of Congress”). Unlike §3, each of the statutes specifically
+enumerated in §1003 explicitly prohibits “discrimination.”
+See 29 U. S. C. §794(a); 20 U. S. C. §1681(a); 42 U. S. C.
+§§6101, 6102; 42 U. S. C. §2000d.10
+——————
+9 Every Court of Appeals to consider the question has so held. See
+Holley, 599 F. 3d, at 1113–1114; Van Wyhe, 581 F. 3d, at 654–655;
+Madison, 474 F. 3d, at 132–133.
+10 Sossamon argues that §3 resembles §504 of the Rehabilitation Act,
+one of the statutes listed in §1003, because both require special accom
+
+
+14
+
+SOSSAMON v. TEXAS 
+
+Opinion of the Court 
+
+
+*
+*
+* 
+
+We conclude that States, in accepting federal funding,
+do not consent to waive their sovereign immunity to pri
+vate suits for money damages under RLUIPA because no
+statute expressly and unequivocally includes such a
+waiver. The judgment of the United States Court of Ap
+peals for the Fifth Circuit is affirmed.
+It is so ordered.
+JUSTICE KAGAN took no part in the consideration or
+decision of this case.
+
+——————
+modations for particular people or activities. By Sossamon’s reasoning,
+every Spending Clause statute that arguably provides a benefit to a
+class of people or activities would become a federal statute “prohibiting
+discrimination,” thereby waiving sovereign immunity. Such an inter
+pretation cannot be squared with the foundational rule that waiver of
+sovereign immunity must be unequivocally expressed and strictly
+construed.
+
+

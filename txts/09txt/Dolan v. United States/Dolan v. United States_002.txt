@@ -1,0 +1,50 @@
+2
+
+DOLAN v. UNITED STATES
+Syllabus
+tory language, to the relevant context, and to what they reveal about
+the deadline’s purposes. A “jurisdictional” deadline’s expiration pre
+vents a court from permitting or taking the action to which the stat
+ute attached the deadline. The prohibition is absolute. It cannot be
+waived or extended for equitable reasons. See John R. Sand &
+Gravel Co. v. United States, 552 U. S. 130, 133–134. Other deadlines
+are “claims-processing rules,” which do not limit a court’s jurisdiction,
+but regulate the timing of motions or claims brought before the court.
+Unless a party points out that another litigant has missed such a
+deadline, the party forfeits the deadline’s protection. See, e.g., Kon
+trick v. Ryan, 540 U. S. 443, 454–456. In other instances, a deadline
+seeks speed by creating a time-related directive that is legally en
+forceable but does not deprive the judge or other public official of the
+power to take the action even if the deadline is missed. See, e.g.,
+United States v. Montalvo-Murillo, 495 U. S. 711, 722. In light of its
+language, context, and purposes, the statute at issue sets forth this
+third kind of limitation. The fact that a sentencing court misses the
+90-day deadline, even through its own or the Government’s fault,
+does not deprive the court of the power to order restitution. Pp. 3–5.
+(b) Several considerations lead to this conclusion. First, where, as
+here, a statute “does not specify a consequence for noncompliance
+with” its “timing provisions,” “federal courts will not” ordinarily “im
+pose their own coercive sanction.” United States v. James Daniel
+Good Real Property, 510 U. S. 43, 63. A statute’s use of “shall” alone,
+see §3664(d)(5), does not necessarily bar judges from taking the ac
+tion to which the missed deadline refers. Second, the statute places
+primary weight on, and emphasizes the importance of, imposing res
+titution upon those convicted of certain federal crimes. See §3663A.
+Third, the statute’s procedural provisions reinforce this substantive
+purpose. They reveal that the statute seeks speed primarily to help
+crime victims secure prompt restitution, not to provide defendants
+with certainty as to the amount of their liability. Fourth, to read the
+statute as depriving the sentencing court of the power to order resti
+tution would harm the victims, who likely bear no responsibility for
+the deadline’s being missed and whom the statute seeks to benefit.
+That kind of harm to third parties provides a strong indication that
+Congress did not intend a missed deadline to work a forfeiture. See
+Brock v. Pierce County, 476 U. S. 253, 262. Fifth, the Court has in
+terpreted similar statutes, such as the Bail Reform Act of 1984, simi
+larly. See Montalvo-Murillo, supra, at 721. Sixth, the defendant nor
+mally can mitigate potential harm by telling the court that he fears
+the deadline will be, or just has been, missed, and the court will
+likely set a timely hearing or take other statutorily required action.
+Pp. 5–10.
+
+

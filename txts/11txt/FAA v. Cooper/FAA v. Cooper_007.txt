@@ -1,0 +1,43 @@
+4
+
+FAA v. COOPER
+Opinion of the Court
+
+held that respondent could not recover damages because
+he alleged only mental and emotional harm, not economic
+loss. Finding that the term “actual damages” is “facially
+ambiguous,” id., at 791, and relying on the sovereign
+immunity canon, which provides that waivers of sovereign
+immunity must be strictly construed in favor of the Gov­
+ernment, the court concluded that the Act does not author­
+ize the recovery of damages from the Government for
+nonpecuniary mental or emotional harm.
+The United States Court of Appeals for the Ninth Cir­
+cuit reversed and remanded. 622 F. 3d 1016, 1024 (2010).
+The court acknowledged that the term “actual damages”
+is a “ ‘chameleon’ ” in that “its meaning changes with the
+specific statute in which it is found.” Id., at 1029. But the
+court nevertheless held that, as used in the Privacy Act,
+the term includes damages for mental and emotional
+distress. Looking to what it described as “[i]ntrinsic” and
+“[e]xtrinsic” sources, id., at 1028, 1031, the court concluded
+that the meaning of “actual damages” in the Privacy
+Act is not ambiguous and that “a construction that limits
+recovery to pecuniary loss” is not “plausible,” id., at 1034.
+The Government petitioned for rehearing or rehearing
+en banc, but a divided court denied the petition. Id., at
+1019. The Government then petitioned for certiorari, and
+we granted review. 564 U. S. ___ (2011).
+II
+Because respondent seeks to recover monetary compen­
+sation from the Government for mental and emotional
+harm, we must decide whether the civil remedies provi­
+——————
+nondisclosure requirement applies when the head of an agency makes a
+written request for law enforcement purposes to the agency that
+maintains the record. See §552a(b)(7). The agencies in this case could
+easily have shared respondent’s medical records pursuant to the
+procedures prescribed by the Privacy Act, but the District Court con­
+cluded that they failed to do so.
+
+

@@ -1,0 +1,47 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Syllabus
+that define void judgments qualifying for Rule 60(b)(4) relief. Section
+523(a)(8) does not limit a bankruptcy court’s jurisdiction over student
+loan debts or impose requirements that, if violated, would result in a
+denial of due process. Instead, it requires a court to make a certain
+findings before confirming a student loan debt’s discharge. ‘That this
+requirement is “ ‘self-executing,’ ” Tennessee Student Assistance Cor
+poration v. Hood, 541 U. S. 440, 450, means only that the bankruptcy
+court must make an undue hardship finding even if the creditor does
+not request one; it does not mean that a bankruptcy court’s failure to
+make the finding renders its subsequent confirmation order void for
+Rule 60(b)(4) purposes. Although the Bankruptcy Court’s failure to
+find undue hardship was a legal error, the confirmation order is en
+forceable and binding on United because it had actual notice of the
+error and failed to object or timely appeal. Pp. 10–14.
+2. The Ninth Circuit erred in holding that bankruptcy courts must
+confirm a plan proposing the discharge of a student loan debt without
+an undue hardship determination in an adversary proceeding unless
+the creditor timely raises a specific objection. A Chapter 13 plan pro
+posing such a discharge without the required determination violates
+§§1328(a)(2) and 523(a)(8). Failure to comply with this self-executing
+requirement should prevent confirmation even if the creditor fails to
+object, or to appear in the proceeding at all, since a bankruptcy court
+may confirm only a plan that, inter alia, complies with the “applica
+ble provisions” of the Code. §1325(a). Neither the Code nor the Rules
+prevent parties from stipulating to the underlying facts of undue
+hardship or prevent the creditor from waiving service of a summons
+and complaint. Pp. 14–16.
+3. Expanding the availability of Rule 60(b)(4) relief is not an ap
+propriate prophylaxis for discouraging unscrupulous debtors from fil
+ing Chapter 13 plans proposing to dispense with the undue hardship
+requirement in hopes that the bankruptcy court will overlook the
+proposal and the creditor will not object. Such bad-faith efforts
+should be deterred by the specter of penalties that “[d]ebtors and
+their attorneys face . . . under various provisions for engaging in im
+proper conduct in bankruptcy proceedings,” Taylor v. Freeland &
+Kronz, 503 U. S. 638, 644. And Congress may enact additional provi
+sions to address any difficulties should existing sanctions prove in
+adequate. Pp. 16–17.
+553 F. 3d 1193, affirmed.
+THOMAS, J., delivered the opinion for a unanimous Court.
+
+

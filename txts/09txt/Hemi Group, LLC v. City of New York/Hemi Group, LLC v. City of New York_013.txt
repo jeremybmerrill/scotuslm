@@ -1,0 +1,43 @@
+10
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+Opinion of the Court
+
+The concepts of direct relationship and foreseeability are
+of course two of the “many shapes [proximate cause] took
+at common law,” Holmes, supra, at 268. Our precedents
+make clear that in the RICO context, the focus is on the
+directness of the relationship between the conduct and the
+harm. Indeed, Anza and Holmes never even mention the
+concept of foreseeability.
+B
+The City offers a number of responses. It first chal­
+lenges our characterization of the violation at issue. In
+the City’s view, the violation is not merely Hemi’s failure
+to file Jenkins Act information with the State, but a more
+general “systematic scheme to defraud the City of tax
+revenue.” Brief for Respondent 42. Having broadly de­
+fined the violation, the City contends that it has been
+directly harmed by reason of that systematic scheme.
+Ibid.
+But the City cannot escape the proximate cause re­
+quirement merely by alleging that the fraudulent scheme
+embraced all those indirectly harmed by the alleged con­
+duct. Otherwise our RICO proximate cause precedent
+would become a mere pleading rule. In Anza, for example,
+Ideal alleged that National’s scheme “was to give National
+a competitive advantage over Ideal.” 547 U. S., at 454–
+455. But that allegation did not prevent the Court from
+concluding that National’s fraud directly harmed only the
+State, not Ideal. As the Court explained, Ideal could not
+“circumvent the proximate-cause requirement simply by
+claiming that the defendant’s aim was to increase market
+share at a competitor’s expense.” Id., at 460.1
+——————
+1 Even if we were willing to look to Hemi’s intent, as the dissent sug­
+gests we should, the City would fare no better. Hemi’s aim was not to
+defraud the City (or the State, for that matter) of tax revenue, but to
+sell more cigarettes. Hemi itself neither owed taxes nor was obliged to
+collect and remit them. This all suggests that Hemi’s alleged fraud was
+
+

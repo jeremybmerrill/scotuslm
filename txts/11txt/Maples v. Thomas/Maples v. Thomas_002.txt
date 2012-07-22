@@ -1,0 +1,44 @@
+2
+
+MAPLES v. THOMAS
+Syllabus
+record in fact acting on Maples’ behalf, the 42-day period Maples had
+to file a notice of appeal ran out.
+About a month later, an Alabama Assistant Attorney General sent
+a letter directly to Maples. The letter informed Maples of the missed
+deadline and notified him that he had four weeks remaining to file a
+federal habeas petition. Maples immediately contacted his mother,
+who called Sullivan & Cromwell. Three Sullivan & Cromwell attorneys, through Butler, moved the trial court to reissue its order,
+thereby restarting the 42-day appeal period. The court denied the
+motion. The Alabama Court of Criminal Appeals then denied a writ
+of mandamus that would have granted Maples leave to file an out-oftime appeal, and the State Supreme Court affirmed.
+Thereafter, Maples sought federal habeas relief. Both the District
+Court and the Eleventh Circuit denied his request, pointing to the
+procedural default in state court, i.e., Maples’ failure timely to appeal
+the state trial court’s order denying his Rule 32 petition for postconviction relief.
+Held: Maples has shown the requisite “cause” to excuse his procedural default. Pp. 11–22.
+(a) As a rule, a federal court may not entertain a state prisoner’s
+habeas claims “when (1) ‘a state court [has] declined to address
+[those] claims because the prisoner had failed to meet a state procedural requirement,’ and (2) ‘the state judgment rests on independent
+and adequate state procedural grounds.’ ” Walker v. Martin, 562
+U. S. ___, ___. The bar to federal review may be lifted, however, if
+“the prisoner can demonstrate cause for the [procedural] default [in
+state court] and actual prejudice as a result of the alleged violation of
+federal law.” Coleman v. Thompson, 501 U. S. 722, 750.
+Cause for a procedural default exists where “something external to
+the petitioner, something that cannot fairly be attributed to him[,]
+. . . ‘impeded [his] efforts to comply with the State’s procedural rule.’ ”
+Id., at 753. A prisoner’s postconviction attorney’s negligence does not
+qualify as “cause,” ibid., because the attorney is the prisoner’s agent,
+and under “well-settled” agency law, the principal bears the risk of
+his agent’s negligent conduct, id., at 753–754. Thus, a petitioner is
+bound by his attorney’s failure to meet a filing deadline and cannot
+rely on that failure to establish cause. Ibid.
+A markedly different situation arises, however, when an attorney
+abandons his client without notice, and thereby occasions the default.
+In such cases, the principal-agent relationship is severed and the attorney’s acts or omissions “cannot fairly be attributed to [the client].”
+Id., at 753. Nor can the client be faulted for failing to act on his own
+behalf when he lacks reason to believe his attorneys of record, in fact,
+are not representing him.
+
+

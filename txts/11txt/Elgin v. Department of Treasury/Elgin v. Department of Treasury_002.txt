@@ -1,0 +1,41 @@
+2
+
+ELGIN v. DEPARTMENT OF TREASURY
+Syllabus
+merits. The First Circuit vacated and remanded with instructions to
+dismiss for lack of jurisdiction. The First Circuit held that petitioners were employees entitled to MSPB review despite the statutory
+bar to their employment. The court further concluded that challenges to a removal are not exempt from the CSRA review scheme simply
+because an employee challenges the constitutionality of the statute
+authorizing the removal.
+
+Held: The CSRA precludes district court jurisdiction over petitioners’
+claims because it is fairly discernible that Congress intended the
+statute’s review scheme to provide the exclusive avenue to judicial
+review for covered employees who challenge covered adverse employment actions, even when those employees argue that a federal
+statute is unconstitutional. Pp. 5–20.
+(a) Relying on Webster v. Doe, 486 U. S. 592, 603, petitioners claim
+that 28 U. S. C. §1331’s general grant of federal-question jurisdiction
+to district courts remains undisturbed unless Congress explicitly directs otherwise. But Webster’s “heightened showing” applies only
+when a statute purports to “deny any judicial forum for a colorable
+constitutional claim,” 486 U. S., at 603, not when Congress channels
+judicial review of a constitutional claim to a particular court, see
+Thunder Basin Coal Co. v. Reich, 510 U. S. 200. Here, where the
+claims can be “meaningfully addressed in the” Federal Circuit, id., at
+215, the proper inquiry is whether Congress’ intent to preclude district court jurisdiction was “ ‘fairly discernible in the statutory
+scheme,’ ” id., at 207. Pp. 5–6.
+(b) It is “fairly discernible” from the CSRA’s text, structure, and
+purpose that Congress precluded district court jurisdiction over petitioners’ claims. Pp. 6–12.
+(1) Just as the CSRA’s “elaborate” framework demonstrated
+Congress’ intent to entirely foreclose judicial review to employees to
+whom the CSRA denies statutory review in Fausto, 484 U. S., at 443,
+the CSRA indicates that extrastatutory review is not available to
+those employees to whom the CSRA grants administrative and judicial review. It “prescribes in great detail the protections and remedies applicable to” adverse personnel actions against federal employees, ibid., specifically enumerating the major adverse actions and
+employee classifications to which the CSRA’s procedural protections
+and review provisions apply, §§7511, 7512, setting out the procedures
+due an employee prior to final agency action, §7513, and exhaustively
+detailing the system of review before the MSPB and the Federal Circuit, §§7701, 7703. Petitioners and the Government do not dispute
+that petitioners are removed employees to whom CSRA review is
+provided, but petitioners claim that there is an exception to the
+CSRA review scheme for employees who bring constitutional chal-
+
+

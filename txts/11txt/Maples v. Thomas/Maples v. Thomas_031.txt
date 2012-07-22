@@ -1,0 +1,37 @@
+2
+
+MAPLES v. THOMAS
+SCALIA, J., dissenting
+
+particularly high . . . when a state prisoner, through a
+procedural default, prevents adjudication of his constitutional claims in state court.” Coleman v. Thompson, 501
+U. S. 722, 748 (1991). In that situation, the prisoner has
+“deprived the state courts of an opportunity to address
+those claims in the first instance,” id., at 732, thereby
+leaving the state courts without “a chance to mend their
+own fences and avoid federal intrusion,” Engle, 456 U. S.,
+at 129. For that reason, and because permitting federalcourt review of defaulted claims would “undercu[t] the
+State’s ability to enforce its procedural rules,” ibid., we
+have held that when a state court has relied on an adequate and independent state procedural ground in denying
+a prisoner’s claims, the prisoner ordinarily may not obtain
+federal habeas relief. Coleman, 501 U. S., at 729–730.
+To be sure, the prohibition on federal-court review of
+defaulted claims is not absolute. A habeas petitioner’s default in state court will not bar federal habeas review if
+“the petitioner demonstrates cause and actual prejudice,”
+id., at 748—“cause” constituting “something external to
+the petitioner, something that cannot fairly be attributed
+to him,” that impeded compliance with the State’s procedural rule, id., at 753. As a general matter, an attorney’s
+mistakes (or omissions) do not meet the standard “because
+the attorney is the petitioner’s agent when acting, or
+failing to act, in furtherance of the litigation, and the
+petitioner must ‘bear the risk of attorney error.’ ” Ibid.
+(quoting Murray v. Carrier, 477 U. S. 478, 488 (1986)).
+See also Link v. Wabash R. Co., 370 U. S. 626, 633–634,
+and n. 10 (1962).
+When an attorney’s error occurs at a stage of the proceedings at which the defendant has a constitutional right
+to effective assistance of counsel, that error may constitute
+cause to excuse a resulting procedural default. A State’s
+failure in its duty to provide an effective attorney, as
+measured by the standard set forth in Strickland v. Wash-
+
+

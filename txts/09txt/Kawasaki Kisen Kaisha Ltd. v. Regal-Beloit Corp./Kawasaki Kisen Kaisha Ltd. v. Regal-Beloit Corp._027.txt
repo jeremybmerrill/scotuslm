@@ -1,0 +1,41 @@
+2
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+SOTOMAYOR, J., dissenting
+
+out of Carmack under 49 U. S. C. §10709, or whether
+Union Pacific first had to offer “K” Line, its contractual
+counterparty, Carmack-compliant terms under §10502.
+As to that question, I would hold that opt-out under
+§10709 was not available and would remand to the Dis­
+trict Court to consider in the first instance whether Union
+Pacific satisfied its obligations under §10502. For these
+reasons, I respectfully dissent.
+I
+The Court’s interpretation of Carmack’s scope is wrong
+as a matter of text, history, and policy.
+A
+1
+I begin with the statute’s text. Two provisions guide my
+conclusion that Carmack provides the default legal regime
+for the inland leg of a multimodal shipment traveling on
+an international through bill of lading: §11706(a), which
+outlines the basic requirements for liability under Car­
+mack, and §10501(a), which defines the jurisdiction of the
+Surface Transportation Board (STB or Board), the succes­
+sor to the Interstate Commerce Commission (ICC), see
+ante, at 7. Section 11706(a) states as follows:
+“A rail carrier providing transportation or service
+subject to the jurisdiction of the Board under this part
+shall issue a receipt or bill of lading for property it re­
+ceives for transportation under this part. That rail
+carrier and any other carrier that delivers the prop­
+erty and is providing transportation or service subject
+to the jurisdiction of the Board under this part are li­
+able to the person entitled to recover under the receipt
+or bill of lading. The liability imposed under this sub­
+section is for the actual loss or injury to the property
+caused by—
+“(1) the receiving rail carrier;
+
+

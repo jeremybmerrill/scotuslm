@@ -1,0 +1,34 @@
+14
+
+UNITED STATES v. JONES
+ALITO, J., concurring in judgment
+
+lance is long enough to constitute a Fourth Amendment
+search, the police may always seek a warrant.11 We also
+need not consider whether prolonged GPS monitoring in
+the context of investigations involving extraordinary
+offenses would similarly intrude on a constitutionally
+protected sphere of privacy. In such cases, long-term
+tracking might have been mounted using previously available techniques.
+*
+*
+*
+For these reasons, I conclude that the lengthy monitoring that occurred in this case constituted a search under
+the Fourth Amendment. I therefore agree with the majority that the decision of the Court of Appeals must be
+affirmed.
+
+——————
+11 In this case, the agents obtained a warrant, but they did not comply
+with two of the warrant’s restrictions: They did not install the GPS
+device within the 10-day period required by the terms of the warrant
+and by Fed. Rule Crim. Proc. 41(e)(2)(B)(i), and they did not install the
+GPS device within the District of Columbia, as required by the terms
+of the warrant and by 18 U. S. C. §3117(a) and Rule 41(b)(4). In the
+courts below the Government did not argue, and has not argued here,
+that the Fourth Amendment does not impose these precise restrictions
+and that the violation of these restrictions does not demand the suppression of evidence obtained using the tracking device. See, e.g.,
+United States v. Gerber, 994 F. 2d 1556, 1559–1560 (CA11 1993);
+United States v. Burke, 517 F. 2d 377, 386–387 (CA2 1975). Because it
+was not raised, that question is not before us.
+
+

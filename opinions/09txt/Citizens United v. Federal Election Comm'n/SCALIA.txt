@@ -1,0 +1,141 @@
+No. 08–205 [January 21, 2010] JUSTICE SCALIA, with whom JUSTICE ALITO joins, and with whom JUSTICE THOMAS joins in part, concurring. I join the opinion of the Court.1 I write separately to address JUSTICE STEVENS’ discus sion of “Original Understandings,” post, at 34 (opinion concurring in part and dissenting in part) (hereinafter referred to as the dissent). This section of the dissent purports to show that today’s decision is not supported by the original understanding of the First Amendment. The dissent attempts this demonstration, however, in splendid isolation from the text of the First Amendment. It never shows why “the freedom of speech” that was the right of Englishmen did not include the freedom to speak in asso ciation with other individuals, including association in the corporate form. To be sure, in 1791 (as now) corporations could pursue only the objectives set forth in their charters; but the dissent provides no evidence that their speech in the pursuit of those objectives could be censored. Instead of taking this straightforward approach to determining the Amendment’s meaning, the dissent em barks on a detailed exploration of the Framers’ views about the “role of corporations in society.” Post, at 35. The Framers didn’t like corporations, the dissent con
+cludes, and therefore it follows (as night the day) that corporations had no rights of free speech. Of course the Framers’ personal affection or disaffection for corporations is relevant only insofar as it can be thought to be reflected in the understood meaning of the text they enacted—not, as the dissent suggests, as a freestanding substitute for that text. But the dissent’s distortion of proper analysis is even worse than that. Though faced with a constitutional text that makes no distinction between types of speakers, the dissent feels no necessity to provide even an isolated statement from the founding era to the effect that corpora tions are not covered, but places the burden on petitioners to bring forward statements showing that they are (“there is not a scintilla of evidence to support the notion that anyone believed [the First Amendment] would preclude regulatory distinctions based on the corporate form,” post, at 34–35). Despite the corporation-hating quotations the dissent has dredged up, it is far from clear that by the end of the 18th century corporations were despised. If so, how came there to be so many of them? The dissent’s statement that there were few business corporations during the eight eenth century—“only a few hundred during all of the 18th century”—is misleading. Post, at 35, n. 53. There were approximately 335 charters issued to business corpora tions in the United States by the end of the 18th century.2 See 2 J. Davis, Essays in the Earlier History of American Corporations 24 (1917) (reprint 2006) (hereinafter Davis). This was a “considerable extension of corporate enterprise
+in the field of business,” Davis 8, and represented “un precedented growth,” id., at 309. Moreover, what seems like a small number by today’s standards surely does not indicate the relative importance of corporations when the Nation was considerably smaller. As I have previously noted, “[b]y the end of the eighteenth century the corpora tion was a familiar figure in American economic life.” (2003) (SCALIA, J., concurring in part, concurring in judg ment in part, and dissenting in part) (quoting C. Cooke, Corporation Trust and Company 92 (1951) (hereinafter Cooke)). Even if we thought it proper to apply the dissent’s ap proach of excluding from First Amendment coverage what the Founders disliked, and even if we agreed that the Founders disliked founding-era corporations; modern corporations might not qualify for exclusion. Most of the Founders’ resentment towards corporations was directed at the state-granted monopoly privileges that individually chartered corporations enjoyed.3 Modern corporations do not have such privileges, and would probably have been favored by most of our enterprising Founders—excluding, perhaps, Thomas Jefferson and others favoring perpetua tion of an agrarian society. Moreover, if the Founders’ specific intent with respect to corporations is what mat ters, why does the dissent ignore the Founders’ views about other legal entities that have more in common with modern business corporations than the founding-era cor
+porations? At the time of the founding, religious, educa tional, and literary corporations were incorporated under general incorporation statutes, much as business corpora tions are today.4 See Davis 16–17; R. Seavoy, Origins of the American Business Corporation, 1784–1855, p. 5 (1982); Cooke 94. There were also small unincorporated business associations, which some have argued were the “ ‘true progenitors’ ” of today’s business corporations. Friedman 200 (quoting S. Livermore, Early American Land Companies: Their Influence on Corporate Develop ment 216 (1939)); see also Davis 33. Were all of these silently excluded from the protections of the First Amendment? The lack of a textual exception for speech by corpora tions cannot be explained on the ground that such organi zations did not exist or did not speak. To the contrary, colleges, towns and cities, religious institutions, and guilds had long been organized as corporations at common law and under the King’s charter, see 1 W. Blackstone, Com mentaries on the Laws of England 455–473 (1765); 1 S. Kyd, A Treatise on the Law of Corporations 1–32, 63 (1793) (reprinted 2006), and as I have discussed, the prac tice of incorporation only expanded in the United States. Both corporations and voluntary associations actively petitioned the Government and expressed their views in newspapers and pamphlets. For example: An antislavery Quaker corporation petitioned the First Congress, distrib uted pamphlets, and communicated through the press in 1790. W. diGiacomantonio, “For the Gratification of a Volunteering Society”: Antislavery and Pressure Group
+Politics in the First Federal Congress, 15 J. Early Repub lic 169 (1995). The New York Sons of Liberty sent a circu lar to colonies farther south in 1766. P. Maier, From Resistance to Revolution 79–80 (1972). And the Society for the Relief and Instruction of Poor Germans circulated a biweekly paper from 1755 to 1757. Adams, The Colonial German-language Press and the American Revolution, in The Press & the American Revolution 151, 161–162 (B. Bailyn & J. Hench eds. 1980). The dissent offers no evi dence—none whatever—that the First Amendment’s unqualified text was originally understood to exclude such associational speech from its protection.5
+Historical evidence relating to the textually similar clause “the freedom of . . . the press” also provides no support for the proposition that the First Amendment excludes conduct of artificial legal entities from the scope of its protection. The freedom of “the press” was widely understood to protect the publishing activities of individ Comm’n, 514 U. S. 334, 360 (1995) (THOMAS, J., concur ring in judgment); see also McConnell, 540 U. S., at 252– 253 (opinion of SCALIA, J.). But these individuals often acted through newspapers, which (much like corporations) had their own names, outlived the individuals who had founded them, could be bought and sold, were sometimes owned by more than one person, and were operated for profit. See generally F. Mott, American Journalism: A History of Newspapers in the United States Through 250 Years 3–164 (1941); J. Smith, Freedom’s Fetters (1956). Their activities were not stripped of First Amendment protection simply because they were carried out under the banner of an artificial legal entity. And the notion which follows from the dissent’s view, that modern newspapers, since they are incorporated, have free-speech rights only at the sufferance of Congress, boggles the mind.6
+In passing, the dissent also claims that the Court’s conception of corruption is unhistorical. The Framers “would have been appalled,” it says, by the evidence of corruption in the congressional findings supporting the Bipartisan Campaign Reform Act of 2002. Post, at 61. For this proposition, the dissent cites a law review article arguing that “corruption” was originally understood to include “moral decay” and even actions taken by citizens in pursuit of private rather than public ends. Teachout, 373, 378 (2009). It is hard to see how this has anything to do with what sort of corruption can be combated by re strictions on political speech. Moreover, if speech can be prohibited because, in the view of the Government, it leads to “moral decay” or does not serve “public ends,” then there is no limit to the Government’s censorship power. The dissent says that when the Framers “constitutional ized the right to free speech in the First Amendment, it was the free speech of individual Americans that they had in mind.” Post, at 37. That is no doubt true. All the provisions of the Bill of Rights set forth the rights of indi vidual men and women—not, for example, of trees or polar bears. But the individual person’s right to speak includes the right to speak in association with other individual persons. Surely the dissent does not believe that speech
+by the Republican Party or the Democratic Party can be censored because it is not the speech of “an individual American.” It is the speech of many individual Americans, who have associated in a common cause, giving the leader ship of the party the right to speak on their behalf. The association of individuals in a business corporation is no different—or at least it cannot be denied the right to speak on the simplistic ground that it is not “an individual American.”7 But to return to, and summarize, my principal point, which is the conformity of today’s opinion with the original meaning of the First Amendment. The Amendment is written in terms of “speech,” not speakers. Its text offers no foothold for excluding any category of speaker, from
+single individuals to partnerships of individuals, to unin corporated associations of individuals, to incorporated associations of individuals—and the dissent offers no evidence about the original meaning of the text to support any such exclusion. We are therefore simply left with the question whether the speech at issue in this case is “speech” covered by the First Amendment. No one says otherwise. A documentary film critical of a potential Presidential candidate is core political speech, and its nature as such does not change simply because it was funded by a corporation. Nor does the character of that funding produce any reduction whatever in the “inherent worth of the speech” and “its capacity for informing the 765, 777 (1978). Indeed, to exclude or impede corporate speech is to muzzle the principal agents of the modern free economy. We should celebrate rather than condemn the addition of this speech to the public debate.
+——————
+1 JUSTICE
+
+THOMAS does not join Part IV of the Court’s opinion.
+
+
+——————
+2 The dissent protests that 1791 rather than 1800 should be the rele
+vant date, and that “[m]ore than half of the century’s total business
+charters were issued between 1796 and 1800.” Post, at 35, n. 53. I used
+1800 only because the dissent did. But in any case, it is surely fanciful
+to think that a consensus of hostility towards corporations was trans
+formed into general favor at some magical moment between 1791 and
+1796.
+
+
+——————
+3 “[P]eople
+
+in 1800 identified corporations with franchised monopo
+lies.” L. Friedman, A History of American Law 194 (2d ed. 1985)
+(hereinafter Friedman). “The chief cause for the changed popular
+attitude towards business corporations that marked the opening of the
+nineteenth century was the elimination of their inherent monopolistic
+character. This was accomplished primarily by an extension of the
+principle of free incorporation under general laws.” 1 W. Fletcher,
+Cyclopedia of the Law of Corporations §2, p. 8 (rev. ed. 2006).
+
+
+——————
+4 At times (though not always) the dissent seems to exclude such non
+“business corporations” from its denial of free speech rights. See post,
+at 37. Finding in a seemingly categorical text a distinction between the
+rights of business corporations and the rights of non-business corpora
+tions is even more imaginative than finding a distinction between the
+rights of all corporations and the rights of other associations.
+
+
+——————
+5 The
+
+best the dissent can come up with is that “[p]ostratification
+practice” supports its reading of the First Amendment. Post, at 40,
+n. 56. For this proposition, the dissent cites Justice White’s statement
+(in dissent) that “[t]he common law was generally interpreted as
+prohibiting corporate political participation,” First Nat. Bank of Boston
+v. Bellotti, 435 U. S. 765, 819 (1978). The sole authority Justice White
+cited for this proposition, id., at 819, n. 14, was a law-review note that
+made no such claim. To the contrary, it stated that the cases dealing
+with the propriety of corporate political expenditures were “few.” Note,
+Corporate Political Affairs Programs, 70 Yale L. J. 821, 852 (1961).
+More specifically, the note cites only two holdings to that effect, one by
+a Federal District Court, and one by the Supreme Court of Montana.
+Id., at 852, n. 197. Of course even if the common law was “generally
+interpreted” to prohibit corporate political expenditures as ultra vires,
+that would have nothing to do with whether political expenditures that
+were authorized by a corporation’s charter could constitutionally be
+suppressed.
+As additional “[p]ostratification practice,” the dissent notes that the
+Court “did not recognize any First Amendment protections for corpora
+tions until the middle part of the 20th century.” Post, at 40, n. 56. But
+it did that in Grosjean v. American Press Co., 297 U. S. 233 (1936), a
+case involving freedom of the press—which the dissent acknowledges
+did cover corporations from the outset. The relative recency of that
+first case is unsurprising. All of our First Amendment jurisprudence
+was slow to develop. We did not consider application of the First
+Amendment to speech restrictions other than prior restraints until
+1919, see Schenck v. United States, 249 U. S. 47 (1919); we did not
+invalidate a state law on First Amendment grounds until 1931, see
+
+
+——————
+Stromberg v. California, 283 U. S. 359 (1931), and a federal law until
+1965, see Lamont v. Postmaster General, 381 U. S. 301 (1965).
+6 The dissent seeks to avoid this conclusion (and to turn a liability
+into an asset) by interpreting the Freedom of the Press Clause to refer
+to the institutional press (thus demonstrating, according to the dissent,
+that the Founders “did draw distinctions—explicit distinctions—
+between types of ‘speakers,’ or speech outlets or forms ”). Post, at 40
+and n. 57. It is passing strange to interpret the phrase “the freedom of
+speech, or of the press” to mean, not everyone’s right to speak or pub
+lish, but rather everyone’s right to speak or the institutional press’s
+right to publish. No one thought that is what it meant. Patriot Noah
+Webster’s 1828 dictionary contains, under the word “press,” the follow
+ing entry:
+“Liberty of the press, in civil policy, is the free right of publishing
+
+
+——————
+books, pamphlets, or papers without previous restraint; or the unre
+strained right which every citizen enjoys of publishing his thoughts and
+opinions, subject only to punishment for publishing what is pernicious
+to morals or to the peace of the state.” 2 American Dictionary of the
+English Language (1828) (reprinted 1970).
+As the Court’s opinion describes, ante, at 36, our jurisprudence
+agrees with Noah Webster and contradicts the dissent.
+“The liberty of the press is not confined to newspapers and periodi
+cals. It necessarily embraces pamphlets and leaflets. . . . The press in
+its historical connotation comprehends every sort of publication which
+affords a vehicle of information and opinion.” Lovell v. City of Griffin,
+303 U. S. 444, 452 (1938).
+
+
+——————
+7 The
+
+dissent says that “ ‘speech’ ” refers to oral communications of
+human beings, and since corporations are not human beings they
+cannot speak. Post, at 37, n. 55. This is sophistry. The authorized
+spokesman of a corporation is a human being, who speaks on behalf of
+the human beings who have formed that association—just as the
+spokesman of an unincorporated association speaks on behalf of its
+members. The power to publish thoughts, no less than the power to
+speak thoughts, belongs only to human beings, but the dissent sees no
+problem with a corporation’s enjoying the freedom of the press.
+The same footnote asserts that “it has been ‘claimed that the notion
+of institutional speech . . . did not exist in post-revolutionary America.’ ”
+This is quoted from a law-review article by a Bigelow Fellow at the
+University of Chicago (Fagundes, State Actors as First Amendment
+Speakers, 100 Nw. U. L. Rev. 1637, 1654 (2006)), which offers as the
+sole support for its statement a treatise dealing with government
+speech, M. Yudof, When Government Speaks 42–50 (1983). The cited
+pages of that treatise provide no support whatever for the statement—
+unless, as seems overwhelmingly likely, the “institutional speech”
+referred to was speech by the subject of the law-review article, govern
+mental institutions.
+The other authority cited in the footnote, a law-review article by a
+professor at Washington and Lee Law School, Bezanson, Institutional
+Speech, 80 Iowa L. Rev. 735, 775 (1995), in fact contradicts the dissent,
+in that it would accord free-speech protection to associations.
+
+

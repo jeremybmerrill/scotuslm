@@ -1,0 +1,51 @@
+2
+
+BULLCOMING v. NEW MEXICO
+Syllabus
+serting that introduction of Caylor’s report without his testimony
+would violate the Confrontation Clause, but the trial court overruled
+the objection, admitted the SLD report as a business record, and
+permitted Razatos to testify. Bullcoming was convicted, and, while
+his appeal was pending before the New Mexico Supreme Court, this
+Court decided Melendez-Diaz. The state high court acknowledged
+that the SLD report qualified as testimonial evidence under
+Melendez-Diaz, but held that the report’s admission did not violate
+the Confrontation Clause because: (1) certifying analyst Caylor was a
+mere scrivener who simply transcribed machine-generated test re
+sults, and (2) SLD analyst Razatos, although he did not participate in
+testing Bullcoming’s blood, qualified as an expert witness with re
+spect to the testing machine and SLD procedures. The court affirmed
+Bullcoming’s conviction.
+
+Held: The judgment is reversed, and the case is remanded.
+147 N. M. 487, 226 P. 3d 1, reversed and remanded.
+JUSTICE GINSBURG delivered the opinion of the Court with respect
+to all but Part IV and footnote 6. The Confrontation Clause, the opin
+ion concludes, does not permit the prosecution to introduce a forensic
+laboratory report containing a testimonial certification, made in or
+der to prove a fact at a criminal trial, through the in-court testimony
+of an analyst who did not sign the certification or personally perform
+or observe the performance of the test reported in the certification.
+The accused’s right is to be confronted with the analyst who made the
+certification, unless that analyst is unavailable at trial, and the ac
+cused had an opportunity, pretrial, to cross-examine that particular
+scientist. Pp. 8–16.
+(a) If an out-of-court statement is testimonial, it may not be intro
+duced against the accused at trial unless the witness who made the
+statement is unavailable and the accused has had a prior opportunity
+to confront that witness. Pp. 8–14.
+(i) Caylor’s certification reported more than a machine-generated
+number: It represented that he received Bullcoming’s blood sample
+intact with the seal unbroken; that he checked to make sure that the
+forensic report number and the sample number corresponded; that he
+performed a particular test on Bullcoming’s sample, adhering to a
+precise protocol; and that he left the report’s remarks section blank,
+indicating that no circumstance or condition affected the sample’s in
+tegrity or the analysis’ validity. These representations, relating to
+past events and human actions not revealed in raw, machine
+produced data, are meet for cross-examination. The potential ramifi
+cations of the state court’s reasoning, therefore, raise red flags. Most
+witnesses testify to their observations of factual conditions or events.
+Where, for example, a police officer’s report recorded an objective fact
+
+

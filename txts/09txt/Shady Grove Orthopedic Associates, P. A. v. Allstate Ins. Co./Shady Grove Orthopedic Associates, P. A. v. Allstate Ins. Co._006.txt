@@ -1,0 +1,45 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of SCALIA, J.
+the Court
+
+interest on overdue benefits, Shady Grove sought relief on
+behalf of itself and a class of all others to whom Allstate
+owes interest. The District Court dismissed the suit for
+lack of jurisdiction. 466 F. Supp. 2d 467 (2006). It rea­
+soned that N. Y. Civ. Prac. Law Ann. §901(b), which pre­
+cludes a suit to recover a “penalty” from proceeding as a
+class action, applies in diversity suits in federal court,
+despite Federal Rule of Civil Procedure 23. Concluding
+that statutory interest is a “penalty” under New York law,
+it held that §901(b) prohibited the proposed class action.
+And, since Shady Grove conceded that its individual claim
+(worth roughly $500) fell far short of the amount-in­
+controversy requirement for individual suits under 28
+U. S. C. §1332(a), the suit did not belong in federal court.3
+The Second Circuit affirmed. 549 F. 3d 137 (2008). The
+court did not dispute that a federal rule adopted in com­
+pliance with the Rules Enabling Act, 28 U. S. C. §2072,
+would control if it conflicted with §901(b). But there was
+no conflict because (as we will describe in more detail
+below) the Second Circuit concluded that Rule 23 and
+§901(b) address different issues. Finding no federal rule
+on point, the Court of Appeals held that §901(b) is “sub­
+stantive” within the meaning of Erie R. Co. v. Tompkins,
+304 U. S. 64 (1938), and thus must be applied by federal
+courts sitting in diversity.
+We granted certiorari, 556 U. S. ___ (2009).
+II
+The framework for our decision is familiar. We must
+first determine whether Rule 23 answers the question in
+dispute. Burlington Northern R. Co. v. Woods, 480 U. S. 1,
+——————
+3 Shady Grove had asserted jurisdiction under 28 U. S. C. §1332(d)(2),
+which relaxes, for class actions seeking at least $5 million, the rule
+against aggregating separate claims for calculation of the amount in
+controversy. See Exxon Mobil Corp. v. Allapattah Services, Inc., 545
+U. S. 546, 571 (2005).
+
+

@@ -1,0 +1,38 @@
+2
+
+WOOD v. MILYARD
+Syllabus
+than those of the parties; in particular, the doctrine fosters respectful, harmonious relations between the state and federal judiciaries.
+Id., at 133–135. With that comity interest in mind, the Court held
+that federal appellate courts have discretion to consider a nonexhaustion argument inadvertently overlooked by the State in the district
+court. Id. at 132, 134.
+In Day, the Court affirmed a federal district court’s authority to
+consider a forfeited habeas defense when extraordinary circumstances
+so warrant. 547 U. S., at 201. The State in Day, having miscalculated a time span, erroneously informed the District Court that Day’s
+habeas petition was timely. Apprised of the error by a Magistrate
+Judge, the District Court, sua sponte, dismissed the petition as untimely. This Court affirmed, holding that “district courts are permitted, but not obliged, to consider, sua sponte, the timeliness of a state
+prisoner’s habeas petition.” Id., at 209. Such leeway was appropriate, the Court again reasoned, because AEDPA’s statute of limitations, like the exhaustion doctrine, “implicat[es] values beyond the
+concerns of the parties.” Id., at 205.
+The Court clarified, however, that a federal court does not have
+carte blanche to depart from the principle of party presentation. See
+Greenlaw v. United States, 554 U. S. 237, 243–244. It would be “an
+abuse of discretion” for a court “to override a State’s deliberate waiver of a limitations defense.” Day, 547 U. S., at 202. In Day itself, the
+State’s timeliness concession resulted from “inadvertent error,” id., at
+211, not a deliberate decision to proceed to the merits. Pp. 6–9.
+(b) Consistent with Granberry and Day, the Court declines to
+adopt an absolute rule barring a court of appeals from raising, on its
+own motion, a forfeited timeliness defense. The institutional interests served by AEDPA’s statute of limitations are also present when
+a habeas case moves to the court of appeals, a point Granberry recognized with respect to a nonexhaustion defense. P. 9.
+2. The Tenth Circuit abused its discretion when it dismissed
+Wood’s petition as untimely. In the District Court, the State was
+well aware of the statute of limitations defense available to it, and of
+the arguments that could be made in support of that defense. Yet,
+the State twice informed the District Court that it would not “challenge” the timeliness of Wood’s petition. In so doing, the State deliberately waived the statute of limitations defense. In light of that
+waiver, the Tenth Circuit should have followed the District Court’s
+lead and decided the merits of Wood’s petition. Pp. 9–11.
+
+403 Fed. Appx. 335, reversed and remanded.
+GINSBURG, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, BREYER, ALITO, SOTOMAYOR, and KAGAN, JJ., joined.
+
+

@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+PACIFIC OPERATORS OFFSHORE, LLP, ET AL. v. 
+
+VALLADOLID ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–507.
+
+Argued October 11, 2011—Decided January 11, 2012
+
+Petitioner Pacific Operators Offshore, LLP (Pacific), operates two drilling platforms on the Outer Continental Shelf (OCS) off the California
+coast and an onshore oil and gas processing facility. Employee Juan
+Valladolid spent 98 percent of his time working on an offshore platform, but he was killed in an accident while working at the onshore
+facility. His widow, a respondent here, sought benefits under the
+Longshore and Harbor Workers’ Compensation Act (LHWCA), 33
+U. S. C. §901 et seq., pursuant to the Outer Continental Shelf Lands
+Act (OCSLA), which extends LHWCA coverage to injuries “occurring
+as the result of operations conducted on the [OCS]” for the purpose of
+extracting natural resources from the shelf, 43 U. S. C. §1333(b). The
+Administrative Law Judge dismissed her claim, reasoning that
+§1333(b) did not cover Valladolid’s fatal injury because his accident
+occurred on land, not on the OCS. The Labor Department’s Benefits
+Review Board affirmed, but the Ninth Circuit reversed. Rejecting
+tests used by the Third and the Fifth Circuits, the Ninth Circuit concluded that a claimant seeking benefits under the OCSLA “must establish a substantial nexus between the injury and extractive operations on the shelf.”
+Held: The OCSLA extends coverage to an employee who can establish a
+substantial nexus between his injury and his employer’s extractive
+operations on the OCS. Pp. 3–14.
+(a) The Courts of Appeals have offered competing interpretations of
+§1333(b)’s scope. According to the Third Circuit, because Congress
+intended LHWCA coverage to be expansive, §1333(b) extends to all
+injuries that would not have occurred “but for” operations on the
+OCS. Thus, an employee who worked on a semisubmersible drill rig,
+
+

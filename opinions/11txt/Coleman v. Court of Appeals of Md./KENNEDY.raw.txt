@@ -1,0 +1,452 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+Opinion of KENNEDY, J.
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–1016
+_________________
+
+DANIEL COLEMAN, PETITIONER v. COURT OF
+
+APPEALS OF MARYLAND ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FOURTH CIRCUIT
+
+[March 20, 2012]
+
+
+JUSTICE KENNEDY announced the judgment of the Court
+and delivered an opinion, in which THE CHIEF JUSTICE,
+JUSTICE THOMAS, and JUSTICE ALITO joined.
+The question in this case is whether a state employee
+is allowed to recover damages from the state entity that
+employs him by invoking one of the provisions of a federal
+statute that, in express terms, seeks to abrogate the
+States’ immunity from suits for damages. The statute in
+question is the Family and Medical Leave Act of 1993, 107
+Stat. 6, 29 U. S. C. §2601 et seq. The provision at issue
+requires employers, including state employers, to grant
+unpaid leave for self care for a serious medical condition,
+provided other statutory requisites are met, particularly
+requirements that the total amount of annual leave taken
+under all the Act’s provisions does not exceed a stated
+maximum. §2612(a)(1)(d). In agreement with every Court
+of Appeals to have addressed this question, this Court now
+holds that suits against States under this provision are
+barred by the States’ immunity as sovereigns in our federal system. See 626 F. 3d 187 (CA4 2010) (case below);
+Nelson v. University of Tex., 535 F. 3d 318 (CA5 2008);
+
+
+2
+
+COLEMAN v. COURT OF APPEALS OF MD.
+Opinion of KENNEDY, J.
+
+Miles v. Bellfontaine Habilitation Center, 481 F. 3d 1106
+(CA8 2007) (per curiam); Toeller v. Wisconsin Dept. of
+Corrections, 461 F. 3d 871 (CA7 2006); Touvell v. Ohio
+Dept. of Mental Retardation & Developmental Disabilities,
+422 F. 3d 392 (CA6 2005); Brockman v. Wyoming Dept. of
+Family Servs., 342 F. 3d 1159 (CA10 2003); Laro v. New
+Hampshire, 259 F. 3d 1 (CA1 2001).
+I
+
+A
+
+The Family and Medical Leave Act of 1993 (FMLA or
+Act) entitles eligible employees to take up to 12 work
+weeks of unpaid leave per year. An employee may take
+leave under the FMLA for: (A) “the birth of a son or
+daughter . . . in order to care for such son or daughter,” (B)
+the adoption or foster-care placement of a child with the
+employee, (C) the care of a “spouse . . . son, daughter, or
+parent” with “a serious health condition,” and (D) the
+employee’s own serious health condition when the condition interferes with the employee’s ability to perform at
+work. 29 U. S. C. §2612(a)(1). The Act creates a private
+right of action to seek both equitable relief and money
+damages “against any employer (including a public agency) in any Federal or State court of competent jurisdiction.” §2617(a)(2). As noted, subparagraph (D) is at issue
+here.
+This Court considered subparagraph (C) in Nevada
+Dept. of Human Resources v. Hibbs, 538 U. S. 721 (2003).
+Subparagraph (C), like (A) and (B), grants leave for reasons related to family care, and those three provisions are
+referred to here as the family-care provisions. Hibbs held
+that Congress could subject the States to suit for violations of subparagraph (C), §2612(a)(1)(C). That holding
+rested on evidence that States had family-leave policies
+that differentiated on the basis of sex and that States
+administered even neutral family-leave policies in ways
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of KENNEDY, J.
+
+that discriminated on the basis of sex. See id., at 730–732.
+Subparagraph (D), the self-care provision, was not at issue
+in Hibbs.
+B
+Petitioner Daniel Coleman was employed by the Court
+of Appeals of the State of Maryland. When Coleman
+requested sick leave, he was informed he would be terminated if he did not resign. Coleman then sued the state
+court in the United States District Court for the District of
+Maryland, alleging, inter alia, that his employer violated
+the FMLA by failing to provide him with self-care leave.
+The District Court dismissed the suit on the basis that
+the Maryland Court of Appeals, as an entity of a sovereign
+State, was immune from the suit for damages. The parties
+do not dispute the District Court’s ruling that the Maryland Court of Appeals is an entity or instrumentality of
+the State for purposes of sovereign immunity. The District Court concluded the FMLA’s self-care provision did
+not validly abrogate the State’s immunity from suit. App.
+to Pet. for Cert. 15–20. The Court of Appeals for the
+Fourth Circuit affirmed, reasoning that, unlike the familycare provision at issue in Hibbs, the self-care provision
+was not directed at an identified pattern of gender-based
+discrimination and was not congruent and proportional to
+any pattern of sex-based discrimination on the part of
+States. 626 F. 3d 187. Certiorari was granted. 564 U. S.
+___ (2011).
+II
+
+A
+
+A foundational premise of the federal system is that
+States, as sovereigns, are immune from suits for damages,
+save as they elect to waive that defense. See Kimel v.
+Florida Bd. of Regents, 528 U. S. 62, 72–73 (2000); Alden
+v. Maine, 527 U. S. 706 (1999). As an exception to this
+
+
+4
+
+COLEMAN v. COURT OF APPEALS OF MD.
+Opinion of KENNEDY, J.
+
+principle, Congress may abrogate the States’ immunity
+from suit pursuant to its powers under §5 of the Fourteenth Amendment. See, e.g., Fitzpatrick v. Bitzer, 427
+U. S. 445 (1976).
+Congress must “mak[e] its intention to abrogate unmistakably clear in the language of the statute.” Hibbs, 538
+U. S., at 726. On this point the Act does express the clear
+purpose to abrogate the States’ immunity. Ibid. (“The
+clarity of Congress’ intent” to abrogate the States’ immunity from suits for damages under the FMLA “is not fairly
+debatable”). Congress subjected any “public agency” to
+suit under the FMLA, 29 U. S. C. §2617(a)(2), and a “public agency” is defined to include both “the government of
+a State or political subdivision thereof ” and “any agency of
+. . . a State, or a political subdivision of a State,” §§203(x),
+2611(4)(A)(iii).
+The question then becomes whether the self-care provision and its attempt to abrogate the States’ immunity are
+a valid exercise of congressional power under §5 of the
+Fourteenth Amendment. Section 5 grants Congress the
+power “to enforce” the substantive guarantees of §1 of
+the Amendment by “appropriate legislation.” The power
+to enforce “ ‘includes the authority both to remedy and to
+deter violation[s] of rights guaranteed’ ” by §1. See Board
+of Trustees of Univ. of Ala. v. Garrett, 531 U. S. 356, 365
+(2001) (quoting Kimel, supra, at 81). To ensure Congress’
+enforcement powers under §5 remain enforcement powers,
+as envisioned by the ratifiers of the Amendment, rather
+than powers to redefine the substantive scope of §1, Congress “must tailor” legislation enacted under §5 “ ‘to remedy or prevent’ ” “conduct transgressing the Fourteenth
+Amendment’s substantive provisions.” Florida Prepaid
+Postsecondary Ed. Expense Bd. v. College Savings Bank,
+527 U. S. 627, 639 (1999).
+Whether a congressional Act passed under §5 can impose monetary liability upon States requires an assess-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+Opinion of KENNEDY, J.
+
+ment of both the “ ‘evil’ or ‘wrong’ that Congress intended
+to remedy,” ibid., and the means Congress adopted to
+address that evil, see City of Boerne v. Flores, 521 U. S.
+507, 520 (1997). Legislation enacted under §5 must be
+targeted at “conduct transgressing the Fourteenth
+Amendment’s substantive provisions.” Florida Prepaid,
+supra, at 639; see Kimel, supra, at 88; City of Boerne,
+521 U. S., at 525. And “[t]here must be a congruence
+and proportionality between the injury to be prevented or
+remedied and the means adopted to that end.” Id., at 520.
+Under this analysis Hibbs permitted employees to recover damages from States for violations of subparagraph
+(C). In enacting the FMLA, Congress relied upon evidence
+of a well-documented pattern of sex-based discrimination
+in family-leave policies. States had facially discriminatory
+leave policies that granted longer periods of leave to women than to men. 538 U. S., at 730–731. States also administered facially neutral family-leave policies in genderbiased ways. Id., at 732. These practices reflected what
+Congress found to be a “pervasive sex-role stereotype that
+caring for family members is women’s work,” id., at 731,
+a stereotype to which even this Court had succumbed in
+earlier times, id., at 729. Faced with “the States’ record of
+unconstitutional participation in, and fostering of, genderbased discrimination in the administration of leave benefits,” Hibbs concluded that requiring state employers to
+give all employees the opportunity to take family-care
+leave was “narrowly targeted at the faultline between
+work and family—precisely where sex-based overgeneralization has been and remains strongest.” Id., at 735, 738.
+B
+The same cannot be said for requiring the States to give
+all employees the opportunity to take self-care leave.
+Petitioner advances three arguments for allowing employees to recover damages from States that violate the
+
+
+6
+
+COLEMAN v. COURT OF APPEALS OF MD.
+Opinion of KENNEDY, J.
+
+FMLA’s self-care provision: The self-care provision standing alone addresses sex discrimination and sex stereotyping; the provision is a necessary adjunct to the family-care
+provision sustained in Hibbs; and the provision eases the
+burden on single parents. But what the family-care provisions have to support them, the self-care provision lacks,
+namely evidence of a pattern of state constitutional violations accompanied by a remedy drawn in narrow terms to
+address or prevent those violations.
+1
+Standing alone, the self-care provision is not a valid
+abrogation of the States’ immunity from suit. When the
+FMLA was enacted, “ninety-five percent of full-time stateand local-government employees were covered by paid sick
+leave plans and ninety-six percent of such employees
+likewise enjoyed short-term disability protection.” Brief
+for States of Texas et al. as Amici Curiae 13–14 (hereinafter Texas Brief) (citing Bureau of Labor Statistics, U. S.
+Dept. of Labor, Employee Benefits in State and Local
+Governments 17–26 (1994) (hereinafter BLS Rept.)). The
+evidence did not suggest States had facially discriminatory
+self-care leave policies or that they administered neutral
+self-care leave policies in a discriminatory way. And there
+is scant evidence in the legislative history of a purported
+stereotype harbored by employers that women take selfcare leave more often than men. Congress considered
+evidence that “men and women are out on medical leave
+approximately equally.” H. R. Rep. No. 101–28, pt. 1, p.
+15 (1989) (hereinafter H. R. Rep.). Nothing in the record
+shows employers formulated self-care leave policies based
+on a contrary view.
+Without widespread evidence of sex discrimination or
+sex stereotyping in the administration of sick leave, it is
+apparent that the congressional purpose in enacting the
+self-care provision is unrelated to these supposed wrongs.
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+Opinion of KENNEDY, J.
+
+The legislative history of the self-care provision reveals a
+concern for the economic burdens on the employee and the
+employee’s family resulting from illness-related job loss
+and a concern for discrimination on the basis of illness, not
+sex. See, e.g., S. Rep. No. 103–3, pp. 11–12 (1993); H. R.
+Rep., at 23. In the findings pertinent to the self-care
+provision, the statute makes no reference to any distinction on the basis of sex. See 29 U. S. C. §2601(a)(4)
+(“[T]here is inadequate job security for employees who
+have serious health conditions that prevent them from
+working for temporary periods”). By contrast, with regard
+to family care Congress invoked concerns related to gender. See §2601(a)(5) (“[D]ue to the nature of the roles of
+men and women in our society, the primary responsibility
+for family caretaking often falls on women, and such
+responsibility affects the working lives of women more
+than it affects the working lives of men”).
+It is true the self-care provision offers some women a
+benefit by allowing them to take leave for pregnancyrelated illnesses; but as a remedy, the provision is not
+congruent and proportional to any identified constitutional
+violations. At the time of the FMLA’s enactment, “ninetyfive percent” of state employees had paid sick-leave plans
+at work, and “ninety-six percent” had short-term disability
+protection. Texas Brief 13–14 (citing BLS Rept. 17–26).
+State employees presumably could take leave for pregnancyrelated illnesses under these policies, and Congress did
+not document any pattern of States excluding pregnancyrelated illnesses from sick-leave or disability-leave policies. “Congress . . . said nothing about the existence or
+adequacy of state remedies.” Florida Prepaid, 527 U. S.,
+at 644. It follows that abrogating the States’ immunity
+from suits for damages for failure to give self-care leave is
+not a congruent and proportional remedy if the existing
+state leave policies would have sufficed.
+
+
+8
+
+COLEMAN v. COURT OF APPEALS OF MD.
+Opinion of KENNEDY, J.
+
+2
+As an alternative justification for the self-care provision,
+it has been suggested that the provision is a necessary
+adjunct to the family-care provisions. Petitioner argues
+that employers may assume women are more likely to
+take family-care leave than men and that the FMLA
+therefore offers up to 12 weeks of leave for family care and
+self care combined. According to petitioner, when the selfcare provision is coupled with the family-care provisions,
+the self-care provision could reduce the difference in the
+expected number of weeks of FMLA leave that different
+employees take for different reasons.
+The fact that self-care leave could have this effect does
+not mean that it would. If, for example, women are expected to take 20 days of family-care leave per year and
+men to take 10, and women and men are each expected to
+take 5 days of self-care leave per year, the difference in the
+expected number of days of leave and cost to the employer
+remains the same regardless of the availability of self-care
+leave. Congress made no findings, and received no specific
+testimony, to suggest the availability of self-care leave
+equalizes the expected amount of FMLA leave men and
+women will take. Even if women take family-care leave
+more often than men, men do not take self-care leave more
+often than women; and there is little evidence that employers assume they do. See H. R. Rep., at 15. Petitioner
+suggests that some women will be expected to take all 12
+weeks of leave under the FMLA for family-care purposes,
+and therefore that any amount of self-care leave taken by
+men will diminish the difference in the amount of FMLA
+leave taken by men and women. But there is little evidence to support petitioner’s assumption about the magnitude of women’s expected FMLA leave for family-care
+purposes. And men are only expected to take five days of
+sick leave per year, see ibid., so the self-care provision
+diminishes the difference in expected leave time by a
+
+
+Cite as: 566 U. S. ____ (2012)
+
+9
+
+Opinion of KENNEDY, J.
+
+maximum of five days. And that is only to the extent
+women use all their available FMLA leave for family-care
+reasons. Petitioner’s overly complicated argument about
+how the self-care provision works in tandem with the
+family-care provisions is unconvincing and in the end does
+not comply with the clear requirements of City of Boerne.
+In addition petitioner’s first defense of the self-care
+provision contradicts his second defense of the provision.
+In the first defense, the Court is told employers assume
+women take more self-care leave than men. See Tr. of
+Oral Arg. 10–12. In the second defense, the Court is told
+the self-care provision provides an incentive to hire women
+that will counteract the incentives created by the familycare provisions because employers assume women take
+more family-care leave than men. But if the first defense
+is correct, the second defense is wrong. In other words, if
+employers assume women take self-care leave more often
+than men (the first defense), a self-care provision will not
+provide an incentive to hire women. To the contrary, the
+self-care provision would provide an incentive to discriminate against women.
+There is “little support in the record for the concerns
+that supposedly animated” the self-care provision. Florida
+Prepaid, supra, at 639. Only supposition and conjecture
+support the contention that the self-care provision is
+necessary to make the family-care provisions effective.
+The evidence documented in support of the self-care provision is, to a large degree, unrelated to sex discrimination,
+or to the administration of the family-care provisions. See
+supra, at 7. Congress made no findings and did not cite
+specific or detailed evidence to show how the self-care
+provision is necessary to the family-care provisions or how
+it reduces an employer’s incentives to discriminate against
+women. And “Congress . . . said nothing about the existence or adequacy of state” sick-leave policies. Florida
+Prepaid, supra, at 644; see Garrett, 531 U. S., at 373.
+
+
+10
+
+COLEMAN v. COURT OF APPEALS OF MD.
+Opinion of KENNEDY, J.
+
+Under this Court’s precedents, more is required to subject unconsenting States to suits for damages, particularly
+where, as here, it is for violations of a provision (the selfcare provision) that is a supposedly preventive step in aid
+of already preventive provisions (the family-care provisions). See Florida Prepaid, 527 U. S., at 642 (“[T]he
+legislative record still provides little support for the proposition that Congress sought to remedy a Fourteenth
+Amendment violation in enacting the Patent Remedy
+Act”); Kimel, 528 U. S., at 88 (“One means by which we
+have made such a determination . . . is by examining the
+legislative record containing the reasons for Congress’
+action”).
+The “few fleeting references” to how self-care leave is
+inseparable from family-care leave fall short of what is
+required for a valid abrogation of States’ immunity from
+suits for damages. Florida Prepaid, supra, at 644. These
+“isolated sentences clipped from floor debates” and testimony, Kimel, supra, at 89, are stated as conclusions,
+unsupported by evidence or findings about how the selfcare provision interrelates to the family-care provisions to
+counteract employers’ incentives to discriminate against
+women. Congress must rely on more than abstract generalities to subject the States to suits for damages. Otherwise, Congress could choose to combat the purported
+effects of the family-care provisions by allowing employees
+to sue States that do not permit employees to take vacation time under the FMLA. There is nothing in particular
+about self-care leave, as opposed to leave for any personal
+reason, that connects it to gender discrimination. And
+when the issue, as here, is whether subparagraph (D) can
+abrogate a State’s immunity from damages, there is no
+sufficient nexus, or indeed any demonstrated nexus, between self-care leave and gender discrimination by state
+employers. Documented discrimination against women in
+the general workplace is a persistent, unfortunate reality,
+
+
+Cite as: 566 U. S. ____ (2012)
+
+11
+
+Opinion of KENNEDY, J.
+
+and, we must assume, a still prevalent wrong. An explicit
+purpose of the Congress in adopting the FMLA was to
+improve workplace conditions for women. See 29 U. S. C.
+§§2601(b)(4), (5). But States may not be subject to suits
+for damages based on violations of a comprehensive statute unless Congress has identified a specific pattern of
+constitutional violations by state employers. See City of
+Boerne, 521 U. S., at 532.
+3
+The petitioner’s last defense of the self-care provision is
+that the provision helps single parents retain their jobs
+when they become ill. This, however, does not explain
+how the provision remedies or prevents constitutional
+violations. The fact that most single parents happen to be
+women, see, e.g., S. Rep. No. 103–3, at 7, demonstrates, at
+most, that the self-care provision was directed at remedying employers’ neutral leave restrictions which have a
+disparate effect on women. “Although disparate impact
+may be relevant evidence of . . . discrimination . . . such
+evidence alone is insufficient [to prove a constitutional
+violation] even where the Fourteenth Amendment subjects
+state action to strict scrutiny.” Garrett, supra, at 372–373;
+see Tuan Anh Nguyen v. INS, 533 U. S. 53, 82–83 (2001)
+(O’Connor, J., dissenting); Washington v. Davis, 426 U. S.
+229, 239 (1976). To the extent, then, that the self-care
+provision addresses neutral leave policies with a disparate
+impact on women, it is not directed at a pattern of constitutional violations. Because, moreover, it is “unlikely that
+many of the [neutral leave policies] . . . affected by” the
+self-care provision are unconstitutional, “the scope of the
+[self-care provision is] out of proportion to its supposed
+remedial or preventive objectives.” Kimel, supra, at 82;
+see City of Boerne, supra, at 519.
+Of course, a State need not assert its Eleventh Amendment immunity from suits for damages. See, e.g., Sossa-
+
+
+12
+
+COLEMAN v. COURT OF APPEALS OF MD.
+Opinion of KENNEDY, J.
+
+mon v. Texas, 563 U. S. ___, ___ (2011) (slip op., at 5) (“A
+State . . . may choose to waive its immunity in federal
+court at its pleasure”). Discrimination against women is
+contrary to the public policy of the State of Maryland, see,
+e.g., Maryland’s Fair Employment Practices Act, Md. State
+Govt. Code Ann. §20–606 (Lexis 2009), and the State has
+conceded that the Act is good social policy, see Tr. of Oral
+Arg. 35. If the State agrees with petitioner that damages
+liability for violations of the self-care provision is necessary to combat discrimination against women, the State
+may waive its immunity or create a parallel state law
+cause of action.
+*
+*
+*
+As a consequence of our constitutional design, money
+damages are the exception when sovereigns are defendants. See, e.g., Pennhurst State School and Hospital v.
+Halderman, 451 U. S. 1, 29 (1981). Subjecting States to
+suits for damages pursuant to §5 requires more than a
+theory for why abrogating the States’ immunity aids in, or
+advances, a stated congressional purpose. To abrogate the
+States’ immunity from suits for damages under §5, Congress must identify a pattern of constitutional violations
+and tailor a remedy congruent and proportional to the
+documented violations. It failed to do so when it allowed
+employees to sue States for violations of the FMLA’s selfcare provision. The judgment of the Court of Appeals is
+affirmed.
+It is so ordered.
+
+

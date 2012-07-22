@@ -1,0 +1,44 @@
+20
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+successive” or not.15
+Ironically, in an effort to effectuate what they believe is
+Congress’ intent not to give any unfair benefit to habeas
+petitioners, the State and the dissent propose an alterna
+tive rule that would “close our doors to a class of habeas
+petitioners seeking review without any clear indication
+that such was Congress’ intent.” Castro v. United States,
+540 U. S. 375, 381 (2003). Many examples can be given,
+but one suffices to illustrate this point. Suppose that a
+petitioner files an application raising 10 meritorious
+claims challenging his conviction. The district court
+grants a conditional writ based on one of them, without
+reaching the remaining nine. Upon retrial, the state court
+commits the same 10 legal mistakes. (These are new
+errors, but no more new than the sentencing error in
+Magwood’s case.) Is an application presenting those same
+10 claims—now based on the errors in the new judg
+ment—“second or successive”? Under the opportunity
+based rule advanced by the State and the dissent, the
+answer must be yes. All 10 claims would have to be dis
+missed. See §2244(b)(1) (requiring dismissal of any claim
+presented in a prior application). The State attempts to
+avoid this “procedural anomal[y],” Castro, supra, at 380,
+by suggesting that we treat the nine unadjudicated claims
+as part of a first application, because they were never
+adjudicated on the merits. Cf. Slack, 529 U. S., at
+478–481; Martinez-Villareal, 523 U. S., at 643–645. As for
+the adjudicated claim, “[r]espondents assume that state
+judges will follow instructions imposed by federal courts,”
+and if not, “that federal courts will consider a petitioner’s
+claim that the state court violated due process by failing to
+——————
+15 The dissent’s concern that such a petitioner may “reraise every
+argument against a sentence that was rejected by the federal courts
+during the first round of federal habeas review,” post, at 12, is similarly
+hyperbolic. It will not take a court long to dispose of such claims where
+the court has already analyzed the legal issues.
+
+

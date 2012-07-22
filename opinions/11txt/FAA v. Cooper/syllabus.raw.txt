@@ -1,0 +1,115 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+FEDERAL AVIATION ADMINISTRATION ET AL. v. 
+
+COOPER 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–1024. Argued November 30, 2011—Decided March 28, 2012
+Respondent Cooper, a licensed pilot, failed to disclose his human immunodeficiency virus (HIV) diagnosis to the Federal Aviation Administration (FAA) at a time when the agency did not issue medical certificates, which are required to operate an aircraft, to persons with
+HIV. Subsequently, respondent applied to the Social Security Administration (SSA) and received long-term disability benefits on the
+basis of his HIV status. Thereafter, he renewed his certificate with
+the FAA on several occasions, each time intentionally withholding information about his condition. The Department of Transportation
+(DOT), the FAA’s parent agency, launched a joint criminal investigation with the SSA to identify medically unfit individuals who had obtained FAA certifications. The DOT provided the SSA with the
+names of licensed pilots, and the SSA, in turn, provided the DOT
+with a spreadsheet containing information on those pilots who had
+also received disability benefits. Respondent’s name appeared on the
+spreadsheet, and an investigation led to his admission that he had
+intentionally withheld information about his HIV status from the
+FAA. His pilot certificate was revoked, and he was indicted for making false statements to a Government agency. He pleaded guilty and
+was fined and sentenced to probation. He then filed suit, alleging
+that the FAA, DOT, and SSA violated the Privacy Act of 1974, which
+contains a detailed set of requirements for the management of records held by Executive Branch agencies. The Act allows an aggrieved
+individual to sue for “actual damages,” 5 U. S. C. §552a(g)(4)(A), if
+the Government intentionally or willfully violates the Act’s requirements in such a way as to adversely affect the individual. Specifically, respondent claimed that the unlawful disclosure to the DOT of his
+
+
+2
+
+FAA v. COOPER
+Syllabus
+confidential medical information had caused him mental and emotional distress. The District Court concluded that the Government
+had violated the Act. But, finding the term “actual damages” ambiguous, the court relied on the sovereign immunity canon, which provides that sovereign immunity waivers must be strictly construed in
+the Government’s favor, to hold that the Act does not authorize the
+recovery of nonpecuniary damages. Reversing the District Court, the
+Ninth Circuit concluded that “actual damages” in the Act is not ambiguous and includes damages for mental and emotional distress.
+
+Held: The Privacy Act does not unequivocally authorize damages for
+mental or emotional distress and therefore does not waive the Government’s sovereign immunity from liability for such harms. Pp. 4–
+19.
+(a) A waiver of sovereign immunity must be unequivocally expressed in statutory text, see e.g., Lane v. Peña, 518 U. S. 187, 192,
+and any ambiguities are to be construed in favor of immunity, United
+States v. Williams, 514 U. S. 527, 531. Ambiguity exists if there is a
+plausible interpretation of the statute that would not allow money
+damages against the Government. United States v. Nordic Village,
+Inc., 503 U. S. 30, 37. Pp. 5–6.
+(b) The term “actual damages” in the Privacy Act is a legal term of
+art, and Congress, when it employs a term of art, “ ‘presumably
+knows and adopts the cluster of ideas that were attached to each borrowed word in the body of learning from which it was taken,’ ” Molzof
+v. United States, 502 U. S. 301, 307. Even as a legal term, the precise
+meaning of “actual damages” is far from clear. Although the term is
+sometimes understood to include nonpecuniary harm, it has also been
+used or construed more narrowly to cover damages for only pecuniary
+harm. Because of the term’s chameleon-like quality, it must be considered in the particular context in which it appears. Pp. 6–9.
+(c) The Privacy Act serves interests similar to those protected by
+defamation and privacy torts. Its remedial provision, under which
+plaintiffs can recover a minimum award of $1,000 if they first prove
+at least some “actual damages,” “parallels” the common-law torts of
+libel per quod and slander, under which plaintiffs can recover “general damages” if they first prove “special damages.” Doe v. Chao, 540
+U. S. 614, 625. “Special damages” are limited to actual pecuniary
+loss, which must be specially pleaded and proved. “General damages” cover nonpecuniary loss and need not be pleaded or proved. This
+parallel suggests the possibility that Congress intended the term “actual damages” to mean “special damages,” thus barring Privacy Act
+victims from any recovery unless they can first show some actual pecuniary harm. That Congress would choose “actual damages” instead
+of “special damages” is not without precedent, as the terms have oc-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Syllabus
+casionally been used interchangeably. Furthermore, any doubt about
+the plausibility of construing “actual damages” as special damages in
+the Privacy Act is put to rest by Congress’ deliberate refusal to allow
+recovery for “general damages.” In common-law defamation and privacy cases, special damages is the only category of compensatory
+damages other than general damages. Because Congress declined to
+authorize general damages, it is reasonable to infer that Congress intended the term “actual damages” in the Act to mean special damages for proven pecuniary loss. Pp. 9–14.
+(d) Although the contrary reading of the Privacy Act accepted by
+the Ninth Circuit and advanced by respondent is not inconceivable, it
+is plausible to read the Act as authorizing only damages for economic
+loss. Because Congress did not speak unequivocally, the Court
+adopts an interpretation of “actual damages” limited to proven pecuniary harm. To do otherwise would expand the scope of Congress’
+sovereign immunity waiver beyond what the statutory text clearly
+requires. P. 14.
+(e) Respondent raises several counterarguments: (1) common-law
+cases often define “actual damages” to mean all compensatory damages; (2) the elimination of “general damages” from the Privacy Act
+means that there can be no recovery for presumed damages, but
+plaintiffs can still recover for proven mental and emotional distress;
+(3) because some courts have construed “actual damages” in similar
+statutes to include mental and emotional distress, Congress must
+have intended “actual damages” in the Act to include mental and
+emotional distress as well; and (4) precluding nonpecuniary damages
+would lead to absurd results, thereby frustrating the Act’s remedial
+purpose. None of these arguments overcomes the sovereign immunity canon. Pp. 14–19.
+622 F. 3d 1016, reversed and remanded.
+ALITO, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and SCALIA, KENNEDY, and THOMAS, JJ., joined. SOTOMAYOR, J., filed a
+dissenting opinion, in which GINSBURG and BREYER, JJ., joined. KAGAN,
+J., took no part in the consideration or decision of the case.
+
+

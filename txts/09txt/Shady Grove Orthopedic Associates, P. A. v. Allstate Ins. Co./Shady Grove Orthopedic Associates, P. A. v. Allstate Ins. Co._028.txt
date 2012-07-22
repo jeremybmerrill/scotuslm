@@ -1,0 +1,46 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of STEVENS, J.
+
+Act “say, roughly, that federal courts are to apply state
+‘substantive’ law and federal ‘procedural’ law,” the inquir
+ies are not the same. Ibid.; see also id., at 469–470. The
+Enabling Act does not invite federal courts to engage in
+the “relatively unguided Erie choice,” id., at 471, but
+instead instructs only that federal rules cannot “abridge,
+enlarge or modify any substantive right,” §2072(b). The
+Enabling Act’s limitation does not mean that federal rules
+cannot displace state policy judgments; it means only that
+federal rules cannot displace a State’s definition of its own
+rights or remedies. See Sibbach v. Wilson & Co., 312 U. S.
+1, 13–14 (1941) (reasoning that “the phrase ‘substantive
+rights’ ” embraces only those state rights that are sought
+to be enforced in the judicial proceedings).
+Congress has thus struck a balance: “[H]ousekeeping
+rules for federal courts” will generally apply in diversity
+cases, notwithstanding that some federal rules “will inevi
+tably differ” from state rules. Hanna, 380 U. S., at 473.
+But not every federal “rul[e] of practice or procedure,”
+§2072(a), will displace state law. To the contrary, federal
+rules must be interpreted with some degree of “sensitivity
+to important state interests and regulatory policies,”
+Gasperini v. Center for Humanities, Inc., 518 U. S. 415,
+427, n. 7 (1996), and applied to diversity cases against the
+background of Congress’ command that such rules not
+alter substantive rights and with consideration of “the
+degree to which the Rule makes the character and result
+of the federal litigation stray from the course it would
+follow in state courts,” Hanna, 380 U. S., at 473. This can
+be a tricky balance to implement.3
+It is important to observe that the balance Congress
+——————
+3 See
+
+Chemerinsky §5.3, at 321 (observing that courts “have struggled
+to develop an approach that permits uniform procedural rules to be
+applied in federal court while still allowing state substantive law to
+govern”).
+
+

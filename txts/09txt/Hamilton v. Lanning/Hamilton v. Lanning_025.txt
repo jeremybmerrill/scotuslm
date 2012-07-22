@@ -1,0 +1,44 @@
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+SCALIA, J., dissenting
+
+inflexible formula, at least in “exceptional cases,” to ac
+count for “significant changes” in the debtor’s circum
+stances, either actual or anticipated. Ante, at 6.
+That interpretation runs aground because it either
+renders superfluous text Congress included or requires
+adding text Congress did not. It would be pointless to
+define disposable income in such detail, based on data
+during a specific 6-month period, if a court were free to set
+the resulting figure aside whenever it appears to be a poor
+predictor. And since “disposable income” appears nowhere
+else in §1325(b), then unless §1325(b)(2)’s definition ap
+plies to “projected disposable income” in §1325(b)(1)(B), it
+does not apply at all.
+The Court insists its interpretation does not render
+§1325(b)(2)’s incorporation of “current monthly income” a
+nullity: A bankruptcy court must still begin with that
+figure, but is simply free to fiddle with it if a “significant”
+change in the debtor’s circumstances is “known or virtu
+ally certain.” Ante, at 6, 12. That construction conven
+iently avoids superfluity, but only by utterly abandoning
+the text the Court purports to construe. Nothing in the
+text supports treating the definition of disposable income
+Congress supplied as a suggestion. And even if the word
+“projected” did allow (or direct) a court to disregard
+§1325(b)(2)’s fixed formula and to consider other data,
+there would be no basis in the text for the restrictions the
+Court reads in, regarding when and to what extent a court
+may (or must) do so. If the statute authorizes estimations,
+it authorizes them in every case, not just those where
+changes to the debtor’s income are both “significant” and
+either “known or virtually certain.” Ibid. If the evidence
+indicates it is merely more likely than not that the
+debtor’s income will increase by some minimal amount,
+there is no reading of the word “projected” that permits (or
+requires) a court to ignore that change. The Court, in
+short, can arrive at its compromise construction only by
+
+

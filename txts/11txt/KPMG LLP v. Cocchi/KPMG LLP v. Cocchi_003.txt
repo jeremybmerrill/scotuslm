@@ -1,0 +1,36 @@
+Cite as: 565 U. S. ____ (2011)
+
+3
+
+Per Curiam
+
+So. 3d, at 1168. Thus, the court found, the arbitration
+clause could only be enforced if respondents’ claims were
+derivative in that they arose from the services KPMG
+performed for the Tremont defendants pursuant to the
+audit services agreement. Applying Delaware law, which
+both parties agreed was applicable, the Court of Appeal
+concluded that the negligent misrepresentation and the
+violation of FDUTPA claims were direct rather than derivative. A fair reading of the opinion reveals nothing to
+suggest that the court came to the same conclusion about
+the professional malpractice and breach of fiduciary duty
+claims. Indeed, the court said nothing about those claims
+at all. Finding “the arbitral agreement upon which KPMG
+relied would not apply to the direct claims made by the
+individual plaintiffs,” id., at 1167, the Court of Appeal
+affirmed the trial court’s denial of the motion to arbitrate.
+Respondents have since amended their complaint to
+add a fifth claim. Citing the Court of Appeal’s decision,
+the trial court again denied KPMG’s motion to compel
+arbitration.
+The Federal Arbitration Act reflects an “emphatic federal policy in favor of arbitral dispute resolution.”
+Mitsubishi Motors Corp. v. Soler Chrysler-Plymouth, Inc.,
+473 U. S. 614, 631 (1985); Moses H. Cone Memorial Hospital v. Mercury Constr. Corp., 460 U. S. 1, 24–25 (1983)
+(noting that “questions of arbitrability [must]. . . be addressed with a healthy regard for the federal policy favoring arbitration”). This policy, as contained within the Act,
+“requires courts to enforce the bargain of the parties to
+arbitrate,” Dean Witter, supra, at 217, and “cannot possibly require the disregard of state law permitting arbitration by or against nonparties to the written arbitration
+agreement,” Arthur Andersen LLP v. Carlisle, 556 U. S.
+624, 630, n. 5 (2009) (emphasis deleted). Both parties
+agree that whether the claims in the complaint are arbitrable turns on the question whether they must be deemed
+
+

@@ -1,0 +1,40 @@
+4
+
+CARACO PHARMACEUTICAL LABORATORIES, LTD. v.
+NOVO NORDISK A/S 
+
+Opinion of the Court 
+
+
+See 21 U. S. C. §§355(j)(2)(A)(vii)(I)–(III). Otherwise, the
+applicant has two possible ways to obtain approval.
+One option is to submit a so-called section viii statement, which asserts that the generic manufacturer will
+market the drug for one or more methods of use not covered by the brand’s patents. See §355(j)(2)(A)(viii). A
+section viii statement is typically used when the brand’s
+patent on the drug compound has expired and the brand
+holds patents on only some approved methods of using
+the drug. If the ANDA applicant follows this route, it will
+propose labeling for the generic drug that “carves out”
+from the brand’s approved label the still-patented methods
+of use. See 21 CFR §314.94(a)(8)(iv). The FDA may approve such a modified label, see §314.127(a)(7), as an exception to the usual rule that a generic drug must bear
+the same label as the brand-name product, see 21 U. S. C.
+§§355(j)(2)(A)(v), (j)(4)(G). FDA acceptance of the carveout label allows the generic company to place its drug
+on the market (assuming the ANDA meets other requirements), but only for a subset of approved uses—i.e., those
+not covered by the brand’s patents.
+Of particular relevance here, the FDA will not approve
+such an ANDA if the generic’s proposed carve-out label
+overlaps at all with the brand’s use code. See 68 Fed. Reg.
+36682–36683 (2003). The FDA takes that code as a given:
+It does not independently assess the patent’s scope or
+otherwise look behind the description authored by the
+brand. According to the agency, it lacks “both [the] expertise and [the] authority” to review patent claims; although
+it will forward questions about the accuracy of a use code
+to the brand,1 its own “role with respect to patent listing is
+——————
+1 Under the FDA’s regulations, any person may dispute the accuracy
+of patent information listed in the Orange Book by notifying the agency
+in writing. See 21 CFR §314.53(f). The FDA will then request that the
+brand verify the information, but will make no changes “[u]nless the
+[brand] withdraws or amends” the listing. Ibid.
+
+

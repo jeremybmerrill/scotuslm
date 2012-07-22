@@ -1,0 +1,38 @@
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+Opinion of the Court
+
+ministerial.” Id., at 36683; see ibid. (“A fundamental
+assumption of the Hatch-Waxman Amendments is that
+the courts are the appropriate mechanism for the resolution of disputes about the scope and validity of patents”).2
+Thus, whether section viii is available to a generic manufacturer depends on how the brand describes its patent.
+Only if the use code provides sufficient space for the generic’s proposed label will the FDA approve an ANDA with a
+section viii statement.
+The generic manufacturer’s second option is to file a socalled paragraph IV certification, which states that a
+listed patent “is invalid or will not be infringed by the
+manufacture, use, or sale of the [generic] drug.” 21
+U. S. C. §355(j)(2)(A)(vii)(IV). A generic manufacturer will
+typically take this path in either of two situations: if it
+wants to market the drug for all uses, rather than carving
+out those still allegedly under patent; or if it discovers, as
+described above, that any carve-out label it is willing to
+adopt cannot avoid the brand’s use code. Filing a paragraph IV certification means provoking litigation. The
+patent statute treats such a filing as itself an act of infringement, which gives the brand an immediate right to
+sue. See 35 U. S. C. §271(e)(2)(A). Assuming the brand
+does so, the FDA generally may not approve the ANDA
+until 30 months pass or the court finds the patent invalid
+or not infringed. See 21 U. S. C. §355(j)(5)(B)(iii). Accordingly, the paragraph IV process is likely to keep the generic drug off the market for a lengthy period, but may
+eventually enable the generic company to market its drug
+for all approved uses.
+In the late 1990’s, evidence mounted that some brands
+——————
+2 Several
+
+courts have affirmed the FDA’s view of its ministerial role.
+See, e.g., Apotex, Inc. v. Thompson, 347 F. 3d 1335, 1349 (CA Fed.
+2003); aaaiPharma v. Thompson, 296 F. 3d 227, 242–243 (CA4 2002).
+That question is not before us, and we express no view on it.
+
+

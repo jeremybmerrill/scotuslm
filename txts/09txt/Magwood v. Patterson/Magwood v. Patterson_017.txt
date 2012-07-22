@@ -1,0 +1,45 @@
+14
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+error. Under the State’s “one opportunity” rule, the
+phrase “second or successive” would apply to any claim
+that the petitioner had a full and fair opportunity to raise
+in a prior application. And the phrase “second or succes
+sive” would not apply to a claim that the petitioner did not
+have a full and fair opportunity to raise previously.
+This reading of §2244(b) would considerably under
+mine—if not render superfluous—the exceptions to dis
+missal set forth in §2244(b)(2). That section describes
+circumstances when a claim not presented earlier may be
+considered: intervening and retroactive case law, or newly
+discovered facts suggesting “that . . . no reasonable fact
+finder would have found the applicant guilty of the under
+lying offense.” §2244(b)(2)(B)(ii). In either circumstance,
+a petitioner cannot be said to have had a prior opportunity
+to raise the claim, so under the State’s rule the claim
+would not be successive and §2244(b)(2) would not apply to
+it at all. This would be true even if the claim were raised
+in a second application challenging the same judgment.11
+In addition to duplicating the exceptions under §2244(b)
+in some circumstances, the State’s rule would dilute them
+in others. Whereas the exception to dismissal of fact
+based claims not presented in a prior application applies
+only if the facts provide clear and convincing evidence
+——————
+11 This case does not require us to determine whether §2244(b) ap
+plies to every application filed by a prisoner in custody pursuant to a
+state-court judgment if the prisoner challenged the same state-court
+judgment once before. Three times we have held otherwise. See Slack
+v. McDaniel, 529 U. S. 475, 487 (2000); Stewart v. Martinez-Villareal,
+523 U. S. 637, 643 (1998); Panetti v. Quarterman, 551 U. S. 930, 945
+(2007).
+The dissent’s claim that our reading of §2244(b) calls one of those
+decisions, Panetti, into doubt, see post, at 7–8, is unfounded. The
+question in this case is whether a first application challenging a new
+sentence in an intervening judgment is second or successive. It is not
+whether an application challenging the same state-court judgment
+must always be second or successive.
+
+

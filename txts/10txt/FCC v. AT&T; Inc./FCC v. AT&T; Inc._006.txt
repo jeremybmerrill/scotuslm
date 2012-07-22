@@ -1,0 +1,43 @@
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+Id., at 43a. The Bureau did not, however, apply that
+exemption to the corporation itself, reasoning that “busi
+nesses do not possess ‘personal privacy’ interests as re
+quired” by the exemption. Id., at 42a–43a.
+On review the FCC agreed with the Bureau. The Com
+mission found AT&T’s position that it is “a ‘private corpo
+rate citizen’ with personal privacy rights that should be
+protected from disclosure that would ‘embarrass’ it . . .
+within the meaning of Exemption 7(C) . . . at odds with
+established [FCC] and judicial precedent.” 23 FCC Rcd.
+13704, 13707 (2008). It therefore concluded that “Exemp
+tion 7(C) has no applicability to corporations such as
+[AT&T].” Id., at 13710.
+AT&T sought review in the Court of Appeals for the
+Third Circuit, and that court rejected the FCC’s reasoning.
+Noting that Congress had defined the word “person” to
+include corporations as well as individuals, 5 U. S. C.
+§551(2), the court held that Exemption 7(C) extends to the
+“personal privacy” of corporations, since “the root from
+which the statutory word [personal] . . . is derived” is the
+defined term “person.” 582 F. 3d, at 497. As the court
+explained, “[i]t would be very odd indeed for an adjectival
+form of a defined term not to refer back to that defined
+term.” Ibid. The court accordingly ruled “that FOIA’s text
+unambiguously indicates that a corporation may have a
+‘personal privacy’ interest within the meaning of Exemp
+tion 7(C).” Id., at 498.
+The FCC petitioned this Court for review of the Third
+Circuit’s decision and CompTel filed as a respondent
+supporting petitioners. We granted certiorari, 561 U. S.
+___ (2010), and now reverse.
+II
+Like the Court of Appeals below, AT&T relies on the
+argument that the word “personal” in Exemption 7(C)
+incorporates the statutory definition of the word “person.”
+
+

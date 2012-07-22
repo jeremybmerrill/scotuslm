@@ -1,0 +1,43 @@
+8
+
+HARDT v. RELIANCE STANDARD LIFE INS. CO.
+Opinion of the Court
+
+correctly identify the circumstances under which a fee
+claimant is entitled to attorney’s fees under §1132(g)(1)?
+We granted certiorari. 558 U. S. ___ (2010).
+II
+Whether §1132(g)(1) limits the availability of attorney’s
+fees to a “prevailing party” is a question of statutory con
+struction. As in all such cases, we begin by analyzing the
+statutory language, “assum[ing] that the ordinary mean
+ing of that language accurately expresses the legislative
+purpose.” Gross v. FBL Financial Services, Inc., 557 U. S.
+___, ___ (2009) (slip op., at 7) (internal quotation marks
+omitted). We must enforce plain and unambiguous statu
+tory language according to its terms. Carcieri v. Salazar,
+555 U. S. ___, ___ (2009) (slip op., at 7); Jimenez v. Quar
+terman, 555 U. S. ___, ___ (2009) (slip op., at 5).
+Section 1132(g)(1) provides:
+“In any action under this subchapter (other than an
+action described in paragraph (2)) by a participant,
+beneficiary, or fiduciary, the court in its discretion
+may allow a reasonable attorney’s fee and costs of ac
+tion to either party.”
+The words “prevailing party” do not appear in this provi
+sion. Nor does anything else in §1132(g)(1)’s text purport
+to limit the availability of attorney’s fees to a “prevailing
+party.” Instead, §1132(g)(1) expressly grants district
+courts “discretion” to award attorney’s fees “to either
+——————
+is not a prevailing party in the truest sense of the term” (some internal
+quotation marks and citation omitted)); Graham v. Hartford Life and
+Accident Ins. Co., 501 F. 3d 1153, 1162 (CA10 2007) (“We also afford
+certain weight to prevailing party status, even though we acknowledge
+that the ERISA attorney’s fees provision is not expressly directed at
+prevailing parties”). Other Courts of Appeals have rejected or dis
+avowed that position. See, e.g., Miller v. United Welfare Fund, 72 F. 3d
+1066, 1074 (CA2 1995); Gibbs v. Gibbs, 210 F. 3d 491, 503 (CA5 2000);
+Freeman v. Continental Ins. Co., 996 F. 2d 1116, 1119 (CA11 1993).
+
+

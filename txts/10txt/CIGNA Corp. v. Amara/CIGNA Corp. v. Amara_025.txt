@@ -1,0 +1,44 @@
+Cite as: 563 U. S. ____ (2011)
+
+21
+
+Opinion of the Court
+
+§502(a)(3) (which authorizes the court to enter “appropri
+ate equitable relief ” to redress ERISA “violations”). Hence
+any requirement of harm must come from the law of
+equity.
+Looking to the law of equity, there is no general princi
+ple that “detrimental reliance” must be proved before a
+remedy is decreed. To the extent any such requirement
+arises, it is because the specific remedy being contem
+plated imposes such a requirement. Thus, as CIGNA
+points out, when equity courts used the remedy of estop
+pel, they insisted upon a showing akin to detrimental
+reliance, i.e., that the defendant’s statement “in truth,
+influenced the conduct of ” the plaintiff, causing “preju
+dic[e].” Eaton §61, at 175; see 3 Pomeroy §805. Accord
+ingly, when a court exercises its authority under
+§502(a)(3) to impose a remedy equivalent to estoppel, a
+showing of detrimental reliance must be made.
+But this showing is not always necessary for other
+equitable remedies. Equity courts, for example, would
+reform contracts to reflect the mutual understanding of
+the contracting parties where “fraudulent suppression[s],
+omission[s], or insertion[s],” 1 Story §154, at 149, “mate
+rial[ly] . . . affect[ed]” the “substance” of the contract, even
+if the “complaining part[y]” was negligent in not realizing
+its mistake, as long as its negligence did not fall below a
+standard of “reasonable prudence” and violate a legal
+duty. 3 Pomeroy §§856, 856b, at 334, 340–341; see Balt
+zer, 115 U. S., at 645; Eaton §307(b).
+Nor did equity courts insist upon a showing of detrimen
+tal reliance in cases where they ordered “surcharge.”
+Rather, they simply ordered a trust or beneficiary made
+whole following a trustee’s breach of trust. In such in
+stances equity courts would “mold the relief to protect the
+rights of the beneficiary according to the situation in
+volved.” Bogert §861, at 4. This flexible approach belies a
+strict requirement of “detrimental reliance.”
+
+

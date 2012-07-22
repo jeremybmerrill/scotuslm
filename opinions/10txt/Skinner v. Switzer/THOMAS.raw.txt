@@ -1,0 +1,346 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–9000
+_________________
+
+HENRY W. SKINNER, PETITIONER v. LYNN
+SWITZER, DISTRICT ATTORNEY FOR THE
+31ST JUDICIAL DISTRICT OF TEXAS
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FIFTH CIRCUIT
+
+[March 7, 2011] 
+
+
+JUSTICE THOMAS, with whom JUSTICE KENNEDY and
+JUSTICE ALITO join, dissenting.
+The Court holds that Skinner may bring under 42
+U. S. C. §1983 his “procedural due process” claim challeng
+ing “Texas’ postconviction DNA statute.” Ante, at 8. I
+disagree.1 I accept the majority’s characterization of the
+issue here as the question left open in District Attorney’s
+Office for Third Judicial Dist. v. Osborne, 557 U. S. ___
+(2009), ante, at 1, where a prisoner challenged the consti
+tutional adequacy of the access to DNA evidence provided
+by Alaska’s “general postconviction relief statute,” 557
+U. S., at ___ (slip op., at 10). Like Osborne, Skinner seeks
+to challenge state collateral review procedures.2 I would
+——————
+1 I adopt the majority’s view that Skinner has alleged a violation of
+procedural due process despite the fact that his complaint is more
+naturally read as alleging a violation of substantive due process. I also
+ignore the questionable premise that the requested relief—DNA test
+ing—would be available in a procedural due process challenge. Com
+pare Wilkinson v. Dotson, 544 U. S. 74, 77 (2005) (seeking “a new parole
+hearing conducted under constitutionally proper procedures”), with
+Osborne, 557 U. S., at ___, n. 1 (ALITO, J., concurring) (slip op., at 4,
+n. 1) (distinguishing Dotson because Osborne sought “ ‘exculpatory’
+evidence”).
+2 Skinner challenges Texas’ Article 64, Tex. Code Crim. Proc. Ann.,
+Art. 64.01 et seq. (Vernon 2006 and Supp. 2010), which provides for
+
+
+2
+
+SKINNER v. SWITZER
+THOMAS, J., dissenting
+
+now hold that these claims are not cognizable under
+§1983.
+I
+The Court has recognized that §1983 does not reach to
+the full extent of its “broad language.” Preiser v. Rodri
+guez, 411 U. S. 475, 489 (1973); see, e.g., Heck v. Hum
+phrey, 512 U. S. 477, 485 (1994) (§1983 should not “expand
+opportunities for collateral attack”). But this Court has
+never purported to fully circumscribe the boundaries of
+§1983. Cf. id., at 482. Rather, we have evaluated each
+claim as it has come before us, reasoning from first princi
+ples and our prior decisions.
+In Preiser v. Rodriguez, the Court began with the undis
+puted proposition that a state prisoner may not use §1983
+to “challeng[e] his underlying conviction and sentence on
+federal constitutional grounds.” 411 U. S., at 489. This
+included attacks on the trial procedures. See id., at 486
+(“den[ial] [of] constitutional rights at trial”). From there,
+the Court reasoned that “immediate release from [physi
+——————
+postconviction discovery of DNA evidence that can then be used in a
+state habeas proceeding to challenge the validity of a conviction. See
+Ard v. State, 191 S. W. 3d 342, 344 (Tex. App. 2006). Article 64 does
+not itself “provide a vehicle for obtaining relief,” Ex parte Tuley, 109
+S. W. 3d 388, 391 (Tex. Crim. App. 2002), but rather is by design and
+by nature part of Texas’ collateral review procedures. See Reply Brief
+for Petitioner 8 (“Because [Article 64] does not give the convicting court
+authority to overturn a conviction, the prisoner still must bring a
+habeas proceeding to challenge the conviction”).
+Although Article 64 is, for the purposes of Skinner’s due process chal
+lenge, part of the state collateral review process, I do not suggest that a
+motion under Article 64 is an “application for . . . collateral review”
+under 28 U. S. C. §2244(d)(2). See Wall v. Kholi, post, at 10, n. 4
+(noting that an application for review must “provide a state court with
+authority to order relief from a judgment”). Texas has divided postcon
+viction discovery of DNA evidence and the application for state habeas
+into separate proceedings, but both remain parts of the State’s collat
+eral review process.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+THOMAS, J., dissenting
+
+cal] confinement or the shortening of its duration” also
+cannot be sought under §1983. Id., at 489; see also Wolff
+v. McDonnell, 418 U. S. 539 (1974) (refusing to allow a
+§1983 suit for restoration of good-time credits); Edwards v.
+Balisok, 520 U. S. 641 (1997) (refusing to allow a §1983
+procedural challenge to the process used to revoke good
+time credits). Then, in Heck v. Humphrey, we addressed
+§1983 actions seeking damages. 512 U. S., at 483. De
+termining that such actions were not covered by Preiser,
+we returned to “the hoary principle that civil tort actions
+are not appropriate vehicles for challenging the validity of
+outstanding criminal judgments,” 512 U. S., at 486, and
+concluded that a complaint must be dismissed where “a
+judgment in favor of the plaintiff would necessarily imply
+the invalidity of his conviction or sentence,” id., at 487.
+Most recently, in Wilkinson v. Dotson, 544 U. S. 74, 82
+(2005), we applied the principles from these prior decisions
+and found cognizable under §1983 a claim that sought to
+“render invalid the state procedures used to deny parole
+eligibility . . . and parole suitability.”
+II
+We have not previously addressed whether due process
+challenges to state collateral review procedures may be
+brought under §1983, and I would hold that they may not.
+Challenges to all state procedures for reviewing the valid
+ity of a conviction should be treated the same as chal
+lenges to state trial procedures, which we have already
+recognized may not be brought under §1983. Moreover,
+allowing such challenges under §1983 would undermine
+Congress’ strict limitations on federal review of state
+habeas decisions. If cognizable at all, Skinner’s claim
+sounds in habeas corpus.
+First, for the purposes of the Due Process Clause, the
+process of law for the deprivation of liberty comprises all
+procedures—including collateral review procedures—that
+
+
+4
+
+SKINNER v. SWITZER
+THOMAS, J., dissenting
+
+establish and review the validity of a conviction. This has
+long been recognized for direct appellate review:
+“And while the Fourteenth Amendment does not re
+quire that a State shall provide for an appellate re
+view in criminal cases, it is perfectly obvious that
+where such an appeal is provided for, and the prisoner
+has had the benefit of it, the proceedings in the appel
+late tribunal are to be regarded as part of the process
+of law under which he is held in custody by the State,
+and to be considered in determining any question of
+alleged deprivation of his life or liberty contrary to the
+Fourteenth Amendment.” Frank v. Mangum, 237
+U. S. 309, 327 (1915) (citations omitted).
+Similarly, although a State is not required to provide
+procedures for postconviction review, it seems clear that
+when state collateral review procedures are provided for,
+they too are part of the “process of law under which [a
+prisoner] is held in custody by the State.” Ibid. As this
+Court has explained, when considering whether the State
+has provided all the process that is due in depriving an
+individual of life, liberty, or property, we must look at both
+pre- and post-deprivation process. See Cleveland Bd. of
+Ed. v. Loudermill, 470 U. S. 532, 547, n. 12 (1985) (“[T]he
+existence of post-termination procedures is relevant to the
+necessary scope of pretermination procedures”); see also
+National Private Truck Council, Inc. v. Oklahoma Tax
+Comm’n, 515 U. S. 582, 587 (1995); Mathews v. Eldridge,
+424 U. S. 319, 349 (1976). There is no principled reason
+this Court should refuse to allow §1983 suits to challenge
+part of this process—the trial proceedings—but bless the
+use of §1983 to challenge other parts.
+Collateral review procedures are, of course, “not part of
+the criminal proceeding itself.” Pennsylvania v. Finley,
+481 U. S. 551, 557 (1987). But like trial and direct appel
+late procedures, they concern the validity of the conviction.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+5
+
+THOMAS, J., dissenting
+
+Trial procedures are used to initially convict a prisoner;
+appellate procedures review the validity of that conviction
+before it becomes final; and collateral review procedures
+permit challenge to the conviction after it is final. For
+purposes of deciding which claims fall within the bounds
+of §1983, I think it makes sense to treat similarly all
+constitutional challenges to procedures concerning the
+validity of a conviction. See Heck, supra, at 491 (THOMAS,
+J., concurring) (“[I]t is proper for the Court to devise
+limitations aimed at ameliorating the conflict [between
+habeas and §1983], provided that it does so in a principled
+fashion”).
+Second, “principles of federalism and comity [are] at
+stake” when federal courts review state collateral review
+procedures, just as when they review state trial proce
+dures. Osborne, 557 U. S., at ___ (ALITO, J., concurring)
+(slip op., at 2). An attack in federal court on any “state
+judicial action” concerning a state conviction must proceed
+with “proper respect for state functions,” because the
+federal courts are being asked to “tr[y] the regularity of
+proceedings had in courts of coordinate jurisdiction.”
+Preiser, 411 U. S., at 491 (internal quotation marks and
+emphasis omitted).
+Because of these concerns for federal-state comity,
+Congress has strictly limited the procedures for federal
+habeas challenges to state convictions and state habeas
+decisions. Congress requires that before a state prisoner
+may seek relief in federal court, he must “exhaus[t] the
+remedies available in the courts of the State.” 28 U. S. C.
+§2254(b)(1)(A). And state habeas determinations receive
+significant deference in subsequent federal habeas pro
+ceedings. §2254(d). These requirements ensure that the
+state courts have the first opportunity to correct any error
+with a state conviction and that their rulings receive due
+respect in subsequent federal challenges.
+By bringing a procedural challenge under §1983, Skin
+
+
+6
+
+SKINNER v. SWITZER
+THOMAS, J., dissenting
+
+ner undermines these restrictions. For example, Skinner
+has never presented his current challenge to Texas’ proce
+dures for postconviction relief to the Texas courts. Allow
+ing Skinner to artfully plead an attack on state habeas
+procedures instead of an attack on state habeas results
+undercuts the restrictions Congress and this Court have
+placed on federal review of state convictions. See Osborne,
+supra, at ___ (ALITO, J., concurring) (slip op., at 3). To
+allege that the Texas courts erred in denying him relief on
+collateral review, Skinner could only file a federal habeas
+petition, with its accompanying procedural restrictions
+and deferential review. But a successful challenge to
+Texas’ collateral review procedures under §1983 would
+impeach the result of collateral review without complying
+with any of the restrictions for relief in federal habeas.
+The majority contends that its decision will not “spill
+over to claims relying on Brady v. Maryland, 373 U. S. 83
+(1963).” Ante, at 13; but cf. Osborne, supra, at ___–___
+(ALITO, J., concurring) (slip op., at 3–5). In truth, the
+majority provides a roadmap for any unsuccessful state
+habeas petitioner to relitigate his claim under §1983: After
+state habeas is denied, file a §1983 suit challenging the
+state habeas process rather than the result. What pris
+oner would not avail himself of this additional bite at the
+apple?3
+——————
+3 Nor is there any reason to believe that the Court’s holding will be
+cabined to collateral review procedures. The Court does not discuss
+whether a State’s direct review process may be subject to challenge
+under §1983, but it suggests no principled distinction between direct
+and collateral review. This risks transforming §1983 into a vehicle for
+direct criminal appeals. Cf. Heck v. Humphrey, 512 U. S. 477, 486
+(1994). Just as any unsuccessful state habeas petitioner will now resort
+to §1983 and challenge state collateral review procedures, so, too, will
+unsuccessful appellants turn to §1983 to challenge the state appellate
+procedures.
+
+
+Cite as: 562 U. S. ____ (2011) 
+
+
+7
+
+THOMAS, J., dissenting
+
+
+III 
+
+The majority relies on Dotson to reach its conclusion. In
+that case, the plaintiffs alleged due process violations in
+state parole adjudications and sought injunctive relief and
+“a new parole hearing conducted under constitutionally
+proper procedures.” 544 U. S., at 77. We found the claims
+cognizable under §1983.
+Dotson does not control this case. Unlike state collateral
+review, parole does not evaluate the validity of the under
+lying state conviction or sentence. Collateral review per
+mits prisoners to “attack their final convictions.” Osborne,
+supra, at ___ (ALITO, J., concurring) (slip op., at 2). In
+contrast, parole may provide release, but whether or not a
+prisoner is paroled in no way relates to the validity of the
+underlying conviction or sentence. Whatever the correct
+ness of Dotson, parole procedures do not review the valid
+ity of a conviction or sentence. For that reason, permitting
+review of parole procedures does not similarly risk trans
+forming §1983 into a vehicle for “challenging the validity
+of outstanding criminal judgments.” Heck, 512 U. S., at
+486.
+Contrary to the majority’s contention, Dotson did not
+reduce the question whether a claim is cognizable under
+§1983 to a single inquiry into whether the prisoner’s claim
+would “necessarily spell speedier release.” See ante, at 11,
+12, n. 12 (internal quotation marks omitted).4 As we
+recognized in Heck, evaluating the boundaries of §1983 is
+not a narrow, mechanical inquiry. Even when the relief
+sought was not “speedier release,” we inquired further
+and returned to first principles to determine that the chal
+——————
+4 Because parole procedures are unrelated to the validity of a con
+viction, a “necessarily spell speedier release” test may sufficiently
+summarize the analysis of §1983 challenges to parole procedures. But
+“necessarily spell speedier release” cannot be the only limit when a
+prisoner challenges procedures used to review the validity of the
+underlying conviction.
+
+
+8
+
+SKINNER v. SWITZER
+THOMAS, J., dissenting
+
+lenge in that case was not cognizable under §1983.5 See
+512 U. S., at 486. Dotson does not suggest that the Heck
+approach, which I would continue to follow here, was
+incorrect.
+*
+*
+*
+This Court has struggled to limit §1983 and prevent it
+from intruding into the boundaries of habeas corpus. In
+crafting these limits, we have recognized that suits seek
+ing “immediate or speedier release” from confinement fall
+outside its scope. Dotson, supra, at 82. We found another
+limit when faced with a civil action in which “a judgment
+in favor of the plaintiff would necessarily imply the inva
+lidity of his conviction or sentence.” Heck, supra, at 487.
+This case calls for yet another: due process challenges to
+state procedures used to review the validity of a conviction
+or sentence. Under that rule, Skinner’s claim is not cogni
+zable under §1983, and the judgment of the Court of Ap
+peals should be affirmed. I respectfully dissent.
+
+——————
+5 As respondent argued, our existing formulations are not “the end of
+the test.” Tr. of Oral Arg. 32–33.
+
+

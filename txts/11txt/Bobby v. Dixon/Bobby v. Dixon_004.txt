@@ -1,0 +1,43 @@
+4
+
+BOBBY v. DIXON
+Per Curiam
+
+The Ohio Supreme Court affirmed Dixon’s convictions
+and sentence. To analyze the admissibility of Dixon’s
+murder confession, the court applied Oregon v. Elstad, 470
+U. S. 298 (1985). The Ohio Supreme Court found that
+Dixon’s confession to murder after receiving Miranda
+warnings was admissible because that confession and his
+prior, unwarned confession to forgery were both voluntary.
+State v. Dixon, supra, at 332–334, 805 N. E. 2d, at 1050–
+1052; see Elstad, supra, at 318 (“We hold today that a
+suspect who has once responded to unwarned yet uncoer­
+cive questioning is not thereby disabled from waiving his
+rights and confessing after he has been given the requisite
+Miranda warnings”).
+Dixon then filed a petition for a writ of habeas corpus
+under 28 U. S. C. §2254 in the U. S. District Court for the
+Northern District of Ohio. Dixon claimed, inter alia, that
+the state court decisions allowing the admission of his
+murder confession contravened clearly established federal
+law. The District Court denied relief, but a divided panel
+of the Sixth Circuit reversed. Dixon v. Houk, 627 F. 3d
+553 (2010).
+The Sixth Circuit had authority to issue the writ of
+habeas corpus only if the Ohio Supreme Court’s decision
+“was contrary to, or involved an unreasonable application
+of, clearly established Federal law,” as set forth in this
+Court’s holdings, or was “based on an unreasonable de­
+termination of the facts” in light of the state court record.
+§2254(d); see Harrington, 562 U. S., at ___ (slip op., at 10).
+The Sixth Circuit believed that the Ohio Supreme Court’s
+decision contained three such egregious errors.
+First, according to the Sixth Circuit, the Miranda deci­
+sion itself clearly established that police could not speak to
+Dixon on November 9, because on November 4 Dixon had
+refused to speak to police without his lawyer. That is
+plainly wrong. It is undisputed that Dixon was not in
+custody during his chance encounter with police on No­
+
+

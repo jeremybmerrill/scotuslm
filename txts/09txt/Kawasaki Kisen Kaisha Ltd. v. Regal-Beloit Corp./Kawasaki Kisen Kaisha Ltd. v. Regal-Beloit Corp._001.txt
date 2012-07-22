@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+KAWASAKI KISEN KAISHA LTD. ET AL. v. REGAL-
+
+BELOIT CORP. ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 08–1553. Argued March 24, 2010—Decided June 21, 2010*
+Respondents (cargo owners) delivered to petitioners in No. 08–1553
+(“K” Line) goods for shipping from China to inland United States des
+tinations. “K” Line issued them four through bills of lading, i.e., bills
+of lading covering both the ocean and inland portions of transport in
+a single document. As relevant here, the bills contain a “Himalaya
+Clause,” which extends the bills’ defenses and liability limitations to
+subcontractors; permit “K” Line to subcontract to complete the jour
+ney; provide that the entire journey is governed by the Carriage of
+Goods by Sea Act (COGSA), which regulates bills of lading issued by
+ocean carriers engaged in foreign trade; and designate a Tokyo court
+as the venue for any dispute. “K” Line arranged the journey, subcon
+tracting with petitioner in No. 08–1554 (Union Pacific) for rail ship
+ment in the United States. The cargo was shipped in “K” Line ves
+sels to California and then loaded onto a Union Pacific train. A
+derailment along the inland route allegedly destroyed the cargo. Ul
+timately, the Federal District Court granted the motion of Union Pa
+cific and “K” Line to dismiss the cargo owners’ suits against them
+based on the parties’ Tokyo forum-selection clause. The Ninth Cir
+cuit reversed, concluding that that clause was trumped by the Car
+mack Amendment governing bills of lading issued by domestic rail
+carriers, which applied to the inland portion of the shipment.
+Held: Because the Carmack Amendment does not apply to a shipment
+originating overseas under a single through bill of lading, the parties’
+——————
+* Together with No. 08–1554, Union Pacific Railroad Co. v. RegalBeloit Corp. et al., also on certiorari to the same Court.
+
+

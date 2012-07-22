@@ -1,0 +1,47 @@
+10
+
+BOARD OF TRUSTEES OF LELAND STANFORD JUNIOR
+UNIV. v. ROCHE MOLECULAR SYSTEMS, INC.
+Opinion of the Court
+
+(2009) (slip op., at 2, 11) (treating the phrase “identifica
+tion [papers] of another person” as meaning such items
+belonging to another person (internal quotation marks
+omitted)); Ellis v. United States, 206 U. S. 246, 259 (1907)
+(interpreting the phrase “works of the United States” to
+mean “works belonging to the United States” (internal
+quotation marks omitted)).
+That reading follows from a common definition of the
+word “of.” See Webster’s Third New International Dic
+tionary 1565 (2002) (“of” can be “used as a function word
+indicating a possessive relationship”); New Oxford Ameri
+can Dictionary 1180 (2d ed. 2005) (defining “of” as “indi
+cating an association between two entities, typically one of
+belonging”); Webster’s New Twentieth Century Dictionary
+1241 (2d ed. 1979) (defining “of” as “belonging to”).
+Stanford’s reading of the phrase “invention of the con
+tractor” to mean “all inventions made by the contractor’s
+employees” is plausible enough in the abstract; it is often
+the case that whatever an employee produces in the course
+of his employment belongs to his employer. No one would
+claim that an autoworker who builds a car while working
+in a factory owns that car. But, as noted, patent law has
+always been different: We have rejected the idea that mere
+employment is sufficient to vest title to an employee’s
+invention in the employer. Against this background, a
+contractor’s invention—an “invention of the contractor”—
+does not automatically include inventions made by the
+contractor’s employees.4
+——————
+4 The
+
+dissent suggests that “we could interpret the Bayh-Dole Act as
+ordinarily assuming, and thereby ordinarily requiring, an assignment
+of patent rights by the federally funded employee to the federally
+funded employer.” Post, at 8. That suggestion is based in large part on
+Executive Order 10096, which “governs Federal Government employee
+to-employer patent right assignments.” Post, at 9. Lest there be any
+doubt, employees of nonfederal entities that have federal funding
+contracts—like Holodniy—are not federal employees. And there is no
+
+

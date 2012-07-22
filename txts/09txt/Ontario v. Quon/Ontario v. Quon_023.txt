@@ -1,0 +1,38 @@
+2
+
+ONTARIO v. QUON
+STEVENS, J., concurring
+
+it is clear that respondent Jeff Quon, as a law enforcement
+officer who served on a SWAT Team, should have under
+stood that all of his work-related actions—including all of
+his communications on his official pager—were likely to be
+subject to public and legal scrutiny. He therefore had only
+a limited expectation of privacy in relation to this particu
+lar audit of his pager messages. Whether one applies the
+reasoning from Justice O’Connor’s opinion, JUSTICE
+SCALIA’s concurrence, or Justice Blackmun’s dissent* in
+O’Connor, the result is the same: The judgment of the
+Court of Appeals in this case must be reversed.
+
+——————
+* I do not contend that Justice Blackmun’s opinion is controlling un
+der Marks v. United States, 430 U. S. 188, 193 (1977), but neither is his
+approach to evaluating a reasonable expectation of privacy foreclosed
+by O’Connor. Indeed, his approach to that inquiry led to the conclusion,
+shared by JUSTICE SCALIA but not adopted by the O’Connor plurality,
+that an employee had a reasonable expectation of privacy in his office.
+See O’Connor v. Ortega, 480 U. S. 709, 718 (1987) (plurality opinion).
+But Justice Blackmun would have applied the Fourth Amendment’s
+warrant and probable-cause requirements to workplace investigatory
+searches, id., at 732 (dissenting opinion), whereas a majority of the
+Court rejected that view, see id., at 722, 725 (plurality opinion); id., at
+732 (SCALIA, J., concurring in judgment). It was that analysis—
+regarding the proper standard for evaluating a search when an em
+ployee has a reasonable expectation of privacy—that produced the
+opposite result in the case. This case does not implicate that debate
+because it does not involve an investigatory search. The jury concluded
+that the purpose of the audit was to determine whether the character
+limits were sufficient for work-related messages. See ante, at 6.
+
+

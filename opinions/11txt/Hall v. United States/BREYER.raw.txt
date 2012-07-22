@@ -1,0 +1,668 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+BREYER, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–875
+_________________
+
+LYNWOOD D. HALL, ET UX., PETITIONERS v. 
+
+UNITED STATES
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[May 14, 2012] 
+
+
+JUSTICE BREYER, with whom JUSTICE KENNEDY,
+JUSTICE GINSBURG, and JUSTICE KAGAN join, dissenting.
+Chapter 12 of the Bankruptcy Code helps family farmers in economic difficulty reorganize their debts without
+losing their farms. Consistent with the chapter’s purposes, Congress amended §1222(a) of the Code to enable the
+debtor to treat certain capital gains tax claims as ordinary
+unsecured claims. 11 U. S. C. §1222(a)(2)(A). The Court’s
+holding prevents the Amendment from carrying out this
+basic objective. I would read the statute differently, interpreting it in a way that, in my view, both is consistent
+with its language and allows the Amendment better to
+achieve its purposes.
+I
+
+A
+
+Chapter 12 of the Bankruptcy Code helps indebted
+family farmers (and fishermen) keep their farms by making commitments to pay those debts (in part) out of future
+income. An eligible farmer whose debts exceed his assets
+may enter Chapter 12 bankruptcy, at which point he must
+develop a detailed Plan setting forth how he will pay his
+debts. That Plan must satisfy certain statutory criteria.
+§§1221, 1222, 1225.
+A brief overview of these requirements helps to illumi-
+
+
+2
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+nate what is at stake in this case. Roughly speaking, the
+chapter requires that a holder of a secured claim receive
+the full amount of that claim up to the value of the collateral securing the loan. The claim may be paid over an
+extended period. If the claim exceeds the value of the
+collateral, the creditor is given an unsecured claim in the
+remainder. §§506(a), 1225(a)(5).
+The holder of a §507 priority claim (a category that
+includes, among other things, domestic support obligations, debts for taxes incurred before filing the bankruptcy
+petition, and administrative expenses) must receive the
+full amount of the priority claim in deferred cash payments paid over the life of the Plan. §1222(a)(2).
+The holder of an ordinary unsecured claim—i.e., an
+unsecured claim of a kind not listed in §507—may receive
+at least a partial payment from the amount left over after
+the payment of the secured and §507 priority claims. This
+amount may well be more than zero, for the Plan must
+provide that the farmer will devote all “disposable income”
+(as defined by §1225(b)(2)) or property of equivalent value
+to the repayment of his debts over the next three years
+(sometimes extended to five years). §§1222(c), 1225(b)(1).
+And that amount must prove sufficient to provide the unsecured creditor with no less than that creditor would receive in a Chapter 7 liquidation. §1225(a)(4).
+Once the farmer completes his Plan payments, he will
+receive a discharge even if his payments did not fully
+satisfy all unsecured claims. The Code does not, however,
+permit all debts to be discharged. There are categories
+of nondischargeable debts (including, for example, secured
+claims), which creditors can pursue after bankruptcy.
+§1228(a).
+For present purposes, it is important to understand that
+if the debtor owes too much money to his §507 priority
+creditors, he may not have sufficient assets or future
+income to pay all his secured creditors and his §507 prior-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+BREYER, J., dissenting
+
+ity creditors while leaving enough funds over to guarantee
+unsecured creditors the minimum amounts that Chapter
+12 requires. If so, the farmer may not be able to proceed
+under Chapter 12. See §§1225(a)(1), (6) (bankruptcy court
+will not confirm Plan unless it satisfies statutory criteria
+and debtor will be able to make good on his commitments
+under the Plan).
+It is also important to understand that the same kind of
+insufficient-assets-and-income problem might occur where
+the debtor owes the Government a large post-petition tax
+debt. In general, postpetition claims are not part of the
+bankruptcy proceedings. See 7 Norton Bankruptcy Law
+and Practice §135:14 (3d ed. 2011) (hereinafter Norton).
+Unless the Government’s debt falls within an exception to
+this general rule, bankruptcy law would leave the Government to collect its postpetition claim outside of bankruptcy as best it could. Again, the result will be to leave
+the farmer with fewer assets and income to devote to his
+Chapter 12 Plan—perhaps to the point where he cannot
+proceed under Chapter 12 at all.
+B
+With this general summary in mind, it is easier to understand the significance of the question this case presents. The question arises out of an amendment to a
+Chapter 12 provision. The provision as amended says:
+“Contents of plan
+“(a) The plan shall—
+.
+.
+.
+.
+.
+“(2) provide for the full payment, in deferred cash
+payments, of all claims entitled to priority under section 507, unless—
+“(A) the claim is a claim owed to a governmental
+unit that arises as a result of the sale, transfer, exchange, or other disposition of any farm asset used in
+the debtor’s farming operation, in which case the
+
+
+4
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+claim shall be treated as an unsecured claim that is
+not entitled to priority under section 507, but the debt
+shall be treated in such manner only if the debtor receives a discharge; or
+“(B) the holder of a particular claim agrees to a different treatment of that claim.” §1222(a) (emphasis
+added).
+The Amendment consists of subparagraph (A).
+At first blush, the Amendment seems to relegate the
+capital gains tax collector to the status of an ordinary
+unsecured creditor. See ibid. (exception applies to claims
+“owed to a governmental unit that arises as a result of the
+sale . . . of any farm asset”). If, as petitioners claim, that
+is so, then it is unlikely that such a debt could stop a
+farmer from proceeding under Chapter 12, since its treatment as an ordinary unsecured claim means that the
+farmer will not necessarily have to pay the debt in full.
+But if the Government and the majority are right, then
+the capital gains tax falls outside the category of §507
+priority claims—and therefore falls outside the scope of
+the Amendment; in fact, it falls outside the bankruptcy
+proceeding altogether. And the Government then might
+well be able to collect the debt in full outside the bankruptcy proceeding—even if doing so would reduce the
+farmer’s assets and future income to the point where the
+farmer would not be able to proceed under Chapter 12.
+The question before us is whether we must interpret the
+Amendment in a way that could bring about this result.
+C
+1
+Congress did not intend this result. In a significant
+number of instances a Chapter 12 farmer, in order to
+have enough money to pay his creditors, might have to sell
+farmland or other farm assets at a price that would give
+rise to considerable capital gains taxes (particularly if the
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+BREYER, J., dissenting
+
+family has held the land or assets for many years). If the
+resulting tax debt were treated as a §507 priority claim,
+then it might well absorb much of the money raised to the
+point where (depending upon the size of his other debts)
+the farmer might be unable to proceed under Chapter 12.
+The Amendment accordingly seeks to place the tax authorities farther back in the creditor queue, requiring them,
+like ordinary unsecured creditors, to seek payment from
+the funds that remain after the §507 priority creditors
+(and secured claim holders) have been paid.
+The Amendment’s chief legislative sponsor, Senator
+Charles Grassley, explained this well when he told the
+Senate:
+“Under current law, farmers often face a crushing tax
+liability if they need to sell livestock or land in order
+to reorganize their business affairs. . . . [H]igh taxes
+have caused farmers to lose their farms. Under the
+bankruptcy code, the I. R. S. must be paid in full for
+any tax liabilities generated during a bankruptcy reorganization. If the farmer can’t pay the I. R. S. in
+full, then he can’t keep his farm. This isn’t sound policy. Why should the I. R. S. be allowed to veto a
+farmer’s reorganization plan?
+[The Amendment]
+takes this power away from the I. R. S. by reducing
+the priority of taxes during proceedings. This will free
+up capital for investment in the farm, and help farmers stay in the business of farming.” 145 Cong. Rec.
+1113 (1999).
+See also 14A J. Mertens, Law of Federal Income Taxation
+§54:61, p. 11 (Oct. 2011 Supp.) (“This provision attempts
+to mitigate the tax expense often incurred by farmers who
+have significant taxable capital gains or depreciation recapture when their low basis farm assets are foreclosed,
+sold, or otherwise disposed of by their creditors”).
+
+
+6
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+2
+The majority, following the Government’s suggestion,
+interprets the relevant language in a way that denies the
+Amendment its intended effect. It holds that the only
+income tax claims to which §507 accords priority are
+claims for taxes due for years prior to the taxable year in
+which the farmer filed for bankruptcy. (We shall call
+these “prepetition tax claims.”) In the majority’s view,
+§507 does not cover income tax liabilities that arise during
+the year of filing or during the Chapter 12 proceedings.
+(We shall call these “postpetition tax claims.”) Ante, at 4–
+5; see Brief for United States 8 (the Amendment “provides
+farmers relief from [only] those tax claims that are otherwise entitled to priority under 11 U. S. C. 507(a)(8), namely
+pre-petition claims arising from the sale of farm assets”); Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, §705(1)(A), 119 Stat. 126 (amending
+§507(a)(8) to clarify that it only covers income tax claims
+for taxable years that end on or before the date of the
+filing of the bankruptcy petition).
+The majority then observes that the Amendment creates
+an exception only in respect to §507 priority claims.
+§1222(a) (“The plan shall . . . provide for the full payment
+. . . of all claims entitled to priority under section 507,
+unless . . . .” (Emphasis added.)). Ante, at 2. Thus, if
+(without the Amendment) §507 would not cover postpetition capital gains taxes in the first place, the Amendment
+(creating only a §507 exception) cannot affect postpetition tax claims. An exception from nothing amounts to
+nothing.
+Consequently, the majority concludes that postpetition
+tax claims fall outside the bankruptcy proceeding entirely;
+the tax authorities can collect them as if they were ordinary tax debts; and the Government’s efforts to collect
+them can lead to the very results (blocking the use of
+Chapter 12) that the Amendment sought to avoid.
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+BREYER, J., dissenting
+
+Therein lies the problem. These results are the very
+opposite of what Congress intended. Congress did not
+want to relegate to ordinary-unsecured-claim status only
+prepetition tax claims, i.e., tax claims that accrued well
+before the Chapter 12 proceedings began. Rather, Congress was concerned about the effect on the farmer of
+collecting capital gains tax debts that arose during (and
+were connected with) the Chapter 12 proceedings themselves. See 145 Cong. Rec. 1113 (the Amendment will
+have the effect of “reducing the priority of taxes during
+proceedings” (emphasis added) (statement of Sen. Grassley
+during a failed attempt to enact the Amendment)); Hearing on the Bankruptcy Reform Act of 2001 before the
+Senate Committee on the Judiciary, 107th Cong., 1st
+Sess., 121 (statement of Sen. Grassley) (“[The Amendment] also reduces the priority of capital gains tax liabilities for farm assets sold as a part of a reorganization plan”
+(emphasis added)). The majority does not deny the importance of Congress’ objective. Rather, it feels compelled
+to hold that Congress put the Amendment in the wrong
+place.
+II
+Unlike the majority, I believe the relevant Bankruptcy
+Code language can be and is better interpreted in a way
+that would give full effect to the Amendment. In particular, the relevant language is better interpreted so that in
+the absence of the Amendment §507 would cover these
+postpetition tax claims. Hence the Amendment creates an
+exception from what otherwise would amount to a §507
+priority claim. And it can take effect as written.
+It is common ground that subsection (a)(2) of §507 covers, and gives §507 priority to, “administrative expenses
+allowed under section 503(b).” §507(a)(2) (2006 ed., Supp.
+IV). It is also common ground that the relevant definitional section, namely §503(b), defines allowed “adminis-
+
+
+8
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+trative expenses” as “including . . . any tax . . . incurred by
+the estate.” §503(b)(1)(B)(i) (2006 ed.). But after this
+point, we part company.
+The majority believes that the words any tax “incurred by the estate” cannot include postpetition taxes. It
+emphasizes that tax law does not treat a Chapter 12
+bankruptcy estate as a “separate taxable entity,” i.e., as
+separate from the farmer-debtor for federal income tax
+purposes. 26 U. S. C. §§1398, 1399. This means that
+there is just one entity—the debtor—for these purposes.
+And §346 of the Bankruptcy Code makes clear that any
+state and local income tax liabilities incurred by a Chapter
+12 estate must also be taxed to the debtor. The majority
+says that these provisions mean that only the debtor, and
+not the estate, can “ ‘incu[r]’ ” taxes within the meaning of
+11 U. S. C. §503(b)(1)(B)(i). Ante, at 4–5.
+In my view, however, these tax law circumstances do
+not require the majority’s narrow reading of this Bankruptcy Code provision. That is to say, the phrase tax
+“incurred by the [bankruptcy] estate” can include a tax
+incurred by the farmer while managing his estate in the
+midst of his bankruptcy proceedings, i.e., between the time
+the farmer files for Chapter 12 bankruptcy and the time
+the bankruptcy court confirms the farmer’s Chapter 12
+Plan.
+The bankruptcy estate is in existence during this time.
+Cf. §1227(b) (property of the estate vests in the debtor
+at confirmation unless the Plan provides otherwise). The
+bankruptcy court has jurisdiction over the farmer’s assets
+during this time. See §§541, 1207; 4 Norton §61:1, at 61–2
+(§541’s “broad definition of estate property . . . centralizes
+all of the estate’s assets under the jurisdiction of the bankruptcy court”). And, as a matter of both the English language and bankruptcy principles, one can consider a tax
+liability that the farmer incurs during this period (such as
+a capital gains tax arising from a sale of a portion of his
+
+
+Cite as: 566 U. S. ____ (2012)
+
+9
+
+BREYER, J., dissenting
+
+farm assets to raise funds for creditors) as a liability that,
+in a bankruptcy sense, the estate incurs.
+The English language permits this reading of the phrase
+tax “incurred by the estate.” When the farmer, in the
+midst of Chapter 12 proceedings, sells a portion of his
+farm to raise money to help pay his creditors, one can
+say, as a matter of English, that the bankruptcy estate has
+“incurred” the associated tax, even if it is ultimately taxed
+to the farmer, just as one can say that an employee who
+makes purchases using a company credit card “incurs
+costs” for which his employer is liable.
+As a matter of general bankruptcy principles (as Congress understood them), the history of the 1978 Bankruptcy Code revision is replete with statements to the effect
+that “[t]axes arising from the operation of the estate after
+bankruptcy are entitled to priority as administrative
+expenses.” H. R. Rep. No. 95–595, p. 193 (1977) (emphasis
+added). See S. Rep. No. 95–1106, p. 13 (1978) (administrative expenses include “[t]axes incurred during the
+administration of the estate” (emphasis added)); S. Rep.
+No. 95–989, p. 66 (1978) (“In general, administrative
+expenses include taxes which the trustee incurs in administering the debtor’s estate, including taxes on capital gains
+from sales of property by the trustee and taxes on income
+earned by the estate during the case” (emphasis added));
+124 Cong. Rec. 32415 (1978) (“The amendment generally
+follows the Senate amendment in providing expressly
+that taxes incurred during the administration of the estate
+share the first priority given to administrative expenses
+generally” (emphasis added)); id., at 34014 (Senate version
+of the joint floor statement saying exactly the same).
+And importantly, as the majority concedes, ante, at 14–
+15, bankruptcy law treats taxes incurred by corporate
+debtors while they are in bankruptcy proceedings as
+“tax[es] incurred by the estate,” even though the Tax Code
+does not treat the bankruptcy estate of a corporate debtor
+
+
+10
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+as a “separate taxable entity.” See, e.g., United States v.
+Noland, 517 U. S. 535, 543 (1996) (treating Chapter 11
+corporate debtor’s postpetition taxes as administrative
+expenses); In re Pacific-Atlantic Trading Co., 64 F. 3d
+1292, 1298 (CA9 1995) (same); In re L. J. O’Neil Shoe Co.,
+64 F. 3d 1146, 1151–1152 (CA8 1995) (same); In re Hillsborough Holdings Corp., 156 B. R. 318, 320 (Bkrtcy. Ct.
+MD Fla. 1993) (“[A]dministrative expenses should include
+taxes which the trustee, and, in Chapter 11 cases, the
+Debtor-in-Possession, incurs in administering the estate,
+including taxes based on capital gains from sales of property and taxes on income earned by the estate during the
+case post-petition”).
+Even though, as the majority says, corporate bankruptcies have some special features (in particular, a trustee in
+a corporate bankruptcy is required to file the estate’s
+income tax return), it is unclear why these features should
+have any bearing on the definition of administrative
+expenses.
+See ante, at 15 (discussing 26 U. S. C.
+§6012(b)(3)). Indeed, in many corporate Chapter 11 bankruptcies, there is no trustee, in which case the debtor-inpossession, just like an individual Chapter 12 debtor, must
+file the tax return. See 11 U. S. C. §§1104, 1107 (2006 ed.
+and Supp. IV); 5 Norton §§91:3, 93:1 (typically, no trustee
+is appointed in a Chapter 11 bankruptcy, and the debtorin-possession assumes most of the duties and powers of a
+trustee, continuing in possession and managing the business until the court determines, upon request of a party in
+interest, that grounds exist for the appointment of a trustee); Holywell Corp. v. Smith, 503 U. S. 47, 54 (1992) (“As
+the assignee of ‘all’ or ‘substantially all’ of the property
+of the corporate debtors, the trustee must file the returns that the corporate debtors would have filed had the
+plan not assigned their property to the trustee” (emphasis
+added)).
+Consequently, I can find no strong bankruptcy law
+
+
+Cite as: 566 U. S. ____ (2012)
+
+11
+
+BREYER, J., dissenting
+
+reason for treating taxes incurred by a corporate debtor
+differently from those incurred by an individual Chapter
+12 debtor. To the contrary, since corporations can file
+for bankruptcy under Chapter 12, the majority’s argument
+implies that the treatment of postpetition taxes in Chapter
+12 proceedings turns on whether the debtor happens to be
+a corporation. See §101(18)(B) (2006 ed.) (defining “family
+farmer” to include certain corporations); §109(f) (“Only
+a family farmer or family fisherman with regular annual
+income may be a debtor under chapter 12”); Brief for
+United States 26, n. 9 (“[T]he estate of a corporate (as
+opposed to individual) Chapter 12 debtor . . . could be
+viewed as incurring post-petition income taxes . . . collectible as administrative expenses . . . rather than outside the
+bankruptcy case as required for an individual Chapter 12
+debtor”).
+The majority does not point to any adverse consequences
+that might arise were bankruptcy law to treat taxes incurred in administering the bankruptcy estate (i.e., taxes
+incurred after filing and before Plan confirmation) as
+administrative expenses. The effect of doing so would
+simply be to consider the debtor and estate as merged for
+purposes of determining which taxes fall within the Bankruptcy’s Code’s definition of “administrative expenses,”
+i.e., determining for that purpose that the estate may
+“incur” tax liabilities on behalf of the whole (with the ultimate liability assigned to the debtor), much like a
+married couple filing jointly, 26 U. S. C. §6013(a), or an
+affiliated group of corporations filing a consolidated tax
+return, §1501. Cf. In re Lumara Foods of America, Inc., 50
+B. R. 809, 815 (Bkrtcy. Ct. ND Ohio 1985) (describing the
+history of §503(b)(1)(B)(i) and concluding that “the elevation [of a tax] to an administrative priority is dependent
+upon when the tax accrued”). In fact, the very tax provisions that separate the estate from the individual debtor
+in Chapter 7 and Chapter 11 proceedings, §§1398 and
+
+
+12
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+1399, say that the Chapter 12 estate is not separate from
+the debtor for tax purposes—a concept consistent, not at
+odds, with merging the two for this bankruptcy purpose.
+Nor is the majority’s reading free of conceptual problems. If we read the phrase tax “incurred by the estate”
+as excluding tax liabilities incurred while the farmer is in
+Chapter 12 bankruptcy, we must read it as excluding not
+only capital gains taxes but also other kinds of taxes, such
+as an employer’s share of Social Security taxes, Medicare
+taxes, or other employee taxes. But no one claims that all
+of these taxes fall outside the scope of the term “administrative expenses.” See In re Ryan, 228 B. R. 746 (Bkrtcy.
+Ct. Ore. 1999) (treating postpetition employment taxes
+as administrative expenses in a Chapter 12 proceeding);
+IRS Chief Counsel Advice No. 200518002 (May 6, 2005),
+2005 WL 1060956 (assuming that some postpetition federal taxes can be treated as administrative expenses in a
+Chapter 12 bankruptcy).
+In fact, the Government, realizing it cannot go this far,
+concedes that many of these other (e.g., employer) taxes
+are “administrative expenses,” but only, it suggests, because they fall within a different part of the “administrative expenses” definition, namely 11 U. S. C. §503(b)(1)(A),
+which says that “administrative expenses” include “the
+actual, necessary costs and expenses of preserving the
+estate including . . . wages, salaries, and commissions for
+services rendered after the commencement of the case.”
+(Emphasis added.) See Brief for United States 27–28,
+n. 11. Employment taxes, however, do not fit easily within
+the rubric “wages, salaries, and commissions.” They may
+well be “necessary costs and expenses of preserving the
+estate.” But then so are the capital gains taxes at issue
+here.
+Finally, the majority makes what I believe to be its
+strongest argument. Ante, at 9–12. Chapter 13, it points
+out, allows individuals (typically those who are not farm-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+13
+
+BREYER, J., dissenting
+
+ers or fishermen) to reorganize their debts in much the
+same way as does Chapter 12. And there is authority
+holding that taxes on income earned between the time the
+Chapter 13 debtor files for bankruptcy and the time the
+bankruptcy Plan is confirmed are not “tax[es] incurred
+by the estate.” See In re Whall, 391 B. R. 1, 5–6 (Bkrtcy.
+Ct. Mass. 2008); In re Brown, No. 05–41071, 2006 WL
+3370867, *3 (Bkrtcy. Ct. Mass. 2006); In re Jagours, 236
+B. R. 616, 620, n. 4 (Bkrtcy. Ct. ED Tex. 1999); In re
+Gyulafia, 65 B. R. 913, 916 (Bkrtcy. Ct. Kan. 1986). Why,
+asks the majority, should the law treat Chapter 12 taxes
+differently?
+For one thing, the issue is less important in a Chapter
+13 case, for the relevant time period—between filing and
+Plan confirmation—is typically very short. Compare H. R.
+Rep. No. 95–595, at 276 (“most chapter 13 estates will only
+remain open for 1 or 2 months until confirmation of the
+plan”), with Brief for Neil E. Harl et al. as Amici Curiae
+32–33 (survey of Chapter 12 bankruptcies found the average time from filing to confirmation in a district ranged
+from nearly five months to over three years). See also 7
+Norton §122:14, at 122–27 (“In Chapter 13, the plan must
+be filed within 15 days after the filing of the petition,
+unless the time is extended for cause. A Chapter 12 Plan
+must be filed no later than 90 days after the order for
+relief, unless the court finds that an extension is substantially justified” (footnote omitted)).
+For another, the issue arises differently in a Chapter 13
+case. That chapter, unlike Chapter 12, contains a special
+provision that permits the Government to seek §507 priority treatment of all taxes incurred while the bankruptcy
+case is pending. §1305 (Government can file proof of claim
+to have postpetition taxes treated as if they had arisen
+before the petition was filed).
+Finally, if uniformity of interpretation between these
+two chapters is critical, I do not see the serious harm in
+
+
+14
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+treating the relevant taxes as “administrative expenses”
+in both Chapter 12 and Chapter 13 cases rather than in
+neither. The majority apparently believes that this would
+render §1305 (the provision permitting the Government to
+seek §507 priority treatment) superfluous. Ante, at 10–12.
+But that is not so. This interpretation would simply limit
+the scope of operation of §1305 to the period of time after
+the Chapter 13 Plan is confirmed but while the Chapter 13
+case is still pending. And that is likely to be a significant
+period of time relative to the preconfirmation period. See
+H. R. Rep. No. 95–595, at 276 (“[M]ost chapter 13 estates
+will only remain open for 1 or 2 months until confirmation
+of the plan”); §§1325(b)(1), (4) (debtor must commit all his
+projected disposable income over a 3-year period (sometimes extended to five) to the Plan, unless all unsecured
+claims can be paid off over a shorter period). The greatest
+Chapter 13 harm this interpretation could cause is to require the Government to pursue those tax liabilities as
+§507 priority administrative expense claims (rather than
+allow it to choose between §507 priority treatment and
+pursuing those claims outside bankruptcy) during the
+relatively brief period of time between the filing of a petition and the Plan’s confirmation.
+In sum, I would treat a postpetition/preconfirmation tax
+liability as a tax “incurred by the estate,” hence as an
+“administrative expense,” hence as a “clai[m] entitled to
+priority under section 507, unless . . . ,” hence as a claim
+falling within the scope of the Amendment. Doing so
+would allow the Amendment to take effect as Congress
+intended.
+III
+The Government argues that, even if tax liabilities
+arising during the bankruptcy proceedings are “administrative expenses,” they still do not fall within the Amendment’s scope. It says that neither the Amendment nor
+
+
+Cite as: 566 U. S. ____ (2012)
+
+15
+
+BREYER, J., dissenting
+
+anything else in §1222(a) provides for the payment of
+administrative expenses. Rather, that section and its
+Amendment provide only for the payment of “claims.”
+§1222(a)(2) (“The plan shall . . . provide for the full payment . . . of all claims entitled to priority under section
+507, unless . . .” (emphasis added)). And administrative
+expenses, the Government says, like all debts that are
+incurred postpetition, are not “claims.”
+The Government finds support for its view in the fact
+that that §1222 deals with the contents of a “plan,” while a
+later section, §1227(a), says that the provisions of a “confirmed plan bind the debtor, each creditor, [and certain
+others of no relevance here].” (Emphasis added.) This
+is because the Code defines “creditor” to include only holders of pre-petition claims, thus excluding holders of
+post-petition claims, such as administrative expenses.
+§101(10).
+The Government points out that a different Code section, namely §1226(b)(1), provides for the payment of
+administrative expenses. That section says that “[b]efore
+or at the time of each payment to creditors under the plan,
+there shall be paid . . . any unpaid claim of the kind
+specified in section 507(a)(2),” namely “administrative expenses.” And Congress did not amend §1226(b)(1); it
+amended the earlier section, §1222(a).
+In short, the Government says, the Plan only covers
+those §507 priority “expenses and claims” that are described as “claims” and can be held by “creditors.” Section
+1226(b)(1), not §1222, deals with administrative expenses.
+The bottom line of the Government’s chain of logic is, once
+again, that Congress put the Amendment in the wrong
+place.
+I concede that there is some text and legislative history
+that supports the Government’s view that the word
+“claim” in §1222(a) does not include “administrative expenses.” See, e.g., §507(a) (referring to “expenses and
+
+
+16
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+claims” as if they are separate categories); S. Rep. No. 95–
+1106, at 20 (“The committee amendments contain several
+changes designed to clarify the distinction between a
+‘claim’ (which generally relates to a debt incurred before
+the bankruptcy petition is filed) and an administrative
+expense (which is an expense incurred by the trustee after
+the filing of the petition)”).
+But the language does not demand the Government’s
+reading. For the Code also uses the word “claim” to cover
+both prepetition and postpetition claims (such as administrative expenses). E.g., §101(5)(A) (defining a claim as a
+“right to payment”); §726(b) (2006 ed., Supp. IV) (referring to “claims” that include administrative expenses). Indeed, the very section that the Government says permits
+separate collection of administrative expenses, namely
+§1226(b)(1), refers to “any unpaid claim” for administrative expenses. (Emphasis added.) And one can easily read
+that section as setting forth when, not whether, administrative expenses will be paid under the Plan (i.e., as specifying that the Plan must provide for the payment of administrative expenses before payments to other creditors
+are made).
+Thus, reading §1222(a)(2)’s reference to
+“claims” as including administrative expenses need not
+render §1226(b)(1) surplusage.
+What about §1227(a), which refers only to “creditor[s]”?
+One must read it in conjunction with §1228(a), which
+provides that once the debtor has completed all payments
+under the Plan, “the court shall grant the debtor a discharge of [1] all debts provided for by the plan[,] [2] allowed under section 503 of this title [which describes ‘administrative expenses’] or [3] disallowed under section 502
+of this title . . . .” (Emphasis added.) (The first few words
+of §1227(a)—“[e]xcept as provided in section 1228(a)”—
+explain why I say “must”; the comma comes from 7 Norton
+§137:2, at 137–3, n. 1, which says that its omission was a
+typographical error). Thus, by here referring to “adminis-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+17
+
+BREYER, J., dissenting
+
+trative expenses” (through its reference to §503), Chapter
+12 makes clear that at least some postpetition claims are
+to be discharged once the debtor has completed his payments under the Plan. That fact, in turn, suggests that
+the Plan may provide for their payment and that the
+holders of such claims may be bound by the terms of a
+confirmed Plan.
+The upshot is that the Government’s second argument
+presents a plausible, but not the only plausible, interpretation of the Code’s language. And the Government’s
+second argument, like the majority’s argument, has a
+problem, namely that it reduces Congress’ Amendment to
+rubble. For that reason I believe it does not offer the
+better interpretation of the relevant language.
+IV
+In sum the phrase tax “incurred by the estate” in
+§503(b) (the “administrative expense” section) and the
+word “claim” in §1222(a) are open to different interpretations. Each of the narrower interpretations advanced by
+the Government or adopted by the Court would either
+exclude postpetition taxes from the phrase taxes “incurred
+by the estate” or exclude all postpetition debts, including
+administrative expenses, from the word “claim.” In these
+ways, these interpretations would, as I have said, prevent
+the Amendment from accomplishing its basic purpose.
+A broader interpretation of the word “claim” may allow
+the Plan to include certain postpetition debts. This, taken
+together with a broader interpretation of the phrase tax
+“incurred by the estate,” prevents the Government from
+collecting postpetition/preconfirmation tax debts outside of
+Chapter 12, requiring it to assume a place in the creditor
+queue. Together these broader interpretations permit the
+Amendment to take effect as intended.
+I find this last-mentioned consideration determinative.
+It seems to me unlikely that Congress, having worked on
+
+
+18
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+revisions of the Code for many years with the help of
+Bankruptcy experts, and having considered the Amendment several times over a period of years, would have
+made the drafting mistake that the Government and the
+majority necessarily imply that it made. Moreover, I believe it important that courts interpreting statutes make
+significant efforts to allow the provisions of congressional
+statutes to function in the ways that that the elected
+branch of Government likely intended and for which it
+can be held democratically accountable.
+For these reasons, with respect, I dissent.
+
+

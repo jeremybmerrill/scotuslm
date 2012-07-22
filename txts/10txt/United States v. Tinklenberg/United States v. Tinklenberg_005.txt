@@ -1,0 +1,51 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–1498
+_________________
+
+UNITED STATES, PETITIONER v. JASON LOUIS 
+
+TINKLENBERG 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SIXTH CIRCUIT
+
+[May 26, 2011] 
+
+
+JUSTICE BREYER delivered the opinion of the Court.
+The Speedy Trial Act of 1974, 18 U. S. C. §3161 et seq.,
+provides that in “any case in which a plea of not guilty is
+entered, the trial . . . shall commence within seventy days”
+from the later of (1) the “filing date” of the information or
+indictment or (2) the defendant’s initial appearance before
+a judicial officer (i.e., the arraignment). §3161(c)(1). The
+Act goes on to list a set of exclusions from the 70-day
+period, including “delay resulting from any pretrial mo
+tion, from the filing of the motion through the conclusion
+of the hearing on, or other prompt disposition of, such
+motion.” §3161(h)(1)(D) (2006 ed., Supp. III) (emphasis
+added).
+The United States Court of Appeals for the Sixth Circuit
+held in this case that a pretrial motion falls within this
+exclusion only if it “actually cause[s] a delay, or the expec
+tation of a delay, of trial.” 579 F. 3d 589, 598 (2009). In
+our view, however, the statutory exclusion does not con
+tain this kind of causation requirement. Rather, the filing
+of a pretrial motion falls within this provision irrespective
+of whether it actually causes, or is expected to cause, delay
+
+

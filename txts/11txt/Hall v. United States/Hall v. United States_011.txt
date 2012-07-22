@@ -1,0 +1,42 @@
+8
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+the estate is not separately taxable in Chapter 13 (and
+now Chapter 12) cases.
+In 2005, Congress in BAPCPA amended §346 and crys­
+tallized the connection between the Bankruptcy Code and
+the IRC. Section 346 now expressly aligns its assignment
+of state or local taxes with the rules for federal taxes,
+providing in relevant part:
+“(a) Whenever the Internal Revenue Code of 1986
+provides that a separate taxable estate or entity is
+created in a case concerning a debtor under this title,
+and the income . . . of such estate shall be taxed to or
+claimed by the estate, a separate taxable estate is also
+created for purposes of any State and local law impos­
+ing a tax on or measured by income and such income
+. . . shall be taxed to or claimed by the estate and may
+not be taxed to or claimed by the debtor.
+“(b) Whenever the Internal Revenue Code of 1986
+provides that no separate taxable estate shall be cre­
+ated in a case concerning a debtor under this title,
+and the income . . . of an estate shall be taxed to or
+claimed by the debtor, such income . . . shall be taxed
+to or claimed by the debtor under a State or local law
+imposing a tax on or measured by income and may not
+be taxed to or claimed by the estate.” (Emphasis added.)
+Thus, whenever the estate is separately taxable under
+federal income tax law, that “is also” the case under state
+or local income tax law, §346(a), and vice versa, §346(b).
+And given that the Bankruptcy Code instructs that the as­
+signment of state or local tax liabilities shall turn on the
+IRC’s separate taxable entity rules, there is parity in
+turning to such rules in assigning federal tax liabilities.
+In the same Act, Congress added §1222(a)(2)(A). Section
+1222(a)(2)(A) carves out an exception to the ordinary
+priority classification scheme. But §1222(a)(2)(A) did not
+purport to redefine which claims are otherwise entitled to
+
+

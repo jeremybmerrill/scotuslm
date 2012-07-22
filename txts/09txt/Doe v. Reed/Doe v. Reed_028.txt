@@ -1,0 +1,43 @@
+10
+
+DOE v. REED
+ALITO, J., concurring
+
+Cal. Govt. Code Ann. §6253.5 (West 2008). It is thus
+entirely possible for a State to keep signatory information
+private and maintain a referendum and initiative process
+free from fraud.
+Finally, Washington could easily and cheaply employ
+alternative mechanisms for protecting against fraud and
+mistake that would be far more protective of circulators’
+and signers’ First Amendment rights. For example, the
+Washington attorney general represented to us at oral
+argument that “the Secretary of State’s first step after
+receiving submitted petitions is to take them to his archiv
+ing section and to have them digitized.” Tr. of Oral Arg.
+30. With a digitized list, it should be relatively easy for
+the secretary to check for duplicate signatures on a refer
+endum petition. And given that the secretary maintains a
+“centralized, uniform, interactive computerized statewide
+voter registration list that contains the name and registra
+tion information of every registered voter in the state,”
+Wash. Rev. Code Ann. §29A.08.125(1) (West Supp. 2010),
+the secretary could use a computer program to cross-check
+the names and addresses on the petition with the names
+and addresses on the voter registration roles, thus ensur
+ing the accuracy and legitimacy of each signature.
+Additionally, using the digitized version of the referen
+dum petition, the State could set up a simple system for
+Washington citizens to check whether their names have
+been fraudulently signed to a petition. For example, on
+his Web site, the secretary maintains an interface that
+allows voters to confirm their voter registration informa
+tion simply by inputting their name and date of birth. See
+http://wei.secstate.wa.gov/osos/VoterVault/Pages/MyVote.a
+spx. Presumably the secretary could set up a similar
+interface for referendum petitions. Indeed, the process
+would seem to be all the more simple given that Washing
+ton requires a “unique identifier [to] be assigned to each
+registered voter in the state.” §29A.08.125(4).
+
+

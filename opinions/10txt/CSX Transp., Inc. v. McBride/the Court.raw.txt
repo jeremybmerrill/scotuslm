@@ -1,0 +1,823 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–235
+_________________
+
+CSX TRANSPORTATION, INC., PETITIONER v. 
+
+ROBERT MCBRIDE 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SEVENTH CIRCUIT
+
+[June 23, 2011] 
+
+
+JUSTICE GINSBURG delivered the opinion of the Court,
+except as to Part III–A.*
+This case concerns the standard of causation applicable
+in cases arising under the Federal Employers’ Liability
+Act (FELA), 45 U. S. C. §51 et seq. FELA renders rail­
+roads liable for employees’ injuries or deaths “resulting in
+whole or in part from [carrier] negligence.” §51. In accord
+with the text and purpose of the Act, this Court’s decision
+in Rogers v. Missouri Pacific R. Co., 352 U. S. 500 (1957),
+and the uniform view of federal appellate courts, we con­
+clude that the Act does not incorporate “proximate cause”
+standards developed in nonstatutory common-law tort
+actions. The charge proper in FELA cases, we hold, sim­
+ply tracks the language Congress employed, informing
+juries that a defendant railroad caused or contributed to a
+plaintiff employee’s injury if the railroad’s negligence
+played any part in bringing about the injury.
+I
+Respondent Robert McBride worked as a locomotive
+——————
+* JUSTICE THOMAS joins all but Part III–A of this opinion.
+
+
+2
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+engineer for petitioner CSX Transportation, Inc., which
+operates an interstate system of railroads. On April 12,
+2004, CSX assigned McBride to assist on a local run be­
+tween Evansville, Indiana, and Mount Vernon, Illinois.
+The run involved frequent starts and stops to add and
+remove individual rail cars, a process known as “switch­
+ing.” The train McBride was to operate had an unusual
+engine configuration: two “wide-body” engines followed
+by three smaller conventional cabs. McBride protested
+that the configuration was unsafe, because switching with
+heavy, wide-body engines required constant use of a hand­
+operated independent brake. But he was told to take the
+train as is. About ten hours into the run, McBride injured
+his hand while using the independent brake. Despite two
+surgeries and extensive physical therapy, he never re­
+gained full use of the hand.
+Seeking compensation for his injury, McBride com­
+menced a FELA action against CSX in the U. S. District
+Court for the Southern District of Illinois. He alleged that
+CSX was twice negligent: First, the railroad required him
+to use equipment unsafe for switching; second, CSX failed
+to train him to operate that equipment. App. 24a–26a. A
+verdict for McBride would be in order, the District Court
+instructed, if the jury found that CSX “was negligent” and
+that the “negligence caused or contributed to” McBride’s
+injury. Id., at 23a.
+CSX sought additional charges that the court declined to
+give. One of the rejected instructions would have required
+“the plaintiff [to] show that . . . the defendant’s negligence
+was a proximate cause of the injury.” Id., at 34a. Another
+would have defined “proximate cause” to mean “any cause
+which, in natural or probable sequence, produced the
+injury complained of,” with the qualification that a proxi­
+mate cause “need not be the only cause, nor the last or
+nearest cause.” Id., at 32a.
+Instead, the District Court employed, as McBride re­
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+quested, the Seventh Circuit’s pattern instruction for
+FELA cases, which reads:
+“Defendant ‘caused or contributed to’ Plaintiff’s injury
+if Defendant’s negligence played a part—no matter
+how small—in bringing about the injury. The mere
+fact that an injury occurred does not necessarily mean
+that the injury was caused by negligence.” Id., at 31a.
+For this instruction, the Seventh Circuit relied upon this
+Court’s decision in Rogers v. Missouri Pacific R. Co., 352
+U. S. 500 (1957). The jury returned a verdict for McBride,
+setting total damages at $275,000, but reducing that
+amount by one-third, the percentage the jury attributed to
+plaintiff’s negligence. App. 29a.
+CSX appealed to the Seventh Circuit, renewing its ob­
+jection to the failure to instruct on “proximate cause.”
+Before the appellate court, CSX “maintain[ed] that the
+correct definition of proximate causation is a ‘direct rela­
+tion between the injury asserted and the injurious conduct
+alleged.’ ” 598 F. 3d 388, 393, n. 3 (2010) (quoting Holmes
+v. Securities Investor Protection Corporation, 503 U. S.
+258, 268 (1992)). A properly instructed jury, CSX con­
+tended, might have found that the chain of causation was
+too indirect, or that the engine configuration was unsafe
+because of its propensity to cause crashes during switch­
+ing, not because of any risk to an engineer’s hands. Brief
+for Defendant-Appellant in No. 08–3557 (CA7), pp. 49–52.
+The Court of Appeals approved the District Court’s
+instruction and affirmed the judgment entered on the
+jury’s verdict. Rogers had “relaxed the proximate cause
+requirement” in FELA cases, the Seventh Circuit con­
+cluded, a view of Rogers “echoed by every other court of
+appeals.” 598 F. 3d, at 399. While acknowledging that a
+handful of state courts “still appl[ied] traditional formula­
+tions of proximate cause in FELA cases,” id., at 404, n. 7,
+the Seventh Circuit said it could hardly declare erroneous
+
+
+4
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+an instruction that “simply paraphrase[d] the Supreme
+Court’s own words in Rogers,” id., at 406.
+We granted certiorari to decide whether the causation
+instruction endorsed by the Seventh Circuit is proper in
+FELA cases. 562 U. S. ___ (2010). That instruction does
+not include the term “proximate cause,” but does tell the
+jury defendant’s negligence must “pla[y] a part—no matter
+how small—in bringing about the [plaintiff’s] injury.” App.
+31a.
+II 
+
+A
+
+The railroad business was exceptionally hazardous at
+the dawn of the twentieth century. As we have recounted,
+“the physical dangers of railroading . . . resulted in the
+death or maiming of thousands of workers every year,”
+Consolidated Rail Corporation v. Gottshall, 512 U. S. 532,
+542 (1994), including 281,645 casualties in the year 1908
+alone, S. Rep. No. 61–432, p. 2 (1910). Enacted that same
+year in an effort to “shif[t] part of the human overhead of
+doing business from employees to their employers,” Gott
+shall, 512 U. S., at 542 (internal quotation marks omit­
+ted), FELA prescribes:
+“Every common carrier by railroad . . . shall be li­
+able in damages to any person suffering injury while
+he is employed by such carrier . . . for such injury or
+death resulting in whole or in part from the negligence
+of any of the officers, agents, or employees of such car­
+rier . . . .” 45 U. S. C. §51 (emphasis added).
+Liability under FELA is limited in these key respects:
+Railroads are liable only to their employees, and only for
+injuries sustained in the course of employment. FELA’s
+language on causation, however, “is as broad as could be
+framed.” Urie v. Thompson, 337 U. S. 163, 181 (1949).
+Given the breadth of the phrase “resulting in whole or in
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+part from the [railroad’s] negligence,” and Congress’ “hu­
+manitarian” and “remedial goal[s],” we have recognized
+that, in comparison to tort litigation at common law, “a
+relaxed standard of causation applies under FELA.”
+Gottshall, 512 U. S., at 542–543. In our 1957 decision in
+Rogers, we described that relaxed standard as follows:
+“Under [FELA] the test of a jury case is simply
+whether the proofs justify with reason the conclusion
+that employer negligence played any part, even the
+slightest, in producing the injury or death for which
+damages are sought.” 352 U. S., at 506.
+As the Seventh Circuit emphasized, the instruction the
+District Court gave in this case, permitting a verdict for
+McBride if “[railroad] negligence played a part—no matter
+how small—in bringing about the injury,” tracked the
+language of Rogers. If Rogers prescribes the definition of
+causation applicable under FELA, that instruction was
+plainly proper. See Patterson v. McLean Credit Union,
+491 U. S. 164, 172 (1989) (“Considerations of stare decisis
+have special force in the area of statutory interpretation
+. . . .”). While CSX does not ask us to disturb Rogers, the
+railroad contends that lower courts have overread that
+opinion. In CSX’s view, shared by the dissent, post, at 9–
+10, Rogers was a narrowly focused decision that did not
+touch, concern, much less displace common-law formula­
+tions of “proximate cause.”
+Understanding this argument requires some back­
+ground. The term “proximate cause” is shorthand for a
+concept: Injuries have countless causes, and not all should
+give rise to legal liability. See W. Keeton, D. Dobbs,
+R. Keeton, & D. Owen, Prosser and Keeton on Law of
+Torts §42, p. 273 (5th ed. 1984) (hereinafter Prosser and
+Keeton). “What we . . . mean by the word ‘proximate,’ ” one
+noted jurist has explained, is simply this: “[B]ecause of
+convenience, of public policy, of a rough sense of justice,
+
+
+6
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+the law arbitrarily declines to trace a series of events
+beyond a certain point.” Palsgraf v. Long Island R. Co.,
+248 N. Y. 339, 352, 162 N. E. 99, 103 (1928) (Andrews, J.,
+dissenting). Common-law “proximate cause” formulations
+varied, and were often both constricted and difficult to
+comprehend. See T. Cooley, Law of Torts 73–77, 812–813
+(2d ed. 1888) (describing, for example, prescriptions pre­
+cluding recovery in the event of any “intervening” cause or
+any contributory negligence). Some courts cut off liability
+if a “proximate cause” was not the sole proximate cause.
+Prosser and Keeton §65, p. 452 (noting “tendency . . . to
+look for some single, principal, dominant, ‘proximate’
+cause of every injury”). Many used definitions resembling
+those CSX proposed to the District Court or urged in the
+Court of Appeals. See supra, at 2–3 (CSX proposed key
+words “natural or probable” or “direct” to describe required
+relationship between injury and alleged negligent con­
+duct); Prosser and Keeton §43, pp. 282–283.
+Drawing largely on Justice Souter’s concurring opinion
+in Norfolk Southern R. Co. v. Sorrell, 549 U. S. 158, 173
+(2007), CSX contends that the Rogers “any part” test
+displaced only common-law restrictions on recovery for
+injuries involving contributory negligence or other “multi­
+ple causes.” Brief for Petitioner 35 (internal quotation
+marks omitted).1 Rogers “did not address the requisite
+directness of a cause,” CSX argues, hence that question
+continues to be governed by restrictive common-law for­
+mulations. Ibid.
+B
+To evaluate CSX’s argument, we turn first to the facts of
+Rogers. The employee in that case was injured while
+burning off weeds and vegetation that lined the defen­
+——————
+1 In Sorrell, the Court held that the causation standard was the same
+for railroad negligence and employee contributory negligence, but said
+nothing about what that standard should be. 549 U. S., at 164–165.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+dant’s railroad tracks. A passing train had fanned the
+flames, which spread from the vegetation to the top of a
+culvert where the employee was standing. Attempting to
+escape, the employee slipped and fell on the sloping gravel
+covering the culvert, sustaining serious injuries. 352
+U. S., at 501–503. A Missouri state-court jury returned a
+verdict for the employee, but the Missouri Supreme Court
+reversed. Even if the railroad had been negligent in fail­
+ing to maintain a flat surface, the court reasoned, the
+employee was at fault because of his lack of attention to
+the spreading fire. Rogers v. Thompson, 284 S. W. 2d
+467, 472 (Mo. 1955). As the fire “was something extraordi­
+nary, unrelated to, and disconnected from the incline of
+the gravel,” the court felt “obliged to say [that] plaintiff’s
+injury was not the natural and probable consequence of
+any negligence of defendant.” Ibid.
+We held that the jury’s verdict should not have been
+upset. Describing two potential readings of the Missouri
+Supreme Court’s opinion, we condemned both. First, the
+court erred in concluding that the employee’s negligence
+was the “sole” cause of the injury, for the jury reasonably
+found that railroad negligence played a part. Rogers, 352
+U. S., at 504–505. Second, the court erred insofar as it
+held that the railroad’s negligence was not a sufficient
+cause unless it was the more “probable” cause of the in­
+jury. Id., at 505. FELA, we affirmed, did not incorporate
+any traditional common-law formulation of “proximate
+causation[,] which [requires] the jury [to] find that the
+defendant’s negligence was the sole, efficient, producing
+cause of injury.” Id., at 506. Whether the railroad’s negli­
+gent act was the “immediate reason” for the fall, we added,
+was “an irrelevant consideration.” Id., at 503. We then
+announced the “any part” test, id., at 506, and reiterated it
+several times. See, e.g., id., at 507 (“narro[w]” and “single
+inquiry” is whether “negligence of the employer played
+any part at all” in bringing about the injury); id., at 508
+
+
+8
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+(FELA case “rarely presents more than the single question
+whether negligence of the employer played any part, how­
+ever small, in the injury”).2
+Rogers is most sensibly read as a comprehensive state­
+ment of the FELA causation standard. Notably, the Mis­
+souri Supreme Court in Rogers did not doubt that a FELA
+injury might have multiple causes, including railroad
+negligence and employee negligence. See 284 S. W. 2d, at
+472 (reciting FELA’s “in whole or in part” language). But
+the railroad’s part, according to the state court, was too
+indirect, not sufficiently “natural and probable,” to estab­
+lish the requisite causation. Ibid. That is the very reason­
+ing the Court rejected in Rogers. It is also the reasoning
+CSX asks us to resurrect.
+Our understanding is informed by the statutory history
+and precedent on which Rogers drew. Before FELA was
+enacted, the “harsh and technical” rules of state common
+law had “made recovery difficult or even impossible” for in­
+jured railroad workers. Trainmen v. Virginia ex rel. Vir
+ginia State Bar, 377 U. S. 1, 3 (1964). “[D]issatisfied with
+the [railroad’s] common-law duty,” Congress sought to “sup­
+plan[t] that duty with [FELA’s] far more drastic duty of
+paying damages for injury or death at work due in
+whole or in part to the employer’s negligence.” Rogers, 352
+U. S., at 507. Yet, Rogers observed, the Missouri court
+and other lower courts continued to ignore FELA’s “sig­
+nifican[t]” departures from the “ordinary common-law
+——————
+2 In face of Rogers’ repeated admonition that the “any part . . . in pro­
+ducing the injury” test was the single test for causation under FELA,
+the dissent speculates that Rogers was simply making a veiled ref­
+erence to a particular form of modified comparative negligence, i.e.,
+allowing plaintiff to prevail on showing that her negligence was “slight”
+while the railroad’s was “gross.” Post, at 9–10. That is not what Rogers
+conveyed. To repeat, Rogers instructed that “the test of a jury case
+[under FELA] is simply whether . . . employer negligence played any
+part, even the slightest, in producing the injury.” 352 U. S., at 506.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+negligence” scheme, to reinsert common-law formulations
+of causation involving “probabilities,” and consequently to
+“deprive litigants of their right to a jury determination.”
+Id., at 507, 509–510. Aiming to end lower court disregard of congressional purpose, the Rogers Court repeatedly
+called the “any part” test the “single” inquiry determining
+causation in FELA cases. Id., at 507, 508 (emphasis
+added). In short, CSX’s argument that the Rogers stan­
+dard concerns only division of responsibility among multi­
+ple actors, and not causation more generally, misses the
+thrust of our decision in that case.
+Tellingly, in announcing the “any part . . . in producing
+the injury” test, Rogers cited Coray v. Southern Pacific
+Co., 335 U. S. 520 (1949), a decision emphasizing that
+FELA had parted from traditional common-law formula­
+tions of causation. What qualified as a “proximate” or
+legally sufficient cause in FELA cases, Coray had ex­
+plained, was determined by the statutory phrase “result­
+ing in whole or in part,” which Congress “selected . . . to fix
+liability” in language that was “simple and direct.” Id., at
+524. That straightforward phrase, Coray observed, was
+incompatible with “dialectical subtleties” that common-law
+courts employed to determine whether a particular cause
+was sufficiently “substantial” to constitute a proximate
+cause. Id., at 523–524.3
+Our subsequent decisions have confirmed that Rogers
+——————
+3 The
+
+dissent, while recognizing “the variety of formulations” courts
+have employed to define “proximate cause,” post, at 2, does not say
+which of the many formulations it would declare applicable in FELA
+cases. We regard the phrase “negligence played a part—no matter how
+small,” see Rogers, 352 U. S., at 508, as synonymous with “negligence
+played any part, even the slightest,” see id., at 506, and the phrase “in
+producing the injury” as synonymous with the phrase “in bringing
+about the injury.” We therefore approve both the Seventh Circuit’s
+instruction and the “any part, even the slightest, in producing the
+injury” formulation. The host of definitions of proximate cause, in
+contrast, are hardly synonymous.
+
+
+10
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+announced a general standard for causation in FELA
+cases, not one addressed exclusively to injuries involving multiple potentially cognizable causes. The very day
+Rogers was announced, we applied its “any part” instruc­
+tion in a case in which the sole causation issue was the
+directness or foreseeability of the connection between the
+carrier’s negligence and the plaintiff’s injury. See Fergu
+son v. Moore-McCormack Lines, Inc., 352 U. S. 521, 523–
+524 (1957) (plurality opinion).
+A few years later, in Gallick v. Baltimore & Ohio R. Co.,
+372 U. S. 108 (1963), we held jury findings for the plaintiff
+proper in a case presenting the following facts: For years,
+the railroad had allowed a fetid pool, containing “dead and
+decayed rats and pigeons,” to accumulate near its right-of­
+way; while standing near the pool, the plaintiff-employee
+suffered an insect bite that became infected and required
+amputation of his legs. Id., at 109. The appellate court
+had concluded there was insufficient evidence of causation
+to warrant submission of the case to the jury. Id., at
+112. We reversed, reciting the causation standard Rogers
+announced. Id., at 116–117, 120–121. See also Crane v.
+Cedar Rapids & Iowa City R. Co., 395 U. S. 164, 166–167
+(1969) (contrasting suit by railroad employee, who “is not
+required to prove common-law proximate causation but
+only that his injury resulted ‘in whole or in part’ from the
+railroad’s violation,” with suit by nonemployee, where
+“definition of causation . . . [is] left to state law”); Gott
+shall, 512 U. S., at 543 (“relaxed standard of causation
+applies under FELA”).4
+——————
+4 CSX and the dissent observe, correctly, that some of our pre-Rogers
+decisions invoked common-law formulations of proximate cause. See,
+e.g., Brady v. Southern R. Co., 320 U. S. 476, 483 (1943) (injury must
+be “the natural and probable consequence of the negligence” (internal
+quotation marks omitted)). Indeed, the “natural or probable” charge
+that CSX requested was drawn from Brady, which in turn relied on a
+pre-FELA case, Milwaukee & St. Paul R. Co. v. Kellogg, 94 U. S. 469,
+
+
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+In reliance on Rogers, every Court of Appeals that re­
+views judgments in FELA cases has approved jury in­
+structions on causation identical or substantively equiva­
+lent to the Seventh Circuit’s instruction.5 Each appellate
+court has rejected common-law formulations of proximate
+cause of the kind CSX requested in this case. See supra,
+at 2–3. The current model federal instruction, recognizing
+that the “FELA causation standard is distinct from the
+usual proximate cause standard,” reads:
+“The fourth element [of a FELA action] is whether an
+injury to the plaintiff resulted in whole or part from
+the negligence of the railroad or its employees or
+agents. In other words, did such negligence play any
+——————
+475 (1877). But other pre-Rogers FELA decisions invoked no common­
+law formulations. See, e.g., Union Pacific R. Co. v. Huxoll, 245 U. S.
+535, 537 (1918) (approving instruction asking whether negligence “con­
+tribute[d] ‘in whole or in part’ to cause the death”); Coray v. Southern Pacific Co., 335 U. S. 520, 524 (1949) (rejecting use of common-law
+“dialectical subtleties” concerning the term “proximate cause,” and ap­
+proving use of “simple and direct” statutory language). We rely on
+Rogers not because “time begins in 1957,” post, at 7, but because Rogers
+stated a clear instruction, comprehensible by juries: Did the railroad’s
+“negligence pla[y] any part, even the slightest, in producing [the plain­
+tiff ’s] injury”? 352 U. S., at 506. In so instructing, Rogers replaced the
+array of formulations then prevalent. We have repeated the Rogers
+instruction in subsequent opinions, and lower courts have employed it
+for over 50 years. To unsettle the law as the dissent urges would show
+scant respect for the principle of stare decisis.
+5 See Moody v. Maine Central R. Co., 823 F. 2d 693, 695–696 (CA1
+1987); Ulfik v. Metro-North Commuter R., 77 F. 3d 54, 58 (CA2 1996);
+Hines v. Consolidated R. Corp., 926 F. 2d 262, 267 (CA3 1991); Her
+nandez v. Trawler Miss Vertie Mae, Inc., 187 F. 3d 432, 436 (CA4 1999);
+Nivens v. St. Louis Southwestern R. Co., 425 F. 2d 114, 118 (CA5 1970);
+Tyree v. New York Central R. Co., 382 F. 2d 524, 527 (CA6 1967);
+Nordgren v. Burlington No. R. Co., 101 F. 3d 1246, 1249 (CA8 1996);
+Claar v. Burlington No. R. Co., 29 F. 3d 499, 503 (CA9 1994); Summers
+v. Missouri Pacific R. System, 132 F. 3d 599, 606–607 (CA10 1997); SeaLand Serv., Inc., v. Sellan, 231 F. 3d 848, 851 (CA11 2000); Little v.
+National R. Passenger Corp., 865 F. 2d 1329 (CADC 1988) (table).
+
+
+12
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+part, even the slightest, in bringing about an injury to
+the plaintiff?” 5 L. Sand et al., Modern Federal Jury
+Instructions–Civil ¶89.02, pp. 89–38, 89–40, and com­
+ment (2010) (hereinafter Sand).
+Since shortly after Rogers was decided, charges of this
+order have been accepted as the federal model. See W.
+Mathes & E. Devitt, Federal Jury Practice and Instruc­
+tions §84.12, p. 517 (1965) (under FELA, injury “is proxi­
+mately caused by” the defendant’s negligence if the negli­
+gence “played any part, no matter how small, in bringing
+about or actually causing the injury”).6 The overwhelming
+majority of state courts7 and scholars8 similarly compre­
+hend FELA’s causation standard.
+In sum, the understanding of Rogers we here affirm “has
+been accepted as settled law for several decades.” IBP,
+Inc. v. Alvarez, 546 U. S. 21, 32 (2005). “Congress has had
+[more than 50] years in which it could have corrected our
+decision in [Rogers] if it disagreed with it, and has not
+chosen to do so.” Hilton v. South Carolina Public Rail
+ways Comm’n, 502 U. S. 197, 202 (1991). Countless judges
+have instructed countless juries in language drawn from
+Rogers. To discard or restrict the Rogers instruction now
+would ill serve the goals of “stability” and “predictability”
+——————
+6 All
+
+five Circuits that have published pattern FELA causation in­
+structions use the language of the statute or of Rogers rather than
+traditional common-law formulations. See Brief for Academy of Rail
+Labor Attorneys as Amicus Curiae 19–20.
+7 See id., at 21–22, 25–27 (collecting cases and pattern instructions).
+The parties dispute the exact figures, but all agree there are no more
+than a handful of exceptions. The Seventh Circuit found “[a]t most”
+three. 598 F. 3d 388, 404, n. 7 (2010).
+8 See, e.g., DeParcq, The Supreme Court and the Federal Employers’
+Liability Act, 1956–57 Term, 36 Texas L. Rev. 145, 154–155 (1957); 2 J.
+Lee & B. Lindahl, Modern Tort Law: Liability and Litigation §24:2, pp.
+24–2 to 24–5 (2d ed. 2002); A. Larson & L. Larson, 9 Larson’s Workers’
+Compensation Law §147.07[7], pp. 147–19 to 147–20 (2010); Prosser
+and Keeton §80, p. 579.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+13
+
+Opinion of the Court
+
+that the doctrine of statutory stare decisis aims to ensure.
+Ibid.
+III
+CSX nonetheless insists that proximate causation, as
+captured in the charge and definitions CSX requested, is a
+concept fundamental to actions sounding in negligence.
+The Rogers “any part” instruction opens the door to unlim­
+ited liability, CSX worries, inviting juries to impose liabil­
+ity on the basis of “but for” causation. The dissent shares
+these fears. Post, at 5–6, 15–16. But a half century’s
+experience with Rogers gives us little cause for concern:
+CSX’s briefs did not identify even one trial in which the
+instruction generated an absurd or untoward award.9 Nor
+has the dissent managed to uncover such a case. Post, at
+13–14 (citing no actual case but conjuring up images of
+falling pianos and spilled coffee).
+While some courts have said that Rogers eliminated the
+concept of proximate cause in FELA cases,10 we think it
+“more accurate . . . to recognize that Rogers describes the
+test for proximate causation applicable in FELA suits.”
+Sorrell, 549 U. S., at 178 (GINSBURG, J., concurring in
+judgment). That understanding was expressed by the
+——————
+9 Pressed on this point at oral argument, CSX directed us to two cases
+cited by its amicus. In Richards v. Consolidated Rail Corp., 330 F. 3d
+428, 431, 437 (CA6 2003), a defective brake malfunctioned en route,
+and the employee was injured while inspecting underneath the train to
+locate the problem; the Sixth Circuit sent the case to a jury. In Norfolk
+Southern R. Co. v. Schumpert, 270 Ga. App. 782, 783–786, 608 S. E. 2d
+236, 238–239 (2004), the employee was injured while replacing a
+coupling device that fell to the ground because of a negligently absent
+pin; the court upheld a jury award. In our view, the causal link in
+these cases is hardly farfetched; in fact, in both, the lower courts
+observed that the evidence did not show mere “but for” causation. See
+Richards, 330 F. 3d, at 437, and n. 5; Schumpert, 270 Ga. App., at 784,
+608 S. E. 2d, at 239.
+10 See, e.g., Summers, 132 F. 3d, at 606; Oglesby v. Southern Pacific
+Transp. Co., 6 F. 3d 603, 609 (CA9 1993).
+
+
+14
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion GINSBURG,
+Opinion ofof the CourtJ.
+
+drafters of the 1965 federal model instructions, see supra,
+at 11–12: Under FELA, injury “is proximately caused” by
+the railroad’s negligence if that negligence “played any
+part . . . in . . . causing the injury.” Avoiding “dialectical
+subtleties” that confound attempts to convey intelligibly to
+juries just what “proximate cause” means, see Coray, 335
+U. S., at 524, the Rogers instruction uses the everyday
+words contained in the statute itself. Jurors can compre­
+hend those words and apply them in light of their ex­
+perience and common sense. Unless and until Congress
+orders otherwise, we see no good reason to tamper with an
+instruction tied to FELA’s text, long employed by lower
+courts, and hardly shown to be unfair or unworkable.
+A
+As we have noted, see supra, at 5–6, the phrase “proxi­
+mate cause” is shorthand for the policy-based judgment
+that not all factual causes contributing to an injury should
+be legally cognizable causes. Prosser and Keeton explain:
+“In a philosophical sense, the consequences of an act go
+forward to eternity, and the causes of an event go back to
+the dawn of human events, and beyond.” §41, p. 264. To
+prevent “infinite liability,” ibid., courts and legislatures
+appropriately place limits on the chain of causation that
+may support recovery on any particular claim.
+The term “proximate cause” itself is hardly essential to
+the imposition of such limits. It is a term notoriously
+confusing. See, e.g., Prosser and Keeton §42, p. 273 (“The
+word ’proximate’ is a legacy of Lord Chancellor Bacon, who
+in his time committed other sins. . . . It is an unfortunate
+word, which places an entirely wrong emphasis upon the
+factor of physical or mechanical closeness. For this reason
+‘legal cause’ or perhaps even ‘responsible cause’ would be a
+more appropriate term.” (footnotes omitted)).
+And the lack of consensus on any one definition of
+“proximate cause” is manifest. Id., §41, p. 263. Common­
+
+
+Cite as: 564 U. S. ____ (2011)
+
+15
+
+Opinion GINSBURG,
+Opinion ofof the CourtJ.
+
+law formulations include, inter alia, the “immediate” or
+“nearest” antecedent test; the “efficient, producing cause”
+test; the “substantial factor” test; and the “probable,” or
+“natural and probable,” or “foreseeable” consequence test.
+Smith, Legal Cause in Actions of Tort, 25 Harv. L. Rev.
+103, 106–121 (1911); Smith, Legal Cause in Actions of
+Tort (Concluded), 25 Harv. L. Rev. 303, 311 (1912).
+Notably, CSX itself did not settle on a uniform definition
+of the term “proximate cause” in this litigation, nor does
+the dissent. In the District Court, CSX requested a jury
+instruction defining “proximate cause” to mean “any cause
+which, in natural or probable sequence, produced the
+injury complained of.” App. 32a. On appeal, “CSX main­
+tain[ed] that the correct definition . . . is a ‘direct relation
+between the injury asserted and the injurious conduct
+alleged.’ ” 598 F. 3d, at 393, n. 3. Before this Court, CSX
+called for “a demonstration that the plaintiff’s injury
+resulted from the wrongful conduct in a way that was
+natural, probable, and foreseeable.” Tr. of Oral Arg. 9–10.
+Lay triers, studies show, are scarcely aided by charges
+so phrased. See Steele & Thornburg, Jury Instructions: A
+Persistent Failure to Communicate, 67 N. C. L. Rev. 77,
+88–92, 110 (1988) (85% of actual and potential jurors were
+unable to understand a pattern proximate cause instruc­
+tion similar to the one requested by CSX); Charrow &
+Charrow, Making Legal Language Understandable: A
+Psycholinguistic Study of Jury Instructions, 79 Colum.
+L. Rev. 1306, 1353 (1979) (nearly one quarter of subjects
+misunderstood proximate cause to mean “approximate
+cause” or “estimated cause”). In light of the potential of
+“proximate cause” instructions to leave jurors at sea, it is
+not surprising that the drafters of the Restatement (Third)
+of Torts avoided the term altogether. See 1 Restatement
+(Third) of Torts: Liability for Physical and Emotional
+Harm §29 (2005) (confining liability to “harms that result
+from the risks that made the actor’s conduct tortious”); id.,
+
+
+16
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+Comment b.
+Congress, it is true, has written the words “proximate
+cause” into a number of statutes.11 But when the legisla­
+tive text uses less legalistic language, e.g., “caused by,”
+“occasioned by,” “in consequence of,” or, as in FELA,
+“resulting in whole or in part from,” and the legislative
+purpose is to loosen constraints on recovery, there is
+little reason for courts to hark back to stock, judge-made
+proximate-cause formulations. See Smith, Legal Cause in
+Actions of Tort (Continued), 25 Harv. L. Rev. 223, 235
+(1912).
+B
+FELA’s language is straightforward: railroads are made
+answerable in damages for an employee’s “injury or death
+resulting in whole or in part from [carrier] negligence.” 45
+U. S. C. §51. The argument for importing into FELA’s text
+“previous judicial definitions or dicta” originating in non­
+statutory common-law actions, see Smith, Legal Cause in
+Actions of Tort (Continued), supra, at 235, misapprehends
+how foreseeability figures in FELA cases.
+“[R]easonable foreseeability of harm,” we clarified in
+Gallick, is indeed “an essential ingredient of [FELA] neg
+ligence.” 372 U. S., at 117 (emphasis added). The jury,
+therefore, must be asked, initially: Did the carrier “fai[l] to
+observe that degree of care which people of ordinary pru­
+dence and sagacity would use under the same or similar
+circumstances[?]” Id., at 118. In that regard, the jury
+may be told that “[the railroad’s] duties are measured by
+——————
+11 See, e.g., Act of Sept. 7, 1916, ch. 458, §1, 39 Stat. 742–743 (United
+States not liable to injured employee whose “intoxication . . . is the
+proximate cause of the injury”); Act of Oct. 6, 1917, ch. 105, §306, 40
+Stat. 407 (United States liable to member of Armed Forces for post­
+discharge disability that “proximately result[ed] from [a pre-discharge]
+injury”); Act of June 5, 1924, ch. 261, §2, 43 Stat. 389 (United States
+liable for “any disease proximately caused” by federal employment).
+
+
+Cite as: 564 U. S. ____ (2011)
+
+17
+
+Opinion of the Court
+
+what is reasonably foreseeable under like circumstances.”
+Ibid. (internal quotation marks omitted). Thus, “[i]f a per­
+son has no reasonable ground to anticipate that a par­
+ticular condition . . . would or might result in a mishap
+and injury, then the party is not required to do anything
+to correct [the] condition.” Id., at 118, n. 7 (internal quota­
+tion marks omitted).12 If negligence is proved, however,
+and is shown to have “played any part, even the slightest,
+in producing the injury,” Rogers, 352 U. S., at 506 (empha­
+sis added),13 then the carrier is answerable in damages
+even if “the extent of the [injury] or the manner in which it
+occurred” was not “[p]robable” or “foreseeable.” Gallick,
+372 U. S., at 120–121, and n. 8 (internal quotation marks
+omitted); see 4 F. Harper, F. James, & O. Gray, Law of
+Torts §20.5(6), p. 203 (3d ed. 2007); 5 Sand 89–21.
+Properly instructed on negligence and causation, and
+told, as is standard practice in FELA cases, to use their
+“common sense” in reviewing the evidence, see Tr. 205
+(Aug. 19, 2008), juries would have no warrant to award
+damages in far out “but for” scenarios. Indeed, judges
+would have no warrant to submit such cases to the jury.
+See Nicholson v. Erie R. Co., 253 F. 2d 939, 940–941 (CA2
+1958) (alleged negligence was failure to provide lavatory
+for female employee; employee was injured by a suitcase
+while looking for a lavatory in a passenger car; applying
+Rogers, appellate court affirmed lower court’s dismissal for
+lack of causation); Moody v. Boston and Maine Corp., 921
+F. 2d 1, 2–5 (CA1 1990) (employee suffered stress-related
+——————
+12 A
+
+railroad’s violation of a safety statute, however, is negligence per
+se. See Kernan v. American Dredging Co., 355 U. S. 426, 438 (1958).
+13 The dissent protests that we would require only a showing that
+“defendant was negligent in the first place.” Post, at 13. But under
+Rogers and the pattern instructions based on Rogers, the jury must find
+that defendant’s negligence in fact “played a part—no matter how
+small—in bringing about the injury.” See supra, at 2–3, 11–12 (Sev­
+enth Circuit pattern instruction and model federal instructions).
+
+
+18
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+heart attack after railroad forced him to work more than
+12 hours with inadequate breaks; applying Rogers, appel­
+late court affirmed grant of summary judgment for lack of
+causation). See also supra, at 13 (Rogers has generated no
+extravagant jury awards or appellate court decisions).
+In addition to the constraints of common sense, FELA’s
+limitations on who may sue, and for what, reduce the risk
+of exorbitant liability. As earlier noted, see supra, at 4,
+the statute confines the universe of compensable injuries
+to those sustained by employees, during employment. §51.
+Hence there are no unforeseeable plaintiffs in FELA cases.
+And the statute weeds out the injuries most likely to bear
+only a tenuous relationship to railroad negligence, namely,
+those occurring outside the workplace.14
+There is a real risk, on the other hand, that the “in
+natural or probable sequence” charge sought by CSX
+would mislead. If taken to mean the plaintiff’s injury
+must probably (“more likely than not”) follow from the
+railroad’s negligent conduct, then the force of FELA’s
+“resulting in whole or in part” language would be blunted.
+Railroad negligence would “probably” cause a worker’s in­
+jury only if that negligence was a dominant contributor to
+the injury, not merely a contributor in any part.
+*
+*
+*
+For the reasons stated, it is not error in a FELA case to
+refuse a charge embracing stock proximate cause termi­
+nology. Juries in such cases are properly instructed that a
+——————
+14 CSX observes, as does the dissent, post, at 4, that we have applied
+traditional notions of proximate causation under the RICO, antitrust,
+and securities fraud statutes. But those statutes cover broader classes
+of potential injuries and complainants. And none assign liability in
+language akin to FELA’s “resulting in whole or in part” standard. §51
+(emphasis added). See Holmes v. Securities Investor Protection Corpo
+ration, 503 U. S. 258, 265–268 (1992); Associated Gen. Contractors of
+Cal., Inc. v. Carpenters, 459 U. S. 519, 529–535 (1983); Dura Pharma
+ceuticals, Inc. v. Broudo, 544 U. S. 336, 342–346 (2005).
+
+
+Cite as: 564 U. S. ____ (2011)
+
+19
+
+Opinion of the Court
+
+defendant railroad “caused or contributed to” a railroad
+worker’s injury “if [the railroad's] negligence played a
+part—no matter how small—in bringing about the injury.”
+That, indeed, is the test Congress prescribed for proximate
+causation in FELA cases. See supra, at 9, 13. As the
+courts below so held, the judgment of the U. S. Court of
+Appeals for the Seventh Circuit is
+Affirmed.
+
+

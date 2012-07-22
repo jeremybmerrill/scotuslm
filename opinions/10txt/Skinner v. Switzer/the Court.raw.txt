@@ -1,0 +1,632 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–9000
+_________________
+
+HENRY W. SKINNER, PETITIONER v. LYNN
+SWITZER, DISTRICT ATTORNEY FOR THE
+31ST JUDICIAL DISTRICT OF TEXAS
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FIFTH CIRCUIT
+
+[March 7, 2011] 
+
+
+JUSTICE GINSBURG delivered the opinion of the Court.
+We granted review in this case to decide a question
+presented, but left unresolved, in District Attorney’s Office
+for Third Judicial Dist. v. Osborne, 557 U. S. ___, ___
+(2009) (slip op., at 12–13): May a convicted state prisoner
+seeking DNA testing of crime-scene evidence assert that
+claim in a civil rights action under 42 U. S. C. §1983, or is
+such a claim cognizable in federal court only when as­
+serted in a petition for a writ of habeas corpus under 28
+U. S. C. §2254? The Courts of Appeals have returned
+diverse responses. Compare McKithen v. Brown, 481 F. 3d
+89, 99 (CA2 2007) (claim seeking DNA testing is cogniza­
+ble under §1983); Savory v. Lyons, 469 F. 3d 667, 669 (CA7
+2006) (same); Bradley v. Pryor, 305 F. 3d 1287, 1290–1291
+(CA11 2002) (same), with Harvey v. Horan, 278 F. 3d 370,
+375 (CA4 2002) (claim is not cognizable under §1983) and
+Kutzner v. Montgomery County, 303 F. 3d 339, 341 (CA5
+2002) (per curiam) (same).
+In Wilkinson v. Dotson, 544 U. S. 74 (2005), we compre­
+hensively surveyed this Court’s decisions on the respective
+
+
+2
+
+SKINNER v. SWITZER
+Opinion of the Court
+
+provinces of §1983 civil rights actions and §2254 federal
+habeas petitions. Habeas is the exclusive remedy, we
+reaffirmed, for the prisoner who seeks “immediate or
+speedier release” from confinement. Id., at 82. Where the
+prisoner’s claim would not “necessarily spell speedier
+release,” however, suit may be brought under §1983. Ibid.
+Adhering to our opinion in Dotson, we hold that a postcon­
+viction claim for DNA testing is properly pursued in a
+§1983 action. Success in the suit gains for the prisoner
+only access to the DNA evidence, which may prove excul­
+patory, inculpatory, or inconclusive. In no event will a
+judgment that simply orders DNA tests “necessarily
+impl[y] the unlawfulness of the State’s custody.” Id., at
+81. We note, however, that the Court’s decision in Os
+borne severely limits the federal action a state prisoner
+may bring for DNA testing. Osborne rejected the exten­
+sion of substantive due process to this area, 557 U. S., at
+___ (slip op., at 19), and left slim room for the prisoner to
+show that the governing state law denies him procedural
+due process, see id., at ___ (slip op., at 18).
+I
+In 1995, a Texas jury convicted petitioner Henry Skin­
+ner and sentenced him to death for murdering his live-in
+girlfriend, Twila Busby, and her two sons. Busby was
+bludgeoned and choked with an axe handle and her sons
+were stabbed to death; the murders were committed in the
+house Busby shared with Skinner.
+Skinner never denied his presence in the house when
+the killings occurred. He claimed, however, that he was
+incapacitated by large quantities of alcohol and codeine.
+The potent alcohol and drug mix, Skinner maintained at
+trial, rendered him physically unable to commit the brutal
+murders charged against him. Skinner identified, as a
+likely perpetrator, Busby’s uncle, Robert Donnell (now
+deceased), an ex-convict with a history of physical and
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+sexual abuse.1 On direct appeal, the Texas Court of Crimi­
+nal Appeals (CCA) affirmed Skinner’s conviction and
+sentence. Skinner v. State, 956 S. W. 2d 532, 546 (1997).
+The CCA’s opinion described the crime-scene evidence in
+detail:
+“As they approached the house . . . , the police noticed
+a trail of blood spots on the ground running from the
+front porch to the fence line. There was a blood smear
+on the glass storm door and a knife on the front porch.
+Upon entering the residence, the police found Twila’s
+dead body on the living room floor. . . . An ax handle
+stained with blood and hair was leaning against the
+couch near her body and a black plastic trash bag con­
+taining a knife and a towel with wet brownish stains
+on it was laying between the couch and the coffee
+table.
+“[One officer] proceeded to the bedroom where
+[Busby’s two sons] usually slept in bunk beds. [The
+officer] found [one] dead body laying face down on the
+upper bunk, covered by a blood spotted blanket. . . . A
+door leading out of the bedroom and into a utility
+room yielded further evidence. [He] noticed a bloody
+handprint located about 24 inches off the floor on the
+frame of this door. He also noted a bloody handprint
+on the door knob of the door leading from the kitchen
+to the utility room and a handprint on the knob of the
+door exiting from the utility room into the backyard.
+“[When] police arrested [Skinner] . . . [t]hey found
+him standing in a closet wearing blood-stained socks
+——————
+1 At trial, a defense witness testified that, on the evening of the kill­
+ings, Busby had spurned Donnell’s “rude sexual advances.” Skinner v.
+State, 956 S. W. 2d 532, 535 (Tex. Crim. App. 1997). A neighbor related
+at a federal postconviction hearing that she observed Donnell, a day or
+two after the murders, thoroughly cleaning the carpets and inside of his
+pickup truck. See Skinner v. Quarterman, 528 F. 3d 336, 345 (CA5
+2008).
+
+
+4
+
+SKINNER v. SWITZER
+Opinion of the Court
+
+and blood-stained blue jeans.” Id., at 536.
+Investigators also retained vaginal swabs taken from
+Busby.
+In preparation for trial, “the State tested the blood on
+[Skinner’s] clothing, blood and hair from a blanket that
+partially covered one of the victims, and hairs on one
+of the victim’s back and cheeks.” Skinner v. State, 122
+S. W. 3d 808, 810 (Tex. Crim. App. 2003). The State also
+tested fingerprint evidence. Some of this evidence—
+including bloody palm prints in the room where one victim
+was killed—implicated Skinner, but “fingerprints on a bag
+containing one of the knives” did not. Ibid. Items left
+untested included the knives found on the premises, the
+axe handle, vaginal swabs, fingernail clippings, and addi­
+tional hair samples. See ibid.2
+In the decade following his conviction, Skinner unsuc­
+cessfully sought state and federal postconviction relief.
+See Skinner v. Quarterman, 576 F. 3d 214 (CA5 2009),
+cert. denied, 559 U. S. ___ (2010). He also pursued infor­
+mal efforts to gain access to untested biological evidence
+the police had collected at the scene of the crime.3
+In 2001, more than six years after Skinner’s conviction,
+Texas enacted Article 64, a statute allowing prisoners to
+gain postconviction DNA testing in limited circumstances.
+——————
+2 After Skinner’s conviction, the State performed DNA tests on cer­
+tain additional materials, but Skinner took no part in the selection
+of those materials or their testing. Skinner maintains that these
+ex parte tests were inconclusive. See Complaint ¶19, App. 12 (this
+“testing raised more questions than it answered”). But see Skinner v.
+State, 122 S. W. 3d 808, 811 (Tex. Crim. App. 2003) (some findings were
+“inculpatory”).
+3 Skinner’s trial counsel, although aware that biological evidence
+remained untested, did not request further testing. Postconviction,
+Skinner sought DNA testing of vaginal swabs and finger nail clippings
+taken from Busby, blood and hairs on a jacket found next to Busby’s
+body, and biological material on knives and a dish towel recovered at
+the crime scene. Complaint ¶22, App. 14–15.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+Tex. Code Crim. Proc. Ann., Art. 64.01(a) (Vernon Supp.
+2010). To obtain DNA testing under Article 64, a prisoner
+must meet one of two threshold criteria. He may show
+that, at trial, testing either was “not available” or was
+“available, but not technologically capable of providing
+probative results.” Art. 64.01(b)(1)(A). Alternatively, he
+may show that the evidence was not previously tested
+“through no fault” on his part, and that “the interests of
+justice” require a postconviction order for testing. Art.
+64.01(b)(1)(B). To grant a motion for postconviction test­
+ing, a court must make further findings, prime among
+them, the movant “would not have been convicted if excul­
+patory results had been obtained through DNA testing,”
+and “the [Article 64] request . . . [was] not made to unrea­
+sonably delay the execution of sentence or administration
+of justice.” Art. 64.03(a)(2).
+Invoking Article 64, Skinner twice moved in state court,
+first in 2001 and again in 2007, for DNA testing of yet
+untested biological evidence. See supra, at 4, n. 3. Both
+motions were denied. Affirming the denial of Skinner’s
+first motion, the CCA held that he had failed to demon­
+strate a “reasonable probability . . . that he would not have
+been . . . convicted if the DNA test results were exculpa­
+tory.” Skinner v. State, 122 S. W. 3d, at 813.
+Skinner’s second motion was bolstered by discovery he
+had obtained in the interim.4 The CCA again affirmed the
+denial of relief under Article 64, this time on the ground
+that Skinner failed to meet the “no fault” requirement.
+See Skinner v. State, 293 S. W. 3d 196, 200 (2009).5 Dur­
+——————
+4 On the basis of discovery in a federal postconviction proceeding, an
+expert retained by Skinner concluded that Skinner, Busby, and her two
+sons could be excluded as sources of a hair collected from Busby’s right
+hand after the killings. See Record 190. See also Complaint ¶27, App.
+18.
+5 The District Attorney, in response to Skinner’s second motion, in­
+formed the Texas district court that “[t]o the best of the State’s infor­
+
+
+6
+
+SKINNER v. SWITZER
+Opinion of the Court
+
+ing postconviction proceedings, the CCA noted, trial coun­
+sel testified that he had not “ask[ed] for testing because he
+was afraid the DNA would turn out to be [Skinner’s].” Id.,
+at 202. That decision, the CCA concluded, constituted “a
+reasonable trial strategy” that the court had no cause to
+second-guess. Id., at 209.
+Skinner next filed the instant federal action for injunc­
+tive relief under §1983, naming as defendant respondent
+Lynn Switzer, the District Attorney whose office prose­
+cuted Skinner and has custody of the evidence Skinner
+would like to have DNA tested. Skinner’s federal-court
+complaint alleged that Texas violated his Fourteenth
+Amendment right to due process by refusing to provide for
+the DNA testing he requested. Complaint ¶33, App. 20–
+21. The Magistrate Judge recommended dismissal of the
+complaint for failure to state a claim upon which relief can
+be granted. App. 24–41. Under the governing Circuit
+precedent, Kutzner v. Montgomery County, 303 F. 3d 339,
+the Magistrate Judge observed, postconviction requests for
+DNA evidence are cognizable only in habeas corpus, not
+under §1983. App. 39. Adopting the Magistrate Judge’s
+recommendation, the District Court dismissed Skinner’s
+suit. Id., at 44–45.
+On appeal, the United States Court of Appeals for the
+Fifth Circuit affirmed, 363 Fed. Appx. 302 (2010) (per
+curiam), reiterating that “an action by a prisoner for post­
+conviction DNA testing is not cognizable under §1983 and
+must instead be brought as a petition for writ of habeas
+corpus,” id., at 303. On Skinner’s petition,6 we granted
+——————
+mation, knowledge, and belief, the items sought to be tested are still
+available for testing, the chain of custody is intact, and the items are in
+a condition to be tested although the State has not sought expert
+opinion in that regard.” Record 202. See also Complaint ¶29, App. 19.
+6 The State of Texas scheduled Skinner’s execution for March 24,
+2010. We granted Skinner’s application to stay his execution until
+further action of this Court. 559 U. S. ___ (2010).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+certiorari, 560 U. S. ___ (2010), and now reverse the Fifth
+Circuit’s judgment.
+II 
+
+A
+
+Because this case was resolved on a motion to dismiss
+for failure to state a claim, the question below was “not
+whether [Skinner] will ultimately prevail” on his proce­
+dural due process claim, see Scheuer v. Rhodes, 416 U. S.
+232, 236 (1974), but whether his complaint was sufficient
+to cross the federal court’s threshold, see Swierkiewicz v.
+Sorema N. A., 534 U. S. 506, 514 (2002). Skinner’s com­
+plaint is not a model of the careful drafter’s art, but under
+the Federal Rules of Civil Procedure, a complaint need not
+pin plaintiff’s claim for relief to a precise legal theory.
+Rule 8(a)(2) of the Federal Rules of Civil Procedure gener­
+ally requires only a plausible “short and plain” statement
+of the plaintiff’s claim, not an exposition of his legal argu­
+ment. See 5 C. Wright & A. Miller, Federal Practice &
+Procedure §1219, pp. 277–278 (3d ed. 2004 and Supp.
+2010).
+Skinner stated his due process claim in a paragraph
+alleging that the State’s refusal “to release the biological
+evidence for testing . . . has deprived [him] of his liberty
+interests in utilizing state procedures to obtain reversal of
+his conviction and/or to obtain a pardon or reduction of his
+sentence . . . .” Complaint ¶33, App. 20–21. As earlier
+recounted, see supra, at 5–6, Skinner had twice requested
+and failed to obtain DNA testing under the only state-law
+procedure then available to him. See Complaint ¶¶22–31,
+App. 14–20.7 At oral argument in this Court, Skinner’s
+counsel clarified the gist of Skinner’s due process claim:
+He does not challenge the prosecutor’s conduct or the
+——————
+7 He also persistently sought the State’s voluntary testing of the ma­
+terials he identified. See Complaint ¶31, App. 20.
+
+
+8
+
+SKINNER v. SWITZER
+Opinion of the Court
+
+decisions reached by the CCA in applying Article 64 to his
+motions; instead, he challenges, as denying him proce­
+dural due process, Texas’ postconviction DNA statute “as
+construed” by the Texas courts. Tr. of Oral Arg. 56. See
+also id., at 52 (Texas courts, Skinner’s counsel argued,
+have “construed the statute to completely foreclose any
+prisoner who could have sought DNA testing prior to
+trial[,] but did not[,] from seeking testing” postconviction).8
+The merits of Skinner’s federal-court complaint assail­
+ing the Texas statute as authoritatively construed, and
+particularly the vitality of his claim in light of Osborne,
+see supra, at 2—unaddressed by the District Court or the
+Fifth Circuit—are not ripe for review. We take up here
+only the questions whether there is federal-court subject­
+matter jurisdiction over Skinner’s complaint, and whether
+the claim he presses is cognizable under §1983.
+B
+Respondent Switzer asserts that Skinner’s challenge is
+“[j]urisdictionally [b]arred” by what has come to be known
+as the Rooker-Feldman doctrine. Brief for Respondent 48–
+49 (boldface deleted). In line with the courts below, we
+conclude that Rooker-Feldman does not bar Skinner’s suit.
+As we explained in Exxon Mobil Corp. v. Saudi Basic
+Industries Corp., 544 U. S. 280 (2005), the RookerFeldman doctrine has been applied by this Court only
+twice, i.e., only in the two cases from which the doctrine
+takes its name: first, Rooker v. Fidelity Trust Co., 263
+U. S. 413 (1923), then 60 years later, District of Columbia
+——————
+8 Unlike the petitioner in District Attorney’s Office for Third Judicial
+Dist. v. Osborne, 557 U. S. ___ (2009), who “attempt[ed] to sidestep
+state process through . . . a federal lawsuit,” id., at ___ (slip op., at 17),
+Skinner first resorted to state court, see supra, at 5–6. In this respect,
+Skinner is better positioned to urge in federal court “the inadequacy of
+the state-law procedures available to him in state postconviction relief.”
+Osborne, 557 U. S., at ___ (slip op., at 18).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+Court of Appeals v. Feldman, 460 U. S. 462 (1983). Both
+cases fit this pattern: The losing party in state court9 filed
+suit in a U. S. District Court after the state proceedings
+ended, complaining of an injury caused by the state-court
+judgment and seeking federal-court review and rejection of
+that judgment. Alleging federal-question jurisdiction, the
+plaintiffs in Rooker and Feldman asked the District Court
+to overturn the injurious state-court judgment. We held,
+in both cases, that the District Courts lacked subject­
+matter jurisdiction over such claims, for 28 U. S. C. §1257
+“vests authority to review a state court’s judgment solely
+in this Court.” See Exxon, 544 U. S., at 292.
+We observed in Exxon that the Rooker-Feldman doctrine
+had been construed by some federal courts “to extend far
+beyond the contours of the Rooker and Feldman cases.”
+Id., at 283. Emphasizing “the narrow ground” occupied by
+the doctrine, id., at 284, we clarified in Exxon that RookerFeldman “is confined to cases of the kind from which the
+doctrine acquired its name: cases brought by state-court
+losers . . . inviting district court review and rejection of
+[the state court’s] judgments.” Ibid.
+Skinner’s litigation, in light of Exxon, encounters no
+Rooker-Feldman shoal. “If a federal plaintiff ‘present[s]
+[an] independent claim,’ ” it is not an impediment to the
+exercise of federal jurisdiction that the “same or a related
+question” was earlier aired between the parties in state
+court. id., at 292–293 (quoting GASH Assocs. v. Rosemont,
+995 F. 2d 726, 728 (CA7 1993); first alteration in original);
+see In re Smith, 349 Fed. Appx. 12, 18 (CA6 2009) (Sutton,
+J., concurring in part and dissenting in part) (a defen­
+dant’s federal challenge to the adequacy of state-law pro­
+cedures for postconviction DNA testing is not within the
+——————
+9 The judgment assailed in Feldman was rendered by the District of
+Columbia Court of Appeals, equivalent for this purpose to a state’s
+highest court.
+
+
+10
+
+SKINNER v. SWITZER
+Opinion of the Court
+
+“limited grasp” of Rooker-Feldman).
+As earlier noted, see supra, at 7–8, Skinner does not
+challenge the adverse CCA decisions themselves; instead,
+he targets as unconstitutional the Texas statute they
+authoritatively construed. As the Court explained in
+Feldman, 460 U. S., at 487, and reiterated in Exxon, 544
+U. S., at 286, a state-court decision is not reviewable by
+lower federal courts, but a statute or rule governing the
+decision may be challenged in a federal action.10 Skinner’s
+federal case falls within the latter category. There was,
+therefore, no lack of subject-matter jurisdiction over Skin­
+ner’s federal suit.11
+C
+When may a state prisoner, complaining of unconstitu­
+tional state action, pursue a civil rights claim under
+§1983, and when is habeas corpus the prisoner’s sole
+remedy? This Court has several times considered that
+question. Pathmarking here is Heck v. Humphrey, 512
+U. S. 477 (1994). Plaintiff in that litigation was a state
+prisoner serving time for manslaughter. He brought a
+§1983 action for damages, alleging that he had been
+unlawfully investigated, arrested, tried, and convicted.
+Although the complaint in Heck sought monetary damages
+only, not release from confinement, we ruled that the
+plaintiff could not proceed under §1983. Any award in his
+favor, we observed, would “necessarily imply” the invalid­
+——————
+10 The Court further observed in Exxon Mobil Corp. v. Saudi Basic
+Industries Corp., 544 U. S. 280, 292–293 (2005), that “[w]hen there is
+parallel state and federal litigation,” state preclusion law may become
+decisive, but “[p]reclusion . . . is not a jurisdictional matter.”
+11 Switzer asserts that Skinner could have raised his federal claim in
+the Article 64 proceeding. See Tr. of Oral Arg. 48. Even if that were so,
+“Rooker-Feldman is not simply preclusion by another name,” Lance v.
+Dennis, 546 U. S. 459, 466 (2006) (per curiam), and questions of preclu­
+sion unresolved below are “best left for full airing and decision on
+remand,” id., at 467 (GINSBURG, J., concurring).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+ity of his conviction. See id., at 487. When “a judgment in
+favor of the plaintiff would necessarily imply the invalidity
+of his conviction or sentence,” the Court held, §1983 is not
+an available remedy. Ibid. “But if . . . the plaintiff’s ac­
+tion, even if successful, will not demonstrate the invalidity
+of [his conviction or sentence], the [§1983] action should be
+allowed to proceed . . . .” Ibid.
+We summarized the relevant case law most recently in
+Wilkinson v. Dotson, 544 U. S. 74 (2005). That case in­
+volved prisoners who challenged the constitutionality of
+administrative decisions denying them parole eligibility.
+They could proceed under §1983, the Court held, for they
+sought no “injunction ordering . . . immediate or speedier
+release into the community,” id., at 82, and “a favorable
+judgment [would] not ‘necessarily imply the invalidity of
+[their] conviction[s] or sentence[s],’ ” ibid. (quoting Heck,
+512 U. S., at 487; first alteration added).
+Measured against our prior holdings, Skinner has prop­
+erly invoked §1983. Success in his suit for DNA testing
+would not “necessarily imply” the invalidity of his convic­
+tion. While test results might prove exculpatory, that
+outcome is hardly inevitable; as earlier observed, see
+supra, at 2, results might prove inconclusive or they might
+further incriminate Skinner. See Nelson v. Campbell, 541
+U. S. 637, 647 (2004) (“[W]e were careful in Heck to stress
+the importance of the term ‘necessarily.’ ”).12
+Respondent Switzer nevertheless argues, in line with
+Fifth Circuit precedent, see Kutzner, 303 F. 3d, at 341,
+that Skinner’s request for DNA testing must be pursued, if
+at all, in an application for habeas corpus, not in a §1983
+action. The dissent echoes Switzer’s argument. See post,
+at 3. Although Skinner’s immediate plea is simply for an
+——————
+12 The dissent would muddle the clear line Heck and Dotson drew, and
+instead would instruct district courts to resort to “first principles” each
+time a state prisoner files a §1983 claim in federal court. Post, at 2, 7.
+
+
+12
+
+SKINNER v. SWITZER
+Opinion of the Court
+
+order requiring DNA testing, his ultimate aim, Switzer
+urges, is to use the test results as a platform for attacking
+his conviction. It suffices to point out that Switzer has
+found no case, nor has the dissent, in which the Court has
+recognized habeas as the sole remedy, or even an available
+one, where the relief sought would “neither terminat[e]
+custody, accelerat[e] the future date of release from cus­
+tody, nor reduc[e] the level of custody.” Dotson, 544 U. S.,
+at 86 (SCALIA, J., concurring).
+Respondent Switzer and her amici forecast that a “vast
+expansion of federal jurisdiction . . . would ensue” were we
+to hold that Skinner’s complaint can be initiated under
+§1983. See Brief for National District Attorneys Associa­
+tion as Amicus Curiae 8. In particular, they predict a
+proliferation of federal civil actions “seeking postconviction
+discovery of evidence [and] other relief inescapably associ­
+ated with the central questions of guilt or punishment.”
+Id., at 6. These fears, shared by the dissent, post, at 6, are
+unwarranted.13
+In the Circuits that currently allow §1983 claims for
+DNA testing, see supra, at 1, no evidence tendered by
+Switzer shows any litigation flood or even rainfall. The
+——————
+13 Unlike the parole determinations at issue in Wilkinson v. Dotson,
+544 U. S. 74 (2005), Switzer urges, claims like Skinner’s require inquiry
+into the State’s proof at trial and therefore lie at “the core of the crimi­
+nal proceeding itself.” Tr. of Oral 41; see id., at 33–34. Dotson de­
+clared, however, in no uncertain terms, that when a prisoner’s claim
+would not “necessarily spell speedier release,” that claim does not lie at
+“the core of habeas corpus,” and may be brought, if at all, under §1983.
+544 U. S., at 82 (majority opinion) (internal quotation marks omitted);
+see id., at 85–86 (SCALIA, J., concurring). Whatever might be said of
+Switzer’s argument were we to recast our doctrine, Switzer’s position
+cannot be reconciled with the line our precedent currently draws. Nor
+can the dissent’s advocacy of a “retur[n] to first principles.” Post, at 7.
+Given the importance of providing clear guidance to the lower courts,
+“we again see no reason for moving the line our cases draw.” Dotson,
+544 U. S., at 84.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+13
+
+Opinion of the Court
+
+projected toll on federal courts is all the more implausible
+regarding DNA testing claims, for Osborne has rejected
+substantive due process as a basis for such claims. See
+supra, at 2.
+More generally, in the Prison Litigation Reform Act of
+1995 (PLRA), 110 Stat. 1321–66, Congress has placed a
+series of controls on prisoner suits, constraints designed to
+prevent sportive filings in federal court. See, e.g., PLRA
+§803(d) (adding 42 U. S. C. §1997e to create new proce­
+dures and penalties for prisoner lawsuits under §1983);
+PLRA §804(a)(3) (adding 28 U. S. C. §1915(b)(1) to require
+any prisoner proceeding in forma pauperis to pay the full
+filing fee out of a percentage of his prison trust account);
+PLRA §804(c)(3) (adding 28 U. S. C. §1915(f) to require
+prisoners to pay the full amount of any cost assessed
+against them out of their prison trust account); PLRA
+§804(d) (adding 28 U. S. C. §1915(g) to revoke, with lim­
+ited exception, in forma pauperis privileges for any pris­
+oner who has filed three or more lawsuits that fail to state
+a claim, or are malicious or frivolous). See also CrawfordEl v. Britton, 523 U. S. 574, 596–597 (1998) (PLRA aims to
+“discourage prisoners from filing claims that are unlikely
+to succeed,” and statistics suggest that the Act is “having
+its intended effect”).
+Nor do we see any cause for concern that today’s ruling
+will spill over to claims relying on Brady v. Maryland, 373
+U. S. 83 (1963); indeed, Switzer makes no such assertion.
+Brady announced a constitutional requirement addressed
+first and foremost to the prosecution’s conduct pretrial.
+Brady proscribes withholding evidence “favorable to an
+accused” and “material to [his] guilt or to punishment.”
+Cone v. Bell, 556 U. S. ___, ___ (2009) (slip op., at 1). To
+establish that a Brady violation undermines a conviction,
+a convicted defendant must make each of three showings:
+(1) the evidence at issue is “favorable to the accused,
+either because it is exculpatory, or because it is impeach­
+
+
+14
+
+SKINNER v. SWITZER
+Opinion of the Court
+
+ing”; (2) the State suppressed the evidence, “either will­
+fully or inadvertently”; and (3) “prejudice . . . ensued.”
+Strickler v. Greene, 527 U. S. 263, 281–282 (1999); see
+Banks v. Dretke, 540 U. S. 668, 691 (2004).
+Unlike DNA testing, which may yield exculpatory,
+incriminating, or inconclusive results, a Brady claim,
+when successful postconviction, necessarily yields evi­
+dence undermining a conviction: Brady evidence is, by
+definition, always favorable to the defendant and material
+to his guilt or punishment. See Strickler, 527 U. S., at
+296. And parties asserting Brady violations postconvic­
+tion generally do seek a judgment qualifying them for
+“immediate or speedier release” from imprisonment. See
+Dotson, 544 U. S., at 82. Accordingly, Brady claims have
+ranked within the traditional core of habeas corpus and
+outside the province of §1983. See Heck, 512 U. S., at
+479, 490 (claim that prosecutors and an investigator had
+“ ‘knowingly destroyed’ evidence ‘which was exculpatory in
+nature and could have proved [petitioner’s] innocence’ ”
+cannot be maintained under §1983); Amaker v. Weiner,
+179 F. 3d 48, 51 (CA2 1999) (“claim [that] sounds under
+Brady v. Maryland . . . does indeed call into question the
+validity of [the] conviction”); Beck v. Muskogee Police
+Dept., 195 F. 3d 553, 560 (CA10 1999) (same).
+III
+Finally, Switzer presents several reasons why Skinner’s
+complaint should fail for lack of merit. Those arguments,
+unaddressed by the courts below, are ripe for considera­
+tion on remand. “[M]indful that we are a court of review,
+not of first view,” Cutter v. Wilkinson, 544 U. S. 709, 718,
+n. 7 (2005), we confine this opinion to the matter on which
+we granted certiorari and express no opinion on the ulti­
+mate disposition of Skinner’s federal action.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+15
+
+Opinion of the Court
+
+*
+*
+*
+For the reasons stated, the judgment of the Court of
+Appeals for the Fifth Circuit is reversed, and the case is
+remanded for further proceedings consistent with this
+opinion.
+It is so ordered.
+
+

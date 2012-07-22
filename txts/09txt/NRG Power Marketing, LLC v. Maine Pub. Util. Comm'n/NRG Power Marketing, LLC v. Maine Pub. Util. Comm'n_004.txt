@@ -1,0 +1,48 @@
+2
+
+NRG POWER MARKETING, LLC v. MAINE PUB. 
+
+UTIL. COMM’N
+Opinion of the Court 
+
+
+
+
+
+Agreement established rate-setting mechanisms for sales
+of energy capacity, and provided that the Mobile-Sierra
+public interest standard would govern rate challenges.
+Parties who opposed the settlement petitioned for review
+in the United States Court of Appeals for the D. C. Circuit.
+Among multiple objections to FERC’s order approving the
+Agreement, the settlement opponents urged that the rate
+challenges of nonsettling parties should not be controlled
+by the restrictive Mobile-Sierra public interest standard.
+The Court of Appeals agreed, holding that “when a rate
+challenge is brought by a non-contracting third party, the
+Mobile-Sierra doctrine simply does not apply.” Maine Pub.
+Util. Comm’n v. FERC, 520 F. 3d 464, 478 (2008) (per
+curiam).
+We reverse the D. C. Circuit’s judgment to the extent
+that it rejects the application of Mobile-Sierra to noncon­
+tracting parties. Our decision in Morgan Stanley, an­
+nounced three months after the D. C. Circuit’s disposition,
+made clear that the Mobile-Sierra public interest standard
+is not an exception to the statutory just-and-reasonable
+standard; it is an application of that standard in the con­
+text of rates set by contract. The “venerable Mobile-Sierra
+doctrine” rests on “the stabilizing force of contracts.”
+Morgan Stanley, 554 U. S., at ___ (slip op., at 19); see id.,
+at 22 (describing contract rates as “a key source of stabil­
+ity”). To retain vitality, the doctrine must control FERC
+itself, and, we hold, challenges to contract rates brought
+by noncontracting as well as contracting parties.
+I
+In a capacity market, in contrast to a wholesale energy
+market, an electricity provider purchases from a generator
+an option to buy a quantity of energy, rather than pur­
+chasing the energy itself. To maintain the reliability of
+the grid, electricity providers generally purchase more
+capacity, i.e., rights to acquire energy, than necessary to
+
+

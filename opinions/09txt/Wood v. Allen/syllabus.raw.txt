@@ -1,0 +1,133 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+WOOD v. ALLEN, COMMISSIONER, ALABAMA 
+
+DEPARTMENT OF CORRECTIONS, ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE ELEVENTH CIRCUIT
+No. 08–9156. Argued November 4, 2009—Decided January 20, 2010
+Under 28 U. S. C. §2254(d)(2), a federal court may grant a state pris
+oner habeas relief if his claim was adjudicated on the merits in state
+court and “resulted in a decision . . . based on an unreasonable de
+termination of the facts in light of the evidence presented in the State
+court proceeding.” Under §2254(e)(1), “a determination of a factual
+issue made by a State court [is] presumed to be correct,” and the peti
+tioner has “the burden of rebutting the presumption of correctness by
+clear and convincing evidence.”
+Petitioner Wood was convicted of capital murder and sentenced to
+death in Alabama state court. Two of his court-appointed attorneys,
+Dozier and Ralph, had significant trial experience, but the third,
+Trotter, had only recently been admitted to the bar. After exhausting
+his appeals, Wood sought postconviction relief under Alabama Rule of
+Criminal Procedure 32, arguing, among other things, that he was
+mentally retarded and not eligible for the death penalty, and that his
+trial counsel were ineffective because they failed to investigate and
+present evidence of his mental deficiencies during the trial’s penalty
+phase. The Rule 32 court conducted evidentiary hearings and denied
+the claims initially and on remand. As to the mental retardation
+claim, it found that Wood had not shown deficits in his adaptive func
+tioning. As to the ineffective-assistance-of-counsel claim, it concluded
+that he had not established that his counsel’s performance was defi
+cient or that any deficiency prejudiced his defense. In so doing, it
+made a factual finding that counsel had made a strategic decision not
+to pursue evidence of Wood’s alleged retardation. Observing that
+counsel had asked Dr. Kirkland to conduct a mental evaluation, had
+thoroughly reviewed his report, and had determined that no further
+
+
+2
+
+WOOD v. ALLEN
+Syllabus
+investigation was warranted, the court additionally held that counsel
+appeared to have made a strategic decision not to present their lim
+ited mental-deficiency evidence to the jury because having Dr. Kirk
+land testify was not in Wood’s best interest. It also found no reason
+able probability of a different outcome had the evidence developed in
+the Rule 32 proceedings been presented at trial. Woods subsequently
+sought federal habeas relief under §2254. The District Court rejected
+all but his ineffective-assistance-of-counsel claim. The District Court
+concluded that the state court’s finding that counsel made a strategic
+decision was an unreasonable determination of the facts. The court
+further held that counsel’s performance was deficient and had preju
+diced Wood, and that the state court’s contrary holdings were an un
+reasonable application of federal law under Strickland v. Washing
+ton, 466 U. S. 668. Reversing, the Eleventh Circuit held that the
+state court’s rejection of Wood’s ineffective-assistance claim was nei
+ther an unreasonable application of clearly established law nor based
+on an unreasonable determination of the facts. With respect to the
+facts, it concluded that the evidence in the Rule 32 hearings sup
+ported the state court’s strategic-decision finding, and it agreed with
+the state court’s legal conclusion that counsel’s strategic decision was
+reasonable and that Wood had failed to show prejudice. Wood’s cer
+tiorari petition raises the questions (1) whether, in order to obtain re
+lief under §2254(d)(2), a petitioner must establish only that the state
+court factual determination on which the decision was based was
+“unreasonable,” or whether §2254(e)(1) additionally requires a peti
+tioner to rebut a presumption that the determination was correct
+with clear and convincing evidence; and (2) whether the state court’s
+strategic-decision determination was reasonable.
+
+Held:
+1. Even under Wood’s reading of §2254(d)(2), the state court’s con
+clusion that his counsel made a strategic decision not to pursue or
+present evidence of his mental deficiencies was not an unreasonable
+determination of the facts in light of the evidence presented in the
+state-court proceedings. This Court need not reach the question
+whether §2254(e)(1) applies in every case presenting a challenge un
+der §2254(d)(2), see Rice v. Collins, 546 U. S. 333, 339, because its
+view of the state court’s factual determination here does not depend
+on an interpretative difference regarding the relationship between
+those provisions. While “[t]he term ‘unreasonable’ is . . . difficult to
+define,” Williams v. Taylor, 529 U. S. 362, 410, it suffices to say that
+a state-court factual determination is not unreasonable merely be
+cause the federal habeas court would have reached a different conclu
+sion in the first instance. See Rice, supra, at 341–342. Here, the
+state-court record shows that all of Wood’s counsel read the Kirkland
+
+
+Cite as: 558 U. S. ____ (2010)
+
+3
+
+Syllabus
+report. Trotter testified that Dozier told him that nothing in the re
+port merited further investigation, a recollection supported by the at
+torneys’ contemporaneous letters; and Trotter told the sentencing
+judge that counsel did not intend to introduce the report to the jury.
+This evidence can fairly be read to support the Rule 32 court’s factual
+determination that counsel’s failure to pursue or present evidence of
+Wood’s mental deficiencies was not mere oversight or neglect but the
+result of a deliberate decision to focus on other defenses. Most of the
+contrary evidence Wood highlights—e.g., that Dozier and Ralph put
+the inexperienced Trotter in charge of the penalty phase proceed
+ings—speaks not to whether counsel made a strategic decision, but to
+whether counsel’s judgment was reasonable, a question not before
+this Court. Any evidence plausibly inconsistent with the strategic
+decision finding does not suffice to show that the finding was unrea
+sonable. Pp. 8–12.
+2. Because Wood’s argument that the state court unreasonably ap
+plied Strickland in rejecting his ineffective-assistance claim on the
+merits is not “fairly included” in the questions presented under this
+Court’s Rule 14.1(a), it will not be addressed here. Pp. 12–13.
+542 F. 3d 1281, affirmed.
+SOTOMAYOR, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and SCALIA, THOMAS, GINSBURG, BREYER, and ALITO, JJ., joined.
+STEVENS, J., filed a dissenting opinion, in which KENNEDY, J., joined.
+
+

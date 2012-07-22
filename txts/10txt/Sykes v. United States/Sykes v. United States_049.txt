@@ -1,0 +1,50 @@
+10
+
+SYKES v. UNITED STATES
+
+KAGAN, J., dissenting 
+
+
+II 
+
+The Court does not deny that a State’s decision to divide
+a generic form of conduct (like vehicular flight) into sep
+arate, escalating crimes may make a difference under
+ACCA; rather, the Court declines to address that question.
+See ante, at 13. The Court rejects the structural argument
+here for one, and only one, reason. Indiana, the majority says, “treats violations of subsections (b)(1)(A) and
+(b)(1)(B) as crimes of the same magnitude”: They are both
+class D felonies carrying the same punishment.9 See also
+——————
+may elect to use a lower grade of vehicular flight when he could use a
+higher one, either as a matter of discretion or because the defendant
+entered into a plea bargain. This case provides one example, see ante,
+at 4 (majority opinion), and JUSTICE THOMAS offers several others, see
+ante, at 6–7. But as everyone agrees, what matters in determining
+whether an offense qualifies under ACCA’s residual clause is the
+“ordinary case” of conviction. And in the absence of reliable empirical
+evidence, the structure of the Indiana statute provides the best way to
+discern the ordinary case under each subsection.
+9 The Government spurns the structural argument on a different
+ground, contending that subsection (b)(1)(A) is not a lesser included
+offense of subsection (b)(1)(B). The Court wisely does not accept this
+claim. Both subsections (b)(1)(A) and (b)(1)(B) involve the use of a
+vehicle to flee, with subsection (b)(1)(B) additionally requiring that this
+use “creat[e] a substantial risk of bodily injury.” So a fleeing driver
+who violates subsection (b)(1)(B) necessarily runs afoul of subsection
+(b)(1)(A) as well. The Government contends, in response, that a person
+can violate subsection (b)(1)(B) and not (b)(1)(A) by engaging in conduct
+other than vehicular flight. See Brief for United States 48–49, n. 11.
+That is because subsection (b)(1)(B) additionally prohibits “obstruct
+[ing]” or “resist[ing]” a police officer by a variety of means, including
+through use of a vehicle. But Indiana law makes clear that subsec
+tion (b)(1)(A) still counts as a lesser included offense of subsection
+(b)(1)(B) in any prosecution involving vehicular flight. See Wright v.
+State, 658 N. E. 2d 563, 566–567 (Ind. 1995) (holding a crime to be a
+lesser included offense if its elements are “factually” subsumed within
+another offense). And even if that were not the case, it should make no
+difference. The meaningful question for purposes of ACCA is whether
+subsection (b)(1)(B)’s prohibition of aggravated vehicular flight indi
+cates that subsection (b)(1)(A) targets simple vehicular flight. That a
+
+

@@ -1,0 +1,43 @@
+10
+
+AT&T MOBILITY LLC v. CONCEPCION
+Opinion of the Court
+
+their terms.” Volt, 489 U. S., at 478; see also Stolt-Nielsen
+S. A. v. AnimalFeeds Int’l Corp., 559 U. S. ___, ___ (2010)
+(slip op., at 17). This purpose is readily apparent from the
+FAA’s text. Section 2 makes arbitration agreements
+“valid, irrevocable, and enforceable” as written (subject, of
+course, to the saving clause); §3 requires courts to stay
+litigation of arbitral claims pending arbitration of those
+claims “in accordance with the terms of the agreement”;
+and §4 requires courts to compel arbitration “in accor
+dance with the terms of the agreement” upon the motion of
+either party to the agreement (assuming that the “making
+of the arbitration agreement or the failure . . . to perform
+the same” is not at issue). In light of these provisions,
+we have held that parties may agree to limit the issues
+subject to arbitration, Mitsubishi Motors Corp. v. Soler
+Chrysler-Plymouth, Inc., 473 U. S. 614, 628 (1985), to
+arbitrate according to specific rules, Volt, supra, at 479,
+and to limit with whom a party will arbitrate its disputes,
+Stolt-Nielsen, supra, at ___ (slip op., at 19).
+The point of affording parties discretion in designing
+arbitration processes is to allow for efficient, streamlined
+procedures tailored to the type of dispute. It can be speci
+fied, for example, that the decisionmaker be a specialist in
+the relevant field, or that proceedings be kept confidential
+to protect trade secrets. And the informality of arbitral
+proceedings is itself desirable, reducing the cost and in
+creasing the speed of dispute resolution. 14 Penn Plaza
+LLC v. Pyett, 556 U. S. ___, ___ (2009) (slip op., at 20);
+Mitsubishi Motors Corp., supra, at 628.
+The dissent quotes Dean Witter Reynolds Inc. v. Byrd,
+470 U. S. 213, 219 (1985), as “ ‘reject[ing] the suggestion
+that the overriding goal of the Arbitration Act was to
+promote the expeditious resolution of claims.’ ” Post, at 4
+(opinion of BREYER, J.). That is greatly misleading. After
+saying (accurately enough) that “the overriding goal of the
+Arbitration Act was [not] to promote the expeditious reso
+
+

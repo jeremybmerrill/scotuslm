@@ -1,0 +1,48 @@
+Cite as: 564 U. S. ____ (2011)
+
+15
+
+Opinion of the Court
+
+standard of proof. As established, Congress did just that
+by codifying the common-law presumption of patent valid
+ity and, implicitly, the heightened standard of proof at
+tached to it.
+Our pre-1952 cases never adopted or endorsed the kind
+of fluctuating standard of proof that Microsoft envisions.
+And they do not indicate, even in dicta, that anything less
+than a clear-and-convincing standard would ever apply to
+an invalidity defense raised in an infringement action. To
+the contrary, the Court spoke on this issue directly in
+RCA, stating that because the heightened standard of
+proof applied where the evidence before the court was
+“different” from that considered by the PTO, it applied
+even more clearly where the evidence was identical. 293
+U. S., at 8. Likewise, the Court’s statement that a “dubi
+ous preponderance” will never suffice to sustain an inva
+lidity defense, ibid., admitted of no apparent exceptions.
+Finally, this Court often applied the heightened standard
+of proof without any mention of whether the relevant
+prior-art evidence had been before the PTO examiner, in
+circumstances strongly suggesting it had not. See, e.g.,
+Smith, 301 U. S., at 227, 233.9
+Nothing in §282’s text suggests that Congress meant to
+——————
+9 Microsoft
+
+cites numerous court of appeals decisions as support for
+its claim that a preponderance standard must apply in the event that
+the evidence in the infringement action varies from that considered by
+the PTO. We see no hint of the hybrid standard of proof that Microsoft
+advocates in these cases. Indeed, in some of these cases it appears that
+the court even evaluated the evidence according to a heightened stan
+dard of proof. See Jacuzzi Bros., Inc. v. Berkeley Pump Co., 191 F. 2d
+632, 634 (CA9 1951) (“Although it is not expressly stated that th[e]
+conclusion [of invalidity] is based upon evidence establishing the thesis
+beyond a reasonable doubt, the Trial Court expressed no doubt. And
+the record shows that such conclusion was supported by substantial
+evidence”); Western Auto Supply Co. v. American-National Co., 114
+F. 2d 711, 713 (CA6 1940) (concluding that the patent was invalid
+where the court “entertain[ed] no doubt” on the question).
+
+

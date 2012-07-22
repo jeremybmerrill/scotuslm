@@ -1,0 +1,50 @@
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+and is used to prevent fraud. Second, the part of the remedy holding
+CIGNA to its promise that the new plan would not take from its em
+ployees previously accrued benefits resembles estoppel, also a tradi
+tional equitable remedy. Third, the injunctions require the plan ad
+ministrator to pay already retired beneficiaries money owed them
+under the plan as reformed. Equity courts possessed the power to
+provide monetary “compensation” for a loss resulting from a trustee’s
+breach of duty, or to prevent the trustee’s unjust enrichment. That
+surcharge remedy extended to a breach of trust committed by a fidu
+ciary encompassing any violation of duty imposed on that fiduciary.
+Pp. 16–20.
+2. Because §502(a)(3) authorizes “appropriate equitable relief” for
+violations of ERISA, the relevant standard of harm will depend on
+the equitable theory by which the District Court provides relief. That
+court is to conduct the analysis in the first instance, but there are
+several equitable principles that it might apply on remand. Neither
+ERISA’s relevant substantive provisions nor §502(a)(3) sets a particu
+lar standard for determining harm. And equity law provides no gen
+eral principle that “detrimental reliance” must be proved before a
+remedy is decreed. To the extent any such requirement arises, it is
+because the specific remedy being contemplated imposes that re
+quirement. Thus, when a court exercises authority under §502(a)(3)
+to impose a remedy equivalent to estoppel, a showing of detrimental
+reliance must be made. However, equity courts did not insist on a
+detrimental reliance showing where they ordered reformation where
+a fraudulent suppression, omission, or insertion materially affected
+the substance of a contract. Nor did they require a detrimental reli
+ance showing when they ordered surcharge. They simply ordered a
+trust or beneficiary made whole following a trustee’s breach of trust.
+This flexible approach belies a strict detrimental reliance require
+ment. To be sure, a fiduciary can be surcharged under §502(a)(3)
+only upon a showing of actual harm, and such harm may consist of
+detrimental reliance. But it might also come from the loss of a right
+protected by ERISA or its trust-law antecedents. It is not difficult to
+imagine how the failure to provide proper summary information here,
+in violation of ERISA, injured employees even if they did not them
+selves act in reliance on the summaries. Thus, to obtain relief by
+surcharge for violations of §§102(a) and 104(b), a plan participant or
+beneficiary must show that the violation caused injury, but need
+show only actual harm and causation, not detrimental reliance.
+Pp. 20–22.
+348 Fed. Appx. 627, vacated and remanded.
+BREYER, J., delivered the opinion of the Court, in which ROBERTS,
+
+

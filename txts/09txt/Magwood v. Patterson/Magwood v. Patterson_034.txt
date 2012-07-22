@@ -1,0 +1,42 @@
+8
+
+MAGWOOD v. PATTERSON
+KENNEDY, J., dissenting
+
+to the facts of that case. 551 U. S., at 968 (THOMAS, J.,
+dissenting) (“Today’s decision thus stands only for the
+proposition that Ford claims somehow deserve a special
+(and unjustified) exemption from the statute’s plain
+import”).
+Failing to consider the nature of the claim when decid
+ing whether an application is barred as “second or succes
+sive” raises other difficulties. Consider a second-in-time
+habeas petition challenging an alleged violation that
+occurred entirely after the denial of the first petition; for
+example, a failure to grant a prisoner parole at the time
+promised him by state law or the unlawful withdrawal of
+good-time credits. See supra, at 3. Under the Court’s
+rule, it would appear that a habeas application challeng
+ing those alleged violations would be barred as “second or
+successive” because it would be a second-in-time applica
+tion challenging custody pursuant to the same judgment.
+That result would be inconsistent with abuse-of-the-writ
+principles and might work a suspension of the writ of
+habeas corpus.
+B
+Having unmoored the phrase “second or successive”
+from its textual and historical underpinnings, the Court
+creates a new puzzle for itself: If the nature of the claim is
+not what makes an application “second or successive,”
+then to what should a court look? Finding no reference
+point in §2244(b)’s text, the Court searches in AEDPA for
+a different peg.
+The Court believes that it finds its peg in a different
+provision:
+“[A] district court shall entertain an application for a
+writ of habeas corpus in behalf of a person in custody
+pursuant to the judgment of a State court only on the
+ground that he is in custody in violation of the Consti
+tution or laws or treaties of the United States.”
+
+

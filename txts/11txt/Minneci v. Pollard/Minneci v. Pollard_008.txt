@@ -1,0 +1,40 @@
+Cite as: 565 U. S. ____ (2012)
+
+5
+
+Opinion of the Court
+
+damages action implicit in the Fifth Amendment’s Due
+Process Clause. Id., at 248–249. In doing so, the Court
+emphasized the unavailability of “other alternative forms
+of judicial relief.” Id., at 245. And the Court noted that
+there was “no evidence” that Congress (or the Constitution) intended to foreclose such a remedy. Id., at 247.
+In Carlson v. Green, 446 U. S. 14 (1980), the Court
+considered a claim for damages brought by the estate of
+a federal prisoner who (the estate said) had died as the
+result of government officials’ “deliberat[e] indifferen[ce]”
+to his medical needs—indifference that violated the
+Eighth Amendment. Id., at 16, n. 1, 17 (citing Estelle v.
+Gamble, 429 U. S. 97 (1976)). The Court implied an action
+for damages from the Eighth Amendment. 446 U. S., at
+17–18. It noted that state law offered the particular plaintiff no meaningful damages remedy. Id., at 17, n. 4.
+Although the estate might have brought a damages claim
+under the Federal Tort Claims Act, the defendant in any
+such lawsuit was the employer, namely the United States,
+not the individual officers who had committed the violation. Id., at 21. A damages remedy against an individual
+officer, the Court added, would prove a more effective
+deterrent. Ibid. And, rather than leave compensation to
+the “vagaries” of state tort law, a federal Bivens action
+would provide “uniform rules.” 446 U. S., at 23.
+Since Carlson, the Court has had to decide in several
+different instances whether to imply a Bivens action. And
+in each instance it has decided against the existence of
+such an action. These instances include:
+(1) A federal employee’s claim that his federal employer
+dismissed him in violation of the First Amendment, Bush,
+supra, at 386–388 (congressionally created federal civil
+service procedures provide meaningful redress);
+(2) A claim by military personnel that military superiors violated various constitutional provisions, Chappell v.
+Wallace, 462 U. S. 296, 298–300 (1983) (special factors
+
+

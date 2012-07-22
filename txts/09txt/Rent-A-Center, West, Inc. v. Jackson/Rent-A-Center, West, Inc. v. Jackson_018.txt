@@ -1,0 +1,47 @@
+4
+
+RENT-A-CENTER, WEST, INC. v. JACKSON
+STEVENS, J., dissenting
+
+the parties have purportedly done so, courts must examine
+two distinct rules to decide whether the delegation is
+valid.
+The first line of cases looks to the parties’ intent. In
+AT&T Technologies, we stated that “question[s] of arbi
+trability” may be delegated to the arbitrator, so long as the
+delegation is clear and unmistakable. 475 U. S., at 649.
+We reaffirmed this rule, and added some nuance, in First
+Options. Against the background presumption that ques
+tions of arbitrability go to the court, we stated that federal
+courts should “generally” apply “ordinary state-law princi
+ples that govern the formation of contracts” to assess
+“whether the parties agreed to arbitrate a certain matter
+(including arbitrability).” 514 U. S., at 944. But, we
+added, a more rigorous standard applies when the inquiry
+is whether the parties have “agreed to arbitrate arbitrabil
+ity”: “Courts should not assume that the parties agreed to
+arbitrate arbitrability unless there is clear and unmistak
+able evidence that they did so.”3 Ibid. (internal quotation
+marks and brackets omitted). JUSTICE BREYER’s unani
+mous opinion for the Court described this standard as a
+type of “revers[e]” “presumption”4—one in favor of a judi
+cial, rather than an arbitral, forum. Id., at 945. Clear and
+unmistakable “evidence” of agreement to arbitrate arbi
+trability might include, as was urged in First Options, a
+course of conduct demonstrating assent,5 id., at 946, or, as
+——————
+3 We
+
+have not expressly decided whether the First Options delegation
+principle would apply to questions of arbitrability that implicate §2
+concerns, i.e., grounds for contract revocation. I do not need to weigh in
+on this issue in order to resolve the present case.
+4 It is a “revers[e]” presumption because it is counter to the presump
+tion we usually apply in favor of arbitration when the question con
+cerns whether a particular dispute falls within the scope of a conced
+edly binding arbitration agreement. First Options, 514 U. S., at 944–
+945.
+5 In First Options we found no clear and unmistakable assent to dele
+gate to the arbitrator questions of arbitrability, given the parties’
+
+

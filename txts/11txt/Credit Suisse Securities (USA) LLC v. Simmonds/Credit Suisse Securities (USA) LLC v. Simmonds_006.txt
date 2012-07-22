@@ -1,0 +1,36 @@
+4
+
+CREDIT SUISSE SECURITIES (USA) LLC v. SIMMONDS
+Opinion of the Court
+
+whether the plaintiff knew or should have known of the conduct at issue.” 638 F. 3d, at 1095. Judge Milan Smith, Jr.,
+the author of the panel opinion, also specially concurred,
+expressing his disagreement with the Whittaker rule, but
+noting that the court was compelled to follow Circuit
+precedent. Id., at 1099–1101. We granted certiorari, 564
+U. S. ___ (2011).
+II
+Petitioners maintain that these suits were properly
+dismissed because they were filed more than two years after the alleged profits were realized. Pointing to dictum
+in Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson,
+501 U. S. 350 (1991), petitioners argue that §16(b)’s limitations period is a period of repose, which is not to be
+“extended to account for a plaintiff ’s discovery of the facts
+underlying a claim.” Brief for Petitioners 17. See Lampf,
+supra, at 360, n. 5 (“Section 16(b) . . . sets a 2-year . . .
+period of repose”). We do not reach that contention, because we conclude that, even assuming that the 2-year
+period can be extended, the Ninth Circuit erred in determining that it is tolled until the filing of a §16(a)
+statement.
+In adopting its rule in Whittaker, the Ninth Circuit expressed its concern that “[i]t would be a simple matter
+for the unscrupulous to avoid the salutary effect of Section
+16(b) . . . simply by failing to file . . . reports in violation of
+subdivision (a) and thereby concealing from prospective
+plaintiffs the information they would need” to bring a
+§16(b) action. 639 F. 2d, at 528 (internal quotation marks
+omitted). Assuming that is correct, it does not follow that
+the limitations period is tolled until the §16(a) statement
+is filed. Section 16 itself quite clearly does not extend the
+period in that manner. The 2-year clock starts from “the
+date such profit was realized.” §78p(b). Congress could
+have very easily provided that “no such suit shall be
+
+

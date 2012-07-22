@@ -1,0 +1,43 @@
+14
+
+CIGNA CORP. v. AMARA
+Opinion of the Court
+
+the plan’s terms as written, adding that the “plan” in
+cludes the disclosures that constituted the summary plan
+descriptions. In other words, in the view of the Solicitor
+General, the terms of the summaries are terms of the
+plan.
+Even if the District Court had viewed the summaries
+as plan “terms” (which it did not, see supra, at 10–11),
+however, we cannot agree that the terms of statutorily
+required plan summaries (or summaries of plan modifica
+tions) necessarily may be enforced (under §502(a)(1)(B)) as
+the terms of the plan itself. For one thing, it is difficult to
+square the Solicitor General’s reading of the statute with
+ERISA §102(a), the provision that obliges plan adminis
+trators to furnish summary plan descriptions. The syntax
+of that provision, requiring that participants and benefici
+aries be advised of their rights and obligations “under the
+plan,” suggests that the information about the plan pro
+vided by those disclosures is not itself part of the plan.
+See 29 U. S. C. §1022(a). Nothing in §502(a)(1)(B) (or, as
+far as we can tell, anywhere else) suggests the contrary.
+Nor do we find it easy to square the Solicitor General’s
+reading with the statute’s division of authority between a
+plan’s sponsor and the plan’s administrator. The plan’s
+sponsor (e.g., the employer), like a trust’s settlor, creates
+the basic terms and conditions of the plan, executes a
+written instrument containing those terms and conditions,
+and provides in that instrument “a procedure” for making
+amendments. §402, 29 U. S. C. §1102. The plan’s admin
+istrator, a trustee-like fiduciary, manages the plan, follows
+its terms in doing so, and provides participants with the
+summary documents that describe the plan (and modifica
+tions) in readily understandable form. §§3(21)(A), 101(a),
+102, 104, 29 U. S. C. §§1002(21)(A), 1021(a), 1022, 1024
+(2006 ed. and Supp. III). Here, the District Court found
+that the same entity, CIGNA, filled both roles. See 534
+F. Supp. 2d, at 331. But that is not always the case.
+
+

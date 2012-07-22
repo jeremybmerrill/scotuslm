@@ -1,0 +1,688 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–10
+_________________
+
+MICHAEL D. TURNER, PETITIONER v. REBECCA L. 
+
+ROGERS ET AL. 
+
+ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+
+SOUTH CAROLINA
+
+[June 20, 2011] 
+
+
+JUSTICE BREYER delivered the opinion of the Court.
+South Carolina’s Family Court enforces its child support
+orders by threatening with incarceration for civil contempt
+those who are (1) subject to a child support order, (2) able
+to comply with that order, but (3) fail to do so. We must
+decide whether the Fourteenth Amendment’s Due Process
+Clause requires the State to provide counsel (at a civil
+contempt hearing) to an indigent person potentially faced
+with such incarceration. We conclude that where as here
+the custodial parent (entitled to receive the support) is
+unrepresented by counsel, the State need not provide
+counsel to the noncustodial parent (required to provide the
+support). But we attach an important caveat, namely,
+that the State must nonetheless have in place alternative
+procedures that assure a fundamentally fair determina
+tion of the critical incarceration-related question, whether
+the supporting parent is able to comply with the support
+order.
+I
+A
+South Carolina family courts enforce their child support
+
+
+2
+
+TURNER v. ROGERS
+Opinion of the Court
+
+orders in part through civil contempt proceedings. Each
+month the family court clerk reviews outstanding child
+support orders, identifies those in which the supporting
+parent has fallen more than five days behind, and sends
+that parent an order to “show cause” why he should not be
+held in contempt. S. C. Rule Family Ct. 24 (2011). The
+“show cause” order and attached affidavit refer to the
+relevant child support order, identify the amount of
+the arrearage, and set a date for a court hearing. At the
+hearing that parent may demonstrate that he is not in
+contempt, say, by showing that he is not able to make the
+required payments. See Moseley v. Mosier, 279 S. C. 348,
+351, 306 S. E. 2d 624, 626 (1983) (“When the parent is
+unable to make the required payments, he is not in con
+tempt”). If he fails to make the required showing, the
+court may hold him in civil contempt. And it may require
+that he be imprisoned unless and until he purges himself
+of contempt by making the required child support pay
+ments (but not for more than one year regardless). See
+S. C. Code Ann. §63–3–620 (Supp. 2010) (imprisonment
+for up to one year of “adult who wilfully violates” a court
+order); Price v. Turner, 387 S. C. 142, 145, 691 S. E. 2d
+470, 472 (2010) (civil contempt order must permit purging
+of contempt through compliance).
+B
+In June 2003 a South Carolina family court entered an
+order, which (as amended) required petitioner, Michael
+Turner, to pay $51.73 per week to respondent, Rebecca
+Rogers, to help support their child. (Rogers’ father, Larry
+Price, currently has custody of the child and is also a
+respondent before this Court.) Over the next three years,
+Turner repeatedly failed to pay the amount due and was
+held in contempt on five occasions. The first four times he
+was sentenced to 90 days’ imprisonment, but he ultimately
+paid the amount due (twice without being jailed, twice
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+after spending two or three days in custody). The fifth
+time he did not pay but completed a 6-month sentence.
+After his release in 2006 Turner remained in arrears.
+On March 27, 2006, the clerk issued a new “show cause”
+order. And after an initial postponement due to Turner’s
+failure to appear, Turner’s civil contempt hearing took
+place on January 3, 2008. Turner and Rogers were pre
+sent, each without representation by counsel.
+The hearing was brief. The court clerk said that Turner
+was $5,728.76 behind in his payments. The judge asked
+Turner if there was “anything you want to say.” Turner
+replied,
+“Well, when I first got out, I got back on dope. I done
+meth, smoked pot and everything else, and I paid a
+little bit here and there. And, when I finally did get to
+working, I broke my back, back in September. I filed
+for disability and SSI. And, I didn’t get straightened
+out off the dope until I broke my back and laid up for
+two months. And, now I’m off the dope and every
+thing. I just hope that you give me a chance. I don’t
+know what else to say. I mean, I know I done wrong,
+and I should have been paying and helping her, and
+I’m sorry. I mean, dope had a hold to me.” App. to
+Pet. for Cert. 17a.
+The judge then said, “[o]kay,” and asked Rogers if she had
+anything to say. Ibid. After a brief discussion of federal
+benefits, the judge stated,
+“If there’s nothing else, this will be the Order of
+the Court. I find the Defendant in willful contempt.
+I’m [going to] sentence him to twelve months in the
+Oconee County Detention Center. He may purge him
+self of the contempt and avoid the sentence by having
+a zero balance on or before his release. I’ve also
+placed a lien on any SSI or other benefits.” Id., at
+18a.
+
+
+4
+
+TURNER v. ROGERS
+Opinion of the Court
+
+The judge added that Turner would not receive good-time
+or work credits, but “[i]f you’ve got a job, I’ll make you
+eligible for work release.” Ibid. When Turner asked why
+he could not receive good-time or work credits, the judge
+said, “[b]ecause that’s my ruling.” Ibid.
+The court made no express finding concerning Turner’s
+ability to pay his arrearage (though Turner’s wife had
+voluntarily submitted a copy of Turner’s application for
+disability benefits, cf. post, at 7, n. 3 (THOMAS, J., dissent
+ing); App. 135a–136a). Nor did the judge ask any followup
+questions or otherwise address the ability-to-pay issue.
+After the hearing, the judge filled out a prewritten form
+titled “Order for Contempt of Court,” which included the
+statement:
+“Defendant (was) (was not) gainfully employed and/or
+(had) (did not have) the ability to make these support
+payments when due.” Id., at 60a, 61a.
+But the judge left this statement as is without indicating
+whether Turner was able to make support payments.
+C
+While serving his 12-month sentence, Turner, with the
+help of pro bono counsel, appealed. He claimed that
+the Federal Constitution entitled him to counsel at his con
+tempt hearing. The South Carolina Supreme Court de
+cided Turner’s appeal after he had completed his sentence.
+And it rejected his “right to counsel” claim. The court
+pointed out that civil contempt differs significantly from
+criminal contempt. The former does not require all the
+“constitutional safeguards” applicable in criminal proceed
+ings. 387 S. C., at 145, 691 S. E. 2d, at 472. And the right
+to government-paid counsel, the Supreme Court held, was
+one of the “safeguards” not required. Ibid.
+Turner sought certiorari. In light of differences among
+state courts (and some federal courts) on the applicability
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+of a “right to counsel” in civil contempt proceedings enforc
+ing child support orders, we granted the writ. Compare,
+e.g., Pasqua v. Council, 186 N. J. 127, 141–146, 892 A. 2d
+663, 671–674 (2006); Black v. Division of Child Support
+Enforcement, 686 A. 2d 164, 167–168 (Del. 1996); Mead v.
+Batchlor, 435 Mich. 480, 488–505, 460 N. W. 2d 493, 496–
+504 (1990); Ridgway v. Baker, 720 F. 2d 1409, 1413–1415
+(CA5 1983) (all finding a federal constitutional right to
+counsel for indigents facing imprisonment in a child sup
+port civil contempt proceeding), with Rodriguez v. Eighth
+Judicial Dist. Ct., County of Clark, 120 Nev. 798, 808–813,
+102 P. 3d 41, 48–51 (2004) (no right to counsel in civil
+contempt hearing for nonsupport, except in “rarest of
+cases”); Andrews v. Walton, 428 So. 2d 663, 666 (Fla. 1983)
+(“no circumstances in which a parent is entitled to court
+appointed counsel in a civil contempt proceeding for fail
+ure to pay child support”). Compare also In re Grand Jury
+Proceedings, 468 F. 2d 1368, 1369 (CA9 1972) (per curiam)
+(general right to counsel in civil contempt proceedings),
+with Duval v. Duval, 114 N. H. 422, 425–427, 322 A. 2d 1,
+3–4 (1974) (no general right, but counsel may be required
+on case-by-case basis).
+II
+Respondents argue that this case is moot. See Massa
+chusetts v. Mellon, 262 U. S. 447, 480 (1923) (Article III
+judicial power extends only to actual “cases” and “contro
+versies”); Alvarez v. Smith, 558 U. S. __, __ (2009) (slip op.,
+at 4) (“An actual controversy must be extant at all stages
+of review” (internal quotation marks omitted)). They point
+out that Turner completed his 12-month prison sentence
+in 2009. And they add that there are no “collateral conse
+quences” of that particular contempt determination that
+might keep the dispute alive. Compare Sibron v. New
+York, 392 U. S. 40, 55–56 (1968) (release from prison does
+not moot a criminal case because “collateral consequences”
+
+
+6
+
+TURNER v. ROGERS
+Opinion of the Court
+
+are presumed to continue), with Spencer v. Kemna, 523
+U. S. 1, 14 (1998) (declining to extend the presumption to
+parole revocation).
+The short, conclusive answer to respondents’ mootness
+claim, however, is that this case is not moot because it
+falls within a special category of disputes that are “capable
+of repetition” while “evading review.” Southern Pacific
+Terminal Co. v. ICC, 219 U. S. 498, 515 (1911). A dispute
+falls into that category, and a case based on that dispute
+remains live, if “(1) the challenged action [is] in its dura
+tion too short to be fully litigated prior to its cessation or
+expiration, and (2) there [is] a reasonable expectation that
+the same complaining party [will] be subjected to the same
+action again.” Weinstein v. Bradford, 423 U. S. 147, 149
+(1975) (per curiam).
+Our precedent makes clear that the “challenged action,”
+Turner’s imprisonment for up to 12 months, is “in its
+duration too short to be fully litigated” through the state
+courts (and arrive here) prior to its “expiration.” See, e.g.,
+First Nat. Bank of Boston v. Bellotti, 435 U. S. 765,
+774 (1978) (internal quotation marks omitted) (18-month
+period too short); Southern Pacific Terminal Co., supra, at
+514–516 (2-year period too short). At the same time, there
+is a more than “reasonable” likelihood that Turner will
+again be “subjected to the same action.” As we have
+pointed out, supra, at 2–3, Turner has frequently failed to
+make his child support payments. He has been the subject
+of several civil contempt proceedings. He has been im
+prisoned on several of those occasions. Within months of
+his release from the imprisonment here at issue he was
+again the subject of civil contempt proceedings. And he
+was again imprisoned, this time for six months. As of
+December 9, 2010, Turner was $13,814.72 in arrears, and
+another contempt hearing was scheduled for May 4, 2011.
+App. 104a; Reply Brief for Petitioner 3, n. 1. These facts
+bring this case squarely within the special category of
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+cases that are not moot because the underlying dispute
+is “capable of repetition, yet evading review.” See, e.g.,
+Nebraska Press Assn. v. Stuart, 427 U. S. 539, 546–547
+(1976) (internal quotation marks omitted).
+Moreover, the underlying facts make this case unlike
+DeFunis v. Odegaard, 416 U. S. 312 (1974) (per curiam),
+and St. Pierre v. United States, 319 U. S. 41 (1943) (per
+curiam), two cases that respondents believe require us to
+find this case moot regardless. DeFunis was moot, but
+that is because the plaintiff himself was unlikely to again
+suffer the conduct of which he complained (and others
+likely to suffer from that conduct could bring their own
+lawsuits). Here petitioner himself is likely to suffer future
+imprisonment.
+St. Pierre was moot because the petitioner (a witness
+held in contempt and sentenced to five months’ imprison
+ment) had failed to “apply to this Court for a stay” of the
+federal-court order imposing imprisonment. 319 U. S., at
+42–43. And, like the witness in St. Pierre, Turner did not
+seek a stay of the contempt order requiring his imprison
+ment. But this case, unlike St. Pierre, arises out of a
+state-court proceeding. And respondents give us no reason
+to believe that we would have (or that we could have)
+granted a timely request for a stay had one been made.
+Cf. 28 U. S. C. §1257 (granting this Court jurisdiction to
+review final state-court judgments). In Sibron, we re
+jected a similar “mootness” argument for just that reason.
+392 U. S., at 53, n. 13. And we find this case similar in
+this respect to Sibron, not to St. Pierre.
+III 
+
+A
+
+We must decide whether the Due Process Clause grants
+an indigent defendant, such as Turner, a right to state
+appointed counsel at a civil contempt proceeding, which
+may lead to his incarceration. This Court’s precedents
+
+
+8
+
+TURNER v. ROGERS
+Opinion of the Court
+
+provide no definitive answer to that question. This Court
+has long held that the Sixth Amendment grants an indi
+gent defendant the right to state-appointed counsel in
+a criminal case. Gideon v. Wainwright, 372 U. S. 335
+(1963). And we have held that this same rule applies to
+criminal contempt proceedings (other than summary
+proceedings). United States v. Dixon, 509 U. S. 688, 696
+(1993); Cooke v. United States, 267 U. S. 517, 537 (1925).
+But the Sixth Amendment does not govern civil cases.
+Civil contempt differs from criminal contempt in that it
+seeks only to “coerc[e] the defendant to do” what a court
+had previously ordered him to do. Gompers v. Bucks Stove
+& Range Co., 221 U. S. 418, 442 (1911). A court may not
+impose punishment “in a civil contempt proceeding when
+it is clearly established that the alleged contemnor is
+unable to comply with the terms of the order.” Hicks v.
+Feiock, 485 U. S. 624, 638, n. 9 (1988). And once a civil
+contemnor complies with the underlying order, he is
+purged of the contempt and is free. Id., at 633 (he
+“carr[ies] the keys of [his] prison in [his] own pockets”
+(internal quotation marks omitted)).
+Consequently, the Court has made clear (in a case not
+involving the right to counsel) that, where civil contempt
+is at issue, the Fourteenth Amendment’s Due Process
+Clause allows a State to provide fewer procedural protec
+tions than in a criminal case. Id., at 637–641 (State may
+place the burden of proving inability to pay on the defen
+dant).
+This Court has decided only a handful of cases that
+more directly concern a right to counsel in civil matters.
+And the application of those decisions to the present case
+is not clear. On the one hand, the Court has held that the
+Fourteenth Amendment requires the State to pay for
+representation by counsel in a civil “juvenile delinquency”
+proceeding (which could lead to incarceration). In re
+Gault, 387 U. S. 1, 35–42 (1967). Moreover, in Vitek v.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+Jones, 445 U. S. 480, 496–497 (1980), a plurality of four
+Members of this Court would have held that the Four
+teenth Amendment requires representation by counsel in
+a proceeding to transfer a prison inmate to a state hospital
+for the mentally ill. Further, in Lassiter v. Department of
+Social Servs. of Durham Cty., 452 U. S. 18 (1981), a case
+that focused upon civil proceedings leading to loss of pa
+rental rights, the Court wrote that the
+“pre-eminent generalization that emerges from this
+Court’s precedents on an indigent’s right to appointed
+counsel is that such a right has been recognized to ex
+ist only where the litigant may lose his physical lib
+erty if he loses the litigation.” Id., at 25.
+And the Court then drew from these precedents “the pre
+sumption that an indigent litigant has a right to appointed
+counsel only when, if he loses, he may be deprived of his
+physical liberty.” Id., at 26–27.
+On the other hand, the Court has held that a criminal
+offender facing revocation of probation and imprisonment
+does not ordinarily have a right to counsel at a probation
+revocation hearing. Gagnon v. Scarpelli, 411 U. S. 778
+(1973); see also Middendorf v. Henry, 425 U. S. 25 (1976)
+(no due process right to counsel in summary court-martial
+proceedings). And, at the same time, Gault, Vitek, and
+Lassiter are readily distinguishable. The civil juvenile
+delinquency proceeding at issue in Gault was “little differ
+ent” from, and “comparable in seriousness” to, a criminal
+prosecution. 387 U. S., at 28, 36. In Vitek, the controlling
+opinion found no right to counsel. 445 U. S., at 499–500
+(Powell, J., concurring in part) (assistance of mental
+health professionals sufficient). And the Court’s state
+ments in Lassiter constitute part of its rationale for deny
+ing a right to counsel in that case. We believe those
+statements are best read as pointing out that the Court
+previously had found a right to counsel “only” in cases
+
+
+10
+
+TURNER v. ROGERS
+Opinion of the Court
+
+involving incarceration, not that a right to counsel exists
+in all such cases (a position that would have been difficult
+to reconcile with Gagnon).
+B
+Civil contempt proceedings in child support cases constitute one part of a highly complex system designed to
+assure a noncustodial parent’s regular payment of funds
+typically necessary for the support of his children. Often
+the family receives welfare support from a state
+administered federal program, and the State then seeks
+reimbursement from the noncustodial parent. See 42
+U. S. C. §§608(a)(3) (2006 ed., Supp. III), 656(a)(1) (2006
+ed.); S. C. Code Ann. §§43–5–65(a)(1), (2) (2010 Cum.
+Supp.). Other times the custodial parent (often the
+mother, but sometimes the father, a grandparent, or an
+other person with custody) does not receive government
+benefits and is entitled to receive the support payments
+herself.
+The Federal Government has created an elaborate
+procedural mechanism designed to help both the govern
+ment and custodial parents to secure the payments to
+which they are entitled. See generally Blessing v. Free
+stone, 520 U. S. 329, 333 (1997) (describing the “interlock
+ing set of cooperative federal-state welfare programs” as
+they relate to child support enforcement); 45 CFR pt. 303
+(2010) (prescribing standards for state child support agen
+cies). These systems often rely upon wage withholding,
+expedited procedures for modifying and enforcing child
+support orders, and automated data processing.
+42
+U. S. C. §§666(a), (b), 654(24). But sometimes States will
+use contempt orders to ensure that the custodial parent
+receives support payments or the government receives
+reimbursement. Although some experts have criticized
+this last-mentioned procedure, and the Federal Govern
+ment believes that “the routine use of contempt for non
+
+
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+payment of child support is likely to be an ineffective
+strategy,” the Government also tells us that “coercive
+enforcement remedies, such as contempt, have a role to
+play.” Brief for United States as Amicus Curiae 21–22,
+and n. 8 (citing Dept. of Health and Human Services,
+National Child Support Enforcement, Strategic Plan: FY
+2005–2009, pp. 2, 10). South Carolina, which relies heav
+ily on contempt proceedings, agrees that they are an im
+portant tool.
+We here consider an indigent’s right to paid counsel at
+such a contempt proceeding. It is a civil proceeding. And
+we consequently determine the “specific dictates of due
+process” by examining the “distinct factors” that this
+Court has previously found useful in deciding what spe
+cific safeguards the Constitution’s Due Process Clause re
+quires in order to make a civil proceeding fundamentally
+fair. Mathews v. Eldridge, 424 U. S. 319, 335 (1976) (con
+sidering fairness of an administrative proceeding). As
+relevant here those factors include (1) the nature of “the
+private interest that will be affected,” (2) the comparative
+“risk” of an “erroneous deprivation” of that interest with
+and without “additional or substitute procedural safe
+guards,” and (3) the nature and magnitude of any counter
+vailing interest in not providing “additional or substitute
+procedural requirement[s].” Ibid. See also Lassiter, 452
+U. S., at 27–31 (applying the Mathews framework).
+The “private interest that will be affected” argues
+strongly for the right to counsel that Turner advocates.
+That interest consists of an indigent defendant’s loss of
+personal liberty through imprisonment. The interest in
+securing that freedom, the freedom “from bodily restraint,”
+lies “at the core of the liberty protected by the Due Process
+Clause.” Foucha v. Louisiana, 504 U. S. 71, 80 (1992).
+And we have made clear that its threatened loss through
+legal proceedings demands “due process protection.”
+Addington v. Texas, 441 U. S. 418, 425 (1979).
+
+
+12
+
+TURNER v. ROGERS
+Opinion of the Court
+
+Given the importance of the interest at stake, it is ob
+viously important to assure accurate decisionmaking in
+respect to the key “ability to pay” question. Moreover, the
+fact that ability to comply marks a dividing line between
+civil and criminal contempt, Hicks, 485 U. S., at 635, n. 7,
+reinforces the need for accuracy. That is because an incor
+rect decision (wrongly classifying the contempt proceeding
+as civil) can increase the risk of wrongful incarceration by
+depriving the defendant of the procedural protections
+(including counsel) that the Constitution would demand in
+a criminal proceeding. See, e.g., Dixon, 509 U. S., at 696
+(proof beyond a reasonable doubt, protection from double
+jeopardy); Codispoti v. Pennsylvania, 418 U. S. 506, 512–
+513, 517 (1974) (jury trial where the result is more than
+six months’ imprisonment). And since 70% of child sup
+port arrears nationwide are owed by parents with either
+no reported income or income of $10,000 per year or less,
+the issue of ability to pay may arise fairly often. See
+E. Sorensen, L. Sousa, & S. Schaner, Assessing Child
+Support Arrears in Nine Large States and the Nation
+22 (2007) (prepared by The Urban Institute), online at
+http://aspe.hhs.gov/hsp/07/assessing-CS-debt/report.pdf (as
+visited June 16, 2011, and available in Clerk of Court’s
+case file); id., at 23 (“research suggests that many obligors
+who do not have reported quarterly wages have relatively
+limited resources”); Patterson, Civil Contempt and the
+Indigent Child Support Obligor: The Silent Return of
+Debtor’s Prison, 18 Cornell J. L. & Pub. Pol’y 95, 117
+(2008). See also, e.g., McBride v. McBride, 334 N. C. 124,
+131, n. 4, 431 S. E. 2d 14, 19, n. 4 (1993) (surveying North
+Carolina contempt orders and finding that the “failure of
+trial courts to make a determination of a contemnor’s
+ability to comply is not altogether infrequent”).
+On the other hand, the Due Process Clause does not
+always require the provision of counsel in civil proceedings
+where incarceration is threatened. See Gagnon, 411 U. S.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+13
+
+Opinion of the Court
+
+778. And in determining whether the Clause requires a
+right to counsel here, we must take account of opposing
+interests, as well as consider the probable value of “addi
+tional or substitute procedural safeguards.” Mathews,
+supra, at 335.
+Doing so, we find three related considerations that,
+when taken together, argue strongly against the Due
+Process Clause requiring the State to provide indigents
+with counsel in every proceeding of the kind before us.
+First, the critical question likely at issue in these cases
+concerns, as we have said, the defendant’s ability to pay.
+That question is often closely related to the question of the
+defendant’s indigence. But when the right procedures are
+in place, indigence can be a question that in many—but
+not all—cases is sufficiently straightforward to warrant
+determination prior to providing a defendant with counsel,
+even in a criminal case. Federal law, for example, re
+quires a criminal defendant to provide information show
+ing that he is indigent, and therefore entitled to state
+funded counsel, before he can receive that assistance. See
+18 U. S. C. §3006A(b).
+Second, sometimes, as here, the person opposing the
+defendant at the hearing is not the government repre
+sented by counsel but the custodial parent unrepresented
+by counsel. See Dept. of Health and Human Services,
+Office of Child Support Enforcement, Understanding Child
+Support Debt: A Guide to Exploring Child Support Debt in
+Your State 5, 6 (2004) (51% of nationwide arrears, and
+58% in South Carolina, are not owed to the government).
+The custodial parent, perhaps a woman with custody of
+one or more children, may be relatively poor, unemployed,
+and unable to afford counsel. Yet she may have encour
+aged the court to enforce its order through contempt. Cf.
+Tr. Contempt Proceedings (Sept. 14, 2005), App. 44a–45a
+(Rogers asks court, in light of pattern of nonpayment, to
+confine Turner). She may be able to provide the court
+
+
+14
+
+TURNER v. ROGERS
+Opinion of the Court
+
+with significant information. Cf. id., at 41a–43a (Rogers
+describes where Turner lived and worked). And the pro
+ceeding is ultimately for her benefit.
+A requirement that the State provide counsel to the
+noncustodial parent in these cases could create an asym
+metry of representation that would “alter significantly the
+nature of the proceeding.” Gagnon, supra, at 787. Doing
+so could mean a degree of formality or delay that would
+unduly slow payment to those immediately in need. And,
+perhaps more important for present purposes, doing so
+could make the proceedings less fair overall, increasing the
+risk of a decision that would erroneously deprive a family
+of the support it is entitled to receive. The needs of such
+families play an important role in our analysis. Cf. post,
+at 10–12 (opinion of THOMAS, J.).
+Third, as the Solicitor General points out, there is avail
+able a set of “substitute procedural safeguards,” Mathews,
+424 U. S., at 335, which, if employed together, can signifi
+cantly reduce the risk of an erroneous deprivation of lib
+erty. They can do so, moreover, without incurring some of
+the drawbacks inherent in recognizing an automatic right
+to counsel. Those safeguards include (1) notice to the de
+fendant that his “ability to pay” is a critical issue in the
+contempt proceeding; (2) the use of a form (or the equiva
+lent) to elicit relevant financial information; (3) an oppor
+tunity at the hearing for the defendant to respond to
+statements and questions about his financial status, (e.g.,
+those triggered by his responses on the form); and (4) an
+express finding by the court that the defendant has the
+ability to pay. See Tr. of Oral Arg. 26–27; Brief for United
+States as Amicus Curiae 23–25. In presenting these al
+ternatives, the Government draws upon considerable
+experience in helping to manage statutorily mandated
+federal-state efforts to enforce child support orders. See
+supra, at 10. It does not claim that they are the only
+possible alternatives, and this Court’s cases suggest, for
+
+
+Cite as: 564 U. S. ____ (2011)
+
+15
+
+Opinion of the Court
+
+example, that sometimes assistance other than purely
+legal assistance (here, say, that of a neutral social worker)
+can prove constitutionally sufficient. Cf. Vitek, 445 U. S.,
+at 499–500 (Powell, J., concurring in part) (provision of
+mental health professional). But the Government does
+claim that these alternatives can assure the “fundamental
+fairness” of the proceeding even where the State does not
+pay for counsel for an indigent defendant.
+While recognizing the strength of Turner’s arguments,
+we ultimately believe that the three considerations we
+have just discussed must carry the day. In our view, a
+categorical right to counsel in proceedings of the kind
+before us would carry with it disadvantages (in the form of
+unfairness and delay) that, in terms of ultimate fairness,
+would deprive it of significant superiority over the alterna
+tives that we have mentioned. We consequently hold that
+the Due Process Clause does not automatically require the
+provision of counsel at civil contempt proceedings to an
+indigent individual who is subject to a child support order,
+even if that individual faces incarceration (for up to a
+year). In particular, that Clause does not require the
+provision of counsel where the opposing parent or other
+custodian (to whom support funds are owed) is not repre
+sented by counsel and the State provides alternative
+procedural safeguards equivalent to those we have men
+tioned (adequate notice of the importance of ability to pay,
+fair opportunity to present, and to dispute, relevant in
+formation, and court findings).
+We do not address civil contempt proceedings where the
+underlying child support payment is owed to the State, for
+example, for reimbursement of welfare funds paid to the
+parent with custody. See supra, at 10. Those proceedings
+more closely resemble debt-collection proceedings. The
+government is likely to have counsel or some other compe
+tent representative. Cf. Johnson v. Zerbst, 304 U. S. 458,
+462–463 (1938) (“[T]he average defendant does not have
+
+
+16
+
+TURNER v. ROGERS
+Opinion of the Court
+
+the professional legal skill to protect himself when brought
+before a tribunal with power to take his life or liberty,
+wherein the prosecution is presented by experienced and
+learned counsel” (emphasis added)). And this kind of
+proceeding is not before us. Neither do we address what
+due process requires in an unusually complex case where
+a defendant “can fairly be represented only by a trained
+advocate.” Gagnon, 411 U. S., at 788; see also Reply Brief
+for Petitioner 18–20 (not claiming that Turner’s case is
+especially complex).
+IV
+The record indicates that Turner received neither coun
+sel nor the benefit of alternative procedures like those we
+have described. He did not receive clear notice that his
+ability to pay would constitute the critical question in his
+civil contempt proceeding. No one provided him with a
+form (or the equivalent) designed to elicit information
+about his financial circumstances. The court did not find
+that Turner was able to pay his arrearage, but instead left
+the relevant “finding” section of the contempt order blank.
+The court nonetheless found Turner in contempt and
+ordered him incarcerated. Under these circumstances
+Turner’s incarceration violated the Due Process Clause.
+We vacate the judgment of the South Carolina Supreme
+Court and remand the case for further proceedings not
+inconsistent with this opinion.
+It is so ordered.
+
+

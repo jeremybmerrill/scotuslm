@@ -1,0 +1,51 @@
+2
+
+RANSOM v. FIA CARD SERVICES, N. A.
+Syllabus
+for ownership costs.
+When petitioner Ransom filed for Chapter 13 bankruptcy relief, he
+listed respondent (FIA) as an unsecured creditor. Among his assets,
+Ransom reported a car that he owns free of any debt. In determining
+his monthly expenses, he nonetheless claimed a car-ownership deduc
+tion of $471, the full amount specified in the “Ownership Costs” table,
+as well as a separate $388 deduction for car-operating costs. Based
+on his means-test calculations, Ransom proposed a bankruptcy plan
+that would result in repayment of approximately 25% of his unse
+cured debt. FIA objected on the ground that the plan did not direct
+all of Ransom’s disposable income to unsecured creditors. FIA con
+tended that Ransom should not have claimed the car-ownership al
+lowance because he does not make loan or lease payments on his car.
+Agreeing, the Bankruptcy Court denied confirmation of the plan.
+The Ninth Circuit Bankruptcy Appellate Panel and the Ninth Circuit
+affirmed.
+
+Held: A debtor who does not make loan or lease payments may not take
+the car-ownership deduction. Pp. 6–18.
+(a) This Court’s interpretation begins with the language of the
+Bankruptcy Code, which provides that a debtor may claim only “ap
+plicable” expense amounts listed in the Standards. Because the Code
+does not define the key word “applicable,” the term carries its ordi
+nary meaning of appropriate, relevant, suitable, or fit. What makes
+an expense amount “applicable” in this sense is most naturally un
+derstood to be its correspondence to an individual debtor’s financial
+circumstances. Congress established a filter, permitting a debtor to
+claim a deduction from a National or Local Standard table only if
+that deduction is appropriate for him. And a deduction is so appro
+priate only if the debtor will incur the kind of expense covered by the
+table during the life of the plan. Had Congress not wanted to sepa
+rate debtors who qualify for an allowance from those who do not, it
+could have omitted the term “applicable” altogether. Without that
+word, all debtors would be eligible to claim a deduction for each cate
+gory listed in the Standards. Interpreting the statute to require a
+threshold eligibility determination thus ensures that “applicable”
+carries meaning, as each word in a statute should.
+This reading draws support from the statute’s context and purpose.
+The Code initially defines a debtor’s disposable income as his “cur
+rent monthly income . . . less amounts reasonably necessary to be ex
+pended.” §1325(b)(2). It then instructs that such reasonably neces
+sary amounts “shall be determined in accordance with” the means
+test. §1325(b)(3). Because Congress intended the means test to ap
+proximate the debtor’s reasonable expenditures on essential items, a
+debtor should be required to qualify for a deduction by actually incur
+
+

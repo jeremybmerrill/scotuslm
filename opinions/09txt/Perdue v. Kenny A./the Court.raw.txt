@@ -1,0 +1,667 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–970
+_________________
+
+SONNY PERDUE, GOVERNOR OF GEORGIA, ET AL., 
+
+PETITIONERS v. KENNY A., BY HIS NEXT FRIEND
+
+LINDA WINN, ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+[April 21, 2010] 
+
+
+JUSTICE ALITO delivered the opinion of the Court.
+This case presents the question whether the calculation
+of an attorney’s fee, under federal fee-shifting statutes,
+based on the “lodestar,” i.e., the number of hours worked
+multiplied by the prevailing hourly rates, may be in
+creased due to superior performance and results.1 We
+have stated in previous cases that such an increase is
+permitted in extraordinary circumstances, and we reaf
+firm that rule. But as we have also said in prior cases,
+there is a strong presumption that the lodestar is suffi
+cient; factors subsumed in the lodestar calculation cannot
+be used as a ground for increasing an award above the
+lodestar; and a party seeking fees has the burden of identi
+fying a factor that the lodestar does not adequately take
+——————
+1 JUSTICE BREYER would have us answer this question “Yes” and then
+end the opinion. See post, at 2 (opinion concurring in part and dissent
+ing in part). Such an opinion would be of little use to the bench or bar
+and would pointlessly invite an additional round of litigation. The
+issue of the standards to be applied in granting an enhancement is
+fairly subsumed within the question that we agreed to decide and has
+been extensively discussed in the briefs filed in this case.
+
+
+2
+
+PERDUE v. KENNY A.
+Opinion of the Court
+
+into account and proving with specificity that an enhanced
+fee is justified. Because the District Court did not apply
+these standards, we reverse the decision below and re
+mand for further proceedings consistent with this opinion.
+I
+
+A
+
+Respondents (plaintiffs below) are children in the Geor
+gia foster-care system and their next friends. They filed
+this class action on behalf of 3,000 children in foster care
+and named as defendants the Governor of Georgia and
+various state officials (petitioners in this case). Claiming
+that deficiencies in the foster-care system in two counties
+near Atlanta violated their federal and state constitutional
+and statutory rights, respondents sought injunctive and
+declaratory relief, as well as attorney’s fees and expenses.
+The United States District Court for the Northern Dis
+trict of Georgia eventually referred the case to mediation,
+where the parties entered into a consent decree, which the
+District Court approved. The consent decree resolved all
+pending issues other than the fees that respondents’ at
+torneys were entitled to receive under 42 U. S. C. §1988.2
+B
+Respondents submitted a request for more than $14
+million in attorney’s fees. Half of that amount was based
+on their calculation of the lodestar—roughly 30,000 hours
+multiplied by hourly rates of $200 to $495 for attorneys
+and $75 to $150 for non-attorneys. In support of their fee
+——————
+2 Title
+
+42 U. S. C. §1988(b) provides:
+“In any action or proceeding to enforce a provision of sections 1981,
+1981a, 1982, 1983, 1985, and 1986 of this title, title IX of Public Law
+92–318, the Religious Freedom Restoration Act of 1993, the Religious
+Land Use and Institutionalized Persons Act of 2000, title VI of the Civil
+Rights Act of 1964, or section 13981 of this title, the court, in its discre
+tion, may allow the prevailing party, other than the United States, a
+reasonable attorney’s fee as part of the costs . . . . ” (Citations omitted.)
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+request, respondents submitted affidavits asserting that
+these rates were within the range of prevailing market
+rates for legal services in the relevant market.
+The other half of the amount that respondents sought
+represented a fee enhancement for superior work and
+results. Affidavits submitted in support of this request
+claimed that the lodestar amount “would be generally
+insufficient to induce lawyers of comparable skill, judg
+ment, professional representation and experience” to
+litigate this case. See, e.g., App. 80. Petitioners objected
+to the fee request, contending that some of the proposed
+hourly rates were too high, that the hours claimed were
+excessive, and that the enhancement would duplicate
+factors that were reflected in the lodestar amount.
+The District Court awarded fees of approximately
+$10.5 million. See 454 F. Supp. 2d 1260, 1296 (ND Ga.
+2006). The District Court found that the hourly rates
+proposed by respondents were “fair and reasonable,” id., at
+1285, but that some of the entries on counsel’s billing
+records were vague and that the hours claimed for many of
+the billing categories were excessive. The court therefore
+cut the non-travel hours by 15% and halved the hourly
+rate for travel hours. This resulted in a lodestar calcula
+tion of approximately $6 million.
+The court then enhanced this award by 75%, concluding
+that the lodestar calculation did not take into account “(1)
+the fact that class counsel were required to advance case
+expenses of $1.7 million over a three-year period with no
+on[-]going reimbursement, (2) the fact that class counsel
+were not paid on an on-going basis as the work was being
+performed, and (3) the fact that class counsel’s ability to
+recover a fee and expense reimbursement were completely
+contingent on the outcome of the case.” Id., at 1288. The
+court stated that respondents’ attorneys had exhibited “a
+higher degree of skill, commitment, dedication, and pro
+fessionalism . . . than the Court has seen displayed by the
+
+
+4
+
+PERDUE v. KENNY A.
+Opinion of the Court
+
+attorneys in any other case during its 27 years on the
+bench.” Id., at 1289. The court also commented that the
+results obtained were “ ‘extraordinary’ ” and added that
+“[a]fter 58 years as a practicing attorney and federal
+judge, the Court is unaware of any other case in which a
+plaintiff class has achieved such a favorable result on such
+a comprehensive scale.” Id., at 1290. The enhancement
+resulted in an additional $4.5 million fee award.
+Relying on prior Circuit precedent, a panel of the Elev
+enth Circuit affirmed. 532 F. 3d 1209 (2008). The panel
+held that the District Court had not abused its discretion
+by failing to make a larger reduction in the number of
+hours for which respondents’ attorneys sought reim
+bursement, but the panel commented that it “would have
+cut the billable hours more if we were deciding the matter
+in the first instance” and added that the hourly rates
+approved by the District Court also “appear[ed] to be on
+the generous side.” Id., at 1220, and n. 2. On the question
+of the enhancement, however, the panel splintered, with
+each judge writing a separate opinion.
+Judge Carnes concluded that binding Eleventh Circuit
+precedent required that the decision of the District Court
+be affirmed, but he opined that the reasoning in our opin
+ions suggested that no enhancement should be allowed in
+this case. He concluded that the quality of the attorneys’
+performance was “adequately accounted for ‘either in
+determining the reasonable number of hours expended on
+the litigation or in setting the reasonable hourly rates.’ ”
+Id., at 1225 (quoting Pennsylvania v. Delaware Valley
+Citizens’ Council for Clean Air, 478 U. S. 546, 565–566
+(1986) (Delaware Valley I)). He found that an enhance
+ment could not be justified based on delay in the recovery
+of attorney’s fees and reimbursable expenses because such
+delay is a routine feature of cases brought under 42
+U. S. C. §1983. And he reasoned that the District Court
+had contravened our holding in Burlington v. Dague, 505
+
+
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+U. S. 557 (1992), when it relied on “ ‘the fact that class
+counsel’s compensation was totally contingent upon pre
+vailing in this action.’ ” 532 F. 3d, at 1226, 1228 (quoting
+affidavit in support of fee request).
+Judge Wilson concurred in the judgment but disagreed
+with Judge Carnes’ view that Eleventh Circuit precedent
+is inconsistent with our decisions. Judge Hill also con
+curred in the judgment but expressed no view about the
+correctness of the prior Circuit precedent.
+The Eleventh Circuit denied rehearing en banc over the
+dissent of three judges. See 547 F. 3d 1319 (2008). Judge
+Wilson filed an opinion concurring in the denial of rehear
+ing; Judge Carnes, joined by Judges Tjoflat and Dubina,
+filed an opinion dissenting from the denial of rehearing;
+and Judge Tjoflat filed a separate dissent, contending,
+among other things, that the District Court, by basing the
+enhancement in large part on a comparison of the per
+formance of respondents’ attorneys with all of the un
+named attorneys whose work he had observed during his
+professional career, had improperly rendered a decision
+that was effectively unreviewable on appeal and had
+essentially served as a witness in support of the enhance
+ment. Id., at 1326–1327.
+We granted certiorari. 556 U. S. ___ (2009).
+II
+The general rule in our legal system is that each party
+must pay its own attorney’s fees and expenses, see Hensley
+v. Eckerhart, 461 U. S. 424, 429 (1983), but Congress
+enacted 42 U. S. C. §1988 in order to ensure that federal
+rights are adequately enforced. Section 1988 provides that
+a prevailing party in certain civil rights actions may re
+cover “a reasonable attorney’s fee as part of the costs.”3
+——————
+3 Virtually identical language appears in many of the federal fee
+shifting statutes. See Burlington v. Dague, 505 U. S. 557, 562 (1992).
+
+
+6
+
+PERDUE v. KENNY A.
+Opinion of the Court
+
+Unfortunately, the statute does not explain what Congress
+meant by a “reasonable” fee, and therefore the task of
+identifying an appropriate methodology for determining a
+“reasonable” fee was left for the courts.
+One possible method was set out in Johnson v. Georgia
+Highway Express, Inc., 488 F. 2d 714, 717–719 (CA5
+1974), which listed 12 factors that a court should consider
+in determining a reasonable fee.4 This method, however,
+“gave very little actual guidance to district courts. Setting
+attorney’s fees by reference to a series of sometimes sub
+jective factors placed unlimited discretion in trial judges
+and produced disparate results.” Delaware Valley I,
+supra, at 563.
+An alternative, the lodestar approach, was pioneered by
+the Third Circuit in Lindy Bros. Builders, Inc. of Philadel
+phia v. American Radiator & Standard Sanitary Corp.,
+487 F. 2d 161 (1973), appeal after remand, 540 F. 2d 102
+(1976), and “achieved dominance in the federal courts”
+after our decision in Hensley. Gisbrecht v. Barnhart, 535
+U. S. 789, 801 (2002). “Since that time, ‘[t]he “lodestar”
+figure has, as its name suggests, become the guiding light
+of our fee-shifting jurisprudence.’ ” Ibid. (quoting Dague,
+supra, at 562).
+Although the lodestar method is not perfect, it has
+several important virtues. First, in accordance with our
+understanding of the aim of fee-shifting statutes, the
+lodestar looks to “the prevailing market rates in the rele
+——————
+4 These factors were: “(1) the time and labor required; (2) the novelty
+and difficulty of the questions; (3) the skill requisite to perform the
+legal service properly; (4) the preclusion of employment by the attorney
+due to the acceptance of the case; (5) the customary fee; (6) whether the
+fee is fixed or contingent; (7) time limitations imposed by the client or
+the circumstances; (8) the amount involved and the results obtained; (9)
+the experience, reputation, and ability of the attorneys; (10) the ‘unde
+sirability’ of the case; (11) the nature and length of the professional
+relationship with the client; and (12) awards in similar cases.” Hensley
+v. Eckerhart, 461 U. S. 424, 430, n. 3 (1983).
+
+
+Cite as: 559 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+vant community.” Blum v. Stenson, 465 U. S. 886, 895
+(1984). Developed after the practice of hourly billing had
+become widespread, see Gisbrecht, supra, at 801, the
+lodestar method produces an award that roughly approxi
+mates the fee that the prevailing attorney would have
+received if he or she had been representing a paying client
+who was billed by the hour in a comparable case. Second,
+the lodestar method is readily administrable, see Dague,
+505 U. S., at 566; see also Buckhannon Board & Care
+Home, Inc. v. West Virginia Dept. of Health and Human
+Resources, 532 U. S. 598, 609 (2001); and unlike the John
+son approach, the lodestar calculation is “objective,”
+Hensley, supra, at 433, and thus cabins the discretion of
+trial judges, permits meaningful judicial review, and
+produces reasonably predictable results.
+III
+Our prior decisions concerning the federal fee-shifting
+statutes have established six important rules that lead to
+our decision in this case.
+First, a “reasonable” fee is a fee that is sufficient to
+induce a capable attorney to undertake the representation
+of a meritorious civil rights case. See Delaware Valley I,
+478 U. S., at 565 (“[I]f plaintiffs . . . find it possible to
+engage a lawyer based on the statutory assurance that he
+will be paid a ‘reasonable fee,’ the purpose behind the fee
+shifting statute has been satisfied”); Blum, supra, at 897
+(“[A] reasonable attorney’s fee is one that is adequate to
+attract competent counsel, but that does not produce
+windfalls to attorneys” (ellipsis, brackets, and internal
+quotation marks omitted)). Section 1988’s aim is to en
+force the covered civil rights statutes, not to provide “a
+form of economic relief to improve the financial lot of
+attorneys.” Delaware Valley I, supra, at 565.
+Second, the lodestar method yields a fee that is pre
+sumptively sufficient to achieve this objective. See Dague,
+
+
+8
+
+PERDUE v. KENNY A.
+Opinion of the Court
+
+supra, at 562; Delaware Valley I, supra, at 565; Blum,
+supra, at 897; see also Gisbrecht, supra, at 801–802.
+Indeed, we have said that the presumption is a “strong”
+one. Dague, supra, at 562; Delaware Valley I, supra, at
+565.
+Third, although we have never sustained an enhance
+ment of a lodestar amount for performance, see Brief for
+United States as Amicus Curiae 12, 17, we have repeat
+edly said that enhancements may be awarded in “ ‘rare’ ”
+and “ ‘exceptional’ ” circumstances. Delaware Valley I,
+supra, at 565; Blum, supra, at 897; Hensley, 461 U. S., at
+435.
+Fourth, we have noted that “the lodestar figure includes
+most, if not all, of the relevant factors constituting a ‘rea
+sonable’ attorney’s fee,” Delaware Valley I, supra, at 566,
+and have held that an enhancement may not be awarded
+based on a factor that is subsumed in the lodestar calcula
+tion, see Dague, supra, at 562–563; Pennsylvania v. Dela
+ware Valley Citizens’ Council for Clean Air, 483 U. S. 711,
+726–727 (1987) (Delaware Valley II) (plurality opinion);
+Blum, 465 U. S., at 898. We have thus held that the nov
+elty and complexity of a case generally may not be used as
+a ground for an enhancement because these factors “pre
+sumably [are] fully reflected in the number of billable
+hours recorded by counsel.” Ibid. We have also held that
+the quality of an attorney’s performance generally should
+not be used to adjust the lodestar “[b]ecause considera
+tions concerning the quality of a prevailing party’s coun
+sel’s representation normally are reflected in the reason
+able hourly rate.” Delaware Valley I, supra, at 566.
+Fifth, the burden of proving that an enhancement is
+necessary must be borne by the fee applicant. Dague,
+supra, at 561; Blum, 465 U. S., at 901–902.
+Finally, a fee applicant seeking an enhancement must
+produce “specific evidence” that supports the award. Id.,
+at 899, 901 (An enhancement must be based on “evidence
+
+
+Cite as: 559 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+that enhancement was necessary to provide fair and rea
+sonable compensation”). This requirement is essential if
+the lodestar method is to realize one of its chief virtues,
+i.e., providing a calculation that is objective and capable of
+being reviewed on appeal.
+IV 
+
+A
+
+In light of what we have said in prior cases, we reject
+any contention that a fee determined by the lodestar
+method may not be enhanced in any situation. The lode
+star method was never intended to be conclusive in all
+circumstances. Instead, there is a “strong presumption”
+that the lodestar figure is reasonable, but that presump
+tion may be overcome in those rare circumstances in
+which the lodestar does not adequately take into account a
+factor that may properly be considered in determining a
+reasonable fee.
+B
+In this case, we are asked to decide whether either the
+quality of an attorney’s performance or the results ob
+tained are factors that may properly provide a basis for an
+enhancement. We treat these two factors as one. When a
+plaintiff’s attorney achieves results that are more favor
+able than would have been predicted based on the govern
+ing law and the available evidence, the outcome may be
+attributable to superior performance and commitment of
+resources by plaintiff’s counsel. Or the outcome may
+result from inferior performance by defense counsel, unan
+ticipated defense concessions, unexpectedly favorable
+rulings by the court, an unexpectedly sympathetic jury, or
+simple luck. Since none of these latter causes can justify
+an enhanced award, superior results are relevant only to
+the extent it can be shown that they are the result of
+superior attorney performance. Thus, we need only con
+
+
+10
+
+PERDUE v. KENNY A.
+Opinion of the Court
+
+sider whether superior attorney performance can justify
+an enhancement. And in light of the principles derived
+from our prior cases, we inquire whether there are circum
+stances in which superior attorney performance is not
+adequately taken into account in the lodestar calculation.
+We conclude that there are a few such circumstances but
+that these circumstances are indeed “rare” and “excep
+tional,” and require specific evidence that the lodestar
+fee would not have been “adequate to attract competent
+counsel,” Blum, supra, at 897 (internal quotation marks
+omitted).
+First, an enhancement may be appropriate where the
+method used in determining the hourly rate employed in
+the lodestar calculation does not adequately measure the
+attorney’s true market value, as demonstrated in part
+during the litigation.5 This may occur if the hourly rate is
+determined by a formula that takes into account only a
+single factor (such as years since admission to the bar)6 or
+perhaps only a few similar factors. In such a case, an
+enhancement may be appropriate so that an attorney is
+compensated at the rate that the attorney would receive in
+cases not governed by the federal fee-shifting statutes.
+But in order to provide a calculation that is objective and
+reviewable, the trial judge should adjust the attorney’s
+hourly rate in accordance with specific proof linking the
+attorney’s ability to a prevailing market rate.
+Second, an enhancement may be appropriate if the
+——————
+5 Respondents correctly note that an attorney’s “brilliant insights and
+critical maneuvers sometimes matter far more than hours worked or
+years of experience.” Brief for Respondents 14. But as we said in Blum
+v. Stenson, 465 U. S. 886, 898 (1984), “[i]n those cases, the special skill
+and experience of counsel should be reflected in the reasonableness of
+the hourly rates.”
+6 See, e.g., Salazar v. District of Columbia, 123 F. Supp. 2d 8 (DC
+2000); Laffey v. Northwest Airlines, Inc., 572 F. Supp. 354 (DC 1983),
+aff’d in part, rev’d in part, 746 F. 2d 4 (CADC 1984).
+
+
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+attorney’s performance includes an extraordinary outlay of
+expenses and the litigation is exceptionally protracted. As
+Judge Carnes noted below, when an attorney agrees to
+represent a civil rights plaintiff who cannot afford to pay
+the attorney, the attorney presumably understands that
+no reimbursement is likely to be received until the suc
+cessful resolution of the case, 532 F. 3d, at 1227, and
+therefore enhancements to compensate for delay in reim
+bursement for expenses must be reserved for unusual
+cases. In such exceptional cases, however, an enhance
+ment may be allowed, but the amount of the enhancement
+must be calculated using a method that is reasonable,
+objective, and capable of being reviewed on appeal, such as
+by applying a standard rate of interest to the qualifying
+outlays of expenses.
+Third, there may be extraordinary circumstances in
+which an attorney’s performance involves exceptional
+delay in the payment of fees. An attorney who expects to
+be compensated under §1988 presumably understands
+that payment of fees will generally not come until the end
+of the case, if at all. See 532 F. 3d, at 1227 (opinion of
+Carnes, J.). Compensation for this delay is generally
+made “either by basing the award on current rates or by
+adjusting the fee based on historical rates to reflect its
+present value.” Missouri v. Jenkins, 491 U. S. 274, 282
+(1989) (internal quotation marks omitted). But we do not
+rule out the possibility that an enhancement may be ap
+propriate where an attorney assumes these costs in the
+face of unanticipated delay, particularly where the delay is
+unjustifiably caused by the defense. In such a case, how
+ever, the enhancement should be calculated by applying a
+method similar to that described above in connection with
+exceptional delay in obtaining reimbursement for
+expenses.
+We reject the suggestion that it is appropriate to grant
+performance enhancements on the ground that departures
+
+
+12
+
+PERDUE v. KENNY A.
+Opinion of the Court
+
+from hourly billing are becoming more common. As we
+have noted, the lodestar was adopted in part because it
+provides a rough approximation of general billing prac
+tices, and accordingly, if hourly billing becomes unusual,
+an alternative to the lodestar method may have to be
+found. However, neither respondents nor their amici
+contend that that day has arrived. Nor have they shown
+that permitting the award of enhancements on top of the
+lodestar figure corresponds to prevailing practice in the
+general run of cases.
+We are told that, under an increasingly popular ar
+rangement, attorneys are paid at a reduced hourly rate
+but receive a bonus if certain specified results are ob
+tained, and this practice is analogized to the award of an
+enhancement such as the one in this case. Brief for Re
+spondents 55–57. The analogy, however, is flawed. An
+attorney who agrees, at the outset of the representation, to
+a reduced hourly rate in exchange for the opportunity to
+earn a performance bonus is in a position far different
+from an attorney in a §1988 case who is compensated at
+the full prevailing rate and then seeks a performance
+enhancement in addition to the lodestar amount after the
+litigation has concluded. Reliance on these comparisons
+for the purposes of administering enhancements, there
+fore, is not appropriate.
+V
+In the present case, the District Court did not provide
+proper justification for the large enhancement that it
+awarded. The court increased the lodestar award by 75%
+but, as far as the court’s opinion reveals, this figure ap
+pears to have been essentially arbitrary. Why, for exam
+ple, did the court grant a 75% enhancement instead of the
+100% increase that respondents sought? And why 75%
+rather than 50% or 25% or 10%?
+The District Court commented that the enhancement
+
+
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+was the “minimum enhancement of the lodestar necessary
+to reasonably compensate [respondents’] counsel.” 454
+F. Supp. 2d, at 1290. But the effect of the enhancement
+was to increase the top rate for the attorneys to more than
+$866 per hour,7 and the District Court did not point to
+anything in the record that shows that this is an appro
+priate figure for the relevant market.
+The District Court pointed to the fact that respondents’
+counsel had to make extraordinary outlays for expenses
+and had to wait for reimbursement, id., at 1288, but the
+court did not calculate the amount of the enhancement
+that is attributable to this factor. Similarly, the District
+Court noted that respondents’ counsel did not receive fees
+on an ongoing basis while the case was pending, but the
+court did not sufficiently link this factor to proof in the
+record that the delay here was outside the normal range
+expected by attorneys who rely on §1988 for the payment
+of their fees or quantify the disparity. Nor did the court
+provide a calculation of the cost to counsel of any extraor
+dinary and unwarranted delay. And the court’s reliance
+on the contingency of the outcome contravenes our holding
+in Dague. See 505 U. S., at 565.
+Finally, insofar as the District Court relied on a com
+parison of the performance of counsel in this case with the
+performance of counsel in unnamed prior cases, the Dis
+trict Court did not employ a methodology that permitted
+——————
+7 JUSTICE
+
+BREYER’s reliance on the average hourly rate for all of re
+spondents’ attorneys is highly misleading. See post, at 10. In calculat
+ing the lodestar, the District Court found that the hourly rate for each
+of these attorneys was “eminently fair and reasonable” and “consistent
+with the prevailing market rates in Atlanta for comparable work.” 454
+F. Supp. 2d, at 1285–1286. JUSTICE BREYER’s calculation of an average
+hourly rate for all attorney hours reflects nothing more than the fact
+that much of the work was performed by attorneys whose “fair and
+reasonable” market rate was below the market average. There is
+nothing unfair about compensating these attorneys at the very rate that
+they requested.
+
+
+14
+
+PERDUE v. KENNY A.
+Opinion of the Court
+
+meaningful appellate review. Needless to say, we do not
+question the sincerity of the District Court’s observations,
+and we are in no position to assess their accuracy. But
+when a trial judge awards an enhancement on an impres
+sionistic basis, a major purpose of the lodestar method—
+providing an objective and reviewable basis for fees, see
+id., at 566—is undermined.
+Determining a “reasonable attorney’s fee” is a matter
+that is committed to the sound discretion of a trial judge,
+see 42 U. S. C. §1988 (permitting court, “in its discretion,”
+to award fees), but the judge’s discretion is not unlimited.
+It is essential that the judge provide a reasonably specific
+explanation for all aspects of a fee determination, includ
+ing any award of an enhancement. Unless such an expla
+nation is given, adequate appellate review is not feasible,
+and without such review, widely disparate awards may be
+made, and awards may be influenced (or at least, may
+appear to be influenced) by a judge’s subjective opinion
+regarding particular attorneys or the importance of the
+case. In addition, in future cases, defendants contemplat
+ing the possibility of settlement will have no way to esti
+mate the likelihood of having to pay a potentially huge
+enhancement. See Marek v. Chesny, 473 U. S. 1, 7 (1985)
+(“ ‘[M]any a defendant would be unwilling to make a bind
+ing settlement offer on terms that left it exposed to liabil
+ity for attorney’s fees in whatever amount the court might
+fix on motion of the plaintiff ’ ”).
+Section 1988 serves an important public purpose by
+making it possible for persons without means to bring suit
+to vindicate their rights. But unjustified enhancements
+that serve only to enrich attorneys are not consistent with
+the statute’s aim.8 In many cases, attorney’s fees awarded
+——————
+8 JUSTICE BREYER’s opinion dramatically illustrates the danger of
+allowing a trial judge to award a huge enhancement not supported by
+any discernible methodology. That approach would retain the $4.5
+
+
+Cite as: 559 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+under §1988 are not paid by the individuals responsible
+for the constitutional or statutory violations on which the
+judgment is based. Instead, the fees are paid in effect by
+state and local taxpayers, and because state and local
+governments have limited budgets, money that is used to
+pay attorney’s fees is money that cannot be used for pro
+grams that provide vital public services. Cf. Horne v.
+Flores, 557 U. S. ___, ___ (2009) (slip op., at 11, 12) (pay
+ment of money pursuant to a federal-court order diverts
+funds from other state or local programs).
+*
+*
+*
+For all these reasons, the judgment of the Court of
+Appeals is reversed, and the case is remanded for proceed
+ings consistent with this opinion.
+It is so ordered.
+
+——————
+million enhancement here so that respondents’ attorneys would earn as
+much as the attorneys at some of the richest law firms in the country.
+Post, at 10–11. These fees would be paid by the taxpayers of Georgia,
+where the annual per capita income is less than $34,000, see Dept. of
+Commerce, Bureau of Census, Statistical Abstract of the United States:
+2010, p. 437 (2009) (Table 665) (figures for 2008), and the annual
+salaries of attorneys employed by the State range from $48,000 for
+entry-level lawyers to $118,000 for the highest paid division chief, see
+Brief for State of Alabama et al. as Amici Curiae, 10, and n. 3 (citing
+National Association of Attorneys General, Statistics on the Office of
+the Attorney General, Fiscal Year 2006, pp. 37–39). Section 1988 was
+enacted to ensure that civil rights plaintiffs are adequately repre
+sented, not to provide such a windfall.
+
+

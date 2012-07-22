@@ -1,0 +1,46 @@
+2
+
+RANSOM v. FIA CARD SERVICES, N. A.
+Opinion of the Court
+
+lease payments may not take the car-ownership deduction.
+I
+
+A
+
+“Congress enacted the Bankruptcy Abuse Prevention
+and Consumer Protection Act of 2005 (BAPCPA or Act) to
+correct perceived abuses of the bankruptcy system.” Mi
+lavetz, Gallop & Milavetz, P. A. v. United States, 559 U. S.
+___, ___ (2010) (slip op., at 1). In particular, Congress
+adopted the means test—“[t]he heart of [BAPCPA’s] con
+sumer bankruptcy reforms,” H. R. Rep. No. 109–31, pt. 1,
+p. 2 (2005) (hereinafter H. R. Rep.), and the home of the
+statutory language at issue here—to help ensure that
+debtors who can pay creditors do pay them. See, e.g., ibid.
+(under BAPCPA, “debtors [will] repay creditors the maxi
+mum they can afford”).
+In Chapter 13 proceedings, the means test provides a
+formula to calculate a debtor’s disposable income, which
+the debtor must devote to reimbursing creditors under a
+court-approved plan generally lasting from three to five
+years. §§1325(b)(1)(B) and (b)(4).1 The statute defines
+“disposable income” as “current monthly income” less
+“amounts reasonably necessary to be expended” for “main
+tenance or support,” business expenditures, and certain
+charitable contributions. §§1325(b)(2)(A)(i) and (ii). For a
+debtor whose income is above the median for his State, the
+means test identifies which expenses qualify as “amounts
+——————
+1 Chapter 13 borrows the means test from Chapter 7, where it is used
+as a screening mechanism to determine whether a Chapter 7 proceed
+ing is appropriate. Individuals who file for bankruptcy relief under
+Chapter 7 liquidate their nonexempt assets, rather than dedicate their
+future income, to repay creditors. See 11 U. S. C. §§704(a)(1), 726. If
+the debtor’s Chapter 7 petition discloses that his disposable income as
+calculated by the means test exceeds a certain threshold, the petition is
+presumptively abusive. §707(b)(2)(A)(i). If the debtor cannot rebut the
+presumption, the court may dismiss the case or, with the debtor’s
+consent, convert it into a Chapter 13 proceeding. §707(b)(1).
+
+

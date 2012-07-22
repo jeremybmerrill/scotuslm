@@ -1,0 +1,48 @@
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+THOMAS, J., concurring in judgment
+
+case that under §3(b)(1)(B), using a vehicle to obstruct an
+officer or interfere with service of process is a class D
+felony only if the vehicle is “operate[d] . . . in a manner
+that creates a substantial risk of bodily injury to another
+person.” §3(b)(1)(B). But using a vehicle to intentionally
+flee is always a class D felony, without any need to prove
+risk. §3(b)(1)(A).
+This rough equivalence between §3(b)(1)(A) and §3(b)
+(1)(B) is borne out in Indiana case law. The conduct
+underlying the Indiana cases discussed above, see supra,
+at 6–7, demonstrates that despite §3(b)(1)(B), convictions
+under §3(b)(1)(A) include risky flights.
+Third, the remainder of Indiana’s resisting law enforce
+——————
+plac[e] another person in danger of death or serious bodily injury,”
+Haw. Rev. Stat. §707–714(1)(a) (2009 Cum. Supp.), or to “[i]ntentionally
+discharg[e] a firearm in a populated area,” §707–714(1)(b). I would
+infer that discharging the firearm is deemed dangerous enough per se
+that the statute does not require the State to prove danger in any given
+case. Other States have similar statutes. See, e.g., Del. Code Ann., Tit.
+11, §§603(a)(1), (2) (2007); Wyo. Stat. Ann. §§6–2–504(a), (b) (2009); Me.
+Rev. Stat. Ann., Tit. 17–A, §§301(1)(B)(1), (2) (Supp. 2010).
+Similarly here, I infer that §3(b)(1)(A)’s upgrade of intentional flight
+to a class D felony based on the use of a vehicle alone indicates that the
+offense inherently qualifies as, or approximates, “operat[ing] a vehicle
+in a manner that creates a substantial risk of bodily injury to another
+person” under §3(b)(1)(B).
+JUSTICE KAGAN argues that if my reading were correct, the Indiana
+Legislature would have removed the reference to vehicular flight from
+§3(b)(1)(B) when it added §3(b)(1)(A). Post, at 12. There are at least
+two problems with this reasoning. First, even though §3(b)(1)(A) may
+be redundant with §3(b)(1)(B) as to the vehicular flight offenses in
+subsection (a)(3), the reference to “operat[ing] a vehicle” in §3(b)(1)(B) is
+still independently useful for the offenses in subsections (a)(1) and (2).
+Thus, it is hardly strange for the legislature to have left the reference
+to “operat[ing] a vehicle” in §3(b)(1)(B). Second, although JUSTICE
+KAGAN can envision a more perfectly drafted statute, we do not require
+perfection in statutory drafting. See, e.g., Bruesewitz v. Wyeth LLC,
+562 U. S. ___, ___ (2011) (slip op., at 12). I think it clear enough what
+the statute means.
+
+

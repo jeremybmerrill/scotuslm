@@ -1,0 +1,44 @@
+10
+
+MAYO COLLABORATIVE SERVICES v. PROMETHEUS
+LABORATORIES, INC.
+Opinion of the Court
+
+operators about his basic law and then trusting them to
+use it where relevant).
+Third, the “determining” step tells the doctor to deter­
+mine the level of the relevant metabolites in the blood,
+through whatever process the doctor or the laboratory
+wishes to use. As the patents state, methods for determin­
+ing metabolite levels were well known in the art. ’623
+patent, col. 9, ll. 12–65, 2 App. 11. Indeed, scientists
+routinely measured metabolites as part of their investiga­
+tions into the relationships between metabolite levels and
+efficacy and toxicity of thiopurine compounds. ’623 patent,
+col. 8, ll. 37–40, id., at 10. Thus, this step tells doctors
+to engage in well-understood, routine, conventional activity
+previously engaged in by scientists who work in the field.
+Purely “conventional or obvious” “[pre]-solution activity” is
+normally not sufficient to transform an unpatentable law
+of nature into a patent-eligible application of such a law.
+Flook, 437 U. S., at 590; see also Bilski, 561 U. S., at ___
+(slip op., at 14) (“[T]he prohibition against patenting ab­
+stract ideas ‘cannot be circumvented by’ . . . adding ‘insig­
+nificant post-solution activity’ ” (quoting Diehr, supra, at
+191–192)).
+Fourth, to consider the three steps as an ordered combi­
+nation adds nothing to the laws of nature that is not al­
+ready present when the steps are considered separately.
+See Diehr, supra, at 188 (“[A] new combination of steps in
+a process may be patentable even though all the constitu­
+ents of the combination were well known and in common
+use before the combination was made”). Anyone who
+wants to make use of these laws must first administer a
+thiopurine drug and measure the resulting metabolite
+concentrations, and so the combination amounts to noth­
+ing significantly more than an instruction to doctors to
+apply the applicable laws when treating their patients.
+The upshot is that the three steps simply tell doctors to
+gather data from which they may draw an inference in
+
+

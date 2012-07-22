@@ -1,0 +1,36 @@
+12
+
+KAPPOS v. HYATT
+Opinion of the Court
+
+Morgan, on the other hand, concerned a different situation from the one presented in this case. First, Morgan
+addressed an interference proceeding. See 153 U. S., at
+125 (emphasizing that “the question decided in the Patent Office is one between contesting parties as to priority of
+invention”). Although interference proceedings were previously governed by R. S. 4915, they are now governed
+by a separate section of the Patent Act, 35 U. S. C. §146,
+and therefore do not implicate §145. In addition, Morgan
+did not involve a proceeding in which new evidence was
+presented to the District Court. See 153 U. S., at 122
+(stating that the case “was submitted, without any additional testimony, to the Circuit Court”).
+3
+Because in this case we are concerned only with §145
+proceedings in which new evidence has been presented
+to the District Court, Butterworth rather than Morgan
+guides our decision. In Butterworth, this Court observed
+that an R. S. 4915 proceeding should be conducted “according to the ordinary course of equity practice and procedure” and that it should be “prepared and heard upon all
+competent evidence adduced and upon the whole merits.”
+112 U. S., at 61. Likewise, we conclude that a district
+court conducting a §145 proceeding may consider “all competent evidence adduced,” id., at 61, and is not limited to
+considering only new evidence that could not have been
+presented to the PTO. Thus, we agree with the Federal
+Circuit that “Congress intended that applicants would be
+free to introduce new evidence in §145 proceedings subject
+only to the rules applicable to all civil actions, the Federal
+——————
+Office’ ” authorized under R. S. 4911, the predecessor to current §141.
+Id., at 439 (quoting Butterworth, supra, at 61). And, finally, in Hoover
+Co. v. Coe, 325 U. S. 79 (1945), the Court cited Butterworth to support
+its description of an R. S. 4915 proceeding as a “formal trial.” 325 U. S.,
+at 83, and n. 4.
+
+

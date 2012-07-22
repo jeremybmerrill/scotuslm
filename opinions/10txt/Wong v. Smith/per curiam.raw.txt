@@ -1,0 +1,554 @@
+Cite as: 562 U. S. ____ (2010)
+
+1
+
+ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+ROBERT K. WONG, WARDEN v. ANTHONY BERNARD
+SMITH, JR.
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED 
+
+STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 09–1031. Decided November 1, 2010
+
+
+The petition for a writ of certiorari is denied.
+JUSTICE ALITO, with whom THE CHIEF JUSTICE and
+JUSTICE SCALIA join, dissenting from denial of certiorari.
+The Court of Appeals granted habeas relief in this case
+after concluding that a state trial judge unconstitutionally
+coerced the jury by commenting and offering an opinion on
+the evidence. Because that decision cannot be reconciled
+with the Antiterrorism and Effective Death Penalty Act of
+1996 (AEDPA), see 28 U. S. C. §2254(d)(1), and gives short
+shrift to a venerable common-law practice, I would grant
+the petition for writ of certiorari.
+I
+After they learned that Eugene and Deanna S. had won
+some money at a casino, respondent Anthony Smith and
+codefendant James Hinex drove to the couple’s Sacra
+mento home, burglarized it, and robbed both victims at
+gunpoint. During the robbery, one of the defendants put a
+gun to the head of Mrs. S. and forced her to perform oral
+copulation. Both Smith and Hinex were arrested and
+charged under California law with one count of residential
+burglary and two counts of residential robbery. Cal. Penal
+Code Ann. §§459 (West 2010), 211 (West 2008). Smith
+was also charged with forcible oral copulation. §288a(c)
+(West 2008). At trial, the jury deliberated for a little over
+two days before convicting both defendants on the bur
+glary and robbery counts. The jury had a more difficult
+
+
+2
+
+WONG v. SMITH
+ALITO, J., dissenting
+
+time reaching agreement on the oral-copulation count.
+Tests showed that semen recovered from the crime scene
+matched Smith’s DNA, but Mrs. S. had originally identi
+fied Hinex as her attacker.
+On the fourth day of deliberations, one juror sent the
+judge a note stating that he was unable to vote to convict
+Smith on the oral-copulation count because he thought the
+DNA evidence was unreliable. The trial judge then gave
+the jury a modified version of an Allen charge. See Allen
+v. United States, 164 U. S. 492 (1896). When further
+deliberations proved fruitless, the judge decided to exer
+cise the judicial authority, as recognized by the State
+Constitution, to “comment on the evidence.” See Cal.
+Const., Art. VI, §10.
+At the outset, the judge reminded the jurors that they
+were the “ ‘exclusive judges of the facts.’ ” Smith v. Curry,
+580 F. 3d 1071, 1077 (CA9 2009). He explained that his
+comments were not intended “ ‘to impose [his] will’ ” on the
+jury, but only to review “certain evidence” that they “ ‘may
+not have considered.’ ” Ibid. The judge thought it “ ‘impor
+tant’ ” for the jury to consider the statements Smith and
+Hinex “ ‘made to law enforcement following their arrests,’ ”
+particularly the “ ‘consistencies and inconsistencies’ ”
+between those statements. Ibid. The judge pointed out
+that Smith told police that both he and Hinex entered the
+house. Smith stated that he found Mrs. S. in a back bed
+room, that Smith was armed at the time, and that Mrs. S.
+gave Smith a $100 bill. Id., at 1077–1078. The judge
+noted that Hinex also “ ‘said Smith went to the back of the
+house . . . and closed the door.’ ” Id., at 1077. But Hinex
+denied going inside the house himself. The judge played
+the tapes of both defendants’ statements for the jury. He
+told them to consider and discuss the statements during
+deliberations. Finally, the judge reiterated that his “ ‘com
+ments [were] advisory only’ ” and that the jurors remained
+“ ‘the exclusive judges’ ” of the facts and the “ ‘credibility of
+
+
+Cite as: 562 U. S. ____ (2010)
+
+3
+
+ALITO, J., dissenting
+
+witnesses. ’ ” Id., at 1078. The jury continued their delib
+erations; a short time later, they returned a guilty verdict
+against Smith on the oral-copulation count.
+Smith argued on appeal that the judge’s comments
+coerced the jury’s verdict. A California intermediate
+appellate court rejected that claim. The California Su
+preme Court denied review. Smith then filed a federal
+petition for writ of habeas corpus, 28 U. S. C. §2254, which
+the District Court granted. A split Ninth Circuit panel
+affirmed.
+II
+Smith’s claim on federal habeas is that the California
+appellate court unreasonably applied this Court’s clearly
+established law forbidding coercive jury instructions.
+§2254(d)(1); see Brief in Opposition 12. “[C]learly estab
+lished” law under §2254(d)(1) consists of “the holdings, as
+opposed to the dicta, of this Court’s” cases. Williams v.
+Taylor, 529 U. S. 362, 412 (2000). An “unreasonable ap
+plication” of that law involves not just an erroneous or
+incorrect decision, but an objectively unreasonable one.
+Renico v. Lett, 559 U. S. ___ (2010).
+The clearly established law relevant to this case is
+sparse. Just one of this Court’s decisions, Lowenfield v.
+Phelps, 484 U. S. 231 (1988), has addressed the constitu
+tional rule against coercive jury instructions. And Lowen
+field held only that, on the totality of the circumstances
+present there, no unconstitutional coercion resulted. Id.,
+at 241. The Court has also decided several cases on the
+specific practice of judicial comment on the evidence. E.g.,
+Quercia v. United States, 289 U. S. 466 (1933). But all of
+those cases arose under this Court’s supervisory power
+over federal courts; they set no clearly established consti
+tutional limits under AEDPA. See Early v. Packer, 537
+U. S. 3, 10 (2002) (per curiam). As a result, the clearly
+established law in this area provides very little specific
+
+
+4
+
+WONG v. SMITH
+ALITO, J., dissenting
+
+guidance. About all that can be said is that coercive in
+structions are unconstitutional, coerciveness must be
+judged on the totality of the circumstances, and the facts
+of Lowenfield (polling a deadlocked jury and reading a
+slightly modified Allen charge) were not unconstitutionally
+coercive. See 484 U. S., at 237–241.
+A general standard such as this gives state courts wide
+latitude for reasonable decisionmaking under AEDPA.
+Yarborough v. Alvarado, 541 U. S. 652, 664 (2004) (“The
+more general the rule, the more leeway courts have in
+reaching outcomes in case-by-case determinations”). That
+latitude is wider still in this case, as no constitutional
+decision of this Court has ever explained how the general
+rule against “coercion” applies to the traditional practice of
+judicial comment on the evidence. Cf. Carey v. Musladin,
+549 U. S. 70, 76 (2006).
+For centuries, trial judges have enjoyed authority to
+comment on the evidence. At common law, the judge was
+empowered to “weig[h] the evidence” and share an “opin
+ion” with the jury, even “in matter of fact.” 2 M. Hale,
+History of the Common Law of England 147 (5th ed. 1794)
+(hereinafter Hale).* The practice is well established in
+this Court’s cases as well. The Court has recognized that
+a trial judge has “discretion” to “comment upon the evi
+dence,” to call the jury’s “attention to parts of it which he
+thinks important,” and to “express his opinion upon the
+facts.” Vicksburg & Meridian R. Co. v. Putnam, 118 U. S.
+545, 553 (1886); Quercia, supra, at 469.
+——————
+* See J. Thayer, Preliminary Treatise on Evidence at Common Law
+188, n. 2 (1898) (trial by jury “in a form which would withhold from the
+jury the assistance of the court in dealing with the facts” is not “trial by
+jury in any historic sense of the word”); 9 J. Wigmore, Evidence §2551,
+p. 664 (J. Chadbourn rev. 1981) (hereinafter Wigmore) (comment on the
+evidence “existed at common law since the beginning of jury trial, and
+must be regarded historically as an essential and inseparable part of
+jury trial”).
+
+
+Cite as: 562 U. S. ____ (2010)
+
+5
+
+ALITO, J., dissenting
+
+To be sure, the practice has for many years been on the
+wane. Comment on the evidence has always been more
+popular in Britain than it ever was in this country. See 9
+Wigmore §2551, at 666. That said, federal courts and
+several States continue to recognize judicial authority to
+comment on the evidence, and California expressly pro
+tects the practice in its State Constitution. Cal. Const.,
+Art. VI, §10.
+This long tradition, combined with the complete absence
+of constitutional precedent on how to apply Lowenfield’s
+anticoercion principle in this context, shows that federal
+courts should tread lightly when faced with a claim that
+judicial comment on the evidence runs afoul of clearly
+established federal law. Outside of extreme cases, most
+decisions approving traditional uses of this common-law
+practice should fall within the bounds of reasonable deci
+sionmaking under AEDPA.
+III
+Here, the California appellate court did not unreasona
+bly apply this Court’s clearly established law. The trial
+judge, before commenting on the evidence, made clear that
+the jurors remained the exclusive judges of the facts and
+that the judge’s comments were advisory only. 580 F. 3d,
+at 1077. The judge then directed the jurors to particular
+evidence—the defendants’ initial statements to police—
+and highlighted for them certain “ ‘consistencies and in
+consistencies’ ” between those statements. Ibid. This
+practice of drawing the jury’s “attention to parts” of the
+evidence that the judge thinks “ ‘important’ ” lies at the
+recognized core of the common-law power to comment on
+the evidence. See Vicksburg, supra, at 553; Hale 147 (The
+judge “is able, . . . in matters of fact, to give [the jury]
+great light and assistance, by . . . observing where the
+question and knot of the business lies; and by showing
+them his opinion even in matter of fact” (some capitaliza
+
+
+6
+
+WONG v. SMITH
+ALITO, J., dissenting
+
+tion omitted)). Neither the trial judge’s decision to employ
+the practice here nor the state appellate court’s approval
+of the instruction ran afoul of clearly established federal
+law.
+The Ninth Circuit’s contrary decision rested in large
+measure on its concern that the comments “pointed the
+jury to evidence leading to a particular verdict,” while
+omitting to mention other evidence favorable to Smith.
+580 F. 3d, at 1081, 1083. But the common-law privilege to
+comment on the evidence has never required a compendi
+ous summary. Rather, the judge has traditionally enjoyed
+the power to focus on the particular evidence the judge
+thinks important, and to share with the jury an opinion on
+that evidence. Vicksburg, supra, at 553; Quercia, 289
+U. S., at 469. It was not unreasonable under this Court’s
+clearly established law for the California appellate court to
+approve that practice here.
+The Ninth Circuit’s opinion also suggests that, when a
+jury is “deadlocked,” the judge may provide only “appro
+priate encouragement . . . to deliberate,” and must refrain
+from providing the “judge’s selective view of the evidence.”
+580 F. 3d, at 1080. None of this Court’s constitutional
+cases establish such a rule. And this Court’s supervisory
+power cases (which, if anything, set a more demanding
+standard than the constitutional minimum) have specifi
+cally upheld judicial comments that provide a particular
+“view of the evidence” to an apparently deadlocked jury.
+See Simmons v. United States, 142 U. S. 148, 155 (1891)
+(no error where judge denied deadlocked jury’s request to
+be discharged and told them “that he regarded the testi
+mony as convincing”). Nothing in this Court’s clearly
+established law prohibits the trial judge from offering an
+opinion to a jury that is struggling to reach a verdict.
+The Ninth Circuit was also troubled that the trial
+judge’s comments appeared to be designed to address the
+concerns of the holdout juror. 580 F. 3d, at 1082. And the
+
+
+Cite as: 562 U. S. ____ (2010)
+
+7
+
+ALITO, J., dissenting
+
+panel majority disapproved of the trial judge’s “mandatory
+language” directing the jury to “ ‘consider and discuss’ ” the
+evidence highlighted by the court. Id., at 1082–1083.
+Whatever potential for coercion these comments caused,
+the California appellate court’s decision upholding them
+“was clearly not unreasonable” under the general Lowen
+field standard. See Renico, 559 U. S., at ___ (slip op., at
+12). I would grant certiorari in this case and correct the
+Ninth Circuit’s error.
+
+
+Cite as: 562 U. S. ____ (2010)
+
+1
+
+ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+ROBERT K. WONG, WARDEN v. ANTHONY BERNARD
+SMITH, JR.
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED 
+
+STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 09–1031. Decided November 1, 2010
+
+
+The petition for a writ of certiorari is denied.
+JUSTICE ALITO, with whom THE CHIEF JUSTICE and
+JUSTICE SCALIA join, dissenting from denial of certiorari.
+The Court of Appeals granted habeas relief in this case
+after concluding that a state trial judge unconstitutionally
+coerced the jury by commenting and offering an opinion on
+the evidence. Because that decision cannot be reconciled
+with the Antiterrorism and Effective Death Penalty Act of
+1996 (AEDPA), see 28 U. S. C. §2254(d)(1), and gives short
+shrift to a venerable common-law practice, I would grant
+the petition for writ of certiorari.
+I
+After they learned that Eugene and Deanna S. had won
+some money at a casino, respondent Anthony Smith and
+codefendant James Hinex drove to the couple’s Sacra
+mento home, burglarized it, and robbed both victims at
+gunpoint. During the robbery, one of the defendants put a
+gun to the head of Mrs. S. and forced her to perform oral
+copulation. Both Smith and Hinex were arrested and
+charged under California law with one count of residential
+burglary and two counts of residential robbery. Cal. Penal
+Code Ann. §§459 (West 2010), 211 (West 2008). Smith
+was also charged with forcible oral copulation. §288a(c)
+(West 2008). At trial, the jury deliberated for a little over
+two days before convicting both defendants on the bur
+glary and robbery counts. The jury had a more difficult
+
+
+2
+
+WONG v. SMITH
+ALITO, J., dissenting
+
+time reaching agreement on the oral-copulation count.
+Tests showed that semen recovered from the crime scene
+matched Smith’s DNA, but Mrs. S. had originally identi
+fied Hinex as her attacker.
+On the fourth day of deliberations, one juror sent the
+judge a note stating that he was unable to vote to convict
+Smith on the oral-copulation count because he thought the
+DNA evidence was unreliable. The trial judge then gave
+the jury a modified version of an Allen charge. See Allen
+v. United States, 164 U. S. 492 (1896). When further
+deliberations proved fruitless, the judge decided to exer
+cise the judicial authority, as recognized by the State
+Constitution, to “comment on the evidence.” See Cal.
+Const., Art. VI, §10.
+At the outset, the judge reminded the jurors that they
+were the “ ‘exclusive judges of the facts.’ ” Smith v. Curry,
+580 F. 3d 1071, 1077 (CA9 2009). He explained that his
+comments were not intended “ ‘to impose [his] will’ ” on the
+jury, but only to review “certain evidence” that they “ ‘may
+not have considered.’ ” Ibid. The judge thought it “ ‘impor
+tant’ ” for the jury to consider the statements Smith and
+Hinex “ ‘made to law enforcement following their arrests,’ ”
+particularly the “ ‘consistencies and inconsistencies’ ”
+between those statements. Ibid. The judge pointed out
+that Smith told police that both he and Hinex entered the
+house. Smith stated that he found Mrs. S. in a back bed
+room, that Smith was armed at the time, and that Mrs. S.
+gave Smith a $100 bill. Id., at 1077–1078. The judge
+noted that Hinex also “ ‘said Smith went to the back of the
+house . . . and closed the door.’ ” Id., at 1077. But Hinex
+denied going inside the house himself. The judge played
+the tapes of both defendants’ statements for the jury. He
+told them to consider and discuss the statements during
+deliberations. Finally, the judge reiterated that his “ ‘com
+ments [were] advisory only’ ” and that the jurors remained
+“ ‘the exclusive judges’ ” of the facts and the “ ‘credibility of
+
+
+Cite as: 562 U. S. ____ (2010)
+
+3
+
+ALITO, J., dissenting
+
+witnesses. ’ ” Id., at 1078. The jury continued their delib
+erations; a short time later, they returned a guilty verdict
+against Smith on the oral-copulation count.
+Smith argued on appeal that the judge’s comments
+coerced the jury’s verdict. A California intermediate
+appellate court rejected that claim. The California Su
+preme Court denied review. Smith then filed a federal
+petition for writ of habeas corpus, 28 U. S. C. §2254, which
+the District Court granted. A split Ninth Circuit panel
+affirmed.
+II
+Smith’s claim on federal habeas is that the California
+appellate court unreasonably applied this Court’s clearly
+established law forbidding coercive jury instructions.
+§2254(d)(1); see Brief in Opposition 12. “[C]learly estab
+lished” law under §2254(d)(1) consists of “the holdings, as
+opposed to the dicta, of this Court’s” cases. Williams v.
+Taylor, 529 U. S. 362, 412 (2000). An “unreasonable ap
+plication” of that law involves not just an erroneous or
+incorrect decision, but an objectively unreasonable one.
+Renico v. Lett, 559 U. S. ___ (2010).
+The clearly established law relevant to this case is
+sparse. Just one of this Court’s decisions, Lowenfield v.
+Phelps, 484 U. S. 231 (1988), has addressed the constitu
+tional rule against coercive jury instructions. And Lowen
+field held only that, on the totality of the circumstances
+present there, no unconstitutional coercion resulted. Id.,
+at 241. The Court has also decided several cases on the
+specific practice of judicial comment on the evidence. E.g.,
+Quercia v. United States, 289 U. S. 466 (1933). But all of
+those cases arose under this Court’s supervisory power
+over federal courts; they set no clearly established consti
+tutional limits under AEDPA. See Early v. Packer, 537
+U. S. 3, 10 (2002) (per curiam). As a result, the clearly
+established law in this area provides very little specific
+
+
+4
+
+WONG v. SMITH
+ALITO, J., dissenting
+
+guidance. About all that can be said is that coercive in
+structions are unconstitutional, coerciveness must be
+judged on the totality of the circumstances, and the facts
+of Lowenfield (polling a deadlocked jury and reading a
+slightly modified Allen charge) were not unconstitutionally
+coercive. See 484 U. S., at 237–241.
+A general standard such as this gives state courts wide
+latitude for reasonable decisionmaking under AEDPA.
+Yarborough v. Alvarado, 541 U. S. 652, 664 (2004) (“The
+more general the rule, the more leeway courts have in
+reaching outcomes in case-by-case determinations”). That
+latitude is wider still in this case, as no constitutional
+decision of this Court has ever explained how the general
+rule against “coercion” applies to the traditional practice of
+judicial comment on the evidence. Cf. Carey v. Musladin,
+549 U. S. 70, 76 (2006).
+For centuries, trial judges have enjoyed authority to
+comment on the evidence. At common law, the judge was
+empowered to “weig[h] the evidence” and share an “opin
+ion” with the jury, even “in matter of fact.” 2 M. Hale,
+History of the Common Law of England 147 (5th ed. 1794)
+(hereinafter Hale).* The practice is well established in
+this Court’s cases as well. The Court has recognized that
+a trial judge has “discretion” to “comment upon the evi
+dence,” to call the jury’s “attention to parts of it which he
+thinks important,” and to “express his opinion upon the
+facts.” Vicksburg & Meridian R. Co. v. Putnam, 118 U. S.
+545, 553 (1886); Quercia, supra, at 469.
+——————
+* See J. Thayer, Preliminary Treatise on Evidence at Common Law
+188, n. 2 (1898) (trial by jury “in a form which would withhold from the
+jury the assistance of the court in dealing with the facts” is not “trial by
+jury in any historic sense of the word”); 9 J. Wigmore, Evidence §2551,
+p. 664 (J. Chadbourn rev. 1981) (hereinafter Wigmore) (comment on the
+evidence “existed at common law since the beginning of jury trial, and
+must be regarded historically as an essential and inseparable part of
+jury trial”).
+
+
+Cite as: 562 U. S. ____ (2010)
+
+5
+
+ALITO, J., dissenting
+
+To be sure, the practice has for many years been on the
+wane. Comment on the evidence has always been more
+popular in Britain than it ever was in this country. See 9
+Wigmore §2551, at 666. That said, federal courts and
+several States continue to recognize judicial authority to
+comment on the evidence, and California expressly pro
+tects the practice in its State Constitution. Cal. Const.,
+Art. VI, §10.
+This long tradition, combined with the complete absence
+of constitutional precedent on how to apply Lowenfield’s
+anticoercion principle in this context, shows that federal
+courts should tread lightly when faced with a claim that
+judicial comment on the evidence runs afoul of clearly
+established federal law. Outside of extreme cases, most
+decisions approving traditional uses of this common-law
+practice should fall within the bounds of reasonable deci
+sionmaking under AEDPA.
+III
+Here, the California appellate court did not unreasona
+bly apply this Court’s clearly established law. The trial
+judge, before commenting on the evidence, made clear that
+the jurors remained the exclusive judges of the facts and
+that the judge’s comments were advisory only. 580 F. 3d,
+at 1077. The judge then directed the jurors to particular
+evidence—the defendants’ initial statements to police—
+and highlighted for them certain “ ‘consistencies and in
+consistencies’ ” between those statements. Ibid. This
+practice of drawing the jury’s “attention to parts” of the
+evidence that the judge thinks “ ‘important’ ” lies at the
+recognized core of the common-law power to comment on
+the evidence. See Vicksburg, supra, at 553; Hale 147 (The
+judge “is able, . . . in matters of fact, to give [the jury]
+great light and assistance, by . . . observing where the
+question and knot of the business lies; and by showing
+them his opinion even in matter of fact” (some capitaliza
+
+
+6
+
+WONG v. SMITH
+ALITO, J., dissenting
+
+tion omitted)). Neither the trial judge’s decision to employ
+the practice here nor the state appellate court’s approval
+of the instruction ran afoul of clearly established federal
+law.
+The Ninth Circuit’s contrary decision rested in large
+measure on its concern that the comments “pointed the
+jury to evidence leading to a particular verdict,” while
+omitting to mention other evidence favorable to Smith.
+580 F. 3d, at 1081, 1083. But the common-law privilege to
+comment on the evidence has never required a compendi
+ous summary. Rather, the judge has traditionally enjoyed
+the power to focus on the particular evidence the judge
+thinks important, and to share with the jury an opinion on
+that evidence. Vicksburg, supra, at 553; Quercia, 289
+U. S., at 469. It was not unreasonable under this Court’s
+clearly established law for the California appellate court to
+approve that practice here.
+The Ninth Circuit’s opinion also suggests that, when a
+jury is “deadlocked,” the judge may provide only “appro
+priate encouragement . . . to deliberate,” and must refrain
+from providing the “judge’s selective view of the evidence.”
+580 F. 3d, at 1080. None of this Court’s constitutional
+cases establish such a rule. And this Court’s supervisory
+power cases (which, if anything, set a more demanding
+standard than the constitutional minimum) have specifi
+cally upheld judicial comments that provide a particular
+“view of the evidence” to an apparently deadlocked jury.
+See Simmons v. United States, 142 U. S. 148, 155 (1891)
+(no error where judge denied deadlocked jury’s request to
+be discharged and told them “that he regarded the testi
+mony as convincing”). Nothing in this Court’s clearly
+established law prohibits the trial judge from offering an
+opinion to a jury that is struggling to reach a verdict.
+The Ninth Circuit was also troubled that the trial
+judge’s comments appeared to be designed to address the
+concerns of the holdout juror. 580 F. 3d, at 1082. And the
+
+
+Cite as: 562 U. S. ____ (2010)
+
+7
+
+ALITO, J., dissenting
+
+panel majority disapproved of the trial judge’s “mandatory
+language” directing the jury to “ ‘consider and discuss’ ” the
+evidence highlighted by the court. Id., at 1082–1083.
+Whatever potential for coercion these comments caused,
+the California appellate court’s decision upholding them
+“was clearly not unreasonable” under the general Lowen
+field standard. See Renico, 559 U. S., at ___ (slip op., at
+12). I would grant certiorari in this case and correct the
+Ninth Circuit’s error.
+
+

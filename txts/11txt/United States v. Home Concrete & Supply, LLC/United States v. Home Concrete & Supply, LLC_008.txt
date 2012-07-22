@@ -1,0 +1,41 @@
+6
+
+UNITED STATES v. HOME CONCRETE & SUPPLY, LLC
+Opinion of the Court
+
+reason why Congress might have added clause (i) has
+nothing to do with any desire to change the meaning of the
+general rule. Rather when Congress wrote the 1954 Code
+(prior to Colony), it did not yet know how the Court would
+interpret the provision’s operative language. At least one
+lower court had decided that the provision did not apply to
+overstatements about the cost of goods that a business
+later sold. See Uptegrove Lumber Co. v. Commissioner,
+204 F. 2d 570 (CA3 1953). But see Reis v. Commissioner,
+142 F. 2d 900, 902–903 (CA6 1944). And Congress could
+well have wanted to ensure that, come what may in the
+Supreme Court, Uptegrove’s interpretation would remain
+the law where a “trade or business” was at issue.
+Nor does our interpretation leave clause (i) without
+work to do. TRW Inc. v. Andrews, 534 U. S. 19, 31 (2001)
+(noting canon that statutes should be read to avoid making any provision “superfluous, void, or insignificant”
+(internal quotation marks omitted)). That provision also
+explains how to calculate the denominator for purposes of
+determining whether a conceded omission amounts to 25%
+of “gross income.” For example, it tells us that a merchant
+who fails to include $10,000 of revenue from sold goods
+has not met the 25% test if total revenue is more than
+$40,000, regardless of the cost paid by the merchant to
+acquire those goods. But without clause (i), the general
+statutory definition of “gross income” requires subtracting
+the cost from the sales price. See 26 U. S. C. §§61(a)(3),
+1012. Under such a definition of “gross income,” the calculation would take (1) total revenue from sales, $40,000,
+minus (2) “the cost of such sales,” say, $25,000. The
+$10,000 of revenue would thus amount to 67% of the
+“gross income” of $15,000. And the clause does this work
+in respect to omissions from gross income irrespective of
+our interpretation regarding overstatements of basis.
+The Government’s argument about subsection (e)(2)’s
+use of the word “item” instead of “amount” is yet weaker.
+
+

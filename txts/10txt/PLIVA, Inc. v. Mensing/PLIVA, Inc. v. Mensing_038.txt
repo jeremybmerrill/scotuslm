@@ -1,0 +1,43 @@
+14
+
+PLIVA, INC. v. MENSING
+SOTOMAYOR, J., dissenting
+
+C
+The majority concedes that the Manufacturers might
+have been able to accomplish under federal law what state
+law requires. Ante, at 12–13. To reach the conclusion that
+the Manufacturers have nonetheless satisfied their bur
+den to show impossibility, the majority invents a new pre
+emption rule: “The question for ‘impossibility’ is whether
+the private party could independently do under federal
+law what state law requires of it.” Ante, at 13 (emphasis added). Because the Manufacturers could not have
+changed their labels without the exercise of judgment by
+the FDA, the majority holds, compliance with both state
+and federal law was impossible in these cases.12
+The majority’s new test has no basis in our precedents.
+The majority cites only Wyeth in support of its test. As
+discussed above, however, Wyeth does not stand for the
+proposition that it is impossible to comply with both fed
+eral and state law whenever federal agency approval is
+required. To the contrary, label changes by brand-name
+manufacturers such as Wyeth are subject to FDA review
+and acceptance. See supra, at 11–12. And, even if Wyeth
+could be characterized as turning on the fact that the
+brand-name manufacturer could change its label unilater
+ally, the possibility of unilateral action was, at most, a
+sufficient condition for rejecting the impossibility defense
+in that case. Wyeth did not hold that unilateral action is a
+necessary condition in every case.
+——————
+12 These cases do not involve a situation where a brand-name
+manufacturer itself produces generic drugs. See Okie, Multinational
+Medicines—Ensuring Drug Quality in an Era of Global Manufactur
+ing, 361 N. Eng. J. Med. 737, 738 (2009); see also GPhA, Frequently
+Asked Questions About Generics, http://www.gphaonline.org/about
+gpha/about-generics/faq (“Brand-name companies make about half of
+generic drugs”). In that case, the manufacturer could independently
+change the brand-name label under the CBE regulation, triggering a
+corresponding change to its own generic label.
+
+

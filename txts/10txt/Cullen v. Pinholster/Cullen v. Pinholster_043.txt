@@ -1,0 +1,43 @@
+4
+
+CULLEN v. PINHOLSTER
+SOTOMAYOR, J., dissenting
+
+asking whether the evidence the petitioner seeks to pre
+sent would satisfy AEDPA’s demanding standards, they
+would needlessly prolong federal habeas proceedings.
+Third, even when a petitioner seeks to introduce new
+evidence that would entitle him to relief, AEDPA prohibits
+him from doing so, except in a narrow range of cases,
+unless he “made a reasonable attempt, in light of the
+information available at the time, to investigate and pur
+sue claims in state court.” Williams v. Taylor, 529 U. S.
+420, 435 (2000) (Michael Williams). Thus, §2254(e)(2)
+provides:
+“If the applicant has failed to develop the factual basis
+of a claim in State court proceedings, the court shall
+not hold an evidentiary hearing on the claim unless
+the applicant shows that—
+“(A) the claim relies on—
+“(i) a new rule of constitutional law, made retroac
+tive to cases on collateral review by the Supreme
+Court, that was previously unavailable; or
+“(ii) a factual predicate that could not have been
+previously discovered through the exercise of due dili
+gence; and
+“(B) the facts underlying the claim would be suffi
+cient to establish by clear and convincing evidence
+that but for constitutional error, no reasonable fact
+finder would have found the applicant guilty of the
+underlying offense.”
+In Michael Williams, we construed the opening clause of
+this provision—which triggers the bar on evidentiary
+hearings—to apply when “there is lack of diligence, or
+some greater fault, attributable to the prisoner or the
+prisoner’s counsel.”2 Id., at 432. AEDPA thus bars an
+——————
+2 Section 2254(e)(2) also governs an attempt to obtain relief “based on
+new evidence without an evidentiary hearing.” Holland v. Jackson, 542
+U. S. 649, 653 (2004) (per curiam) (emphasis deleted).
+
+

@@ -1,0 +1,36 @@
+24
+
+CARACO PHARMACEUTICAL LABORATORIES, LTD. v.
+NOVO NORDISK A/S 
+
+Opinion of the Court 
+
+
+Tr. of Oral Arg. 54; but even without it, the company can
+eventually get a judgment of non-infringement enabling
+the FDA to approve its ANDA. In contrast, where (as
+here) a brand files an overbroad use code, a generic company cannot use paragraph IV litigation to that end. A
+paragraph IV certification (unlike a section viii statement)
+requires the generic company to propose labeling identical
+to the brand’s; it cannot carve out any uses. See supra, at
+4. And that proposed label will necessarily infringe because it will include the use(s) on which the brand does
+have a patent. So here, a paragraph IV suit cannot lead to
+a judgment enabling FDA approval; the counterclaim
+offers the only route to bring the generic drug to market
+for non-infringing uses. Novo’s view eliminates the counterclaim where it has the greatest value.
+IV
+The statutory counterclaim we have considered enables
+courts to resolve patent disputes so that the FDA can
+fulfill its statutory duty to approve generic drugs that do
+not infringe patent rights. The text and context of the
+provision demonstrate that a generic company can employ
+the counterclaim to challenge a brand’s overbroad use
+code. We accordingly hold that Caraco may bring a counterclaim seeking to “correct” Novo’s use code “on the
+ground that” the ’358 patent “does not claim . . . an approved method of using the drug”—indeed, does not claim
+two.
+The judgment of the Court of Appeals is reversed, and
+the case is remanded for further proceedings consistent
+with this opinion.
+It is so ordered.
+
+

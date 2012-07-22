@@ -1,0 +1,46 @@
+12
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+tees, sooner or later, must attempt to ascertain the market
+value of exempted assets. They must do so to determine
+whether sale of the items would likely produce surplus
+proceeds for the estate above the value of the claimed
+exemption, see §704(a)(1); the only question, then, is when
+this market valuation must occur—(1) within 30 days or
+(2) at any time before discharge? Removing valuation
+from Rule 4003’s governance thus does little to reduce the
+labors trustees must undertake.
+The 30-day objection period, I note, does not impose on
+trustees any additional duty, but rather guides the exer­
+cise of existing responsibilities; under Rule 4003(b), a
+trustee must rank evaluation of the debtor’s exemptions as
+a priority item in his superintendence of the estate.13 And
+if the trustee entertains any doubt about the accuracy of a
+debtor’s estimation of market value, the procedure for
+interposing objections is hardly arduous. The trustee need
+only file with the court a simple declaration stating that
+an item’s value exceeds the amount listed by the debtor.14
+——————
+arises: Why are trustees granted a full 30 days to lodge objections?
+Under the Court’s reading of the Rule, trustees need only compare a
+debtor’s Schedule C to the text of the exemption prescriptions to assess
+an exemption claim’s facial validity, with no further investigation
+necessary. That comparison should take no more than minutes, surely
+not a month.
+13 Trustees, it bears noting, historically had valuation duties far more
+onerous than they have today. Rule 4003’s predecessor required
+trustees in the first instance, rather than debtors, to estimate the
+market value of property claimed as exempt. See Rule 403(b) (1975).
+Trustees had to provide this valuation to the court within 15 days of
+their appointment. See ibid.
+14 The leading bankruptcy treatise supplies an illustrative valuation
+objection:
+“[Name of Trustee], the duly qualified and acting trustee of the estate
+of the debtor, would show the court the following:
+“1. The debtor is not entitled under [the automobile exemption] to an
+interest of more than $3,225 in an automobile. The automobile claimed
+by debtor as exempt . . . has a value substantially greater than $3,225.
+
+

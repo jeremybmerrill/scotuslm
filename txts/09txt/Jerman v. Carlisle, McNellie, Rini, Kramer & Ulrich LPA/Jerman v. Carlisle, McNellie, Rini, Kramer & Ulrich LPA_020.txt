@@ -1,0 +1,51 @@
+Cite as: 559 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+sponding amendment to the FDCPA, Carlisle reasons, is
+evidence of Congress’ intent to give a more expansive
+scope to the FDCPA defense. For several reasons, we
+decline to give the 1980 TILA amendment such interpreta
+tive weight. For one, it is not obvious that the amendment
+changed the scope of TILA’s bona fide error defense in a
+way material to our analysis, given the uniform interpre
+tations of three Courts of Appeals holding that the TILA
+defense does not extend to mistakes of law.12 (Contrary to
+——————
+12 Although
+
+again not necessary to our conclusion, evidence from the
+legislative record suggests some Members of Congress understood the
+amendment to “clarif[y]” the meaning of TILA’s bona fide error defense
+“to make clear that it applies to mechanical and computer errors,
+provided they are not the result of erroneous legal judgments as to the
+act’s requirements.” S. Rep. No. 96–73, pp. 7–8 (1979); see also Lock
+hart, 153 A. L. R. Fed. 211–212, §2[a] (1999) (amendment “was in
+tended merely to clarify what was then the prevailing view, that the
+bona fide error defense applies to clerical errors, not including errors of
+legal judgment”) (relying on S. Rep. No. 96–368, p. 32 (1979)).
+The concurring and dissenting opinions perceive an inconsistency
+between these references to clerical errors, as well as similar references
+in the pre-FDCPA precedents interpreting TILA, n. 10, supra, and
+reading the FDCPA’s bona fide error defense to include factual mis
+takes. Post, at 2–4, and n. 2 (opinion of SCALIA, J.); post, at 20
+(KENNEDY, J., dissenting). The quoted legislative history sources,
+however, while stating expressly that the TILA defense excludes legal
+errors, do not discuss a distinction between clerical and factual errors.
+Similarly, the cited cases interpreting TILA do not address a distinction
+between factual and clerical errors; rather, the courts were presented
+with claims that the defense applied to mistakes of law or other nonfac
+tual errors that the courts found not to be bona fide. See Ives, 522
+F. 2d, at 756–757; Haynes, 503 F. 2d, at 1166–1167; Palmer, 502 F. 2d,
+at 861. While factual mistakes might, in some circumstances, consti
+tute bona fide errors and give rise to violations that are “not inten
+tional” within the meaning of §1692k(c), we need not and do not decide
+today the precise distinction between clerical and factual errors, or
+what kinds of factual mistakes qualify under the FDCPA’s bona fide
+error defense. Cf. generally R. Hobbs, National Consumer Law Center,
+Fair Debt Collection §7.2 (6th ed. 2008 and Supp. 2009) (surveying case
+law on scope of §1692k(c)).
+
+

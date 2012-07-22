@@ -1,0 +1,98 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+KAWASHIMA ET UX. v. HOLDER, ATTORNEY 
+
+GENERAL
+
+
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–577.
+
+Argued November 7, 2011—Decided February 21, 2012
+
+An Immigration Judge ordered the removal of resident aliens Akio and
+Fusako Kawashima, determining that Mr. Kawashima’s conviction
+for willfully making and subscribing a false tax return, 26 U. S. C.
+§7206(1), and Mrs. Kawashima’s conviction for aiding and assisting
+in the preparation of a false tax return, §7206(2), qualified as crimes
+involving fraud or deceit under 8 U. S. C. §1101(a)(43)(M)(i) (Clause
+(i)) and thus were aggravated felonies for which they could be deported under §1227(a)(2)(A)(iii). The Board of Immigration Appeals affirmed. Holding that convictions under 26 U. S. C. §§7206(1) and (2)
+in which the Government’s revenue loss exceeds $10,000 constitute
+aggravated felonies under Clause (i), the Ninth Circuit affirmed, but
+remanded for the Board to determine whether Mrs. Kawashima’s
+conviction had caused a Government loss in excess of $10,000.
+Held: Convictions under 26 U. S. C. §§7206(1) and (2) in which the
+Government’s revenue loss exceeds $10,000 qualify as aggravated
+felonies pursuant to Clause (i). Pp. 3−11.
+(a) The Kawashimas’ argument that they cannot be deported for
+the commission of an “aggravated felony” because crimes under
+§§7206(1) and (2) do not involve the fraud or deceit required by
+Clause (i) is rejected. This Court looks to the statute defining the
+crime of conviction, rather than the specific facts underlying the
+crime, see Gonzales v. Duenas-Alvarez, 549 U. S. 183, 186, to determine whether the Kawashimas’ offenses involve fraud or deceit within the meaning of Clause (i). Section 7206(1) provides that any person who “willfully makes and subscribes any return . . . which
+contains or is verified by a written declaration that it is made under
+the penalties of perjury, and which he does not believe to be true and
+
+
+2
+
+KAWASHIMA v. HOLDER
+Syllabus
+correct as to every material matter,” shall be guilty of a felony. Although the words “fraud” and “deceit” are absent from §7206(1) and
+are not themselves formal elements of the crime, it does not follow
+that Mr. Kawashima’s offense falls outside Clause (i). Clause (i) is not
+limited to offenses that include fraud or deceit as formal elements.
+Rather, it refers more broadly to offenses involving fraud or deceit―meaning offenses with elements that necessarily entail fraudulent or deceitful conduct. Mr. Kawashima’s conviction under §7206(1)
+involved deceitful conduct in that he knowingly and willfully submitted a tax return that was false as to a material matter. Mrs. Kawashima was convicted of violating §7206(2), which declares that any
+person who “[w]illfully aids or assists in . . . the preparation or
+presentation . . . of a return . . . which is fraudulent or is false as to
+any material matter” has committed a felony. She committed a felony involving deceit by knowingly and willfully assisting her husband’s filing of a materially false tax return. Pp. 3−6.
+(b) The Kawashimas’ argument that Clause (i), when considered in
+light of 8 U. S. C. §1101(a)(43)(M)(ii) (Clause (ii)), must be interpreted as being inapplicable to tax crimes is also rejected. Clause (i) defines “aggravated felony” to mean an offense that “involves fraud or
+deceit in which the loss to the victim or victims exceeds $10,000.”
+Clause (ii) defines “aggravated felony” as an offense that is “described
+in section 7201 of title 26 (relating to tax evasion) in which the revenue loss to the Government exceeds $10,000.” Contrary to the Kawashimas’ claim, the difference in the clauses’ language—“revenue
+loss to the Government” in Clause (ii) compared to “loss to the victim”
+in Clause (i)—does not establish Congress’ intent to remove tax
+crimes from the scope of Clause (i). By its plain language, Clause (i)
+covers a broad class of offenses that involve fraud or deceit, and Congress’ decision to tailor Clause (ii)’s language to match the sole type
+of offense it covers does not demonstrate that Congress intended to
+implicitly circumscribe Clause (i)’s broad scope. Furthermore, interpreting Clause (i) to include tax crimes does not violate the presumption against superfluities. The specific inclusion of tax evasion in
+Clause (ii) does not make it redundant to Clause (i) because the inclusion was intended to ensure that tax evasion pursuant to 26
+U. S. C. §7201 was a deportable offense. Pp. 6−10.
+(c) The United States Sentencing Guidelines’ separate treatment of
+tax crimes and crimes involving fraud and deceit does not support the
+Kawashimas’ contention that Congress did not intend to include tax
+crimes within Clause (i). No evidence suggests that Congress considered the Guidelines when drafting 8 U. S. C. §1101(a)(43)(M). Moreover, the differences between §1101(a)(43)(M) and the Guidelines undercut any inference that Congress was incorporating the distinction
+
+
+Cite as: 565 U. S. ____ (2012)
+
+3
+
+Syllabus
+drawn by the Guidelines into §1101(a)(43)(M). Pp. 10−11.
+(d) Construing §1101(a)(43)(M) in the Kawashimas’ favor under the
+rule of lenity is not warranted in light of the statute’s clear application. P. 11.
+615 F. 3d 1043, affirmed.
+THOMAS, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and SCALIA, KENNEDY, ALITO, and SOTOMAYOR, JJ., joined. GINSBURG, J., filed a dissenting opinion, in which BREYER and KAGAN, JJ.,
+joined.
+
+

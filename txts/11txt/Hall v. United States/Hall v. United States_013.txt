@@ -1,0 +1,44 @@
+10
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+6.5 For over a decade, the Government has likewise hewed
+to the position that “since post-petition tax liabilities are,
+in Chapter 13 cases, incurred by the debtor, rather than
+the bankruptcy estate, characterizing such liabilities as
+administrative expenses is inconsistent with section 503.”
+IRS Chief Counsel Advice No. 200113027, p. 6 (Mar. 30,
+2001), 2001 WL 307746, *4; see also Internal Revenue
+Manual §5.9.10.9.2(3) (2006) (hereinafter IRM); IRS Liti­
+gation Guideline Memorandum GL–26, p. 9 (Dec. 16,
+1996), 1996 WL 33107107, *6. We see no reason to depart
+from those established understandings. To “ ‘hold the
+Chapter 13 estate liable for [a] tax when it does not exist
+as a taxable entity defies common sense as well as Con­
+gress’ intent.’ ” In re Whall, 391 B. R. 1, 4 (Bkrtcy. Ct.
+Mass. 2008). The same holds true for a Chapter 12 estate.
+A provision in Chapter 13 confirms that postpetition
+income taxes fall outside §503(b). Section 1305(a)(1) pro­
+vides that “[a] proof of claim may be filed by any entity
+that holds a claim against the debtor . . . for taxes that
+become payable to a governmental unit while the case is
+pending.” (Emphasis added.) That provision gives holders
+of postpetition claims the option of collecting postpetition
+taxes within the bankruptcy case—an option that the
+Government would never need to invoke if postpetition tax
+liabilities were already collectible inside the bankruptcy.
+Accordingly, lest we render §1305 “ ‘inoperative or super­
+fluous,’ ” Hibbs v. Winn, 542 U. S. 88, 101 (2004), it is clear
+that postpetition income taxes are not automatically col­
+lectible in a Chapter 13 plan and, a fortiori, are not admin­
+istrative expenses under §503(b).
+It follows that postpetition income taxes are not auto­
+——————
+5 See, e.g., In re Maxfield, No. 04–60355, 2009 WL 2105953, *5–*6
+(Bkrtcy. Ct. ND Ind. 2009); In re Jagours, 236 B. R. 616, 620 (Bkrtcy.
+Ct. ED Tex. 1999); In re Whall, 391 B. R. 1, 5–6 (Bkrtcy. Ct. Mass.
+2008); In re Brown, No. 05–41071, 2006 WL 3370867, *3 (Bkrtcy. Ct.
+Mass. 2006); In re Gyulafia, 65 B. R. 913, 916 (Bkrtcy. Ct. Kan. 1986).
+
+

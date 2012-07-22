@@ -1,0 +1,43 @@
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+BREYER, J., dissenting
+
+The majority also refers to Stoneridge, but that case
+offers it no help. In Stoneridge, firms that supplied
+electronic equipment to a cable television company agreed
+with the cable television company to enter into a series of
+fraudulent sales and purchases, for example, a sale at an
+unusually high price, thereby providing funds which the
+suppliers would use to buy advertising from the cable
+television company. These arrangements enabled the
+cable television company to fool its accountants (and
+ultimately the public) into believing that it had more
+revenue (for example, advertising revenue) than it really
+had. As part of the agreement, the companies exchanged
+letters and backdated contracts to conceal the fraud.
+Investors subsequently sued the cable television company,
+some of its officers, its auditors, and the equipment
+suppliers, as well, claiming that all of them had engaged
+in a scheme to defraud securities purchasers. In respect to
+most of the defendants, investors identified allegedly
+materially false statements contained in the cable
+television company’s financial statements or similar documents. But in respect to the equipment suppliers, in­
+vestors claimed that the relevant deceptive conduct was
+in the letters, backdated contracts, and related oral
+conversations about the scheme. The investors argued
+that the equipment suppliers, “by participating in the
+transactions,” violated §10(b) and Rule 10b–5. Stoneridge,
+552 U. S., at 155.
+The Court held that the equipment suppliers could not
+be found liable for securities fraud in a private suit under
+§10(b). But in doing so, it did not deny that the equipment
+suppliers had made the false statements contained in the
+letters, contracts, and conversations. See id., at 158–159.
+Rather, the Court said the issue in the case was whether
+“any deceptive statement or act respondents made was not
+actionable because it did not have the requisite proximate
+relation to the investors’ harm.” Ibid. (emphasis added).
+
+

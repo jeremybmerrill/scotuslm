@@ -1,0 +1,53 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+HAMILTON, CHAPTER 13 TRUSTEE v. LANNING
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE TENTH CIRCUIT
+No. 08–998.
+
+Argued March 22, 2010—Decided June 7, 2010
+
+Debtors filing for protection under Chapter 13 of the Bankruptcy Code
+must agree to a court-approved plan under which they pay creditors
+out of their future income. If the bankruptcy trustee or an unsecured
+creditor objects, a bankruptcy court may not approve the plan unless
+it provides for the full repayment of unsecured claims or “provides
+that all of the debtor’s projected disposable income to be received”
+over the plan’s duration “will be applied to make payments” in accor
+dance with plan terms. 11 U. S. C. §1325(b)(1). Before enactment of
+the Bankruptcy Abuse Prevention and Consumer Protection Act of
+2005 (BAPCPA), the Code loosely defined “disposable income.”
+Though it did not define “projected disposable income,” most bank
+ruptcy courts calculated it using a mechanical approach, multiplying
+monthly income by the number of months in the plan and then de
+termining the “disposable” portion of the result. In exceptional cases,
+those courts also took into account foreseeable changes in a debtor’s
+income or expenses. BAPCPA defines “disposable income” as “cur
+rent monthly income received by the debtor” less “amounts reasona
+bly necessary to be expended” for, e.g., the debtor’s maintenance and
+support. §1325(b)(2)(A)(i). “Current monthly income,” in turn, is cal
+culated by averaging the debtor’s monthly income during a 6-month
+look-back period preceding the petition’s filing. See §101(10A)(A)(i).
+If a debtor’s income is below the median for his or her State,
+“amounts reasonably necessary” include the full amount needed for
+“maintenance or support,” see §1325(b)(2)(A)(i), but if the debtor’s in
+come exceeds the state median, only certain specified expenses are
+included, see §§707(b)(2), 1325(b)(3)(A).
+A one-time buyout from respondent’s former employer caused her
+current monthly income for the six months preceding her Chapter 13
+
+

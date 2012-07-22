@@ -1,0 +1,240 @@
+STEVENS, J., concurring in judgment No. 08–680 [February 24, 2010]  JUSTICE STEVENS, concurring in the judgment. Arizona, 451 U. S. 477 (1981), is not “eternal,” ante, at 9– 10, and does not mandate suppression of Shatzer’s state­ ment made after a 2½-year break in custody, I do not agree with the Court’s newly announced rule: that Ed wards always ceases to apply when there is a 14-day break in custody, ante, at 11. In conducting its “cost-benefit” analysis, the Court demeans Edwards as a “ ‘second layer’ ” of “judicially pre­ scribed prophylaxis,” ante, at 5, 6, 12, n. 7; see also ante, at 6 (describing Edwards as “ ‘our rule, not a constitutional 688 (1988) (KENNEDY, J., dissenting))). The source of the holdings in the long line of cases that includes both Ed wards and Miranda, however, is the Fifth Amendment’s protection against compelled self-incrimination applied to the “compulsion inherent in custodial” interrogation, “significan[ce]” of “the assertion of the right to counsel,” Edwards, 451 U. S., at 485.1 The Court’s analysis today is
+STEVENS, J., concurring in judgment insufficiently sensitive to the concerns that motivated the Edwards line of cases. The most troubling aspect of the Court’s time-based rule is that it disregards the compulsion caused by a second (or third, or fourth) interrogation of an indigent suspect who was told that if he requests a lawyer, one will be provided for him. When police tell an indigent suspect that he has the right to an attorney, that he is not required to speak without an attorney present, and that an attorney will be provided to him at no cost before questioning, the police have made a significant promise. If they cease question­ ing and then reinterrogate the suspect 14 days later with­ out providing him with a lawyer, the suspect is likely to feel that the police lied to him and that he really does not have any right to a lawyer.2
+STEVENS, J., concurring in judgment When officers informed Shatzer of his rights during the first interrogation, they presumably informed him that if he requested an attorney, one would be appointed for him before he was asked any further questions. But if an indigent suspect requests a lawyer, “any further interro­ gation” (even 14 days later) “without counsel having been provided will surely exacerbate whatever compulsion to speak the suspect may be feeling.” Roberson, 486 U. S., at 686. When police have not honored an earlier commit­ ment to provide a detainee with a lawyer, the detainee likely will “understan[d] his (expressed) wishes to have been ignored” and “may well see further objection as futile and confession (true or not) as the only way to end his 473 (1994) (Souter, J., concurring in judgment). Cf. Coo (describing an elaborate police task force plan to ignore a suspect’s requests for counsel, on the theory that such would induce hopelessness and thereby elicit an admis­ sion). Simply giving a “fresh se[t] of Miranda warnings” will not “ ‘reassure’ a suspect who has been denied the counsel he has clearly requested that his rights have remained untrammeled.” Roberson, 486 U. S., at 686. The Court never explains why its rule cannot depend on, in addition to a break in custody and passage of time, a concrete event or state of affairs, such as the police having honored their commitment to provide counsel. Instead, the Court simply decides to create a time-based rule, and in so doing, disregards much of the analysis upon which Edwards and subsequent decisions were based. “[T]he assertion of the right to counsel” “[i]s a significant event.”3
+STEVENS, J., concurring in judgment Edwards, 451 U. S., at 485. As the Court today acknowl­ edges, the right to counsel, like the right to remain silent, is one that police may “coerc[e] or badge[r],” ante, at 7, a suspect into abandoning.4 However, as discussed above, the Court ignores the effects not of badgering but of rein­ terrogating a suspect who took the police at their word that he need not answer questions without an attorney present. See Roberson, 486 U. S., at 686. The Court, moreover, ignores that when a suspect asks for counsel, until his request is answered, there are still the same “inherently compelling” pressures of custodial interroga­ tion on which the Miranda line of cases is based, see 486 U. S., at 681,5 and that the concern about compulsion is especially serious for a detainee who has requested a lawyer, an act that signals his “inability to cope with the
+STEVENS, J., concurring in judgment pressures of custodial interrogation,” id., at 686.6 Instead of deferring to these well-settled understand­ ings of the Edwards rule, the Court engages in its own speculation that a 14-day break in custody eliminates the compulsion that animated Edwards. But its opinion gives no strong basis for believing that this is the case.7 A 14­ day break in custody does not eliminate the rationale for the initial Edwards rule: The detainee has been told that he may remain silent and speak only through a lawyer and that if he cannot afford an attorney, one will be pro­ vided for him. He has asked for a lawyer. He does not have one. He is in custody. And police are still question­ ing him. A 14-day break in custody does not change the fact that custodial interrogation is inherently compelling. It is unlikely to change the fact that a detainee “considers himself unable to deal with the pressures of custodial interrogation without legal assistance.” Roberson, 486 U. S., at 683.8 And in some instances, a 14-day break in
+STEVENS, J., concurring in judgment custody may make matters worse 9 “[w]hen a suspect understands his (expressed) wishes to have been ignored” and thus “may well see further objection as futile and confession (true or not) as the only way to end his interro­ gation.” Davis, 512 U. S., at 472–473 (Souter, J., concur­ ring in judgment).10 The Court ignores these understandings from the Ed wards line of cases and instead speculates that if a suspect is reinterrogated and eventually talks, it must be that “further deliberation in familiar surroundings has caused him to believe (rightly or wrongly) that cooperating with the investigation is in his interest.” Ante, at 9. But it is
+STEVENS, J., concurring in judgment not apparent why that is the case. The answer, we are told, is that once a suspect has been out of Miranda cus­ tody for 14 days, “[h]e has likely been able to seek advice from an attorney, family members, and friends.” Ante, at 8. This speculation, however, is overconfident and only questionably relevant. As a factual matter, we do not know whether the defendant has been able to seek advice: First of all, suspects are told that if they cannot afford a lawyer, one will be provided for them. Yet under the majority’s rule, an indigent suspect who took the police at their word when he asked for a lawyer will nonetheless be assumed to have “been able to seek advice from an attor­ ney.” Second, even suspects who are not indigent cannot necessarily access legal advice (or social advice as the Court presumes) within 14 days. Third, suspects may not realize that they need to seek advice from an attorney. Unless police warn suspects that the interrogation will resume in 14 days, why contact a lawyer? When a suspect is let go, he may assume that the police were satisfied. In any event, it is not apparent why interim advice matters.11 held that it is not sufficient that a detainee happened to speak at some point with a lawyer. See ibid. (noting that “consultation with an attorney” does not prevent “persis­ tent attempts by officials to persuade [a suspect] to waive his rights” or shield against the “coercive pressures that accompany custody”). If the actual interim advice of an attorney is not sufficient, the hypothetical, interim advice of “an attorney, family members, and friends,” ante, at 8, is not enough.
+STEVENS, J., concurring in judgment The many problems with the Court’s new rule are exac­ erbated in the very situation in this case: a suspect who is in prison. Even if, as the Court assumes, a trip to one’s home significantly changes the Edwards calculus, a trip to one’s prison cell is not the same. A prisoner’s freedom is severely limited, and his entire life remains subject to government control. Such an environment is not condu­ cive to “shak[ing] off any residual coercive effects of his prior custody.” Ante, at 11.12 Nor can a prisoner easily “seek advice from an attorney, family members, and friends,” ante, at 8, especially not within 14 days; prison­ ers are frequently subject to restrictions on communica­ tions. Nor, in most cases, can he live comfortably knowing that he cannot be badgered by police; prison is not like a normal situation in which a suspect “is in control, and need only shut his door or walk away to avoid police badg­ (slip op., at 16). Indeed, for a person whose every move is controlled by the State, it is likely that “his sense of de­ pendence on, and trust in, counsel as the guardian of his interests in dealing with government officials intensified.” Minnick, 498 U. S., at 153 (explaining that coercive pres­ sures “may increase as custody is prolonged”).13 The Court
+STEVENS, J., concurring in judgment ignores these realities of prison, and instead rests its argument on the supposition that a prisoner’s “detention . . . is relatively disconnected from their prior unwilling­ ness to cooperate in an investigation.” Ante, at 14. But that is not necessarily the case. Prisoners are uniquely vulnerable to the officials who control every aspect of their lives; prison guards may not look kindly upon a prisoner who refuses to cooperate with police. And cooperation frequently is relevant to whether the prisoner can obtain parole. See, e.g., Code of Md. Regs., tit. 12, §08.01.18(A)(3) (2008). Moreover, even if it is true as a factual matter that a prisoner’s fate is not controlled by the police who come to interrogate him, how is the prisoner supposed to know that? As the Court itself admits, compulsion is likely when a suspect’s “captors appear to control [his] fate,” ante, at 7 (internal quotation marks omitted). But when a guard informs a suspect that he must go speak with police, it will “appear” to the prisoner that the guard and police are not independent. “Questioning by captors, who appear to control the suspect’s fate, may create mutu­ ally reinforcing pressures that the Court has assumed will 292, 297 (1990) (emphasis added).14
+STEVENS, J., concurring in judgment Because, at the very least, we do not know whether Shatzer could obtain a lawyer, and thus would have felt that police had lied about providing one, I cannot join the Court’s opinion. I concur in today’s judgment, however, on another ground: Even if Shatzer could not consult a law­ yer and the police never provided him one, the 2½-year break in custody is a basis for treating the second interro­ gation as no more coercive than the first. Neither a break in custody nor the passage of time has an inherent, cura­
+STEVENS, J., concurring in judgment tive power. But certain things change over time. An indigent suspect who took police at their word that they would provide an attorney probably will feel that he has “been denied the counsel he has clearly requested,” Roberson, 486 U. S., at 686, when police begin to question him, without a lawyer, only 14 days later.15 But, when a suspect has been left alone for a significant period of time, he is not as likely to draw such conclusions when the police interrogate him again.16 It is concededly “impossi­ ble to determine with precision” where to draw such a line. before us, however, the suspect was returned to the gen­ eral prison population for 2½ years. I am convinced that
+STEVENS, J., concurring in judgment this period of time is sufficient. I therefore concur in the judgment.
+——————
+1 See
+
+Dickerson v. United States, 530 U. S. 428, 438 (2000) (holding
+that “the protections announced in Miranda” are “constitutionally
+required”); Shea v. Louisiana, 470 U. S. 51, 52 (1985) (“In Edwards . . . ,
+this Court ruled that a criminal defendant’s rights under the Fifth and
+
+
+——————
+Fourteenth Amendments were violated by the use of his confession
+obtained by police-instigated interrogation—without counsel present—
+after he requested an attorney”); Oregon v. Bradshaw, 462 U. S. 1039,
+1043 (1983) (plurality opinion) (“[The] subsequent incriminating
+statements made without [an] attorney present violated the rights
+secured to the defendant by the Fifth and Fourteenth Amendments to
+the United States Constitution”); Miranda, 384 U. S., at 458 (examin­
+ing the “history and precedent underlying the Self-Incrimination
+Clause to determine its applicability in this situation”).
+2 The Court states that this argument rests on a “fallacy” because “we
+are not talking about ‘reinterrogating’ the suspect; we are talking about
+asking his permission to be interrogated.” Ante, at 16 (emphasis
+deleted). Because, however, a suspect always has the right to remain
+silent, this is a distinction without a difference: Any time that the
+police interrogate or reinterrogate, and read a suspect his Miranda
+rights, the suspect may decline to speak. And if this is a “fallacy,” it is
+the same “fallacy” upon which this Court has relied in the Edwards line
+of cases that held that police may not continue to interrogate a suspect
+who has requested a lawyer: Police may not continue to ask such a
+suspect whether they may interrogate him until that suspect has a
+lawyer present. The Court’s apparent belief that this is a “fallacy” only
+underscores my concern that its analysis is insufficiently sensitive to
+
+
+——————
+the concerns that motivated the Edwards line of cases.
+3 Indeed, a lawyer has a “unique ability to protect the Fifth Amend­
+ment rights of a client undergoing custodial interrogation.” Fare v.
+
+
+——————
+Michael C., 442 U. S. 707, 719 (1979). Counsel can curb an officer’s
+overbearing conduct, advise a suspect of his rights, and ensure that
+there is an accurate record of any interrogation. “Because of this
+special ability of the lawyer to help the client preserve his Fifth
+Amendment rights once the client becomes enmeshed in the adversary
+process, the Court found that the right to have counsel present at the
+interrogation is indispensible to the protection of the Fifth Amendment
+privilege.” Arizona v. Roberson, 486 U. S. 675, 682, n. 4 (1988) (internal
+quotation marks omitted). Thus, “once the accused has requested
+counsel,” courts must be especially wary of “coercive form[s] of custodial
+interrogation.” Bradshaw, 462 U. S., at 1051 (Powell, J., concurring in
+judgment).
+4 See Michigan v. Harvey, 494 U. S. 344, 350 (1990) (subsequent con­
+fession suggests the police “badger[ed] a defendant into waiving his
+previously asserted Miranda rights”).
+5 See Minnick v. Mississippi, 498 U. S. 146, 155 (1990) (“[N]either
+admissions nor waivers are effective unless there are both particular
+and systemic assurances that the coercive pressures of custody were
+not the inducing cause”); cf. Smith v. Illinois, 469 U. S. 91, 98 (1984)
+(per curiam) (“[T]he authorities through ‘badger[ing]’ or ‘overreach­
+ing’—explicit or subtle, deliberate or unintentional—might otherwise
+wear down the accused and persuade him to incriminate himself
+notwithstanding his earlier request for counsel’s assistance”).
+
+
+——————
+6 See
+
+Roberson, 486 U. S., at 681 (“[I]f a suspect believes that he is not
+capable of undergoing such questioning without advice of counsel, then
+it is presumed that any subsequent waiver that has come at the au­
+thorities’ behest, and not at the suspect’s own instigation, is itself the
+product of the ‘inherently compelling pressures’ ”); Michigan v. Mosley,
+423 U. S. 96, 110, n. 2 (1975) (White, J., concurring in result) (“[T]he
+accused having expressed his own view that he is not competent to deal
+with the authorities without legal advice, a later decision at the au­
+thorities’ insistence to make a statement without counsel’s presence
+may properly be viewed with skepticism”).
+7 Today’s decision, moreover, offers no reason for its 14-day time pe­
+riod. To be sure, it may be difficult to marshal conclusive evidence
+when setting an arbitrary time period. But in light of the basis for
+Edwards, we should tread carefully. Instead, the only reason for
+choosing a 14-day time period, the Court tells us, is that “[i]t seems to
+us that period is 14 days.” Ante, at 11. That time period is “plenty of
+time for the suspect to get reacclimated to his normal life, to consult
+with friends and counsel, and to shake off any residual coercive effects
+of his prior custody.” Ibid. But the Court gives no reason for that
+speculation, which may well prove inaccurate in many circumstances.
+8 In Roberson, for example, we observed that once a suspect has as­
+
+
+——————
+serted his right to an attorney, courts must presume he does “not feel
+sufficiently comfortable with the pressures of custodial interrogation to
+answer questions without an attorney. This discomfort is precisely the
+state of mind that Edwards presumes to persist . . . .” 486 U. S., at 684.
+We held in Roberson that just because different police come to speak
+about a different investigation, that presumption does not change:
+“[T]here is no reason to assume that a suspect’s state of mind is in any
+way investigation-specific.” Ibid. Nor is there any reason to believe
+that it is arrest specific.
+9 The compulsion is heightened by the fact that “[t]he uncertainty of
+fate that being released from custody and then reapprehended entails
+is, in some circumstances, more coercive than continual custody.”
+Strauss, Reinterrogation, 22 Hastings Const. L. Q. 359, 390 (1995).
+10 Not only is this a likely effect of reinterrogation, but police may use
+this effect to their advantage. Indeed, the Court’s rule creates a
+strange incentive to delay formal proceedings, in order to gain addi­
+tional information by way of interrogation after the time limit lapses.
+The justification for Fifth Amendment rules “must be consistent with
+. . . practical realities,” Roberson, 486 U. S., at 688 (KENNEDY, J.,
+dissenting), and the reality is that police may operate within the
+confines of the Fifth Amendment in order to extract as many confes­
+sions as possible, see Leo & White, Adapting to Miranda: Modern
+Interrogators’ Strategies for Dealing with the Obstacles Posed by
+Miranda, 84 Minn. L. Rev. 397 (1999). With a time limit as short as 14
+days, police who hope that they can eventually extract a confession may
+feel comfortable releasing a suspect for a short period of time. The
+resulting delay will only increase the compelling pressures on the
+suspect.
+
+
+——————
+11 It is important to distinguish this from the point that I make above
+about indigent suspects. If the police promise to provide a lawyer and
+never do so, it sends a message to the suspect that the police have lied
+and that the rights read to him are hollow. But the mere fact that a
+suspect consulted a lawyer does not itself reduce the compulsion when
+police reinterrogate him.
+
+
+——————
+12 Cf. Orozco v. Texas, 394 U. S. 324, 326 (1969) (holding that a sus­
+pect was in custody while being held in own home, despite his comfort
+and familiarity with the surroundings); Mathis v. United States, 391
+U. S. 1, 5 (1968) (holding that a person serving a prison sentence for
+one crime was in custody when he was interrogated in prison about
+another, unrelated crime); Miranda v. Arizona, 384 U. S. 436, 478
+(1966) (“[W]hen an individual is . . . deprived of his freedom by the
+authorities in any significant way and is subjected to questioning, the
+privilege against self-incrimination is jeopardized”).
+13 Prison also presents a troubling set of incentives for police. First,
+because investigators know that their suspect is also a prisoner, there
+is no need formally to place him under arrest. Thus, police generally
+can interview prisoners even without probable cause to hold them.
+
+
+——————
+This means that police can interrogate suspects with little or no evi­
+dence of guilt, and police can do so time after time, without fear of
+being sued for wrongful arrest. Second, because police know that their
+suspect is otherwise detained, there is no need necessarily to resolve
+the case quickly. Police can comfortably bide their time, interrogating
+and reinterrogating their suspect until he slips up. Third, because
+police need not hold their suspect, they do not need to arraign him or
+otherwise initiate formal legal proceedings that would trigger various
+protections.
+14 The Court attempts to distinguish detention in prison from the
+“paradigm Edwards case,” ante, at 7, but it is not clear why that is so.
+The difference cannot be simply that convicted prisoners’ “detention . . .
+is relatively disconnected from their prior unwillingness to cooperate in
+an investigation,” ante, at 14, because in many instances of pretrial
+
+
+——————
+custody, the custody will continue regardless of whether a detainee
+answers questions. Take Roberson for example. Roberson was arrested
+and being held for one crime when, days later, a different officer inter­
+rogated him about a different crime. 486 U. S., at 678. Regardless of
+whether he cooperated with the second investigation, he was still being
+held for the first crime. Yet under the Court’s analysis, had Roberson
+been held long enough that he had become “accustomed” to the deten­
+tion facility, ante, at 14, there would have been a break in custody
+between each interrogation. Thus, despite the fact that coercive pres­
+sures “may increase as custody is prolonged,” Minnick, 498 U. S., at
+153, the real problem in Roberson may have been that the police did not
+leave him sitting in jail for long enough.
+This problem of pretrial custody also highlights a tension with the
+Court’s decision last Term in Montejo v. Louisiana, 556 U. S. ___
+(2009). In Montejo, the Court overturned Michigan v. Jackson, 475
+U. S. 625, 636 (1986), which had protected an accused’s Sixth Amend­
+ment right to counsel by “forbidding police to initiate interrogation of a
+criminal defendant once he has requested counsel at an arraignment or
+similar proceeding.” 556 U. S., at ___ (slip op., at 1). In so doing, the
+Court emphasized that because the Edwards “regime suffices to protect
+the integrity of ‘a suspect’s voluntary choice not to speak outside his
+lawyer’s presence,’ before his arraignment, it is hard to see why it
+would not also suffice to protect that same choice after arraignment.”
+556 U. S., at ___ (slip op., at 15) (quoting Texas v. Cobb, 532 U. S. 162,
+175 (2001) (KENNEDY, J., concurring); citation omitted). But typically,
+after arraignment, defendants are released on bail or placed in deten­
+tion facilities, both of which, according to the majority’s logic, some­
+times constitute breaks in custody. How then, under the Court’s
+decision today, will Edwards serve the role that the Court placed on it
+in Montejo?
+
+
+——————
+15 The Court responds that “[i]f confidence in the police’s promise to
+provide counsel were the touchstone, Edwards would not have applied
+in Minnick, where the suspect in continuing custody actually met with
+appointed counsel.” Ante, at 17–18. But my view is not that “confi­
+dence in the police’s promise to provide counsel” is “the touchtone.”
+Ante, at 17. Rather, my view is that although an appropriate break in
+custody will mitigate many of the reasons that custodial reinterrogation
+of a suspect who requested counsel is inherently compelling, it will not
+mitigate the effect of an indigent detainee believing that he has “been
+denied the counsel he has clearly requested,” Roberson, 486 U. S., at
+686. If police tell an indigent suspect that he is not required to speak
+without an attorney, and that they will provide him with an attorney,
+and that suspect asserts his right to an attorney, but police nonetheless
+do not provide an attorney and reinterrogate him (even if there was a
+break in custody between the interrogations), the indigent suspect is
+likely to feel that the police lied to him or are ignoring his rights. This
+view is not in tension with Minnick. Minnick holds only that consulta­
+tion with an attorney between interrogations is not sufficient to end the
+Edwards presumption and therefore that when there has been no break
+in custody, “counsel’s presence at interrogation,” 498 U. S., at 152, is
+necessary to address the compulsion with which the Edwards line of
+cases is concerned.
+16 I do not doubt that some of the compulsion caused by reinterrogat­
+ing an indigent suspect without providing a lawyer may survive even a
+break in custody and a very long passage of time. The relevant point
+here is more limited: A long break in time, far longer than 14 days,
+diminishes, rather than eliminates, that compulsion.
+
+

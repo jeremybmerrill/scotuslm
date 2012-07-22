@@ -1,0 +1,44 @@
+12
+
+SYKES v. UNITED STATES
+THOMAS, J., concurring in judgment
+
+ment statute confirms that its other provisions do not
+reserve §3(b)(1)(A) for nonrisky conduct. An intentional
+vehicular flight becomes a class C felony if the vehicle is
+operated “in a manner that causes serious bodily injury.”
+Ind. Code §35–44–3–3(b)(2). The same act becomes a class
+B felony if someone is killed. §35–44–3–3(b)(3).3 JUSTICE
+KAGAN asserts that each of these “separate, escalating
+crimes” captures an increasing degree of risk and neces
+sarily means that §3(b)(1)(A), the offense simpliciter, is
+less risky than it otherwise seems. Post, at 7.
+The flaw in this reasoning is that §§3(b)(2) and (3) en
+hance punishment based solely on the results of the flight,
+not the degree of risk it posed. Neither provision requires
+any action by a suspect beyond that which satisfies the
+elements of §3(b)(1)(A).4 Rather, each provision addresses
+what happens when the risk inherent in a violation of
+§3(b)(1)(A) is actualized and someone is hurt or killed.
+The risk of physical injury inherent in intentional vehicu
+lar flight simpliciter was apparently clear enough to spur
+the Indiana Legislature to specify greater penalties for the
+inevitable occasions when physical injury actually occurs.
+By comparison, for obviously nonrisky felonies like insur
+ance fraud or misappropriation of escrow funds, legisla
+tures do not specify what additional punishment is war
+ranted when the crime kills or injures bystanders or
+police. See, e.g., Ind. Code §35–43–5–7.2; §35–43–9–7. In
+sum, §§3(b)(2) and (3) do not demonstrate that §3(b)(1)(A)
+is less risky than it otherwise seems, but instead support
+the idea that it is inherently risky.
+——————
+3 Indiana recently added that if a police officer dies, it becomes a class
+A felony. 2010 Ind. Acts p. 1197.
+4 For that matter, each provision also could be satisfied by a flight
+that did not satisfy §3(b)(1)(B), which casts further doubt on JUSTICE
+KAGAN’s vision of the statutory scheme as a unified structure of neatly
+progressing offenses with corresponding risk levels and punishments.
+See post, at 7.
+
+

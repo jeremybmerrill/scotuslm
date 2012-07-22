@@ -1,0 +1,154 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+PERDUE, GOVERNOR OF GEORGIA, ET AL. v. KENNY
+A., BY HIS NEXT FRIEND WINN, ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE ELEVENTH CIRCUIT
+No. 08–970.
+
+Argued October 14, 2009—Decided April 21, 2010
+
+Title 42 U. S. C. §1988 authorizes courts to award a “reasonable” attor
+ney’s fee for prevailing parties in civil rights actions. Half of respon
+dents’ $14 million fee request was based on their calculation of the
+“lodestar,” i.e., the number of hours the attorneys and their employ
+ees worked multiplied by the hourly rates prevailing in the commu
+nity. The other half represented a fee enhancement for superior work
+and results, supported by affidavits claiming that the lodestar would
+be insufficient to induce lawyers of comparable skill and experience
+to litigate this case. Awarding fees of about $10.5 million, the Dis
+trict Court found that the proposed hourly rates were “fair and rea
+sonable,” but that some of the entries on counsel’s billing records
+were vague and that the hours claimed for many categories were ex
+cessive. The court therefore cut the lodestar to approximately $6 mil
+lion, but enhanced that award by 75%, or an additional $4.5 million.
+The Eleventh Circuit affirmed in reliance on its precedent.
+Held:
+1. The calculation of an attorney’s fee based on the lodestar may be
+increased due to superior performance, but only in extraordinary cir
+cumstances. Pp. 5–12.
+(a) The lodestar approach has “achieved dominance in the federal
+courts.” Gisbrecht v. Barnhart, 535 U. S. 789, 801. Although imper
+fect, it has several important virtues: It produces an award that ap
+proximates the fee the prevailing attorney would have received for
+representing a paying client who was billed by the hour in a compa
+rable case; and it is readily administrable, see, e.g., Burlington v. Da
+gue, 505 U. S. 557, 566, and “objective,” Hensley v. Eckerhart, 461
+U. S. 424, 433, thereby cabining trial judges’ discretion, permitting
+
+
+2
+
+PERDUE v. KENNY A.
+Syllabus
+meaningful judicial review, and producing reasonably predictable re
+sults. Pp. 5–7.
+(b) This Court has established six important rules that lead to
+today’s decision. First, a “reasonable” fee is one that is sufficient to
+induce a capable attorney to undertake the representation of a meri
+torious civil rights case, see Pennsylvania v. Delaware Valley Citi
+zens’ Council for Clean Air, 478 U. S. 546, 565, but that does not pro
+vide “a form of economic relief to improve the financial lot of
+attorneys,” ibid. Second, there is a “strong” presumption that the
+lodestar method yields a sufficient fee. See, e.g., id., at 564. Third,
+the Court has never sustained an enhancement of a lodestar amount
+for performance, but has repeatedly said that an enhancement may
+be awarded in “rare” and “exceptional” circumstances. E.g., id., at
+565. Fourth, “the lodestar includes most, if not all, of the relevant
+factors constituting a ‘reasonable’ attorney’s fee.” Id., at 566. An en
+hancement may not be based on a factor that is subsumed in the
+lodestar calculation, such as the case’s novelty and complexity, see,
+e.g., Blum v. Stenson, 465 U. S. 886, 898, or the quality of an attor
+ney’s performance, Delaware Valley, supra, at 566. Fifth, the burden
+of proving that an enhancement is necessary must be borne by the fee
+applicant. E.g., Blum, 465 U. S., at 901. Sixth, an applicant seeking
+an enhancement must produce “specific evidence” supporting the
+award, id., at 899, 901, to assure that the calculation is objective and
+capable of being reviewed on appeal. Pp. 7–9.
+(c) The Court rejects any contention that a fee determined by the
+lodestar method may not be enhanced in any situation. The “strong
+presumption” that the lodestar is reasonable may be overcome in
+those rare circumstances in which the lodestar does not adequately
+account for a factor that may properly be considered in determining a
+reasonable fee. P. 9.
+(d) The Court treats the quality of an attorney’s performance and
+the results obtained as one factor, since superior results are relevant
+only to the extent it can be shown that they stem from superior at
+torney performance and not another factor, such as inferior perform
+ance by opposing counsel. The circumstances in which superior at
+torney performance is not adequately taken into account in the
+lodestar calculation are “rare” and “exceptional.” Enhancements
+should not be awarded without specific evidence that the lodestar fee
+would not have been “adequate to attract competent counsel.” Blum,
+supra, at 897. First, an enhancement may be appropriate where the
+method used to determine the hourly rate does not adequately meas
+ure the attorney’s true market value, as demonstrated in part during
+the litigation. This may occur if the hourly rate formula takes into
+account only a single factor (such as years since admission to the bar)
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Syllabus
+or perhaps only a few similar factors. In such a case, the trial judge
+should adjust the hourly rate in accordance with specific proof linking
+the attorney’s ability to a prevailing market rate. Second, an en
+hancement may be appropriate if the attorney’s performance includes
+an extraordinary outlay of expenses and the litigation is exception
+ally protracted. In such cases, the enhancement amount must be cal
+culated using a method that is reasonable, objective, and capable of
+being reviewed on appeal, such as by applying a standard interest
+rate to the qualifying expense outlays. Third, an enhancement may
+be appropriate where an attorney’s performance involves exceptional
+delay in the payment of fees. In such a case, the enhancement should
+be calculated by a method similar to that used for an exceptional de
+lay in expense reimbursement. Enhancements are not appropriate
+on the ground that departures from hourly billing are becoming more
+common. Nor can they be based on a flawed analogy to the increas
+ingly popular practice of paying attorneys a reduced hourly rate with
+a bonus for obtaining specified results. Pp. 9–12.
+2. The District Court did not provide proper justification for the
+75% fee enhancement it awarded in this case. It commented that the
+enhancement was necessary to compensate counsel at the appropri
+ate hourly rate, but the effect was to raise the top rate from $495 to
+more than $866 per hour, while nothing in the record shows that this
+is an appropriate figure for the relevant market. The court also em
+phasized that counsel had to make extraordinary outlays for ex
+penses and wait for reimbursement, but did not calculate the amount
+of the enhancement attributable to this factor. Similarly, the court
+noted that counsel did not receive fees on an ongoing basis during the
+case, but did not sufficiently link this to proof that the delay was out
+side the normal range expected by attorneys who rely on §1988 for
+fees. Nor did the court calculate the cost to counsel of any extraordi
+nary and unwarranted delay. And its reliance on the contingency of
+the outcome contravenes Dague, supra, at 565. Finally, insofar as
+the court relied on a comparison of counsel’s performance in this case
+with that of counsel in unnamed prior cases, it did not employ a
+methodology that permitted meaningful appellate review. While de
+termining a “reasonable attorney’s fee” is within the trial judge’s
+sound discretion under §1988, that discretion is not unlimited. The
+judge must provide a reasonably specific explanation for all aspects of
+a fee determination, including any enhancement. Pp. 12–15.
+532 F. 3d 1209, reversed and remanded.
+ALITO, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and SCALIA, KENNEDY, and THOMAS, JJ., joined. KENNEDY, J., and THOMAS, J., filed concurring opinions. BREYER, J., filed an opinion concur
+ring in part and dissenting in part, in which STEVENS, GINSBURG, and
+SOTOMAYOR, JJ., joined.
+
+

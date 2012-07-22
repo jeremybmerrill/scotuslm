@@ -1,0 +1,41 @@
+2
+
+CULLEN v. PINHOLSTER
+SOTOMAYOR, J., dissenting
+
+tive-assistance-of-counsel claim was an unreasonable
+application of Strickland v. Washington, 466 U. S. 668
+(1984). There is no reason for the majority to decide
+whether the §2254(d)(1) analysis is limited to the state
+court record because Pinholster satisfied §2254(d)(1) on
+either the state- or federal-court record.
+I
+The Court first holds that, in determining whether a
+state-court decision is an unreasonable application of
+Supreme Court precedent under §2254(d)(1), “review . . . is
+limited to the record that was before the state court that
+adjudicated the claim on the merits.” Ante, at 9. New
+evidence adduced at a federal evidentiary hearing is
+now irrelevant to determining whether a petitioner has
+satisfied §2254(d)(1). This holding is unnecessary to pro
+mote AEDPA’s purposes, and it is inconsistent with the
+provision’s text, the structure of the statute, and our
+precedents.
+A
+To understand the significance of the majority’s holding,
+it is important to view the issue in context. AEDPA’s
+entire structure—which gives state courts the opportunity
+to decide factual and legal questions in the first instance—
+ensures that evidentiary hearings in federal habeas pro
+ceedings are very rare. See N. King, F. Cheesman, & B.
+Ostrom, Final Technical Report: Habeas Litigation in
+U. S. District Courts 35–36 (2007) (evidentiary hearings
+under AEDPA occur in 0.4 percent of noncapital cases and
+9.5 percent of capital cases). Even absent the new restric
+tion created by today’s holding, AEDPA erects multiple
+hurdles to a state prisoner’s ability to introduce new evi
+dence in a federal habeas proceeding.
+First, “[u]nder the exhaustion requirement, a habeas
+petitioner challenging a state conviction must first at
+
+

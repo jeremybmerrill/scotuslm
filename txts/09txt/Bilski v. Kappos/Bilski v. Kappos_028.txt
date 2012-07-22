@@ -1,0 +1,43 @@
+8
+
+BILSKI v. KAPPOS
+STEVENS, J., concurring in judgment
+
+important clue, an investigative tool, for determining
+whether some claimed inventions are processes under
+§101 ”). Notwithstanding this internal tension, I under
+stand the Court’s opinion to hold only that the machine-or
+transformation test remains an important test for pat
+entability. Few, if any, processes cannot effectively be
+evaluated using these criteria.
+Third, in its discussion of an issue not contained in the
+questions presented—whether the particular series of
+steps in petitioners’ application is an abstract idea—the
+Court uses language that could suggest a shift in our
+approach to that issue. Although I happen to agree that
+petitioners seek to patent an abstract idea, the Court does
+not show how this conclusion follows “clear[ly],” ante, at
+15, from our case law. The patent now before us is not for
+“[a] principle, in the abstract,” or a “fundamental truth.”
+Parker v. Flook, 437 U. S. 584, 589 (1978) (internal quota
+tion marks omitted). Nor does it claim the sort of phe
+nomenon of nature or abstract idea that was embodied by
+the mathematical formula at issue in Gottschalk v. Ben
+son, 409 U. S. 63, 67 (1972), and in Flook.
+The Court construes petitioners’ claims on processes for
+pricing as claims on “the basic concept of hedging, or
+protecting against risk,” ante, at 14, and thus discounts
+the application’s discussion of what sorts of data to use,
+and how to analyze those data, as mere “token postsolu
+tion components,” ante, at 15. In other words, the Court
+artificially limits petitioners’ claims to hedging, and then
+concludes that hedging is an abstract idea rather than a
+term that describes a category of processes including
+petitioners’ claims. Why the Court does this is never
+made clear. One might think that the Court’s analysis
+means that any process that utilizes an abstract idea is
+itself an unpatentable, abstract idea. But we have never
+suggested any such rule, which would undermine a host of
+patentable processes. It is true, as the Court observes,
+
+

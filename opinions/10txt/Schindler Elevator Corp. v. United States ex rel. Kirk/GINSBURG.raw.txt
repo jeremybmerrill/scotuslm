@@ -1,0 +1,169 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+GINSBURG, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–188
+_________________
+
+SCHINDLER ELEVATOR CORPORATION, PETITIONER v. UNITED STATES EX REL.
+DANIEL KIRK
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SECOND CIRCUIT
+[May 16, 2011]
+
+JUSTICE GINSBURG, with whom JUSTICE BREYER and
+JUSTICE SOTOMAYOR join, dissenting.
+The Vietnam Era Veterans’ Readjustment Assistance
+Act of 1972 (VEVRAA) requires federal contractors to
+certify, each year, the number of “qualified covered veterans” they employ and related information. 38 U. S. C.
+§4212(d); 48 CFR §§22.1310(b) and 52.222–37(c) (2008).
+Respondent Daniel A. Kirk, a Vietnam War veteran and a
+former employee of petitioner Schindler Elevator Corporation (Schindler), had cause to believe, based on his own
+experience and observations, that Schindler failed to meet
+VEVRAA’s annual information-reporting requirements.
+To confirm and support his on-the-job observations, Kirk
+obtained, through several Freedom of Information Act
+(FOIA) requests to the Department of Labor (DOL), copies
+of Schindler’s VEVRAA filings. The DOL responses revealed that, in some years, Schindler filed no information,
+while in some other years, the corporation filed false information. Armed with the DOL’s confirmation of his own
+impressions, Kirk commenced suit against Schindler
+under the federal False Claims Act (FCA), 31 U. S. C.
+§3729 et seq.
+In a carefully developed, highly persuasive opinion, the
+Second Circuit explained why a federal agency’s response
+
+
+2
+
+SCHINDLER ELEVATOR CORP. v. UNITED STATES 
+
+EX REL. KIRK 
+
+GINSBURG, J., dissenting 
+
+
+to a FOIA request should not automatically qualify as
+a “report, hearing, audit, or investigation” preclusive of a
+whistleblower’s lawsuit under the public disclosure bar of
+the FCA, §3730(e)(4). I would affirm the Second Circuit’s
+judgment as faithful to the text, context, purpose, and
+history of the FCA’s public disclosure bar.
+The Court finds no “textual basis” for the Second Cir
+cuit’s interpretation of the statutory language. Ante, at 6.
+But the Court of Appeals’ opinion considered text as well
+as context. Leaving aside the term “report,” the court
+explained:
+“All of the other terms in [§3730(e)(4)(A)’s] list of
+enumerated sources connote the synthesis of informa
+tion in an investigatory context. ‘[C]riminal, civil,
+[and] administrative hearings,’ for instance, all entail
+a government inquiry into a given subject, here into
+an alleged case of fraud. Similarly, government ‘hear
+ing[s and] audit[s]’ are processes by which information
+is compiled with the concerted aim of deepening a
+government entity’s knowledge of a given subject or,
+often, determining whether a party is in compliance
+with applicable law. . . .
+“In this context, the term ‘report’ most readily bears
+a narrower meaning than simply ‘something that
+gives information.’ Rather, it connotes the compila
+tion or analysis of information with the aim of synthe
+sizing that information in order to serve some end of
+the government, as in a ‘hearing’ or ‘audit.’ It does
+not naturally extend to cover the mechanistic produc
+tion of documents in response to a FOIA request made
+by a member of the public.” 601 F. 3d 94, 107 (2010)
+(citations omitted).
+Focusing on the FOIA requests in this case, the Court of
+Appeals observed that DOL’s responses did not “synthe
+size the documents or their contents with the aim of itself
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+GINSBURG, J., dissenting
+
+gleaning any insight or information, as . . . it necessarily
+would in conducting a ‘hearing’ or ‘audit.’ ” Id., at 108.
+Far from “compil[ing] or synthesiz[ing] information to
+serve its own investigative or analytic ends,” id., at 111,
+DOL merely assembled and duplicated records, or noted
+the absence of records.
+Contrary to the Court’s assertion, moreover, the Second
+Circuit was mindful of the “error we reversed in Graham
+County [Soil and Water Conservation Dist. v. United
+States ex rel. Wilson, 559 U. S. ___ (2010)],” ante, at 6; the
+Court of Appeals used the noscitur a sociis canon only “as
+a guide in sifting through the common understandings of
+‘report’ and ‘investigation’ to discover their intended
+meaning within the FCA.” 601 F. 3d, at 108, n. 6. The
+court explained:
+“We . . . have not used the canon to impose commonal
+ity on terms that ‘do not share any . . . core of mean
+ing,’ Graham County, [559 U. S., at ___, n. 7 (slip op.,
+at 7, n. 7)]. To the contrary, the terms ‘hearing,’ ‘re
+port,’ ‘audit,’ and ‘investigation’ all refer to processes
+of uncovering and analyzing information or to the
+products of those processes. Our interpretation fo
+cuses on their shared ‘core of meaning.’ ” Ibid.
+The Court faults the Court of Appeals for not consider
+ing §3730(e)(4)(A)’s “reference to ‘news media,’ ” ante, at 7,
+suggesting that this omission overlooked Graham County’s
+observation that “all of the sources [of public disclosure]
+listed in §3730(e)(4)(A) provide interpretive guidance.”
+559 U. S., at ___ (slip op., at 8). Schindler did not make
+this argument below. In any event, the point would have
+been unavailing. Disclosures “of allegations or transac
+tions . . . from the news media,” §3730(e)(4)(A) (emphasis
+added), share a common core of meaning with disclosures
+in other sources that involve “processes of uncovering and
+analyzing information or . . . the products of those proc
+
+
+4
+
+SCHINDLER ELEVATOR CORP. v. UNITED STATES 
+
+EX REL. KIRK 
+
+GINSBURG, J., dissenting 
+
+
+esses.” 601 F. 3d, at 108, n. 6.
+The Court regards the case Kirk has brought as “a
+classic example of the ‘opportunistic’ litigation that the
+public disclosure bar is designed to discourage.” Ante, at
+10. 	But as the Second Circuit observed:
+“[T]he facts of this case belie the assertion that indi
+viduals who are not original sources and who obtain
+information through FOIA requests will generally not
+be persons with firsthand knowledge of fraud but
+rather will be opportunistic litigators. The facts also
+illustrate how an overbroad reading of the jurisdic
+tional bar would prevent an individual with inde
+pendent but partial knowledge of a possible fraud
+would be barred from bringing a lawsuit that is nei
+ther parasitic nor frivolous.” 601 F. 3d, at 110 (cita
+tion omitted).
+By ranking DOL’s ministerial response an “administra
+tive . . . report,” akin to a “Government Accounting Office
+report,” §3730(e)(4)(A) (footnote omitted), the Court weak
+ens the force of the FCA as a weapon against fraud on
+the part of Government contractors. Why should a whis
+tleblower attentive to the heightened pleading standards
+of Federal Rule of Civil Procedure 9(b) be barred from
+court if he seeks corroboration for his allegations, as Kirk
+did, through a FOIA request simply for copies of a contrac
+tor’s filings? After today’s decision, which severely limits
+whistleblowers’ ability to substantiate their allegations
+before commencing suit, that question is worthy of Con
+gress’ attention.
+
+

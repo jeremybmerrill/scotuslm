@@ -1,0 +1,49 @@
+Cite as: 559 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+have often observed that when “judicial interpretations
+have settled the meaning of an existing statutory provi
+sion, repetition of the same language in a new statute
+indicates, as a general matter, the intent to incorporate its
+. . . judicial interpretations as well.” Bragdon v. Abbott,
+524 U. S. 624, 645 (1998); see also Rowe v. New Hamp
+shire Motor Transp. Assn., 552 U. S. 364, 370 (2008).
+While the interpretations of three Federal Courts of Ap
+peals may not have “settled” the meaning of TILA’s bona
+fide error defense, there is no reason to suppose that
+——————
+1974) (similar).
+Carlisle contends the meaning of TILA’s defense was unsettled at the
+time of the FDCPA’s enactment, relying first on several District Court
+opinions extending the defense to good-faith legal errors. See, e.g.,
+Welmaker v. W. T. Grant Co., 365 F. Supp. 531, 544 (ND Ga. 1972).
+But even assuming Congress would have looked to district court, rather
+than court of appeals, opinions in discerning the meaning of the statu
+tory language, applicable Circuit precedent had cast some doubt on
+those decisions by the time the FDCPA was enacted. See, e.g., Turner
+v. Firestone Tire & Rubber Co., 537 F. 2d 1296, 1298 (CA5 1976) (per
+curiam) (referring to §1640(c) as the “so-called clerical error defense”).
+Carlisle also relies on the holding in Thrift Funds of Baton Rouge, Inc.
+v. Jones, 274 So. 2d 150 (La. 1973). But in that case, the Louisiana
+Supreme Court concluded only that a lender’s mistaken interpretation
+of state usury law did not “amoun[t] to an intentional violation of
+[TILA’s] disclosure requirements.” Id., at 161. The Louisiana court
+had no occasion to address the question analogous to the one we con
+sider today: whether TILA’s bona fide error defense extended to viola
+tions resulting from mistaken interpretation of TILA itself. See n. 4,
+supra; see also Starks v. Orleans Motors, Inc., 372 F. Supp. 928, 931
+(ED La.) (distinguishing Thrift Funds on this basis), aff’d, 500 F. 2d
+1182 (CA5 1974). These precedents therefore do not convince us that
+Congress would have ascribed a different meaning to the statutory
+language it chose for the FDCPA. Compare post, at 2 (SCALIA, J.,
+concurring in part and concurring in judgment), with Herman &
+MacLean v. Huddleston, 459 U. S. 375, 384–386, and n. 21 (1983)
+(concluding that Congress had “ratified” the “well-established judicial
+interpretation” of a statute by leaving it intact during a comprehensive
+revision, notwithstanding “[t]wo early district court decisions,” not
+subsequently followed, that had adopted a contrary view).
+
+

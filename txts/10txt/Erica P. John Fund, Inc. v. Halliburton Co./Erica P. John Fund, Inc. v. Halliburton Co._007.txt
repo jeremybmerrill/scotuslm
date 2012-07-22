@@ -1,0 +1,42 @@
+4
+
+ERICA P. JOHN FUND, INC. v. HALLIBURTON CO.
+Opinion of the Court
+
+members, and that a class action is superior to other
+available methods for fairly and efficiently adjudicating
+the controversy.” Fed. Rule Civ. Proc. 23(b)(3). Consider
+ing whether “questions of law or fact common to class
+members predominate” begins, of course, with the ele
+ments of the underlying cause of action. The elements of a
+private securities fraud claim based on violations of §10(b)
+and Rule 10b–5 are: “ ‘(1) a material misrepresentation or
+omission by the defendant; (2) scienter; (3) a connection
+between the misrepresentation or omission and the pur
+chase or sale of a security; (4) reliance upon the misrepresentation or omission; (5) economic loss; and (6) loss
+causation.’ ” Matrixx Initiatives, Inc. v. Siracusano, 563
+U. S. ___, ___ (2011) (slip op., at 9) (quoting Stoneridge
+Investment Partners, LLC v. Scientific-Atlanta, Inc., 552
+U. S. 148, 157 (2008)).
+Whether common questions of law or fact predominate
+in a securities fraud action often turns on the element of
+reliance. The courts below determined that EPJ Fund had
+to prove the separate element of loss causation in order to
+establish that reliance was capable of resolution on a
+common, classwide basis.
+“Reliance by the plaintiff upon the defendant’s deceptive
+acts is an essential element of the §10(b) private cause of
+action.” Stoneridge, supra, at 159. This is because proof of
+reliance ensures that there is a proper “connection be
+tween a defendant’s misrepresentation and a plaintiff’s
+injury.” Basic Inc. v. Levinson, 485 U. S. 224, 243 (1988).
+The traditional (and most direct) way a plaintiff can
+demonstrate reliance is by showing that he was aware
+of a company’s statement and engaged in a relevant
+transaction—e.g., purchasing common stock—based on
+that specific misrepresentation. In that situation, the
+plaintiff plainly would have relied on the company’s decep
+tive conduct. A plaintiff unaware of the relevant state
+ment, on the other hand, could not establish reliance on
+
+

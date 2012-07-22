@@ -1,0 +1,43 @@
+6
+
+HERTZ CORP. v. FRIEND
+Opinion of the Court
+
+(1844), the Court modified this initial approach. It held
+that a corporation was to be deemed an artificial person of
+the State by which it had been created, and its citizenship
+for jurisdictional purposes determined accordingly. Id., at
+558–559. Ten years later, the Court in Marshall v. Balti
+more & Ohio R. Co., 16 How. 314 (1854), held that the
+reason a corporation was a citizen of its State of incorpora
+tion was that, for the limited purpose of determining
+corporate citizenship, courts could conclusively (and artifi
+cially) presume that a corporation’s shareholders were
+citizens of the State of incorporation. Id., at 327–328.
+And it reaffirmed Letson. 16 How., at 325–326. Whatever
+the rationale, the practical upshot was that, for diversity
+purposes, the federal courts considered a corporation to be
+a citizen of the State of its incorporation. 13F C. Wright,
+A. Miller, & E. Cooper, Federal Practice and Procedure
+§3623, pp. 1–7 (3d ed. 2009) (hereinafter Wright & Miller).
+In 1928 this Court made clear that the “state of incorpo
+ration” rule was virtually absolute. It held that a corpora
+tion closely identified with State A could proceed in a
+federal court located in that State as long as the corpora
+tion had filed its incorporation papers in State B, perhaps
+a State where the corporation did no business at all. See
+Black and White Taxicab & Transfer Co. v. Brown and
+Yellow Taxicab & Transfer Co., 276 U. S. 518, 522–525
+(refusing to question corporation’s reincorporation motives
+and finding diversity jurisdiction). Subsequently, many in
+Congress and those who testified before it pointed out that
+this interpretation was at odds with diversity jurisdiction’s
+basic rationale, namely, opening the federal courts’ doors
+to those who might otherwise suffer from local prejudice
+against out-of-state parties. See, e.g., S. Rep. No. 530, 72d
+Cong., 1st Sess., 2, 4–7 (1932). Through its choice of the
+State of incorporation, a corporation could manipulate
+federal-court jurisdiction, for example, opening the federal
+courts’ doors in a State where it conducted nearly all its
+
+

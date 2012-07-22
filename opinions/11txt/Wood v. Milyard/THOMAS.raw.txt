@@ -1,0 +1,105 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+THOMAS, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–9995
+_________________
+
+PATRICK WOOD, PETITIONER v. KEVIN MILYARD,
+
+WARDEN, ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE TENTH CIRCUIT
+
+[April 24, 2012] 
+
+
+JUSTICE THOMAS, with whom JUSTICE SCALIA joins,
+concurring in the judgment.
+In Day v. McDonough, 547 U. S. 198 (2006), the Court
+held that a federal district court may raise sua sponte a
+forfeited statute of limitations defense to a habeas corpus
+petition. Relying on Day and Granberry v. Greer, 481
+U. S. 129 (1987), the Court now holds that a court of appeals may do the same. Because I continue to think that
+Day was wrongly decided and that Granberry is inapposite, I cannot join the Court’s opinion. See Day, 547 U. S.,
+at 212–219 (SCALIA, J., joined by THOMAS and BREYER,
+JJ., dissenting).
+As the dissent in Day explained, the Federal Rules of
+Civil Procedure apply in habeas corpus cases to the extent
+that they are consistent with the Habeas Corpus Rules,
+the habeas corpus statute, and the historical practice of
+habeas proceedings. Id., at 212 (citing Gonzalez v. Crosby,
+545 U. S. 524, 529–530 (2005), and Woodford v. Garceau,
+538 U. S. 202, 208 (2003)). As relevant here, the Rules of
+Civil Procedure provide that a defendant forfeits his statute of limitations defense if he fails to raise it in his answer or in an amendment thereto. 547 U. S., at 212 (citing
+Rules 8(c), 12(b), 15(a)). That forfeiture rule is fully consistent with habeas corpus procedure. As an initial matter, the rule comports with the Habeas Rules’ instruction
+
+
+2
+
+WOOD v. MILYARD
+THOMAS, J., concurring in judgment
+
+that a State “must” plead any limitations defense in its
+answer. Id., at 212–213 (quoting Rule 5(b) (emphasis
+deleted)). Moreover, the rule does not conflict with the
+habeas statute, which imposes a 1-year period of limitations without any indication that typical forfeiture rules
+do not apply. Id., at 213 (citing 28 U. S. C. §2244(d)(1)).
+Finally, the rule does not interfere with historical practice.
+Prior to the enactment of a habeas statute of limitations in
+the Antiterrorism and Effective Death Penalty Act of 1996
+(AEDPA), habeas practice included no limitations period at all, much less one immune to forfeiture. 547 U. S.,
+at 212.
+As the dissent in Day further explained, id., at 214,
+AEDPA’s statute of limitations is distinguishable from the
+equitable defenses that we have traditionally permitted
+federal habeas courts to raise sua sponte. See, e.g., Granberry, supra, at 133 (holding that appellate courts may
+consider a habeas petitioner’s failure to exhaust state remedies despite a State’s forfeiture of the defense). Those
+judicially created defenses were rooted in concerns of comity and finality that arise when federal courts collaterally
+review state criminal convictions. Day, 547 U. S., at 214.
+But those same concerns did not lead this Court to recognize any equitable time bar against habeas petitions. Id.,
+at 214–215. Thus, nothing in this Court’s pre-existing
+doctrine of equitable defenses supported the Day Court’s
+“decision to beef up the presumptively forfeitable ‘limitations period’ of §2244(d) by making it the subject of sua
+sponte dismissal.” Id., at 215–216.
+For these reasons, I believe that the Day Court was
+wrong to hold that district courts may raise sua sponte
+forfeited statute of limitations defenses in habeas cases. I
+therefore would not extend Day’s reasoning to proceedings
+in the courts of appeals. Appellate courts, moreover, are
+particularly ill suited to consider issues forfeited below.
+Unlike district courts, courts of appeals cannot permit a
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+THOMAS, J., concurring in judgment
+
+State to amend its answer to add a defense, nor can they
+develop the facts that are often necessary to resolve questions of timeliness. Cf. id., at 209 (majority opinion) (finding no difference between a district court’s ability to raise
+a forfeited limitations defense sua sponte and its ability to
+notice the State’s forfeiture and permit an amended pleading under Rule of Civil Procedure 15).
+In light of these considerations, I cannot join the Court’s
+holding that a court of appeals has discretion to consider
+sua sponte a forfeited limitations defense. Nor can I join
+the Court’s separate holding that the Court of Appeals
+abused its discretion by raising a defense that had been
+deliberately waived by the State. As the dissent in Day
+noted, there is no principled reason to distinguish between
+forfeited and waived limitations defenses when determining whether courts may raise such defenses sua sponte.
+See 547 U. S., at 218, n. 3 (explaining that, if “ ‘values
+beyond the concerns of the parties’ ” justify sua sponte
+consideration of forfeited defenses, such values equally
+support sua sponte consideration of waived defenses).
+Therefore, I concur only in the judgment.
+
+

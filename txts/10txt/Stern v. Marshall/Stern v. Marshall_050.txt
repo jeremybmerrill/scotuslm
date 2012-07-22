@@ -1,0 +1,42 @@
+4
+
+STERN v. MARSHALL
+BREYER, J., dissenting
+
+(1929) (Court of Customs Appeals); Williams v. United
+States, 289 U. S. 553, 579–580 (1933) (Court of Claims).
+The one exception is Northern Pipeline, where the Court
+struck down the Bankruptcy Act of 1978. But in that case
+there was no majority. And a plurality, not a majority,
+read the statement roughly in the way the Court does
+today. See 458 U. S., at 67–70.
+B
+At the same time, I believe the majority places insuf­
+ficient weight on Crowell, a seminal case that clarified the
+scope of the dictum in Murray’s Lessee. In that case,
+the Court considered whether Congress could grant to an
+Article I administrative agency the power to adjudicate an
+employee’s workers’ compensation claim against his em­
+ployer. The Court assumed that an Article III court would
+review the agency’s decision de novo in respect to ques­
+tions of law but it would conduct a less searching review
+(looking to see only if the agency’s award was “supported
+by evidence in the record”) in respect to questions of fact.
+Crowell, 285 U. S., at 48–50. The Court pointed out that
+the case involved a dispute between private persons (a
+matter of “private rights”) and (with one exception not
+relevant here) it upheld Congress’ delegation of primary
+factfinding authority to the agency.
+Justice Brandeis, dissenting (from a here-irrelvant por­
+tion of the Court’s holding), wrote that the adjudicatory
+scheme raised only a due process question: When does due
+process require decision by an Article III judge? He an­
+swered that question by finding constitutional the stat­
+ute’s delegation of adjudicatory authority to an agency.
+Id., at 87.
+Crowell has been hailed as “the greatest of the cases
+validating administrative adjudication.” Bator, The Con­
+stitution as Architecture: Legislative and Administrative
+Courts Under Article III, 65 Ind. L. J. 233, 251 (1990).
+
+

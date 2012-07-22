@@ -1,0 +1,52 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+CSX TRANSPORTATION, INC. v. ALABAMA DEPARTMENT OF REVENUE ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE ELEVENTH CIRCUIT
+No. 09–520.
+
+Argued November 10, 2010—Decided February 22, 2011
+
+Petitioner (CSX) is an interstate rail carrier that operates, and pays
+taxes, in Alabama. The State imposes sales and use taxes on rail
+roads when they purchase or consume diesel fuel, but exempts their
+main competitors—interstate motor and water carriers. CSX sued
+respondents, the Alabama Department of Revenue and its Commis
+sioner (Alabama), claiming that this tax scheme discriminates
+against railroads in violation of the Railroad Revitalization and
+Regulatory Reform Act of 1976 (4–R Act or Act), which bars four
+forms of discriminatory taxation, 49 U. S. C. §11501(b). Three of the
+delineated prohibitions deal with property taxes, §§11501(b)(1)–(3),
+and the fourth is a catch-all provision that forbids a State to
+“[i]mpose another tax that discriminates against a rail carrier,”
+§11501(b)(4). The District Court dismissed CSX’s suit as not cogni
+zable under the 4–R Act on the basis of this Court’s decision in De
+partment of Revenue of Ore. v. ACF Industries, Inc., 510 U. S. 332,
+and the Eleventh Circuit affirmed.
+Held: CSX may challenge Alabama’s sales and use taxes under
+§11501(b)(4). Pp. 5–19.
+(a) CSX is challenging “another tax” within subsection (b)(4)’s plain
+meaning. The Act does not define “tax.” Thus, this Court looks to the
+word’s ordinary definition, which is expansive. A State seeking to
+raise revenue may choose among multiple forms of taxation on prop
+erty, income, transactions, or activities. “[A]nother tax” is thus best
+understood to encompass any tax a State might impose, on any asset
+or transaction, except the property taxes already addressed in sub
+sections (b)(1)–(3). There is no reason to interpret subsection (b)(4)
+as applying only to the gross-receipts taxes that some States imposed
+
+

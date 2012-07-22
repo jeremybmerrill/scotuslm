@@ -1,0 +1,43 @@
+6
+
+PARKER v. MATTHEWS
+Per Curiam
+
+625, 628–629. The case had been submitted to the jury
+with the burden assigned to the Commonwealth, the jury
+had found that burden carried, and the Kentucky Supreme Court found the evidence adequate to sustain that
+finding. That ground was sufficient to reject Matthews’
+claim, so it is irrelevant that the court also invoked a
+ground of questionable validity. See Wetzel v. Lambert,
+565 U. S. ___, ___–___ (2012) (per curiam) (slip op., at
+4–5).1
+The Sixth Circuit’s opinion also challenges the conclusion that the evidence supported a finding of no extreme
+emotional disturbance. We have said that “it is the
+responsibility of the jury—not the court—to decide what
+——————
+1 An ambiguously worded footnote in the Sixth Circuit’s opinion, see
+651 F. 3d 489, 504, n. 5 (2011), suggests that the court may have found
+an additional due process violation. The court referred to a statement
+in the Kentucky Supreme Court’s decision in Gall v. Commonwealth
+607 S. W. 2d 97, 109 (1980), that “[u]nless the evidence raising the
+issue [of extreme emotional disturbance] is of such probative force that
+otherwise the defendant would be entitled as a matter of law to an
+acquittal on the higher charge (murder), the prosecution is not required
+to come forth with negating evidence in order to sustain its burden of
+proof.” Relying on its own opinion in Gall’s federal habeas proceeding,
+Gall v. Parker, 231 F. 3d 265 (CA6 2000) (Gall II), the Sixth Circuit
+suggested that the quoted statement “require[d] a defendant to bear the
+heavy burden of disproving an element of a crime beyond a reasonable
+doubt,” 651 F. 3d, at 504, n. 5, in violation of this Court’s decision in
+Mullaney v. Wilbur, 421 U. S. 684 (1975). That is not so. The statement explicitly acknowledges that the burden of proof rests with the
+prosecution, but merely asserts that when the burden of production is
+assigned to the defendant the jury may find the prosecution’s burden of
+proof satisfied without introduction of negating evidence, unless the
+defendant’s evidence is so probative as to establish reasonable doubt as
+a matter of law. That seems to us a truism. See 2 J. Strong, McCormick on Evidence §338, pp. 419–420 (5th ed. 1999). Our opinion in
+Mullaney addressed a situation in which the burden of persuasion was
+shifted to the defendant, see 421 U. S., at 702, and n. 31; it does not
+remotely show that the Kentucky Supreme Court’s truism contravened
+clearly established federal law.
+
+

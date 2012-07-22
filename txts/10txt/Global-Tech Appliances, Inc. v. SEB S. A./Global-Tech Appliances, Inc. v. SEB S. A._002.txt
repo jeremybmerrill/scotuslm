@@ -1,0 +1,51 @@
+2
+
+GLOBAL-TECH APPLIANCES, INC. v. SEB S. A.
+Syllabus
+alleged infringer knew of the patent; held that, although there was
+no direct evidence that Pentalpha knew of SEB’s patent before it re
+ceived notice of the Sunbeam suit, there was adequate proof that it
+deliberately disregarded a known risk that SEB had a protective pat
+ent; and said that such disregard is not different from, but a form of,
+actual knowledge.
+
+Held:
+1. Induced infringement under §271(b) requires knowledge that the
+induced acts constitute patent infringement. Pp. 3–10.
+(a) Section 271(b)’s text—“[w]hoever actively induces infringe
+ment of a patent shall be liable as an infringer”—is ambiguous as to
+the intent needed to impose liability. In referring to a party that “in
+duces infringement,” the provision may require merely that the in
+ducer must lead another to engage in conduct that happens to
+amount to infringement. On the other hand, the reference to a party
+that “induces infringement” may also be read to mean that the in
+ducer must persuade another to engage in conduct that the inducer
+knows is infringement. Pp. 4–5.
+(b) Like §271(b)’s language, the pre-1952 case law is susceptible
+to conflicting interpretations. However, Aro Mfg. Co. v. Convertible
+Top Replacement Co., 377 U. S. 476 (Aro II), resolves the question at
+issue. Pp. 5–8.
+(c) Induced infringement was not considered a separate theory of
+indirect liability in the pre-1952 case law, but was treated as evi
+dence of “contributory infringement,” i.e., the aiding and abetting of
+direct infringement by another party. When Congress enacted §271,
+it separated the contributory infringement concept into two catego
+ries: induced infringement, covered by §271(b), and sale of a compo
+nent of a patented invention, covered by §271(c). In the badly frac
+tured Aro II decision, a majority concluded that a violator of §271(c)
+must know “that the combination for which his component was espe
+cially designed was both patented and infringing.” 377 U. S., at 488.
+That conclusion, now a fixture in the law, compels this same knowl
+edge for liability under §271(b), given that the two provisions have a
+common origin and create the same difficult interpretive choice. Pp.
+8–10.
+2. Deliberate indifference to a known risk that a patent exists does
+not satisfy the knowledge required by §271(b). Nevertheless, the
+Federal Circuit’s judgment must be affirmed because the evidence in
+this case was plainly sufficient to support a finding of Pentalpha’s
+knowledge under the doctrine of willful blindness. Pp. 10–16.
+(a) The doctrine of willful blindness is well established in crimi
+nal law. Many criminal statutes require proof that a defendant acted
+knowingly or willfully, and courts applying the doctrine have held
+
+

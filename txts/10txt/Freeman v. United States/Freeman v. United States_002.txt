@@ -1,0 +1,51 @@
+2
+
+FREEMAN v. UNITED STATES
+Syllabus
+Because the amendment’s effect was to reduce Freeman’s applicable
+sentencing range to 37 to 46 months plus the consecutive 60-month
+mandatory minimum, he moved for a sentence reduction under
+§3582(c)(2). However, the District Court denied the motion, and the
+Sixth Circuit affirmed because its precedent rendered defendants
+sentenced pursuant to 11(c)(1)(C) agreements ineligible for
+§3582(c)(2) relief, barring a miscarriage of justice or mutual mistake.
+
+Held: The judgment is reversed, and the case is remanded.
+355 Fed. Appx. 1, reversed and remanded.
+JUSTICE KENNEDY, joined by JUSTICE GINSBURG, JUSTICE BREYER,
+and JUSTICE KAGAN, concluded that defendants who enter into
+11(c)(1)(C) agreements that specify a particular sentence as a condi
+tion of the guilty plea may be eligible for relief under §3582(c)(2). Pp.
+5–10.
+(a) The text and purpose of the statute, Rule 11(c)(1)(C), and the
+governing Guidelines policy statements compel the conclusion that
+the district court has authority to entertain §3582(c)(2) motions when
+sentences are imposed in light of the Guidelines, even if the defen
+dant enters into an 11(c)(1)(C) agreement. The district judge must,
+in every case, impose “a sentence sufficient, but not greater than nec
+essary, to comply with” the purposes of federal sentencing, in light of
+the Guidelines and other relevant factors. §3553(a). The Guidelines
+provide a framework or starting point—a basis, in the term’s com
+monsense meaning—for the judge’s exercise of discretion. Rule
+11(c)(1)(C) permits the defendant and the prosecutor to agree on a
+specific sentence, but that agreement does not discharge the district
+court’s independent obligation to exercise its discretion. In the usual
+sentencing, whether following trial or plea, the judge’s reliance on the
+Guidelines will be apparent when the judge uses the Guidelines
+range as the starting point in the analysis and imposes a sentence
+within the range. Gall v. United States, 552 U. S. 38, 49. Even
+where the judge varies from the recommended range, id., at 50, if the
+judge uses the sentencing range as the beginning point to explain the
+deviation, then the Guidelines are in a real sense a basis for the sen
+tence. The parties’ recommended sentence binds the court “once the
+court accepts the plea agreement,” Rule 11(c)(1)(C), but the relevant
+policy statement forbids the judge to accept an agreement without
+first giving due consideration to the applicable Guidelines sentencing
+range, even if the parties recommend a specific sentence as a condi
+tion of the guilty plea, see U. S. Sentencing Commission, Guidelines
+Manual §6B1.2. This approach finds further support in the policy
+statement applicable to §3582(c)(2) motions, which instructs the dis
+trict court in modifying a sentence to substitute the retroactive
+amendment, but to leave all original Guidelines determinations in
+
+

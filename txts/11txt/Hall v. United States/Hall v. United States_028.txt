@@ -1,0 +1,39 @@
+8
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+trative expenses” as “including . . . any tax . . . incurred by
+the estate.” §503(b)(1)(B)(i) (2006 ed.). But after this
+point, we part company.
+The majority believes that the words any tax “incurred by the estate” cannot include postpetition taxes. It
+emphasizes that tax law does not treat a Chapter 12
+bankruptcy estate as a “separate taxable entity,” i.e., as
+separate from the farmer-debtor for federal income tax
+purposes. 26 U. S. C. §§1398, 1399. This means that
+there is just one entity—the debtor—for these purposes.
+And §346 of the Bankruptcy Code makes clear that any
+state and local income tax liabilities incurred by a Chapter
+12 estate must also be taxed to the debtor. The majority
+says that these provisions mean that only the debtor, and
+not the estate, can “ ‘incu[r]’ ” taxes within the meaning of
+11 U. S. C. §503(b)(1)(B)(i). Ante, at 4–5.
+In my view, however, these tax law circumstances do
+not require the majority’s narrow reading of this Bankruptcy Code provision. That is to say, the phrase tax
+“incurred by the [bankruptcy] estate” can include a tax
+incurred by the farmer while managing his estate in the
+midst of his bankruptcy proceedings, i.e., between the time
+the farmer files for Chapter 12 bankruptcy and the time
+the bankruptcy court confirms the farmer’s Chapter 12
+Plan.
+The bankruptcy estate is in existence during this time.
+Cf. §1227(b) (property of the estate vests in the debtor
+at confirmation unless the Plan provides otherwise). The
+bankruptcy court has jurisdiction over the farmer’s assets
+during this time. See §§541, 1207; 4 Norton §61:1, at 61–2
+(§541’s “broad definition of estate property . . . centralizes
+all of the estate’s assets under the jurisdiction of the bankruptcy court”). And, as a matter of both the English language and bankruptcy principles, one can consider a tax
+liability that the farmer incurs during this period (such as
+a capital gains tax arising from a sale of a portion of his
+
+

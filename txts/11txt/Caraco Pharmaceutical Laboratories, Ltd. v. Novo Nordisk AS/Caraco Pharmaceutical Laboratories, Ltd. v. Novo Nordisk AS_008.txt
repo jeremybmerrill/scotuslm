@@ -1,0 +1,40 @@
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+Because the FDA cannot authorize a generic drug that
+would infringe a patent, the timing of an ANDA’s approval
+depends on the scope and duration of the patents covering the brand-name drug. Those patents come in different
+varieties. One type protects the drug compound itself.
+Another kind—the one at issue here—gives the brand
+manufacturer exclusive rights over a particular method of
+using the drug. In some circumstances, a brand manufacturer may hold such a method-of-use patent even after its
+patent on the drug compound has expired.
+To facilitate the approval of generic drugs as soon as
+patents allow, the Hatch-Waxman Amendments and FDA
+regulations direct brand manufacturers to file information
+about their patents. The statute mandates that a brand
+submit in its NDA “the patent number and the expiration
+date of any patent which claims the drug for which the
+[brand] submitted the [NDA] or which claims a method of
+using such drug.” §§355(b)(1). And the regulations issued
+under that statute require that, once an NDA is approved,
+the brand provide a description of any method-of-use
+patent it holds. See 21 CFR §§314.53(c)(2)(ii)(P)(3), (e)
+(2011). That description is known as a use code, and the
+brand submits it on FDA Form 3542. As later discussed,
+the FDA does not attempt to verify the accuracy of the
+use codes that brand manufacturers supply. It simply publishes the codes, along with the corresponding patent
+numbers and expiration dates, in a fat, brightly hued
+volume called the Orange Book (less colorfully but more
+officially denominated Approved Drug Products with
+Therapeutic Equivalence Evaluations).
+After consulting the Orange Book, a company filing an
+ANDA must assure the FDA that its proposed generic
+drug will not infringe the brand’s patents. When no patents are listed in the Orange Book or all listed patents
+have expired (or will expire prior to the ANDA’s approval),
+the generic manufacturer simply certifies to that effect.
+
+

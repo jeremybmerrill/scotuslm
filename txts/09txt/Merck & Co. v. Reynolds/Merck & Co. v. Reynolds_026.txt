@@ -1,0 +1,42 @@
+2
+
+MERCK & CO. v. REYNOLDS
+Opinion of SCALIA, J.
+
+Actions §276b(11)–(13), pp. 1401–1408 (4th ed. 1916);
+Dawson, Undiscovered Fraud and Statutes of Limitation,
+31 Mich. L. Rev. 591, 619, and n. 77 (1933). Read in isola
+tion, “discovery” in §1658(b)(1) might mean constructive
+discovery.
+In context, however, I do not believe it can. Section 13
+of the Securities Act of 1933, 48 Stat. 84, explicitly estab
+lished a constructive-discovery rule for claims under §§11
+and 12 of that Act:
+“No action shall be maintained to enforce any liability
+created under section 77k or 77l(a)(2) of this title
+unless brought within one year after the discovery of
+the untrue statement or the omission, or after such
+discovery should have been made by the exercise of
+reasonable diligence . . . .” 15 U. S. C. §77m.
+“[D]iscovery” in §77m obviously cannot mean constructive
+discovery, since that would render superfluous the phrase
+“or after such discovery should have been made by the
+exercise of reasonable diligence.” Ibid. With §77m al
+ready on the books, Congress added limitations periods in
+the 1934 Act, 15 U. S. C. §§78i(e), 78r(c), that did not
+contain similar qualifying language; instead, each estab
+lished a time bar that runs from “discovery” simpliciter.
+When Congress enacted §1658(b)(1) in 2002, establishing
+a limitations period for private actions for “fraud, deceit,
+manipulation, or contrivance in contravention of a regula
+tory requirement concerning the securities laws,” specifi
+cally including the 1933 and 1934 Acts, see 15 U. S. C.
+§78c(a)(47), it likewise included no constructive-discovery
+caveat. To interpret §1658(b)(1) as imposing a construc
+tive-discovery standard, one must therefore assume, con
+trary to common sense, that the same word means two
+very different things in the same statutory context of
+limitations periods for securities-fraud actions under the
+1933 and 1934 Acts.
+
+

@@ -1,0 +1,43 @@
+18
+
+BARBER v. THOMAS
+Opinion of the Court
+Appendix to opinion of the Court
+
+APPENDIX
+A fuller example of the BOP’s method for calculat
+ing “credit for the last year or portion of a year of
+the term of imprisonment”
+The defendant is sentenced to 10 years’ imprisonment.
+As a prisoner he exhibits exemplary behavior and is
+awarded the maximum credit of 54 days at the end of each
+year served in prison. At the end of Year 8, the prisoner
+has 2 years remaining in his sentence and has accumu
+lated 432 days of good time credit. Because the difference
+between the time remaining in his sentence and the
+amount of accumulated credit (i.e., 730 - 432) is less than a
+year (298 days), Year 9 is the last year he will spend in
+prison. (Year 10 has been completely offset by 365 of the
+432 days of accumulated credit.) Further, Year 9 will be a
+partial year of 298 days (the other 67 days of the year
+being offset by the remainder of the accumulated credit).
+Here is where the elementary algebra comes in. We
+know that x, the good time, plus y, the remaining time
+served, must add up to 298. This gives us our first equa
+tion: x + y = 298.
+We also know that the ratio of good time earned in the
+portion of the final year to the amount of time served in
+that year must equal the ratio of a full year’s good time
+credit to the amount of time served in a full year. The
+latter ratio is 54/365 or .148. Thus, we know that
+x/y = .148, or to put it another way, x = .148y. Because we
+know the value of x in terms of y, we can make a substitu
+tion in our first equation to get .148y + y = 298. We then
+add the two y terms together (1.148y = 298), and we solve
+for y, which gives us y = 260. Now we can plug that value
+into our first equation to solve for x (the good time credit).
+If we subtract 260 from 298, we find that x = 38.
+The offender will have to serve 260 days in prison in
+Year 9, and he will receive 38 days additional good time
+
+

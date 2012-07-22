@@ -1,0 +1,166 @@
+OCTOBER TERM, 2011
+
+(Slip Opinion)
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+ARIZONA ET AL. v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 11–182.
+
+Argued April 25, 2012—Decided June 25, 2012
+
+An Arizona statute known as S. B. 1070 was enacted in 2010 to address
+pressing issues related to the large number of unlawful aliens in the
+State. The United States sought to enjoin the law as preempted. The
+District Court issued a preliminary injunction preventing four of its
+provisions from taking effect. Section 3 makes failure to comply with
+federal alien-registration requirements a state misdemeanor; §5(C)
+makes it a misdemeanor for an unauthorized alien to seek or engage
+in work in the State; §6 authorizes state and local officers to arrest
+without a warrant a person “the officer has probable cause to believe
+. . . has committed any public offense that makes the person removable from the United States”; and §2(B) requires officers conducting a
+stop, detention, or arrest to make efforts, in some circumstances, to
+verify the person’s immigration status with the Federal Government.
+The Ninth Circuit affirmed, agreeing that the United States had established a likelihood of success on its preemption claims.
+Held:
+1. The Federal Government’s broad, undoubted power over immigration and alien status rests, in part, on its constitutional power to
+“establish an uniform Rule of Naturalization,” Art. I, §8, cl. 4, and on
+its inherent sovereign power to control and conduct foreign relations,
+see Toll v. Moreno, 458 U. S. 1, 10. Federal governance is extensive
+and complex. Among other things, federal law specifies categories of
+aliens who are ineligible to be admitted to the United States, 8
+U. S. C. §1182; requires aliens to register with the Federal Government and to carry proof of status, §§1304(e), 1306(a); imposes sanctions on employers who hire unauthorized workers, §1324a; and specifies which aliens may be removed and the procedures for doing so,
+see §1227. Removal is a civil matter, and one of its principal features
+
+
+2
+
+ARIZONA v. UNITED STATES
+Syllabus
+is the broad discretion exercised by immigration officials, who must
+decide whether to pursue removal at all. Immigration and Customs
+Enforcement (ICE), an agency within the Department of Homeland
+Security, is responsible for identifying, apprehending, and removing
+illegal aliens. It also operates the Law Enforcement Support Center,
+which provides immigration status information to federal, state, and
+local officials around the clock. Pp. 2–7.
+2. The Supremacy Clause gives Congress the power to preempt
+state law. A statute may contain an express preemption provision,
+see, e.g., Chamber of Commerce of United States of America v. Whiting, 563 U. S. ___, ___, but state law must also give way to federal
+law in at least two other circumstances. First, States are precluded
+from regulating conduct in a field that Congress has determined
+must be regulated by its exclusive governance. See Gade v. National
+Solid Wastes Management Assn., 505 U. S. 88, 115. Intent can be inferred from a framework of regulation “so pervasive . . . that Congress left no room for the States to supplement it” or where a “federal
+interest is so dominant that the federal system will be assumed to
+preclude enforcement of state laws on the same subject.” Rice v. Santa Fe Elevator Corp., 331 U. S. 218, 230. Second, state laws are
+preempted when they conflict with federal law, including when they
+stand “as an obstacle to the accomplishment and execution of the full
+purposes and objectives of Congress.” Hines v. Davidowitz, 312 U. S.
+52, 67. Pp. 7–8.
+3. Sections 3, 5(C), and 6 of S. B. 1070 are preempted by federal
+law. Pp. 8–19.
+(a) Section 3 intrudes on the field of alien registration, a field in
+which Congress has left no room for States to regulate. In Hines, a
+state alien-registration program was struck down on the ground that
+Congress intended its “complete” federal registration plan to be a
+“single integrated and all-embracing system.” 312 U. S., at 74. That
+scheme did not allow the States to “curtail or complement” federal
+law or “enforce additional or auxiliary regulations.” Id., at 66–67.
+The federal registration framework remains comprehensive. Because
+Congress has occupied the field, even complementary state regulation
+is impermissible. Pp. 8–11.
+(b) Section 5(C)’s criminal penalty stands as an obstacle to the
+federal regulatory system. The Immigration Reform and Control Act
+of 1986 (IRCA), a comprehensive framework for “combating the employment of illegal aliens,” Hoffman Plastic Compounds, Inc. v.
+NLRB, 535 U. S. 137, 147, makes it illegal for employers to knowingly hire, recruit, refer, or continue to employ unauthorized workers, 8
+U. S. C. §§1324a(a)(1)(A), (a)(2), and requires employers to verify prospective
+employees’
+employment
+authorization
+status,
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+Syllabus
+§§1324a(a)(1)(B), (b). It imposes criminal and civil penalties on employers, §§1324a(e)(4), (f), but only civil penalties on aliens who seek,
+or engage in, unauthorized employment, e.g., §§1255(c)(2), (c)(8).
+IRCA’s express preemption provision, though silent about whether
+additional penalties may be imposed against employees, “does not bar
+the ordinary working of conflict pre-emption principles” or impose a
+“special burden” making it more difficult to establish the preemption
+of laws falling outside the clause. Geier v. American Honda Motor
+Co., 529 U. S. 861, 869–872. The correct instruction to draw from the
+text, structure, and history of IRCA is that Congress decided it would
+be inappropriate to impose criminal penalties on unauthorized employees. It follows that a state law to the contrary is an obstacle to
+the regulatory system Congress chose. Pp. 12–15.
+(c) By authorizing state and local officers to make warrantless
+arrests of certain aliens suspected of being removable, §6 too creates
+an obstacle to federal law. As a general rule, it is not a crime for a
+removable alien to remain in the United States. The federal scheme
+instructs when it is appropriate to arrest an alien during the removal
+process. The Attorney General in some circumstances will issue a
+warrant for trained federal immigration officers to execute. If no federal warrant has been issued, these officers have more limited authority. They may arrest an alien for being “in the United States in
+violation of any [immigration] law or regulation,” for example, but only where the alien “is likely to escape before a warrant can be obtained.” §1357(a)(2). Section 6 attempts to provide state officers with
+even greater arrest authority, which they could exercise with no instruction from the Federal Government. This is not the system Congress created. Federal law specifies limited circumstances in which
+state officers may perform an immigration officer’s functions. This
+includes instances where the Attorney General has granted that authority in a formal agreement with a state or local government. See,
+e.g., §1357(g)(1). Although federal law permits state officers to “cooperate with the Attorney General in the identification, apprehension,
+detention, or removal of aliens not lawfully present in the United
+States,” §1357(g)(10)(B), this does not encompass the unilateral decision to detain authorized by §6. Pp. 15–19.
+4. It was improper to enjoin §2(B) before the state courts had an
+opportunity to construe it and without some showing that §2(B)’s enforcement in fact conflicts with federal immigration law and its objectives. Pp. 19–24.
+(a) The state provision has three limitations: A detainee is presumed not to be an illegal alien if he or she provides a valid Arizona
+driver’s license or similar identification; officers may not consider
+race, color, or national origin “except to the extent permitted by the
+
+
+4
+
+ARIZONA v. UNITED STATES
+Syllabus
+United States [and] Arizona Constitution[s]”; and §2(B) must be “implemented in a manner consistent with federal law regulating immigration, protecting the civil rights of all persons and respecting the
+privileges and immunities of United States citizens.” P. 20.
+(b) This Court finds unpersuasive the argument that, even with
+those limits, §2(B) must be held preempted at this stage. Pp. 20–24.
+(1) The mandatory nature of the status checks does not interfere with the federal immigration scheme. Consultation between federal and state officials is an important feature of the immigration
+system. In fact, Congress has encouraged the sharing of information
+about possible immigration violations. See §§1357(g)(10)(A), 1373(c).
+The federal scheme thus leaves room for a policy requiring state officials to contact ICE as a routine matter. Cf. Whiting, 563 U. S., at
+___. Pp. 20–21.
+(2) It is not clear at this stage and on this record that §2(B), in
+practice, will require state officers to delay the release of detainees
+for no reason other than to verify their immigration status. This
+would raise constitutional concerns. And it would disrupt the federal
+framework to put state officers in the position of holding aliens in
+custody for possible unlawful presence without federal direction and
+supervision. But §2(B) could be read to avoid these concerns. If the
+law only requires state officers to conduct a status check during the
+course of an authorized, lawful detention or after a detainee has been
+released, the provision would likely survive preemption—at least absent some showing that it has other consequences that are adverse to
+federal law and its objectives. Without the benefit of a definitive interpretation from the state courts, it would be inappropriate to assume §2(B) will be construed in a way that conflicts with federal law.
+Cf. Fox v. Washington, 236 U. S. 273, 277. This opinion does not
+foreclose other preemption and constitutional challenges to the law
+as interpreted and applied after it goes into effect. Pp. 22–24.
+
+641 F. 3d 339, affirmed in part, reversed in part, and remanded.
+KENNEDY, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and GINSBURG, BREYER, and SOTOMAYOR, JJ., joined. SCALIA, J.,
+THOMAS, J., and ALITO, J., filed opinions concurring in part and dissenting in part. KAGAN, J., took no part in the consideration or decision of
+the case.
+
+

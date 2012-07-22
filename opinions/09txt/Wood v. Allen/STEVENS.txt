@@ -1,0 +1,78 @@
+No. 08–9156 [January 20, 2010]  JUSTICE STEVENS, with whom JUSTICE KENNEDY joins, dissenting. There is a world of difference between a decision not to introduce evidence at the guilt phase of a trial and a fail ure to investigate mitigating evidence that might be ad missible at the penalty phase. Wood’s experienced counsel made a perfectly sensible decision not to introduce Dr. Kirkland’s report into evidence or to call him as a witness. That was a strategic decision based on their judgment that the evidence would do more harm than good. But it does not follow from this single strategic decision that counsel also made a strategic decision to forgo investigating pow erful mitigating evidence of Wood’s mental deficits for the penalty phase. On the contrary, the only reasonable factual conclusion I can draw from this record is that counsel’s decision to do so was the result of inattention and neglect. Because such a decision is the antithesis of a “strategic” choice, I would reverse the decision of the Court of Appeals. Assuming that the Court is correct to decline to consider Washington, 466 U. S. 668 (1984) was reasonable, see ante, at 12–13, the question whether the decision itself was the product of a strategy is still before us. The Court
+may well be correct that the state court reasonably con cluded that counsel made a decision not to pursue Dr. Kirkland’s report for either guilt or penalty phase pur poses, ante, at 10–12, but to reject Wood’s claim the state court also had to reasonably conclude that such a decision was borne of strategy. And whether counsel’s decision was the product of strategy is a question of fact for purposes of 510, 526–527 (2003) (observing that “the ‘strategic deci sion’ the state courts and respondents all invoke to justify counsel’s limited pursuit of mitigating evidence resembles more a post hoc rationalization of counsel’s conduct than an accurate description of their deliberations prior to (CA11 2004) (identifying “whether counsel’s decisions were Morton, 100 F. 3d 1089, 1095 (CA3 1996) (same). In other words, the Court correctly concludes that the record rea sonably supports a finding that counsel decided not to
+investigate Wood’s mental retardation further, but the Court fails to engage with the requisite second question: Does the record reasonably support finding that counsel’s decision was a strategic one? The answer to this question is unequivocally no. Before petitioner’s trial, his counsel learned that Wood had an “IQ in the borderline range of intellectual function ing,” App. 327, and was “functioning, at most,” in this borderline range, id., at 328. Wood was “reading on less than a 3rd grade level.” Id., at 327. His former special education teacher testified during postconviction review that Wood was classified as “educable mentally retarded” by the local school system. Id., at 403. In short, Wood has the type of significant mental deficits that we recognize as 287 (2004).3 Despite the powerful mitigating value of this evidence, “[n]o evidence of Wood’s mental retardation was ever presented to the jury.” 542 F. 3d 1281, 1314 (CA11 2008) (Barkett, J., concurring in part, dissenting in part). Coun sel was clearly aware that this evidence existed, id., at 1318, but chose not to investigate it beyond the conclu sions outlined in Dr. Kirkland’s report, App. 283. In the Court’s view, the record reasonably supports the state court’s conclusion that “counsel made a strategic decision not to inquire further into” Wood’s mental deficiencies, ante, at 12. Although I agree with the majority that the failure was the result of a “decision,” albeit a hasty one, the Court regrettably fails to consider whether the deci sion was also “strategic” as a matter of fact.
+A decision cannot be fairly characterized as “strategic” unless it is a conscious choice between two legitimate and rational alternatives. It must be borne of deliberation and not happenstance, inattention, or neglect. See Wiggins, 539 U. S., at 526 (concluding that counsel’s “failure to investigate thoroughly resulted from inattention, not reasoned strategic judgment”); Strickland, 466 U. S., at 690–691. Moreover, “a cursory investigation” does not “automatically justif[y] a tactical decision with respect to sentencing strategy.” Wiggins, 539 U. S., at 527. Al though we afford deference to counsel’s strategic decisions, Strickland, 466 U. S., at 690–691, for this deference to apply there must be some evidence that the decision was just that: strategic. The lawyers’ duty to conduct a thorough investigation of possible mitigating evidence is well established by our Taylor, 529 U. S. 362, 396 (2000); Strickland, 466 U. S., at 688. These cases also make clear that counsel’s unconsid ered decision to fail to discharge that duty cannot be stra tegic. The only conceivable strategy that might support forgoing counsel’s ethical obligations under these circum stances would be a reasoned conclusion that further inves tigation is futile and thus a waste of valuable time. Cf. id., at 691 (recognizing that counsel’s decision to abandon an investigation is entitled to deference “when a defendant has given counsel reason to believe that pursuing certain investigations would be fruitless or even harmful”). There is no evidence in the record to suggest that Wood’s counsel reached such a conclusion.4 See 542 F. 3d, at 1321–1322
+(Barkett, J., concurring in part, dissenting in part). On the contrary, the Court recognizes that Wood has pointed to substantial evidence that Trotter, the attorney who had primary responsibility for Wood’s penalty phase, believed that further investigation had value, ante, at 10–11. Despite the fact that Trotter had a meager five months of experience as a lawyer when he was appointed to repre sent Wood, App. 261, even he knew that further investigation into any mental or psychological deficits was in order.5 In my view, any decision to abandon an investigation into the mitigating evidence signaled by Dr. Kirkland’s report was so obviously unreasonable that the decision itself is highly persuasive evidence that counsel did not have any strategy in mind when they did so. I share the view of my dissenting colleague below that the District
+Court correctly concluded that the failure to investigate was the product of inattention and neglect by attorneys preoccupied with other concerns and not the product of a deliberate choice between two permissible alternatives. For the state court to conclude otherwise was thus “an unreasonable determination of the facts in light of the evidence presented in the State court proceeding” within the meaning of 28 U. S. C. §2254(d)(2).6 I therefore respectfully dissent.
+——————
+1 The
+
+Court explains: “Whether the state court reasonably determined
+that there was a strategic decision under §2254(d)(2) is a different
+question from whether the strategic decision itself was a reasonable
+exercise of professional judgment under Strickland or whether the
+application of Strickland was reasonable under §2254(d)(1).” Ante, at
+12–13. I agree with the majority that whether a particular strategic
+decision is reasonable or not is the Strickland question we would
+address were we reviewing Wood’s claim for habeas relief under
+§2254(d)(1).
+2 Indeed, the law in the Eleventh Circuit on this point is well settled:
+“ ‘The question of whether an attorney’s actions were actually the
+product of a tactical or strategic decision is an issue of fact . . . . ’ ”
+Fotopoulos v. Secretary, Dept. of Corrections, 516 F. 3d 1229, 1233
+(CA11 2008) (quoting Provenzano v. Singletary, 148 F. 3d 1327, 1330
+(CA11 1998)); see also Lamarca v. Secretary, Dept. of Corrections, 568
+F. 3d 929, 938 (CA11 2009) (same). Thus, it is quite understandable
+that Wood framed the questions presented in his petition for certiorari
+as arising under §2254(d)(2).
+
+
+——————
+3 Although Wood does not fall within the class of individuals we iden
+tified in Atkins v. Virginia, 536 U. S. 304 (2002), against whom the
+death penalty may not be constitutionally imposed, “the reality that
+[the defendant] was ‘borderline mentally retarded,’ might well . . .
+influenc[e] the jury’s appraisal of his moral culpability.” Williams v.
+Taylor, 529 U. S. 362, 398 (2000).
+
+
+——————
+4 The Court conflates the strategic decision to present mitigating
+evidence to the jury with the strategic decision to investigate avenues
+of mitigating evidence fully, see ante, at 11–12, n. 3. My concern is that
+
+
+——————
+there is no evidence to support a conclusion that there was a strategic
+decision on the latter, which is a necessary prerequisite for counsel to
+make reasoned choices with respect to what evidence should go before
+the jury during the penalty phase of a capital trial. See, e.g., Wiggins,
+539 U. S., at 522 (explaining that “counsel’s failure to uncover and
+present voluminous mitigating evidence at sentencing could not be
+justified as a tactical decision to focus on [defendant’s] voluntary
+confessions, because counsel had not ‘fulfill[ed] their obligation to
+conduct a thorough investigation of the defendant’s background’ ”
+(quoting Williams, 529 U. S., at 396)).
+5 Shortly before the penalty phase commenced, Trotter sent letters to
+his two more experienced co-counsel imploring that “we should request
+an independent psychological evaluation—even if that means asking for
+a postponement of the sentencing hearing.” App. 343 (letter from
+Trotter to Dozier); id., at 345 (letter from Trotter to Ralph). Trotter
+attempted to procure Wood’s school records and speak to his former
+special education teachers in order to obtain “anything that would be
+able to be used as a mitigating factor,” id., at 267 (testimony of Trotter),
+but he failed to follow up on a subpoena issued for the records and
+never spoke at length with any of Wood’s teachers, id., at 267–268.
+Notably, at least two of these former teachers were willing to testify on
+Wood’s behalf at the state postconviction hearing, see id., at 401–421
+(testimony of Maddox and Penn).
+
+
+——————
+6 I would also reach the same conclusion were I to agree with the
+respondents and their amici that a habeas petitioner must pierce
+§2254(e)(1)’s presumption of correctness with respect to state-court
+findings of fact before he can proceed to show he is entitled to relief
+under §2254(d)(2). See ante, at 9, n. 2.
+
+

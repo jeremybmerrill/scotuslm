@@ -1,0 +1,270 @@
+NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Wash­ ington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press. No. 08–1008 [March 31, 2010] JUSTICE SCALIA announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I and II–A, an opinion with respect to Parts II–B and II–D, in which THE CHIEF JUSTICE, JUSTICE THOMAS, and JUSTICE SOTOMAYOR join, and an opinion with respect to Part II–C, in which THE CHIEF JUSTICE and JUSTICE THOMAS join. New York law prohibits class actions in suits seeking penalties or statutory minimum damages.1 We consider
+the Court whether this precludes a federal district court sitting in diversity from entertaining a class action under Federal Rule of Civil Procedure 23.2 The petitioner’s complaint alleged the following: Shady Grove Orthopedic Associates, P. A., provided medical care to Sonia E. Galvez for injuries she suffered in an automo­ bile accident. As partial payment for that care, Galvez assigned to Shady Grove her rights to insurance benefits under a policy issued in New York by Allstate Insurance Co. Shady Grove tendered a claim for the assigned bene­ fits to Allstate, which under New York law had 30 days to pay the claim or deny it. See N. Y. Ins. Law Ann. §5106(a) (West 2009). Allstate apparently paid, but not on time, and it refused to pay the statutory interest that accrued on the overdue benefits (at two percent per month), see ibid. Shady Grove filed this diversity suit in the Eastern District of New York to recover the unpaid statutory in­ terest. Alleging that Allstate routinely refuses to pay
+the Court interest on overdue benefits, Shady Grove sought relief on behalf of itself and a class of all others to whom Allstate owes interest. The District Court dismissed the suit for lack of jurisdiction. 466 F. Supp. 2d 467 (2006). It rea­ cludes a suit to recover a “penalty” from proceeding as a class action, applies in diversity suits in federal court, despite Federal Rule of Civil Procedure 23. Concluding that statutory interest is a “penalty” under New York law, it held that §901(b) prohibited the proposed class action. And, since Shady Grove conceded that its individual claim (worth roughly $500) fell far short of the amount-in­ controversy requirement for individual suits under 28 U. S. C. §1332(a), the suit did not belong in federal court.3 The Second Circuit affirmed. 549 F. 3d 137 (2008). The court did not dispute that a federal rule adopted in com­ pliance with the Rules Enabling Act, 28 U. S. C. §2072, would control if it conflicted with §901(b). But there was no conflict because (as we will describe in more detail below) the Second Circuit concluded that Rule 23 and §901(b) address different issues. Finding no federal rule on point, the Court of Appeals held that §901(b) is “sub­ 304 U. S. 64 (1938), and thus must be applied by federal courts sitting in diversity. We granted certiorari, 556 U. S. ___ (2009). The framework for our decision is familiar. We must first determine whether Rule 23 answers the question in
+the Court 4–5 (1987). If it does, it governs—New York’s law not­ withstanding—unless it exceeds statutory authorization or Plumer, 380 U. S. 460, 463–464 (1965). We do not wade into Erie’s murky waters unless the federal rule is inappli­ cable or invalid. See 380 U. S., at 469–471. The question in dispute is whether Shady Grove’s suit may proceed as a class action. Rule 23 provides an an­ swer. It states that “[a] class action may be maintained” if two conditions are met: The suit must satisfy the criteria set forth in subdivision (a) (i.e., numerosity, commonality, typicality, and adequacy of representation), and it also must fit into one of the three categories described in sub­ creates a categorical rule entitling a plaintiff whose suit meets the specified criteria to pursue his claim as a class action. (The Federal Rules regularly use “may” to confer 8(d)(2)–(3), 14(a)(1), 18(a)–(b), 20(a)(1)–(2), 27(a)(1), 30(a)(1), as do federal statutes that establish procedural entitlements, see, e.g., 29 U. S. C. §626(c)(1); 42 U. S. C. §2000e–5(f)(1).) Thus, Rule 23 provides a one-size-fits-all formula for deciding the class-action question. Because §901(b) attempts to answer the same question—i.e., it states that Shady Grove’s suit “may not be maintained as a class action” (emphasis added) because of the relief it seeks—it cannot apply in diversity suits unless Rule 23 is ultra vires. The Second Circuit believed that §901(b) and Rule 23 do not conflict because they address different issues. Rule 23, it said, concerns only the criteria for determining whether a given class can and should be certified; section 901(b), on the other hand, addresses an antecedent question: whether the particular type of claim is eligible for class
+the Court treatment in the first place—a question on which Rule 23 is silent. See 549 F. 3d, at 143–144. Allstate embraces this analysis. Brief for Respondent 12–13. We disagree. To begin with, the line between eligibility and certifiability is entirely artificial. Both are precondi­ tions for maintaining a class action. Allstate suggests that eligibility must depend on the “particular cause of action” asserted, instead of some other attribute of the suit, id., at 12. But that is not so. Congress could, for example, pro­ vide that only claims involving more than a certain num­ ber of plaintiffs are “eligible” for class treatment in federal court. In other words, relabeling Rule 23(a)’s prerequi­ sites “eligibility criteria” would obviate Allstate’s objec­ tion—a sure sign that its eligibility-certifiability distinc­ tion is made-to-order. There is no reason, in any event, to read Rule 23 as addressing only whether claims made eligible for class treatment by some other law should be certified as class actions. Allstate asserts that Rule 23 neither explicitly nor implicitly empowers a federal court “to certify a class in each and every case” where the Rule’s criteria are met. Id., at 13–14. But that is exactly what Rule 23 does: It says that if the prescribed preconditions are satisfied “[a] class action may be maintained” (emphasis added)—not “a class action may be permitted.” Courts do not maintain actions; litigants do. The discretion suggested by Rule 23’s “may” is discretion residing in the plaintiff: He may bring his claim in a class action if he wishes. And like the rest of the Federal Rules of Civil Procedure, Rule 23 automati cally applies “in all civil actions and proceedings in the Allstate points out that Congress has carved out some federal claims from Rule 23’s reach, see, e.g., 8 U. S. C. §1252(e)(1)(B)—which shows, Allstate contends, that Rule 23 does not authorize class actions for all claims, but
+the Court rather leaves room for laws like §901(b). But Congress, unlike New York, has ultimate authority over the Federal Rules of Civil Procedure; it can create exceptions to an individual rule as it sees fit—either by directly amending the rule or by enacting a separate statute overriding it in U. S. 654, 668 (1996). The fact that Congress has created specific exceptions to Rule 23 hardly proves that the Rule does not apply generally. In fact, it proves the opposite. If Rule 23 did not authorize class actions across the board, the statutory exceptions would be unnecessary. Allstate next suggests that the structure of §901 shows that Rule 23 addresses only certifiability. Section 901(a), it notes, establishes class-certification criteria roughly analogous to those in Rule 23 (wherefore it agrees that subsection is pre-empted). But §901(b)’s rule barring class actions for certain claims is set off as its own subsection, and where it applies §901(a) does not. This shows, accord­ ing to Allstate, that §901(b) concerns a separate subject. Perhaps it does concern a subject separate from the sub­ ject of §901(a). But the question before us is whether it concerns a subject separate from the subject of Rule 23— and for purposes of answering that question the way New York has structured its statute is immaterial. Rule 23 permits all class actions that meet its requirements, and a State cannot limit that permission by structuring one part of its statute to track Rule 23 and enacting another part that imposes additional requirements. Both of §901’s subsections undeniably answer the same question as Rule 23: whether a class action may proceed for a given suit. Cf. Burlington, 480 U. S., at 7–8. The dissent argues that §901(b) has nothing to do with whether Shady Grove may maintain its suit as a class action, but affects only the remedy it may obtain if it wins. See post, at 8–17 (opinion of GINSBURG, J.). Whereas “Rule 23 governs procedural aspects of class litigation” by
+the Court “prescrib[ing] the considerations relevant to class certifica­ tion and postcertification proceedings,” §901(b) addresses only “the size of a monetary award a class plaintiff may pursue.” Post, at 11–12. Accordingly, the dissent says, Rule 23 and New York’s law may coexist in peace. We need not decide whether a state law that limits the remedies available in an existing class action would con­ flict with Rule 23; that is not what §901(b) does. By its terms, the provision precludes a plaintiff from “main­ tain[ing]” a class action seeking statutory penalties. Unlike a law that sets a ceiling on damages (or puts other remedies out of reach) in properly filed class actions, §901(b) says nothing about what remedies a court may award; it prevents the class actions it covers from coming into existence at all.4 Consequently, a court bound by §901(b) could not certify a class action seeking both statu­ tory penalties and other remedies even if it announces in advance that it will refuse to award the penalties in the event the plaintiffs prevail; to do so would violate the statute’s clear prohibition on “maintain[ing]” such suits as class actions. The dissent asserts that a plaintiff can avoid §901(b)’s barrier by omitting from his complaint (or removing) a request for statutory penalties. See post, at 14–15. Even assuming all statutory penalties are waivable,5 the fact
+the Court that a complaint omitting them could be brought as a class action would not at all prove that §901(b) is addressed only to remedies. If the state law instead banned class actions for fraud claims, a would-be class-action plaintiff could drop the fraud counts from his complaint and pro­ ceed with the remainder in a class action. Yet that would not mean the law provides no remedy for fraud; the ban would affect only the procedural means by which the remedy may be pursued. In short, although the dissent correctly abandons Allstate’s eligibility-certifiability dis­ tinction, the alternative it offers fares no better. The dissent all but admits that the literal terms of §901(b) address the same subject as Rule 23—i.e., whether a class action may be maintained—but insists the provi­ sion’s purpose is to restrict only remedies. See post, at 12– 15; post, at 15 (“[W]hile phrased as responsive to the question whether certain class actions may begin, §901(b) is unmistakably aimed at controlling how those actions must end”). Unlike Rule 23, designed to further proce­ dural fairness and efficiency, §901(b) (we are told) “re­ sponds to an entirely different concern”: the fear that allowing statutory damages to be awarded on a class-wide basis would “produce overkill.” Post, at 12, 9 (internal quotation marks omitted). The dissent reaches this con­ clusion on the basis of (1) constituent concern recorded in the law’s bill jacket; (2) a commentary suggesting that the Legislature “apparently fear[ed]” that combining class actions and statutory penalties “could result in annihilat­ ing punishment of the defendant,” V. Alexander, Practice Commentaries, C901:11, reprinted in 7B McKinney’s Consolidated Laws of New York Ann., p. 104 (2006) (in­ ternal quotation marks omitted); (3) a remark by the Governor in his signing statement that §901(b) “ ‘ provides
+the Court a controlled remedy,’ ” post, at 9 (quoting Memorandum on Approving L. 1975, Ch. 207, reprinted in 1975 N. Y. Laws, at 1748; emphasis deleted), and (4) a state court’s state­ ment that the final text of §901(b) “ ‘was the result of a compromise among competing interests,’ ” post, at 9 (quot­ N. E. 2d 1012, 1015 (2007)). This evidence of the New York Legislature’s purpose is pretty sparse. But even accepting the dissent’s account of the Legislature’s objective at face value, it cannot override the statute’s clear text. Even if its aim is to restrict the remedy a plaintiff can obtain, §901(b) achieves that end by limiting a plaintiff’s power to maintain a class action. The manner in which the law “could have been written,” post, at 23, has no bearing; what matters is the law the Legisla­ ture did enact. We cannot rewrite that to reflect our Offshore Services, Inc., 523 U. S. 75, 79–80 (1998).6 The dissent’s concern for state prerogatives is frustrated rather than furthered by revising state laws when a po­
+the Court tential conflict with a Federal Rule arises; the state­ friendly approach would be to accept the law as written and test the validity of the Federal Rule. The dissent’s approach of determining whether state and federal rules conflict based on the subjective inten­ tions of the state legislature is an enterprise destined to & Co., 312 U. S. 1, 14 (1941). It would mean, to begin with, that one State’s statute could survive pre-emption (and accordingly affect the procedures in federal court) while another State’s identical law would not, merely because its authors had different aspirations. It would also mean that district courts would have to discern, in every diversity case, the purpose behind any putatively pre-empted state procedural rule, even if its text squarely conflicts with federal law. That task will often prove arduous. Many laws further more than one aim, and the aim of others may be impossible to discern. Moreover, to the extent the dissent’s purpose-driven approach depends on its characterization of §901(b)’s aims as substantive, it would apply to many state rules ostensibly addressed to procedure. Pleading standards, for example, often embody policy preferences about the types of claims that should succeed—as do rules governing summary judgment, pre­ trial discovery, and the admissibility of certain evidence. Hard cases will abound. It is not even clear that a state supreme court’s pronouncement of the law’s purpose would settle the issue, since existence of the factual predi­ cate for avoiding federal pre-emption is ultimately a fed­ eral question. Predictably, federal judges would be con­ demned to poring through state legislative history—which may be less easily obtained, less thorough, and less famil­ iar than its federal counterpart, see R. Mersky & D. Dunn, Fundamentals of Legal Research 233 (8th ed. 2002); Tor­ res & Windsor, State Legislative Histories: A Select, An­ notated Bibliography, 85 L. Lib. J. 545, 547 (1993).
+the Court But while the dissent does indeed artificially narrow the scope of §901(b) by finding that it pursues only substan­ tive policies, that is not the central difficulty of the dis­ sent’s position. The central difficulty is that even artificial narrowing cannot render §901(b) compatible with Rule 23. Whatever the policies they pursue, they flatly contradict each other. Allstate asserts (and the dissent implies, see post, at 3, 11) that we can (and must) interpret Rule 23 in a manner that avoids overstepping its authorizing stat­ ute.7 If the Rule were susceptible of two meanings—one that would violate §2072(b) and another that would not— Martin Corp., 531 U. S. 497, 503–504 (2001). But it is not. Rule 23 unambiguously authorizes any plaintiff, in any federal civil proceeding, to maintain a class action if the Rule’s prerequisites are met. We cannot contort its text, even to avert a collision with state law that might render
+750, n. 9 (1980).8 What the dissent’s approach achieves is not the avoiding of a “conflict between Rule 23 and §901(b),” post, at 17, but rather the invalidation of Rule 23 (pursuant to §2072(b) of the Rules Enabling Act) to the extent that it conflicts with the substantive policies of §901. There is no other way to reach the dissent’s destina­ tion. We must therefore confront head-on whether Rule 23 falls within the statutory authorization. Erie involved the constitutional power of federal courts to supplant state law with judge-made rules. In that context, it made no difference whether the rule was tech­ nically one of substance or procedure; the touchstone was whether it “significantly affect[s] the result of a litigation.” is not the test for either the constitutionality or the statu­ tory validity of a Federal Rule of Procedure. Congress has undoubted power to supplant state law, and undoubted power to prescribe rules for the courts it has created, so long as those rules regulate matters “rationally capable of classification” as procedure. Hanna, 380 U. S., at 472. In the Rules Enabling Act, Congress authorized this Court to promulgate rules of procedure subject to its review, 28 U. S. C. §2072(a), but with the limitation that those rules “shall not abridge, enlarge or modify any substantive right,” §2072(b). We have long held that this limitation means that the Rule must “really regulat[e] procedure,—the judicial
+process for enforcing rights and duties recognized by substantive law and for justly administering remedy and redress for disregard or infraction of them,” Sibbach, 312 U. S., at 14; see Hanna, supra, at 464; Burlington, 480 U. S., at 8. The test is not whether the rule affects a litigant’s substantive rights; most procedural rules do. 445 (1946). What matters is what the rule itself regulates: If it governs only “the manner and the means” by which the litigants’ rights are “enforced,” it is valid; if it alters “the rules of decision by which [the] court will adjudicate [those] rights,” it is not. Id., at 446 (internal quotation marks omitted). Applying that test, we have rejected every statutory challenge to a Federal Rule that has come before us. We have found to be in compliance with §2072(b) rules pre­ scribing methods for serving process, see id., at 445–446 mental or physical condition is in dispute to submit to examinations, see Sibbach, supra, at 14–16 (Fed. Rule 114 (1964) (same). Likewise, we have upheld rules au­ thorizing imposition of sanctions upon those who file frivolous appeals, see Burlington, supra, at 8 (Fed. Rule App. Proc. 38), or who sign court papers without a reason­ able inquiry into the facts asserted, see Business Guides, of these rules had some practical effect on the parties’ rights, but each undeniably regulated only the process for enforcing those rights; none altered the rights themselves, the available remedies, or the rules of decision by which the court adjudicated either. Applying that criterion, we think it obvious that rules allowing multiple claims (and claims by or against multi­
+ple parties) to be litigated together are also valid. See, of parties), 42(a) (consolidation of actions). Such rules neither change plaintiffs’ separate entitlements to relief nor abridge defendants’ rights; they alter only how the claims are processed. For the same reason, Rule 23—at least insofar as it allows willing plaintiffs to join their separate claims against the same defendants in a class action—falls within §2072(b)’s authorization. A class action, no less than traditional joinder (of which it is a species), merely enables a federal court to adjudicate claims of multiple parties at once, instead of in separate suits. And like traditional joinder, it leaves the parties’ legal rights and duties intact and the rules of decision unchanged. Allstate contends that the authorization of class actions is not substantively neutral: Allowing Shady Grove to sue on behalf of a class “transform[s] [the] dispute over a five hundred dollar penalty into a dispute over a five million dollar penalty.” Brief for Respondent 1. Allstate’s aggre­ gate liability, however, does not depend on whether the suit proceeds as a class action. Each of the 1,000-plus members of the putative class could (as Allstate acknowl­ edges) bring a freestanding suit asserting his individual claim. It is undoubtedly true that some plaintiffs who would not bring individual suits for the relatively small sums involved will choose to join a class action. That has no bearing, however, on Allstate’s or the plaintiffs’ legal rights. The likelihood that some (even many) plaintiffs will be induced to sue by the availability of a class action is just the sort of “incidental effec[t]” we have long held does not violate §2072(b), Mississippi Publishing, supra, at 445. Allstate argues that Rule 23 violates §2072(b) because the state law it displaces, §901(b), creates a right that the Federal Rule abridges—namely, a “substantive
+right . . . not to be subjected to aggregated class-action liability” in a single suit. Brief for Respondent 31. To begin with, we doubt that that is so. Nothing in the text of §901(b) (which is to be found in New York’s procedural code) confines it to claims under New York law; and of course New York has no power to alter substantive rights and duties created by other sovereigns. As we have said, the consequence of excluding certain class actions may be to cap the damages a defendant can face in a single suit, but the law itself alters only procedure. In that respect, §901(b) is no different from a state law forbidding simple joinder. As a fallback argument, Allstate argues that even if §901(b) is a procedural provision, it was enacted “for substantive reasons,” id., at 24 (emphasis added). Its end was not to improve “the conduct of the litigation process itself” but to alter “the outcome of that process.” Id., at 26. The fundamental difficulty with both these arguments is that the substantive nature of New York’s law, or its substantive purpose, makes no difference. A Federal Rule of Procedure is not valid in some jurisdictions and invalid in others—or valid in some cases and invalid in others— depending upon whether its effect is to frustrate a state substantive law (or a state procedural law enacted for substantive purposes). That could not be clearer in Sibbach: “The petitioner says the phrase [‘substantive rights’ in the Rules Enabling Act] connotes more; that by its use Congress intended that in regulating procedure this Court should not deal with important and substantial rights theretofore recognized. Recognized where and by whom? The state courts are divided as to the power in the absence of statute to order a physical ex­ amination. In a number such an order is authorized by statute or rule. . . . “The asserted right, moreover, is no more important
+than many others enjoyed by litigants in District Courts sitting in the several states before the Federal Rules of Civil Procedure altered and abolished old rights or privileges and created new ones in connec­ tion with the conduct of litigation. . . . If we were to adopt the suggested criterion of the importance of the alleged right we should invite endless litigation and confusion worse confounded. The test must be whether a rule really regulates procedure . . . .” 312 U. S., at 13–14 (footnotes omitted). Hanna unmistakably expressed the same understanding that compliance of a Federal Rule with the Enabling Act is to be assessed by consulting the Rule itself, and not its effects in individual applications: “[T]he court has been instructed to apply the Federal Rule, and can refuse to do so only if the Advisory Committee, this Court, and Congress erred in their prima facie judgment that the Rule in question trans­ gresses neither the terms of the Enabling Act nor con­ stitutional restrictions.” 380 U. S., at 471. In sum, it is not the substantive or procedural nature or purpose of the affected state law that matters, but the substantive or procedural nature of the Federal Rule. We have held since Sibbach, and reaffirmed repeatedly, that the validity of a Federal Rule depends entirely upon whether it regulates procedure. See Sibbach, supra, at 14; Hanna, supra, at 464; Burlington, 480 U. S., at 8. If it does, it is authorized by §2072 and is valid in all jurisdic­ tions, with respect to all claims, regardless of its incidental effect upon state-created rights. A few words in response to the concurrence. We under­ stand it to accept the framework we apply—which re­ quires first, determining whether the federal and state
+rules can be reconciled (because they answer different questions), and second, if they cannot, determining whether the Federal Rule runs afoul of §2072(b). Post, at 5–7 (STEVENS, J., concurring in part and concurring in judgment). The concurrence agrees with us that Rule 23 and §901(b) conflict, post, at 15–16, and departs from us only with respect to the second part of the test, i.e., whether application of the Federal Rule violates §2072(b), post, at 7–13. Like us, it answers no, but for a reason different from ours. Post, at 17–22. The concurrence would decide this case on the basis, not that Rule 23 is procedural, but that the state law it dis­ places is procedural, in the sense that it does not “function as a part of the State’s definition of substantive rights and remedies.” Post, at 1. A state procedural rule is not pre­ empted, according to the concurrence, so long as it is “so bound up with,” or “sufficiently intertwined with,” a substantive state-law right or remedy “that it defines the scope of that substantive right or remedy,” post, at 4, 13. This analysis squarely conflicts with Sibbach, which established the rule we apply. The concurrence contends that Sibbach did not rule out its approach, but that is not so. Recognizing the impracticability of a test that turns on the idiosyncrasies of state law, Sibbach adopted and ap­ plied a rule with a single criterion: whether the Federal Rule “really regulates procedure.” 312 U. S., at 14.9 That
+the concurrence’s approach would have yielded the same result in Sibbach proves nothing; what matters is the rule we did apply, and that rule leaves no room for special exemptions based on the function or purpose of a particu­ lar state rule.10 We have rejected an attempt to read into Sibbach an exception with no basis in the opinion, see Schlagenhauf, 379 U. S., at 113–114, and we see no reason to find such an implied limitation today. In reality, the concurrence seeks not to apply Sibbach, but to overrule it (or, what is the same, to rewrite it). Its approach, the concurrence insists, gives short shrift to the statutory text forbidding the Federal Rules from “abridg[ing], enlarg[ing], or modify[ing] any substantive right,” §2072(b). See post, at 9–10. There is something to that. It is possible to understand how it can be deter­ mined whether a Federal Rule “enlarges” substantive
+rights without consulting State law: If the Rule creates a substantive right, even one that duplicates some state­ created rights, it establishes a new federal right. But it is hard to understand how it can be determined whether a Federal Rule “abridges” or “modifies” substantive rights without knowing what state-created rights would obtain if the Federal Rule did not exist. Sibbach’s exclusive focus on the challenged Federal Rule—driven by the very real concern that Federal Rules which vary from State to State would be chaos, see 312 U. S., at 13–14—is hard to square with §2072(b)’s terms.11 Sibbach has been settled law, however, for nearly seven decades.12 Setting aside any precedent requires a “special
+justification” beyond a bare belief that it was wrong. (1989) (internal quotation marks omitted). And a party seeking to overturn a statutory precedent bears an even greater burden, since Congress remains free to correct us, ibid., and adhering to our precedent enables it do so, see, Inc., 545 U. S. 546, 558 (2005). We do Congress no service by presenting it a moving target. In all events, Allstate has not even asked us to overrule Sibbach, let alone car­ Alvarez, 546 U. S. 21, 32 (2005). Why we should cast aside our decades-old decision escapes us, especially since (as the concurrence explains) that would not affect the result.13
+The concurrence also contends that applying Sibbach and assessing whether a Federal Rule regulates substance or procedure is not always easy. See post, at 11, n. 10. Undoubtedly some hard cases will arise (though we have managed to muddle through well enough in the 69 years since Sibbach was decided). But as the concurrence ac­ knowledges, post, at 11, the basic difficulty is unavoidable: The statute itself refers to “substantive right[s],” §2072(b), so there is no escaping the substance-procedure distinc­ tion. What is more, the concurrence’s approach does nothing to diminish the difficulty, but rather magnifies it many times over. Instead of a single hard question of whether a Federal Rule regulates substance or procedure, that approach will present hundreds of hard questions, forcing federal courts to assess the substantive or proce­ dural character of countless state rules that may conflict with a single Federal Rule.14 And it still does not sidestep the problem it seeks to avoid. At the end of the day, one must come face to face with the decision whether or not the state policy (with which a putatively procedural state rule may be “bound up”) pertains to a “substantive right or remedy,” post, at 19—that is, whether it is substance or procedure.15 The more one explores the alternatives to
+Sibbach’s rule, the more its wisdom becomes apparent. We must acknowledge the reality that keeping the fed­ eral-court door open to class actions that cannot proceed in state court will produce forum shopping. That is unaccept­ able when it comes as the consequence of judge-made rules created to fill supposed “gaps” in positive federal law. See Hanna, 380 U. S., at 471–472. For where neither the Con­ stitution, a treaty, nor a statute provides the rule of deci­ sion or authorizes a federal court to supply one, “state law must govern because there can be no other law.” Ibid.; see 1302, 1311 (2007). But divergence from state law, with the attendant consequence of forum shopping, is the inevitable (indeed, one might say the intended) result of a uniform system of federal procedure. Congress itself has created the possibility that the same case may follow a different course if filed in federal instead of state court. Cf. Hanna, 380 U. S., at 472–473. The short of the matter is that a Federal Rule governing procedure is valid whether or not it alters the outcome of the case in a way that induces forum shop­ ping. To hold otherwise would be to “disembowel either the Constitution’s grant of power over federal procedure” or Congress’s exercise of it. Id., at 473–474. * * * The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings. It is so ordered.
+——————
+1 N. Y. Civ. Prac. Law Ann. §901 (West 2006) provides:
+“(a) One or more members of a class may sue or be sued as represen­
+tative parties on behalf of all if:
+“1. the class is so numerous that joinder of all members, whether
+otherwise required or permitted, is impracticable;
+“2. there are questions of law or fact common to the class which
+predominate over any questions affecting only individual members;
+“3. the claims or defenses of the representative parties are typical of
+the claims or defenses of the class;
+“4. the representative parties will fairly and adequately protect the
+interests of the class; and
+“5. a class action is superior to other available methods for the fair
+
+
+——————
+and efficient adjudication of the controversy.
+“(b) Unless a statute creating or imposing a penalty, or a minimum
+measure of recovery specifically authorizes the recovery thereof in a
+class action, an action to recover a penalty, or minimum measure of
+recovery created or imposed by statute may not be maintained as a
+class action.”
+2 Rule 23(a) provides:
+“(a) Prerequisites. One or more members of a class may sue or be
+sued as representative parties on behalf of all members only if:
+“(1) the class is so numerous that joinder of all members is imprac­
+ticable;
+“(2) there are questions of law or fact common to the class;
+“(3) the claims or defenses of the representative parties are typical
+of the claims or defenses of the class; and
+“(4) the representative parties will fairly and adequately protect
+the interests of the class.”
+Subsection (b) says that “[a] class action may be maintained if Rule 23
+(a) is satisfied and if” the suit falls into one of three described catego­
+ries (irrelevant for present purposes).
+
+
+——————
+3 Shady Grove had asserted jurisdiction under 28 U. S. C. §1332(d)(2),
+which relaxes, for class actions seeking at least $5 million, the rule
+against aggregating separate claims for calculation of the amount in
+controversy. See Exxon Mobil Corp. v. Allapattah Services, Inc., 545
+U. S. 546, 571 (2005).
+
+
+——————
+4 Contrary to the dissent’s implication, post, at 13, we express no view
+as to whether state laws that set a ceiling on damages recoverable in a
+single suit, see App. A to Brief for Respondent, are pre-empted.
+Whether or not those laws conflict with Rule 23, §901(b) does conflict
+because it addresses not the remedy, but the procedural right to main­
+tain a class action. As Allstate and the dissent note, several federal
+statutes also limit the recovery available in class actions. See, e.g., 12
+U. S. C. §2605(f)(2)(B); 15 U. S. C. §1640(a)(2)(B); 29 U. S. C.
+§1854(c)(1). But Congress has plenary power to override the Federal
+Rules, so its enactments, unlike those of the States, prevail even in case
+of a conflict.
+5 But see, e.g., Asher v. Abbott Labs., 290 App. Div. 2d 208, 737
+
+
+——————
+N. Y. S. 2d 4 (2002) (treble damages under N. Y. Gen. Bus. Law §340(5)
+are nonwaivable, wherefore class actions under that law are barred).
+
+
+——————
+6 Our
+
+decision in Walker v. Armco Steel Corp., 446 U. S. 740 (1980),
+discussed by the dissent, post, at 5–6, 13–14, n. 8, is not to the contrary.
+There we held that Rule 3 (which provides that a federal civil action is
+“ ‘commenced’ ” by filing a complaint in federal court) did not displace a
+state law providing that “ ‘[a]n action shall be deemed commenced,
+within the meaning of this article [the statute of limitations], as to each
+defendant, at the date of the summons which is served on him . . . .’ ”
+446 U. S., at 743, n. 4 (quoting Okla. Stat., Tit. 12, §97 (1971); altera­
+tion in original, emphasis added). Rule 3, we explained, “governs the
+date from which various timing requirements of the Federal Rules
+begin to run, but does not affect state statutes of limitations” or tolling
+rules, which it did not “purpor[t] to displace.” 446 U. S., at 751, 750.
+The texts were therefore not in conflict. While our opinion observed
+that the State’s actual-service rule was (in the State’s judgment) an
+“integral part of the several policies served by the statute of limita­
+tions,” id., at 751, nothing in our decision suggested that a federal court
+may resolve an obvious conflict between the texts of state and federal
+rules by resorting to the state law’s ostensible objectives.
+
+
+——————
+7 The
+
+dissent also suggests that we should read the Federal Rules
+“ ‘with sensitivity to important state interests’ ” and “ ‘to avoid conflict
+with important state regulatory policies.’ ” Post, at 7 (quoting Gasperini
+v. Center for Humanities, Inc., 518 U. S. 415, 427, n. 7, 438, n. 22
+(1996)). The search for state interests and policies that are “important”
+is just as standardless as the “important or substantial” criterion we
+rejected in Sibbach v. Wilson & Co., 312 U. S. 1, 13–14 (1941), to define
+the state-created rights a Federal Rule may not abridge.
+If all the dissent means is that we should read an ambiguous Federal
+Rule to avoid “substantial variations [in outcomes] between state and
+federal litigation,” Semtek Int’l Inc. v. Lockheed Martin Corp., 531 U. S.
+497, 504 (2001) (internal quotation marks omitted), we entirely agree.
+We should do so not to avoid doubt as to the Rule’s validity—since a
+Federal Rule that fails Erie’s forum-shopping test is not ipso facto
+invalid, see Hanna v. Plumer, 380 U. S. 460, 469–472 (1965)—but
+because it is reasonable to assume that “Congress is just as concerned
+as we have been to avoid significant differences between state and
+federal courts in adjudicating claims,” Stewart Organization, Inc. v.
+Ricoh Corp., 487 U. S. 22, 37–38 (1988) (SCALIA, J., dissenting). The
+assumption is irrelevant here, however, because there is only one
+reasonable reading of Rule 23.
+
+
+——————
+8 The cases chronicled by the dissent, see post, at 3–8, each involved a
+Federal Rule that we concluded could fairly be read not to “control the
+issue” addressed by the pertinent state law, thus avoiding a “direct
+collision” between federal and state law, Walker, 446 U. S., at 749
+(internal quotation marks omitted). But here, as in Hanna, supra, at
+470, a collision is “unavoidable.”
+
+
+——————
+9 The concurrence claims that in Sibbach “[t]he Court . . . had no oc­
+casion to consider whether the particular application of the Federal
+Rules in question would offend the Enabling Act.” Post, at 12. Had
+Sibbach been applying the concurrence’s theory, that is quite true—
+which demonstrates how inconsistent that theory is with Sibbach. For
+conformity with the Rules Enabling Act was the very issue Sibbach
+decided: The petitioner’s position was that Rules 35 and 37 exceeded
+the Enabling Act’s authorization, 312 U. S., at 9, 13; the Court faced
+and rejected that argument, id., at 13–16, and proceeded to reverse
+the lower court for failing to apply Rule 37 correctly, id., at 16. There
+
+
+——————
+could not be a clearer rejection of the theory that the concurrence now
+advocates.
+The concurrence responds that the “the specific question of ‘the
+obligation of federal courts to apply the substantive law of a state’ ” was
+not before the Court, post, at 12 (quoting Sibbach, supra, at 9). It is
+clear from the context, however, that this passage referred to the Erie
+prohibition of court-created rules that displace state law. The opinion
+unquestionably dealt with the Federal Rules’ compliance with §2072(b),
+and it adopted the standard we apply here to resolve the question,
+which does not depend on whether individual applications of the Rule
+abridge or modify state-law rights. See 312 U. S., at 13–14. To the
+extent Sibbach did not address the Federal Rules’ validity vis-à-vis
+contrary state law, Hanna surely did, see 380 U. S., at 472, and it made
+clear that Sibbach’s test still controls, see 380 U. S., at 464–465,
+470–471.
+10 The concurrence insists that we have misread Sibbach, since surely
+a Federal Rule that “in most cases” regulates procedure does not do so
+when it displaces one of those “rare” state substantive laws that are
+disguised as rules of procedure. Post, at 13, n. 13. This mistakes what
+the Federal Rule regulates for its incidental effects. As we have ex­
+plained, supra, at 12–13, most Rules have some effect on litigants’
+substantive rights or their ability to obtain a remedy, but that does not
+mean the Rule itself regulates those rights or remedies.
+
+
+——————
+11 The concurrence’s approach, however, is itself unfaithful to the
+statute’s terms. Section 2072(b) bans abridgement or modification only
+of “substantive rights,” but the concurrence would prohibit pre-emption
+of “procedural rules that are intimately bound up in the scope of a
+substantive right or remedy,” post, at 19. This would allow States to
+force a wide array of parochial procedures on federal courts so long as
+they are “sufficiently intertwined with a state right or remedy.” Post,
+at 13.
+12 The concurrence implies that Sibbach has slipped into desuetude,
+apparently for lack of sufficient citations. See post, at 13–14, n. 14. We
+are unaware of any rule to the effect that a holding of ours expires if
+the case setting it forth is not periodically revalidated. In any event,
+the concurrence’s account of our shunning of Sibbach is greatly exag­
+gerated. Hanna did not merely cite the case, but recognized it as
+establishing the governing rule. 380 U. S., at 464–465, 470–471.
+Mississippi Publishing Corp. v. Murphree, 326 U. S. 438, 445–446
+(1946), likewise cited Sibbach and applied the same test, examining the
+Federal Rule, not the state law it displaced. True, Burlington Northern
+R. Co. v. Woods, 480 U. S. 1 (1987), and for that matter Business
+Guides, Inc. v. Chromatic Communications Enterprises, Inc., 498 U. S.
+533 (1991), did not cite Sibbach. But both cited and followed Hanna—
+which as noted held out Sibbach as setting forth the governing rule.
+See Burlington Northern, supra, at 5–6, 8; Business Guides, supra, at
+552–554. Thus, while Sibbach itself may appear infrequently in the
+U. S. Reports, its rule—and in particular its focus on the Federal Rule
+as the proper unit of analysis—is alive and well.
+In contrast, Hanna’s obscure obiter dictum that a court “need not
+
+
+—————— 
+
+wholly blind itself” to a Federal Rule’s effect on a case’s outcome, 380 
+
+U. S., at 473—which the concurrence invokes twice, post, at 8, 13–14,
+n. 14—has never resurfaced in our opinions in the 45 years since its
+first unfortunate utterance. Nor does it cast doubt on Sibbach’s
+straightforward test: As the concurrence notes, Hanna cited Sibbach for
+that statement, 380 U. S., at 473, showing it saw no inconsistency
+between the two.
+13 The concurrence is correct, post, at 10, n. 9, that under our disposi­
+tion any rule that “really regulates procedure,” Sibbach, supra, at 14,
+will pre-empt a conflicting state rule, however “bound up” the latter is
+with substantive law. The concurrence is wrong, however, that that
+result proves our interpretation of §2072(b) implausible, post, at 10,
+n. 9. The result is troubling only if one stretches the term “substantive
+rights” in §2072(b) to mean not only state-law rights themselves, but
+also any state-law procedures closely connected to them. Neither the
+text nor our precedent supports that expansive interpretation. The
+examples the concurrence offers—statutes of limitations, burdens of
+proof, and standards for appellate review of damages awards—do not
+make its broad definition of substantive rights more persuasive. They
+merely illustrate that in rare cases it may be difficult to determine
+whether a rule “really regulates” procedure or substance. If one con­
+cludes the latter, there is no pre-emption of the state rule; the Federal
+Rule itself is invalid.
+
+
+——————
+The concurrence’s concern would make more sense if many Federal
+Rules that effectively alter state-law rights “bound up with procedures”
+would survive under Sibbach. But as the concurrence concedes, post, at
+11, n. 10, very few would do so. The possible existence of a few outlier
+instances does not prove Sibbach’s interpretation is absurd. Congress
+may well have accepted such anomalies as the price of a uniform
+system of federal procedure.
+14 The concurrence argues that its approach is no more “taxing” than
+ours because few if any Federal Rules that are “facially valid” under the
+Enabling Act will fail the concurrence’s test. Post, at 11, and n. 10. But
+that conclusion will be reached only after federal courts have consid­
+ered hundreds of state rules applying the concurrence’s inscrutable
+standard.
+15 The concurrence insists that the task will be easier if courts can
+
+
+——————
+“conside[r] the nature and functions of the state law,” post, at 11, n. 10,
+regardless of the law’s “form,” post, at 4 (emphasis deleted), i.e., what
+the law actually says. We think that amorphous inquiry into the
+“nature and functions” of a state law will tend to increase, rather than
+decrease, the difficulty of classifying Federal Rules as substantive or
+procedural. Walking through the concurrence’s application of its test to
+§901(b), post, at 17–22, gives little reason to hope that its approach will
+lighten the burden for lower courts.
+
+

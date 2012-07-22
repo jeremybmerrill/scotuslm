@@ -1,0 +1,51 @@
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Syllabus
+natural and probable consequence of any negligence of defendant.”
+Ibid. This Court reversed. FELA, this Court affirmed, did not incor
+porate any traditional common-law formulation of “proximate causa
+tion[,] which [requires] the jury [to] find that the defendant’s negli
+gence was the sole, efficient, producing cause of injury.” Id., at 506.
+Whether the railroad’s negligent act was the “immediate reason” for
+the fall, the Court added, was “irrelevant.” Id., at 503. The Court
+then announced its “any part . . . in producing the injury” test, id., at
+506.
+Rogers is most sensibly read as a comprehensive statement of
+FELA’s causation standard. The State Supreme Court there ac
+knowledged that a FELA injury might have multiple causes, but con
+sidered the respondent railroad’s part too indirect to establish the
+requisite causation. That is the very reasoning this Court rejected in
+Rogers. It is also the reasoning CSX asks this Court to resurrect.
+The interpretation adopted today is informed by the statutory his
+tory, see Trainmen v. Virginia ex rel. Virginia State Bar, 377 U. S. 1,
+3, the precedents on which Rogers drew, see, e.g., Coray v. Southern
+Pacific Co., 335 U. S. 520, 523–524, this Court’s subsequent deci
+sions, see, e.g., Ferguson v. Moore-McCormack Lines, Inc., 352 U. S.
+521, 523–524, the decisions of every Court of Appeals that reviews
+FELA cases, and the overwhelming majority of state courts and
+scholars. This understanding of Rogers “has been accepted as settled
+law for several decades.” IBP, Inc. v. Alvarez, 546 U. S. 21, 32. To
+discard or restrict the instruction now would ill serve stare decisis.
+Pp. 6–12.
+(b) CSX nonetheless worries that the Rogers “any part” instruction
+opens the door to unlimited liability, inviting juries to impose liability
+on the basis of “but for” causation. A half century’s experience with
+Rogers gives little cause for concern: CSX has not identified even one
+trial in which the instruction generated an absurd or untoward
+award.
+FELA’s “in whole or in part” language is straightforward.
+“[R]easonable foreseeability of harm is an essential ingredient of
+[FELA] negligence,” Gallick v. Baltimore & Ohio R. Co., 372 U. S.
+108, 117 (emphasis added). If negligence is proved, however, and is
+shown to have “played any part, even the slightest, in producing the
+injury,” Rogers, 352 U. S., at 506, then the carrier is answerable in
+damages even if “ ‘the extent of the [injury] or the manner in which it
+occurred’ ” was not “[p]robable” or “foreseeable.” Gallick, 372 U. S.,
+at 120–121, and n. 8. Properly instructed on negligence and causa
+tion, and told, as is standard practice in FELA cases, to use their
+“common sense” in reviewing the evidence, juries would have no war
+rant to award damages in far out “but for” scenarios, and judges
+
+

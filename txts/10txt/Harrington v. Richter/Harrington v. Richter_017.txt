@@ -1,0 +1,43 @@
+12
+
+HARRINGTON v. RICHTER
+Opinion of the Court
+
+Court.” Knowles v. Mirzayance, 556 U. S. ___, ___ (2009)
+(slip op., at 9–10) (internal quotation marks omitted).
+Here it is not apparent how the Court of Appeals’ analy
+sis would have been any different without AEDPA. The
+court explicitly conducted a de novo review, 578 F. 3d, at
+952; and after finding a Strickland violation, it declared,
+without further explanation, that the “state court’s deci
+sion to the contrary constituted an unreasonable applica
+tion of Strickland.” 578 F. 3d, at 969. AEDPA demands
+more. Under §2254(d), a habeas court must determine
+what arguments or theories supported or, as here, could
+have supported, the state court’s decision; and then it
+must ask whether it is possible fairminded jurists could
+disagree that those arguments or theories are inconsistent
+with the holding in a prior decision of this Court. The
+opinion of the Court of Appeals all but ignored “the only
+question that matters under §2254(d)(1).” Lockyer v.
+Andrade, 538 U. S. 63, 71 (2003).
+The Court of Appeals appears to have treated the un
+reasonableness question as a test of its confidence in the
+result it would reach under de novo review: Because the
+Court of Appeals had little doubt that Richter’s Strickland
+claim had merit, the Court of Appeals concluded the state
+court must have been unreasonable in rejecting it. This
+analysis overlooks arguments that would otherwise justify
+the state court’s result and ignores further limitations of
+§2254(d), including its requirement that the state court’s
+decision be evaluated according to the precedents of this
+Court. See Renico v. Lett, 559 U. S. ___, ___ (2010) (slip
+op., at 11–12). It bears repeating that even a strong case
+for relief does not mean the state court’s contrary conclu
+sion was unreasonable. See Lockyer, supra, at 75.
+If this standard is difficult to meet, that is because it
+was meant to be. As amended by AEDPA, §2254(d) stops
+short of imposing a complete bar on federal court relitiga
+tion of claims already rejected in state proceedings. Cf.
+
+

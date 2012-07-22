@@ -1,0 +1,40 @@
+16
+
+CARACO PHARMACEUTICAL LABORATORIES, LTD. v.
+NOVO NORDISK A/S
+Opinion of the Court
+
+The more difficult question arises from the “submitted
+under” phrase. The subsections mentioned there—(b) and
+(c) of §355—require an NDA applicant to submit specified
+information: “the patent number and the expiration date
+of any patent” claiming the drug or a method of its use. 21
+U. S. C. §§355(b)(1), (c)(2). According to Novo, only that
+information comes within the counterclaim provision. But
+subsections (b) and (c) as well govern the regulatory process by which brands provide additional patent information to the FDA, both before and after an NDA is approved. In particular, those subsections provide the basis
+for the regulation requiring brands to submit use codes,
+see 21 CFR §314.53; in issuing that regulation, the FDA
+noted that “[o]ur principal legal authority . . . is section
+505 of the act [codified at §355], in conjunction with our
+general rulemaking authority.” 68 Fed. Reg. 36697–36698
+(specifically referring to subsections (b) and (c)). And the
+form (Form 3542) on which brands submit their use codes
+states that the information appearing there is “provided
+in accordance with Section [355](b) and (c).” App. 97. So
+use codes fall within the counterclaim’s ambit if the phrase
+“submitted under” reaches filings that not only subsections (b) and (c) themselves, but also their implementing
+regulations require.
+Several of our cases support giving “under” this broad
+meaning. For example, in Eli Lilly, 496 U. S., at 665–668,
+we examined a similar statutory reference to the “submission of information under a Federal law which regulates
+——————
+covered by a patent”). Those provisions (whether referring to methods
+of use, conditions of use, or indications) all demand a description of the
+patent. And second, even the provision Novo cites—which mandates
+the submission of additional material, not listed in the Orange Book—
+ties information about indications to patent coverage; that regulation
+requires (when quoted in full) that the brand provide “a description of
+each approved method of use or indication and related patent claim of
+the patent being submitted.” §314.53(c)(2)(ii)(P)(1).
+
+

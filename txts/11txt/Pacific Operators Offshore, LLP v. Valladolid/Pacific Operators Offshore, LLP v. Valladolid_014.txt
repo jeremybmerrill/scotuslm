@@ -1,0 +1,38 @@
+Cite as: 565 U. S. ____ (2012)
+
+11
+
+Opinion of the Court
+
+B
+Pacific also offers an alternative argument derived from
+the interaction of §1333(b) and a provision of the LHWCA.
+Specifically, Pacific argues that because the LHWCA
+contains an explicit situs-of-injury requirement, see 33
+U. S. C. §903(a) (providing benefits only for injuries occurring “upon the navigable waters” of the United States),
+and because 43 U. S. C. §1333(b) extends the LHWCA
+workers’ compensation scheme to the OCS, §1333(b) incorporates the strict LHWCA situs-of-injury requirement
+from §903(a). According to Pacific, the words “occurring as
+the result of operations” in §1333(b) impose a status requirement in addition to the imported LHWCA situs-ofinjury requirement, with the result that employees who
+are injured on the OCS, but whose jobs are not related to
+extractive operations, are excluded from the workers’
+compensation coverage created by §1333(b). Thus, an
+accountant who is injured on a field trip to the drilling
+platform would be ineligible under §1333(b) despite being
+an employee who is injured on the OCS.
+Although this alternative argument has the advantage
+of assigning some meaning to the words “occurring as the
+result of operations” in §1333(b), we still find it unpersuasive. First, it is unlikely that Congress intended to impose
+a situs-of-injury requirement in §1333(b) through such a
+nonintuitive and convoluted combination of two separate
+legislative Acts. As we have already noted, creating an
+express situs-of-injury requirement in the text of §1333(b)
+would have been simple. Second, combining the §1333(b)
+definition of “United States” with the LHWCA situs-ofinjury requirement in 33 U. S. C. §903(a) would result in
+an OCS workers’ compensation scheme that applies only
+to the seabed of the OCS and to any artificial islands and
+fixed structures thereon. See 43 U. S. C. §1333(b)(3)
+(stating that “the term ‘United States’ when used in a
+geographical sense includes the outer Continental Shelf
+
+

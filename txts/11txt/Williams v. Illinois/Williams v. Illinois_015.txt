@@ -1,0 +1,40 @@
+Cite as: 567 U. S. ____ (2012)
+
+9
+
+Opinion of ALITO, J.
+
+an expert is allowed to disclose the facts on which the
+expert’s opinion is based even if the expert is not competent to testify to those underlying facts. She further argued that any deficiency in the foundation for the expert’s
+opinion “[d]oesn’t go to the admissibility of [that] testimony,” but instead “goes to the weight of the testimony.”
+App. 91.
+The trial judge agreed with the prosecution and stated
+that “the issue is . . . what weight do you give the test, not
+do you exclude it.” Id., at 94. Accordingly, the judge
+stated that he would not exclude Lambatos’ testimony,
+which was “based on her own independent testing of the
+data received from [Cellmark].” Id., at 94–95 (alteration
+in original).
+The trial court found petitioner guilty of the charges
+against him. The state court of appeals affirmed in relevant part, concluding that Lambatos’ testimony did not
+violate petitioner’s confrontation rights because the Cellmark report was not offered into evidence to prove the truth
+of the matter it asserted. See 385 Ill. App. 3d, at 369,
+895 N. E. 2d, at 969–970 (“Cellmark’s report was not
+offered for the truth of the matter asserted; rather, it was
+offered to provide a basis for Lambatos’ opinion”) The
+Supreme Court of Illinois also affirmed. 238 Ill. 2d 125,
+939 N. E. 2d 268 (2010). Under state law, the court noted,
+the Cellmark report could not be used as substantive
+evidence. When Lambatos referenced the report during
+her direct examination, she did so “for the limited purpose
+of explaining the basis for [her expert opinion],” not for the
+purpose of showing “the truth of the matter asserted” by
+——————
+“The facts or data in the particular case upon which an expert bases
+an opinion or inference may be those perceived by or made known to
+the expert at or before the hearing. If of a type reasonably relied
+upon by experts in the particular field in forming opinions or inferences
+upon the subject, the facts or data need not be admissible in
+evidence.”
+
+

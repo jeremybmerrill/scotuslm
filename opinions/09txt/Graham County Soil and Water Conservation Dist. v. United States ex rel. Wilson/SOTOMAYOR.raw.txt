@@ -1,0 +1,561 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–304
+_________________
+
+GRAHAM COUNTY SOIL AND WATER CONSERVA-
+
+TION DISTRICT, ET AL., PETITIONERS v. UNITED 
+
+STATES EX REL. KAREN T. WILSON 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FOURTH CIRCUIT
+
+[March 30, 2010]
+
+
+JUSTICE SOTOMAYOR, with whom JUSTICE BREYER joins,
+dissenting.
+The False Claims Act (FCA) divests federal courts of
+jurisdiction to hear qui tam lawsuits based on allegations
+or transactions publicly disclosed in a “congressional,
+administrative, or Government Accounting Office [(GAO)]
+report, hearing, audit, or investigation,” unless the qui
+tam relator is an “original source” of the information. 31
+U. S. C. §3730(e)(4)(A) (footnote omitted). Today, the
+Court reads the phrase “administrative . . . report, hear
+ing, audit, or investigation” to encompass not only federal,
+but also state and local, government sources. In my view,
+the Court misreads the statutory text and gives insuffi
+cient weight to contextual and historical evidence of Con
+gress’ purpose in enacting §3730. I would affirm the
+judgment of the Court of Appeals and hold that “adminis
+trative” in the above-quoted provision refers only to Fed
+eral Government sources.1
+——————
+1 As the Court notes, recent legislation amended the language of 31
+U. S. C. §3730(e)(4). See ante, at 1–2, n. 1 (citing Pub. L. 111–148,
+§10104(j)(2), 124 Stat. 119). Like the Court, I use the present tense
+throughout this opinion in discussing the statute as it existed at the
+time this case was argued before this Court.
+
+
+2
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION 
+
+DIST. v. UNITED STATES EX REL. WILSON 
+
+SOTOMAYOR, J., dissenting
+
+
+I
+Section 3730(e)(4)(A) sets forth three categories of “pub
+lic disclosure[s]” that trigger the FCA’s jurisdictional bar:
+“allegations or transactions [1] in a criminal, civil, or
+administrative hearing, [2] in a congressional, administra
+tive, or [GAO] report, hearing, audit, or investigation, or
+[3] from the news media.”2 (Like the majority, I have
+inserted Arabic numerals and refer to the three phrases as
+“categories.”) “It is a ‘fundamental canon of statutory
+construction that the words of a statute must be read in
+their context and with a view to their place in the overall
+statutory scheme.’ ” FDA v. Brown & Williamson Tobacco
+Corp., 529 U. S. 120, 133 (2000) (quoting Davis v. Michi
+gan Dept. of Treasury, 489 U. S. 803, 809 (1989)). No
+party here disputes that “congressional” and “[GAO]” refer
+only to Federal Government sources. Ante, at 6, and nn.
+5–6. As the Court acknowledges, ante, at 5, the word
+“administrative” is more capacious, potentially reaching
+not only federal, state, and local government sources but
+also disclosures by private entities. See, e.g., Black’s Law
+Dictionary 42 (5th ed. 1979) (defining “administrative” as
+“pertain[ing] to administration, especially management,
+. . . [of] the execution, application or conduct of persons or
+things”).
+Like the Court of Appeals, I view Congress’ choice of two
+“clearly federal terms [to] bookend the not-so-clearly fed
+eral term” as a “very strong contextual cue about the
+meaning of ‘administrative.’ ” 528 F. 3d 292, 302 (CA4
+2008). “ ‘The maxim noscitur a sociis, . . . while not an
+inescapable rule, is often wisely applied where a word is
+capable of many meanings in order to avoid the giving of
+——————
+2 As
+
+the Court observes, in enacting §3730(e)(4)(A) Congress errone
+ously referred to the General Accounting Office—now renamed the
+Government Accountability Office—as the “Government Accounting
+Office.” Ante, at 6, n. 6.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+SOTOMAYOR, J., dissenting
+
+unintended breadth to the Acts of Congress.’ ” Gutierrez v.
+Ada, 528 U. S. 250, 255 (2000) (quoting Jarecki v. G. D.
+Searle & Co., 367 U. S. 303, 307 (1961)). Here, the imme
+diate proximity of “congressional” and “[GAO]” suggests
+that “administrative” should be read, like its neighbors, as
+referring to Federal Government sources. If Congress had
+intended to include state or local government administra
+tive materials, it could have said so, for instance by refer
+ring generically to “governmental” sources. See 528 F. 3d,
+at 304–305.
+The Court applies the logic that underlies the noscitur a
+sociis canon in concluding that “administrative” does not
+refer to private entities because of the meaning suggested
+by the slightly more distant neighbors “report, hearing,
+audit, or investigation.” See ante, at 5. I agree with the
+majority that “administrative” in this context does not
+reach private entities. But in my view, “congressional”
+and “[GAO]” provide the better textual grounding for that
+conclusion. I see no reason why the “administrati[on]” of a
+private university, for instance, could not issue a “report,”
+order an “audit” or “investigation,” or conduct a “hearing.”
+Nor, contrary to the majority’s suggestion, are private
+entities—particularly those receiving federal funds or
+participating in federal programs—incapable of making
+“public disclosure[s]” of fraud on the Federal Government.
+Despite its own implicit reliance on the canon, the Court
+nevertheless rejects the Court of Appeals’ application of
+noscitur a sociis to interpret the three terms in Category 2,
+concluding that “[a] list of three items, each quite distinct
+from the other no matter how construed, is too short to be
+particularly illuminating.” Ante, at 6–7. The three terms
+in Category 2, the Court concludes, are “too few and too
+disparate” to justify invocation of noscitur a sociis. Ante,
+at 7. We have not previously constrained the canon in this
+way, and I would not do so here.
+To take just one example, in Jarecki we construed the
+
+
+4
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION 
+
+DIST. v. UNITED STATES EX REL. WILSON 
+
+SOTOMAYOR, J., dissenting
+
+
+statutory term “ ‘abnormal income,’ ” which the statute
+defined to include income resulting from “ ‘exploration,
+discovery, or prospecting.’ ” 367 U. S., at 304–305 (quoting
+§456(a) of the Internal Revenue Code of 1939). Recogniz
+ing that the word “ ‘[d]iscovery’ ” is “usable in many con
+texts and with various shades of meaning,” we observed
+that it “gathers meaning from the words around it” and
+concluded that “[t]he three words in conjunction . . . all
+describe income-producing activity in the oil and gas and
+mining industries.” Id., at 307. As a result, and in light of
+other contextual evidence supporting the same conclusion,
+we held that sales of newly invented drugs or camera
+equipment did not give rise to “abnormal income” even if
+such inventions might otherwise be understood as “dis
+cover[ies].” See id., at 307–313. In my view, the three
+terms in Category 2 are no more “distinct” or “disparate,”
+ante, at 7, than the phrase at issue in Jarecki, particularly
+given the expansive plain meaning of “discovery.” Cf.
+ante, at 7, n. 7. Here, application of the noscitur a sociis
+principle readily yields a common feature: The sources at
+issue are federal in nature, not related to state or local
+governments or private entities. See Third Nat. Bank in
+Nashville v. Impac Limited, Inc., 432 U. S. 312, 322–323,
+315 (1977) (applying principle that “words grouped in a
+list should be given related meaning” where term “ ‘injunc
+tion’ ” was “sandwiched” between two other words in the
+statutory phrase “ ‘attachment, injunction, or execution’ ”).3
+——————
+3 The Court relies on Reiter v. Sonotone Corp., 442 U. S. 330, 338–339
+(1979), for the proposition that we should not “ ‘rob’ ” any of the three
+terms in Category 2 of 31 U. S. C. §3730(e)(4)(A) of “ ‘its independent
+and ordinary significance.’ ” Ante, at 7. But Reiter involved the statu
+tory term “business or property.” Those two words less readily suggest
+a shared limiting principle than do “congressional, administrative, or
+[GAO].” Moreover, our concern about “rob[bing]” the word “ ‘property’ ”
+of its broader meaning rested on a desire not to “ignore the disjunctive
+‘or’ ” in the statutory pairing. 442 U. S., at 338–339; see also id., at 339
+(“Canons of construction ordinarily suggest that terms connected by a
+
+
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+SOTOMAYOR, J., dissenting
+
+The Court draws additional support for its conclusion
+from reference to the provision’s “larger scheme,” ante, at
+8—i.e., the sources enumerated in Categories 1 and 3.
+Although the scope of Category 1 is not before us today
+(and although this Court has never addressed that ques
+tion), the Court believes that reading Category 2 as lim
+ited to Federal Government sources would be inconsistent
+with decisions of lower courts that have interpreted
+“criminal, civil, or administrative hearing[s]” in Category
+1 to include both state and federal proceedings. There is
+no conflict, however, if both categories are read, as re
+spondent and the Solicitor General urge, as exclusively
+federal. See Brief for Respondent 23–24; Brief for United
+States as Amicus Curiae 25–26. Even reading Category 1
+more broadly, however, does not change the exclusively
+federal nature of “congressional” and “[GAO],” which
+undermines whatever inference might be drawn from
+taking the statutory terms in strict succession. Treating
+the entirety of §3730(e)(4)(A) as an undifferentiated list of
+items gives short shrift to the syntactical choices Congress
+made in offsetting each category with commas and prepo
+sitions, and in providing distinct classes of adjectives that
+modify different nouns.
+Finally, the Court also views “news media” as “distinctly
+nonfederal in nature.” Ante, at 8–9. But “news media”
+does not seem particularly illuminating in this context. As
+the Court of Appeals observed, although media sources
+——————
+disjunctive be given separate meanings”). Because Congress did not
+employ a completely disjunctive list in §3730(e)(4)(A)—i.e., “congres
+sional or administrative or [GAO]”—the Reiter principle applies with
+less force. Cf. Garcia v. United States, 469 U. S. 70, 73 (1984) (applying
+disjunctive principle in construing statutory prohibition on assault and
+robbery of any custodian of “ ‘mail matter or of any money or other
+property of the United States,’ ” and observing that “[t]he three classes
+of property . . . are each separated by the conjunction ‘or’ ” (quoting 18
+U. S. C. §2114; some emphasis deleted)).
+
+
+6
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION
+DIST. v. UNITED STATES EX REL. WILSON
+SOTOMAYOR, J., dissenting
+
+may be national or local in scope, that distinction is not
+analogous to the difference between federal and state
+government sources. 528 F. 3d, at 304.
+II
+In my view, the statutory context and legislative history
+are also less “opaque,” cf. ante, at 17, and more supportive
+of the reading adopted by the Court of Appeals, than the
+majority today acknowledges. While the legislative record
+is concededly incomplete, it does provide reason to exercise
+caution before giving the statutory text its broadest possi
+ble meaning—i.e., to encompass not only federal, but also
+state and local, government sources.
+Three points are particularly salient. First, prior to the
+1986 amendments, the “Government knowledge” bar
+unquestionably referred only to information in the posses
+sion of the Federal Government.4 Even still, the bar was
+criticized as overly restrictive. A Senate Report on an
+initial version of the 1986 legislation, for instance, de
+scribed the FCA’s history and need for legislative reform,
+noting “several restrictive court interpretations of the act
+. . . which tend to thwart the effectiveness of the statute.”
+S. Rep. No. 99–345, p. 4 (1986) (hereinafter S. Rep.). For
+instance, courts had applied the Government knowledge
+bar “even if the Government makes no effort to investigate
+or take action after . . . original allegations [a]re received.”
+Id., at 12 (citing United States ex rel. Lapin v. Interna
+tional Business Machines Corp., 490 F. Supp. 244 (Haw.
+1980)).5
+——————
+4 As
+
+originally enacted in 1943, the bar applied to suits “based upon
+evidence or information in the possession of the United States, or any
+agency, officer or employee thereof, at the time such suit was brought.”
+57 Stat. 609. In 1982, Congress recodified the provision to apply to
+suits “based on evidence or information the Government had when the
+action was brought.” 96 Stat. 979.
+5 The Senate Report also discussed United States ex rel. Wisconsin v.
+Dean, 729 F. 2d 1100 (CA7 1984), in which the court barred Wisconsin
+
+
+Cite as: 559 U. S. ____ (2010)
+
+7
+
+SOTOMAYOR, J., dissenting
+
+Second, there is more support than the Court recognizes
+for the proposition that Congress sought in the 1986
+amendments to broaden the availability of qui tam relief.
+The Senate Report characterized the reform effort as
+intended to “enhance the Government’s ability to recover
+losses sustained as a result of fraud against the Govern
+ment” and dwelt at length on the “severe” and “growing”
+problem of “fraud in Federal programs.” S. Rep., at 1–2;
+accord, H. R. Rep. No. 99–660, p. 18 (1986) (“Evidence of
+fraud in Government programs and procurement is on a
+steady rise”). The Senate Report also articulated a desire
+to “encourage any individual knowing of Government
+fraud to bring that information forward,” and it identified
+as “perhaps the most serious problem plaguing effective
+enforcement [of antifraud laws] a lack of resources on the
+part of Federal enforcement agencies.” S. Rep., at 2, 7.6
+Consistent with these expressed views, the enacted
+legislation was replete with provisions encouraging qui
+——————
+from bringing a qui tam suit for Medicaid fraud because the State had
+previously disclosed the information to the Federal Government, even
+when the State’s own investigation had discovered the fraud. S. Rep.,
+at 12–13. Lower courts have observed that the Dean decision was
+controversial and appears to have motivated the inclusion of the
+“original source” exception in the 1986 jurisdictional bar. See, e.g.,
+Wang v. FMC Corp., 975 F. 2d 1412, 1419 (CA9 1992); see also S. Rep.,
+at 13 (noting resolution by the National Association of Attorneys
+General criticizing Dean and urging Congress to address the problem).
+6 In introducing a later and near-final version of the bill, Senator
+Grassley described the reform effort as stemming “from a realization
+that the Government needs help—lots of help—to adequately protect
+taxpayer funds from growing and increasingly sophisticated fraud.”
+132 Cong. Rec. 28580 (1986); see also United States ex rel. Siller v.
+Becton Dickinson & Co., 21 F. 3d 1339, 1347 (CA4 1994) (“By 1986,
+when section 3730(e)(4) was enacted, Congress had come to the conclu
+sion that fraud against the Government was apparently so rampant
+and difficult to identify that the Government could use all the help it
+could get from private citizens with knowledge of fraud” (internal
+quotation marks omitted)).
+
+
+8
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION 
+
+DIST. v. UNITED STATES EX REL. WILSON 
+
+SOTOMAYOR, J., dissenting
+
+
+tam actions. By replacing the Government knowledge bar
+with the current text of §3730(e)(4)(A) and including an
+exception for “original source[s],” Congress “allowed pri
+vate parties to sue even based on information already in
+the Government’s possession.” Cook County v. United
+States ex rel. Chandler, 538 U. S. 119, 133 (2003). The
+1986 amendments also established the right of qui tam
+relators to continue as a party to a suit after the Govern
+ment intervenes, 31 U. S. C. §3730(c)(1) (1988 ed.); in
+creased the percentage of recovery available as an incen
+tive for private suits, §3730(d)(1); and created a cause of
+action against employers who retaliate against qui tam
+relators, §3730(h).7
+——————
+7 See also 1 J. Boese, Civil False Claims and Qui Tam Actions
+§1.04[G], p. 1–22 (Supp. 2007) (“[V]irtually all the changes introduced
+in th[e] section [of the 1986 amendments addressing qui tam actions]
+expanded the rights of qui tam relators”). The amendments also
+contained a number of provisions facilitating enforcement generally,
+e.g., lowering the requisite showing of intent by making clear that
+“knowing” violations require “no proof of specific intent to defraud,” 31
+U. S. C. §3729(b)(1) (1988 ed.); lengthening the statute of limitations,
+§3731(b); and authorizing treble damages, §3729(a).
+The Court fairly observes that the addition of “news media” to the
+jurisdictional bar undercuts attributing to Congress a “single-minded”
+intent to expand the availability of qui tam relief. Ante, at 19. But
+neither does that provision support reading Category 2 to its broadest
+possible extent. Moreover, barring suits based on “news media” disclo
+sures may not have constituted a particularly significant expansion of
+existing law. Courts had applied the pre-1986 Government knowledge
+bar to dismiss actions based on information reported in the news
+media. In United States ex rel. Thompson v. Hays, 432 F. Supp. 253,
+256, 255 (DC 1976), the court dismissed a suit based on evidence
+“gleaned from sources in the news media which received widespread
+public attention [alleging fraud by a Member of Congress],” when the
+Department of Justice “first obtained information regarding the claims
+. . . as a result of [a] Washington Post article.” Similarly, the court in
+United States v. Burmah Oil Co., 558 F. 2d 43, 46, n. 1 (CA2 1977) (per
+curiam) characterized the Government knowledge bar as “dis
+courag[ing] the filing of actions by parties having no information of
+their own to contribute, but who merely plagiarized information in
+
+
+Cite as: 559 U. S. ____ (2010)
+
+9
+
+SOTOMAYOR, J., dissenting
+
+To be sure, Congress was also concerned in 1986, as in
+1943, with guarding against purely opportunistic, “para
+sitic” qui tam relators. See S. Rep., at 10–11 (describing
+history of parasitic suits and the 1943 amendments); ante,
+at 12–13. Lower courts have viewed the 1986 amend
+ments as striking a balance between the “twin goals of
+rejecting suits which the government is capable of pursu
+ing itself, while promoting those which the government is
+not equipped to bring on its own.” United States ex rel.
+Springfield Terminal R. Co. v. Quinn, 14 F. 3d 645, 651
+(CADC 1994). But evidence that Congress sought to
+balance two competing goals supports moderation in
+interpreting an arguably ambiguous statutory text, rather
+than woodenly reading the statutory language to its fullest
+possible extent.
+Third, the legislative record “ ‘contains no hint of any
+intention’ ” to bar suits based on disclosures from state or
+local government sources. Brief for United States as
+Amicus Curiae 20 (quoting United States ex rel. AntiDiscrimination Center of Metro N. Y., Inc. v. Westchester
+Cty., 495 F. Supp. 2d 375, 383 (SDNY 2007)). Inclusion of
+state or local government sources would have constituted
+a significant departure from the Federal Government
+knowledge bar that had existed for four decades by 1986.
+But neither the initial bills reported by the Senate and
+House Committees nor statements by individual Members
+of Congress about subsequent versions of the legislation
+suggest any consideration or debate about expanding the
+pre-1986 bar to apply to state or local government
+——————
+indictments returned in the courts, newspaper stories or congressional
+investigations.” Congress could have reasonably assumed in 1986 that
+news media would report on the kinds of high-profile frauds that would
+naturally—perhaps as a result of the reporting—come to the Govern
+ment’s attention, and thus would already have been covered under
+existing law.
+
+
+10
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION
+DIST. v. UNITED STATES EX REL. WILSON
+SOTOMAYOR, J., dissenting
+
+sources.8
+Although these points do not definitively resolve the
+question presented today, to my mind they counsel against
+reading §3730(e)(4)(A) (2006 ed.) so broadly as to disturb
+the balance Congress evidently sought to achieve through
+the 1986 amendments. Today’s decision risks such a
+result. The Court imposes a jurisdictional bar that is by
+all appearances more restrictive of qui tam suits than the
+pre-1986 regime. Construing §3730(e)(4)(A) to encompass
+the thousands of state and local government administra
+tive reports produced each year effectively imputes to the
+Federal Government knowledge of such sources, whether
+or not the Government is aware of the information or in a
+——————
+8 In
+
+June 1986, the House Committee on the Judiciary reported a bill
+that would have barred qui tam actions based on information “which
+the Government disclosed as a basis for allegations made in a prior
+administrative, civil, or criminal proceeding,” “disclosed during the
+course of a congressional investigation,” or “disseminated by any news
+media.” H. R. Rep. No. 99–660, pp. 2, 3 (internal quotation marks
+omitted). The references to information disclosed by the Government
+itself (with a capital “G”) and to “congressional investigation[s]” connote
+federal, not state or local, government sources. In July, the Senate
+Committee on the Judiciary reported its own version of the bill, barring
+actions “based upon allegations or transactions which are the subject of
+a civil suit in which the Government is already a party, or within six
+months of the disclosure of specific information relating to such allega
+tions or transactions in a criminal, civil, or administrative hearing, a
+congressional or Government Accounting Office report or hearing, or
+from the news media.” S. Rep., at 43. The reference to suits in which
+the Federal Government is a party and absence of the ambiguous term
+“administrative” in the bill’s reference to “congressional or [GAO]”
+reports or hearings, similarly tend to exclude disclosures from state or
+local government reports. The enacted legislation did differ in several
+respects from the reported bills, but the subsequent legislative record
+contains no reference to the inclusion of state or local government
+sources. See, e.g., 132 Cong. Rec. 20535–20537 (statement of Sen.
+Grassley); id., at 29321–29322 (statements of Reps. Glickman and
+Berman).
+
+
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+SOTOMAYOR, J., dissenting
+
+position to act on it.9 The Solicitor General specifically
+warns that while information in federal administrative
+audits or investigations is “readily available” to attorneys
+at the Department of Justice, “many state and local re
+ports and investigations never come to the attention of
+federal authorities.” Brief for United States as Amicus
+Curiae 22. The Court dismisses this concern as “sheer
+conjecture,” postulating that Government lawyers “may”
+in fact learn about “quite a few” state or local reports and
+investigations, particularly in joint state-federal pro
+grams.10 Ante, at 18. Perhaps so. But absent any con
+crete reason to believe otherwise, I would not so readily
+dismiss the formal representation of the Executive Branch
+entity with responsibility for, and practical experience in,
+litigating FCA claims on behalf of the United States.
+In sum, the statute’s plain text, evidence of Congress’
+intent to expand qui tam actions, and practical conse
+——————
+9 Of course, 31 U. S. C. §3730(e)(4)(A) (2006 ed.) speaks of “public
+disclosure,” not notice to the Government. But the requirement of a
+“public” disclosure countenances notice, both to the public and other
+wise. Indeed, a number of lower courts look to whether the Federal
+Government is “on notice” of alleged fraud before concluding that a
+particular source is a “public disclosure of allegations or transactions”
+under §3730(e)(4)(A). See, e.g., United States ex rel. Poteet v. Medtronic,
+Inc., 552 F. 3d 503, 512 (CA6 2009) (“[A] public disclosure reveals fraud
+if the information is sufficient to put the government on notice of the
+likelihood of related fraudulent activity” (internal quotation marks
+omitted)); United States v. Alcan Elec. & Eng., Inc., 197 F. 3d 1014,
+1020 (CA9 1999) (similar); United States ex rel. Fine v. Sandia Corp.,
+70 F. 3d 568, 572 (CA10 1995) (similar).
+10 The Court observes that federal law requires some recipients of
+federal funds to conduct audits, ante, at 18, n. 18, and amici States
+point to the auditing and reporting requirements of the Single Audit
+Act of 1984, Brief for State of Pennsylvania et al. as Amici Curiae 7–10
+(hereinafter States Brief). But neither the Court nor the amici rebut
+the Solicitor General’s pragmatic observation that “the vague and
+summary nature of many of those reports . . . does not . . . alert the
+federal government of fraud.” Brief for United States as Amicus Curiae
+31.
+
+
+12
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION
+DIST. v. UNITED STATES EX REL. WILSON 
+
+SOTOMAYOR, J., dissenting
+
+
+quences of a more expansive interpretation together sug
+gest Category 2 is most reasonably read to encompass
+federal, but not state or local, government sources.11
+*
+*
+*
+For the reasons given above, I would affirm the judg
+ment of the Court of Appeals, and respectfully dissent.
+
+——————
+11 The majority notes in passing several policy arguments advanced
+by petitioners and their amici. Ante, at 20, n. 19. None merits much
+weight. Petitioners are concerned about a race to the courthouse, in
+which parasitic relators will capitalize on information released in a
+state or local government report to the disadvantage of a slow-moving
+insider. Brief for Petitioners 31. But the FCA’s first-to-file provision,
+31 U. S. C. §3730(b)(5), reflects Congress’ explicit policy choice to
+encourage prompt filing and, in turn, prompt recovery of defrauded
+funds by the United States. Amici States are concerned that relators
+may interfere with ongoing state and local government investigations
+by “trolling state records and reports” for evidence of fraud. States
+Brief 11. But some state freedom-of-information laws exempt materials
+related to ongoing civil investigations. See, e.g., Kan. Stat. Ann. §45–
+221(a)(11) (2008 Cum. Supp.); Pa. Stat. Ann., Tit. 65, §67.708(b)(17)
+(Purdon Supp. 2009). In any event, the FCA contains no provision
+giving state or local governments a privileged position as qui tam
+relators or, with respect to local governments, defendants.
+
+

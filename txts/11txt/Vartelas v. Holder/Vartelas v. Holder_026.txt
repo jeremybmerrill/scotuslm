@@ -1,0 +1,41 @@
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+SCALIA, J., dissenting
+
+tively unintended) and the validity question (whether
+giving certain effect to a provision is unlawful) is on full
+display in its attempts to distinguish §1101(a)(13)(C)(v)
+from similar statutes. Take, for example, the Court’s discussion of the Racketeer Influenced and Corrupt Organizations Act (RICO). That Act, which targets “patterns
+of racketeering,” expressly defines those “patterns” to
+include some pre-enactment conduct. See 18 U. S. C.
+§1961(5). Courts interpreting RICO therefore need not
+consider the presumption against retroactivity; instead,
+the cases cited by the majority consider whether RICO
+violates the Ex Post Facto Clause. See United States v.
+Brown, 555 F. 2d 407, 416–417 (CA5 1977); United States
+v. Campanale, 518 F. 2d 352, 364–365 (CA9 1975)
+(per curiam). The Government recognized this distinction
+and cited RICO to make a point about the Ex Post Facto
+Clause rather than the presumption against retroactivity,
+Brief for Respondent 17–18; the Court evidently does not.
+The Court’s confident assertion that Congress surely
+would not have meant this statute to apply to Vartelas,
+whose foreign travel and subsequent return to the United
+States were innocent events, ante, at 11, 14, simply begs
+the question presented in this case. Ignorance, of course,
+is no excuse (ignorantia legis neminem excusat); and his
+return was entirely lawful only if the statute before us did
+not render it unlawful. Since IIRIRA’s effective date in
+1996, lawful permanent residents who have committed
+crimes of moral turpitude are forbidden to leave the
+United States and return without formally seeking “admission.” See §1101(a)(13)(C)(v). As a result, Vartelas’s
+numerous trips abroad and “uneventful” reentries into the
+United States after the passage of IIRIRA, see ante, at 5,
+were lawful only if §1101(a)(13)(C)(v) does not apply to
+him—which is, of course, precisely the matter in dispute
+here.
+The Court’s circular reasoning betrays its underlying
+
+

@@ -1,0 +1,140 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+MISSOURI v. FRYE
+CERTIORARI TO THE COURT OF APPEALS OF MISSOURI, WESTERN DISTRICT
+No. 10–444.
+
+Argued October 31, 2011—Decided March 21, 2012
+
+Respondent Frye was charged with driving with a revoked license. Because he had been convicted of the same offense three times before,
+he was charged, under Missouri law, with a felony carrying a maximum 4-year prison term. The prosecutor sent Frye’s counsel a letter,
+offering two possible plea bargains, including an offer to reduce the
+charge to a misdemeanor and to recommend, with a guilty plea, a 90day sentence. Counsel did not convey the offers to Frye, and they expired. Less than a week before Frye’s preliminary hearing, he was
+again arrested for driving with a revoked license. He subsequently
+pleaded guilty with no underlying plea agreement and was sentenced
+to three years in prison. Seeking postconviction relief in state court,
+he alleged his counsel’s failure to inform him of the earlier plea offers
+denied him the effective assistance of counsel, and he testified that
+he would have pleaded guilty to the misdemeanor had he known of
+the offer. The court denied his motion, but the Missouri appellate
+court reversed, holding that Frye met both of the requirements for
+showing a Sixth Amendment violation under Strickland v. Washington, 466 U. S. 668. Specifically, the court found that defense counsel
+had been ineffective in not communicating the plea offers to Frye and
+concluded that Frye had shown that counsel’s deficient performance
+caused him prejudice because he pleaded guilty to a felony instead of
+a misdemeanor.
+Held:
+1. The Sixth Amendment right to effective assistance of counsel extends to the consideration of plea offers that lapse or are rejected.
+That right applies to “all ‘critical’ stages of the criminal proceedings.”
+Montejo v. Louisiana, 556 U. S. 778, 786. Hill v. Lockhart, 474 U. S.
+52, established that Strickland’s two-part test governs ineffective-
+
+
+2
+
+MISSOURI v. FRYE
+Syllabus
+assistance claims in the plea bargain context. There, the defendant
+had alleged that his counsel had given him inadequate advice about
+his plea, but he failed to show that he would have proceeded to trial
+had he received the proper advice. 474 U. S., at 60. In Padilla v.
+Kentucky, 559 U. S. ___, where a plea offer was set aside because
+counsel had misinformed the defendant of its immigration consequences, this Court made clear that “the negotiation of a plea bargain
+is a critical” stage for ineffective-assistance purposes, id., at ___, and
+rejected the argument made by the State in this case that a knowing
+and voluntary plea supersedes defense counsel’s errors. The State
+attempts to distinguish Hill and Padilla from the instant case. It
+notes that Hill and Padilla concerned whether there was ineffective
+assistance leading to acceptance of a plea offer, a process involving a
+formal court appearance with the defendant and all counsel present,
+while no formal court proceedings are involved when a plea offer has
+lapsed or been rejected; and it insists that there is no right to receive
+a plea offer in any event. Thus, the State contends, it is unfair to
+subject it to the consequences of defense counsel’s inadequacies when
+the opportunities for a full and fair trial, or for a later guilty plea albeit on less favorable terms, are preserved. While these contentions
+are neither illogical nor without some persuasive force, they do not
+suffice to overcome the simple reality that 97 percent of federal convictions and 94 percent of state convictions are the result of guilty
+pleas. Plea bargains have become so central to today’s criminal justice system that defense counsel must meet responsibilities in the
+plea bargain process to render the adequate assistance of counsel
+that the Sixth Amendment requires at critical stages of the criminal
+process. Pp. 3–8.
+2. As a general rule, defense counsel has the duty to communicate
+formal prosecution offers to accept a plea on terms and conditions
+that may be favorable to the accused. Any exceptions to this rule
+need not be addressed here, for the offer was a formal one with a
+fixed expiration date. Standards for prompt communication and consultation recommended by the American Bar Association and adopted by numerous state and federal courts, though not determinative,
+serve as important guides. The prosecution and trial courts may
+adopt measures to help ensure against late, frivolous, or fabricated
+claims. First, a formal offer’s terms and processing can be documented. Second, States may require that all offers be in writing. Third,
+formal offers can be made part of the record at any subsequent plea
+proceeding or before trial to ensure that a defendant has been fully
+advised before the later proceedings commence. Here, as the result of
+counsel’s deficient performance, the offers lapsed. Under Strickland,
+the question then becomes what, if any, prejudice resulted from the
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Syllabus
+breach of duty. Pp. 8–11.
+3. To show prejudice where a plea offer has lapsed or been rejected
+because of counsel’s deficient performance, defendants must demonstrate a reasonable probability both that they would have accepted
+the more favorable plea offer had they been afforded effective assistance of counsel and that the plea would have been entered without
+the prosecution’s canceling it or the trial court’s refusing to accept it,
+if they had the authority to exercise that discretion under state law.
+This application of Strickland to uncommunicated, lapsed pleas does
+not alter Hill’s standard, which requires a defendant complaining
+that ineffective assistance led him to accept a plea offer instead of going to trial to show “a reasonable probability that, but for counsel’s
+errors, he would not have pleaded guilty and would have insisted on
+going to trial.” 474 U. S., at 59. Hill correctly applies in the context
+in which it arose, but it does not provide the sole means for demonstrating prejudice arising from counsel’s deficient performance during plea negotiations. Because Frye argues that with effective assistance he would have accepted an earlier plea offer as opposed to
+entering an open plea, Strickland’s inquiry into whether “the result
+of the proceeding would have been different,” 466 U. S., at 694, requires looking not at whether the defendant would have proceeded to
+trial but at whether he would have accepted the earlier plea offer.
+He must also show that, if the prosecution had the discretion to cancel the plea agreement or the trial court had the discretion to refuse
+to accept it, there is a reasonable probability neither the prosecution
+nor the trial court would have prevented the offer from being accepted or implemented. This further showing is particularly important
+because a defendant has no right to be offered a plea, see Weatherford
+v. Bursey, 429 U. S. 545, 561, nor a federal right that the judge accept
+it, Santobello v. New York, 404 U. S. 257, 262. Missouri, among other
+States, appears to give the prosecution some discretion to cancel a
+plea agreement; and the Federal Rules of Criminal Procedure, some
+state rules, including Missouri’s, and this Court’s precedents give trial courts some leeway to accept or reject plea agreements. Pp. 11–13.
+4. Applying these standards here, the Missouri court correctly concluded that counsel’s failure to inform Frye of the written plea offer
+before it expired fell below an objective reasonableness standard, but
+it failed to require Frye to show that the plea offer would have been
+adhered to by the prosecution and accepted by the trial court. These
+matters should be addressed by the Missouri appellate court in the
+first instance. Given that Frye’s new offense for driving without a license occurred a week before his preliminary hearing, there is reason
+to doubt that the prosecution would have adhered to the agreement
+or that the trial court would have accepted it unless they were re-
+
+
+4
+
+MISSOURI v. FRYE
+Syllabus
+quired by state law to do so. Pp. 13–15.
+
+311 S. W. 3d 350, vacated and remanded.
+KENNEDY, J., delivered the opinion of the Court, in which GINSBURG,
+BREYER, SOTOMAYOR, and KAGAN, JJ., joined. SCALIA, J., filed a dissenting opinion, in which ROBERTS, C. J., and THOMAS and ALITO, JJ.,
+joined.
+
+

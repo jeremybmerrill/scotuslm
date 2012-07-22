@@ -1,0 +1,49 @@
+Cite as: 561 U. S. ____ (2010)
+
+21
+
+Opinion of the Court
+
+honor the federal court’s mandate.” Brief for Respondents
+42. We see no need to engage in such novel and complex
+rationalizations.
+AEDPA’s text commands a more
+straightforward rule: where, unlike in Burton, there is a
+“new judgment intervening between the two habeas peti
+tions,” 549 U. S., at 156, an application challenging the
+resulting new judgment is not “second or successive” at all.
+V
+The State objects that our reading of §2244(b) would
+allow a petitioner who obtains a conditional writ as to his
+sentence to file a subsequent application challenging not
+only his resulting, new sentence, but also his original,
+undisturbed conviction. The State believes this result
+follows because a sentence and conviction form a single
+“judgment” for purposes of habeas review. This case gives
+us no occasion to address that question, because Magwood
+has not attempted to challenge his underlying conviction.16
+We base our conclusion on the text, and that text is not
+altered by consequences the State speculates will follow in
+another case.17
+*
+*
+*
+For these reasons, we conclude that Magwood’s first
+application challenging his new sentence under the 1986
+judgment is not “second or successive” under §2244(b).
+——————
+16 Several
+
+Courts of Appeals have held that a petitioner who succeeds
+on a first habeas application and is resentenced may challenge only the
+“portion of a judgment that arose as a result of a previous successful
+action.” Lang v. United States, 474 F. 3d 348, 351 (CA6 2007) (citing
+decisions); see also Walker, 133 F. 3d, at 455; United States v. Esposito,
+135 F. 3d 111, 113–114 (CA2 1997).
+17 In any case, we cannot agree with the dissent that our reading of
+§2244(b) gives a windfall to “a defendant who succeeds on even the
+most minor and discrete issue.” Post, at 12. AEDPA permits relief
+“only on the ground that [the petitioner] is in custody in violation of the
+Constitution or laws or treaties of the United States.” §2254(a).
+
+

@@ -1,0 +1,50 @@
+2
+
+REED ELSEVIER, INC. v. MUCHNICK
+Syllabus
+jurisdictional if Congress “clearly states that [it] count[s] as jurisdic
+tional”; a condition “not rank[ed]” as such should be treated “as non
+jurisdictional in character.” Arbaugh v. Y & H Corp., 546 U. S. 500,
+515–516. In Arbaugh, the Court held that the employee-numerosity
+coverage requirement of Title VII of the Civil Rights Act of 1964 was
+not a jurisdictional requirement because the provision did not
+“clearly stat[e]” that the numerosity rule counted as jurisdictional,
+this Court’s prior Title VII cases did not compel the conclusion that
+the rule nonetheless was jurisdictional, and the requirement’s loca
+tion in a provision separate from Title VII’s jurisdiction-granting sec
+tion indicated that Congress had not ranked the rule as jurisdic
+tional. Pp. 5–7.
+(b) Like the Title VII numerosity requirement in Arbaugh, §411(a)
+does not “clearly stat[e]” that its registration requirement is “jurisdic
+tional.” 546 U. S., at 515. Although §411(a)’s last sentence contains
+the word “jurisdiction,” that sentence speaks to a court’s adjudicatory
+authority to determine a copyright claim’s registrability and says
+nothing about whether a federal court has subject-matter jurisdiction
+to adjudicate claims for infringement of unregistered works. More
+over, §411(a)’s registration requirement, like Title VII’s employee
+numerosity requirement, is located in a provision “separate” from
+those granting federal courts subject-matter jurisdiction over those
+respective claims, ibid., and no other factor suggests that §411(a)’s
+registration requirement can be read to “ ‘speak in jurisdictional
+terms or refer in any way to the jurisdiction of the district courts,’ ”
+ibid. This conclusion is not affected by the fact that the employee
+numerosity requirement in Arbaugh was considered an element of a
+Title VII claim rather than a prerequisite to initiating a lawsuit. See
+Zipes v. Trans World Airlines, Inc., 455 U. S. 385, 393. Pp. 7–11.
+(c) A contrary result is not required by Bowles v. Russell, 551 U. S.
+205. There, in finding that Congress had ranked as jurisdictional 28
+U. S. C. §2107’s requirement that parties in a civil action file a notice
+of appeal within 30 days of the judgment, this Court analyzed §2107’s
+specific language and the historical treatment accorded to that type
+of limitation. That analysis is consistent with the Arbaugh frame
+work because context is relevant to whether a statute “rank[s]” a re
+quirement as jurisdictional. Pp. 11–14.
+(d) The Court declines to apply judicial estoppel to affirm the Sec
+ond Circuit’s judgment vacating the settlement. While some of peti
+tioners’ arguments below are in tension with those made in this
+Court, accepting their arguments here does not create the type of “in
+consistent court determinations” in their favor that estoppel is meant
+to address. See New Hampshire v. Maine, 532 U. S. 742. Pp. 14–15.
+(e) Because §411(a) does not restrict a federal court’s subject
+
+

@@ -1,0 +1,45 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–1279
+_________________
+
+FEDERAL COMMUNICATIONS COMMISSION, ET AL.,
+PETITIONERS v. AT&T INC. ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE THIRD CIRCUIT
+[March 1, 2011]
+
+CHIEF JUSTICE ROBERTS delivered the opinion of the
+Court.
+The Freedom of Information Act requires federal agen
+cies to make records and documents publicly available
+upon request, unless they fall within one of several statu
+tory exemptions. One of those exemptions covers law
+enforcement records, the disclosure of which “could rea
+sonably be expected to constitute an unwarranted invasion
+of personal privacy.” 5 U. S. C. §552(b)(7)(C). The ques
+tion presented is whether corporations have “personal
+privacy” for the purposes of this exemption.
+I
+The Freedom of Information Act request at issue in this
+case relates to an investigation of respondent AT&T Inc.,
+conducted by the Federal Communications Commission.
+AT&T participated in an FCC-administered program—the
+E-Rate (or Education-Rate) program—that was created to
+enhance access for schools and libraries to advanced tele
+communications and information services. In August
+2004, AT&T voluntarily reported to the FCC that it might
+
+

@@ -1,0 +1,46 @@
+12
+
+UNITED STATES v. COMSTOCK
+THOMAS, J., dissenting
+
+Federal laws that criminalize conduct that interferes
+with enumerated powers, establish prisons for those who
+engage in that conduct, and set rules for the care and
+treatment of prisoners awaiting trial or serving a criminal
+sentence satisfy this test because each helps to “carr[y]
+into Execution” the enumerated powers that justify a
+criminal defendant’s arrest or conviction. For example,
+Congress’ enumerated power “[t]o establish Post Offices
+and post Roads,” Art. I, §8, cl. 7, would lack force or practi
+cal effect if Congress lacked the authority to enact crimi
+nal laws “to punish those who steal letters from the post
+office, or rob the mail.” McCulloch, supra, at 417. Simi
+larly, that enumerated power would be compromised if
+there were no prisons to hold persons who violate those
+laws, or if those prisons were so poorly managed that
+prisoners could escape or demand their release on the
+grounds that the conditions of their confinement violate
+their constitutional rights, at least as we have defined
+them. See, e.g., Estelle v. Gamble, 429 U. S. 97 (1976).
+——————
+enumerated power “ ‘to establish post offices and post roads.’ ” Ibid.
+(explaining that “the right to . . . punish those who rob [the mail] is not
+indispensably necessary to the establishment of a post office and post
+road,” but is “essential to the beneficial exercise of th[at] power”). More
+importantly, McCulloch’s holding, as well as the holdings of this Court’s
+subsequent decisions, make plain that congressional action is valid
+under the Necessary and Proper Clause only if it carries into execution
+one or more enumerated powers. Id., at 422 (upholding Congress’
+incorporation of a bank because it was a “means . . . to be employed
+only for the purpose of carrying into execution the given powers” (em
+phasis added)); see Sabri v. United States, 541 U. S. 600, 605 (2004)
+(“Congress has authority under the Spending Clause to appropriate
+federal moneys to promote the general welfare, and it has correspond
+ing authority under the Necessary and Proper Clause to see to it that
+taxpayer dollars appropriated under that power are in fact spent for the
+general welfare” (emphasis added; citations omitted)); Stewart v. Kahn,
+11 Wall. 493, 506–507 (1871) (“The power to pass [the Act in question]
+is necessarily implied from the powers to make war and suppress
+insurrections” (emphasis added) (referring to Art. I, §8, cls. 11 and 15)).
+
+

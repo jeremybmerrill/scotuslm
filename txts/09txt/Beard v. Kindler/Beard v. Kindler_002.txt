@@ -1,0 +1,44 @@
+2
+
+BEARD v. KINDLER
+Syllabus
+Circuit had held the state fugitive forfeiture rule automatically in
+adequate because the state courts had discretion in applying it, and
+the Commonwealth sought review of that holding. The Court
+granted that petition.
+
+Held: A state procedural rule is not automatically “inadequate” under
+the adequate state ground doctrine—and therefore unenforceable on
+federal habeas review—because the state rule is discretionary rather
+than mandatory. The question whether a state procedural ruling is
+adequate is itself a question of federal law. Lee v. Kemna, 534 U. S.
+362, 375. This Court has framed the adequacy inquiry by asking
+whether the state rule was “firmly established and regularly fol
+lowed.” Id., at 376. A discretionary state procedural rule can serve
+as an adequate ground to bar federal habeas review even if the ap
+propriate exercise of discretion may permit consideration of a federal
+claim in some cases but not others. A contrary holding would pose an
+unnecessary dilemma for the States: They could preserve flexibility
+by granting courts discretion to excuse procedural errors, but only at
+the cost of undermining the finality of state-court judgments. Or
+States could preserve the finality of their judgments by withholding
+such discretion, but only at the cost of precluding any flexibility in
+applying the rules. If forced to choose, many States would opt for
+mandatory rules to avoid the high costs of plenary federal review.
+That would be unfortunate in many cases, as discretionary rules are
+often desirable. The federal system, for example, often grants the
+trial judge broad discretion when his ringside perspective at the main
+event offers him a comparative advantage in decisionmaking. The
+States have followed suit. Given the federalism and comity concerns
+motivating the adequate state ground doctrine in the habeas context,
+see Coleman, supra, at 730, this Court should not disregard discre
+tionary state procedural rules that are in place in nearly every State
+and are substantially similar to those given full force in federal
+courts. Cf. Francis v. Henderson, 425 U. S. 536, 541–542. Pp. 7–9.
+542 F. 3d 70, vacated and remanded.
+ROBERTS, C. J., delivered the opinion of the Court, in which all other
+Members joined, except ALITO, J., who took no part in the consideration
+or decision of the case. KENNEDY, J., filed a concurring opinion, in
+which THOMAS, J., joined.
+
+

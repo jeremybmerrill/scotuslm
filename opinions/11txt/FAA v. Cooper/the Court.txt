@@ -1,0 +1,210 @@
+NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Wash­ ington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press. No. 10–1024 [March 28, 2012] JUSTICE ALITO delivered the opinion of the Court. The Privacy Act of 1974, codified in part at 5 U. S. C. §552a, contains a comprehensive and detailed set of re­ quirements for the management of confidential records held by Executive Branch agencies. If an agency fails to comply with those requirements “in such a way as to have an adverse effect on an individual,” the Act authorizes the individual to bring a civil action against the agency. §552a(g)(1)(D). For violations found to be “intentional or willful,” the United States is liable for “actual damages.” §552a(g)(4)(A). In this case, we must decide whether the term “actual damages,” as used in the Privacy Act, in­ cludes damages for mental or emotional distress. We hold that it does not. The Federal Aviation Administration (FAA) requires pilots to obtain a pilot certificate and medical certificate as a precondition for operating an aircraft. 14 CFR §§61.3(a), (c) (2011). Pilots must periodically renew their medical certificates to ensure compliance with FAA medical stand­
+ards. See §61.23(d). When applying for renewal, pilots must disclose any illnesses, disabilities, or surgeries they have had, and they must identify any medications they are taking. See 14 CFR pt. 67. Respondent Stanmore Cooper has been a private pilot since 1964. In 1985, he was diagnosed with a human immunodeficiency virus (HIV) infection and began taking antiretroviral medication. At that time, the FAA did not issue medical certificates to persons with respondent’s condition. Knowing that he would not qualify for renewal of his medical certificate, respondent initially grounded himself and chose not to apply. In 1994, however, he applied for and received a medical certificate, but he did so without disclosing his HIV status or his medication. He renewed his certificate in 1998, 2000, 2002, and 2004, each time intentionally withholding information about his condition. When respondent’s health deteriorated in 1995, he applied for long-term disability benefits under Title II of the Social Security Act, 42 U. S. C. §401 et seq. To sub­ stantiate his claim, he disclosed his HIV status to the Social Security Administration (SSA), which awarded him benefits for the year from August 1995 to August 1996. In 2002, the Department of Transportation (DOT), the FAA’s parent agency, launched a joint criminal investiga­ tion with the SSA, known as “Operation Safe Pilot,” to identify medically unfit individuals who had obtained FAA certifications to fly. The DOT gave the SSA a list of names and other identifying information of 45,000 licensed pilots in northern California. The SSA then compared the list with its own records of benefit recipients and compiled a spreadsheet, which it gave to the DOT. The spreadsheet revealed that respondent had a current medical certificate but had also received disability bene­ fits. After reviewing respondent’s FAA medical file and his SSA disability file, FAA flight surgeons determined in
+2005 that the FAA would not have issued a medical certificate to respondent had it known his true medical condition. When investigators confronted respondent with what had been discovered, he admitted that he had intentionally withheld from the FAA information about his HIV status and other relevant medical information. Because of these fraudulent omissions, the FAA revoked respondent’s pilot certificate, and he was indicted on three counts of making false statements to a Government agency, in violation of 18 U. S. C. §1001. Respondent ultimately pleaded guilty to one count of making and delivering a false official writing, in violation of §1018. He was sen­ tenced to two years of probation and fined $1,000.1 Claiming that the FAA, DOT, and SSA (hereinafter Government) violated the Privacy Act by sharing his records with one another, respondent filed suit in the United States District Court for the Northern District of California. He alleged that the unlawful disclosure to the DOT of his confidential medical information, including his HIV status, had caused him “humiliation, embarrassment, mental anguish, fear of social ostracism, and other severe emotional distress.” App. to Pet. for Cert. 120a. Notably, he did not allege any pecuniary or economic loss. The District Court granted summary judgment against respondent. 816 F. Supp. 2d 778, 781 (2008). The court concluded that the Government had violated the Privacy Act and that there was a triable issue of fact as to whether the violation was intentional or willful.2 But the court
+held that respondent could not recover damages because he alleged only mental and emotional harm, not economic loss. Finding that the term “actual damages” is “facially ambiguous,” id., at 791, and relying on the sovereign immunity canon, which provides that waivers of sovereign immunity must be strictly construed in favor of the Gov­ ernment, the court concluded that the Act does not author­ ize the recovery of damages from the Government for nonpecuniary mental or emotional harm. The United States Court of Appeals for the Ninth Cir­ cuit reversed and remanded. 622 F. 3d 1016, 1024 (2010). The court acknowledged that the term “actual damages” is a “ ‘chameleon’ ” in that “its meaning changes with the specific statute in which it is found.” Id., at 1029. But the court nevertheless held that, as used in the Privacy Act, the term includes damages for mental and emotional distress. Looking to what it described as “[i]ntrinsic” and “[e]xtrinsic” sources, id., at 1028, 1031, the court concluded that the meaning of “actual damages” in the Privacy Act is not ambiguous and that “a construction that limits recovery to pecuniary loss” is not “plausible,” id., at 1034. The Government petitioned for rehearing or rehearing en banc, but a divided court denied the petition. Id., at 1019. The Government then petitioned for certiorari, and we granted review. 564 U. S. ___ (2011). Because respondent seeks to recover monetary compen­ sation from the Government for mental and emotional harm, we must decide whether the civil remedies provi­
+sion of the Privacy Act waives the Government’s sovereign immunity with respect to such a recovery. We have said on many occasions that a waiver of sover­ eign immunity must be “unequivocally expressed” in U. S. 89, 95 (1990). Legislative history cannot supply a waiver that is not clearly evident from the language of the statute. Lane, supra, at 192. Any ambiguities in the so that the Government’s consent to be sued is never enlarged beyond what a fair reading of the text requires, 686 (1927)). Ambiguity exists if there is a plausible inter­ pretation of the statute that would not authorize money damages against the Government. Nordic Village, supra, at 34, 37. The question that confronts us here is not whether Congress has consented to be sued for damages under the Privacy Act. That much is clear from the statute, which expressly authorizes recovery from the Government for “actual damages.” Rather, the question at issue concerns the scope of that waiver. For the same reason that we refuse to enforce a waiver that is not unambiguously expressed in the statute, we also construe any ambiguities in the scope of a waiver in favor of the sovereign. Lane, supra, at 192. Although this canon of interpretation requires an un­ mistakable statutory expression of congressional intent to waive the Government’s immunity, Congress need not state its intent in any particular way. We have never
+required that Congress use magic words. To the contrary, we have observed that the sovereign immunity canon “is a tool for interpreting the law” and that it does not “dis­ plac[e] the other traditional tools of statutory construc­ 571, 589 (2008). What we thus require is that the scope of Congress’ waiver be clearly discernable from the statutory text in light of traditional interpretive tools. If it is not, then we take the interpretation most favorable to the Government. The civil remedies provision of the Privacy Act provides that, for any “intentional or willful” refusal or failure to comply with the Act, the United States shall be liable for “actual damages sustained by the individual as a result of the refusal or failure, but in no case shall a person entitled to recovery receive less than the sum of $1,000.” 5 U. S. C. §552a(g)(4)(A). Because Congress did not define “actual damages,” respondent urges us to rely on the ordinary meaning of the word “actual” as it is defined in standard general-purpose dictionaries. But as the Court of Appeals explained, “actual damages” is a legal term of art, 622 F. 3d, at 1028, and it is a “cardinal rule of statutory con­ struction” that, when Congress employs a term of art, “ ‘it presumably knows and adopts the cluster of ideas that were attached to each borrowed word in the body of learn­ 342 U. S. 246, 263 (1952)). Even as a legal term, however, the meaning of “actual damages” is far from clear. The latest edition of Black’s Law Dictionary available when Congress enacted the Privacy Act defined “actual damages” as “[r]eal, substan­ tial and just damages, or the amount awarded to a com­ plainant in compensation for his actual and real loss or
+injury, as opposed on the one hand to ‘nominal’ damages, and on the other to ‘exemplary’ or ‘punitive’ damages.” general (and notably circular) definition is of little value here because, as the Court of Appeals accurately observed, the precise meaning of the term “changes with the specific statute in which it is found.” 622 F. 3d, at 1029. The term is sometimes understood to include nonpecu­ niary harm. Take, for instance, some courts’ interpreta­ tions of the Fair Housing Act (FHA), 42 U. S. C. §3613(c), and the Fair Credit Reporting Act (FCRA), 15 U. S. C. §§1681n, 1681o. A number of courts have construed “ac­ tual” damages in the remedial provisions of both statutes to include compensation for mental and emotional dis­ 636–638 (CA7 1974) (authorizing compensatory damages under the FHA, 42 U. S. C. §3612, the predecessor to 380, 384 (CA10 1973) (stating that damages under the FHA “are not limited to out-of-pocket losses but may include an award for emotional distress and humiliation”); F. 2d 509, 513–514 (CA5 1982) (per curiam) (explaining that, “[e]ven when there are no out-of-pocket expenses, humiliation and mental distress do constitute recoverable O’Hanlon Reports, Inc., 528 F. 2d 829, 834–835 (CA8 1976) (approving an award of damages under the FCRA for “loss of sleep, nervousness, frustration and mental anguish”). In other contexts, however, the term has been used or construed more narrowly to authorize damages for only pecuniary harm. In the wrongful-death provision of the Federal Tort Claims Act (FTCA), for example, Congress authorized “actual or compensatory damages, measured by the pecuniary injuries resulting from such death.” 28 U. S. C. §2674, ¶2. At least one court has defined “actual
+damages” in the Copyright Act of 1909, 17 U. S. C. §101(b) (1970 ed.), as “the extent to which the market value of a copyrighted work has been injured or destroyed by an that “ ‘hurt feelings’ over the nature of the infringement” have no place in the actual damages calculus). And some courts have construed “actual damages” in the Securities Exchange Act of 1934, 15 U. S. C. §78bb(a), to mean “some 645 F. 2d 107, 111 (CA2 1981) (stating that the purpose of §78bb(a) “is to compensate civil plaintiffs for economic loss suffered as a result of wrongs committed in violation of the 1970) (noting that the “gist” of an action for damages under the Act is “economic injury”).3 Because the term “actual damages” has this chameleon­ like quality, we cannot rely on any all-purpose definition but must consider the particular context in which the term
+appears.4 The Privacy Act directs agencies to establish safeguards to protect individuals against the disclosure of confiden­ tial records “which could result in substantial harm, em­ barrassment, inconvenience, or unfairness to any individual on whom information is maintained.” 5 U. S. C. §552a(e)(10); see also §2(b), 88 Stat. 1896 (stating that the “purpose of this Act is to provide certain safeguards for an individual against an invasion of personal privacy”). Because the Act serves interests similar to those protected by defamation and privacy torts, there is good reason to infer that Congress relied upon those torts in drafting the Act. Privacy Act’s remedial provision authorizes plaintiffs to recover a guaranteed minimum award of $1,000 for viola­
+tions of the Act, but only if they prove at least some “actual damages.” Id., at 620, 627; see §552a(g)(4)(A). Although we did not address the meaning of “actual dam­ ages,” id., at 622, n. 5, 627, n. 12, we observed that the provision “parallels” the remedial scheme for the common­ law torts of libel per quod and slander, under which plain­ tiffs can recover “general damages,” but only if they prove “special harm” (also known as “special damages”), id., at 625; see also 3 Restatement of Torts §575, Comments a and b (1938) (hereinafter Restatement); D. Dobbs, Law of Remedies §7.2, pp. 511–513 (1973) (hereinafter Dobbs).5 “Special damages” are limited to actual pecuniary loss, which must be specially pleaded and proved. 1 D. Hag­ gard, Cooley on Torts §164, p. 580 (4th ed. 1932) (hereinaf­ ter Cooley).6 “General damages,” on the other hand, cover “loss of reputation, shame, mortification, injury to the feelings and the like and need not be alleged in detail and require no proof.” Id., §164, at 579.7
+This parallel between the Privacy Act and the common­ law torts of libel per quod and slander suggests the possi­ bility that Congress intended the term “actual damages” in the Act to mean special damages. The basic idea is that Privacy Act victims, like victims of libel per quod or slan­ der, are barred from any recovery unless they can first show actual—that is, pecuniary or material—harm. Upon showing some pecuniary harm, no matter how slight, they can recover the statutory minimum of $1,000, presumably for any unproven harm. That Congress would choose to use the term “actual damages” instead of “special damages” was not without precedent. The terms had occasionally Corp., 455 F. 2d 857, 862 (CA9 1972) (holding that plain­ tiff could not establish libel per quod because he “did not introduce any valid and sufficient evidence of actual dam­ Corp., 325 F. 2d 761, 765 (CA6 1963) (stating that “libel per quod standing alone without proof of actual damages . . . will not support a verdict for the plaintiff ”); M & S Md. 540, 544, 241 A. 2d 126, 128 (1968) (“In the case of words or conduct actionable only per quod, the injurious effect must be established by allegations and proof of special damage and in such cases it is not only necessary to plead and show that the words or actions were defama­ tory, but it must also appear that such words or conduct Co., 45 Minn. 303, 47 N. W. 781 (1891) (distinguishing “actual, or, as they are sometimes termed, ‘special,’ dam­ ages” from “general damages—that is, damages not pecu­
+niary in their nature”).8 Any doubt about the plausibility of construing “actual damages” in the Privacy Act synonymously with “special damages” is put to rest by Congress’ refusal to authorize “general damages.” In an uncodified section of the Act, Congress established the Privacy Protection Study Com­ mission to consider, among other things, “whether the Federal Government should be liable for general damages.” §5(c)(2)(B)(iii), 88 Stat. 1907, note following 5 U. S. C. §552a, p. 712. As we explained in Doe, “Congress left the question of general damages . . . for another day.” 540 U. S., at 622. Although the Commission later recommended that general damages be allowed, ibid., n. 4, Congress never amended the Act to include them. For that reason, we held that it was “beyond serious doubt” that general damages are not available for violations of the Privacy Act. Id., at 622. By authorizing recovery for “actual” but not for “gen­ eral” damages, Congress made clear that it viewed those terms as mutually exclusive. In actions for defamation and related dignitary torts, two categories of compensatory damages are recoverable: general damages and special damages. Cooley §164, at 579; see also 4 Restatement §867, Comment d (1939) (noting that damages for inter­ ference with privacy “can be awarded in the same way in which general damages are given for defamation”).9 Be­
+cause Congress declined to authorize “general damages,” we think it likely that Congress intended “actual dam­ ages” in the Privacy Act to mean special damages for proven pecuniary loss. Not surprisingly, this interpretation was accepted by the Privacy Protection Study Commission, an expert body authorized by Congress and highly sensitive to the Act’s goals. The Commission understood “actual damages” in the Act to be “a synonym for special damages as that term is used in defamation cases.” Personal Privacy in an Information Society: The Report of the Privacy Protection Study Commission 530 (July 1977); see also ibid. (“The legislative history and language of the Act suggest that Congress meant to restrict recovery to specific pecuniary losses until the Commission could weigh the propriety of extending the standard of recovery”). Although we are not bound in any way by the Commission’s report, we think it confirms the reasonableness of interpreting “actual dam­ ages” in the unique context of the Privacy Act as the equivalent of special damages.
+We do not claim that the contrary reading of the statute accepted by the Court of Appeals and advanced now by respondent is inconceivable. But because the Privacy Act waives the Federal Government’s sovereign immunity, the question we must answer is whether it is plausible to read the statute, as the Government does, to authorize only damages for economic loss. Nordic Village, 503 U. S., at 34, 37. When waiving the Government’s sovereign im­ munity, Congress must speak unequivocally. Lane, 518 U. S., at 192. Here, we conclude that it did not. As a consequence, we adopt an interpretation of “actual dam­ ages” limited to proven pecuniary or economic harm. To do otherwise would expand the scope of Congress’ sover­ eign immunity waiver beyond what the statutory text clearly requires. None of respondent’s contrary arguments suffices to overcome the sovereign immunity canon. Respondent notes that the term “actual damages” has often been defined broadly in common-law cases, and in our own, to include all compensatory damages. See Brief lidge, 93 U. S. 64 (1876), a patent infringement case, we observed that “[c]ompensatory damages and actual dam­ Welch, Inc., 418 U. S. 323 (1974), we wrote that actual injury in the defamation context “is not limited to out-of­ pocket loss” and that it customarily includes “impairment of reputation and standing in the community, personal humiliation, and mental anguish and suffering.” Id., at 350. These cases and others cited by respondent stand for the
+unremarkable point that the term “actual damages” can include nonpecuniary loss. But this generic meaning does not establish with the requisite clarity that the Privacy Act, with its distinctive features, authorizes damages for mental and emotional distress. As we already explained, the term “actual damages” takes on different meanings in different contexts. Respondent’s stronger argument is that the exclusion of “general damages” from the statute simply means that there can be no recovery for presumed damages. Privacy Act victims can still recover for mental and emotional distress, says respondent, so long as it is proved. See Brief for Respondent 54–56.10 This argument is flawed because it suggests that proven mental and emotional distress does not count as general damages. The term “general damages” is not limited to compensation for unproven injuries; it includes compensa­ tion for proven injuries as well. See 3 Restatement §621, Comment a (noting that general damages compensate for “harm which . . . is proved, or, in the absence of proof, is assumed to have caused to [the plaintiff’s] reputation”). To be sure, specific proof of emotional harm is not required to recover general damages for dignitary torts. Dobbs §7.3, at 529. But it does not follow that general damages cannot be recovered for emotional harm that is actually proved. Aside from the fact that general damages need not be proved, what distinguishes those damages, whether proved or not, from the only other category of compensatory damages available in the relevant common-law suits is the type of harm. In defamation and privacy cases, “the affront to the plaintiff’s dignity and the emotional harm
+done” are “called general damages, to distinguish them from proof of actual economic harm,” which is called “spe­ cial damages.” Id., §3.2, at 139; see also supra, at 10, 12– 13, and nn. 6, 7, 9. Therefore, the converse of general damages is special damages, not all proven damages, as respondent would have it. Because Congress removed “general damages” from the Act’s remedial provision, it is reasonable to infer that Congress foreclosed recovery for nonpecuniary harm, even if such harm can be proved, and instead waived the Government’s sovereign immunity only with respect to harm compensable as special damages. Looking beyond the Privacy Act’s text, respondent points to the use of the term “actual” damages in the remedial provisions of the FHA, 42 U. S. C. §3613(c), and the FCRA, 15 U. S. C. §§1681n, 1681o. As previously mentioned, courts have held that “actual” damages within the meaning of these statutes include compensation for mental and emotional distress. Supra, at 7. Citing the rule of construction that Congress intends the same lan­ guage in similar statutes to have the same meaning, see U. S. 427, 428 (1973) (per curiam), respondent argues that the Privacy Act should also be interpreted as authorizing damages for mental and emotional distress. See Brief for Respondent 25–32. Assuming for the sake of argument that these lower court decisions are correct, they provide only weak support for respondent’s argument here. Since the term “actual damages” can mean different things in different contexts, statutes other than the Privacy Act provide only limited interpretive aid, and that is especially true here. Neither the FHA nor the FCRA contains text that precisely mir­
+rors the Privacy Act.11 In neither of those statutes did Congress specifically decline to authorize recovery for general damages as it did in the Privacy Act. Supra, at 12–13. And most importantly, none of the lower court cases interpreting the statutes, which respondent has cited, see Brief for Respondent 29–31, involves the sover­ eign immunity canon. Respondent also points to the FTCA, but the FTCA’s general liability provision does not even use the term “actual damages.” It instead provides that the “United States shall be liable” for certain tort claims “in the same manner and to the same extent as a private individual” under relevant state law. 28 U. S. C. §2674, ¶1. For that reason alone, the FTCA’s general liability provision is not a reliable source for interpreting the term “actual damages” in the Privacy Act. Nor does the FTCA’s wrongful­ death provision—which authorizes “actual or compensatory damages, measured by the pecuniary injuries resulting from such death,” §2674, ¶2—prove that Congress under­ stood the term “actual damages” in the Privacy Act to include nonpecuniary mental and emotional harm. To the contrary, it proves that actual damages can be understood to entail only pecuniary harm depending on the context. Because the FTCA, like the FHA and FCRA, does not share the same text or design as the Privacy Act, it is not a fitting analog for construing the Act.
+Finally, respondent argues that excluding damages for mental and emotional harm would lead to absurd results. Persons suffering relatively minor pecuniary loss would be entitled to recover $1,000, while others suffering only severe and debilitating mental or emotional distress would get nothing. See Brief for Respondent 33–35. Contrary to respondent’s suggestion, however, there is nothing absurd about a scheme that limits the Govern­ ment’s Privacy Act liability to harm that can be substanti­ ated by proof of tangible economic loss. Respondent in­ sists that such a scheme would frustrate the Privacy Act’s remedial purpose, but that ignores the fact that, by delib­ erately refusing to authorize general damages, Congress intended to cabin relief, not to maximize it.12
+* * * In sum, applying traditional rules of construction, we hold that the Privacy Act does not unequivocally authorize an award of damages for mental or emotional distress. Accordingly, the Act does not waive the Federal Govern­ ment’s sovereign immunity from liability for such harms. We therefore reverse the judgment of the United States Court of Appeals for the Ninth Circuit and remand the case for further proceedings consistent with this opinion. It is so ordered. JUSTICE KAGAN took no part in the consideration or decision of this case.
+——————
+1 Respondent eventually applied for recertification as a pilot. After
+reviewing respondent’s medical records, including information about
+his HIV diagnosis and treatment, the FAA reissued his pilot certificate
+and medical certificate. Brief for Respondent 5, n. 1.
+2 With certain exceptions, it is unlawful for an agency to disclose a
+record to another agency without the written consent of the person to
+whom the record pertains. 5 U. S. C. §552a(b). One exception to this
+
+
+——————
+nondisclosure requirement applies when the head of an agency makes a
+written request for law enforcement purposes to the agency that
+maintains the record. See §552a(b)(7). The agencies in this case could
+easily have shared respondent’s medical records pursuant to the
+procedures prescribed by the Privacy Act, but the District Court con­
+cluded that they failed to do so.
+
+
+——————
+3 This narrow usage is reflected in contemporaneous state-court deci­
+sions as well. See, e.g., Reist v. Manwiller, 231 Pa. Super. 444, 449,
+n. 4, 332 A. 2d 518, 520, n. 4 (1974) (explaining that recovery for
+intentional infliction of emotional distress is allowed “despite the total
+absence of physical injury and actual damages”); Nalder v. Crest Corp.,
+93 Idaho 744, 749, 472 P. 2d 310, 315 (1970) (noting that damages for
+“mental anguish” due to the wrongful execution of a judgment “are
+allowable only as an element of punitive but not of actual damages”). It
+is also reflected in post-Privacy Act statutes and judicial decisions. See,
+e.g., 17 U. S. C. §1009(d)(1)(A)(ii) (defining “actual damages” in the
+Audio Home Recording Act of 1992 as “the royalty payments that
+should have been paid”); 18 U. S. C. §2318(e)(3) (2006 ed., Supp. IV)
+(calculating “actual damages” for purposes of a counterfeit labeling
+statute in terms of financial loss); Guzman v. Western State Bank of
+Devils Lake, 540 F. 2d 948, 953 (CA8 1976) (stating that compensatory
+damages in a civil rights suit “can be awarded for emotional and mental
+distress even though no actual damages are proven”).
+
+
+——————
+4 The
+
+dissent criticizes us for noting that the dictionary definition
+contains an element of circularity. The dissent says that the defini­
+tion—“ ‘[a]ctual damages’ compensate for actual injury”—is “plain
+enough.” Post, at 3 (opinion of SOTOMAYOR, J.). But defining “actual”
+damages by reference to “actual” injury is hardly helpful when our task
+is to determine what Congress meant by “actual.” The dissent’s refer­
+ence to the current version of Black’s Law Dictionary, which provides
+that “actual damages” can mean “tangible damages,” only highlights
+the term’s ambiguity. See Black’s Law Dictionary 445 (9th ed. 2009).
+If “actual damages” can mean “tangible damages,” then it can be
+construed not to include intangible harm, like mental and emotional
+distress. Similarly unhelpful is the dissent’s citation to a general­
+purpose dictionary that defines “actual” as “existing in fact or reality”
+and “damages” as “compensation or satisfaction imposed by law for a
+wrong or injury.” Webster’s Third New International Dictionary 22,
+571 (2002) (emphasis added). Combining these two lay definitions says
+nothing about whether compensation for mental and emotional distress
+is in fact imposed by law. The definitions merely beg the question we
+are trying to answer. It comes as little surprise, therefore, that “actual
+damages” has taken on different meanings in different statutes, as our
+examples amply illustrate.
+
+
+——————
+5 Libel
+
+per quod and slander (as opposed to libel and slander per se)
+apply to a communication that is not defamatory on its face but that is
+defamatory when coupled with some other extrinsic fact. Dobbs §7.2, at
+512–513.
+6 See also 3 Restatement §575, Comment b (“Special harm . . . is harm
+of a material and generally of a pecuniary nature”); Dobbs §7.2, at 520
+(“Special damages in defamation cases mean pecuniary damages, or at
+least ‘material loss’ ” (footnote omitted)). Special damages do not
+include mental or emotional distress. See 3 Restatement §575, Com­
+ment c (“The emotional distress caused to the person slandered by his
+knowledge that he has been defamed is not special harm and this is so
+although the distress results in a serious illness”); Dobbs §7.2, at 520
+(“Even under the more modern approach, special damages in defama­
+tion cases must be economic in nature, and it is not enough that the
+plaintiff has suffered harm to reputation, mental anguish or other
+dignitary harm, unless he has also suffered the loss of something
+having economic value”).
+7 See also id., §3.2, at 139 (explaining that noneconomic harms “are
+called general damages”); W. Prosser, Law of Torts §112, p. 761 (4th ed.
+1971) (noting that “ ‘general’ damages may be recovered for the injury
+to the plaintiff’s reputation, his wounded feelings and humiliation, and
+
+
+——————
+resulting physical illness and pain, as well as estimated future dam­
+ages of the same kind” (footnotes omitted)); 3 Restatement §621, Com­
+ment a (stating that, in actions for defamation, a plaintiff may recover
+general damages for “impairment of his reputation or, through loss of
+reputation, to his other interests”).
+
+
+——————
+8 The
+
+dissent disregards these precedents as the product of careless
+imprecision. Post, at 8, n. 6. But just as we assume that Congress did
+not act carelessly, we should not be so quick to assume that the courts
+did. The better explanation for these precedents is not that the courts
+were careless, but that the term “actual damages” has a varied mean­
+ing that, depending on the context, can be limited to compensation for
+only pecuniary harm.
+9 See also Moriarty v. Lippe, 162 Conn. 371, 382–383, 294 A. 2d 326,
+332–333 (1972) (“Having admittedly alleged or proven no special
+damages, the plaintiff here is limited to a recovery of general damages
+. . .”); Meyerle v. Pioneer Publishing Co., 45 N. D. 568, 574, 178 N. W.
+
+
+——————
+792, 794 (1920) (per curiam) (“Generally speaking, there are recognized
+two classes of damages in libel cases, general damages and special
+damages”); Winans v. Chapman, 104 Kan. 664, 666, 180 P. 266, 267
+(1919) (“Actual damages include both general and special damages”);
+Childers v. San Jose Mercury Printing & Publishing Co., 105 Cal. 284,
+288–289, 38 P. 903, 904 (1894) (explaining that special damages, “as
+a branch of actual damages[,] may be recovered when actual pecuniary
+loss has been sustained” and that the “remaining branch of actual
+damages embraces recovery for loss of reputation, shame, mortification,
+injury to feelings, etc.”); see generally Dobbs §7.3, at 531 (“Though the
+dignitary torts often involve only general damages . . . , they sometimes
+produce actual pecuniary loss. When this happens, the plaintiff is
+usually entitled to recover any special damage he can prove . . . ”); 1
+F. Harper & F. James, Law of Torts §5.30, p. 470 (1956) (“When liability
+for defamation is established, the defendant, in addition to such ‘gen­
+eral’ damages as may be assessed by the jury, is also liable for any
+special damage which he has sustained”).
+
+
+——————
+10 The
+
+dissent advances the same argument. See post, at 9–11.
+
+
+——————
+11 Compare
+
+42 U. S. C. §3613(c)(1) (stating that “the court may award
+to the plaintiff actual and punitive damages”); 15 U. S. C. §1681n(a)(1)
+(authorizing “(A) any actual damages sustained by the consumer as a
+result of the failure or damages of not less than $100 and not more than
+$1,000; or (B) . . . actual damages sustained by the consumer as a result
+of the failure or $1,000, whichever is greater”); §1681o(a)(1) (authoriz­
+ing “any actual damages sustained by the consumer as a result of the
+failure”) with 5 U. S. C. §552a(g)(4)(A) (authorizing “actual damages
+sustained by the individual as a result of the refusal or failure, but in
+no case shall a person entitled to recovery receive less than the sum of
+$1,000”).
+
+
+——————
+12 Despite its rhetoric, the dissent does not dispute most of the steps
+in our analysis. For example, although the dissent belittles the sover­
+eign immunity canon, the dissent does not call for its abandonment.
+See post, at 2–3. Nor does the dissent point out any error in our under­
+standing of the canon’s meaning. See ibid. The dissent acknowledges
+that statutes and judicial opinions sometimes use the term “actual
+damages” to mean pecuniary harm, see post, at 5, and that determining
+its meaning in a particular statute requires consideration of context,
+see ibid. In addition, the dissent concedes—as it must in light of our
+reasoning in Doe v. Chao, 540 U. S. 614 (2004)—that the common law
+of defamation has relevance in construing the term “actual damages” in
+the Privacy Act. See post, at 7–9.
+The dissent’s argument thus boils down to this: The text and purpose
+of the Privacy Act make it clear beyond any reasonable dispute that the
+term “actual damages,” as used in the Act, means compensatory dam­
+ages for all proven harm and not just damages for pecuniary harm.
+The dissent reasons that, because the Act seeks to prevent pecuniary
+and nonpecuniary harm, Congress must have intended to authorize the
+recovery of money damages from the Federal Government for both
+types of harm. This inference is plausible, but it surely is not unavoid­
+able. The Act deters violations of its substantive provisions in other
+ways—for instance, by permitting recovery for economic injury; by
+imposing criminal sanctions for some violations, see 5 U. S. C. §552a(i);
+and possibly by allowing for injunctive relief under the Administrative
+
+
+——————
+Procedure Act (APA), 5 U. S. C. §§702, 706; see Doe, supra, at 619, n. 1
+(noting that the absence of equitable relief in suits under
+§§552a(g)(1)(C) or (D) may be explained by the availability of such relief
+under the APA).
+
+

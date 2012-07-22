@@ -1,0 +1,44 @@
+4
+
+WOOD v. MILYARD
+Opinion of the Court
+
+held the petition time barred. 403 Fed. Appx. 335 (2010).
+In so ruling, the Court of Appeals concluded it had authority to raise timeliness on its own motion. Id., at 337, n. 2.
+It further ruled that the State had not taken that issue off
+the table by declining to interpose a statute of limitations
+defense in the District Court. Ibid.
+We granted review, 564 U. S. ___ (2011), to resolve two
+issues: first, whether a court of appeals has the authority to address the timeliness of a habeas petition on the
+court’s own initiative;2 second, assuming a court of appeals
+has such authority, whether the State’s representations to
+the District Court in this case nonetheless precluded the
+Tenth Circuit from considering the timeliness of Wood’s
+petition.
+II
+
+A
+
+Under the Antiterrorism and Effective Death Penalty
+Act of 1996 (AEDPA), 110 Stat. 1214, a state prisoner has
+one year to file a federal petition for habeas corpus relief,
+starting from “the date on which the judgment became
+final by the conclusion of direct review or the expiration
+of the time for seeking such review.”
+28 U. S. C.
+§2244(d)(1)(A). For a prisoner whose judgment became
+final before AEDPA was enacted, the one-year limitations
+period runs from the AEDPA’s effective date: April 24,
+1996. See Serrano v. Williams, 383 F. 3d 1181, 1183
+(CA10 2004). “The one-year clock is stopped, however,
+during the time the petitioner’s ‘properly filed’ application
+for state postconviction relief ‘is pending.’ ” Day, 547 U. S.,
+——————
+2 The Tenth Circuit’s conclusion that it had authority to raise an
+AEDPA statute of limitations defense sua sponte conflicts with the view
+of the Eighth Circuit. Compare 403 Fed. Appx. 335, 337, n. 2 (CA10
+2010) (case below), with Sasser v. Norris, 553 F. 3d 1121, 1128 (CA8
+2009) (“The discretion to consider the statute of limitations defense
+sua sponte does not extend to the appellate level.”).
+
+

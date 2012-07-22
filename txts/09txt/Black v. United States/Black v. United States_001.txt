@@ -1,0 +1,53 @@
+OCTOBER TERM, 2009
+
+(Slip Opinion)
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+BLACK ET AL. v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SEVENTH CIRCUIT
+No. 08–876.
+
+Argued December 8, 2009—Decided June 24, 2010
+
+Petitioners (hereinafter Defendants)—executives of Hollinger Interna
+tional, Inc. (Hollinger), a publicly held U. S. company—were indicted
+for mail fraud, 18 U. S. C. §§1341, 1346, and other federal crimes. At
+trial, the Government pursued alternative mail-fraud theories, charg
+ing that (1) Defendants stole millions from Hollinger by fraudulently
+paying themselves bogus “noncompetition fees”; and (2) by failing to
+disclose those fees, Defendants deprived Hollinger of their honest
+services. Before jury deliberations began, the Government proposed
+special-verdict forms that would reveal, in the event that the jury
+voted to convict on a mail-fraud count, the particular theory or theo
+ries accounting for the verdict. Defendants resisted, preferring an
+unelaborated general verdict. The Government ultimately acqui
+esced. The District Court instructed the jury on each of the alterna
+tive theories. As to honest-services fraud, the court informed the
+jury, over Defendants’ timely objection, that a person commits that
+offense if he misuses his position for private gain for himself and/or a
+co-schemer and knowingly and intentionally breaches his duty of loy
+alty. The jury returned general verdicts of “guilty” on the mail-fraud
+counts, found that one Defendant was also guilty of obstruction of
+justice, and acquitted Defendants on all other charges.
+On appeal, Defendants urged the invalidity of the honest-services
+fraud jury instructions. Seeking reversal of their mail-fraud convic
+tions, Defendants relied on Yates v. United States, 354 U. S. 298, 312,
+which held that a general verdict may be set aside “where the verdict
+is supportable on one ground, but not on another, and it is impossible
+to tell which ground the jury selected.” The Seventh Circuit found no
+infirmity in the honest-services instructions, but further determined
+that even if those instructions were wrong, Defendants could not pre
+
+

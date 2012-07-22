@@ -1,0 +1,44 @@
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+BREYER, J., dissenting
+
+is made up of judges who enjoy considerable protection
+from improper political influence. Unlike the 1978 Act
+which provided for the appointment of bankruptcy judges
+by the President with the advice and consent of the
+Senate, 28 U. S. C. §152 (1976 ed., Supp. IV), current
+law provides that the federal courts of appeals appoint fed­
+eral bankruptcy judges, §152(a)(1) (2006 ed.). Bankruptcy
+judges are removable by the circuit judicial counsel (made
+up of federal court of appeals and district court judges)
+and only for cause. §152(e). Their salaries are pegged to
+those of federal district court judges, §153(a), and the cost
+of their courthouses and other work-related expenses are
+paid by the Judiciary, §156. Thus, although Congress
+technically exercised its Article I power when it created
+bankruptcy courts, functionally, bankruptcy judges can be
+compared to magistrate judges, law clerks, and the Judi­
+ciary’s administrative officials, whose lack of Article III
+tenure and compensation protections do not endanger the
+independence of the Judicial Branch.
+Third, the control exercised by Article III judges over
+bankruptcy proceedings argues in favor of constitutional­
+ity. Article III judges control and supervise the bank­
+ruptcy court’s determinations—at least to the same degree
+that Article III judges supervised the agency’s determina­
+tions in Crowell, if not more so. Any party may appeal
+those determinations to the federal district court, where
+the federal judge will review all determinations of fact for
+clear error and will review all determinations of law de
+novo. Fed. Rule Bkrtcy. Proc. 8013; 10 Collier on Bank­
+ruptcy ¶8013.04 (16th ed. 2011). But for the here­
+irrelevant matter of what Crowell considered to be special
+“constitutional” facts, the standard of review for factual
+findings here (“clearly erroneous”) is more stringent than
+the standard at issue in Crowell (whether the agency’s
+factfinding was “supported by evidence in the record”).
+285 U. S., at 48; see Dickinson v. Zurko, 527 U. S. 150,
+
+

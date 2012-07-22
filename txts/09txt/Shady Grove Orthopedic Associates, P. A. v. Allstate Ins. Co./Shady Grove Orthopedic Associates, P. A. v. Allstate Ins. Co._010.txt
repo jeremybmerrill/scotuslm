@@ -1,0 +1,47 @@
+Cite as: 559 U. S. ____ (2010)
+
+7
+
+Opinion of SCALIA, J.
+the Court
+
+“prescrib[ing] the considerations relevant to class certifica­
+tion and postcertification proceedings,” §901(b) addresses
+only “the size of a monetary award a class plaintiff may
+pursue.” Post, at 11–12. Accordingly, the dissent says,
+Rule 23 and New York’s law may coexist in peace.
+We need not decide whether a state law that limits the
+remedies available in an existing class action would con­
+flict with Rule 23; that is not what §901(b) does. By its
+terms, the provision precludes a plaintiff from “main­
+tain[ing]” a class action seeking statutory penalties.
+Unlike a law that sets a ceiling on damages (or puts other
+remedies out of reach) in properly filed class actions,
+§901(b) says nothing about what remedies a court may
+award; it prevents the class actions it covers from coming
+into existence at all.4 Consequently, a court bound by
+§901(b) could not certify a class action seeking both statu­
+tory penalties and other remedies even if it announces in
+advance that it will refuse to award the penalties in the
+event the plaintiffs prevail; to do so would violate the
+statute’s clear prohibition on “maintain[ing]” such suits as
+class actions.
+The dissent asserts that a plaintiff can avoid §901(b)’s
+barrier by omitting from his complaint (or removing) a
+request for statutory penalties. See post, at 14–15. Even
+assuming all statutory penalties are waivable,5 the fact
+——————
+4 Contrary to the dissent’s implication, post, at 13, we express no view
+as to whether state laws that set a ceiling on damages recoverable in a
+single suit, see App. A to Brief for Respondent, are pre-empted.
+Whether or not those laws conflict with Rule 23, §901(b) does conflict
+because it addresses not the remedy, but the procedural right to main­
+tain a class action. As Allstate and the dissent note, several federal
+statutes also limit the recovery available in class actions. See, e.g., 12
+U. S. C. §2605(f)(2)(B); 15 U. S. C. §1640(a)(2)(B); 29 U. S. C.
+§1854(c)(1). But Congress has plenary power to override the Federal
+Rules, so its enactments, unlike those of the States, prevail even in case
+of a conflict.
+5 But see, e.g., Asher v. Abbott Labs., 290 App. Div. 2d 208, 737
+
+

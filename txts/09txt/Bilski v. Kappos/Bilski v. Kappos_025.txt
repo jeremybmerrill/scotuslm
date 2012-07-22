@@ -1,0 +1,44 @@
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+STEVENS, J., concurring in judgment
+
+eligible subject matter”; and (5) whether the court’s deci
+sions in State Street Bank & Trust Co. v. Signature Finan
+cial Group, Inc., 149 F. 3d 1368 (1998) (State Street), and
+AT&T Corp. v. Excel Communications, Inc., 172 F. 3d
+1352 (1999), should be overruled in any respect. App. to
+Pet. for Cert. 144a–145a.
+The en banc Court of Appeals affirmed the Board’s
+decision. Eleven of the twelve judges agreed that petition
+ers’ claims do not describe a patentable “process,” §101.
+Chief Judge Michel’s opinion, joined by eight other judges,
+rejected several possible tests for what is a patent-eligible
+process, including whether the patent produces a “ ‘useful,
+concrete and tangible result,’ ” whether the process relates
+to “technological arts,” and “categorical exclusions” for
+certain processes such as business methods. In re Bilski,
+545 F. 3d 943, 959–960 (2008). Relying on several of our
+cases in which we explained how to differentiate a claim
+on a “fundamental principle” from a claim on a “process,”
+the court concluded that a “claimed process is surely pat
+ent-eligible under §101 if: (1) it is tied to a particular
+machine or apparatus, or (2) it transforms a particular
+article into a different state or thing.” Id., at 954–955.
+The court further concluded that this “machine-or
+transformation test” is “the sole test governing §101
+analyses,” id., at 955 (emphasis added), and therefore the
+“test for determining patent eligibility of a process under
+§101,” id., at 956. Applying that test, the court held that
+petitioners’ claim is not a patent-eligible process. Id., at
+963–966.
+In a separate opinion reaching the same conclusion,
+Judge Dyk carefully reviewed the history of American
+patent law and English precedents upon which our law is
+based, and found that “the unpatentability of processes
+not involving manufactures, machines, or compositions of
+matter has been firmly embedded . . . since the time of the
+Patent Act of 1793.” Id., at 966. Judge Dyk observed,
+
+

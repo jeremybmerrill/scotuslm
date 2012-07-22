@@ -1,0 +1,51 @@
+Cite as: 558 U. S. ____ (2009)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–678
+_________________
+
+MOHAWK INDUSTRIES, INC., PETITIONER v.
+
+NORMAN CARPENTER 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+[December 8, 2009] 
+
+
+JUSTICE SOTOMAYOR delivered the opinion of the Court.
+Section 1291 of the Judicial Code confers on federal
+courts of appeals jurisdiction to review “final decisions of
+the district courts.” 28 U. S. C. §1291. Although “final
+decisions” typically are ones that trigger the entry of
+judgment, they also include a small set of prejudgment
+orders that are “collateral to” the merits of an action and
+“too important” to be denied immediate review. Cohen v.
+Beneficial Industrial Loan Corp., 337 U. S. 541, 546
+(1949). In this case, petitioner Mohawk Industries, Inc.,
+attempted to bring a collateral order appeal after the
+District Court ordered it to disclose certain confidential
+materials on the ground that Mohawk had waived the
+attorney-client privilege. The Court of Appeals dismissed
+the appeal for want of jurisdiction.
+The question before us is whether disclosure orders
+adverse to the attorney-client privilege qualify for imme
+diate appeal under the collateral order doctrine. Agreeing
+with the Court of Appeals, we hold that they do not.
+Postjudgment appeals, together with other review mecha
+nisms, suffice to protect the rights of litigants and pre
+
+

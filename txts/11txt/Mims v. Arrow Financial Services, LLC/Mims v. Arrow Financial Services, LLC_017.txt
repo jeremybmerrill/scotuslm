@@ -1,0 +1,39 @@
+14
+
+MIMS v. ARROW FINANCIAL SERVICES, LLC
+Opinion of the Court
+
+by 28 U. S. C. §1331 should hold firm against “mere implication flowing from subsequent legislation.” Colorado
+River Water Conservation Dist. v. United States, 424 U. S.
+800, 808, 809, n. 15 (1976) (quoting Rosencrans v. United
+States, 165 U. S. 257, 262 (1897)).
+We are not persuaded, moreover, that Congress sought
+only to fill a gap in the States’ enforcement capabilities.
+Had Congress so limited its sights, it could have passed
+a statute providing that out-of-state telemarketing calls
+directed into a State would be subject to the laws of the
+receiving State. Congress did not enact such a law. Instead, it enacted detailed, uniform, federal substantive
+prescriptions and provided for a regulatory regime administered by a federal agency. See 47 U. S. C. §227. TCPA
+liability thus depends on violation of a federal statutory
+requirement or an FCC regulation, §§227(b)(3)(A), (c)(5),
+not on a violation of any state substantive law.
+The federal interest in regulating telemarketing to
+“protec[t] the privacy of individuals” while “permit[ting]
+legitimate [commercial] practices,” 105 Stat. 2394, note
+following 47 U. S. C. §227 (Congressional Findings) (internal quotation marks omitted), is evident from the regulatory role Congress assigned to the FCC. See, e.g.,
+§227(b)(2) (delegating to the FCC authority to exempt calls
+from the Act’s reach and prohibit calls to businesses).
+Congress’ design would be less well served if consumers
+had to rely on “the laws or rules of court of a State,”
+§227(b)(3), or the accident of diversity jurisdiction,13 to
+——————
+13 Although
+
+all courts of appeals to have considered the question have
+held that the TCPA does not bar district courts from exercising diversity jurisdiction under 28 U. S. C. §1332, see, e.g., Gottlieb v. Carnival
+Corp., 436 F. 3d 335 (CA2 2006), at oral argument, Arrow’s counsel
+maintained that diversity jurisdiction “should go, too,” Tr. of Oral Arg.
+39. Were we to accept Arrow’s positions that diversity and federalquestion jurisdiction are unavailable, and that state courts may refuse
+to hear TCPA claims, residents of States that choose not to hear TCPA
+
+

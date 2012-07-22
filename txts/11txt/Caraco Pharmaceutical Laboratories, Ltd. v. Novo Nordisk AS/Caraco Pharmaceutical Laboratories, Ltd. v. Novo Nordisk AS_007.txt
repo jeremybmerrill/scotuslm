@@ -1,0 +1,43 @@
+2
+
+CARACO PHARMACEUTICAL LABORATORIES, LTD. v.
+NOVO NORDISK A/S 
+
+Opinion of the Court 
+
+
+ground that the patent does not claim . . . an approved
+method of using the drug.” 117 Stat. 2452, 21 U. S. C.
+§355(j)(5)(C)(ii)(I). We hold that a generic manufacturer
+may employ this provision to force correction of a use code
+that inaccurately describes the brand’s patent as covering
+a particular method of using the drug in question.
+I
+
+A
+
+The FDA regulates the manufacture, sale, and labeling
+of prescription drugs under a complex statutory scheme.
+To begin at the beginning: When a brand manufacturer
+wishes to market a novel drug, it must submit a new drug
+application (NDA) to the FDA for approval. The NDA
+must include, among other things, a statement of the
+drug’s components, scientific data showing that the drug
+is safe and effective, and proposed labeling describing
+the uses for which the drug may be marketed. See
+§§355(b)(1), (d). The FDA may approve a brand-name
+drug for multiple methods of use—either to treat different
+conditions or to treat the same condition in different ways.
+Once the FDA has approved a brand manufacturer’s
+drug, another company may seek permission to market
+a generic version pursuant to legislation known as the
+Hatch-Waxman Amendments. See Drug Price Competition and Patent Term Restoration Act of 1984, 98 Stat.
+1585. Those amendments allow a generic competitor to
+file an abbreviated new drug application (ANDA) piggybacking on the brand’s NDA. Rather than providing
+independent evidence of safety and efficacy, the typical
+ANDA shows that the generic drug has the same active
+ingredients as, and is biologically equivalent to, the brandname drug. See §§355(j)(2)(A)(ii), (iv). As we have previously recognized, this process is designed to speed the
+introduction of low-cost generic drugs to market. See Eli
+Lilly & Co. v. Medtronic, Inc., 496 U. S. 661, 676 (1990).
+
+

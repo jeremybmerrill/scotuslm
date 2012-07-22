@@ -1,0 +1,43 @@
+Cite as: 564 U. S. ____ (2011)
+
+23
+
+BREYER, J., dissenting
+
+claratory judgment and injunction prohibiting the en
+forcement of this statute. See 28 U. S. C. §2201; App. 49–
+128. And they have neither shown nor claimed that they
+could obtain significant amounts of “prescriber-identifiable
+information” if the first two prohibitions are valid. If, as
+I believe, the first two statutory prohibitions (related to
+selling and disclosing the information) are valid, then
+the dispute about the validity of the third provision is
+not “ ‘real and substantial’ ” or “ ‘definite and concrete.’ ”
+MedImmune, Inc. v. Genentech, Inc., 549 U. S. 118, 127
+(2007) (quoting Aetna Life Ins. Co. v. Haworth, 300 U. S.
+227, 240–241 (1937)) (Article III does not permit courts to
+entertain such disputes).
+The Court, however, strikes down all three provisions,
+and so I add that I disagree with the majority as to the
+constitutionality of the third restriction as well—basically
+for the reasons I have already set out. The prohibition
+against pharmaceutical firms using this prescriber
+identifying information works no more than modest First
+Amendment harm; the prohibition is justified by the need
+to ensure unbiased sales presentations, prevent unneces
+sarily high drug costs, and protect the privacy of prescrib
+ing physicians. There is no obvious equally effective, more
+limited alternative.
+V
+In sum, I believe that the statute before us satisfies the
+“intermediate” standards this Court has applied to restric
+tions on commercial speech. A fortiori it satisfies less
+demanding standards that are more appropriately applied
+in this kind of commercial regulatory case—a case where
+the government seeks typical regulatory ends (lower drug
+prices, more balanced sales messages) through the use of
+ordinary regulatory means (limiting the commercial use
+of data gathered pursuant to a regulatory mandate). The
+speech-related consequences here are indirect, incidental,
+
+

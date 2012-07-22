@@ -1,0 +1,46 @@
+Cite as: 559 U. S. ____ (2010)
+
+17
+
+Opinion of SCALIA, J.
+
+rules can be reconciled (because they answer different
+questions), and second, if they cannot, determining
+whether the Federal Rule runs afoul of §2072(b). Post, at
+5–7 (STEVENS, J., concurring in part and concurring in
+judgment). The concurrence agrees with us that Rule 23
+and §901(b) conflict, post, at 15–16, and departs from us
+only with respect to the second part of the test, i.e.,
+whether application of the Federal Rule violates §2072(b),
+post, at 7–13. Like us, it answers no, but for a reason
+different from ours. Post, at 17–22.
+The concurrence would decide this case on the basis, not
+that Rule 23 is procedural, but that the state law it dis­
+places is procedural, in the sense that it does not “function
+as a part of the State’s definition of substantive rights and
+remedies.” Post, at 1. A state procedural rule is not pre­
+empted, according to the concurrence, so long
+as it is “so bound up with,” or “sufficiently intertwined
+with,” a substantive state-law right or remedy “that it
+defines the scope of that substantive right or remedy,”
+post, at 4, 13.
+This analysis squarely conflicts with Sibbach, which
+established the rule we apply. The concurrence contends
+that Sibbach did not rule out its approach, but that is not
+so. Recognizing the impracticability of a test that turns on
+the idiosyncrasies of state law, Sibbach adopted and ap­
+plied a rule with a single criterion: whether the Federal
+Rule “really regulates procedure.” 312 U. S., at 14.9 That
+——————
+9 The concurrence claims that in Sibbach “[t]he Court . . . had no oc­
+casion to consider whether the particular application of the Federal
+Rules in question would offend the Enabling Act.” Post, at 12. Had
+Sibbach been applying the concurrence’s theory, that is quite true—
+which demonstrates how inconsistent that theory is with Sibbach. For
+conformity with the Rules Enabling Act was the very issue Sibbach
+decided: The petitioner’s position was that Rules 35 and 37 exceeded
+the Enabling Act’s authorization, 312 U. S., at 9, 13; the Court faced
+and rejected that argument, id., at 13–16, and proceeded to reverse
+the lower court for failing to apply Rule 37 correctly, id., at 16. There
+
+

@@ -1,0 +1,45 @@
+16
+
+UNITED STATES v. COMSTOCK
+THOMAS, J., dissenting
+
+they may pose,11 ante, at 14. That citation is puzzling
+because federal authority derives from the Constitution,
+not the common law. In any event, nothing in the Re
+statement suggests that a common-law custodian has the
+powers that Congress seeks here. While the Restatement
+provides that a custodian has a duty to take reasonable
+steps to ensure that a person in his care does not cause
+“bodily harm to others,” 2 Restatement (Second) of Torts
+§319, p. 129 (1963–1964), that duty terminates once the
+legal basis for custody expires:
+“There is no duty so to control the conduct of a third
+person as to prevent him from causing physical harm
+to another unless
+“(a) a special relation exists between the actor and
+the third person which imposes a duty upon the actor
+to control the third person’s conduct, or
+“(b) a special relation exists between the actor and
+the other which gives to the other a right to protec
+tion.” Id., §315, at 122.
+Once the Federal Government’s criminal jurisdiction over
+a prisoner ends, so does any “special relation[ship]” be
+tween the Government and the former prisoner.12
+——————
+11 The Court also cites Youngberg v. Romeo, 457 U. S. 307 (1982), but
+that case lends even less support than the Restatement. In Youngberg,
+an inmate at a state hospital argued that hospital workers violated his
+constitutional rights when they applied restraints to keep him in his
+bed at the hospital infirmary. Id., at 310–311. In assessing that claim,
+this Court noted that the hospital had a responsibility to “protect its
+residents” from the danger of violence. Id., at 320 (emphasis added).
+The Court never suggested that this responsibility extended to “nearby
+(and other) communities.” Ante, at 14. Moreover, the hospital was a
+state institution. Nothing in Youngberg suggests that the Federal
+Government can detain a person beyond the date on which its criminal
+jurisdiction expires for fear that he may later pose a threat to the
+surrounding community.
+12 Federal law permits a sentencing court to order that a defendant be
+placed on a term of “supervised release” after his term of imprisonment
+
+

@@ -1,0 +1,976 @@
+Cite as: 567 U. S. ____ (2012)
+
+1
+
+KAGAN, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–8505
+_________________
+
+SANDY WILLIAMS, PETITIONER v. ILLINOIS
+ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+
+
+
+ILLINOIS
+
+
+
+[June 18, 2012] 
+
+
+JUSTICE KAGAN, with whom JUSTICE SCALIA, JUSTICE
+GINSBURG, and JUSTICE SOTOMAYOR join, dissenting.
+Some years ago, the State of California prosecuted a
+man named John Kocak for rape. At a preliminary hearing, the State presented testimony from an analyst at the
+Cellmark Diagnostics Laboratory—the same facility used
+to generate DNA evidence in this case. The analyst had
+extracted DNA from a bloody sweatshirt found at the
+crime scene and then compared it to two control samples—
+one from Kocak and one from the victim. The analyst’s
+report identified a single match: As she explained on
+direct examination, the DNA found on the sweatshirt
+belonged to Kocak.
+But after undergoing crossexamination, the analyst realized she had made a mortifying error. She took the stand again, but this time to admit
+that the report listed the victim’s control sample as coming
+from Kocak, and Kocak’s as coming from the victim. So
+the DNA on the sweatshirt matched not Kocak, but the
+victim herself. See Tr. in No. SCD110465 (Super. Ct. San
+Diego Cty., Cal., Nov. 17, 1995), pp. 3–4 (“I’m a little hysterical right now, but I think . . . the two names should be
+switched”), online at http: //www.nlada.org/forensics/for_
+lib/Documents/1037341561.0/JohnIvanKocak.pdf (as visited June 15, 2012, and available in Clerk of Court’s case
+file). In trying Kocak, the State would have to look elsewhere for its evidence.
+
+
+2
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+Our Constitution contains a mechanism for catching
+such errors—the Sixth Amendment’s Confrontation
+Clause. That Clause, and the Court’s recent cases interpreting it, require that testimony against a criminal defendant be subject to cross-examination. And that command applies with full force to forensic evidence of the
+kind involved in both the Kocak case and this one. In two
+decisions issued in the last three years, this Court held
+that if a prosecutor wants to introduce the results of forensic testing into evidence, he must afford the defendant
+an opportunity to cross-examine an analyst responsible for
+the test. Forensic evidence is reliable only when properly
+produced, and the Confrontation Clause prescribes a particular method for determining whether that has happened. The Kocak incident illustrates how the Clause is
+designed to work: Once confronted, the analyst discovered
+and disclosed the error she had made. That error would
+probably not have come to light if the prosecutor had
+merely admitted the report into evidence or asked a third
+party to present its findings. Hence the genius of an 18thcentury device as applied to 21st-century evidence: Crossexamination of the analyst is especially likely to reveal
+whether vials have been switched, samples contaminated,
+tests incompetently run, or results inaccurately recorded.
+Under our Confrontation Clause precedents, this is
+an open-and-shut case. The State of Illinois prosecuted
+Sandy Williams for rape based in part on a DNA profile
+created in Cellmark’s laboratory. Yet the State did not
+give Williams a chance to question the analyst who produced that evidence. Instead, the prosecution introduced
+the results of Cellmark’s testing through an expert witness who had no idea how they were generated. That
+approach—no less (perhaps more) than the confrontationfree methods of presenting forensic evidence we have
+formerly banned—deprived Williams of his Sixth Amendment right to “confron[t] . . . the witnesses against him.”
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+KAGAN, J., dissenting
+
+The Court today disagrees, though it cannot settle on a
+reason why. JUSTICE ALITO, joined by three other Justices, advances two theories—that the expert’s summary of
+the Cellmark report was not offered for its truth, and
+that the report is not the kind of statement triggering the
+Confrontation Clause’s protection. In the pages that
+follow, I call JUSTICE ALITO’s opinion “the plurality,”
+because that is the conventional term for it. But in all
+except its disposition, his opinion is a dissent: Five Justices specifically reject every aspect of its reasoning
+and every paragraph of its explication. See ante, at 1
+(THOMAS, J., concurring in judgment) (“I share the dissent’s view of the plurality’s flawed analysis”). JUSTICE
+THOMAS, for his part, contends that the Cellmark report
+is nontestimonial on a different rationale. But no other
+Justice joins his opinion or subscribes to the test he offers.
+That creates five votes to approve the admission of the
+Cellmark report, but not a single good explanation. The
+plurality’s first rationale endorses a prosecutorial dodge;
+its second relies on distinguishing indistinguishable forensic reports. JUSTICE THOMAS’s concurrence, though positing an altogether different approach, suffers in the end
+from similar flaws. I would choose another path—to
+adhere to the simple rule established in our decisions, for
+the good reasons we have previously given. Because defendants like Williams have a constitutional right to confront the witnesses against them, I respectfully dissent
+from the Court’s fractured decision.
+I
+Our modern Confrontation Clause doctrine began with
+Crawford v. Washington, 541 U. S. 36 (2004). About a
+quarter century earlier, we had interpreted the Clause to
+allow the admission of any out-of-court statement falling
+within a “firmly rooted hearsay exception” or carrying
+“particularized guarantees of trustworthiness.” Ohio v.
+
+
+4
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+Roberts, 448 U. S. 56, 66 (1980). But in Crawford, we
+concluded that our old approach was misguided. Drawing
+on historical research about the Clause’s purposes, we
+held that the prosecution may not admit “testimonial
+statements of a witness who [does] not appear at trial
+unless he [is] unavailable to testify, and the defendant . . .
+had a prior opportunity for cross-examination.” 541 U. S.,
+at 53–54. That holding has two aspects. First, the Confrontation Clause applies only to out-of-court statements
+that are “testimonial.” Second, where the Clause applies,
+it guarantees to a defendant just what its name suggests—the opportunity to cross-examine the person who
+made the statement. See id., at 59.
+A few years later, we made clear that Crawford’s rule
+reaches forensic reports. In Melendez-Diaz v. Massachu­
+
+setts, 557 U. S. 305 (2009), the Commonwealth introduced
+a laboratory’s “ ‘certificates of analysis’ ” stating that a substance seized from the defendant was cocaine. Id., at
+308. We held that the certificates fell within the Clause’s
+“ ‘core class of testimonial statements’ ” because they had
+a clear “evidentiary purpose”: They were “ ‘made under
+circumstances which would lead an objective witness
+reasonably to believe that [they] would be available for use
+at a later trial.’ ” Id., at 310–311 (quoting Crawford, 541
+U. S., at 51–52). Accordingly, we ruled, the defendant had
+a right to cross-examine the analysts who had authored
+them.
+In reaching that conclusion, we rejected the
+Commonwealth’s argument that the Confrontation Clause
+should not apply because the statements resulted from
+“ ‘neutral scientific testing,’ ” and so were presumptively
+reliable. 557 U. S., at 318. The Clause, we noted,
+commands that “ ‘reliability be assessed in a particular
+manner’ ”—through “ ‘testing in the crucible of crossexamination.’ ” Id., at 317 (quoting Crawford, 541 U. S., at
+61). Further, we doubted that the testing summarized
+in the certificates was “as neutral or as reliable” as the
+
+
+Cite as: 567 U. S. ____ (2012)
+
+5
+
+KAGAN, J., dissenting
+
+Commonwealth suggested. Citing chapter and verse from
+various studies, we concluded that “[f]orensic evidence is
+not uniquely immune from the risk of manipulation” and
+mistake. 557 U. S., at 318; see id., at 319.
+And just two years later (and just one year ago), we
+reiterated Melendez-Diaz’s analysis when faced with a
+State’s attempt to evade it. In Bullcoming v. New Mexico,
+564 U. S. ___ (2011), a forensic report showed the defendant’s blood-alcohol concentration to exceed the legal limit
+for drivers. The State tried to introduce that finding
+through the testimony of a person who worked at the
+laboratory but had not performed or observed the blood
+test or certified its results. We held that Melendez-Diaz
+foreclosed that tactic. The report, we stated, resembled
+the certificates in Melendez-Diaz in “all material respects,”
+564 U. S., at ___ (slip op., at 15): Both were signed documents providing the results of forensic testing designed to
+“ ‘prov[e] some fact’ in a criminal proceeding,” id., at ___
+(slip op., at 14) (quoting Melendez-Diaz, 557 U. S., at 310).
+And the State’s resort to a “surrogate” witness, in place
+of the analyst who produced the report, did not satisfy the
+Confrontation Clause. Bullcoming, 564 U. S., at ___ (slip
+op., at 12). Only the presence of “that particular scientist,”
+we reasoned, would enable Bullcoming’s counsel to ask
+“questions designed to reveal whether incompetence . . . or
+dishonesty” had tainted the results. Id., at ___, ___ (slip
+op., at 2, 12). Repeating the refrain of Melendez-Diaz, we
+held that “[t]he accused’s right is to be confronted with”
+the actual analyst, unless he is unavailable and the accused “had an opportunity, pretrial, to cross-examine”
+him. Bullcoming, 564 U. S., at ___ (slip op., at 2).
+This case is of a piece. The report at issue here shows a
+DNA profile produced by an analyst at Cellmark’s laboratory, allegedly from a vaginal swab taken from a young
+woman, L. J., after she was raped. That report is identical
+to the one in Bullcoming (and Melendez-Diaz) in “all mate-
+
+
+6
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+rial respects.” 564 U. S., at ___ (slip op., at 15). Once
+again, the report was made to establish “ ‘some fact’ in a
+criminal proceeding”—here, the identity of L. J.’s attacker.
+Id., at ___ (slip op., at 14) (quoting Melendez-Diaz, 557
+U. S., at 310); see infra, at 20. And once again, it details
+the results of forensic testing on evidence gathered by the
+police. Viewed side-by-side with the Bullcoming report,
+the Cellmark analysis has a comparable title; similarly
+describes the relevant samples, test methodology, and
+results; and likewise includes the signatures of laboratory
+officials. Compare Cellmark Diagnostics Report of Laboratory Examination (Feb. 15, 2001), Lodging of Petitioner
+with App. in Bullcoming v. New Mexico, O. T. 2010, No.
+09–10876, pp. 62–65. So under this Court’s prior analysis,
+the substance of the report could come into evidence only
+if Williams had a chance to cross-examine the responsible
+analyst.
+But that is not what happened. Instead, the prosecutor
+used Sandra Lambatos—a state-employed scientist who
+had not participated in the testing—as the conduit for this
+piece of evidence. Lambatos came to the stand after two
+other state analysts testified about forensic tests they had
+performed. One recounted how she had developed a DNA
+profile of Sandy Williams from a blood sample drawn after
+his arrest. And another told how he had confirmed the
+presence of (unidentified) semen on the vaginal swabs
+taken from L. J. All this was by the book: Williams had
+an opportunity to cross-examine both witnesses about the
+tests they had run. But of course, the State still needed to
+supply the missing link—it had to show that DNA found
+in the semen on L. J.’s vaginal swabs matched Williams’s
+DNA. To fill that gap, the prosecutor could have called the
+analyst from Cellmark to testify about the DNA profile she
+had produced from the swabs. But instead, the State
+called Lambatos as an expert witness and had her testify
+that the semen on those swabs contained Sandy Wil-
+
+
+Cite as: 567 U. S. ____ (2012)
+
+7
+
+KAGAN, J., dissenting
+
+liams’s DNA:
+“Q Was there a computer match generated of the
+male DNA profile found in semen from the vaginal
+swabs of [L. J.] to a male DNA profile that had been
+identified as having originated from Sandy Williams?
+“A Yes, there was.
+“Q Did you compare the semen . . . from the vaginal
+swabs of [L. J.] to the male DNA profile . . . from the
+blood of Sandy Williams?
+“A Yes, I did.
+.
+
+.
+
+.
+
+.
+
+.
+
+“Q [I]s the semen identified in the vaginal swabs of
+[L. J.] consistent with having originated from Sandy
+Williams?
+“A Yes.” App. 56–57.
+And so it was Lambatos, rather than any Cellmark employee, who informed the trier of fact that the testing of
+L. J.’s vaginal swabs had produced a male DNA profile
+implicating Williams.
+Have we not already decided this case? Lambatos’s
+testimony is functionally identical to the “surrogate testimony” that New Mexico proffered in Bullcoming, which
+did nothing to cure the problem identified in MelendezDiaz (which, for its part, straightforwardly applied our
+decision in Crawford). Like the surrogate witness in
+Bullcoming, Lambatos “could not convey what [the actual
+analyst] knew or observed about the events . . . , i.e., the
+particular test and testing process he employed.” Bull­
+coming, 564 U. S., at ___ (slip op., at 12). “Nor could such
+
+
+8
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+surrogate testimony expose any lapses or lies” on the
+testing analyst’s part. Ibid. Like the lawyers in MelendezDiaz and Bullcoming, Williams’s attorney could not ask
+questions about that analyst’s “proficiency, the care he
+took in performing his work, and his veracity.” 564 U. S.,
+at ___, n. 7 (slip op., at 12, n. 7). He could not probe
+whether the analyst had tested the wrong vial, inverted
+the labels on the samples, committed some more technical
+error, or simply made up the results. See App. to Brief for
+Public Defender Service for the District of Columbia et al.
+as Amici Curiae 5a, 11a (describing mistakes and fraud
+at Cellmark’s laboratory). Indeed, Williams’s lawyer was
+even more hamstrung than Bullcoming’s. At least the
+surrogate witness in Bullcoming worked at the relevant
+laboratory and was familiar with its procedures. That is
+not true of Lambatos: She had no knowledge at all of
+Cellmark’s operations. Indeed, for all the record discloses,
+she may never have set foot in Cellmark’s laboratory.
+Under our case law, that is sufficient to resolve this
+case. “[W]hen the State elected to introduce” the substance of Cellmark’s report into evidence, the analyst who
+generated that report “became a witness” whom Williams
+“had the right to confront.” Bullcoming, 564 U. S., at ___
+(slip op., at 13). As we stated just last year, “Our precedent[s] cannot sensibly be read any other way.” Ibid.
+II
+The plurality’s primary argument to the contrary tries
+to exploit a limit to the Confrontation Clause recognized in
+Crawford. “The Clause,” we cautioned there, “does not bar
+the use of testimonial statements for purposes other than
+establishing the truth of the matter asserted.” 541 U. S.,
+at 59–60, n. 9 (citing Tennessee v. Street, 471 U. S. 409,
+414 (1985)). The Illinois Supreme Court relied on that
+statement in concluding that Lambatos’s testimony was
+permissible. On that court’s view, “Lambatos disclosed
+
+
+Cite as: 567 U. S. ____ (2012)
+
+9
+
+KAGAN, J., dissenting
+
+the underlying facts from Cellmark’s report” not for their
+truth, but “for the limited purpose of explaining the basis
+for her [expert] opinion,” so that the factfinder could assess that opinion’s value. 238 Ill. 2d 125, 150, 939 N. E.
+2d 268, 282 (2010). The plurality wraps itself in that
+holding, similarly asserting that Lambatos’s recitation of
+Cellmark’s findings, when viewed through the prism of
+state evidence law, was not introduced to establish “the
+truth of any . . . matter concerning [the] Cellmark” report.
+Ante, at 16; see ante, at 2, 24–25. But five Justices agree,
+in two opinions reciting the same reasons, that this
+argument has no merit: Lambatos’s statements about
+Cellmark’s report went to its truth, and the State could
+not rely on her status as an expert to circumvent the
+Confrontation Clause’s requirements. See ante, at 2–8
+(opinion of THOMAS, J.).
+To see why, start with the kind of case Crawford had in
+mind. In acknowledging the not-for-the-truth carveout
+from the Clause, the Court cited Tennessee v. Street as
+exemplary. See Crawford, 541 U. S., at 59–60, n. 9.
+There, Street claimed that his stationhouse confession of
+murder was a sham: A police officer, he charged, had read
+aloud his alleged accomplice’s confession and forced him to
+repeat it. To help rebut that defense, the State introduced
+the other confession into the record, so the jury could see
+how it differed from Street’s. This Court rejected Street’s
+Confrontation Clause claim because the State had offered
+the out-of-court statement not to prove “the truth of
+[the accomplice’s] assertions” about the murder, but only to
+disprove Street’s claim of how the police elicited his confession. Street, 471 U. S., at 413. Otherwise said, the
+truth of the admitted statement was utterly immaterial;
+the only thing that mattered was that the statement
+(whether true or false) varied from Street’s.
+The situation could not be more different when a witness, expert or otherwise, repeats an out-of-court state-
+
+
+10
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+ment as the basis for a conclusion, because the statement’s
+utility is then dependent on its truth. If the statement is
+true, then the conclusion based on it is probably true; if
+not, not. So to determine the validity of the witness’s
+conclusion, the factfinder must assess the truth of the outof-court statement on which it relies. That is why the
+principal modern treatise on evidence variously calls the
+idea that such “basis evidence” comes in not for its truth,
+but only to help the factfinder evaluate an expert’s opinion “very weak,” “factually implausible,” “nonsense,” and
+“sheer fiction.” D. Kaye, D. Bernstein, & J. Mnookin, The
+New Wigmore: Expert Evidence §4.10.1, pp. 196–197 (2d
+ed. 2011); id., §4.11.6, at 24 (Supp. 2012). “One can sympathize,” notes that treatise, “with a court’s desire to
+permit the disclosure of basis evidence that is quite probably reliable, such as a routine analysis of a drug, but to
+pretend that it is not being introduced for the truth of its
+contents strains credibility.” Id., §4.10.1, at 198 (2d ed.
+2011); see also, e.g., People v. Goldstein, 6 N. Y. 3d 119,
+128, 843 N. E. 2d 727, 732–733 (2005) (“The distinction
+between a statement offered for its truth and a statement
+offered to shed light on an expert’s opinion is not meaningful”). Unlike in Street, admission of the out-of-court
+statement in this context has no purpose separate from its
+truth; the factfinder can do nothing with it except assess
+its truth and so the credibility of the conclusion it serves to
+buttress.1
+——————
+1 In responding to this reasoning, the plurality confirms it. According
+to the plurality, basis evidence supports the “credibility of the expert’s
+opinion” by showing that he has relied on, and drawn logical inferences
+from, sound “factual premises.” Ante, at 24. Quite right. And that
+process involves assessing such premises’ truth: If they are, as the
+plurality puts it, “unsupported by other evidence in the record” or
+otherwise baseless, they will not “allay [a factfinder’s] fears” about an
+“expert’s reasoning.” Ante, at 24–25. I could not have said it any
+better.
+
+
+Cite as: 567 U. S. ____ (2012)
+
+11
+
+KAGAN, J., dissenting
+
+Consider a prosaic example not involving scientific experts. An eyewitness tells a police officer investigating
+an assault that the perpetrator had an unusual, starshaped birthmark over his left eye. The officer arrests a
+person bearing that birthmark (let’s call him Starr) for
+committing the offense. And at trial, the officer takes the
+stand and recounts just what the eyewitness told him.
+Presumably the plurality would agree that such testimony
+violates the Confrontation Clause unless the eyewitness is
+unavailable and the defendant had a prior opportunity to
+cross-examine him. Now ask whether anything changes if
+the officer couches his testimony in the following way: “I
+concluded that Starr was the assailant because a reliable
+eyewitness told me that the assailant had a star-shaped
+birthmark and, look, Starr has one just like that.” Surely
+that framing would make no constitutional difference,
+even though the eyewitness’s statement now explains the
+basis for the officer’s conclusion. It remains the case that
+the prosecution is attempting to introduce a testimonial
+statement that has no relevance to the proceedings apart
+from its truth—and that the defendant cannot crossexamine the person who made it. Allowing the admission
+of this evidence would end-run the Confrontation Clause,
+and make a parody of its strictures.
+And that example, when dressed in scientific clothing, is
+no different from this case. The Cellmark report identified
+the rapist as having a particular DNA profile (think of
+it as the quintessential birthmark). The Confrontation
+Clause prevented the State from introducing that report
+into evidence except by calling to the stand the person who
+prepared it. See Melendez-Diaz, 557 U. S., at 310–311;
+Bullcoming, 564 U. S., at ___ (slip op., at 2). So the State
+tried another route—introducing the substance of the report as part and parcel of an expert witness’s conclusion.
+In effect, Lambatos testified (like the police officer above):
+“I concluded that Williams was the rapist because Cell-
+
+
+12
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+mark, an accredited and trustworthy laboratory, says
+that the rapist has a particular DNA profile and, look,
+Williams has an identical one.” And here too, that form
+of testimony should change nothing. The use of the
+Cellmark statement remained bound up with its truth,
+and the statement came into evidence without any opportunity for Williams to cross-examine the person who made
+it. So if the plurality were right, the State would have a
+ready method to bypass the Constitution (as much as in
+my hypothetical case); a wink and a nod, and the Confrontation Clause would not pose a bar to forensic evidence.
+The plurality tries to make plausible its not-for-thetruth rationale by rewriting Lambatos’s testimony about
+the Cellmark report. According to the plurality, Lambatos
+merely “assumed” that Cellmark’s DNA profile came from
+L. J.’s vaginal swabs, accepting for the sake of argument
+the prosecutor’s premise. Ante, at 18. But that is incorrect. Nothing in Lambatos’s testimony indicates that she
+was making an assumption or considering a hypothesis.
+To the contrary, Lambatos affirmed, without qualification,
+that the Cellmark report showed a “male DNA profile
+found in semen from the vaginal swabs of [L. J.].” App.
+56. Had she done otherwise, this case would be different.
+There was nothing wrong with Lambatos’s testifying that
+two DNA profiles—the one shown in the Cellmark report
+and the one derived from Williams’s blood—matched each
+other; that was a straightforward application of Lambatos’s expertise. Similarly, Lambatos could have added
+that if the Cellmark report resulted from scientifically
+sound testing of L. J.’s vaginal swab, then it would link
+Williams to the assault. What Lambatos could not do was
+what she did: indicate that the Cellmark report was produced in this way by saying that L. J.’s vaginal swab
+contained DNA matching Williams’s.2 By testifying in
+——————
+2 The
+
+plurality suggests that Lambatos’s testimony is merely a mod-
+
+
+Cite as: 567 U. S. ____ (2012)
+
+13
+
+KAGAN, J., dissenting
+
+that manner, Lambatos became just like the surrogate
+witness in Bullcoming—a person knowing nothing about
+“the particular test and testing process,” but vouching for
+them regardless. 564 U. S., at ___ (slip op., at 12). We
+have held that the Confrontation Clause requires something more.
+The plurality also argues that Lambatos’s characterization of the Cellmark report did not violate the Confrontation Clause because the case “involve[d] a bench trial.”
+Ante, at 19 (emphasis deleted). I welcome the plurality’s
+concession that the Clause might forbid presenting Lambatos’s statement to a jury, see ante, at 18–19; it indicates
+that the plurality realizes that her testimony went beyond
+an “assumption.” But the presence of a judge does not
+transform the constitutional question. In applying the
+Confrontation Clause, we have never before considered
+relevant the decisionmaker’s identity. See, e.g., Davis v.
+——————
+ern, streamlined way of answering hypothetical questions and therefore
+raises no constitutional issue, see ante, at 2, 13–15; similarly, the
+plurality contends that the difference between what Lambatos said and
+what I would allow involves only “slightly revis[ing]” her testimony and
+so can be of no consequence, see ante, at 18, n. 3. But the statement “if
+X is true, then Y follows” differs materially—and constitutionally—
+from the statement “Y is true because X is true (according to Z).” The
+former statement is merely a logical proposition, whose validity the
+defendant can contest by questioning the speaker. And then, assuming the prosecutor tries to prove the statement’s premise through some
+other witness, the defendant can rebut that effort through crossexamination. By contrast, the latter statement as well contains a
+factual allegation (that X is true), which the defendant can only effectively challenge by confronting the person who made it (Z). That is why
+recognizing the difference between these two forms of testimony is not
+to insist on an archaism or a formality, but to ensure, in line with the
+Constitution, that defendants have the ability to confront their accusers. And if prosecutors can easily conform their conduct to that constitutional directive, as the plurality suggests, so much the better: I would
+not have thought it a ground of complaint that the Confrontation
+Clause, properly understood, manages to protect defendants without
+overly burdening the State.
+
+
+14
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+Washington, 547 U. S. 813 (2006). And this case would
+be a poor place to begin. Lambatos’s description of the
+Cellmark report was offered for its truth because that is
+all such “basis evidence” can be offered for; as described
+earlier, the only way the factfinder could consider whether
+that statement supported her opinion (that the DNA on
+L. J.’s swabs came from Williams) was by assessing the
+statement’s truth. See supra, at 9–12. That is so, as a
+simple matter of logic, whether the factfinder is a judge or
+a jury. And thus, in either case, admission of the statement, without the opportunity to cross-examine, violates
+the Confrontation Clause. See ante, at 3–4, n. 1 (opinion
+of THOMAS, J.).
+In saying that much, I do not doubt that a judge typically will do better than a jury in excluding such inadmissible evidence from his decisionmaking process. Perhaps
+the judge did so here; perhaps, as the plurality thinks, he understood that he could not consider Lambatos’s representation about the Cellmark report, and found that other,
+“circumstantial evidence” established “the source of the
+sample that Cellmark tested” and “the reliability of the
+Cellmark profile.” See ante, at 22–23. Some indications
+are to the contrary: In delivering his verdict, the judge
+never referred to the circumstantial evidence the plurality
+marshals, but instead focused only on Lambatos’s testimony. See 4 Record JJJ151 (calling Lambatos “the best
+DNA witness I have ever heard” and referring to Williams
+as “the guy whose DNA, according to the evidence from
+the experts, is in the semen recovered from the victim’s
+vagina”). But I take the plurality’s point that when read
+“[i]n context” the judge’s statements might be “best understood” as meaning something other than what they appear
+to say. See ante, at 20, n. 6. Still, that point suggests only
+that the admission of Lambatos’s statement was harmless—that the judge managed to put it out of mind. After
+all, whether a factfinder is confused by an error is a sepa-
+
+
+Cite as: 567 U. S. ____ (2012)
+
+15
+
+KAGAN, J., dissenting
+
+rate question from whether an error has occurred. So the
+plurality’s argument does not answer the only question
+this case presents: whether a constitutional violation
+happened when Lambatos recited the Cellmark report’s
+findings.3
+At bottom, the plurality’s not-for-the-truth rationale is a
+simple abdication to state-law labels. Although the utility
+of the Cellmark statement that Lambatos repeated logically depended on its truth, the plurality thinks this case
+decided by an Illinois rule holding that the facts underlying an expert’s opinion are not admitted for that purpose.
+See ante, at 14–18; People v. Pasch, 152 Ill. 2d 133, 175–
+177, 604 N. E. 2d 294, 311 (1992). But we do not typically
+allow state law to define federal constitutional requirements. And needless to say (or perhaps not), the Confron——————
+3 The plurality asserts (without citation) that I am “reach[ing] the
+truly remarkable conclusion that the wording of Lambatos’ testimony
+confused the trial judge,” ante, at 19, and then spends three pages
+explaining why that conclusion is wrong, see ante, at 19–21. But the
+plurality is responding to an argument of its own imagining, because I
+reach no such conclusion. As I just stated, the trial judge might well
+have ignored Lambatos’s statement about the Cellmark report and
+relied on other evidence to conclude that “the Cellmark profile was
+derived from the sample taken from the victim,” ante, at 19. All I am
+saying is that the admission of that statement violated the Confrontation Clause even if the judge ultimately put it aside, because it came
+into evidence for nothing other than its truth. See supra, at 9–12.
+Similarly, the plurality claims (still without citation) that I think the
+other evidence about the Cellmark report insufficient, see ante, at 21.
+But once again, the plurality must be reading someone else’s opinion. I
+express no view on sufficiency of the evidence because it is irrelevant to
+the Confrontation Clause issue we took this case to decide. It is the
+plurality that wrongly links the two, spending another five pages
+trumpeting the strength of the Cellmark report, see ante, at 22–24, 32–
+33. But the plurality cannot properly decide whether a Confrontation
+Clause violation occurred at Williams’s trial by determining that
+Williams was guilty. The American criminal justice system works the
+opposite way: determining guilt by holding trials in accord with constitutional requirements.
+
+
+16
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+tation Clause is a constitutional rule like any other. As
+JUSTICE THOMAS observes, even before Crawford, we did
+not allow the Clause’s scope to be “dictated by state or
+federal evidentiary rules.” See ante, at 2. Indeed, in
+Street, we independently reviewed whether an out-of-court
+statement was introduced for its truth—the very question
+at issue in this case. See 471 U. S., at 413–416. And in
+Crawford, we still more firmly disconnected the Confrontation Clause inquiry from state evidence law, by overruling an approach that looked in part to whether an outof-court statement fell within a “ ‘firmly rooted hearsay
+exception.’ ” 541 U. S., at 60 (quoting Roberts, 448 U. S., at
+66). That decision made clear that the Confrontation
+Clause’s protections are not coterminous with rules of
+evidence. So the plurality’s state-law-first approach would
+be an about-face.
+Still worse, that approach would allow prosecutors to do
+through subterfuge and indirection what we previously
+have held the Confrontation Clause prohibits. Imagine
+for a moment a poorly trained, incompetent, or dishonest
+laboratory analyst. (The analyst in Bullcoming, placed on
+unpaid leave for unknown reasons, might qualify.) Under
+our precedents, the prosecutor cannot avoid exposing that
+analyst to cross-examination simply by introducing his
+report. See Melendez-Diaz, 557 U. S., at 311. Nor can the
+prosecutor escape that fate by offering the results through
+the testimony of another analyst from the laboratory. See
+Bullcoming, 564 U. S., at ___ (slip op., at 2). But under
+the plurality’s approach, the prosecutor could choose the
+analyst-witness of his dreams (as the judge here said, “the
+best DNA witness I have ever heard”), offer her as an
+expert (she knows nothing about the test, but boasts impressive degrees), and have her provide testimony identical to the best the actual tester might have given (“the
+DNA extracted from the vaginal swabs matched Sandy
+Williams’s”)—all so long as a state evidence rule says that
+
+
+Cite as: 567 U. S. ____ (2012)
+
+17
+
+KAGAN, J., dissenting
+
+the purpose of the testimony is to enable the factfinder to
+assess the expert opinion’s basis. (And this tactic would
+not be confined to cases involving scientific evidence. As
+JUSTICE THOMAS points out, the prosecutor could similarly
+substitute experts for all kinds of people making out-ofcourt statements. See ante, at 7.) The plurality thus
+would countenance the Constitution’s circumvention. If
+the Confrontation Clause prevents the State from getting
+its evidence in through the front door, then the State could
+sneak it in through the back. What a neat trick—but
+really, what a way to run a criminal justice system. No
+wonder five Justices reject it.
+III
+The plurality also argues, as a “second, independent
+basis” for its decision, that the Cellmark report falls outside the Confrontation Clause’s ambit because it is nontestimonial. Ante, at 3. The plurality tries out a number of
+supporting theories, but all in vain: Each one either conflicts with this Court’s precedents or misconstrues this
+case’s facts. JUSTICE THOMAS rejects the plurality’s views
+for similar reasons as I do, thus bringing to five the number of Justices who repudiate the plurality’s understanding of what statements count as testimonial. See ante, at
+1, 12–15. JUSTICE THOMAS, however, offers a rationale
+of his own for deciding that the Cellmark report is nontestimonial. I think his essay works no better. When
+all is said and done, the Cellmark report is a testimonial
+statement.
+A
+According to the plurality, we should declare the
+Cellmark report nontestimonial because “the use at trial
+of a DNA report prepared by a modern, accredited laboratory ‘bears little if any resemblance to the historical practices that the Confrontation Clause aimed to eliminate.’ ”
+Ante, at 33 (quoting Michigan v. Bryant, 562 U. S. ___, ___
+
+
+18
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+(2011) (THOMAS, J., concurring in judgment) (slip op., at
+2)). But we just last year treated as testimonial a forensic
+report prepared by a “modern, accredited laboratory”;
+indeed, we declared that the report at issue “fell within
+the core class of testimonial statements” implicating the
+Confrontation Clause. Bullcoming, 564 U. S., at ___ (slip
+op., at 16) (internal quotation marks omitted); see Brief for
+New Mexico Department of Health, Scientific Laboratory
+Division as Amicus Curiae in Bullcoming, O. T. 2010, No.
+09–10786, p. 1 (discussing accreditation). And although
+the plurality is close, it is not quite ready (or able) to
+dispense with that decision. See ante, at 29, n. 13 (“Experience might yet show that the holdings in [Bullcoming
+and other post-Crawford] cases should be reconsidered”).
+So the plurality must explain: What could support a distinction between the laboratory analysis there and the
+DNA test in this case?4
+As its first stab, the plurality states that the Cellmark
+report was “not prepared for the primary purpose of accusing a targeted individual.” Ante, at 31. Where that test
+comes from is anyone’s guess. JUSTICE THOMAS rightly
+shows that it derives neither from the text nor from the
+——————
+4 JUSTICE BREYER does not attempt to distinguish our precedents,
+opting simply to adhere to “the dissenting view set forth in MelendezDiaz and Bullcoming.” See ante, at 8 (concurring opinion). He principally worries that under those cases, a State will have to call to the
+witness stand “[s]ix to twelve or more technicians” who have worked on
+a report. See ante, at 5; see also ante, at 3, 16–18. But none of our
+cases—including this one—has presented the question of how many
+analysts must testify about a given report. (That may suggest that in
+most cases a lead analyst is readily identifiable.) The problem in the
+cases—again, including this one—is that no analyst came forward to
+testify. In the event that some future case presents the multipletechnician issue, the Court can focus on “the broader ‘limits’ question”
+that troubles JUSTICE BREYER, ante, at 7. But the mere existence of
+that question is no reason to wrongly decide the case before us—which,
+it bears repeating, involved the testimony of not twelve or six or three
+or one, but zero Cellmark analysts.
+
+
+Cite as: 567 U. S. ____ (2012)
+
+19
+
+KAGAN, J., dissenting
+
+history of the Confrontation Clause. See ante, at 14–15
+(opinion concurring in judgment). And it has no basis in
+our precedents. We have previously asked whether a
+statement was made for the primary purpose of establishing “past events potentially relevant to later criminal
+prosecution”—in other words, for the purpose of providing
+evidence. Davis, 547 U. S., at 822; see also Bullcoming,
+564 U. S., at ___ (slip op., at 14); Bryant, 562 U. S., at ___,
+___ (slip op., at 14, 29); Melendez-Diaz, 557 U. S., at 310–
+311; Crawford, 541 U. S., at 51–52. None of our cases has
+ever suggested that, in addition, the statement must be
+meant to accuse a previously identified individual; indeed,
+in Melendez-Diaz, we rejected a related argument that
+laboratory “analysts are not subject to confrontation because they are not ‘accusatory’ witnesses.” 557 U. S., at
+313.
+Nor does the plurality give any good reason for adopting
+an “accusation” test. The plurality apparently agrees with
+JUSTICE BREYER that prior to a suspect’s identification,
+it will be “unlikely that a particular researcher has a
+defendant-related motive to behave dishonestly.” Ante, at 12
+(BREYER, J., concurring); see ante, at 31–32 (plurality
+opinion). But surely the typical problem with laboratory
+analyses—and the typical focus of cross-examination—has
+to do with careless or incompetent work, rather than with
+personal vendettas. And as to that predominant concern,
+it makes not a whit of difference whether, at the time of
+the laboratory test, the police already have a suspect.5
+——————
+5 Neither
+
+can the plurality gain any purchase from the idea that a
+DNA profile is not “inherently inculpatory” because it “tends to exculpate all but one of the more than 7 billion people in the world today.”
+Ante, at 3; see ante, at 32. All evidence shares this feature: the more
+inculpatory it is of a single person, the more exculpatory it is of the rest
+of the world. The one is but the flipside of the other. But no one has
+ever before suggested that this logical corollary provides a reason to
+ignore the Constitution’s efforts to ensure the reliability of evidence.
+
+
+20
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+The plurality next attempts to invoke our precedents
+holding statements nontestimonial when made “to respond
+to an ‘ongoing emergency,’ ” rather than to create evidence
+for trial, Bryant, 562 U. S., at ___ (slip op., at 11); here, the
+plurality insists, the Cellmark report’s purpose was “to
+catch a dangerous rapist who was still at large.” Ante, at
+31. But that is to stretch both our “ongoing emergency”
+test and the facts of this case beyond all recognition. We
+have previously invoked that test to allow statements by a
+woman who was being assaulted and a man who had just
+been shot. In doing so, we stressed the “informal [and]
+harried” nature of the statements, Bryant, 562 U. S., at
+___ (slip op., at 31)—that they were made as, or “minutes”
+after, id., at ___ (slip op., at 28), the events they described
+“actually happen[ed],” Davis, 547 U. S., at 827 (emphasis
+deleted), by “frantic” victims of criminal attacks, ibid.,
+to officers trying to figure out “what had . . . occurred” and
+what threats remained, Bryant, 562 U. S., at ___ (slip op.,
+at 30) (internal quotation marks omitted). On their face,
+the decisions have nothing to say about laboratory analysts conducting routine tests far away from a crime scene.
+And this case presents a peculiarly inapt set of facts
+for extending those precedents. Lambatos testified at trial
+that “all reports in this case were prepared for this criminal investigation . . . [a]nd for the purpose of the eventual
+litigation,” App. 82—in other words, for the purpose of
+producing evidence, not enabling emergency responders.
+And that testimony fits the relevant timeline. The police
+did not send the swabs to Cellmark until November
+2008—nine months after L. J.’s rape—and did not receive
+the results for another four months. See id., at 30–34, 51–
+52, 54. That is hardly the typical emergency response.
+Finally, the plurality offers a host of reasons for why
+reports like this one are reliable: “[T]here [i]s no prospect
+of fabrication,” ante, at 31 (internal quotation marks
+omitted); multiple technicians may “work on each DNA
+
+
+Cite as: 567 U. S. ____ (2012)
+
+21
+
+KAGAN, J., dissenting
+
+profile,” ante, at 32; and “defects in a DNA profile may
+often be detected from the profile itself,” ibid. See also
+ante, at 10–14 (opinion of BREYER, J.). But once again:
+Been there, done that. In Melendez-Diaz, this Court rejected identical arguments, noting extensive documentation of “[s]erious deficiencies . . . in the forensic evidence
+used in criminal trials.” 557 U. S., at 319; see supra, at 4–
+5; see also Bullcoming, 564 U. S., at ___, n. 1 (slip op., at 4,
+n. 1) (citing similar errors in laboratory analysis); Brief for
+Public Defender Service for the District of Columbia et al.
+as Amici Curiae 13 (discussing “[s]ystemic problems,” such
+as sample contamination, sample switching, mislabeling,
+and fraud, at “ ‘flagship’ DNA labs”). Scientific testing is
+“technical,” to be sure, ante, at 1 (opinion of BREYER, J.);
+but it is only as reliable as the people who perform it.
+That is why a defendant may wish to ask the analyst a
+variety of questions: How much experience do you have?
+Have you ever made mistakes in the past? Did you test
+the right sample? Use the right procedures? Contaminate
+the sample in any way? Indeed, as scientific evidence
+plays a larger and larger role in criminal prosecutions,
+those inquiries will often be the most important in the
+case.6
+——————
+6 Both
+
+the plurality and JUSTICE BREYER warn that if we require analysts to testify, we will encourage prosecutors to forgo DNA evidence in
+favor of less reliable eyewitness testimony and so “increase the risk of
+convicting the innocent.” Ante, at 13 (BREYER, J., concurring); see ante,
+at 3–4 (plurality opinion). Neither opinion provides any evidence, even
+by way of anecdote, for that view, and I doubt any exists. DNA evidence is usually the prosecutor’s most powerful weapon, and a prosecutor is unlikely to relinquish it just because he must bring the right
+analyst to the stand. Consider what Lambatos told the factfinder here:
+The DNA in L. J.’s vaginal swabs matched Williams’s DNA and would
+match only “1 in 8.7 quadrillion black, 1 in 390 quadrillion white, or
+1 in 109 quadrillion Hispanic unrelated individuals.” App. 56–57. No
+eyewitness testimony could replace that evidence. I note as well that
+the Innocence Network—a group particularly knowledgeable about the
+
+
+22
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+And Melendez-Diaz made yet a more fundamental point
+in response to claims of the über alles reliability of scientific evidence: It is not up to us to decide, ex ante, what
+evidence is trustworthy and what is not. See 557 U. S., at
+317–318; see also Bullcoming, 564 U. S., at ___ (slip op., at
+11). That is because the Confrontation Clause prescribes
+its own “procedure for determining the reliability of testimony in criminal trials.” Crawford, 541 U. S., at 67. That
+procedure is cross-examination. And “[d]ispensing with
+[it] because testimony is obviously reliable is akin to dispensing with jury trial because a defendant is obviously
+guilty.” Id., at 62.
+So the plurality’s second basis for denying Williams’s
+right of confrontation also fails. The plurality can find no
+reason consistent with our precedents for treating the
+Cellmark report as nontestimonial. That is because the
+report is, in every conceivable respect, a statement meant
+to serve as evidence in a potential criminal trial. And that
+simple fact should be sufficient to resolve the question.
+B
+JUSTICE THOMAS’s unique method of defining testimonial statements fares no better. On his view, the Confrontation Clause “regulates only the use of statements
+bearing ‘indicia of solemnity.’ ” Ante, at 8 (quoting Davis,
+547 U. S., at 836–837). And Cellmark’s report, he concludes, does not qualify because it is “neither a sworn nor a
+certified declaration of fact.” Ante, at 9. But JUSTICE
+THOMAS’s approach grants constitutional significance to
+minutia, in a way that can only undermine the Confrontation Clause’s protections.
+——————
+kinds of evidence that produce erroneous convictions—disagrees with
+the plurality’s and JUSTICE BREYER’s view. It argues here that “[c]onfrontation of the analyst . . . is essential to permit proper adversarial
+testing” and so to decrease the risk of convicting the innocent. Brief
+for the Innocence Network as Amicus Curiae 3, 7.
+
+
+Cite as: 567 U. S. ____ (2012)
+
+23
+
+KAGAN, J., dissenting
+
+To see the point, start with precedent, because the
+Court rejected this same kind of argument, as applied to
+this same kind of document, at around this same time
+just last year. In Bullcoming, the State asserted that
+the forensic report at issue was nontestimonial because—
+unlike the report in Melendez-Diaz—it was not sworn
+before a notary public. We responded that applying the
+Confrontation Clause only to a sworn forensic report
+“would make the right to confrontation easily erasable”—
+next time, the laboratory could file the selfsame report
+without the oath. 564 U. S., at ___ (slip op., at 15). We
+then held, as noted earlier, that “[i]n all material respects,” the forensic report in Bullcoming matched the one
+in Melendez-Diaz. 564 U. S., at ___ (slip op., at 15); see
+supra, at 5. First, a law enforcement officer provided
+evidence to a state laboratory assisting in police investigations. See 564 U. S., at ___ (slip op., at 15). Second, the
+analyst tested the evidence and “prepared a certificate
+concerning the result[s].” Ibid. Third, the certificate was
+“formalized in a signed document . . . headed a ‘report.’ ”
+Ibid. (some internal quotation marks omitted). That was
+enough.
+Now compare that checklist of “material” features to the
+report in this case. The only differences are that Cellmark
+is a private laboratory under contract with the State
+(which no one thinks relevant), and that the report is not
+labeled a “certificate.” That amounts to (maybe) a nickel’s
+worth of difference: The similarities in form, function, and
+purpose dwarf the distinctions. See supra, at 5–6. Each
+report is an official and signed record of laboratory test
+results, meant to establish a certain set of facts in legal
+proceedings. Neither looks any more “formal” than the
+other; neither is any more formal than the other. See ibid.
+The variances are no more (probably less) than would be
+found if you compared different law schools’ transcripts
+or different companies’ cash flow statements or different
+
+
+24
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+States’ birth certificates. The difference in labeling—a
+“certificate” in one case, a “report of laboratory examination” in the other—is not of constitutional dimension.
+Indeed, JUSTICE THOMAS’s approach, if accepted, would
+turn the Confrontation Clause into a constitutional geegaw—nice for show, but of little value. The prosecution
+could avoid its demands by using the right kind of forms
+with the right kind of language. (It would not take long to
+devise the magic words and rules—principally, never call
+anything a “certificate.”)7 And still worse: The new conventions, precisely by making out-of-court statements less
+“solem[n],” ante, at 1, would also make them less reliable—and so turn the Confrontation Clause upside down.
+See Crawford, 541 U. S., at 52–53, n. 3 (“We find it implausible that a provision which concededly condemned
+trial by sworn ex parte affidavit thought trial by unsworn
+ex parte affidavit perfectly OK”). It is not surprising that
+no other Member of the Court has adopted this position.
+To do so, as JUSTICE THOMAS rightly says of the plurality’s
+decision, would be to “diminis[h] the Confrontation
+Clause’s protection” in “the very cases in which the accused should ‘enjoy the right . . . to be confronted with the
+witnesses against him.’ ” Ante, at 16.
+IV
+Before today’s decision, a prosecutor wishing to admit
+the results of forensic testing had to produce the technician responsible for the analysis. That was the result of
+not one, but two decisions this Court issued in the last
+three years. But that clear rule is clear no longer. The
+five Justices who control the outcome of today’s case agree
+——————
+7 JUSTICE THOMAS asserts there is no need to worry, because “the
+Confrontation Clause reaches bad-faith attempts to evade the formalized process.” Ante, at 10; see ante, at 9, n. 5. I hope he is right. But
+JUSTICE THOMAS provides scant guidance on how to conduct this novel
+inquiry into motive.
+
+
+Cite as: 567 U. S. ____ (2012)
+
+25
+
+KAGAN, J., dissenting
+
+on very little. Among them, though, they can boast of two
+accomplishments. First, they have approved the introduction of testimony at Williams’s trial that the Confrontation
+Clause, rightly understood, clearly prohibits. Second, they
+have left significant confusion in their wake. What
+comes out of four Justices’ desire to limit Melendez-Diaz
+and Bullcoming in whatever way possible, combined with
+one Justice’s one-justice view of those holdings, is—to be
+frank—who knows what. Those decisions apparently no
+longer mean all that they say. Yet no one can tell in what
+way or to what extent they are altered because no proposed limitation commands the support of a majority.
+The better course in this case would have been simply to
+follow Melendez-Diaz and Bullcoming. Precedent-based
+decisionmaking provides guidance to lower court judges
+and predictability to litigating parties. Today’s plurality
+and concurring opinions, and the uncertainty they sow,
+bring into relief that judicial method’s virtues. I would
+decide this case consistently with, and for the reasons
+stated by, Melendez-Diaz and Bullcoming. And until a
+majority of this Court reverses or confines those decisions,
+I would understand them as continuing to govern, in every
+particular, the admission of forensic evidence.
+I respectfully dissent.
+
+

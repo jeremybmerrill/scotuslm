@@ -1,0 +1,44 @@
+Cite as: 562 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+II
+The jurisdiction of a Court of Appeals under 28 U. S. C.
+§1291 extends only to “appeals from . . . final decisions of
+the district courts.” Ordinarily, orders denying summary
+judgment do not qualify as “final decisions” subject to
+appeal. Summary judgment must be denied when the
+court of first instance determines that a “genuine dispute
+as to [a] material fact” precludes immediate entry of
+judgment as a matter of law. Fed. Rule Civ. Proc. 56(a).
+Such rulings, we have observed, are “by their terms inter
+locutory.” Liberty Mut. Ins. Co. v. Wetzel, 424 U. S. 737,
+744 (1976).
+Because a plea of qualified immunity can spare an
+official not only from liability but from trial, we have
+recognized a limited exception to the categorization of
+summary judgment denials as nonappealable orders.
+Mitchell v. Forsyth, 472 U. S. 511, 525–526 (1985). When
+summary judgment is denied to a defendant who urges
+that qualified immunity shelters her from suit, the court’s
+order “finally and conclusively [disposes of] the defen
+dant’s claim of right not to stand trial.” Id., at 527 (em
+phasis deleted). Therefore, Mitchell held, an immediate
+appeal may be pursued. Ibid.
+We clarified in Johnson v. Jones, 515 U. S. 304 (1995),
+that immediate appeal from the denial of summary judg
+ment on a qualified immunity plea is available when the
+appeal presents a “purely legal issue,” illustratively, the
+determination of “what law was ‘clearly established’ ” at
+the time the defendant acted. Id., at 313. However, in
+stant appeal is not available, Johnson held, when the
+district court determines that factual issues genuinely in
+dispute preclude summary adjudication. Ibid.
+Jordan and Bright sought no immediate appeal from the
+denial of their motion for summary judgment. In light of
+Johnson, that abstinence is unsurprising. Moreover, even
+had instant appellate review been open to them, the time
+
+

@@ -1,0 +1,52 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+MORRISON ET AL. v. NATIONAL AUSTRALIA BANK
+
+LTD. ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SECOND CIRCUIT
+No. 08–1191. Argued March 29, 2010—Decided June 24, 2010
+In 1998, respondent National Australia Bank (National), a foreign bank
+whose “ordinary shares” are not traded on any exchange in this coun
+try, purchased respondent HomeSide Lending, a company headquar
+tered in Florida that was in the business of servicing mortgages—
+seeing to collection of the monthly payments, etc. In 2001, National
+had to write down the value of HomeSide’s assets, causing National’s
+share prices to fall. Petitioners, Australians who purchased Na
+tional’s shares before the write-downs, sued respondents—National,
+HomeSide, and officers of both companies—in Federal District Court
+for violation of §§10(b) and 20(a) of the Securities and Exchange Act
+of 1934 and SEC Rule 10b–5. They claimed that HomeSide and its
+officers had manipulated financial models to make the company’s
+mortgage-servicing rights appear more valuable than they really
+were; and that National and its chief executive officer were aware of
+this deception. Respondents moved to dismiss for lack of subject
+matter jurisdiction under Federal Rule of Civil Procedure 12(b)(1)
+and for failure to state a claim under Rule 12(b)(6). The District
+Court granted the former motion, finding no jurisdiction because the
+domestic acts were, at most, a link in a securities fraud that con
+cluded abroad. The Second Circuit affirmed.
+Held:
+1. The Second Circuit erred in considering §10(b)’s extraterritorial
+reach to raise a question of subject-matter jurisdiction, thus allowing
+dismissal under Rule 12(b)(1). What conduct §10(b) reaches is a mer
+its question, while subject-matter jurisdiction “refers to a tribunal’s
+power to hear a case.” Union Pacific R. Co. v. Brotherhood of Loco
+motive Engineers and Trainmen Gen. Comm. of Adjustment, Central
+
+

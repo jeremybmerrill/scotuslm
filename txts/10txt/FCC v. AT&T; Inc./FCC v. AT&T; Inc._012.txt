@@ -1,0 +1,43 @@
+Cite as: 562 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+case does not call upon us to pass on the scope of a corpo
+ration’s “privacy” interests as a matter of constitutional or
+common law. The discrete question before us is instead
+whether Congress used the term “personal privacy” to
+refer to the privacy of artificial persons in FOIA Exemp
+tion 7(C); the cases AT&T cites are too far afield to be of
+help here.
+AT&T concludes that the FCC has simply failed to
+demonstrate that the phrase “personal privacy” “necessar
+ily excludes the privacy of corporations.” Id., at 31–32
+(emphasis added). But construing statutory language is
+not merely an exercise in ascertaining “the outer limits of
+[a word’s] definitional possibilities,” Dolan v. Postal Ser
+vice, 546 U. S. 481, 486 (2006). AT&T has given us no
+sound reason in the statutory text or context to disregard
+the ordinary meaning of the phrase “personal privacy.”
+III
+The meaning of “personal privacy” in Exemption 7(C) is
+further clarified by the rest of the statute. Congress en
+acted Exemption 7(C) against the backdrop of pre-existing
+FOIA exemptions, and the purpose and scope of Exemp
+tion 7(C) becomes even more apparent when viewed in this
+context. See Nken v. Holder, 556 U. S. ___, ___ (2009) (slip
+op., at 6) (“statutory interpretation turns on ‘the language
+itself, the specific context in which that language is used,
+and the broader context of the statute as a whole’ ” (quot
+ing Robinson v. Shell Oil Co., 519 U. S. 337, 341 (1997))).
+Two of those other exemptions are particularly relevant
+here.
+The phrase “personal privacy” first appeared in the
+FOIA exemptions in Exemption 6, enacted in 1966, eight
+years before Congress enacted Exemption 7(C). See 80
+Stat. 250, codified as amended at 5 U. S. C. §552(b)(6).
+Exemption 6 covers “personnel and medical files and
+similar files the disclosure of which would constitute
+
+

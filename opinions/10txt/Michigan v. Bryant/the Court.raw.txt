@@ -1,0 +1,1415 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–150
+_________________
+
+MICHIGAN, PETITIONER v. RICHARD PERRY 
+
+BRYANT 
+
+ON WRIT OF CERTIORARI TO THE SUPREME COURT
+
+OF MICHIGAN
+
+[February 28, 2011] 
+
+
+JUSTICE SOTOMAYOR delivered the opinion of the Court.
+At respondent Richard Bryant’s trial, the court admitted
+statements that the victim, Anthony Covington, made to
+police officers who discovered him mortally wounded in a
+gas station parking lot. A jury convicted Bryant of, inter
+alia, second-degree murder. 483 Mich. 132, 137, 768
+N. W. 2d 65, 67–68 (2009). On appeal, the Supreme Court
+of Michigan held that the Sixth Amendment’s Confronta
+tion Clause, as explained in our decisions in Crawford v.
+Washington, 541 U. S. 36 (2004), and Davis v. Washington,
+547 U. S. 813 (2006), rendered Covington’s statements
+inadmissible testimonial hearsay, and the court reversed
+Bryant’s conviction. 483 Mich., at 157, 768 N. W. 2d, at
+79. We granted the State’s petition for a writ of certiorari
+to consider whether the Confrontation Clause barred the
+admission at trial of Covington’s statements to the police.
+We hold that the circumstances of the interaction between
+Covington and the police objectively indicate that the
+“primary purpose of the interrogation” was “to enable
+police assistance to meet an ongoing emergency.” Davis,
+547 U. S., at 822. Therefore, Covington’s identification
+
+
+2
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+and description of the shooter and the location of the
+shooting were not testimonial statements, and their ad
+mission at Bryant’s trial did not violate the Confrontation
+Clause. We vacate the judgment of the Supreme Court of
+Michigan and remand.
+I
+Around 3:25 a.m. on April 29, 2001, Detroit, Michigan
+police officers responded to a radio dispatch indicating
+that a man had been shot. At the scene, they found the
+victim, Anthony Covington, lying on the ground next to his
+car in a gas station parking lot. Covington had a gunshot
+wound to his abdomen, appeared to be in great pain, and
+spoke with difficulty.
+The police asked him “what had happened, who had
+shot him, and where the shooting had occurred.” 483
+Mich., at 143, 768 N. W. 2d, at 71. Covington stated that
+“Rick” shot him at around 3 a.m. Id., at 136, and n. 1, 768
+N. W. 2d, at 67, and n. 1. He also indicated that he had a
+conversation with Bryant, whom he recognized based on
+his voice, through the back door of Bryant’s house. Cov
+ington explained that when he turned to leave, he was
+shot through the door and then drove to the gas station,
+where police found him.
+Covington’s conversation with the police ended within 5
+to 10 minutes when emergency medical services arrived.
+Covington was transported to a hospital and died within
+hours. The police left the gas station after speaking with
+Covington, called for backup, and traveled to Bryant’s
+house. They did not find Bryant there but did find blood
+and a bullet on the back porch and an apparent bullet hole
+in the back door. Police also found Covington’s wallet and
+identification outside the house.
+At trial, which occurred prior to our decisions in Craw
+ford, 541 U. S. 36, and Davis, 547 U. S. 813, the police
+officers who spoke with Covington at the gas station testi
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+fied about what Covington had told them. The jury re
+turned a guilty verdict on charges of second-degree
+murder, being a felon in possession of a firearm, and pos
+session of a firearm during the commission of a felony.
+Bryant appealed, and the Michigan Court of Appeals
+affirmed his conviction. No. 247039, 2004 WL 1882661
+(Aug. 24, 2004) (per curiam). Bryant then appealed to the
+Supreme Court of Michigan, arguing that the trial court
+erred in admitting Covington’s statements to the police.
+The Supreme Court of Michigan eventually remanded the
+case to the Court of Appeals for reconsideration in light of
+our 2006 decision in Davis. 477 Mich. 902, 722 N. W. 2d
+797 (2006). On remand, the Court of Appeals again af
+firmed, holding that Covington’s statements were properly
+admitted because they were not testimonial. No. 247039,
+2007 WL 675471 (Mar. 6, 2007) (per curiam). Bryant
+again appealed to the Supreme Court of Michigan, which
+reversed his conviction. 483 Mich. 132, 768 N. W. 2d 65.
+Before the Supreme Court of Michigan, Bryant argued
+that Covington’s statements to the police were testimonial
+under Crawford and Davis and were therefore inadmissi
+ble. The State, on the other hand, argued that the state
+ments were admissible as “excited utterances” under the
+Michigan Rules of Evidence. 483 Mich., at 142, and n. 6,
+768 N. W. 2d, at 70, and n. 6. There was no dispute that
+Covington was unavailable at trial and Bryant had no
+prior opportunity to cross-examine him. The court there
+fore assessed whether Covington’s statements to the police
+identifying and describing the shooter and the time and
+location of the shooting were testimonial hearsay for
+purposes of the Confrontation Clause. The court con
+cluded that the circumstances “clearly indicate that the
+‘primary purpose’ of the questioning was to establish the
+facts of an event that had already occurred; the ‘primary
+purpose’ was not to enable police assistance to meet an
+ongoing emergency.” Id., at 143, 768 N. W. 2d, at 71. The
+
+
+4
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+court explained that, in its view, Covington was describing
+past events and as such, his “primary purpose in making
+these statements to the police . . . was . . . to tell the police
+who had committed the crime against him, where the
+crime had been committed, and where the police could find
+the criminal.” Id., at 144, 768 N. W. 2d, at 71. Noting
+that the officers’ actions did not suggest that they per
+ceived an ongoing emergency at the gas station, the court
+held that there was in fact no ongoing emergency. Id., at
+145–147, 768 N. W. 2d, at 71–73. The court distinguished
+the facts of this case from those in Davis, where we held a
+declarant’s statements in a 911 call to be nontestimonial.
+It instead analogized this case to Hammon v. Indiana,
+which we decided jointly with Davis and in which we
+found testimonial a declarant’s statements to police just
+after an assault. See 547 U. S., at 829–832. Based on this
+analysis, the Supreme Court of Michigan held that the
+admission of Covington’s statements constituted prejudi
+cial plain error warranting reversal and ordered a new
+trial. 483 Mich., at 151–153, 768 N. W. 2d, at 75–76. The
+court did not address whether, absent a Confrontation
+Clause bar, the statements’ admission would have been
+otherwise consistent with Michigan’s hearsay rules or due
+process.1
+——————
+1 The Supreme Court of Michigan held that the question whether the
+victim’s statements would have been admissible as “dying declarations”
+was not properly before it because at the preliminary examination, the
+prosecution, after first invoking both the dying declaration and excited
+utterance hearsay exceptions, established the factual foundation only
+for admission of the statements as excited utterances. The trial court
+ruled that the statements were admissible as excited utterances and
+did not address their admissibility as dying declarations. 483 Mich., at
+153–154, 768 N. W. 2d, at 76–77. This occurred prior to our 2004
+decision in Crawford v. Washington, 541 U. S. 36, where we first
+suggested that dying declarations, even if testimonial, might be admis
+sible as a historical exception to the Confrontation Clause. Id., at 56,
+n. 6; see also Giles v. California, 554 U. S. 353, 358–359 (2008). We
+
+
+Cite as: 562 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+The majority’s opinion provoked two dissents, both of
+which would have held Covington’s statements admissible
+because they were made in circumstances indicating that
+their “primary purpose” was to assist police in addressing
+an ongoing emergency. Id., at 157, 768 N. W. 2d, at 79
+(opinion of Weaver, J.); id., at 157–158, 768 N. W. 2d, at
+79 (opinion of Corrigan, J.). Justice Corrigan’s dissent
+explained that the time and space between “the onset of
+an emergency and statements about that emergency
+clearly must be considered in context.” Id., at 161, 768
+N. W. 2d, at 80. Justice Corrigan concluded that the
+objective circumstances of Covington’s interaction with
+police rendered this case more similar to the nontestimo
+nial statements in Davis than to the testimonial state
+ments in Crawford. 483 Mich., at 164, 768 N. W. 2d,
+at 82.
+We granted certiorari to determine whether the Con
+frontation Clause barred admission of Covington’s state
+ments. 559 U. S. ___ (2010).
+II
+The Confrontation Clause of the Sixth Amendment
+states: “In all criminal prosecutions, the accused shall
+enjoy the right . . . to be confronted with the witnesses
+against him.” The Fourteenth Amendment renders the
+Clause binding on the States. Pointer v. Texas, 380 U. S.
+400, 403 (1965). In Ohio v. Roberts, 448 U. S. 56, 66
+(1980), we explained that the confrontation right does not
+bar admission of statements of an unavailable witness if
+the statements “bea[r] adequate ‘indicia of reliability.’ ”
+——————
+noted in Crawford that we “need not decide in this case whether the
+Sixth Amendment incorporates an exception for testimonial dying
+declarations.” 541 U. S., at 56, n. 6. Because of the State’s failure to
+preserve its argument with regard to dying declarations, we similarly
+need not decide that question here. See also post, p. __ (GINSBURG, J.,
+dissenting).
+
+
+6
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+We held that reliability can be established if “the evidence
+falls within a firmly rooted hearsay exception,” or if it does
+not fall within such an exception, then if it bears “particu
+larized guarantees of trustworthiness.” Ibid.
+Nearly a quarter century later, we decided Crawford v.
+Washington, 541 U. S. 36. Petitioner Michael Crawford
+was prosecuted for stabbing a man who had allegedly
+attempted to rape his wife, Sylvia. Sylvia witnessed the
+stabbing, and later that night, after she and her husband
+were both arrested, police interrogated her about the
+incident. At trial, Sylvia Crawford claimed spousal privi
+lege and did not testify, but the State introduced a tape
+recording of Sylvia’s statement to the police in an effort to
+prove that the stabbing was not in self-defense, as Michael
+Crawford claimed. The Washington Supreme Court af
+firmed Crawford’s conviction because it found Sylvia’s
+statement to be reliable, as required under Ohio v. Rob
+erts. We reversed, overruling Ohio v. Roberts. 541 U. S.,
+at 60–68; see also Davis, 547 U. S., at 825, n. 4.
+Crawford examined the common-law history of the
+confrontation right and explained that “the principal evil
+at which the Confrontation Clause was directed was the
+civil-law mode of criminal procedure, and particularly its
+use of ex parte examinations as evidence against the ac
+cused.” 541 U. S., at 50. We noted that in England, pre
+trial examinations of suspects and witnesses by govern
+ment officials “were sometimes read in court in lieu of live
+testimony.” Id., at 43. In light of this history, we empha
+sized the word “witnesses” in the Sixth Amendment, defin
+ing it as “those who ‘bear testimony.’ ” Id., at 51 (quoting
+2 N. Webster, An American Dictionary of the English
+Language (1828)). We defined “testimony” as “ ‘ [a] solemn
+declaration or affirmation made for the purpose of estab
+lishing or proving some fact.’ ” 541 U. S., at 51 (quoting
+Webster). We noted that “[a]n accuser who makes a for
+mal statement to government officers bears testimony in a
+
+
+Cite as: 562 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+sense that a person who makes a casual remark to an
+acquaintance does not.” Ibid. We therefore limited the
+Confrontation Clause’s reach to testimonial statements
+and held that in order for testimonial evidence to be ad
+missible, the Sixth Amendment “demands what the com
+mon law required: unavailability and a prior opportunity
+for cross-examination.” Id., at 68. Although “leav[ing] for
+another day any effort to spell out a comprehensive defini
+tion of ‘testimonial,’ ” Crawford noted that “at a minimum”
+it includes “prior testimony at a preliminary hearing,
+before a grand jury, or at a former trial; and . . . police
+interrogations.” Ibid. Under this reasoning, we held that
+Sylvia Crawford’s statements in the course of police ques
+tioning were testimonial and that their admission when
+Michael Crawford “had no opportunity to cross-examine
+her” due to spousal privilege was “sufficient to make out a
+violation of the Sixth Amendment.” Ibid.
+In 2006, the Court in Davis v. Washington and Hammon
+v. Indiana, 547 U. S. 813, took a further step to “deter
+mine more precisely which police interrogations produce
+testimony” and therefore implicate a Confrontation Clause
+bar. Id., at 822. We explained that when Crawford said
+that
+“ ‘interrogations by law enforcement officers fall
+squarely within [the] class’ of testimonial hearsay, we
+had immediately in mind (for that was the case before
+us) interrogations solely directed at establishing the
+facts of a past crime, in order to identify (or provide
+evidence to convict) the perpetrator. The product of
+such interrogation, whether reduced to a writing
+signed by the declarant or embedded in the memory
+(and perhaps notes) of the interrogating officer, is tes
+timonial.” Davis, 547 U. S., at 826.
+We thus made clear in Davis that not all those questioned
+by the police are witnesses and not all “interrogations by
+
+
+8
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+law enforcement officers,” Crawford, 541 U. S., at 53, are
+subject to the Confrontation Clause.2
+Davis and Hammon were both domestic violence cases.
+In Davis, Michelle McCottry made the statements at issue
+to a 911 operator during a domestic disturbance with
+Adrian Davis, her former boyfriend. McCottry told the
+operator, “ ‘He’s here jumpin’ on me again,’ ” and, “ ‘He’s
+usin’ his fists.’ ” 547 U. S., at 817. The operator then
+asked McCottry for Davis’ first and last names and middle
+initial, and at that point in the conversation McCottry
+reported that Davis had fled in a car. Id., at 818.
+McCottry did not appear at Davis’ trial, and the State
+introduced the recording of her conversation with the 911
+operator. Id., at 819.
+In Hammon, decided along with Davis, police responded
+to a domestic disturbance call at the home of Amy and
+Hershel Hammon, where they found Amy alone on the
+front porch. Ibid. She appeared “ ‘somewhat frightened,’ ”
+but told them “ ‘nothing was the matter.’ ” Ibid. (quoting
+Hammon v. State, 829 N. E. 2d 444, 446–447 (Ind. 2005)).
+She gave the police permission to enter the house, where
+they saw a gas heating unit with the glass front shattered
+on the floor. One officer remained in the kitchen with
+Hershel, while another officer talked to Amy in the living
+room about what had happened. Hershel tried several
+times to participate in Amy’s conversation with the police
+and became angry when the police required him to stay
+separated from Amy. 547 U. S., at 819–820. The police
+asked Amy to fill out and sign a battery affidavit. She
+wrote: “ ‘Broke our Furnace & shoved me down on the floor
+——————
+2 We noted in Crawford that “[w]e use the term ‘interrogation’ in its
+colloquial, rather than any technical legal, sense,” and that “[j]ust as
+various definitions of ‘testimonial’ exist, one can imagine various
+definitions of ‘interrogation,’ and we need not select among them in this
+case.” 541 U. S., at 53, n. 4. Davis did not abandon those qualifica
+tions; nor do we do so here.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+into the broken glass. Hit me in the chest and threw me
+down. Broke our lamps & phone. Tore up my van where I
+couldn’t leave the house. Attacked my daughter.’ ” Id., at
+820. Amy did not appear at Hershel’s trial, so the police
+officers who spoke with her testified as to her statements
+and authenticated the affidavit. Ibid. The trial court
+admitted the affidavit as a present sense impression and
+admitted the oral statements as excited utterances under
+state hearsay rules. Ibid. The Indiana Supreme Court
+affirmed Hammon’s conviction, holding that Amy’s oral
+statements were not testimonial and that the admission of
+the affidavit, although erroneous because the affidavit was
+testimonial, was harmless. Hammon v. State, 829 N. E.
+2d, at 458–459.
+To address the facts of both cases, we expanded upon
+the meaning of “testimonial” that we first employed in
+Crawford and discussed the concept of an ongoing emer
+gency. We explained:
+“Statements are nontestimonial when made in the
+course of police interrogation under circumstances ob
+jectively indicating that the primary purpose of the
+interrogation is to enable police assistance to meet an
+ongoing emergency. They are testimonial when the
+circumstances objectively indicate that there is no
+such ongoing emergency, and that the primary pur
+pose of the interrogation is to establish or prove past
+events potentially relevant to later criminal prosecu
+tion.” Davis, 547 U. S., at 822.
+Examining the Davis and Hammon statements in light of
+those definitions, we held that the statements at issue
+in Davis were nontestimonial and the statements in
+Hammon were testimonial. We distinguished the state
+ments in Davis from the testimonial statements in Craw
+ford on several grounds, including that the victim in Davis
+was “speaking about events as they were actually happen
+
+
+10
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+ing, rather than ‘describ[ing] past events,’ ” that there was
+an ongoing emergency, that the “elicited statements were
+necessary to be able to resolve the present emergency,”
+and that the statements were not formal. 547 U. S., at
+827. In Hammon, on the other hand, we held that, “[i]t is
+entirely clear from the circumstances that the interroga
+tion was part of an investigation into possibly criminal
+past conduct.” Id., at 829. There was “no emergency in
+progress.” Ibid. The officer questioning Amy “was not
+seeking to determine . . . ‘what is happening,’ but rather
+‘what happened.’ ” Id., at 830. It was “formal enough”
+that the police interrogated Amy in a room separate from
+her husband where, “some time after the events described
+were over,” she “deliberately recounted, in response to
+police questioning, how potentially criminal past events
+began and progressed.” Ibid. Because her statements
+“were neither a cry for help nor the provision of informa
+tion enabling officers immediately to end a threatening
+situation,” id., at 832, we held that they were testimonial.
+Davis did not “attemp[t] to produce an exhaustive classi
+fication of all conceivable statements—or even all conceiv
+able statements in response to police interrogation—as
+either testimonial or nontestimonial.” Id., at 822.3 The
+——————
+3 Davis
+
+explained that 911 operators “may at least be agents of
+law enforcement when they conduct interrogations of 911 callers,” and
+therefore “consider[ed] their acts to be acts of the police” for purposes of
+the opinion. 547 U. S., at 823, n. 2. Davis explicitly reserved the
+question of “whether and when statements made to someone other than
+law enforcement personnel are ‘testimonial.’ ” Ibid. We have no need to
+decide that question in this case either because Covington’s statements
+were made to police officers. The dissent also claims to reserve this
+question, see post, at 3, n. 1 (opinion of SCALIA, J.), but supports one of
+its arguments by relying on King v. Brasier, 1 Leach 199, 200, 168 Eng.
+Rep. 202, 202–203 (K. B. 1779), which involved statements made by a
+child to her mother—a private citizen—just after the child had been
+sexually assaulted. See also Crawford v. Washington, 541 U. S. 36, 69–
+70 (2004) (Rehnquist, C. J., concurring in judgment) (citing King v.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+basic purpose of the Confrontation Clause was to “targe[t]”
+the sort of “abuses” exemplified at the notorious treason
+trial of Sir Walter Raleigh. Crawford, 541 U. S., at 51.
+Thus, the most important instances in which the Clause
+restricts the introduction of out-of-court statements are
+those in which state actors are involved in a formal, out-of
+court interrogation of a witness to obtain evidence for
+trial.4 See id., at 43–44. Even where such an interroga
+tion is conducted with all good faith, introduction of the
+resulting statements at trial can be unfair to the accused
+if they are untested by cross-examination. Whether for
+mal or informal, out-of-court statements can evade the
+basic objective of the Confrontation Clause, which is to
+prevent the accused from being deprived of the opportu
+nity to cross-examine the declarant about statements
+taken for use at trial. When, as in Davis, the primary
+purpose of an interrogation is to respond to an “ongoing
+emergency,” its purpose is not to create a record for trial
+and thus is not within the scope of the Clause. But there
+may be other circumstances, aside from ongoing emergen
+cies, when a statement is not procured with a primary
+purpose of creating an out-of-court substitute for trial
+testimony. In making the primary purpose determination,
+standard rules of hearsay, designed to identify some state
+——————
+Brasier for the different proposition that “out-of-court statements made
+by someone other than the accused and not taken under oath, unlike ex
+parte depositions or affidavits, were generally not considered substan
+tive evidence upon which a conviction could be based”).
+4 Contrary to the dissent’s excited suggestion, nothing in this opinion
+casts “favorable light,” post, at 11 (opinion of SCALIA, J.), on the conduct
+of Sir Walter Raleigh’s trial or other 16th- and 17th-century English
+treason trials. The dissent is correct that such trials are “unquestiona
+bly infamous,” ibid., and our decision here confirms, rather than un
+dermines, that assessment. See also n. 17, infra. For all of the
+reasons discussed in JUSTICE THOMAS’ opinion concurring in the judg
+ment, the situation presented in this case is nothing like the circum
+stances presented by Sir Walter Raleigh’s trial. See post, p. __.
+
+
+12
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+ments as reliable, will be relevant. Where no such pri
+mary purpose exists, the admissibility of a statement is
+the concern of state and federal rules of evidence, not the
+Confrontation Clause.5
+Deciding this case also requires further explanation of
+the “ongoing emergency” circumstance addressed in Davis.
+Because Davis and Hammon arose in the domestic vio
+lence context, that was the situation “we had immediately
+in mind (for that was the case before us).” 547 U. S., at
+826. We now face a new context: a nondomestic dispute,
+involving a victim found in a public location, suffering
+from a fatal gunshot wound, and a perpetrator whose
+location was unknown at the time the police located the
+victim. Thus, we confront for the first time circumstances
+in which the “ongoing emergency” discussed in Davis
+extends beyond an initial victim to a potential threat to
+the responding police and the public at large. This new
+context requires us to provide additional clarification with
+regard to what Davis meant by “the primary purpose of
+the interrogation is to enable police assistance to meet an
+ongoing emergency.” Id., at 822.
+III
+To determine whether the “primary purpose” of an
+interrogation is “to enable police assistance to meet an
+ongoing emergency,” Davis, 547 U. S., at 822, which would
+render the resulting statements nontestimonial, we objec
+tively evaluate the circumstances in which the encounter
+occurs and the statements and actions of the parties.
+——————
+5 See Davis v. Washington, 547 U. S. 813, 823–824 (2006) (explaining
+the question before the Court as “whether the Confrontation Clause
+applies only to testimonial hearsay” and answering in the affirmative
+because “[a] limitation so clearly reflected in the text of the constitu
+tional provision must fairly be said to mark out not merely its ‘core,’ but
+its perimeter”). See also post, at 2 (SCALIA, J., dissenting).
+
+
+Cite as: 562 U. S. ____ (2011) 
+
+
+13
+
+Opinion of the Court 
+
+
+A
+
+The Michigan Supreme Court correctly understood that
+this inquiry is objective.6 483 Mich., at 142, 768 N. W. 2d,
+at 70. Davis uses the word “objective” or “objectively” no
+fewer than eight times in describing the relevant inquiry.
+See 547 U. S., at 822, 826–828, 830–831, and n. 5; see, e.g.,
+id., at 826 (“The question before us in Davis, then, is
+whether, objectively considered, the interrogation that
+took place in the course of the 911 call produced testimo
+nial statements”). “Objectively” also appears in the defini
+tions of both testimonial and nontestimonial statements
+that Davis established. Id., at 822.
+An objective analysis of the circumstances of an encoun
+ter and the statements and actions of the parties to it
+provides the most accurate assessment of the “primary
+purpose of the interrogation.” The circumstances in which
+an encounter occurs—e.g., at or near the scene of the crime
+versus at a police station, during an ongoing emergency
+or afterwards—are clearly matters of objective fact. The
+statements and actions of the parties must also be objec
+tively evaluated. That is, the relevant inquiry is not the
+subjective or actual purpose of the individuals involved in
+a particular encounter, but rather the purpose that rea
+sonable participants would have had, as ascertained from
+the individuals’ statements and actions and the circum
+stances in which the encounter occurred.7
+——————
+6 Bryant
+
+suggests that Michigan is arguing for “a subjective analysis
+of the intent of the interrogator’s questioning.” Brief for Respondent
+12. We do not read Michigan’s brief to be arguing for a subjective
+inquiry, and any such argument would be in error. We do not under
+stand the dissent to disagree that the inquiry is objective.
+7 This approach is consistent with our rejection of subjective inquiries
+in other areas of criminal law. See, e.g., Whren v. United States, 517
+U. S. 806, 813 (1996) (refusing to evaluate Fourth Amendment reason
+ableness subjectively in light of the officers’ actual motivations); New
+York v. Quarles, 467 U. S. 649, 655–656, and n. 6 (1984) (holding that
+an officer’s subjective motivation is irrelevant to determining the
+
+
+14
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+B
+As our recent Confrontation Clause cases have ex
+plained, the existence of an “ongoing emergency” at the
+time of an encounter between an individual and the police
+is among the most important circumstances informing the
+“primary purpose” of an interrogation. See Davis, 547
+U. S., at 828–830; Crawford, 541 U. S., at 65. The exis
+tence of an ongoing emergency is relevant to determining
+the primary purpose of the interrogation because an
+emergency focuses the participants on something other
+than “prov[ing] past events potentially relevant to later
+criminal prosecution.”8 Davis, 547 U. S., at 822. Rather,
+it focuses them on “end[ing] a threatening situation.” Id.,
+at 832. Implicit in Davis is the idea that because the
+prospect of fabrication in statements given for the primary
+purpose of resolving that emergency is presumably signifi
+cantly diminished, the Confrontation Clause does not
+require such statements to be subject to the crucible of
+cross-examination.
+This logic is not unlike that justifying the excited utter
+ance exception in hearsay law. Statements “relating to a
+startling event or condition made while the declarant was
+under the stress of excitement caused by the event or
+—————— 
+
+applicability of the public safety exception to Miranda v. Arizona, 384
+
+U. S. 436 (1966)); Rhode Island v. Innis, 446 U. S. 291, 301–302 (1980)
+(holding that a police officer’s subjective intent to obtain incriminatory
+statements is not relevant to determining whether an interrogation has
+occurred).
+8 The existence of an ongoing emergency must be objectively assessed
+from the perspective of the parties to the interrogation at the time, not
+with the benefit of hindsight. If the information the parties knew at
+the time of the encounter would lead a reasonable person to believe
+that there was an emergency, even if that belief was later proved
+incorrect, that is sufficient for purposes of the Confrontation Clause.
+The emergency is relevant to the “primary purpose of the interrogation”
+because of the effect it has on the parties’ purpose, not because of its
+actual existence.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+15
+
+Opinion of the Court
+
+condition,” Fed. Rule Evid. 803(2); see also Mich. Rule
+Evid. 803(2) (2010), are considered reliable because the
+declarant, in the excitement, presumably cannot form a
+falsehood. See Idaho v. Wright, 497 U. S. 805, 820 (1990)
+(“The basis for the ‘excited utterance’ exception . . . is that
+such statements are given under circumstances that
+eliminate the possibility of fabrication, coaching, or con
+fabulation . . . ”); 5 J. Weinstein & M. Berger, Weinstein’s
+Federal Evidence §803.04[1] (J. McLaughlin ed., 2d ed.
+2010) (same); Advisory Committee’s Notes on Fed. Rule
+Evid. 803(2), 28 U. S. C. App., p. 371 (same). An ongoing
+emergency has a similar effect of focusing an individual’s
+attention on responding to the emergency.9
+Following our precedents, the court below correctly
+began its analysis with the circumstances in which Cov
+ington interacted with the police. 483 Mich., at 143, 768
+——————
+9 Many other exceptions to the hearsay rules similarly rest on the
+belief that certain statements are, by their nature, made for a purpose
+other than use in a prosecution and therefore should not be barred by
+hearsay prohibitions. See, e.g., Fed. Rule Evid. 801(d)(2)(E) (statement
+by a co-conspirator during and in furtherance of the conspiracy); 803(4)
+(Statements for Purposes of Medical Diagnosis or Treatment); 803(6)
+(Records of Regularly Conducted Activity); 803(8) (Public Records and
+Reports); 803(9) (Records of Vital Statistics); 803(11) (Records of Reli
+gious Organizations); 803(12) (Marriage, Baptismal, and Similar
+Certificates); 803(13) (Family Records); 804(b)(3) (Statement Against
+Interest); see also Melendez-Diaz v. Massachusetts, 557 U. S. __, __
+(2009) (slip op., at 18) (“Business and public records are generally
+admissible absent confrontation not because they qualify under an
+exception to the hearsay rules, but because—having been created for
+the administration of an entity’s affairs and not for the purpose of
+establishing or proving some fact at trial—they are not testimonial”);
+Giles v. California, 554 U. S., at 376 (noting in the context of domestic
+violence that “[s]tatements to friends and neighbors about abuse and
+intimidation and statements to physicians in the course of receiving
+treatment would be excluded, if at all, only by hearsay rules”); Craw
+ford, 541 U. S., at 56 (“Most of the hearsay exceptions covered state
+ments that by their nature were not testimonial—for example, business
+records or statements in furtherance of a conspiracy”).
+
+
+16
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+N. W. 2d, at 71. But in doing so, the court construed Davis
+to have decided more than it did and thus employed an
+unduly narrow understanding of “ongoing emergency” that
+Davis does not require.
+First, the Michigan Supreme Court repeatedly and
+incorrectly asserted that Davis “defined” “ ‘ongoing emer
+gency.’ ” 483 Mich., at 147, 768 N. W. 2d, at 73; see also
+id., at 144, 768 N. W. 2d, at 71–72. In fact, Davis did not
+even define the extent of the emergency in that case. The
+Michigan Supreme Court erroneously read Davis as decid
+ing that “the statements made after the defendant stopped
+assaulting the victim and left the premises did not occur
+during an ‘ongoing emergency.’ ” 483 Mich., at 150, n. 15,
+768 N. W. 2d, at 75, n. 15. We explicitly explained in
+Davis, however, that we were asked to review only the
+testimonial nature of Michelle McCottry’s initial state
+ments during the 911 call; we therefore merely assumed
+the correctness of the Washington Supreme Court’s hold
+ing that admission of her other statements was harmless,
+without deciding whether those subsequent statements
+were also made for the primary purpose of resolving an
+ongoing emergency. 547 U. S., at 829.
+Second, by assuming that Davis defined the outer
+bounds of “ongoing emergency,” the Michigan Supreme
+Court failed to appreciate that whether an emergency
+exists and is ongoing is a highly context-dependent in
+quiry. See Brief for United States as Amicus Curiae 20.
+Davis and Hammon involved domestic violence, a known
+and identified perpetrator, and, in Hammon, a neutralized
+threat. Because Davis and Hammon were domestic vio
+lence cases, we focused only on the threat to the victims
+and assessed the ongoing emergency from the perspective
+of whether there was a continuing threat to them. 547
+U. S., at 827, 829–830.
+Domestic violence cases like Davis and Hammon often
+have a narrower zone of potential victims than cases
+
+
+Cite as: 562 U. S. ____ (2011)
+
+17
+
+Opinion of the Court
+
+involving threats to public safety. An assessment of
+whether an emergency that threatens the police and pub
+lic is ongoing cannot narrowly focus on whether the threat
+solely to the first victim has been neutralized because the
+threat to the first responders and public may continue.
+See 483 Mich., at 164, 768 N. W. 2d, at 82 (Corrigan, J.,
+dissenting) (examining the threat to the victim, police, and
+the public); Brief for United States as Amicus Curiae 19–
+20 (“An emergency posed by an unknown shooter who
+remains at large does not automatically abate just because
+the police can provide security to his first victim”).
+The Michigan Supreme Court also did not appreciate
+that the duration and scope of an emergency may depend
+in part on the type of weapon employed. The court relied
+on Davis and Hammon, in which the assailants used their
+fists, as controlling the scope of the emergency here, which
+involved the use of a gun. The problem with that reason
+ing is clear when considered in light of the assault on Amy
+Hammon. Hershel Hammon was armed only with his fists
+when he attacked his wife, so removing Amy to a separate
+room was sufficient to end the emergency. 547 U. S., at
+830–832. If Hershel had been reported to be armed with a
+gun, however, separation by a single household wall might
+not have been sufficient to end the emergency. Id., at 819.
+The Michigan Supreme Court’s failure to focus on the
+context-dependent nature of our Davis decision also led it
+to conclude that the medical condition of a declarant is
+irrelevant. 483 Mich., at 149, 768 N. W. 2d, at 74 (“The
+Court said nothing at all that would remotely suggest that
+whether the victim was in need of medical attention was
+in any way relevant to whether there was an ‘ongoing
+emergency’ ”). But Davis and Hammon did not present
+medical emergencies, despite some injuries to the victims.
+547 U. S., at 818, 820. Thus, we have not previously
+considered, much less ruled out, the relevance of a victim’s
+severe injuries to the primary purpose inquiry.
+
+
+18
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+Taking into account the victim’s medical state does not,
+as the Michigan Supreme Court below thought, “rende[r]
+non-testimonial” “all statements made while the police are
+questioning a seriously injured complainant.” 483 Mich.,
+at 149, 768 N. W. 2d, at 74. The medical condition of the
+victim is important to the primary purpose inquiry to the
+extent that it sheds light on the ability of the victim to
+have any purpose at all in responding to police questions
+and on the likelihood that any purpose formed would
+necessarily be a testimonial one. The victim’s medical
+state also provides important context for first responders
+to judge the existence and magnitude of a continuing
+threat to the victim, themselves, and the public.
+As the Solicitor General’s brief observes, Brief for
+United States as Amicus Curiae 20, and contrary to the
+Michigan Supreme Court’s claims, 483 Mich., at 147, 768
+N. W. 2d, at 73, none of this suggests that an emergency is
+ongoing in every place or even just surrounding the victim
+for the entire time that the perpetrator of a violent crime
+is on the loose. As we recognized in Davis, “a conversation
+which begins as an interrogation to determine the need for
+emergency assistance” can “evolve into testimonial state
+ments.” 547 U. S., at 828 (internal quotation marks omit
+ted). This evolution may occur if, for example, a declarant
+provides police with information that makes clear that
+what appeared to be an emergency is not or is no longer an
+emergency or that what appeared to be a public threat is
+actually a private dispute. It could also occur if a perpe
+trator is disarmed, surrenders, is apprehended, or, as in
+Davis, flees with little prospect of posing a threat to the
+public. Trial courts can determine in the first instance
+when any transition from nontestimonial to testimonial
+occurs,10 and exclude “the portions of any statement that
+——————
+10 Recognizing the evolutionary potential of a situation in criminal
+law is not unique to the Confrontation Clause context. We noted in
+
+
+Cite as: 562 U. S. ____ (2011)
+
+19
+
+Opinion of the Court
+
+have become testimonial, as they do, for example, with
+unduly prejudicial portions of otherwise admissible evi
+dence.” Id., at 829.
+Finally, our discussion of the Michigan Supreme Court’s
+misunderstanding of what Davis meant by “ongoing emer
+gency” should not be taken to imply that the existence vel
+non of an ongoing emergency is dispositive of the testimo
+nial inquiry. As Davis made clear, whether an ongoing
+emergency exists is simply one factor—albeit an important
+factor—that informs the ultimate inquiry regarding the
+“primary purpose” of an interrogation. Another factor the
+Michigan Supreme Court did not sufficiently account for is
+the importance of informality in an encounter between a
+victim and police. Formality is not the sole touchstone of
+our primary purpose inquiry because, although formality
+suggests the absence of an emergency and therefore an
+increased likelihood that the purpose of the interrogation
+is to “establish or prove past events potentially relevant to
+later criminal prosecution,” id., at 822, informality does
+not necessarily indicate the presence of an emergency or
+the lack of testimonial intent. Cf. id., at 826 (explaining
+that Confrontation Clause requirements cannot “readily
+be evaded” by the parties deliberately keeping the written
+product of an interrogation informal “instead of having the
+declarant sign a deposition”). The court below, however,
+too readily dismissed the informality of the circumstances
+in this case in a single brief footnote and in fact seems to
+have suggested that the encounter in this case was formal.
+483 Mich., at 150, n. 16, 768 N. W. 2d, at 75, n. 16. As we
+——————
+Davis that “[j]ust as, for Fifth Amendment purposes, ‘police officers can
+and will distinguish almost instinctively between questions necessary
+to secure their own safety or the safety of the public and questions
+designed solely to elicit testimonial evidence from a suspect, . . . trial
+courts will recognize the point at which, for Sixth Amendment pur
+poses, statements in response to interrogations become testimonial.”
+547 U. S., at 829 (quoting New York v. Quarles, 467 U. S., at 658–659).
+
+
+20
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+explain further below, the questioning in this case oc
+curred in an exposed, public area, prior to the arrival of
+emergency medical services, and in a disorganized fashion.
+All of those facts make this case distinguishable from
+the formal station-house interrogation in Crawford. See
+Davis, 547 U. S., at 827.
+C
+In addition to the circumstances in which an encounter
+occurs, the statements and actions of both the declarant
+and interrogators provide objective evidence of the pri
+mary purpose of the interrogation. See, e.g., Davis, 547
+U. S., at 827 (“[T]he nature of what was asked and an
+swered in Davis, again viewed objectively, was such that
+the elicited statements were necessary to be able to resolve
+the present emergency, rather than simply to learn (as in
+Crawford) what had happened in the past” (first emphasis
+added)). The Michigan Supreme Court did, at least
+briefly, conduct this inquiry. 483 Mich., at 144–147, 768
+N. W. 2d, at 71–73.
+As the Michigan Supreme Court correctly recognized,
+id., at 140, n. 5, 768 N. W. 2d, at 69, n. 5, Davis requires a
+combined inquiry that accounts for both the declarant and
+the interrogator.11 In many instances, the primary pur
+——————
+11 Some
+
+portions of Davis, however, have caused confusion about
+whether the inquiry prescribes examination of one participant to the
+exclusion of the other. Davis’ language indicating that a statement’s
+testimonial or nontestimonial nature derives from “the primary pur
+pose of the interrogation,” 547 U. S., at 822 (emphasis added), could be
+read to suggest that the relevant purpose is that of the interrogator. In
+contrast, footnote 1 in Davis explains, “it is in the final analysis the
+declarant’s statements, not the interrogator’s questions, that the
+Confrontation Clause requires us to evaluate.” Id., at 822–823, n. 1.
+Bryant draws on the footnote to argue that the primary purpose inquiry
+must be conducted solely from the perspective of the declarant, and
+argues against adoption of a purpose-of-the-interrogator perspective.
+Brief for Respondent 10–13; see also Brief for Richard D. Friedman as
+Amicus Curiae 5–15. But this statement in footnote 1 of Davis merely
+
+
+Cite as: 562 U. S. ____ (2011)
+
+21
+
+Opinion of the Court
+
+pose of the interrogation will be most accurately ascer
+tained by looking to the contents of both the questions and
+the answers. To give an extreme example, if the police say
+to a victim, “Tell us who did this to you so that we can
+arrest and prosecute them,” the victim’s response that
+“Rick did it,” appears purely accusatory because by virtue
+of the phrasing of the question, the victim necessarily has
+prosecution in mind when she answers.
+The combined approach also ameliorates problems that
+could arise from looking solely to one participant. Pre
+dominant among these is the problem of mixed motives
+on the part of both interrogators and declarants. Police
+officers in our society function as both first responders and
+criminal investigators. Their dual responsibilities may
+mean that they act with different motives simultaneously
+or in quick succession. See New York v. Quarles, 467 U. S.
+649, 656 (1984) (“Undoubtedly most police officers [decid
+ing whether to give Miranda warnings in a possible emer
+gency situation] would act out of a host of different, in
+stinctive, and largely unverifiable motives—their own
+safety, the safety of others, and perhaps as well the desire
+to obtain incriminating evidence from the suspect”); see
+also Davis, 547 U. S., at 839 (THOMAS, J., concurring in
+judgment in part and dissenting in part) (“In many, if not
+most, cases where police respond to a report of a crime,
+whether pursuant to a 911 call from the victim or other
+wise, the purposes of an interrogation, viewed from the
+perspective of the police, are both to respond to the emer
+——————
+acknowledges that the Confrontation Clause is not implicated when
+statements are offered “for purposes other than establishing the truth
+of the matter asserted.” Crawford, 541 U. S., at 60, n. 9. An interroga
+tor’s questions, unlike a declarant’s answers, do not assert the truth of
+any matter. The language in the footnote was not meant to determine
+how the courts are to assess the nature of the declarant’s purpose, but
+merely to remind readers that it is the statements, and not the ques
+tions, that must be evaluated under the Sixth Amendment.
+
+
+22
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+gency situation and to gather evidence”).
+Victims are also likely to have mixed motives when they
+make statements to the police. During an ongoing emer
+gency, a victim is most likely to want the threat to her and
+to other potential victims to end, but that does not neces
+sarily mean that the victim wants or envisions prosecution
+of the assailant. A victim may want the attacker to be
+incapacitated temporarily or rehabilitated. Alternatively,
+a severely injured victim may have no purpose at all in
+answering questions posed; the answers may be simply
+reflexive. The victim’s injuries could be so debilitating
+as to prevent her from thinking sufficiently clearly to un
+derstand whether her statements are for the purpose of
+addressing an ongoing emergency or for the purpose of fu
+ture prosecution.12 Taking into account a victim’s injuries
+does not transform this objective inquiry into a subjective
+one. The inquiry is still objective because it focuses on the
+understanding and purpose of a reasonable victim in the
+circumstances of the actual victim—circumstances that
+prominently include the victim’s physical state.
+The dissent suggests, post, at 3–4 (opinion of SCALIA, J.),
+that we intend to give controlling weight to the “intentions
+of the police,” post, at 4. That is a misreading of our opin
+ion. At trial, the declarant’s statements, not the interro
+gator’s questions, will be introduced to “establis[h] the
+truth of the matter asserted,” Crawford, 541 U. S., at 60,
+n. 9, and must therefore pass the Sixth Amendment test.
+——————
+12 In such a situation, the severe injuries of the victim would un
+doubtedly also weigh on the credibility and reliability that the trier of
+fact would afford to the statements. Cf. Advisory Committee’s Notes on
+Fed. Rule Evid. 803(2), 28 U. S. C. App., p. 371 (noting that although
+the “theory” of the excited utterance exception “has been criticized on
+the ground that excitement impairs [the] accuracy of observation as
+well as eliminating conscious fabrication,” it “finds support in cases
+without number” (citing 6 J. Wigmore, Evidence §1750 (J. Chadbourn
+rev. 1976))).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+23
+
+Opinion of the Court
+
+See n. 11, supra. In determining whether a declarant’s
+statements are testimonial, courts should look to all of the
+relevant circumstances. Even JUSTICE SCALIA concedes
+that the interrogator is relevant to this evaluation, post,
+at 3, and we agree that “[t]he identity of an interrogator,
+and the content and tenor of his questions,” ibid., can illu
+minate the “primary purpose of the interrogation.” The
+dissent, see post, at 3–5 (opinion of SCALIA, J.), criticizes
+the complexity of our approach, but we, at least, are un
+willing to sacrifice accuracy for simplicity. Simpler is not
+always better, and courts making a “primary purpose”
+assessment should not be unjustifiably restrained from
+consulting all relevant information, including the state
+ments and actions of interrogators.
+Objectively ascertaining the primary purpose of the
+interrogation by examining the statements and actions of
+all participants is also the approach most consistent with
+our past holdings. E.g., Davis, 547 U. S., at 822–823, n. 1
+(noting that “volunteered testimony” is still testimony and
+remains subject to the requirements of the Confrontation
+Clause).
+IV
+As we suggested in Davis, when a court must determine
+whether the Confrontation Clause bars the admission of a
+statement at trial, it should determine the “primary pur
+pose of the interrogation” by objectively evaluating the
+statements and actions of the parties to the encounter, in
+light of the circumstances in which the interrogation
+occurs. The existence of an emergency or the parties’
+perception that an emergency is ongoing is among the
+most important circumstances that courts must take into
+account in determining whether an interrogation is tes
+timonial because statements made to assist police in
+addressing an ongoing emergency presumably lack the
+testimonial purpose that would subject them to the
+
+
+24
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+requirement of confrontation.13 As the context of this case
+brings into sharp relief, the existence and duration of an
+emergency depend on the type and scope of danger posed
+to the victim, the police, and the public.
+Applying this analysis to the facts of this case is more
+difficult than in Davis because we do not have the luxury
+of reviewing a transcript of the conversation between the
+victim and the police officers. Further complicating our
+task is the fact that the trial in this case occurred before
+our decisions in Crawford and Davis. We therefore review
+a record that was not developed to ascertain the “primary
+purpose of the interrogation.”
+We first examine the circumstances in which the inter
+rogation occurred. The parties disagree over whether
+there was an emergency when the police arrived at the gas
+station. Bryant argues, and the Michigan Supreme Court
+accepted, 483 Mich., at 147, 768 N. W. 2d, at 73, that there
+was no ongoing emergency because “there . . . was no
+criminal conduct occurring. No shots were being fired, no
+one was seen in possession of a firearm, nor were any
+witnesses seen cowering in fear or running from the
+scene.” Brief for Respondent 27. Bryant, while conceding
+that “a serious or life-threatening injury creates a medical
+emergency for a victim,” id., at 30, further argues that a
+declarant’s medical emergency is not relevant to the ongo
+——————
+13 Of course the Confrontation Clause is not the only bar to admissi
+bility of hearsay statements at trial. State and federal rules of evidence
+prohibit the introduction of hearsay, subject to exceptions. Consistent
+with those rules, the Due Process Clauses of the Fifth and Fourteenth
+Amendments may constitute a further bar to admission of, for example,
+unreliable evidence. See Montana v. Egelhoff, 518 U. S. 37, 53 (1996)
+(plurality opinion) (“[E]rroneous evidentiary rulings can, in combina
+tion, rise to the level of a due process violation”); Dutton v. Evans, 400
+U. S. 74, 96–97 (1970) (Harlan, J., concurring in result) (“[T]he Fifth
+and Fourteenth Amendments’ commands that federal and state trials,
+respectively, must be conducted in accordance with due process of law”
+are the “standard” by which to “test federal and state rules of evidence”).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+25
+
+Opinion of the Court
+
+ing emergency determination.
+In contrast, Michigan and the Solicitor General explain
+that when the police responded to the call that a man had
+been shot and found Covington bleeding on the gas station
+parking lot, “they did not know who Covington was,
+whether the shooting had occurred at the gas station or at
+a different location, who the assailant was, or whether the
+assailant posed a continuing threat to Covington or oth
+ers.” Brief for United States as Amicus Curiae 15; Brief
+for Petitioner 16; see also id., at 15 (“[W]hen an officer
+arrives on the scene and does not know where the perpe
+trator is, whether he is armed, whether he might have
+other targets, and whether the violence might continue
+at the scene or elsewhere, interrogation that has the pri
+mary purpose of establishing those facts to assess the situ
+ation is designed to meet the ongoing emergency and is
+nontestimonial”).
+The Michigan Supreme Court stated that the police
+asked Covington, “what had happened, who had shot him,
+and where the shooting had occurred.” 483 Mich., at 143,
+768 N. W. 2d, at 71. The joint appendix contains the
+transcripts of the preliminary examination, suppression
+hearing, and trial testimony of five officers who responded
+to the scene and found Covington. The officers’ testimony
+is essentially consistent but, at the same time, not specific.
+The officers basically agree on what information they
+learned from Covington, but not on the order in which
+they learned it or on whether Covington’s statements were
+in response to general or detailed questions. They all
+agree that the first question was “what happened?” The
+answer was either “I was shot” or “Rick shot me.”14
+——————
+14 See App. 76 (testimony of Officer McCallister); id., at 101, 113–114
+(testimony of Sgt. Wenturine); id., at 127, 131–133 (testimony of Officer
+Stuglin). Covington told them that Rick had shot him through the back
+door of Rick’s house, id., at 127–128 (testimony of Officer Stuglin),
+located at the corner of Pennsylvania and Laura, id., at 102 (testimony
+
+
+26
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+As explained above, the scope of an emergency in terms
+of its threat to individuals other than the initial assailant
+and victim will often depend on the type of dispute in
+volved. Nothing Covington said to the police indicated
+that the cause of the shooting was a purely private dispute
+or that the threat from the shooter had ended. The record
+reveals little about the motive for the shooting. The police
+officers who spoke with Covington at the gas station testi
+fied that Covington did not tell them what words Coving
+ton and Rick had exchanged prior to the shooting.15 What
+Covington did tell the officers was that he fled Bryant’s
+back porch, indicating that he perceived an ongoing
+threat.16 The police did not know, and Covington did not
+tell them, whether the threat was limited to him. The
+——————
+of Sgt. Wenturine), and that Covington recognized Rick by his voice, id.,
+at 128 (testimony of Officer Stuglin). Covington also gave them a
+physical description of Rick. Id., at 84–85, 93–94 (testimony of Officer
+McAllister); id., at 103, 115 (testimony of Sgt. Wenturine); id., at 134
+(testimony of Officer Stuglin).
+15 See id., at 114 (“Q Did he tell you what Rick said? A He said they
+were having a conversation. Q Did he tell you what Rick said? A He
+did not” (testimony of Sgt. Wenturine) (paragraph breaks omitted)); see
+also id., at 79 (testimony of Officer McAllister); id., at 128 (testimony of
+Officer Stuglin).
+16 See id., at 127–128 (“A He said he’d went up, he went up to the
+back door of a house; that a person he said he knew, and he was knock
+ing and he was knocking on the door he said he’d talked to somebody
+through the door. He said he recognized the voice. Q Did he say who it
+was that he recognized the voice of? A That’s when he told me it was,
+he said it was Rick a/k/a Buster. Q And did he say what the conversa
+tion was about at the door? A I don’t, I don’t believe so. Q All right.
+And did he say what happened there, whether or not they had a con
+versation or not, did he say what ended up happening? A He said what
+happened was that he heard a shot and then he started to turn to get
+off the porch and then another one and then that’s when he was hit by
+a gunshot” (testimony of Officer Stuglin) (paragraph breaks omitted)).
+Unlike the dissent’s apparent ability to read Covington’s mind, post, at
+6 (opinion of SCALIA, J.), we rely on the available evidence, which
+suggests that Covington perceived an ongoing threat.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+27
+
+Opinion of the Court
+
+potential scope of the dispute and therefore the emergency
+in this case thus stretches more broadly than those at
+issue in Davis and Hammon and encompasses a threat
+potentially to the police and the public.
+This is also the first of our post-Crawford Confrontation
+Clause cases to involve a gun. The physical separation
+that was sufficient to end the emergency in Hammon was
+not necessarily sufficient to end the threat in this case;
+Covington was shot through the back door of Bryant’s
+house. Bryant’s argument that there was no ongoing
+emergency because “[n]o shots were being fired,” Brief for
+Respondent 27, surely construes ongoing emergency too
+narrowly. An emergency does not last only for the time
+between when the assailant pulls the trigger and the
+bullet hits the victim. If an out-of-sight sniper pauses
+between shots, no one would say that the emergency
+ceases during the pause. That is an extreme example and
+not the situation here, but it serves to highlight the im
+plausibility, at least as to certain weapons, of construing
+the emergency to last only precisely as long as the violent
+act itself, as some have construed our opinion in Davis.
+See Brief for Respondent 23–25.
+At no point during the questioning did either Covington
+or the police know the location of the shooter. In fact,
+Bryant was not at home by the time the police searched
+his house at approximately 5:30 a.m. 483 Mich., at 136,
+768 N. W. 2d, at 67. At some point between 3 a.m. and
+5:30 a.m., Bryant left his house. At bottom, there was an
+ongoing emergency here where an armed shooter, whose
+motive for and location after the shooting were unknown,
+had mortally wounded Covington within a few blocks
+and a few minutes of the location where the police found
+Covington.17
+——————
+17 It hardly bears mention that the emergency situation in this case is
+readily distinguishable from the “treasonous conspiracies of unknown
+
+
+28
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+This is not to suggest that the emergency continued
+until Bryant was arrested in California a year after the
+shooting. Id., at 137, 768 N. W. 2d, at 67. We need not
+decide precisely when the emergency ended because Cov
+ington’s encounter with the police and all of the state
+ments he made during that interaction occurred within
+the first few minutes of the police officers’ arrival and
+well before they secured the scene of the shooting—the
+shooter’s last known location.
+We reiterate, moreover, that the existence vel non of an
+ongoing emergency is not the touchstone of the testimonial
+inquiry; rather, the ultimate inquiry is whether the “pri
+mary purpose of the interrogation [was] to enable police
+assistance to meet [the] ongoing emergency.” Davis, 547
+U. S., at 822. We turn now to that inquiry, as informed by
+the circumstances of the ongoing emergency just de
+scribed. The circumstances of the encounter provide im
+portant context for understanding Covington’s statements
+to the police. When the police arrived at Covington’s side,
+their first question to him was “What happened?”18 Cov
+ington’s response was either “Rick shot me” or “I was
+shot,” followed very quickly by an identification of “Rick”
+——————
+scope, aimed at killing or overthrowing the king,” post, at 11, about
+which JUSTICE SCALIA’s dissent is quite concerned.
+18 Although the dissent claims otherwise, post, at 7 (opinion of
+SCALIA, J.), at least one officer asked Covington something akin to “how
+was he doing.” App. 131 (testimony of Officer Stuglin) (“A I approached
+the subject, the victim, Mr. Covington, on the ground and had asked
+something like what happened or are you okay, something to that
+line. . . . Q So you asked this man how are you, how are you doing? A
+Well, basically it’s, you know, what’s wrong, you know” (paragraph
+breaks omitted)). The officers also testified about their assessment of
+Covington’s wounds. See id., at 35 (suppression hearing testimony of
+Officer Brown) (“[H]e had blood . . . on the front of his body”); id., at 75
+(testimony of Officer McCallister) (“It appeared he had a stomach
+wound of a gunshot”); id., at 132 (testimony of Officer Stuglin) (“Q Did
+you see the wound? A Yes, I did. Q You had to move some clothing to
+do that? A Yes” (paragraph breaks omitted)).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+29
+
+Opinion of the Court
+
+as the shooter. App. 76. In response to further questions,
+Covington explained that the shooting occurred through
+the back door of Bryant’s house and provided a physical
+description of the shooter. When he made the statements,
+Covington was lying in a gas station parking lot bleeding
+from a mortal gunshot wound to his abdomen. His an
+swers to the police officers’ questions were punctuated
+with questions about when emergency medical services
+would arrive. Id., at 56–57 (suppression hearing testi
+mony of Officer Brown). He was obviously in considerable
+pain and had difficulty breathing and talking. Id., at 75,
+83–84 (testimony of Officer McCallister); id., at 101, 110–
+111 (testimony of Sgt. Wenturine); id., at 126, 137 (testi
+mony of Officer Stuglin). From this description of his
+condition and report of his statements, we cannot say that
+a person in Covington’s situation would have had a “pri
+mary purpose” “to establish or prove past events poten
+tially relevant to later criminal prosecution.” Davis, 547
+U. S., at 822.
+For their part, the police responded to a call that a man
+had been shot. As discussed above, they did not know
+why, where, or when the shooting had occurred. Nor did
+they know the location of the shooter or anything else
+about the circumstances in which the crime occurred.19
+——————
+19 Contrary to the dissent’s suggestion, post, at 8 (opinion of SCALIA,
+J.), and despite the fact that the record was developed prior to Davis’
+focus on the existence of an “ongoing emergency,” the record contains
+some testimony to support the idea that the police officers were con
+cerned about the location of the shooter when they arrived on the scene
+and thus to suggest that the purpose of the questioning of Covington
+was to determine the shooter’s location. See App. 136 (testimony of
+Officer Stuglin) (stating that upon arrival officers questioned the gas
+station clerk about whether the shooting occurred in the gas station
+parking lot and about concern for safety); see also ibid. (testimony of
+Officer Stuglin) (“Q . . . So you have some concern, there may be a
+person with a gun or somebody, a shooter right there in the immediate
+area? A Sure, yes. Q And you want to see that that area gets secured?
+
+
+30
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+The questions they asked—“what had happened, who had
+shot him, and where the shooting occurred,” 483 Mich., at
+143, 768 N. W. 2d, at 71—were the exact type of questions
+necessary to allow the police to “ ‘assess the situation, the
+threat to their own safety, and possible danger to the
+potential victim’ ” and to the public, Davis, 547 U. S., at
+832 (quoting Hiibel v. Sixth Judicial Dist. Court of Nev.,
+Humboldt Cty., 542 U. S. 177, 186 (2004)), including to
+allow them to ascertain “whether they would be encoun
+tering a violent felon,”20 Davis, 547 U. S., at 827. In other
+words, they solicited the information necessary to enable
+them “to meet an ongoing emergency.” Id., at 822.
+Nothing in Covington’s responses indicated to the police
+that, contrary to their expectation upon responding to a
+call reporting a shooting, there was no emergency or that
+a prior emergency had ended. Covington did indicate that
+he had been shot at another location about 25 minutes
+earlier, but he did not know the location of the shooter at
+the time the police arrived and, as far as we can tell from
+the record, he gave no indication that the shooter, having
+shot at him twice, would be satisfied that Covington was
+only wounded. In fact, Covington did not indicate any
+possible motive for the shooting, and thereby gave no
+reason to think that the shooter would not shoot again if
+he arrived on the scene. As we noted in Davis, “initial
+inquiries” may “often . . . produce nontestimonial state
+——————
+A Correct. Q For your safety as well as everyone else? A Correct”
+(paragraph breaks omitted)); id., at 82 (testimony of Officer McCallis
+ter). But see id., at 83 (cross-examination of Officer McAllister) (“Q You
+didn’t, you didn’t look around and say, gee, there might be a shooter
+around here, I better keep an eye open? A I did not, no. That could
+have been my partner I don’t know” (paragraph breaks omitted)).
+20 Hiibel, like our post-Crawford Confrontation Clause cases, involved
+domestic violence, which explains the Court’s focus on the security of
+the victim and the police: they were the only parties potentially threat
+ened by the assailant. 542 U. S., at 186 (noting that the case involved a
+“domestic assault”).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+31
+
+Opinion of the Court
+
+ments.” Id., at 832. The initial inquiries in this case
+resulted in the type of nontestimonial statements we
+contemplated in Davis.
+Finally, we consider the informality of the situation and
+the interrogation. This situation is more similar, though
+not identical, to the informal, harried 911 call in Davis
+than to the structured, station-house interview in Craw
+ford. As the officers’ trial testimony reflects, the situation
+was fluid and somewhat confused: the officers arrived at
+different times; apparently each, upon arrival, asked
+Covington “what happened?”; and, contrary to the dis
+sent’s portrayal, post, at 7–9 (opinion of SCALIA, J.), they
+did not conduct a structured interrogation. App. 84 (tes
+timony of Officer McCallister) (explaining duplicate ques
+tioning, especially as to “what happened?”); id., at 101–102
+(testimony of Sgt. Wenturine) (same); id., at 126–127
+(testimony of Officer Stuglin) (same). The informality
+suggests that the interrogators’ primary purpose was
+simply to address what they perceived to be an ongoing
+emergency, and the circumstances lacked any formality
+that would have alerted Covington to or focused him on
+the possible future prosecutorial use of his statements.
+Because the circumstances of the encounter as well as
+the statements and actions of Covington and the police
+objectively indicate that the “primary purpose of the inter
+rogation” was “to enable police assistance to meet an
+ongoing emergency,” Davis, 547 U. S., at 822, Covington’s
+identification and description of the shooter and the lo
+cation of the shooting were not testimonial hearsay.
+The Confrontation Clause did not bar their admission at
+Bryant’s trial.
+*
+
+*
+
+*
+
+For the foregoing reasons, we hold that Covington’s
+statements were not testimonial and that their admission
+
+
+32
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+at Bryant’s trial did not violate the Confrontation Clause.
+We leave for the Michigan courts to decide on remand
+whether the statements’ admission was otherwise permit
+ted by state hearsay rules. The judgment of the Supreme
+Court of Michigan is vacated, and the case is remanded for
+further proceedings not inconsistent with this opinion.
+It is so ordered.
+JUSTICE KAGAN took no part in the consideration or
+decision of this case.
+
+

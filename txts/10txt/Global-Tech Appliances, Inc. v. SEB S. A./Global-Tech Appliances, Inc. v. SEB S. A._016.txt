@@ -1,0 +1,46 @@
+Cite as: 563 U. S. ____ (2011)
+
+13
+
+Opinion of the Court
+
+Pentalpha further contends that this Court in Grokster
+did not accept the Solicitor General’s suggestion that
+Grokster and StreamCast could be held liable for inducing
+the infringement of copyrights under a theory of willful
+blindness. Reply Brief for Petitioners 14 (citing Brief for
+United States, O. T. 2004, No. 04–480, pp. 29–30). But the
+Court had no need to consider the doctrine of willful
+blindness in that case because the Court found ample
+evidence that Grokster and StreamCast were fully
+aware—in the ordinary sense of the term—that their file­
+sharing software was routinely used in carrying out the
+acts that constituted infringement (the unauthorized
+sharing of copyrighted works) and that these acts violated
+the rights of copyright holders. See 545 U. S., at 922–927,
+937–940.
+B
+While the Courts of Appeals articulate the doctrine of
+willful blindness in slightly different ways, all appear to
+agree on two basic requirements: (1) the defendant must
+subjectively believe that there is a high probability that a
+fact exists and (2) the defendant must take deliberate
+actions to avoid learning of that fact.9 We think these
+——————
+9 United States v. Pérez-Meléndez, 599 F. 3d 31, 41 (CA1 2010);
+United States v. Svoboda, 347 F. 3d 471, 477–478 (CA2 2003); United
+States v. Stadtmauer, 620 F. 3d 238, 257 (CA3 2010); United States v.
+Schnabel¸ 939 F. 2d 197, 203 (CA4 1991) (“The willful blindness in­
+struction allows the jury to impute the element of knowledge to the
+defendant if the evidence indicates that he purposely closed his eyes to
+avoid knowing what was taking place around him”); United States v.
+Freeman, 434 F. 3d 369, 378 (CA5 2005); United States v. Holloway,
+731 F. 2d 378, 380–381 (CA6 1984) (per curiam) (upholding jury in­
+struction on knowledge when “it prevent[ed] a criminal defendant from
+escaping conviction merely by deliberately closing his eyes to the
+obvious risk that he is engaging in unlawful conduct”); United States v.
+Draves, 103 F. 3d 1328, 1333 (CA7 1997) (“knowledge may in some
+circumstances be inferred from strong suspicion of wrongdoing coupled
+with active indifference to the truth”); United States v. Florez, 368 F. 3d
+
+

@@ -1,0 +1,76 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+SACKETT ET VIR v. ENVIRONMENTAL PROTECTION 
+
+AGENCY ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–1062. Argued January 9, 2012—Decided March 21, 2012
+The Clean Water Act prohibits “the discharge of any pollutant by any
+person,” 33 U. S. C. §1311, without a permit, into “navigable waters,”
+§1344. Upon determining that a violation has occurred, the Environmental Protection Agency (EPA) may either issue a compliance
+order or initiate a civil enforcement action. §1319(a)(3). The resulting civil penalty may not “exceed [$37,500] per day for each violation.” §1319(d). The Government contends that the amount doubles
+to $75,000 when the EPA prevails against a person who has been issued a compliance order but has failed to comply.
+The Sacketts, petitioners here, received a compliance order from
+the EPA, which stated that their residential lot contained navigable
+waters and that their construction project violated the Act. The
+Sacketts sought declarative and injunctive relief in the Federal District Court, contending that the compliance order was “arbitrary
+[and] capricious” under the Administrative Procedure Act (APA), 5
+U. S. C. §706(2)(A), and that it deprived them of due process in violation of the Fifth Amendment. The District Court dismissed the
+claims for want of subject-matter jurisdiction. The Ninth Circuit affirmed, concluding that the Clean Water Act precluded preenforcement judicial review of compliance orders and that such preclusion did not violate due process.
+Held: The Sacketts may bring a civil action under the APA to challenge
+the issuance of the EPA’s order. Pp. 4–10.
+(a) The APA provides for judicial review of “final agency action for
+which there is no other adequate remedy in a court.” 5 U. S. C. §704.
+The compliance order here has all the hallmarks of APA finality.
+Through it, the EPA “determined” “rights or obligations,” Bennett v.
+
+
+2
+
+SACKETT v. EPA
+Syllabus
+Spear, 520 U. S. 154, 178, requiring the Sacketts to restore their
+property according to an agency-approved plan and to give the EPA
+access. Also, “legal consequences . . . flow” from the order, ibid.,
+which, according to the Government’s litigating position, exposes the
+Sacketts to double penalties in future enforcement proceedings. The
+order also severely limits their ability to obtain a permit for their fill
+from the Army Corps of Engineers, see 33 U. S. C. §1344; 33 CFR
+§326.3(e)(1)(iv). Further, the order’s issuance marks the “consummation” of the agency’s decisionmaking process, Bennett, supra, at 178,
+for the EPA’s findings in the compliance order were not subject to
+further agency review. The Sacketts also had “no other adequate
+remedy in a court,” 5 U. S. C. §704. A civil action brought by the EPA
+under 33 U. S. C. §1319 ordinarily provides judicial review in such
+cases, but the Sacketts cannot initiate that process. And each day
+they wait, they accrue additional potential liability. Applying to the
+Corps of Engineers for a permit and then filing suit under the APA if
+that permit is denied also does not provide an adequate remedy for
+the EPA’s action. Pp. 4–6.
+(b) The Clean Water Act is not a statute that “preclude[s] judicial
+review” under the APA, 5 U. S. C. §701(a)(1). The APA creates a
+“presumption favoring judicial review of administrative action.”
+Block v. Community Nutrition Institute, 467 U. S. 340, 349. While
+this presumption “may be overcome by inferences of intent drawn
+from the statutory scheme as a whole,” ibid., the Government’s arguments do not support an inference that the Clean Water Act’s statutory scheme precludes APA review. Pp. 7–10.
+
+622 F. 3d 1139, reversed and remanded.
+SCALIA, J., delivered the opinion for a unanimous Court. GINSBURG,
+J., and ALITO, J., filed concurring opinions.
+
+

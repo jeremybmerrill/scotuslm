@@ -1,0 +1,49 @@
+8
+
+BLOATE v. UNITED STATES
+Opinion of the Court
+
+text governs the automatic excludability of delays “result
+ing” from a specific category of “proceedings concerning
+the defendant,” namely, proceedings involving pretrial
+motions.9 Because the delay at issue here results from a
+decision granting time to prepare pretrial motions, if not
+from a pretrial motion itself (the defendant’s request for
+additional time), it is governed by subparagraph (D). But
+that does not make the delay at issue here automatically
+excludable.
+Subparagraph (D) does not subject all pretrial motion
+related delay to automatic exclusion. Instead, it renders
+automatically excludable only the delay that occurs “from
+the filing of the motion through the conclusion of the
+hearing on, or other prompt disposition of” the motion.
+——————
+9 The
+
+dissent argues that this conclusion lacks “force” because “[i]t is
+at least doubtful . . . that the delay at issue in the present case is delay
+‘resulting from [a] pretrial motion.’ ” Post, at 4 (opinion of ALITO, J.).
+According to the dissent, “delay ‘resulting from’ a pretrial motion is
+delay that occurs as a consequence of such a motion,” which the “type of
+delay involved in the present case” does not.” Post, at 4–5 (arguing that
+the delay in this case instead “occurs as a consequence of the court’s
+granting of a defense request for an extension of time”).
+The dissent’s position, which rests upon a dictionary definition of two
+isolated words, does not account for the governing statutory context.
+For the reasons we explain, the text and structure of subsection (h)
+support our conclusion that subparagraph (D) governs the automatic
+excludability of delays “resulting from” proceedings involving pretrial
+motions. As the dissent concedes, defining “resulting from” to mean “as
+a consequence of” does not foreclose our interpretation. That is because
+the dissent’s definition of “resulting from” leaves ample room to con
+clude that the delay at issue here is “a consequence of” the category of
+proceedings covered by subparagraph (D), whether one views the delay
+“as a consequence of” a proceeding involving pretrial motions, or “as a
+consequence of” a pretrial motion itself (the defense request for addi
+tional time). At bottom, the dissent’s position is not that our interpre
+tation is foreclosed by the Act; it is that the dissent’s interpretation is
+preferable. We disagree because the dissent’s interpretation, among
+other things, fails to account fully for the text and structure of subsec
+tion (h)(1) and renders much of subsection (h)(7) a nullity.
+
+

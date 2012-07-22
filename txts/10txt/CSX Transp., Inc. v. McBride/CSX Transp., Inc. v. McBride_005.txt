@@ -1,0 +1,51 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–235
+_________________
+
+CSX TRANSPORTATION, INC., PETITIONER v. 
+
+ROBERT MCBRIDE 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SEVENTH CIRCUIT
+
+[June 23, 2011] 
+
+
+JUSTICE GINSBURG delivered the opinion of the Court,
+except as to Part III–A.*
+This case concerns the standard of causation applicable
+in cases arising under the Federal Employers’ Liability
+Act (FELA), 45 U. S. C. §51 et seq. FELA renders rail­
+roads liable for employees’ injuries or deaths “resulting in
+whole or in part from [carrier] negligence.” §51. In accord
+with the text and purpose of the Act, this Court’s decision
+in Rogers v. Missouri Pacific R. Co., 352 U. S. 500 (1957),
+and the uniform view of federal appellate courts, we con­
+clude that the Act does not incorporate “proximate cause”
+standards developed in nonstatutory common-law tort
+actions. The charge proper in FELA cases, we hold, sim­
+ply tracks the language Congress employed, informing
+juries that a defendant railroad caused or contributed to a
+plaintiff employee’s injury if the railroad’s negligence
+played any part in bringing about the injury.
+I
+Respondent Robert McBride worked as a locomotive
+——————
+* JUSTICE THOMAS joins all but Part III–A of this opinion.
+
+

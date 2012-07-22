@@ -1,0 +1,48 @@
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Syllabus
+tuating standard of proof. And they do not indicate, even in dicta,
+that anything less than a clear-and-convincing standard would ever
+apply to an invalidity defense. In fact, the Court indicated to the con
+trary. See RCA, 293 U. S., at 8. Finally, the Court often applied the
+heightened standard of proof without mentioning whether the rele
+vant prior-art evidence had been before the PTO examiner, in cir
+cumstances strongly suggesting it had not. See, e.g., Smith v. Hall,
+301 U. S. 216, 227, 233. Nothing in §282’s text suggests that Con
+gress meant to depart from that understanding to enact a standard of
+proof that would rise and fall with the facts of each case. Indeed, had
+Congress intended to drop the heightened standard of proof where
+the evidence before the jury varied from that before the PTO, it pre
+sumably would have said so expressly. Those pre-Act cases where
+various Courts of Appeals observed that the presumption is weak
+ened or dissipated where the evidence was never considered by the
+PTO should be read to reflect the commonsense principle that if the
+PTO did not have all material facts before it, its considered judgment
+may lose significant force. Cf. KSR, 550 U. S., at 427. Consistent
+with that principle, a jury may be instructed to evaluate whether the
+evidence before it is materially new, and if so, to consider that fact
+when determining whether an invalidity defense has been proved by
+clear and convincing evidence. Pp. 14–18.
+(c) This Court is in no position to judge the comparative force of the
+parties’ policy arguments as to the wisdom of the clear-and
+convincing-evidence standard that Congress adopted.
+Congress
+specified the applicable standard of proof in 1952 when it codified the
+common-law presumption of patent validity. During the nearly 30
+years that the Federal Circuit has interpreted §282 as the Court does
+today, Congress has often amended §282 and other patent laws, but
+apparently has never considered any proposal to lower the standard
+of proof. Indeed, Congress has left the Federal Circuit’s interpreta
+tion in place despite ongoing criticism, both from within the Federal
+Government and without. Accordingly, any recalibration of the stan
+dard of proof remains in Congress’ hands. Pp. 18–20.
+598 F. 3d 831, affirmed.
+SOTOMAYOR, J., delivered the opinion of the Court, in which SCALIA,
+KENNEDY, GINSBURG, BREYER, ALITO, and KAGAN, JJ., joined. BREYER,
+J., filed a concurring opinion, in which SCALIA and ALITO, JJ., joined.
+THOMAS, J., filed an opinion concurring in the judgment. ROBERTS,
+C. J., took no part in the consideration or decision of the case.
+
+

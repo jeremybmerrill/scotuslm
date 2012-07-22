@@ -1,0 +1,34 @@
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Syllabus
+relates the substance of his intended testimony—rather than the absolutely immune actions themselves. Pp. 9−12.
+(c) Petitioner’s main argument is that under Malley v. Briggs, 475
+U. S. 335, 340−341, and Kalina v. Fletcher, 522 U. S. 118, 131, grand
+jury witnesses who are “complaining witnesses” are not entitled to
+absolute immunity. But at the time §1983’s predecessor was enacted,
+a “complaining witness” was a party who procured an arrest and initiated a criminal prosecution. A “complaining witness” might testify,
+either before a grand jury or at trial, but testifying was not a necessary characteristic of a “complaining witness.” Thus, testifying,
+whether before a grand jury or at trial, was not the distinctive function performed by a “complaining witness.” A “complaining witness”
+cannot be held liable for perjurious trial testimony, see Briscoe, 460
+U. S., at 326, and there is no more reason why a “complaining witness” should be subject to liability for testimony before a grand jury.
+Once the distinctive function performed by a “complaining witness”
+is understood, it is apparent that a law enforcement officer who testifies before a grand jury is not comparable to a “complaining witness”
+because it is not the officer who makes the critical decision to press
+criminal charges, but the prosecutor. It would be anomalous to permit a police officer testifying before a grand jury to be sued for maliciously procuring an unjust prosecution when it is the prosecutor,
+who is shielded by absolute immunity, who is actually responsible for
+the decision to initiate a prosecution. Petitioner also contends that
+the deterrent effect of civil liability is more needed in grand jury proceedings because trial witnesses face cross-examination. But the
+force of that argument is more than offset by the problem that allowing such civil actions would create—subversion of grand jury secrecy,
+which is essential to the proper functioning of the grand jury system.
+See United States v. Sells Engineering, Inc., 463 U. S. 418, 424. And
+finally, contrary to petitioner’s suggestion, recognizing absolute immunity for grand jury witnesses does not create an insupportable distinction between States that use grand juries and States that permit
+felony prosecutions to be brought by complaint or information. Most
+States that do not require an indictment for felonies provide a preliminary hearing at which witnesses testify, and the lower courts have
+held that preliminary hearing witnesses are protected by the same
+immunity accorded grand jury witnesses. Pp. 12−18.
+611 F. 3d 828, affirmed.
+ALITO, J., delivered the opinion for a unanimous Court.
+
+

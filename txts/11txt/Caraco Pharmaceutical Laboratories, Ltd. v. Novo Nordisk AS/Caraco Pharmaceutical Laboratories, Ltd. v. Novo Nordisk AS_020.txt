@@ -1,0 +1,42 @@
+Cite as: 566 U. S. ____ (2012)
+
+15
+
+Opinion of the Court
+
+assertion of a claim . . . in any [other] civil action”). So
+if we needed any proof that Congress knew how to say
+“not any” when it meant “not any,” here we find it. We think
+that sees, raises, and bests Novo’s argument.
+Our more essential point, though, has less gamesmanship about it: We think that the “not any” construction
+does not appear in the relevant counterclaim provision
+because Congress did not mean what Novo wishes it had.
+And we think that is so because Congress meant (as it
+usually does) for the provision it enacted to fit within
+the statutory scheme—here, by facilitating the approval of
+non-infringing generic drugs under section viii.
+B
+Novo contends that Caraco’s counterclaim must fail for
+another, independent reason: On its view (as on the Federal Circuit’s), the counterclaim does not provide a way to
+correct use codes because they are not “patent information
+submitted by the [brand] under subsection (b) or (c)” of
+§355. Once again, we disagree.
+The statute does not define “patent information,” but
+a use code must qualify. It describes the method of use
+claimed in a patent. See 21 CFR §§314.53(c)(2)(ii)(P)(3),
+(e). That fits under any ordinary understanding of the
+language.7
+——————
+7 Novo’s only counter is to redefine a use code. Novo argues that a use
+code need not be tied to the patent at all—that “[t]he relevant regulation requires [NDA] applicants to provide [only] ‘a description of each
+approved method of use or indication.’ ” Brief for Respondents 48
+(quoting 21 CFR §314.53(c)(2)(ii)(P)(1)). Because an “indication” refers
+generally to what a drug does (here, treat diabetes), see §201.57(c)(2),
+Novo claims that a use code may sweep more broadly than the patent.
+But that is incorrect. First, Novo does not cite the regulations that
+specify the information required for publication—i.e., use codes. See
+§314.53(c)(2)(ii)(P)(3) (requiring a “description of the patented method
+of use as required for publication”); §314.53(e) (“[F]or each use patent,”
+FDA will publish “the approved indications or other conditions of use
+
+

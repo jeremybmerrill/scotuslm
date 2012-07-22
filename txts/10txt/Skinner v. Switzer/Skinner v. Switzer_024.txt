@@ -1,0 +1,44 @@
+Cite as: 562 U. S. ____ (2011)
+
+5
+
+THOMAS, J., dissenting
+
+Trial procedures are used to initially convict a prisoner;
+appellate procedures review the validity of that conviction
+before it becomes final; and collateral review procedures
+permit challenge to the conviction after it is final. For
+purposes of deciding which claims fall within the bounds
+of §1983, I think it makes sense to treat similarly all
+constitutional challenges to procedures concerning the
+validity of a conviction. See Heck, supra, at 491 (THOMAS,
+J., concurring) (“[I]t is proper for the Court to devise
+limitations aimed at ameliorating the conflict [between
+habeas and §1983], provided that it does so in a principled
+fashion”).
+Second, “principles of federalism and comity [are] at
+stake” when federal courts review state collateral review
+procedures, just as when they review state trial proce
+dures. Osborne, 557 U. S., at ___ (ALITO, J., concurring)
+(slip op., at 2). An attack in federal court on any “state
+judicial action” concerning a state conviction must proceed
+with “proper respect for state functions,” because the
+federal courts are being asked to “tr[y] the regularity of
+proceedings had in courts of coordinate jurisdiction.”
+Preiser, 411 U. S., at 491 (internal quotation marks and
+emphasis omitted).
+Because of these concerns for federal-state comity,
+Congress has strictly limited the procedures for federal
+habeas challenges to state convictions and state habeas
+decisions. Congress requires that before a state prisoner
+may seek relief in federal court, he must “exhaus[t] the
+remedies available in the courts of the State.” 28 U. S. C.
+§2254(b)(1)(A). And state habeas determinations receive
+significant deference in subsequent federal habeas pro
+ceedings. §2254(d). These requirements ensure that the
+state courts have the first opportunity to correct any error
+with a state conviction and that their rulings receive due
+respect in subsequent federal challenges.
+By bringing a procedural challenge under §1983, Skin
+
+

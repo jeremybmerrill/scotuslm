@@ -1,0 +1,51 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Syllabus
+15 U. S. C. §78u–4(b)(2), unless a §10(b) complaint sets forth facts show
+ing that it is “at least as likely as” not that the defendant acted with the
+relevant intent, the claim will fail. Tellabs, supra, at 328 (emphasis de
+leted). It would frustrate the very purpose of the discovery rule codified in
+§1658(b)(1) if the limitations period began to run regardless of whether a
+plaintiff had “discover[ed]” any facts suggesting scienter. Pp. 12–14.
+(b) The Court also rejects Merck’s argument that, even if “discov
+ery” requires facts related to scienter, facts that tend to show a mate
+rially false or misleading statement (or material omission) are ordi
+narily sufficient to show scienter. Where §10(b) is at issue, the
+relation of factual falsity and state of mind is more context specific.
+For instance, an incorrect prediction about a firm’s future earnings,
+by itself, does not automatically show whether the speaker deliber
+ately lied or made an innocent error. Hence, “discovery” of additional
+scienter-related facts may be required. The statute’s inclusion of an
+unqualified bar on actions instituted “5 years after such violation,”
+§1658(b)(2), should diminish Merck’s fear that this requirement will
+give life to stale claims or subject defendants to liability for acts
+taken long ago. P. 14.
+(c) And the Court cannot accept Merck’s argument that the limi
+tations period begins at “inquiry notice,” meaning the point where
+the facts would lead a reasonably diligent plaintiff to investigate fur
+ther, because that point is not necessarily the point at which the
+plaintiff would already have “discover[ed]” facts showing scienter or
+other “facts constituting the violation.” The statute says that the
+plaintiff’s claim accrues only after the “discovery” of those latter
+facts. It contains no indication that the limitations period can some
+times begin before “discovery” can take place. Merck also argues that
+determining when a hypothetical reasonably diligent plaintiff would
+have “discover[ed]” the necessary facts is too complicated for judges
+to undertake. But courts applying the traditional discovery rule have
+long had to ask what a reasonably diligent plaintiff would have
+known and done in myriad circumstances and already undertake this
+kind of inquiry in securities fraud cases. Pp. 14–17.
+3. Prior to November 6, 2001, the plaintiffs did not discover, and
+Merck has not shown that a reasonably diligent plaintiff would have
+discovered, “the facts constituting the violation.” The FDA’s Septem
+ber 2001 warning letter shows little or nothing about the here
+relevant scienter, i.e., whether Merck advanced the naproxen hy
+pothesis with fraudulent intent. The FDA itself described the hy
+pothesis as a “possible explanation” for the VIGOR results, faulting
+Merck only for failing sufficiently to publicize the less favorable al
+ternative, that Vioxx might be harmful. The products-liability com
+plaints’ general statements about Merck’s state of mind show little
+
+

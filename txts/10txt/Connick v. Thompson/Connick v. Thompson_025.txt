@@ -1,0 +1,46 @@
+2
+
+CONNICK v. THOMPSON
+SCALIA, J., concurring
+
+violation at issue in this case) in a policy manual pub
+lished by Connick’s office three years after Thompson’s
+trial, see post, at 18–21. None of that is relevant. Thomp
+son’s failure-to-train theory at trial was not based on a
+pervasive culture of indifference to Brady, but rather on
+the inevitability of mistakes over enough iterations of
+criminal trials. The District Court instructed the jury it
+could find Connick deliberately indifferent if:
+“First: The District Attorney was certain that prosecu
+tors would confront the situation where they would
+have to decide which evidence was required by the
+constitution to be provided to an accused[;]
+“Second: The situation involved a difficult choice, or
+one that prosecutors had a history of mishandling,
+such that additional training, supervision, or monitor
+ing was clearly needed[; and]
+“Third: The wrong choice by a prosecutor in that
+situation will frequently cause a deprivation of an ac
+cused’s constitutional rights.” App. 828.
+That theory of deliberate indifference would repeal the
+law of Monell1 in favor of the Law of Large Numbers.
+Brady mistakes are inevitable. So are all species of error
+routinely confronted by prosecutors: authorizing a bad
+warrant; losing a Batson2 claim; crossing the line in clos
+ing argument; or eliciting hearsay that violates the Con
+frontation Clause. Nevertheless, we do not have “de facto
+respondeat superior liability,” Canton, 489 U. S., at 392,
+for each such violation under the rubric of failure-to-train
+simply because the municipality does not have a profes
+sional educational program covering the specific violation
+in sufficient depth.3 Were Thompson’s theory the law,
+——————
+1 Monell
+
+v. New York City Dept. of Social Servs., 436 U. S. 658 (1978).
+v. Kentucky, 476 U. S. 79 (1986).
+3 I do not share the dissent’s confidence that this result will be
+avoided by the instruction’s requirement that “ ‘more likely than not the
+2 Batson
+
+

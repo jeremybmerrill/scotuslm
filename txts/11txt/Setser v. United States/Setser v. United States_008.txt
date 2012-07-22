@@ -1,0 +1,35 @@
+6
+
+SETSER v. UNITED STATES
+Opinion of the Court
+
+already subject to an undischarged term of imprisonment.”
+Since the District Court was not imposing the state sentence and since it was not already imposed, the sentence
+could not be ordered to run consecutively. But if the text
+is exclusive—if the addition of only is correct—the provision forbids not only the imposition of consecutive sentences, but the imposition of concurrent ones as well. And
+yet, as Setser acknowledges, it must be one or the other;
+someone must decide the issue.
+Setser’s response is that, read in context, the sentence
+speaks only to district courts. Under the circumstances at
+issue here, he says, the federal and state sentences still
+might run either concurrently or consecutively, but just
+not at the discretion of the District Court. That is an odd
+parsing of the text, which makes no distinction between
+the district court and the Bureau of Prisons. The placement of §3584 does indeed suggest that it is directed at
+district courts—but that is likely because Congress contemplated that only district courts would have the authority to make the concurrent-vs.-consecutive decision, not
+because Congress meant to leave the Bureau unfettered.
+Indeed, the Bureau already follows the other directives in
+§3584(a). See Brief for United States 35. For example, if
+the district court imposes multiple terms of imprisonment
+at the same time, but fails to address the concurrent-vs.consecutive issue, the terms “run concurrently,” §3584(a),
+and the Bureau is not free to use its “place of imprisonment” authority to achieve a different result.3
+The Latin maxim on which Setser relies—expressio
+——————
+3 The Government contends that the Bureau applies the default rules
+in §3584(a) “[a]s a matter of discretion” but is not “ ‘bound’ ” by that
+subsection. Reply Brief for United States 15, n. 5. We think it implausible that the effectiveness of those rules—of §3584(a)’s prescription, for
+example, that “[m]ultiple terms of imprisonment imposed at different
+times run consecutively unless the court orders that the terms are to
+run concurrently”—depends upon the “discretion” of the Bureau.
+
+

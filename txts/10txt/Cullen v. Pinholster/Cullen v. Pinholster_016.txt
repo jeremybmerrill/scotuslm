@@ -1,0 +1,45 @@
+12
+
+CULLEN v. PINHOLSTER
+Opinion of the Court
+
+If anything, the decision in Michael Williams supports
+our holding. The lower court in that case had determined
+that the one claim subject to §2254(d)(1) did not satisfy
+that statutory requirement. In light of that ruling, this
+Court concluded that it was “unnecessary to reach the
+question whether §2254(e)(2) would permit a [federal]
+hearing on th[at] claim.” Id., at 444. That conclusion is
+fully consistent with our holding that evidence later intro­
+duced in federal court is irrelevant to §2254(d)(1) review.
+The Court of Appeals’ reliance on Holland v. Jackson,
+542 U. S. 649 (2004) (per curiam), was also mistaken. In
+Holland, we initially stated that “whether a state court’s
+decision was unreasonable [under §2254(d)(1)] must be
+assessed in light of the record the court had before it.” Id.,
+at 652. We then went on to assume for the sake of argu­
+ment what some Courts of Appeals had held⎯that
+§2254(d)(1), despite its mandatory language, simply does
+not apply when a federal habeas court has admitted new
+evidence that supports a claim previously adjudicated in
+state court.6 Id., at 653. There was no reason to decide
+that question because regardless, the hearing should have
+been barred by §2254(e)(2). Today, we reject that assump­
+tion and hold that evidence introduced in federal court
+has no bearing on §2254(d)(1) review. If a claim has
+been adjudicated on the merits by a state court, a fed­
+eral habeas petitioner must overcome the limitation of
+§2254(d)(1) on the record that was before that state court.7
+——————
+satisfy §2254(d), from receiving an evidentiary hearing.
+6 In Bradshaw v. Richey, 546 U. S. 74 (2005) (per curiam), on which
+the Court of Appeals also relied, we made the same assumption. Id., at
+79–80 (discussing the State’s “Holland argument”).
+7 Pinholster and JUSTICE SOTOMAYOR place great weight on the fact
+that §2254(d)(2) includes the language “in light of the evidence pre­
+sented in the State court proceeding,” whereas §2254(d)(1) does not.
+See post, at 6–7. The additional clarity of §2254(d)(2) on this point,
+however, does not detract from our view that §2254(d)(1) also is plainly
+limited to the state-court record. The omission of clarifying language
+
+

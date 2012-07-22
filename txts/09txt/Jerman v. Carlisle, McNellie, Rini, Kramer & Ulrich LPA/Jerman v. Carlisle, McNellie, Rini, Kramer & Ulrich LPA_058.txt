@@ -1,0 +1,44 @@
+Cite as: 559 U. S. ____ (2010)
+
+17
+
+KENNEDY, J., dissenting
+
+was meant to exclude legal mistakes.
+Even if statutory exceptions should normally be con
+strued to exclude mistakes of law, moreover, that guide
+line would only apply absent intent to depart from the
+general rule. There is no doubt that Congress may create
+a mistake-of-law defense; the question is whether it has
+done so here. See Ratzlaf, 510 U. S, at 149. As explained
+above, see Part I–A, supra, Congress has made its choice
+plain by using the word “violation” in §1692k(c) to indicate
+that mistakes of law are to be included.
+Second, the Court attempts to draw a contrast between
+§1692k(c) and the administrative penalties in the Federal
+Trade Commission Act (FTC Act), 38 Stat. 717, 15 U. S. C.
+§41 et seq. Under the FTC Act, a debt collector may face
+civil penalties of up to $16,000 per day for acting with
+“actual knowledge or knowledge fairly implied on the basis
+of objective circumstances that [an] act is” prohibited
+under the FDCPA. §§45(m)(1)(A), (C); 74 Fed. Reg. 858
+(2009) (amending 16 CFR §1.98(d) (2009)). The Court
+reasons that the FTC provision is meant to provide rela
+tively harsh penalties for intentional violations. By con
+trast, the argument continues, the penalties in the FDCPA
+itself must cover—and hence §1692k(c) must not excuse—
+unintentional violations. Ante, at 8–9.
+The argument rests on a mistaken premise—namely,
+that §1692k(c) must immunize all legal errors or none.
+This misreads the statute. As the text states, it applies
+only to “bona fide” errors committed despite “the mainte
+nance of procedures reasonably adapted to avoid” these
+mistakes. So under a sensible reading of the statute,
+(1) intentional violations are punishable under the height
+ened penalties of the FTC Act; (2) unintentional violations
+are generally subject to punishment under the FDCPA;
+and (3) a defendant may escape liability altogether by
+proving that a violation was based on a bona fide error
+and that reasonable error-prevention procedures were in
+
+

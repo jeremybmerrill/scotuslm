@@ -1,0 +1,51 @@
+4
+
+TALK AMERICA, INC. v. MICHIGAN BELL 
+
+TELEPHONE CO.
+Opinion of the Court 
+
+
+
+
+
+Review Order). Explaining that its previous approach had
+been “misguided” and “overly broad,” id., ¶¶366, 365, the
+Commission concluded that entrance facilities were not
+subject to the unbundling requirement because they are
+not network elements at all. See id., ¶366 (entrance facili­
+ties “exist outside the incumbent LEC’s local network”).
+The Commission therefore did not conduct an impairment
+analysis.
+The FCC emphasized, however, the limits of this ruling.
+Entrance facilities are used for two purposes: interconnec­
+tion and backhauling.2 It expressly “d[id] not alter” an
+incumbent LEC’s obligation under §251(c)(2) to provide
+“facilities in order to ‘interconnect with the incumbent
+LEC’s network.’ ” Id., ¶366 (brackets omitted). Thus, al­
+though the Commission specified that §251(c)(3) did not
+require any unbundled leasing of entrance facilities, it
+determined in practical effect only that “incumbent LECs
+[were not obligated] to unbundle [entrance facilities] for
+the purpose of backhauling traffic.” Id., ¶365.
+On direct review, the D. C. Circuit questioned the Com­
+mission’s determination that entrance facilities are not
+network elements under §251(c)(3), but found the agency
+rulemaking record insufficient and remanded to the
+Commission for further consideration. See United States
+Telecom Assn. v. FCC, 359 F. 3d 554, 586, cert. denied, 543
+U. S. 925 (2004). The court noted that if entrance facilities
+were in fact “ ‘network elements,’ ” then “an analysis of
+——————
+2 Although the parties and their amici disagree over the precise defi­
+nition of backhauling, they all appear to agree that backhauling is
+important to competitive LECs and occurs when a competitive LEC
+uses an entrance facility to transport traffic from a leased portion of an
+incumbent network to the competitor’s own facilities. Backhauling does
+not involve the exchange of traffic between incumbent and competitive
+networks. See, e.g., Brief for Petitioners in No. 10–329, p. 25; Brief for
+United States Telecom Association et al. as Amici Curiae 32. It thus
+differs from interconnection—“the linking of two networks for the
+mutual exchange of traffic.” 47 CFR §51.5 (2010).
+
+

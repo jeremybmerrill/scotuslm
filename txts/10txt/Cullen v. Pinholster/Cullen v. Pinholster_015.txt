@@ -1,0 +1,47 @@
+Cite as: 563 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+Our recent decision in Schriro v. Landrigan, 550 U. S.
+465 (2007), is consistent as well with our holding here. We
+explained that “[b]ecause the deferential standards pre­
+scribed by §2254 control whether to grant habeas relief, a
+federal court must take into account those standards in
+deciding whether an evidentiary hearing is appropriate.”
+Id., at 474. In practical effect, we went on to note, this
+means that when the state-court record “precludes habeas
+relief” under the limitations of §2254(d), a district court is
+“not required to hold an evidentiary hearing.” Id., at 474
+(citing with approval the Ninth Circuit’s recognition that
+“an evidentiary hearing is not required on issues that can
+be resolved by reference to the state court record” (internal
+quotation marks omitted)).
+The Court of Appeals wrongly interpreted Williams v.
+Taylor, 529 U. S. 420 (2000) (Michael Williams), as sup­
+porting the contrary view.
+The question there was
+whether the lower court had correctly determined that
+§2254(e)(2) barred the petitioner’s request for a federal
+evidentiary hearing.4 Michael Williams did not concern
+whether evidence introduced in such a hearing could be
+considered under §2254(d)(1). In fact, only one claim at
+issue in that case was even subject to §2254(d); the rest
+had not been adjudicated on the merits in state-court
+proceedings. See id., at 429 (“Petitioner did not develop,
+or raise, his claims . . . until he filed his federal habeas
+petition”).5
+——————
+(opinion of Stevens, J.).
+4 If a prisoner has “failed to develop the factual basis of a claim in
+State court proceedings,” §2254(e)(2) bars a federal court from holding
+an evidentiary hearing, unless the applicant meets certain statutory
+requirements.
+5 JUSTICE SOTOMAYOR’s suggestion that Michael Williams “rejected”
+the conclusion here, see post, at 15, is thus quite puzzling. In the
+passage that she quotes, see ibid., the Court merely explains that
+§2254(e)(2) should be interpreted in a way that does not preclude a
+state prisoner, who was diligent in state habeas court and who can
+
+

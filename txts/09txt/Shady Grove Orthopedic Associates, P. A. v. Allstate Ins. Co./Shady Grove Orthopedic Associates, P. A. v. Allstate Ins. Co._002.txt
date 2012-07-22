@@ -1,0 +1,51 @@
+2
+
+SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A.
+v. ALLSTATE INS. CO.
+Syllabus
+(b) Rule 23(b) answers the question in dispute—whether Shady
+Grove’s suit may proceed as a class action—when it states that “[a]
+class action may be maintained” if certain conditions are met. Since
+§901(b) attempts to answer the same question, stating that Shady
+Grove’s suit “may not be maintained as a class action” because of the
+relief it seeks, that provision cannot apply in diversity suits unless
+Rule 23 is ultra vires. The Second Circuit’s view that §901(b) and
+Rule 23 address different issues is rejected. The line between eligibil
+ity and certifiability is entirely artificial and, in any event, Rule 23
+explicitly empowers a federal court to certify a class in every case
+meeting its criteria. Allstate’s arguments based on the exclusion of
+some federal claims from Rule 23’s reach pursuant to federal statutes
+and on §901’s structure are unpersuasive. Pp. 4–6.
+(c) The dissent’s claim that §901(b) can coexist with Rule 23 be
+cause it addresses only the remedy available to class plaintiffs is
+foreclosed by §901(b)’s text, notwithstanding its perceived purpose.
+The principle that courts should read ambiguous Federal Rules to
+avoid overstepping the authorizing statute, 28 U. S. C. §2072(b), does
+not apply because Rule 23 is clear. The dissent’s approach does not
+avoid a conflict between §901(b) and Rule 23 but instead would ren
+der Rule 23 partially invalid. Pp. 6–12.
+JUSTICE SCALIA, joined by THE CHIEF JUSTICE, JUSTICE THOMAS, and
+JUSTICE SOTOMAYOR, concluded in Parts II–B and II–D:
+(a) The Rules Enabling Act, 28 U. S. C. §2072, not Erie, controls
+the validity of a Federal Rule of Procedure. Section 2072(b)’s re
+quirement that federal procedural rules “not abridge, enlarge or mod
+ify any substantive right” means that a Rule must “really regulat[e]
+procedure,—the judicial process for enforcing rights and duties rec
+ognized by substantive law and for justly administering remedy and
+redress for disregard or infraction of them,” Sibbach v. Wilson & Co.,
+312 U. S. 1, 14. Though a Rule may incidentally affect a party’s
+rights, it is valid so long as it regulates only the process for enforcing
+those rights, and not the rights themselves, the available remedies,
+or the rules of decision for adjudicating either. Rule 23 satisfies that
+criterion, at least insofar as it allows willing plaintiffs to join their
+separate claims against the same defendants. Allstate’s arguments
+asserting §901(b)’s substantive impact are unavailing: It is not the
+substantive or procedural nature of the affected state law that mat
+ters, but that of the Federal Rule. See, e.g., id., at 14. Pp. 12–16.
+(b) Opening federal courts to class actions that cannot proceed in
+state court will produce forum shopping, but that is the inevitable re
+sult of the uniform system of federal procedure that Congress cre
+ated. P. 22.
+JUSTICE SCALIA, joined by THE CHIEF JUSTICE and JUSTICE THOMAS,
+
+

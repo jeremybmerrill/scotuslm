@@ -1,0 +1,271 @@
+Cite as: 565 U. S. ____ (2011)
+
+1
+
+SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+DUANE EDWARD BUCK v. RICK THALER, DIRECTOR, 
+
+TEXAS DEPARTMENT OF CRIMINAL JUSTICE, 
+
+CORRECTIONAL INSTITUTIONS DIVISION
+
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED 
+
+STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+No. 11–6391. Decided November 7, 2011
+
+
+JUSTICE SOTOMAYOR, with whom JUSTICE KAGAN joins,
+dissenting from denial of certiorari.
+Today the Court denies review of a death sentence
+marred by racial overtones and a record compromised by
+misleading remarks and omissions made by the State of
+Texas in the federal habeas proceedings below. Because
+our criminal justice system should not tolerate either
+circumstance—especially in a capital case—I dissent and
+vote to grant the petition.
+Duane E. Buck was convicted of capital murder in a
+Texas state court. During the penalty phase of Buck’s
+trial, the defense called psychologist Walter Quijano as a
+witness. The defense sought Quijano’s opinion as to
+whether Buck would pose a continuing threat to society—a
+fact that the jury was required to find in order to sentence
+Buck to death. Quijano testified that there were several
+“statistical factors we know to predict future dangerousness,” and listed a defendant’s past crimes, age, sex, race,
+socioeconomic status, employment stability, and substance
+abuse history. 28 Tr. 110–111 (May 6, 1997). As to race,
+Quijano said: “Race. It’s a sad commentary that minorities, Hispanics and black people, are over represented in
+the Criminal Justice System.” Id., at 111. The defense
+then asked Quijano to “talk about environmental factors if
+[Buck were] incarcerated in prison.” Id., at 111–112.
+Quijano explained that, for example, Buck “has no assaul-
+
+
+2
+
+BUCK v. THALER
+SOTOMAYOR, J., dissenting
+
+tive incidents either at TDC or in jail,” and that “that’s a
+good sign that this person is controllable within a jail or
+prison setting.” Id., at 115. He also explained that Buck’s
+“victim [was] not random” because “there [was] a preexisting relationship,” and that this reduced the probability that Buck would pose a future danger. Id., at 112.
+Ultimately, when the defense asked Quijano whether
+Buck was likely to commit violent criminal acts if he were
+sentenced to life imprisonment, Quijano replied, “The
+probability of that happening in prison would be low.” Id.,
+at 115. The defense also offered into evidence, over the
+prosecutor’s objection, a report containing Quijano’s psychological evaluation of Buck, which substantially mirrored Quijano’s trial testimony.1
+On cross-examination, the prosecutor began by asking
+Quijano about the financial compensation he received in
+return for his time and the methods he used to examine
+Buck. The prosecutor then said that she would “like to
+ask [Quijano] some questions from [his] report.” Id., at
+155. After inquiring about the statistical factors of past
+crimes and age and how they might indicate future dangerousness in Buck’s case, the prosecutor said: “You have
+determined that the sex factor, that a male is more violent
+than a female because that’s just the way it is, and that
+the race factor, black, increases the future dangerousness
+for various complicated reasons; is that correct?” Id., at
+160. Quijano answered, “Yes.” Ibid. After additional
+cross-examination and testimony from a subsequent witness, the prosecutor argued to the jury in summation that
+——————
+1 The report listed the following statistical factors relevant to the
+question whether Buck would pose a continuing threat to society:
+past crimes, age, sex, race, socioeconomics, employment stability, and
+substance abuse. As to race, the report stated: “4. Race. Black:
+Increased probability. There is an over-representation of Blacks among
+the violent offenders.” Defense Exh. 1 in No. 699684 (208th Jud. Dist.,
+Harris Cty., Tex.), p. 7.
+
+
+Cite as: 565 U. S. ____ (2011)
+
+3
+
+SOTOMAYOR, J., dissenting
+
+Quijano “told you that there was a probability that [Buck]
+would commit future acts of violence.” Id., at 260. The
+jury returned a verdict of death.
+This was not the first time that Quijano had testified in
+a Texas capital case, or in which the prosecution asked
+him questions regarding the relationship between race
+and future dangerousness. State prosecutors had elicited
+comparable testimony from Quijano in several other cases.
+In four of them, the prosecution called Quijano as a witness. See Gonzales v. Cockrell, Civ. Action No. 99–72 (WD
+Tex., Dec. 19, 2002); Broxton v. Johnson, Civ. Action No.
+00–1034 (SD Tex., Mar. 28, 2001); Garcia v. Johnson, Civ.
+Action No. 99–134 (ED Tex., Sept. 7, 2000); Saldano v.
+Texas, 530 U. S. 1212 (2000). In two, the defense called
+Quijano, but the prosecution was the first to elicit racerelated testimony from him. See Alba v. Johnson, 232
+F. 3d 208 (CA5 2000) (Table); Blue v. Johnson, Civ. Action
+No. 99–0350 (SD Tex., Sept. 29, 2000). In each case, as in
+Buck’s, however, the salient fact was that the prosecution
+invited the jury to consider race as a factor in sentencing.
+And in each case, the defendant was sentenced to death.
+When one of those defendants, Victor Hugo Saldano,
+petitioned for this Court’s review, the State of Texas confessed error. It acknowledged that “the use of race in
+Saldano’s sentencing seriously undermined the fairness,
+integrity, or public reputation of the judicial process.”
+Response to Pet. for Cert. in Saldano v. Texas, O. T. 1999,
+No. 99–8119, p. 7. The State continued, “[T]he infusion of
+race as a factor for the jury to weigh in making its determination violated [Saldano’s] constitutional right to be
+sentenced without regard to the color of his skin.” Id., at
+8. We granted Saldano’s petition, vacated the judgment,
+and remanded. Saldano v. Texas, 530 U. S. 1212.
+Shortly afterwards, the then-attorney general of Texas
+announced publicly that he had identified six cases that
+were “similar to that of Victor Hugo Saldano” in that
+
+
+4
+
+BUCK v. THALER
+SOTOMAYOR, J., dissenting
+
+“testimony was offered by Dr. Quijano that race should be
+a factor for the jury to consider” in making its sentencing
+determination. Record in No. 4:04–cv–03965 (SD Tex.),
+Doc. 27–5, p. 30 (hereinafter Record) (internal quotation
+marks omitted). These were the five cases listed above
+(besides Saldano), as well as Buck’s. The attorney general
+declared that “it is inappropriate to allow race to be considered as a factor in our criminal justice system.” Ibid.
+(internal quotation marks omitted). Accordingly, in five of
+the six cases the attorney general identified, the State
+confessed error and did not raise procedural defenses to
+the defendants’ federal habeas petitions. Five of the six
+defendants were thus resentenced, each to death.
+Only in Buck’s case, the last of the six cases to reach
+federal habeas review, did the State assert a procedural
+bar. Why the State chose to treat Buck differently from
+each of the other defendants has not always been clear.
+As the Court of Appeals for the Fifth Circuit recognized in
+the decision that is the subject of this petition, “We are
+provided with no explanation for why the State declined
+to act consistently with its Attorney General’s public
+announcement with respect to petitioner Buck.” No. 11–
+70025, 2011 WL 4067164, *8, n. 41 (Sept. 14, 2011).
+What we do know is that the State justified its assertion
+of a procedural defense in the District Court based on
+statements and omissions that were misleading. The
+State found itself “compelled” to treat Buck’s case differently from Saldano’s because of a “critical distinction”:
+“Buck himself, not the State[,] offered Dr. Quijano’s testimony into evidence.” Record, Doc. 6, at 17. The State
+created the unmistakable impression that Buck’s case
+differed from the others in that only Buck called Quijano
+as a witness. The State asserted, “[T]he Director is obviously aware of the prior confessions of error in other federal habeas corpus cases involving similar testimony by
+Dr. Quijano. However, this case is not Saldano. In Sal-
+
+
+Cite as: 565 U. S. ____ (2011)
+
+5
+
+SOTOMAYOR, J., dissenting
+
+dano’s case Dr. Quijano testified for the State.” Id., at 20
+(citation omitted; emphasis in original); see also ibid.
+(“Therefore, because it was Buck who called Dr. Quijano to
+testify and derived the benefit of Dr. Quijano’s overall
+opinion that Buck was unlikely to be a future danger
+despite the existence of some negative factors, this case
+does not represent the odious error contained in the Saldano cases”). This was obviously not accurate. Like Buck,
+the defendants in both Blue and Alba called Quijano to the
+stand. But on the ground that only Buck had called Quijano as a witness, the State urged the District Court that
+“the former actions of the Director [in the other five cases]
+are not applicable and should not be considered in deciding this case.” Record, Doc. 6, at 20.2 The District Court
+applied the procedural bar raised by the State and dismissed Buck’s petition.
+Buck later brought the State’s misstatements to light in
+a motion to reopen the judgment under Rule 60 of the
+Federal Rules of Civil Procedure. In response, the State
+erroneously identified Alba as a case in which the prosecution had called Quijano to the stand, and omitted any
+mention of Blue. After the District Court denied Buck’s
+Rule 60 motion, Buck highlighted these errors in a motion
+under Rule 59(e) to alter or amend the judgment, which
+the District Court also denied. The Fifth Circuit denied
+Buck’s application for a certificate of appealability (COA)
+to review these two judgments.
+I believe the Fifth Circuit erred in doing so. To obtain a
+COA, a petitioner need not “prove, before the issuance of a
+COA, that some jurists would grant the petition for habeas
+——————
+2 Perhaps, under a generous reading of the State’s briefing, the State
+meant to convey to the District Court that Buck’s case was distinguishable from the others not only because he called Quijano as a witness,
+but also because he elicited race-related testimony. But that is not
+what the briefing says. The distinction that the State offered—that
+Buck alone proffered Quijano as a witness—is incorrect.
+
+
+6
+
+BUCK v. THALER
+SOTOMAYOR, J., dissenting
+
+corpus.” Miller-El v. Cockrell, 537 U. S. 322, 338 (2003).
+Instead, a petitioner must show that “jurists of reason
+could disagree with the district court’s resolution of his
+constitutional claims or that jurists could conclude the
+issues presented are adequate to deserve encouragement
+to proceed further.” Id., at 327. See also 28 U. S. C.
+§2253(c)(2).
+Buck has met this standard. The Rule 60 relief that
+he sought in the District Court was highly discretionary.
+Liljeberg v. Health Services Acquisition Corp., 486 U. S.
+847 (1988). Yet the District Court denied relief based on
+a record compromised by the State’s misleading remarks
+and omissions. I realize that, in denying Buck’s Rule 59(e)
+motion, the District Court was aware of Buck’s arguments
+that the State had mischaracterized Alba and Blue. But
+the District Court lacked other information that might
+have influenced its decision. Significantly, the District
+Court could not know that the State would later concede
+in the Fifth Circuit that it had mischaracterized Alba.
+Nor, for similar reasons, did the District Court have the
+opportunity to evaluate the State’s subsequent efforts in
+the Fifth Circuit and this Court to try to distinguish
+Buck’s case from Alba and Blue. The State argues that
+although the defendants in those cases each proffered
+Quijano as a witness, they did not, like Buck, elicit racerelated testimony on direct examination; instead, the
+prosecution first did so on cross-examination.
+This distinction is accurate but not necessarily substantial. The context in which Buck’s counsel addressed race
+differed markedly from how the prosecutor used it. On
+direct examination, Quijano referred to race as part of his
+overall opinion that Buck would pose a low threat to society were he imprisoned. This is exactly how the State has
+characterized Quijano’s testimony. E.g., Thaler’s Reply to
+Buck’s Motion for Relief from Judgment and Motion for
+Stay of Execution in No. 4:04–cv–03965 (SD Tex.), pp. 15–
+
+
+Cite as: 565 U. S. ____ (2011)
+
+7
+
+SOTOMAYOR, J., dissenting
+
+16 (“In this case, first on direct examination by the defense, Dr. Quijano merely identified race as one statistical
+factor and pointed out that African-Americans were
+overrepresented in the criminal justice system; he did not
+state a causal relationship, nor did he link this statistic to
+Buck as an individual”). Buck did not argue that his race
+made him less dangerous, and the prosecutor had no need
+to revisit the issue. But she did, in a question specifically
+designed to persuade the jury that Buck’s race made him
+more dangerous and that, in part on this basis, he should
+be sentenced to death.
+The then-attorney general of Texas recognized that “it is
+inappropriate to allow race to be considered as a factor in
+our criminal justice system.” Record, Doc. 27–5, at 30
+(internal quotation marks omitted). Whether the District
+Court would accord any weight to the State’s purported
+distinctions between Buck’s case and the others is a question which that court should decide in the first instance,
+based on an unobscured record. Especially in light of the
+capital nature of this case and the express recognition by
+a Texas attorney general that the relevant testimony
+was inappropriately race-charged, Buck has presented
+issues that “deserve encouragement to proceed further.”
+Miller-El, 537 U. S., at 327.
+
+

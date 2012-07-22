@@ -1,0 +1,669 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1301
+_________________
+
+THOMAS CARR, PETITIONER v. UNITED STATES
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SEVENTH CIRCUIT
+
+[June 1, 2010]
+
+
+JUSTICE ALITO, with whom JUSTICE THOMAS and
+JUSTICE GINSBURG join, dissenting.
+The Court’s decision misinterprets and hobbles 18
+U. S. C. §2250(a), a provision of the Sex Offender Registra
+tion and Notification Act (SORNA or Act) that is designed
+to prevent dangerous sex offenders from evading registra
+tion requirements. SORNA requires convicted sex offend
+ers to register, and to keep their registrations current, in
+each jurisdiction where they live, work, and go to school,
+42 U. S. C. §16913, and the provision at issue here, 18
+U. S. C. §2250(a), makes it a crime for a convicted sex
+offender who moves in interstate commerce1 to fail to
+abide by the Act’s registration requirements. The question
+that we must decide is whether §2250(a) applies only to
+those sex offenders who travel in interstate commerce
+after SORNA became law or whether the statute also
+reaches sex offenders, like petitioner, who were convicted2
+——————
+1 Section 2250(a) also applies to persons with federal sex-offense con
+victions, those who travel in foreign commerce, and those who enter,
+leave, or reside in Indian country. For convenience, I will refer in this
+opinion solely to interstate travel.
+2 The Court holds only that §2250(a)(2)(B) does not apply to a person
+who moved in interstate commerce before SORNA took effect. The
+Court does not address the separate question whether §2250(a) may
+validly be applied to a person who was convicted of a qualifying offense
+before SORNA was enacted. Congress delegated to the Attorney
+General the authority to decide whether the Act’s registration require
+
+
+2
+
+CARR v. UNITED STATES
+ALITO, J., dissenting
+
+and traveled before SORNA took effect but violated the
+registration requirement after that date.
+The Court’s answer is that §2250(a) applies only to sex
+offenders who moved from State to State after SORNA
+became law. The Court reaches this conclusion for two
+reasons: (1) the verb tense used in §2250(a)(2)(B); and (2)
+the sequence in which the elements of the offense are
+listed.
+As I will attempt to show, the Court’s textual arguments
+are thoroughly unsound. And the conclusion that the
+Court reaches makes no sense. To appreciate the folly of
+the Court’s interpretation, consider the following two
+cases.
+The first involves a situation in which, for present pur
+poses, I assume that §2250(a) applies.3 A man convicted
+in State A for sexual abuse is released from custody in
+that State and then, after the enactment of SORNA,
+moves to State B and fails to register as required by State
+B law. Section 2250(a) makes this offender’s failure to
+register in State B a federal crime because his interstate
+movement frustrates SORNA’s registration requirements.
+Because this offender is convicted and then released from
+custody in State A, the State A authorities know of his
+presence in their State and are thus in a position to try to
+ensure that he remains registered. At the time of his
+release, they can ascertain where he intends to live, and
+they can make sure that he registers as required by state
+law. Thereafter, they can periodically check the address
+——————
+ments—and thus §2250(a)’s criminal penalties—should apply to per
+sons in the latter category, 42 U. S. C. §16913(d), and the Attorney
+General has promulgated a regulation providing that they do, 72 Fed.
+Reg. 8897 (2007) (codified at 28 CFR §72.3 (2009)). Because the Court
+does not address the validity of this regulation, I proceed on the as
+sumption that 18 U. S. C. §2250(a) reaches persons with pre-SORNA
+sex-offense convictions.
+3 See n. 2, supra.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+ALITO, J., dissenting
+
+at which he is registered to confirm that he still resides
+there. And even if he moves without warning to some
+other address in the State, they can try to track him down.
+Once this offender leaves State A, however, the authorities
+in that State are severely limited in their ability to moni
+tor his movements. And because the State B authorities
+have no notice of his entry into their State, they are at a
+great disadvantage in trying to enforce State B’s registra
+tion law. Congress enacted §2250(a) in order to punish
+and deter interstate movement that seriously undermines
+the enforcement of sex-offender-registration laws.
+The second case is the same as the first in all respects
+except that the sex offender travels from State A to State
+B before SORNA’s enactment. In other words, the sex
+offender is convicted and later released in State A; prior to
+SORNA’s enactment, he moves to State B; and then, after
+SORNA takes effects, he fails to register in State B, as
+SORNA requires.
+Is there any reason why Congress might have wanted to
+treat the second case any differently from the first? In
+both cases, a sex offender’s interstate movement frustrates
+enforcement of SORNA’s registration requirements. In
+both cases, as a result of that interstate travel, the sex
+offender’s new neighbors in State B are unaware of the
+presence of a potentially dangerous person in their com
+munity, and the State B law enforcement authorities are
+hampered in their ability to protect the public. The second
+case is the case now before the Court, and the Court offers
+no plausible explanation why Congress might have
+wanted to treat this case any differently from the first.
+If the text of §2250(a) commanded this result, we would,
+of course, be obligated to heed that command. But the text
+of §2250(a) dictates no such thing. On the contrary, when
+properly read, it reaches both cases.
+Section 2250(a) provides in pertinent part as follows:
+
+
+4
+
+CARR v. UNITED STATES
+ALITO, J., dissenting
+
+“Whoever—
+“(1) is required to register under the Sex Offender
+Registration and Notification Act . . .
+“(2) . . . (B) travels in interstate or foreign commerce
+. . . ; and
+“(3) knowingly fails to register or update a registra
+tion as required by the Sex Offender Registration and
+Notification Act;
+“shall be fined under this title or imprisoned not more
+than 10 years, or both.” (Emphasis added.)
+As I read this language, neither the use of the present
+tense in paragraph (2)(B) nor the sequence in which the
+elements are listed provides any basis for limiting the
+provision to those sex offenders who move from one State
+to another after SORNA’s enactment.
+I
+
+A
+
+The dominant theme of petitioner’s argument is that the
+use of the present tense in §2250(a)(2)(B) (“travels in
+interstate . . . commerce”) indisputably means that an
+offender’s interstate travel must occur after SORNA took
+effect. “There is no mystery about the meaning of the
+word ‘travels,’ ” petitioner tells us. Brief for Petitioner 15.
+“[I]n ordinary usage it refers to present or future travel.”
+Ibid. According to petitioner, our “inquiry in this case
+should go no further than the plain language of
+§ 2250(a)(2)(B), which applies to a person who ‘travels’ in
+interstate commerce. Congress’s use of the present tense
+is unambiguous, and the statutory language accordingly
+should be the end of the matter.” Id., at 16–17; see also
+id., at 17 (use of the present tense “travels” is “disposi
+tive”); id., at 18 (“[T]he use of the present tense in the
+statute should be decisive”); id., at 21 (use of the present
+tense “is enough to dispose of this case”).
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+ALITO, J., dissenting
+
+B
+A bad argument does not improve with repetition. And
+petitioner’s argument fails because it begs the relevant
+question. Petitioner belabors the obvious—that the pre
+sent tense is not used to refer to events that occurred in
+the past—but studiously avoids the critical question: At
+what point in time does §2250(a) speak? Does it speak as
+of the time when SORNA took effect? Or does it speak as
+of the time when the proscribed conduct occurs? Without
+knowing the point in time at which the law speaks, it is
+impossible to tell what is past and what is present or
+future.
+The unspoken premise of petitioner’s argument is that
+§2250(a) speaks as of the time when it became law. And if
+that premise is accepted, it follows that the use of the
+present tense in §2250(a)(2)(B) means that the requisite
+interstate travel must occur after, not before, SORNA took
+effect. Petitioner’s premise, however, flies in the face of
+the widely accepted modern legislative drafting convention
+that a law should not be read to speak as of the date of
+enactment. The United States Senate Legislative Draft
+ing Manual directly addresses this point: “A legislative
+provision speaks as of any date on which it is read (rather
+than as of when drafted, enacted, or put into effect).”
+Senate Office of the Legislative Counsel, Legislative Draft
+ing Manual §103(a), p. 4 (1997) (emphasis added). The
+House Manual makes the same point:
+“Your draft should be a movable feast—that is, it
+speaks as of whatever time it is being read (rather
+than as of when drafted, enacted, or put into effect).”
+House Legislative Counsel’s Manual on Drafting
+Style, HLC No. 104–1, §102(c), p. 2 (1995).
+In accordance with this convention, modern legislative
+drafting manuals teach that, except in unusual circum
+stances, all laws, including penal statutes, should be
+
+
+6
+
+CARR v. UNITED STATES
+ALITO, J., dissenting
+
+written in the present tense. The Senate Manual, supra,
+§103(a), at 4, states: “[A]lways use the present tense
+unless the provision addresses only the past, the future, or
+a sequence of events that requires use of a different tense.”
+Similarly, the House Manual, supra, §102(c), at 2, advises:
+“STAY IN THE PRESENT.–– Whenever possible, use the
+present tense (rather than the past or future).” Numerous
+state legislative drafting manuals and other similar hand
+books hammer home this same point. See, e.g., Colorado
+Legislative Drafting Manual, p. 5–15 (2009), online
+at http://www.state.co.us/gov_dir/leg_dir/olls/LDM/OLLS_
+Drafting_Manual.pdf (all Internet materials as visited
+May 26, 2010, and available in Clerk of Court’s case
+file) (“Provisions should generally be stated in the
+present tense”); Hawaii Legislative Drafting Manual 21
+(K. Takayama rev. 9th ed. 2007 reprint), online at
+http://www.state.hi.us/lrb/rpts96/dftman.pdf (“Use the
+present tense and indicative mood”); Legislative Research
+Comm’n, Bill Drafting Manual for the Kentucky General
+Assembly, §304, p. 19 (14th rev. ed. 2004) (“Use the pre
+sent tense and the indacative mood”); Maine Legislative
+Drafting Manual 78 (rev. ed. 2009) (“Laws are meant to be
+of continuing application and should be written in the
+present tense”); Massachusetts General Courts, Legisla
+tive Research and Drafting Manual 6 (5th ed. 2010) (“Use
+the present tense and the indicative mood”); New Mexico
+Legislative
+Counsel
+Service,
+Legislative
+Drafting Manual 105 (2004 update) (“Statutes are written in
+the present tense, not the future tense”); Texas Leg
+islative Council Drafting Manual §7.35 (2008) (“Use
+present tense whenever possible”); West Virginia Legislature Bill Drafting Manual 22 (rev. 2006), online
+at http://www.legis.state.wv.us/joint/Bill_Drafting/Drafting_
+Manual.pdf (“Avoid future tense (will be paid) and future
+perfect tense (will have been paid). Use present
+tense (is paid)”); see also Ohio Legislative Service Com
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+ALITO, J., dissenting
+
+mission, Rule Drafting Manual 47 (4th ed. 2006),
+http://www.lsc.state.oh.us/rules/rdm06_06.pdf (“Use pre
+sent tense. The majority of rules have a continuing effect
+in that they apply over time. They speak at the time of
+reading, not merely at the time of their adoption. The
+present tense therefore includes the future tense”).
+Once it is recognized that §2250(a) should not be read as
+speaking as of the date when SORNA went into effect,
+petitioner’s argument about the use of the present tense
+collapses. In accordance with current drafting conven
+tions, §2250(a) speaks, not as of the time when the law
+went into effect, but as of the time when the first act
+necessary for conviction is committed. In the case of
+§2250(a), that occurs when an individual is convicted of a
+qualifying sex offense, for it is that act that triggers the
+requirement to register under SORNA.4 For present
+purposes, we must proceed on the assumption that this
+event may have occurred before SORNA was enacted.
+Viewed as of the time when such a pre-SORNA conviction
+takes place, every subsequent act, including movement
+from State to State, occurs in the future and is thus prop
+erly described using the present tense. Accordingly,
+§2250(a)(2)(B)’s use of the present tense (“travels”) sup
+ports the application of the statute to a sex offender, like
+petitioner, who moved from State to State after conviction
+but before SORNA went into effect.5
+——————
+4 Under
+
+42 U. S. C. §16913, a “sex offender” is required to register,
+and the term “sex offender” is defined as a person who was convicted of
+a “sex offense.” §16911(1). The Court relies on the artificial argument
+that the first act necessary for conviction under 18 U. S. C. §2250(a) is
+the failure to register, ante, at 6–7, and n. 4, but in real-world terms the
+first necessary act is plainly the commission of a qualifying offense.
+5 Contrary to the Court’s interpretation, see ante, at 8–9, Gwaltney of
+Smithfield, Ltd. v. Chesapeake Bay Foundation, Inc., 484 U. S. 49
+(1987), does not support petitioner’s argument. Gwaltney involved a
+civil action brought under §505 of the Clean Water Act, 33 U. S. C.
+§1365(a), which authorizes suit against any person “alleged to be in
+
+
+8
+
+CARR v. UNITED STATES
+
+ALITO, J., dissenting 
+
+
+C
+
+Petitioner’s present-tense argument is particularly
+perverse in light of the context in which §2250(a) was
+adopted. When SORNA was enacted, Congress elected not
+to decide for itself whether the Act’s registration require
+ments—and thus §2250(a)’s criminal penalties—would
+apply to persons who had been convicted of qualifying sex
+offenses before SORNA took effect. Instead, Congress
+delegated to the Attorney General the authority to decide
+that question. See §113(d), 120 Stat. 594, 42 U. S. C.
+§16913(d) (“The Attorney General shall have the authority
+to specify the applicability of the requirements of [Title I
+of SORNA] to sex offenders convicted before the enact
+ment of this Act”).6 Pursuant to this delegation, the At
+——————
+violation” of a National Pollutant Discharge Elimination System
+permit. In Gwaltney, the permit holder had violated its permit between
+1981 and 1984, but the permit holder claimed that it had ceased all
+violations by the time the suit was filed. 484 U. S., at 53–55. This
+Court held that the phrase “alleged to be in violation” showed that the
+provision was meant to apply only where an ongoing violation is al
+leged. Id., at 59.
+The provision at issue in Gwaltney differs from §2250(a) in that it
+specifies the relevant temporal point of reference, namely, the point in
+time when the allegation of an ongoing violation is made. Section
+2250(a) contains no similar specification. Moreover, the Gwaltney
+Court did not read the provision at issue there as speaking at the time
+when the provision was enacted. As noted above, however, the silent
+premise of petitioner’s argument is that §2250(a) must be read as
+speaking as of the time of SORNA’s enactment.
+6 To be sure, at least two Courts of Appeals have held that SORNA’s
+registration requirements apply by the Act’s own terms to those indi
+viduals with sex-offense convictions that predate SORNA’s enactment.
+See United States v. Hinckley, 550 F. 3d 926, 929–935 (CA10 2008);
+United States v. May, 535 F. 3d 912, 918–919 (CA8 2008). Other
+Courts of Appeals, however, have disagreed, reasoning that SORNA’s
+explicit grant of authority to the Attorney General to determine the
+Act’s applicability to offenders with pre-SORNA convictions implies
+that the Act would not apply to those sex offenders absent the Attorney
+General’s regulation. See, e.g., United States v. Cain, 583 F. 3d 408,
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+ALITO, J., dissenting
+
+torney General in 2007 issued an interim rule providing
+that SORNA applies to pre-enactment convictions. 72
+Fed. Reg. 8897 (codified at 28 CFR §72.3).7
+Petitioner contends that, if Congress had wanted to
+make §2250(a) applicable to sex offenders who traveled in
+interstate commerce before SORNA took effect, Congress
+could have referred in §2250(a)(2)(B) to a person who
+“traveled,” “has traveled,” or, at the time of the statute’s
+enactment, “had traveled” in interstate commerce. Brief
+for Petitioner 19 (internal quotation marks omitted). Any
+such phrasing, however, would have strongly suggested
+that §2250(a) reaches persons with pre-SORNA sex
+offense convictions—the very question that Congress chose
+not to decide but instead to leave for the Attorney General.
+A brief explanation is needed to make clear why word
+ing §2250(a)(2)(B) in the past tense (or the present perfect
+or past perfect tense) would have had such an effect. The
+Court and I agree that §2250(a) applies only to persons
+who travel in interstate commerce after they are convicted
+of a qualifying sex offense. See ante, at 6; infra, at 11–12.
+Therefore, if §2250(a) had been phrased in the past tense
+(or the present perfect or past perfect tense), it would
+——————
+414–415, 419 (CA6 2009); United States v. Hatcher, 560 F. 3d 222, 226–
+229 (CA4 2009); United States v. Dixon, 551 F. 3d 578, 585 (CA7 2008)
+(case below); United States v. Madera, 528 F. 3d 852, 856–859 (CA11
+2008). Those Courts of Appeals in the latter group, in my view, have
+the better of the argument. Section 113(d) of SORNA delegates to the
+Attorney General the “authority to specify the applicability of the
+requirements of [Title I of SORNA] to sex offenders convicted before the
+enactment of [the] Act.” 120 Stat. 594, 42 U. S. C. §16913(d). The clear
+negative implication of that delegation is that, without such a determi
+nation by the Attorney General, the Act would not apply to those with
+pre-SORNA sex-offense convictions.
+7 Although not controlling, it is worth noting that one of the two ex
+amples the Attorney General included in his February 2007 rule
+contemplated that pre-SORNA travel would be sufficient to satisfy
+§2250(a)(2)(B)’s interstate-travel requirement. See 28 CFR §72.3
+(Example 2).
+
+
+10
+
+CARR v. UNITED STATES
+ALITO, J., dissenting
+
+seem necessarily to follow that the provision reaches preSORNA convictions. By using the present tense, Congress
+remained neutral on the question whether the Act reaches
+those with pre-SORNA sex-offense convictions and left
+that question open for the Attorney General.
+The conclusion that §2250(a)(2)(B) embraces preSORNA travel is reinforced by the presence of quite a few
+other SORNA provisions that plainly use the present
+tense to refer to events that, as a result of the Attorney
+General’s regulation, may have occurred before SORNA
+took effect. For example, an individual may qualify as a
+“tier II sex offender” under the Act if, among other things,
+his sex offense “involves . . . (i) use of a minor in sexual
+performance; (ii) solicitation of a minor to practice prosti
+tution; or (iii) production or distribution of child pornogra
+phy.” 42 U. S. C. §16911(3)(B) (emphasis added); see also
+§16911(4)(B) (offense “involves kidnapping a minor” (em
+phasis added)); §16911(7) (offense “involves” certain speci
+fied conduct). Similarly, a sex offender can qualify as a
+“tier II sex offender” if his sex offense “occurs after the
+offender becomes a tier I sex offender.” §16911(3)(C) (em
+phasis added); see also §16911(4)(C) (offense “occurs after
+the offender becomes a tier II sex offender” (emphasis
+added)). A juvenile adjudication, moreover, may qualify as
+a conviction for purposes of the Act only if, among other
+things, the “offender is 14 years of age or older at the time
+of the offense.” §16911(8) (emphasis added).8
+——————
+8 That many of these provisions rely on §16911(1)’s definition of the
+term “sex offender” changes nothing. See ante, at 10, n. 6. Had the
+Attorney General not exercised his discretion to make SORNA’s regis
+tration requirements applicable to those with pre-SORNA sex-offense
+convictions, all of these provisions would have applied to only pos
+tenactment conduct—notwithstanding §16911(1)’s reference to “an
+individual who was convicted of a sex offense.” (Emphasis added.) But
+now that the Attorney General has so exercised his discretion, all of
+these present-tense-phrased provisions necessarily must be interpreted
+as reaching pre-enactment conduct. The same conclusion should follow
+
+
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+ALITO, J., dissenting
+
+Congress cast all of these provisions in the present
+tense, but now that the Attorney General has made
+SORNA applicable to individuals with pre-SORNA sex
+offense convictions, all of these provisions must necessar
+ily be interpreted as embracing pre-enactment conduct.
+II
+The Court’s second reason for holding that 18 U. S. C.
+§2250(a) reaches only post-SORNA travel is based on the
+sequence in which the elements of §2250(a) are listed. The
+Court concludes (and I agree) that the first listed element
+(subsection (a)(1) (“is required to register under the Sex
+Offender Registration and Notification Act”)) cannot have
+been violated until the Act took effect. The Court then
+reasons that the third listed element (subsection (a)(2)(B)
+(“travels in interstate . . . commerce”)) must be violated
+after the first. See ante, at 6. The Court explains: “Per
+sons convicted of sex offenses under state law who fail to
+register in their State of conviction would otherwise be
+subject to federal prosecution under §2250 even if they
+had not left the State after being convicted—an illogical
+result given the absence of any obvious federal interest in
+punishing such state offenders.” Ibid. In other words, the
+Court reasons that it would be illogical to interpret the
+statute as reaching a person who first moves from State A
+——————
+with respect to 18 U. S. C. §2250(a)(2)(B).
+Additionally, I do not suggest that the “default” rule is that provi
+sions written in the present tense apply to past conduct. To the con
+trary, I had thought it an uncontroversial proposition of statutory
+interpretation that statutes must be interpreted in context. See, e.g.,
+United States Nat. Bank of Ore. v. Independent Ins. Agents of America,
+Inc., 508 U. S. 439, 455 (1993); see also 1 U. S. C. § 1. And when
+§2250(a) is read with an eye to the context in which SORNA was
+enacted, it becomes quite clear that §2250(a)(2)(B) should be inter
+preted as reaching pre-enactment travel. Giving effect to those contex
+tual indicators, moreover, does not offend the presumption against
+retroactivity or the Ex Post Facto Clause. See n. 10, infra.
+
+
+12
+
+CARR v. UNITED STATES
+ALITO, J., dissenting
+
+to State B, then commits and is convicted of a qualifying
+sex offense in State B, and subsequently, upon release
+from custody in State B, fails to register as required under
+the law of that State.
+I agree with the Court that there is a good argument
+that §2250(a) should not be read to apply to such a case,
+where there is little if any connection between the of
+fender’s prior interstate movement and his subsequent
+failure to register. In the two hypothetical cases discussed
+at the beginning of this opinion, the offender’s interstate
+movement seriously frustrated the ability of the law en
+forcement authorities in his new State (State B) to enforce
+its registration requirements. By contrast, where an
+offender’s interstate movement predates his sex offense
+and conviction, his interstate movement has little if any
+effect on the ability of the law enforcement authorities in
+State B to enforce that State’s laws. When a sex offender
+is released from custody in State B, the ability of the State
+B authorities to enforce that State’s registration laws
+would appear to be the same regardless of whether that
+offender had lived his entire life in that State or had
+moved to the State prior to committing the offense for
+which he was convicted. Accordingly, it can be argued
+that Congress cannot have meant to reach this situation.
+As the Seventh Circuit put it, “[s]ince the statutory aim is
+to prevent a convicted sex offender from circumventing
+registration by leaving the state in which he is registered,
+it can be argued that the travel must postdate the convic
+tion.” United States v. Dixon, 551 F. 3d 578, 582 (2008).
+It can also be argued that a broader construction would
+mean that Congress exceeded its authority under the
+Commerce Clause. See Brief for National Association of
+Criminal Defense Lawyers as Amicus Curiae 16–17.
+What the Court’s argument shows, however, is not that
+the interstate travel required by §2250(a) must come after
+SORNA’s enactment. Rather, what the Court’s argument
+
+
+Cite as: 560 U. S. ____ (2010)
+
+13
+
+ALITO, J., dissenting
+
+suggests is that the interstate travel must come after the
+sex-offense conviction. And because, under the regulation
+promulgated by the Attorney General, §2250(a) reaches
+pre-SORNA convictions, this argument does not support
+the Court’s conclusion that the interstate travel needed
+under §2250(a) must have occurred after SORNA was
+enacted.
+III
+When an interpretation of a statutory text leads to a
+result that makes no sense, a court should at a minimum
+go back and verify that the textual analysis is correct.
+Here, not only are the Court’s textual arguments unsound
+for the reasons explained above, but the indefensible
+results produced by the Court’s interpretation should have
+led the Court to doublecheck its textual analysis.
+SORNA was a response to a dangerous gap in the then
+existing sex-offender-registration laws. In the years prior
+to SORNA’s enactment, the Nation had been shocked by
+cases in which children had been raped and murdered by
+persons who, unbeknownst to their neighbors or the police,
+were convicted sex offenders. In response, Congress and
+state legislatures passed laws requiring the registration of
+sex offenders. See Smith v. Doe, 538 U. S. 84, 89–90
+(2003); Jacob Wetterling Crimes Against Children and
+Sexually Violent Offender Registration Act, Tit. 17, 108
+Stat. 2038; Megan’s Law, 110 Stat. 1345. Despite those
+efforts, by 2006 an estimated 100,000 convicted sex of
+fenders—nearly one-fifth of the Nation’s total sex-offender
+population—remained unregistered. H. R. Rep. No. 109–
+218, pt. 1, p. 26 (2005). The principal problem, a House
+Report determined, was that sex offenders commonly
+moved from one State to another and then failed to regis
+ter in their new State of residence. Ibid. In other words,
+interstate travel was dangerously undermining the effec
+tiveness of state sex-offender-registration laws.
+
+
+14
+
+CARR v. UNITED STATES
+ALITO, J., dissenting
+
+Interpreting §2250(a)(2)(B) to reach only postenactment
+travel severely impairs §2250(a)’s effectiveness. As inter
+preted by the Court, §2250(a) applies to a pre-SORNA sex
+offender only if that offender traveled in interstate com
+merce at some point after SORNA’s enactment. As the
+examples discussed at the beginning of this opinion illus
+trate, however, there is no apparent reason why Congress
+would have wanted to impose such a requirement. To the
+contrary, under the Court’s interpretation, the many sex
+offenders who had managed to avoid pre-existing registra
+tion regimes, mainly by moving from one State to another
+before SORNA’s enactment, are placed beyond the reach of
+the federal criminal laws. It surely better serves the
+enforcement of SORNA’s registration requirements to
+apply §2250(a) to all pre-SORNA sex offenders, regardless
+of whether their interstate travel occurred before or after
+the statute’s enactment.
+The Court provides only a weak defense of the result its
+analysis produces. The Court suggests that enhanced
+information collection and sharing and state enforcement
+of registration laws were the sole weapons that Congress
+chose to wield in order to deal with those convicted sex
+offenders whose whereabouts were unknown when
+SORNA was passed. See ante, at 14–16. I see no basis for
+this conclusion. There can be no dispute that the enact
+ment of §2250(a) shows that Congress did not think these
+measures were sufficient to deal with persons who have
+qualifying sex-offense convictions and who move from
+State to State after SORNA’s enactment. And in light of
+that congressional judgment, is there any plausible reason
+to think that Congress concluded that these same meas
+ures would be adequate for those with qualifying sex
+offense convictions who had already disappeared at the
+time of SORNA’s enactment?9 The Court has no answer,
+——————
+9 Contrary
+
+to the Court’s suggestion, see ante, at 15, n. 9, it is no an
+
+
+Cite as: 560 U. S. ____ (2010)
+
+15
+
+ALITO, J., dissenting
+
+and I submit that there is none.10
+IV
+For these reasons, I would affirm the decision of the
+Seventh Circuit, and I therefore respectfully dissent.
+
+——————
+swer to point to Congress’ decision to delegate to the Attorney General
+the responsibility of deciding whether §2250(a) should reach persons
+with pre-SORNA sex-offense convictions. Of course, that delegation
+created the possibility that the Attorney General would decide that
+§2250(a) should not apply to such offenders, and if he had so decided it
+would likely follow that post-SORNA interstate travel would also be
+required. (This is the case because, as previously explained, there is a
+strong argument that §2250(a) requires interstate travel that comes
+after a qualifying conviction.)
+Now that the Attorney General has decided that §2250(a) reaches
+persons with pre-SORNA sex offense convictions, however, the relevant
+question is this: Is there any reason why Congress might have wanted
+to draw a distinction between (1) persons with pre-SORNA convictions
+and pre-SORNA travel and (2) persons with pre-SORNA convictions
+and post-SORNA travel? And to this question, the Court offers no
+plausible answer.
+10 Petitioner makes the additional argument that interpreting
+§2250(a)(2)(B) to reach pre-enactment travel renders the statute an
+unlawful ex post facto law. See U. S. Const., Art. I, §9, cl. 3. Petitioner
+remained unregistered in Indiana five months after the promulgation
+of the regulation making SORNA applicable to persons with preSORNA sex-offense convictions. For essentially the reasons explained
+by the Court of Appeals, see United States v. Dixon, 551 F. 3d, at 585–
+587, I would reject petitioner’s ex post facto argument.
+
+

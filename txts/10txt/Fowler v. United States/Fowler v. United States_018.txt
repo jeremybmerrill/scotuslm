@@ -1,0 +1,43 @@
+6
+
+FOWLER v. UNITED STATES
+SCALIA, J., concurring in judgment
+
+officer would have occurred.
+The principal defect in this interpretation is that it
+makes the words “of the United States” superfluous.
+Section 1512(a)(1)(C) specifically requires that the in
+formation the defendant seeks to prevent from being com
+municated be “information relating to the commission or
+possible commission of a Federal offense.” If the phrase
+“to a law enforcement officer . . . of the United States”
+requires nothing more than this it is utterly without effect.
+The implication of this view is that Congress enacted
+§1512(a)(1)(C)’s reference to “a law enforcement officer . . .
+of the United States,” only to immediately nullify it by
+§1512(g)(2)’s “no state of mind” provision. Not likely—and
+not sound statutory interpretation.
+The dissent claims that my analysis “confuses what the
+prosecution must prove with what a rational jury may
+choose to infer in a particular case.” Post, at 6. I find this
+contention difficult to understand. In the dissent’s view, a
+properly instructed jury should be required to find neither
+that the defendant’s mens rea had any connection to a
+federal officer, nor that the defendant’s actus reus had any
+connection to a federal officer. It therefore follows that
+under the dissent’s view, a properly instructed jury should
+be required to find nothing about a connection to a federal
+officer beyond the fact that the information related to a
+federal offense, which means that, unless the jury is acting
+irrationally or is engaging in jury nullification, the “of the
+United States” provision is indeed superfluous. The dis
+sent is correct that the proof of one element of a crime
+(such as an overt act) can sometimes be used to prove that
+a different element (such as a conspiratorial agreement) is
+satisfied, post, at 6–7, n. 2; but in such cases, the jury is
+instructed that it is required to make a separate finding to
+convict (e.g., that a conspiratorial agreement actually
+occurred). Here, the dissent identifies no separate finding
+the jury must make beyond the fact of a federal offense.
+
+

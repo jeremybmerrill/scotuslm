@@ -1,0 +1,45 @@
+40
+
+NATIONAL FEDERATION OF INDEPENDENT 
+
+BUSINESS v. SEBELIUS
+
+Opinion of ofOBERTS, C. J.
+Opinion R the Court 
+
+
+138, 144 (1948).
+Even if the taxing power enables Congress to impose
+a tax on not obtaining health insurance, any tax must
+still comply with other requirements in the Constitution.
+Plaintiffs argue that the shared responsibility payment
+does not do so, citing Article I, §9, clause 4. That clause
+provides: “No Capitation, or other direct, Tax shall be laid,
+unless in Proportion to the Census or Enumeration herein
+before directed to be taken.” This requirement means that
+any “direct Tax” must be apportioned so that each State
+pays in proportion to its population. According to the
+plaintiffs, if the individual mandate imposes a tax, it is a
+direct tax, and it is unconstitutional because Congress
+made no effort to apportion it among the States.
+Even when the Direct Tax Clause was written it was
+unclear what else, other than a capitation (also known as
+a “head tax” or a “poll tax”), might be a direct tax. See
+Springer v. United States, 102 U. S. 586, 596–598 (1881).
+Soon after the framing, Congress passed a tax on ownership of carriages, over James Madison’s objection that it
+was an unapportioned direct tax. Id., at 597. This Court
+upheld the tax, in part reasoning that apportioning such
+a tax would make little sense, because it would have required taxing carriage owners at dramatically different
+rates depending on how many carriages were in their
+home State. See Hylton v. United States, 3 Dall. 171, 174
+(1796) (opinion of Chase, J.). The Court was unanimous,
+and those Justices who wrote opinions either directly
+asserted or strongly suggested that only two forms of
+taxation were direct: capitations and land taxes. See id.,
+at 175; id., at 177 (opinion of Paterson, J.); id., at 183
+(opinion of Iredell, J.).
+That narrow view of what a direct tax might be persisted for a century. In 1880, for example, we explained that
+“direct taxes, within the meaning of the Constitution, are
+only capitation taxes, as expressed in that instrument,
+
+

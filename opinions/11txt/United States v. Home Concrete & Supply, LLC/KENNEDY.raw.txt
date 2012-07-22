@@ -1,0 +1,306 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+KENNEDY, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 11–139
+_________________
+
+UNITED STATES, PETITIONER v. HOME CONCRETE
+& SUPPLY, LLC, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FOURTH CIRCUIT
+[April 25, 2012]
+
+JUSTICE KENNEDY, with whom JUSTICE GINSBURG,
+JUSTICE SOTOMAYOR, and JUSTICE KAGAN join,
+dissenting.
+This case involves a provision of the Internal Revenue
+Code establishing an extended statute of limitations for
+tax assessment in cases where substantial income has
+been omitted from a tax return.
+See 26 U. S. C.
+§6501(e)(1)(A) (2006 ed., Supp. IV). The Treasury Department has determined that taxpayers omit income
+under this section not only when they fail to report a sale
+of property but also when they overstate their basis in
+the property sold. See Treas. Reg. §301.6501(e)–1, 26
+CFR §301.6501(e)–1 (2011). The question is whether this
+otherwise reasonable interpretation is foreclosed by the
+Court’s contrary reading of an earlier version of the statute in Colony, Inc. v. Commissioner, 357 U. S. 28 (1958).
+In Colony there was no need to decide whether the
+meaning of the provision changed when Congress reenacted it as part of the 1954 revision of the Tax Code. Although the main text of the statute remained the same,
+Congress added new provisions leading to the permissible
+conclusion that it would have a different meaning going
+forward. The Colony decision reserved judgment on this
+issue. In my view, the amended statute leaves room for
+the Department’s reading. A summary of the reasons for
+
+
+2
+
+UNITED STATES v. HOME CONCRETE & SUPPLY, LLC
+KENNEDY, J., dissenting
+
+concluding the Department’s interpretation is permissible,
+and for this respectful dissent, now follows.
+I
+The statute at issue in Colony, 26 U. S. C. §275(c) (1940
+ed.), was enacted as part of the Internal Revenue Code of
+1939. It provided for a longer period of limitations if
+the Government assessed income taxes against a taxpayer
+who had “omit[ted] from gross income an amount . . . in
+excess of 25 per centum of the amount of gross income
+stated in the return.”
+There was disagreement in the courts about the meaning of this provision in the statute as first enacted. The
+Tax Court of the United States, and the United States
+Court of Appeals for the Sixth Circuit, held that an overstatement of basis constituted an omission from gross
+income and could trigger the extended limitations period.
+See, e.g., Reis v. Commissioner, 142 F. 2d 900, 902–903
+(1944); American Liberty Oil Co. v. Commissioner, 1 T. C.
+386 (1942). The United States Court of Appeals for the
+Third Circuit came to the opposite conclusion in a case
+where a corporation misreported its income after inflating
+the cost of goods it sold from inventory. See Uptegrove
+Lumber Co. v. Commissioner, 204 F. 2d 570, 571–573
+(1953). In the Third Circuit’s view there could be an
+omission only where the taxpayer had left an entire “item
+of gain out of his computation of gross income.” Id., at
+571. In the Colony decision, issued in 1958, this Court
+resolved that dispute against the Government. Acknowledging that “it cannot be said that the language is unambiguous,” 357 U. S., at 33, and relying in large part on the
+legislative history of the 1939 Code, the Court concluded
+that the mere overstatement of basis did not constitute an
+omission from gross income under §275(c).
+If the Government is to prevail in the instant case the
+regulation in question must be a proper implementation of
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+KENNEDY, J., dissenting
+
+the same language the Court considered in Colony; but the
+statutory interpretation issue here cannot be resolved, and
+the Colony decision cannot be deemed controlling, without
+first considering the inferences that should be drawn from
+added statutory text. The additional language was not
+part of the statute that governed the taxpayer’s liability in
+Colony, and the Court did not consider it in that case.
+Congress revised the Internal Revenue Code in 1954,
+several years before Colony was decided but after the tax
+years in question in that case. Although the interpretation adopted by the Court in Colony can be a proper beginning point for the interpretation of the revised statute,
+it ought not to be the end.
+The central language of the new provision remained
+the same as the old, with the longer period of limitations
+still applicable where a taxpayer had “omit[ted] from gross
+income an amount . . . in excess of 25 per[cent] of the
+amount of gross income stated in the return.” In Colony,
+however, the Court left open whether Congress had nonetheless “manifested an intention to clarify or to change the
+1939 Code.” Id., at 37. The 1954 revisions, of course,
+could not provide a direct response to Colony, which had
+not yet been decided. But there were indications that,
+whatever the earlier version of the statute had meant,
+Congress expected that the overstatement of basis would
+be considered an omission from gross income as a general
+rule going forward.
+For example, the new law created a special exception for
+businesses by defining their gross income to be “the total
+of the amounts received or accrued from the sale of goods
+or services” without factoring in “the cost of such sales or
+services.” 26 U. S. C. §6501(e)(1)(A)(i) (1958 ed.) (currently §6501(e)(1)(B)(i) (2006 ed., Supp. IV)). The principal purpose of this provision, perhaps motivated by the
+facts in the Third Circuit’s Uptegrove decision, seems to have
+been to ensure that the extended statute of limitations
+
+
+4
+
+UNITED STATES v. HOME CONCRETE & SUPPLY, LLC
+KENNEDY, J., dissenting
+
+would not be activated by a business’s overstatement of
+the cost of goods sold. This did important work. There
+are, after all, unique complexities involved in calculating
+inventory costs. See, e.g., O. Whittington & K. Pany,
+Principles of Auditing and Other Assurance Services 488
+(15th ed. 2006) (“The audit of inventories presents the
+auditors with significant risk because: (a) they often represent a very substantial portion of current assets, (b)
+numerous valuation methods are used for inventories, (c)
+the valuation of inventories directly affects cost of goods
+sold, and (d) the determination of inventory quality, condition, and value is inherently complex”); see also Internal
+Revenue Service, Publication 538, Accounting Periods and
+Methods 17 (rev. Mar. 2008) (discussing methods for
+identifying the cost of items in inventory). Congress
+sought fit to make clear that errors in these kinds of calculations would not extend the limitations period.
+Colony itself might be classified as a special “business
+inventory” case. Unlike the taxpayers here, the taxpayer
+in Colony claimed to be a business with income from the
+sale of goods, though the “goods” it held for sale were real
+estate lots. See Intermountain Ins. Serv. of Vail v. Commissioner, 650 F. 3d 691, 703 (CADC 2011) (Tatel, J.)
+(“Colony described itself as a taxpayer in a trade or business with income from the sale of goods or services—i.e.,
+as falling within [clause] (i)’s scope had the subsection
+applied pre-1954 . . .”). The Court, in turn, observed that
+its construction of the pre-1954 statute in favor of the
+taxpayer was “in harmony with the unambiguous language of [newly enacted] §6501(e)(1)(A).” 357 U. S., at 37.
+Clause (i) of the new provision, as just noted, ensured that
+the extended limitations period would not cover overstated
+costs of goods sold. The revised statute’s special treatment
+of these costs suggests that overstatements of basis in
+other cases could have the effect of extending the limitations period.
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+KENNEDY, J., dissenting
+
+It is also significant that, after 1954, the statute continued to address the omission of a substantial “amount” that
+should have been included in gross income. In the same
+round of revisions to the Tax Code, Congress established
+an extended limitations period in certain cases where
+“items” had been omitted from an estate or gift tax return.
+26 U. S. C. §6501(e)(2) (1958 ed.). There is at least some
+evidence that this term was used at that time to “mak[e]
+it clear” that the extended limitations period would not
+apply “merely because of differences between the taxpayer
+and the Government as to the valuation of property.”
+Staff of the Joint Committee on Internal Revenue Taxation, Summary of the New Provisions of the Internal
+Revenue Code of 1954, 84th Cong., 1st Sess., 130 (Comm.
+Print 1955). Congress’s decision not to use the term
+“items” to achieve the same result when it reenacted the
+statutory provision at issue is presumed to have been
+purposeful. See Russello v. United States, 464 U. S. 16, 23
+(1983). This consideration casts further doubt on the
+premise that the new version of the statute, §6501(e)(1)(A)
+(2006 ed., Supp. IV), necessarily has the same meaning as
+its predecessor.
+II
+In the instant case the Court concludes these statutory
+changes are “too fragile to bear the significant argumentative weight the Government seeks to place upon them.”
+Ante, at 5. But in this context, the changes are meaningful. Colony made clear that the text of the earlier version
+of the statute could not be described as unambiguous, although it ultimately concluded that an overstatement of
+basis was not an omission from gross income. See 357
+U. S., at 33. The statutory revisions, which were not
+considered in Colony, may not compel the opposite conclusion under the new statute; but they strongly favor it. As
+a result, there was room for the Treasury Department to
+
+
+6
+
+UNITED STATES v. HOME CONCRETE & SUPPLY, LLC
+KENNEDY, J., dissenting
+
+interpret the new provision in that manner. See Chevron
+U. S. A. Inc. v. Natural Resources Defense Council, Inc.,
+467 U. S. 837, 843–845 (1984).
+In an earlier case, and in an unrelated controversy not
+implicating the Internal Revenue Code, the Court held
+that a judicial construction of an ambiguous statute did
+not foreclose an agency’s later, inconsistent interpretation
+of the same provision. National Cable & Telecommunications Assn. v. Brand X Internet Services, 545 U. S. 967,
+982–983 (2005) (“Only a judicial precedent holding that
+the statute unambiguously forecloses the agency’s interpretation, and therefore contains no gap for the agency to
+fill, displaces a conflicting agency construction”). This
+general rule recognizes that filling gaps left by ambiguities in a statute “involves difficult policy choices that
+agencies are better equipped to make than courts.” Id., at
+980. There has been no opportunity to decide whether the
+analysis would be any different if an agency sought to
+interpret an ambiguous statute in a way that was inconsistent with this Court’s own, earlier reading of the law.
+See id., at 1003 (Stevens, J., concurring).
+These issues are not implicated here. In Colony the
+Court did interpret the same phrase that must be interpreted in this case. The language was in a predecessor
+statute, however, and Congress has added new language
+that, in my view, controls the analysis and should instruct
+the Court to reach a different outcome today. The Treasury Department’s regulations were promulgated in light of
+these statutory revisions, which were not at issue in Colony. There is a serious difficulty to insisting, as the Court
+does today, that an ambiguous provision must continue to
+be read the same way even after it has been reenacted
+with additional language suggesting Congress would
+permit a different interpretation. Agencies with the responsibility and expertise necessary to administer ongoing
+regulatory schemes should have the latitude and discre-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+KENNEDY, J., dissenting
+
+tion to implement their interpretation of provisions reenacted in a new statutory framework. And this is especially
+so when the new language enacted by Congress seems to
+favor the very interpretation at issue. The approach taken
+by the Court instead forecloses later interpretations of a
+law that has changed in relevant ways. Cf. United States
+v. Mead Corp., 533 U. S. 218, 247 (2001) (SCALIA, J., dissenting) (“Worst of all, the majority’s approach will lead
+to the ossification of large portions of our statutory law.
+Where Chevron applies, statutory ambiguities remain ambiguities subject to the agency’s ongoing clarification”).
+The Court goes too far, in my respectful view, in constricting Congress’s ability to leave agencies in charge of filling
+statutory gaps.
+Our legal system presumes there will be continuing
+dialogue among the three branches of Government on
+questions of statutory interpretation and application. See
+Blakely v. Washington, 542 U. S. 296, 326 (2004)
+(KENNEDY, J., dissenting) (“Constant, constructive discourse between our courts and our legislatures is an integral and admirable part of the constitutional design”);
+Mistretta v. United States, 488 U. S. 361, 408 (1989) (“Our
+principle of separation of powers anticipates that the
+coordinate Branches will converse with each other on
+matters of vital common interest”). In some cases Congress will set out a general principle, to be administered in
+more detail by an agency in the exercise of its discretion.
+The agency may be in a proper position to evaluate the
+best means of implementing the statute in its practical
+application. Where the agency exceeds its authority, of
+course, courts must invalidate the regulation. And agency
+interpretations that lead to unjust or unfair consequences
+can be corrected, much like disfavored judicial interpretations, by congressional action. These instructive exchanges would be foreclosed by an insistence on adhering
+to earlier interpretations of a statute even in light of new,
+
+
+8
+
+UNITED STATES v. HOME CONCRETE & SUPPLY, LLC
+KENNEDY, J., dissenting
+
+relevant statutory amendments. Courts instead should be
+open to an agency’s adoption of a different interpretation
+where, as here, Congress has given new instruction by an
+amended statute.
+Under the circumstances, the Treasury Department had
+authority to adopt its reasonable interpretation of the new
+tax provision at issue. See Mayo Foundation for Medical
+Ed. and Research v. United States, 562 U. S. __, __ (2011)
+(slip op., at 10). This was also the conclusion reached in
+well-reasoned opinions issued in several cases before the
+Courts of Appeals. E.g., Intermountain, 650 F. 3d, at 705–
+706 (reaching this conclusion “because the Court in Colony
+never purported to interpret [the new provision]; because
+[the new provision]’s ‘omits from gross income’ text is at
+least ambiguous, if not best read to include overstatements of basis; and because neither the section’s structure
+nor its [history and context] removes this ambiguity”).
+The Department’s clarification of an ambiguous statute,
+applicable to these taxpayers, did not upset legitimate
+settled expectations. Given the statutory changes described above, taxpayers had reason to question whether
+Colony’s holding extended to the revised §6501(e)(1). See,
+e.g., CC & F Western Operations L. P. v. Commissioner,
+273 F. 3d 402, 406, n. 2 (CA1 2001) (“Whether Colony’s
+main holding carries over to section 6501(e)(1) is at least
+doubtful”). Having worked no change in the law, and
+instead having interpreted a statutory provision without
+an established meaning, the Department’s regulation does
+not have an impermissible retroactive effect. Cf. Smiley v.
+Citibank (South Dakota), N. A., 517 U. S. 735, 741, 744,
+n. 3 (1996) (rejecting retroactivity argument); Manhattan
+Gen. Equipment Co. v. Commissioner, 297 U. S. 129, 135
+(1936) (same). It controls in this case.
+*
+*
+* 
+
+For these reasons, and with respect, I dissent. 
+
+
+

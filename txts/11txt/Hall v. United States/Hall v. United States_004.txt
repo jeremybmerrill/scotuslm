@@ -1,0 +1,53 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–875
+_________________
+
+LYNWOOD D. HALL, ET UX., PETITIONERS v. 
+
+UNITED STATES
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[May 14, 2012]
+
+
+JUSTICE SOTOMAYOR delivered the opinion of the Court.
+Under Chapter 12 of the Bankruptcy Code, farmer
+debtors may treat certain claims owed to a governmental
+unit resulting from the disposition of farm assets as dis­
+chargeable, unsecured liabilities. 11 U. S. C. §1222(a)
+(2)(A). One such claim is for “any tax . . . incurred by the
+estate.” §503(b)(B)(i). The question presented is whether
+a federal income tax liability resulting from individual
+debtors’ sale of a farm during the pendency of a Chapter
+12 bankruptcy is “incurred by the estate” and thus dis­
+chargeable. We hold that it is not.
+I
+
+A
+
+In 1986, Congress enacted Chapter 12 of the Bankruptcy
+Code, §1201 et seq., to allow farmer debtors with regu­
+lar annual income to adjust their debts. Chapter 12 was
+modeled on Chapter 13, §1301 et seq., which permits
+individual debtors with regular annual income to preserve
+existing assets subject to a “court-approved plan under
+which they pay creditors out of their future income.”
+Hamilton v. Lanning, 560 U. S. ___, ___ (2010) (slip op., at 1).
+
+

@@ -1,0 +1,116 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+SCALIA, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–60
+_________________
+
+JOSE ANGEL CARACHURI-ROSENDO, PETITIONER v.
+ERIC H. HOLDER, JR., ATTORNEY GENERAL
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FIFTH CIRCUIT
+
+[June 14, 2010] 
+
+
+JUSTICE SCALIA, concurring in the judgment.
+I agree with the Court that Carachuri-Rosendo’s 2005
+conviction for simple possession of a tablet of Xanax in
+violation of Texas law is not a conviction for an “aggra
+vated felony” under 8 U. S. C. §1101(a)(43)(B). But my
+reasoning is more straightforward than the Court’s, and so
+I concur only in the judgment.
+Under the Immigration and Nationality Act, the Attor
+ney General may cancel the removal of an alien from the
+United States provided the alien “has not been convicted
+of any aggravated felony.” §1229b(a)(3). There is no
+statutory definition of “convicted,” but a “conviction” is
+defined to mean a “formal judgment of guilt of the alien
+entered by a court.” §1101(a)(48)(A). The term “aggra
+vated felony” includes, among many other offenses, “a
+drug trafficking crime (as defined in [18 U. S. C. §924(c)]).”
+§1101(a)(43)(B). A “drug trafficking crime” is in turn
+defined as “any felony punishable under the Controlled
+Substances Act.” 18 U. S. C. §924(c)(2).
+It could be concluded from the provisions discussed
+above that only a federal conviction for a felony offense
+under the Controlled Substances Act would qualify under
+8 U. S. C. §1101(a)(43)(B). But the penultimate sentence
+in §1101(a)(43) provides that the statutory definition of
+“aggravated felony” “applies to an offense described in this
+
+
+2
+
+CARACHURI-ROSENDO v. HOLDER
+SCALIA, J., concurring in judgment
+
+paragraph whether in violation of Federal or State law.”
+This language, we have said, confirms that “a state offense
+whose elements include the elements of a felony punish
+able under the [Controlled Substances Act] is an aggra
+vated felony.” Lopez v. Gonzales, 549 U. S. 47, 57 (2006).
+The conceptual problem in the present case is that the
+only crime defined by 21 U. S. C. §844(a) of the Controlled
+Substances Act, simple possession of prohibited drugs, is a
+misdemeanor.
+That misdemeanor becomes a “felony
+punishable under the Controlled Substances Act” only
+because the sentencing factor of recidivism authorizes
+additional punishment beyond one year, the criterion for a
+felony. We held in Almendarez-Torres v. United States,
+523 U. S. 224 (1998), that recidivism can constitutionally
+be made a sentencing factor rather than an element of the
+crime, despite the fact that it is used to increase the al
+lowable sentence. And we said in Lopez that a “state
+possession crim[e] that correspond[s] to” the “felony viola
+tio[n]” of “recidivist possession” in §844(a) “clearly fall[s]
+within the definitions used by Congress . . . in
+§1101(a)(43)(B) and . . . §924(c)(2).” 549 U. S., at 55, n. 6.
+But to say all that is not to say that an alien has been
+“convicted of” an aggravated felony (which is what
+§1229b(a)(3) requires) when he has been convicted of
+nothing more than a second state misdemeanor violation,
+the punishment for which could, because of recidivism, be
+extended beyond one year. Just because, by reason of
+Almendarez-Torres, the federal misdemeanor offense has
+been raised to a felony offense without changing its ele
+ments, solely by increasing its penalty pursuant to a
+recidivist “sentencing factor”; it does not follow that when
+the question is asked whether someone has been “con
+victed of” a state offense that “corresponds” to the federal
+misdemeanor-become-felony, the answer can be sought in
+sentencing factors. A defendant is not “convicted” of sen
+tencing factors, but only of the elements of the crime
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+SCALIA, J., concurring in judgment
+
+charged in the indictment. In other words, a misdemeanor
+offense with a sentencing factor that raises its punishment
+to the felony level qualifies for purposes of establishing the
+elements of a “felony punishable under the Controlled
+Substances Act”; but does not qualify for purposes of de
+termining what elements the alien has been “convicted of.”
+Here, Carachuri-Rosendo was only “convicted of” the
+crime of knowing possession of a controlled substance
+without a valid prescription, a Class A misdemeanor
+under Texas law. Tex. Health & Safety Code Ann.
+§§481.117(a) and (b) (West Supp. 2009). Since the ele
+ments of that crime did not include recidivism, the crime
+of his conviction did not “correspond” to the Controlled
+Substances Act felony of possession-plus-recidivism under
+21 U. S. C. §844(a).
+For these reasons, I concur in the judgment.
+
+

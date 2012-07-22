@@ -1,0 +1,953 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1224
+_________________
+
+UNITED STATES, PETITIONER v. GRAYDON 
+
+EARL COMSTOCK, JR., ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FOURTH CIRCUIT
+
+[May 17, 2010]
+
+
+JUSTICE BREYER delivered the opinion of the Court.
+A federal civil-commitment statute authorizes the De
+partment of Justice to detain a mentally ill, sexually
+dangerous federal prisoner beyond the date the prisoner
+would otherwise be released. 18 U. S. C. §4248. We have
+previously examined similar statutes enacted under state
+law to determine whether they violate the Due Process
+Clause. See Kansas v. Hendricks, 521 U. S. 346, 356–358
+(1997); Kansas v. Crane, 534 U. S. 407 (2002). But this
+case presents a different question. Here we ask whether
+the Federal Government has the authority under Article I
+of the Constitution to enact this federal civil-commitment
+program or whether its doing so falls beyond the reach of a
+government “of enumerated powers.” McCulloch v. Mary
+land, 4 Wheat. 316, 405 (1819). We conclude that the
+Constitution grants Congress the authority to enact §4248
+as “necessary and proper for carrying into Execution” the
+powers “vested by” the “Constitution in the Government of
+the United States.” Art. I, §8, cl. 18.
+I
+The federal statute before us allows a district court to
+
+
+2
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+order the civil commitment of an individual who is cur
+rently “in the custody of the [Federal] Bureau of Prisons,”
+§4248, if that individual (1) has previously “engaged or
+attempted to engage in sexually violent conduct or child
+molestation,” (2) currently “suffers from a serious mental
+illness, abnormality, or disorder,” and (3) “as a result of”
+that mental illness, abnormality, or disorder is “sexually
+dangerous to others,” in that “he would have serious diffi
+culty in refraining from sexually violent conduct or child
+molestation if released.” §§4247(a)(5)–(6).
+In order to detain such a person, the Government (act
+ing through the Department of Justice) must certify to a
+federal district judge that the prisoner meets the condi
+tions just described, i.e., that he has engaged in sexually
+violent activity or child molestation in the past and that
+he suffers from a mental illness that makes him corre
+spondingly dangerous to others. §4248(a). When such a
+certification is filed, the statute automatically stays the
+individual’s release from prison, ibid., thereby giving the
+Government an opportunity to prove its claims at a hear
+ing through psychiatric (or other) evidence, §§4247(b)–(c),
+4248(b). The statute provides that the prisoner “shall be
+represented by counsel” and shall have “an opportunity” at
+the hearing “to testify, to present evidence, to subpoena
+witnesses on his behalf, and to confront and cross
+examine” the Government’s witnesses. §§4247(d), 4248(c).
+If the Government proves its claims by “clear and con
+vincing evidence,” the court will order the prisoner’s con
+tinued commitment in “the custody of the Attorney Gen
+eral,” who must “make all reasonable efforts to cause” the
+State where that person was tried, or the State where he
+is domiciled, to “assume responsibility for his custody,
+care, and treatment.” §4248(d); cf. Sullivan v. Freeman,
+944 F. 2d 334, 337 (CA7 1991). If either State is willing to
+assume that responsibility, the Attorney General “shall
+release” the individual “to the appropriate official” of that
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+State. §4248(d). But if, “notwithstanding such efforts,
+neither such State will assume such responsibility,” then
+“the Attorney General shall place the person for treatment
+in a suitable [federal] facility.” Ibid.; cf. §4247(i)(A).
+Confinement in the federal facility will last until either
+(1) the person’s mental condition improves to the point
+where he is no longer dangerous (with or without appro
+priate ongoing treatment), in which case he will be re
+leased; or (2) a State assumes responsibility for his cus
+tody, care, and treatment, in which case he will be
+transferred to the custody of that State. §§4248(d)(1)–(2).
+The statute establishes a system for ongoing psychiatric
+and judicial review of the individual’s case, including
+judicial hearings at the request of the confined person at
+six-month intervals. §§4247(e)(1)(B), (h).
+In November and December 2006, the Government
+instituted proceedings in the Federal District Court for the
+Eastern District of North Carolina against the five re
+spondents in this case. Three of the five had previously
+pleaded guilty in federal court to possession of child por
+nography, see 507 F. Supp. 2d 522, 526, and n. 2 (2007);
+§2252A(a), and the fourth had pleaded guilty to sexual
+abuse of a minor, see United States v. Vigil, No.
+1:99CR00509–001 (D NM, Jan. 26, 2000); §§1153, 2243(a).
+With respect to each of them, the Government claimed
+that the respondent was about to be released from federal
+prison, that he had engaged in sexually violent conduct or
+child molestation in the past, and that he suffered from a
+mental illness that made him sexually dangerous to oth
+ers. App. 38–40, 44–52. During that same time period,
+the Government instituted similar proceedings against the
+fifth respondent, who had been charged in federal court
+with aggravated sexual abuse of a minor, but was found
+mentally incompetent to stand trial. See id., at 41–43;
+United States v. Catron, No. 04–778 (D Ariz., Mar. 27,
+2006); §4241(d).
+
+
+4
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+Each of the five respondents moved to dismiss the civil
+commitment proceeding on constitutional grounds. They
+claimed that the commitment proceeding is, in fact, crimi
+nal, not civil, in nature and consequently that it violates
+the Double Jeopardy Clause, the Ex Post Facto Clause,
+and the Sixth and Eighth Amendments. 507 F. Supp. 2d,
+at 528. They claimed that the statute denies them sub
+stantive due process and equal protection of the laws.
+Ibid. They claimed that it violates their procedural due
+process rights by allowing a showing of sexual dangerous
+ness to be made by clear and convincing evidence, instead
+of by proof beyond a reasonable doubt. Ibid. And, finally,
+they claimed that, in enacting the statute, Congress ex
+ceeded the powers granted to it by Art. I, §8 of the Consti
+tution, including those granted by the Commerce Clause
+and the Necessary and Proper Clause. 507 F. Supp. 2d, at
+528–529.
+The District Court, accepting two of the respondents’
+claims, granted their motion to dismiss. It agreed with
+respondents that the Constitution requires proof beyond a
+reasonable doubt, id., at 551–559 (citing In re Winship,
+397 U. S. 358 (1970)), and it agreed that, in enacting the
+statute, Congress exceeded its Article I legislative powers,
+507 F. Supp. 2d, at 530–551. On appeal, the Court of
+Appeals for the Fourth Circuit upheld the dismissal on
+this latter, legislative-power ground. 551 F. 3d 274, 278–
+284 (2009). It did not decide the standard-of-proof ques
+tion, nor did it address any of respondents’ other constitu
+tional challenges. Id., at 276, n. 1.
+The Government sought certiorari, and we granted its
+request, limited to the question of Congress’ authority
+under Art. I, §8 of the Constitution. Pet. for Cert. i. Since
+then, two other Courts of Appeals have considered that
+same question, each deciding it in the Government’s favor,
+thereby creating a split of authority among the Circuits.
+See United States v. Volungus, 595 F. 3d 1 (CA1 2010);
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+United States v. Tom, 565 F. 3d 497 (CA8 2009).
+II
+The question presented is whether the Necessary and
+Proper Clause, Art. I, §8, cl. 18, grants Congress authority
+sufficient to enact the statute before us. In resolving that
+question, we assume, but we do not decide, that other
+provisions of the Constitution—such as the Due Process
+Clause—do not prohibit civil commitment in these circum
+stances. Cf. Hendricks, 521 U. S. 346; Addington v. Texas,
+441 U. S. 418 (1979). In other words, we assume for ar
+gument’s sake that the Federal Constitution would permit
+a State to enact this statute, and we ask solely whether
+the Federal Government, exercising its enumerated pow
+ers, may enact such a statute as well. On that assump
+tion, we conclude that the Constitution grants Congress
+legislative power sufficient to enact §4248. We base this
+conclusion on five considerations, taken together.
+First, the Necessary and Proper Clause grants Congress
+broad authority to enact federal legislation. Nearly 200
+years ago, this Court stated that the Federal “[G]overn
+ment is acknowledged by all to be one of enumerated
+powers,” McCulloch, 4 Wheat., at 405, which means that
+“[e]very law enacted by Congress must be based on one or
+more of” those powers, United States v. Morrison, 529
+U. S. 598, 607 (2000). But, at the same time, “a govern
+ment, entrusted with such” powers “must also be en
+trusted with ample means for their execution.”
+McCulloch, 4 Wheat., at 408. Accordingly, the Necessary
+and Proper Clause makes clear that the Constitution’s
+grants of specific federal legislative authority are accom
+panied by broad power to enact laws that are “convenient,
+or useful” or “conducive” to the authority’s “beneficial
+exercise.” Id., at 413, 418; see also id., at 421 (“[Congress
+can] legislate on that vast mass of incidental powers which
+must be involved in the constitution . . .”). Chief Justice
+
+
+6
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+Marshall emphasized that the word “necessary” does not
+mean “absolutely necessary.” Id., at 413–415 (emphasis
+deleted); Jinks v. Richland County, 538 U. S. 456, 462
+(2003) (“[W]e long ago rejected the view that the Neces
+sary and Proper Clause demands that an Act of Congress
+be ‘ “absolutely necessary” ’ to the exercise of an enumer
+ated power”). In language that has come to define the
+scope of the Necessary and Proper Clause, he wrote:
+“Let the end be legitimate, let it be within the scope of
+the constitution, and all means which are appropriate,
+which are plainly adapted to that end, which are not
+prohibited, but consist with the letter and spirit of the
+constitution, are constitutional.” McCulloch, supra, at
+421.
+We have since made clear that, in determining whether
+the Necessary and Proper Clause grants Congress the
+legislative authority to enact a particular federal statute,
+we look to see whether the statute constitutes a means
+that is rationally related to the implementation of a con
+stitutionally enumerated power. Sabri v. United States,
+541 U. S. 600, 605 (2004) (using term “means-ends ration
+ality” to describe the necessary relationship); ibid. (up
+holding Congress’ “authority under the Necessary and
+Proper Clause” to enact a criminal statute in furtherance
+of the federal power granted by the Spending Clause); see
+Gonzales v. Raich, 545 U. S. 1, 22 (2005) (holding that
+because “Congress had a rational basis” for concluding
+that a statute implements Commerce Clause power, the
+statute falls within the scope of congressional “authority to
+‘make all Laws which shall be necessary and proper’ to
+‘regulate Commerce . . . among the several States’ ” (ellip
+sis in original)); see also United States v. Lopez, 514 U. S.
+549, 557 (1995); Hodel v. Virginia Surface Mining & Rec
+lamation Assn., Inc., 452 U. S. 264, 276 (1981).
+Of course, as Chief Justice Marshall stated, a federal
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+statute, in addition to being authorized by Art. I, §8, must
+also “not [be] prohibited” by the Constitution. McCulloch,
+supra, at 421. But as we have already stated, the present
+statute’s validity under provisions of the Constitution
+other than the Necessary and Proper Clause is an issue
+that is not before us. Under the question presented, the
+relevant inquiry is simply “whether the means chosen are
+‘reasonably adapted’ to the attainment of a legitimate end
+under the commerce power” or under other powers that
+the Constitution grants Congress the authority to imple
+ment. Gonzales, supra, at 37 (SCALIA, J., concurring in
+judgment) (quoting United States v. Darby, 312 U. S. 100,
+121 (1941)).
+We have also recognized that the Constitution “ad
+dresse[s]” the “choice of means”
+“primarily . . . to the judgment of Congress. If it can
+be seen that the means adopted are really calculated
+to attain the end, the degree of their necessity, the ex
+tent to which they conduce to the end, the closeness of
+the relationship between the means adopted and the
+end to be attained, are matters for congressional de
+termination alone.” Burroughs v. United States, 290
+U. S. 534, 547–548 (1934).
+See also Lottery Case, 188 U. S. 321, 355 (1903) (“[T]he
+Constitution . . . . leaves to Congress a large discretion as
+to the means that may be employed in executing a given
+power”); Morrison, supra, at 607 (applying a “presumption
+of constitutionality” when examining the scope of Con
+gressional power); McCulloch, supra, at 410, 421.
+Thus, the Constitution, which nowhere speaks explicitly
+about the creation of federal crimes beyond those related
+to “counterfeiting,” “treason,” or “Piracies and Felonies
+committed on the high Seas” or “against the Law of Na
+tions,” Art. I, §8, cls. 6, 10; Art. III, §3, nonetheless grants
+Congress broad authority to create such crimes. See
+
+
+8
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+McCulloch, 4 Wheat., at 416 (“All admit that the govern
+ment may, legitimately, punish any violation of its laws;
+and yet, this is not among the enumerated powers of
+Congress”); see also United States v. Fox, 95 U. S. 670, 672
+(1878). And Congress routinely exercises its authority to
+enact criminal laws in furtherance of, for example, its
+enumerated powers to regulate interstate and foreign
+commerce, to enforce civil rights, to spend funds for the
+general welfare, to establish federal courts, to establish
+post offices, to regulate bankruptcy, to regulate naturali
+zation, and so forth. Art. I, §8, cls. 1, 3, 4, 7, 9; Amdts. 13–
+15. See, e.g., Lottery Case, supra (upholding criminal
+statute enacted in furtherance of the Commerce Clause);
+Ex parte Yarbrough, 110 U. S. 651 (1884) (upholding
+Congress’ authority to enact Rev. Stat. §5508, currently 18
+U. S. C. §241 (criminalizing civil-rights violations) and
+Rev. Stat. §5520, currently 42 U. S. C. §1973j (criminaliz
+ing voting-rights violations) in furtherance of the Four
+teenth and Fifteenth Amendments); Sabri, supra, (uphold
+ing criminal statute enacted in furtherance of the
+Spending Clause); Jinks, supra, at 462, n. 2 (citing
+McCulloch, supra, at 417) (describing perjury and witness
+tampering as federal crimes enacted in furtherance of the
+power to constitute federal tribunals); see also 18 U. S. C.
+§1691 et seq. (postal crimes); §151 et seq. (bankruptcy
+crimes); 8 U. S. C. §§1324–1328 (immigration crimes).
+Similarly, Congress, in order to help ensure the en
+forcement of federal criminal laws enacted in furtherance
+of its enumerated powers, “can cause a prison to be erected
+at any place within the jurisdiction of the United States,
+and direct that all persons sentenced to imprisonment
+under the laws of the United States shall be confined
+there.” Ex parte Karstendick, 93 U. S. 396, 400 (1876).
+Moreover, Congress, having established a prison system,
+can enact laws that seek to ensure that system’s safe and
+responsible administration by, for example, requiring
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+prisoners to receive medical care and educational training,
+see, e.g., 18 U. S. C. §§4005–4006; §4042(a)(3), and can
+also ensure the safety of the prisoners, prison workers and
+visitors, and those in surrounding communities by, for
+example, creating further criminal laws governing entry,
+exit, and smuggling, and by employing prison guards to
+ensure discipline and security. See, e.g., §1791 (prohibit
+ing smuggling contraband); §751 et seq. (prohibiting es
+cape and abetting thereof); 28 CFR §541.10 et seq. (2009)
+(inmate discipline).
+Neither Congress’ power to criminalize conduct, nor its
+power to imprison individuals who engage in that conduct,
+nor its power to enact laws governing prisons and prison
+ers, is explicitly mentioned in the Constitution. But Con
+gress nonetheless possesses broad authority to do each of
+those things in the course of “carrying into Execution” the
+enumerated powers “vested by” the “Constitution in the
+Government of the United States,” Art. I, §8, cl. 18—
+authority granted by the Necessary and Proper Clause.
+Second, the civil-commitment statute before us consti
+tutes a modest addition to a set of federal prison-related
+mental-health statutes that have existed for many dec
+ades. We recognize that even a longstanding history of
+related federal action does not demonstrate a statute’s
+constitutionality. See, e.g., Walz v. Tax Comm’n of City of
+New York, 397 U. S. 664, 678 (1970) (“[N]o one acquires a
+vested or protected right in violation of the Constitution by
+long use . . .”); cf. Morrison, 529 U. S., at 612–614 (legisla
+tive history is neither necessary nor sufficient with respect
+to Art. I analysis). A history of involvement, however, can
+nonetheless be “helpful in reviewing the substance of a
+congressional statutory scheme,” Gonzales, 545 U. S., at
+21; Walz, supra, at 678, and, in particular, the reason
+ableness of the relation between the new statute and pre
+existing federal interests.
+Here, Congress has long been involved in the delivery of
+
+
+10
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+mental health care to federal prisoners, and has long
+provided for their civil commitment. In 1855 it estab
+lished Saint Elizabeth’s Hospital in the District of Colum
+bia to provide treatment to “the insane of the army and
+navy . . . and of the District of Columbia.” Act of Mar. 3,
+1855, 10 Stat. 682; 39 Stat. 309. In 1857 it provided for
+confinement at Saint Elizabeth’s of any person within the
+District of Columbia who had been “charged with [a]
+crime” and who was “insane” or later became “insane
+during the continuance of his or her sentence in the
+United States penitentiary.” Act of Feb. 7, 1857, §§5–6, 11
+Stat. 158; see 17 Op. Atty. Gen. 211, 212–213 (1881). In
+1874, expanding the geographic scope of its statutes,
+Congress provided for civil commitment in federal facili
+ties (or in state facilities if a State so agreed) of “all per
+sons who have been or shall be convicted of any offense in
+any court of the United States” and who are or “shall
+become” insane “during the term of their imprisonment.”
+Act of June 23, 1874, ch. 465, 18 Stat. 251 (emphasis
+added). And in 1882 Congress provided for similar com
+mitment of those “charged” with federal offenses who
+become “insane” while in the “custody” of the United
+States. Act of Aug. 7, 1882, 22 Stat. 330 (emphasis
+added). Thus, over the span of three decades, Congress
+created a national, federal civil-commitment program
+under which any person who was either charged with or
+convicted of any federal offense in any federal court could
+be confined in a federal mental institution.
+These statutes did not raise the question presented
+here, for they all provided that commitment in a federal
+hospital would end upon the completion of the relevant
+“terms” of federal “imprisonment” as set forth in the un
+derlying criminal sentence or statute. §§2–3, 18 Stat. 252;
+see 35 Op. Atty. Gen. 366, 368 (1927); cf. 30 Op. Atty. Gen.
+569, 571 (1916). But in the mid-1940’s that proviso was
+eliminated.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+In 1945 the Judicial Conference of the United States
+proposed legislative reforms of the federal civil
+commitment system. The Judicial Conference based its
+proposals upon what this Court has described as a “long
+study by a conspicuously able committee” (chaired by
+Judge Calvert Magruder and whose members included
+Judge Learned Hand), involving consultation “with federal
+district and circuit judges” across the country as well as
+with the Department of Justice. Greenwood v. United
+States, 350 U. S. 366, 373 (1956); Greenwood v. United
+States, 219 F. 2d 376, 380–384 (CA8 1955) (describing the
+committee’s work). The committee studied, among other
+things, the “serious problem faced by the Bureau of Pris
+ons, namely, what to do with insane criminals upon the
+expiration of their terms of confinement, where it would be
+dangerous to turn them loose upon society and where no
+state will assume responsibility for their custody.” Judi
+cial Conference, Report of Committee to Study Treatment
+Accorded by Federal Courts to Insane Persons Charged
+with Crime 11 (1945) (hereinafter Committee Report),
+App. 73. The committee provided examples of instances in
+which the Bureau of Prisons had struggled with the prob
+lem of “ ‘paranoid’ ” and “ ‘threatening’ ” individuals whom
+no State would accept. Id., at 9, App. 71. And it noted
+that, in the Bureau’s “[e]xperience,” States would not
+accept an “appreciable number” of “mental[ly] incompe
+tent” individuals “nearing expiration” of their prison
+terms, because of their “lack of legal residence in any
+State,” even though those individuals “ought not . . . be at
+large because they constitute a menace to public safety.”
+H. R. Rep. No. 1319, 81st Cong., 1st Sess., 2 (1949) (state
+ment of James V. Bennett, Director); see also Letter from
+Bennett to Judge Magruder, attachment to Committee
+Report, App. 83–88. The committee, hence the Judicial
+Conference, therefore recommended that Congress enact
+“some provision of law authorizing the continued confine
+
+
+12
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+ment of such persons after their sentences expired.”
+Committee Report 11, App. 73; see also Report of the
+Judicial Conference of Senior Circuit Judges 13 (1945).
+Between 1948 and 1949, following its receipt of the
+Judicial Conference report, Congress modified the law.
+See Act of June 25, 1948, 62 Stat. 855, 18 U. S. C. §§4241–
+4243 (1952 ed.); Act of Sept. 7, 1949, 63 Stat. 686, 18
+U. S. C. §§4244–4248. It provided for the civil commit
+ment of individuals who are, or who become, mentally
+incompetent at any time after their arrest and before the
+expiration of their federal sentence, §§4241, 4244, 4247–
+4248; and it set forth various procedural safeguards,
+§§4242, 4246, 4247. With respect to an individual whose
+prison term is about to expire, it specified the following:
+“Whenever the Director of the Bureau of Prisons
+shall certify that a prisoner whose sentence is about to
+expire has been examined [and] . . . in the judgment of
+the Director and the board of examiners the prisoner
+is insane or mentally incompetent, and . . . if released
+he will probably endanger the safety of the officers,
+the property, or other interests of the United States,
+and that suitable arrangements for the custody and
+care of the prisoner are not otherwise available, the
+Attorney General shall transmit the certificate to . . .
+the court for the district in which the prisoner is con
+fined. Whereupon the court shall cause the prisoner
+to be examined . . . and shall . . . hold a hearing . . . . If
+upon such hearing the court shall determine that the
+conditions specified above exist, the court may commit
+the prisoner to the custody of the Attorney General or
+his authorized representative.” §4247.
+The precondition that the mentally ill individual’s release
+would “probably endanger the safety of the officers, the
+property, or other interests of the United States” was
+uniformly interpreted by the Judiciary to mean that his
+
+
+Cite as: 560 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+“release would endanger the safety of persons, property or
+the public interest in general—not merely the interests
+peculiar to the United States as such.” United States v.
+Curry, 410 F. 2d 1372, 1374 (CA4 1969); see also Royal v.
+United States, 274 F. 2d 846, 851–852 (CA10 1960).
+In 1984, Congress modified these basic statutes. See
+Insanity Defense Reform Act of 1984, 98 Stat. 2057, 18
+U. S. C. §§4241–4247 (2006 ed.). As relevant here, it
+altered the provision just discussed, regarding the pris
+oner’s danger to the “interests of the United States,” to
+conform more closely to the then-existing judicial interpre
+tation of that language, i.e., it altered the language so as
+to authorize (explicitly) civil commitment if, in addition to
+the other conditions, the prisoner’s “release would create a
+substantial risk of bodily injury to another person or
+serious damage to the property of another.” §4246(d).
+Congress also elaborated upon the required condition
+“that suitable arrangements . . . are not otherwise avail
+able” by directing the Attorney General to seek alternative
+placement in state facilities, as we have set forth above.
+See ibid.; supra, at 2–3. With these modifications, the
+statutes continue to authorize the civil commitment of
+individuals who are both mentally ill and dangerous, once
+they have been charged with, or convicted of, a federal
+crime. §§4241(d), 4246; see also §4243(d). They continue
+to provide for the continued civil commitment of those
+individuals when they are “due for release” from federal
+custody because their “sentence is about to expire.” §4246.
+And, as we have previously set forth, they establish vari
+ous procedural and other requirements. E.g., §4247.
+In 2006, Congress enacted the particular statute before
+us. §302, 120 Stat. 619, 18 U. S. C. §4248. It differs from
+earlier statutes in that it focuses directly upon persons
+who, due to a mental illness, are sexually dangerous.
+Notably, many of these individuals were likely already
+subject to civil commitment under §4246, which, since
+
+
+14
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+1949, has authorized the postsentence detention of federal
+prisoners who suffer from a mental illness and who are
+thereby dangerous (whether sexually or otherwise). But
+cf. H. R. Rep. No. 109–218, pt. 1, p. 29 (2005). Aside from
+its specific focus on sexually dangerous persons, §4248 is
+similar to the provisions first enacted in 1949. Cf. §4246.
+In that respect, it is a modest addition to a longstanding
+federal statutory framework, which has been in place
+since 1855.
+Third, Congress reasonably extended its longstanding
+civil-commitment system to cover mentally ill and sexually
+dangerous persons who are already in federal custody,
+even if doing so detains them beyond the termination of
+their criminal sentence. For one thing, the Federal Gov
+ernment is the custodian of its prisoners. As federal cus
+todian, it has the constitutional power to act in order to
+protect nearby (and other) communities from the danger
+federal prisoners may pose. Cf. Youngberg v. Romeo, 457
+U. S. 307, 320 (1982) (“In operating an institution such as
+[a prison system], there are occasions in which it is neces
+sary for the State to restrain the movement of residents—
+for example, to protect them as well as others from vio
+lence” (emphasis added)). Indeed, at common law, one
+“who takes charge of a third person” is “under a duty to
+exercise reasonable care to control” that person to prevent
+him from causing reasonably foreseeable “bodily harm to
+others.”
+Restatement (Second) of Torts §319, p. 129
+(1963–1964); see Volungus, 595 F. 3d, at 7–8 (citing cases);
+see also United States v. S. A., 129 F. 3d 995, 999 (CA8
+1997) (“[Congress enacted §4246] to avert the public dan
+ger likely to ensue from the release of mentally ill and
+dangerous detainees”). If a federal prisoner is infected
+with a communicable disease that threatens others, surely
+it would be “necessary and proper” for the Federal Gov
+ernment to take action, pursuant to its role as federal
+custodian, to refuse (at least until the threat diminishes)
+
+
+Cite as: 560 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+to release that individual among the general public, where
+he might infect others (even if not threatening an inter
+state epidemic, cf. Art. I, §8, cl. 3). And if confinement of
+such an individual is a “necessary and proper” thing to do,
+then how could it not be similarly “necessary and proper”
+to confine an individual whose mental illness threatens
+others to the same degree?
+Moreover, §4248 is “reasonably adapted,” Darby, 312
+U. S., at 121, to Congress’ power to act as a responsible
+federal custodian (a power that rests, in turn, upon federal
+criminal statutes that legitimately seek to implement
+constitutionally enumerated authority, see supra, at 7–8).
+Congress could have reasonably concluded that federal
+inmates who suffer from a mental illness that causes them
+to “have serious difficulty in refraining from sexually
+violent conduct,” §4247(a)(6), would pose an especially
+high danger to the public if released. Cf. H. R. Rep. No.
+109–218, at 22–23. And Congress could also have rea
+sonably concluded (as detailed in the Judicial Conference’s
+report) that a reasonable number of such individuals
+would likely not be detained by the States if released from
+federal custody, in part because the Federal Government
+itself severed their claim to “legal residence in any State”
+by incarcerating them in remote federal prisons. H. R.
+Rep. No. 1319, at 2; Committee Report 7–11, App. 69–75;
+cf. post, at 6 (KENNEDY, J., concurring in judgment). Here
+Congress’ desire to address the specific challenges identi
+fied in the Reports cited above, taken together with its
+responsibilities as a federal custodian, supports the con
+clusion that §4248 satisfies “review for means-end ration
+ality,” i.e., that it satisfies the Constitution’s insistence
+that a federal statute represent a rational means for im
+plementing a constitutional grant of legislative authority.
+Sabri, 541 U. S., at 605 (citing McCulloch, 4 Wheat. 316).
+See Jinks, 538 U. S., at 462–463 (opinion for the Court by
+SCALIA, J.) (holding that a statute is authorized by the
+
+
+16
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+Necessary and Proper Clause when it “provides an alter
+native to [otherwise] unsatisfactory options” that are
+“obviously inefficient”).
+Fourth, the statute properly accounts for state interests.
+Respondents and the dissent contend that §4248 violates
+the Tenth Amendment because it “invades the province of
+state sovereignty” in an area typically left to state control.
+New York v. United States, 505 U. S. 144, 155 (1992); see
+Brief for Respondents 35–47; post, at 7–8, 19–23 (THOMAS,
+J., dissenting). See also Jackson v. Indiana, 406 U. S. 715,
+736 (1972) (“The States have traditionally exercised broad
+power to commit persons found to be mentally ill”). But
+the Tenth Amendment’s text is clear: “The powers not
+delegated to the United States by the Constitution, nor
+prohibited by it to the States, are reserved to the States
+respectively, or to the people.” (Emphasis added.) The
+powers “delegated to the United States by the Constitu
+tion” include those specifically enumerated powers listed
+in Article I along with the implementation authority
+granted by the Necessary and Proper Clause. Virtually by
+definition, these powers are not powers that the Constitu
+tion “reserved to the States.” See New York, supra, at 156,
+159 (“[I]f a power is delegated to Congress in the Constitu
+tion, the Tenth Amendment expressly disclaims any res
+ervation of that power to the States . . . .” “In the end . . .
+it makes no difference whether one views the question at
+issue in these cases as one of ascertaining the limits of the
+power delegated to the Federal Government under the
+affirmative provisions of the Constitution or one of dis
+cerning the core of sovereignty retained by the States
+under the Tenth Amendment”); Darby, supra, at 123–124;
+see also Hodel, 452 U. S., at 276–277, 281; Maryland v.
+Wirtz, 392 U. S. 183, 195–196 (1968); Lambert v. Yellow
+ley, 272 U. S. 581, 596 (1926).
+Nor does this statute invade state sovereignty or other
+wise improperly limit the scope of “powers that remain
+
+
+Cite as: 560 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+with the States.” Post, at 7 (THOMAS, J., dissenting). To
+the contrary, it requires accommodation of state interests:
+The Attorney General must inform the State in which the
+federal prisoner “is domiciled or was tried” that he is
+detaining someone with respect to whom those States may
+wish to assert their authority, and he must encourage
+those States to assume custody of the individual.
+§4248(d). He must also immediately “release” that person
+“to the appropriate official of” either State “if such State
+will assume [such] responsibility.” Ibid. And either State
+has the right, at any time, to assert its authority over the
+individual, which will prompt the individual’s immediate
+transfer to State custody. §4248(d)(1). Respondents con
+tend that the States are nonetheless “powerless to prevent
+the detention of their citizens under §4248, even if deten
+tion is contrary to the States’ policy choices.” Brief for
+Respondents 11 (emphasis added). But that is not the
+most natural reading of the statute, see §§4248(d)(1)–(e),
+and the Solicitor General acknowledges that “the Federal
+Government would have no appropriate role” with respect
+to an individual covered by the statute once “the transfer
+to State responsibility and State control has occurred.” Tr.
+of Oral Arg. 9.
+In Greenwood, 350 U. S. 366, the Court rejected a chal
+lenge to the current statute’s predecessor—i.e., to the 1949
+statute we described above, supra, at 11–12. The petition
+ers in that case claimed, like the respondents here, that
+the statute improperly interfered with state sovereignty.
+See Brief for Petitioner in Greenwood v. United States,
+O. T. 1955, No. 460, pp. 2, 18–29. But the Court rejected
+that argument. See Greenwood, supra, at 375–376. And
+the version of the statute at issue in Greenwood was less
+protective of state interests than the current statute. That
+statute authorized federal custody so long as “suitable
+arrangements” were “not otherwise available” in a State or
+otherwise. 63 Stat. 687 (emphasis added). Cf. Brief for
+
+
+18
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+Petitioner in Greenwood, supra, at 25 (“What has really
+happened is that the Federal government has been dissat
+isfied with the care given by the states to those mentally
+incompetent who have been released by the Federal au
+thorities”). Here, by contrast, as we have explained, §4248
+requires the Attorney General to encourage the relevant
+States to take custody of the individual without inquiring
+into the “suitability” of their intended care or treatment,
+and to relinquish federal authority whenever a State
+asserts its own. §4248(d). Thus, if the statute at issue in
+Greenwood did not invade state interests, then, a fortiori,
+neither does §4248.
+Fifth, the links between §4248 and an enumerated
+Article I power are not too attenuated. Neither is the
+statutory provision too sweeping in its scope. Invoking the
+cautionary instruction that we may not “pile inference
+upon inference” in order to sustain congressional action
+under Article I, Lopez, 514 U. S., at 567, respondents
+argue that, when legislating pursuant to the Necessary
+and Proper Clause, Congress’ authority can be no more
+than one step removed from a specifically enumerated
+power. See Brief for Respondents 21–22; Tr. of Oral Arg.
+27–28. But this argument is irreconcilable with our prece
+dents. Again, take Greenwood as an example. In that
+case we upheld the (likely indefinite) civil commitment of
+a mentally incompetent federal defendant who was ac
+cused of robbing a United States Post Office. 350 U. S., at
+369, 375. The underlying enumerated Article I power was
+the power to “Establish Post Offices and Post Roads.”
+Art. I, §8, cl. 7. But, as Chief Justice Marshall recognized
+in McCulloch,
+“the power ‘to establish post offices and post roads’
+. . . is executed by the single act of making the estab
+lishment. . . . [F]rom this has been inferred the power
+and duty of carrying the mail along the post road,
+
+
+Cite as: 560 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+from one post office to another.
+And, from
+this implied power, has again been inferred the right
+to punish those who steal letters from the post office,
+or rob the mail.” 4 Wheat., at 417 (emphasis added).
+And, as we have explained, from the implied power to
+punish we have further inferred both the power to im
+prison, see supra, at 8–9, and, in Greenwood, the federal
+civil-commitment power.
+Our necessary and proper jurisprudence contains multi
+ple examples of similar reasoning. For example, in Sabri
+we observed that “Congress has authority under the
+Spending Clause to appropriate federal moneys” and that
+it therefore “has corresponding authority under the Neces
+sary and Proper Clause to see to it that taxpayer dollars”
+are not “siphoned off” by “corrupt public officers.” 541
+U. S., at 605 (citation omitted). We then further held that,
+in aid of that implied power to criminalize graft of “tax
+payer dollars,” Congress has the additional prophylactic
+power to criminalize bribes or kickbacks even when the
+stolen funds have not been “traceably skimmed from
+specific federal payments.” Ibid. Similarly, in United
+States v. Hall, 98 U. S. 343 (1879), we held that the Neces
+sary and Proper Clause grants Congress the power, in
+furtherance of Art. I, §8, cls. 11–13, to award “pensions to
+the wounded and disabled” soldiers of the armed forces
+and their dependents, 98 U. S. at 351; and from that im
+plied power we further inferred the “[i]mplied power” “to
+pass laws to . . . punish” anyone who fraudulently appro
+priated such pensions, id., at 346. See also Stewart v.
+Kahn, 11 Wall. 493, 506–507 (1871).
+Indeed even the dissent acknowledges that Congress
+has the implied power to criminalize any conduct that
+might interfere with the exercise of an enumerated power,
+and also the additional power to imprison people who
+violate those (inferentially authorized) laws, and the
+
+
+20
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+additional power to provide for the safe and reasonable
+management of those prisons, and the additional power to
+regulate the prisoners’ behavior even after their release.
+See post, at 12–13, 17, n. 11. Of course, each of those
+powers, like the powers addressed in Sabri, Hall, and
+McCulloch, is ultimately “derived from” an enumerated
+power, Hall, supra, at 345. And, as the dissent agrees,
+that enumerated power is “the enumerated power that
+justifies the defendant’s statute of conviction,” post, at 17,
+n. 11. Neither we nor the dissent can point to a single
+specific enumerated power “that justifies a criminal de
+fendant’s arrest or conviction,” post, at 12, in all cases
+because Congress relies on different enumerated powers
+(often, but not exclusively, its Commerce Clause power) to
+enact its various federal criminal statutes, see supra, at 7–
+8. But every such statute must itself be legitimately
+predicated on an enumerated power. And the same enu
+merated power that justifies the creation of a federal
+criminal statute, and that justifies the additional implied
+federal powers that the dissent considers legitimate, justi
+fies civil commitment under §4248 as well. See supra, at
+14–16. Thus, we must reject respondents’ argument that
+the Necessary and Proper Clause permits no more than a
+single step between an enumerated power and an Act of
+Congress.
+Nor need we fear that our holding today confers on
+Congress a general “police power, which the Founders
+denied the National Government and reposed in the
+States.” Morrison, 529 U. S., at 618. As the Solicitor
+General repeatedly confirmed at oral argument, §4248 is
+narrow in scope. It has been applied to only a small frac
+tion of federal prisoners. See Tr. of Oral Arg. 24–25 (105
+individuals have been subject to §4248 out of over 188,000
+federal inmates); see also Dept. of Justice, Bureau of
+Justice Statistics, W. Sabol, H. West, & M. Cooper, Pris
+oners in 2008, p. 8 (rev. Apr. 2010) (Table 8), online at
+
+
+Cite as: 560 U. S. ____ (2010)
+
+21
+
+Opinion of the Court
+
+http://bjs.ojp.usdoj.gov/content/pub/pdf/p08.pdf/ (as visited
+May 4, 2010, and available in Clerk of Court’s case file).
+And its reach is limited to individuals already “in the
+custody of the” Federal Government. §4248(a); Tr. of Oral
+Arg. 7 (“[Federal authority for §4248] has always de
+pended on the fact of Federal custody, on the fact that this
+person has entered the criminal justice system . . .”).
+Indeed, the Solicitor General argues that “the Federal
+Government would not have . . . the power to commit a
+person who . . . has been released from prison and whose
+period of supervised release is also completed.” Id., at 9.
+Thus, far from a “general police power,” §4248 is a rea
+sonably adapted and narrowly tailored means of pursuing
+the Government’s legitimate interest as a federal custo
+dian in the responsible administration of its prison
+system.
+To be sure, as we have previously acknowledged,
+“The Federal Government undertakes activities today
+that would have been unimaginable to the Framers in
+two senses; first, because the Framers would not have
+conceived that any government would conduct such
+activities; and second, because the Framers would not
+have believed that the Federal Government, rather
+than the States, would assume such responsibilities.
+Yet the powers conferred upon the Federal Govern
+ment by the Constitution were phrased in language
+broad enough to allow for the expansion of the Federal
+Government’s role.” New York, 505 U. S., at 157.
+The Framers demonstrated considerable foresight in
+drafting a Constitution capable of such resilience through
+time. As Chief Justice Marshall observed nearly 200 years
+ago, the Necessary and Proper Clause is part of “a consti
+tution intended to endure for ages to come, and, conse
+quently, to be adapted to the various crises of human
+affairs.” McCulloch, 4 Wheat., at 415 (emphasis deleted).
+
+
+22
+
+UNITED STATES v. COMSTOCK
+Opinion of the Court
+
+*
+*
+*
+We take these five considerations together. They in
+clude: (1) the breadth of the Necessary and Proper Clause,
+(2) the long history of federal involvement in this arena,
+(3) the sound reasons for the statute’s enactment in light
+of the Government’s custodial interest in safeguarding the
+public from dangers posed by those in federal custody, (4)
+the statute’s accommodation of state interests, and (5) the
+statute’s narrow scope. Taken together, these considera
+tions lead us to conclude that the statute is a “necessary
+and proper” means of exercising the federal authority that
+permits Congress to create federal criminal laws, to pun
+ish their violation, to imprison violators, to provide appro
+priately for those imprisoned, and to maintain the security
+of those who are not imprisoned but who may be affected
+by the federal imprisonment of others. The Constitution
+consequently authorizes Congress to enact the statute.
+We do not reach or decide any claim that the statute or
+its application denies equal protection of the laws, proce
+dural or substantive due process, or any other rights
+guaranteed by the Constitution. Respondents are free to
+pursue those claims on remand, and any others they have
+preserved.
+The judgment of the Court of Appeals for the Fourth
+Circuit with respect to Congress’ power to enact this stat
+ute is reversed, and the case is remanded for further
+proceedings consistent with this opinion.
+It is so ordered.
+
+

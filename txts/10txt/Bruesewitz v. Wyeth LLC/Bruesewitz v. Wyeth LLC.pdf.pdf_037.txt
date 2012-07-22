@@ -1,0 +1,48 @@
+8
+
+BRUESEWITZ v. WYETH LLC
+SOTOMAYOR, J., dissenting
+
+gress’ expressed intent to codify the “principle in Comment
+K,” 1986 Report 26, the term “unavoidable” in §22(b)(1) is
+best understood as a term of art, which incorporates the
+commonly understood meaning of “unavoidably unsafe”
+products under comment k at the time of the Act’s enact
+ment in 1986. See McDermott Int’l, Inc. v. Wilander, 498
+U. S. 337, 342 (1991) (“[W]e assume that when a statute
+uses . . . a term [of art], Congress intended it to have its
+established meaning”); Morissette v. United States, 342
+U. S. 246, 263 (1952) (same).6 Similarly, courts applying
+——————
+122 (Colo. 1983) (“[A]pplicability of comment k . . . depends upon the co
+existence of several factors,” including that “the product’s benefits must
+not be achievable in another manner; and the risk must be unavoidable
+under the present state of knowledge”); see also 1 L. Frumer & M.
+Friedman, Products Liability §§8.07[1]–[2], pp. 8–277 to 8–278 (2010)
+(comment k applies “only to defects in design,” and there “must be no
+feasible alternative design which on balance accomplishes the subject
+product’s purpose with a lesser risk” (internal quotation marks omit
+ted)). To be sure, a number of courts at the time of the Vaccine Act’s
+enactment had interpreted comment k to preclude design defect claims
+categorically for certain kinds of products, see Hill v. Searle Labs., 884
+F. 2d 1064, 1068 (CA8 1989) (collecting cases), but as indicated by the
+sources cited above, the courts that had construed comment k to apply
+on a case-specific basis generally agreed on the basic elements of what
+constituted an “unavoidably unsafe” product. See also n. 8, infra. The
+majority’s suggestion that “judges who must rule on motions to dismiss,
+motions for summary judgment, and motions for judgment as a matter
+of law” are incapable of adjudicating claims alleging “unavoidable” side
+effects, ante, at 7–8, n. 35, is thus belied by the experience of the many
+courts that had adjudicated such claims for years by the time of the
+Vaccine Act’s enactment.
+6 The majority refuses to recognize that “unavoidable” is a term of art
+derived from comment k, suggesting that “ ‘[u]navoidable’ is hardly a
+rarely used word.” Ante, at 10. In fact, however, “unavoidable” is an
+extremely rare word in the relevant context. It appears exactly once
+(i.e., in §300aa–22(b)(1)) in the entirety of Title 42 of the U. S. Code
+(“Public Health and Welfare”), which governs, inter alia, Social Secu
+rity, see 42 U. S. C. §301 et seq., Medicare, see §1395 et seq., and several
+other of the Federal Government’s largest entitlement programs. The
+singular rarity in which Congress used the term supports the conclu
+
+

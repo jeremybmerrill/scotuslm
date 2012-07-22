@@ -1,0 +1,32 @@
+2
+
+UNITED STATES v. JONES
+Syllabus
+analysis of Justice Harlan’s concurrence in Katz v. United States, 389
+U. S. 347, which said that the Fourth Amendment protects a person’s
+“reasonable expectation of privacy,” id., at 360. Here, the Court need
+not address the Government’s contention that Jones had no “reasonable expectation of privacy,” because Jones’s Fourth Amendment
+rights do not rise or fall with the Katz formulation. At bottom, the
+Court must “assur[e] preservation of that degree of privacy against
+government that existed when the Fourth Amendment was adopted.”
+Kyllo v. United States, 533 U. S. 27, 34. Katz did not repudiate the
+understanding that the Fourth Amendment embodies a particular
+concern for government trespass upon the areas it enumerates. The
+Katz reasonable-expectation-of-privacy test has been added to, but
+not substituted for, the common-law trespassory test. See Alderman
+v. United States, 394 U. S. 165, 176; Soldal v. Cook County, 506 U. S.
+56, 64. United States v. Knotts, 460 U. S. 276, and United States v.
+Karo, 468 U. S. 705—post-Katz cases rejecting Fourth Amendment
+challenges to “beepers,” electronic tracking devices representing another form of electronic monitoring—do not foreclose the conclusion
+that a search occurred here. New York v. Class, 475 U. S. 106, and
+Oliver v. United States, 466 U. S. 170, also do not support the Government’s position. Pp. 4–12.
+(c) The Government’s alternative argument—that if the attachment and use of the device was a search, it was a reasonable one—is
+forfeited because it was not raised below. P. 12.
+
+615 F. 3d 544, affirmed.
+SCALIA, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, THOMAS, and SOTOMAYOR, JJ., joined. SOTOMAYOR,
+J., filed a concurring opinion. ALITO, J., filed an opinion concurring in
+the judgment, in which GINSBURG, BREYER, and KAGAN, JJ., joined.
+
+

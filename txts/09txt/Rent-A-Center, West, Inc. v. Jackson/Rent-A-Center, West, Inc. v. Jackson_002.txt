@@ -1,0 +1,39 @@
+2
+
+RENT-A-CENTER, WEST, INC. v. JACKSON
+Syllabus
+that all or any part of this Agreement is void or voidable.” Rent-ACenter seeks enforcement of the second provision, which delegates to
+the arbitrator the “gateway” question of enforceability. See, e.g.,
+Howsam v. Dean Witter Reynolds, Inc., 537 U. S. 79, 83–85. The
+court must enforce the delegation provision under §§3 and 4 unless it
+is unenforceable under §2. Pp. 3–6.
+(b) There are two types of validity challenges under §2: one “chal
+lenges specifically the validity of the agreement to arbitrate,” and
+“[t]he other challenges the contract as a whole,” Buckeye, supra, at
+444. Only the first is relevant to a court’s determination of an arbi
+tration agreement’s enforceability, see, e.g., Prima Paint Corp. v.
+Flood & Conklin Mfg. Co., 388 U. S. 395, 403–404, because under §2
+“an arbitration provision is severable from the remainder of the con
+tract,” Buckeye, supra, at 445. That does not mean that agreements
+to arbitrate are unassailable. If a party challenges the validity under
+§2 of the precise agreement to arbitrate at issue, the federal court
+must consider the challenge before ordering compliance with the
+agreement under §4. That is no less true when the precise agree
+ment to arbitrate is itself part of a larger arbitration agreement. Be
+cause here the agreement to arbitrate enforceability (the delegation
+provision) is severable from the remainder of the Agreement, unless
+Jackson challenged the delegation provision specifically, it must be
+treated as valid under §2 and enforced under §§3 and 4. Pp. 6–9.
+(c) The District Court correctly concluded that Jackson challenged
+only the validity of the contract as a whole. In his brief to this Court
+he raised a challenge to the delegation provision for the first time,
+but that is too late and will not be considered. See 14 Penn Plaza
+LLC v. Pyett, 556 U. S. ___, ___. Pp. 9–12.
+
+581 F. 3d 912, reversed.
+SCALIA, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, THOMAS, and ALITO, JJ., joined. STEVENS, J., filed a
+dissenting opinion, in which GINSBURG, BREYER, and SOTOMAYOR, JJ.,
+joined.
+
+

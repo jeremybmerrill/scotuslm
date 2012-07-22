@@ -1,0 +1,45 @@
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+SOTOMAYOR, J., dissenting
+
+§22(b)(1) applies only where neither kind of defect is pre
+sent. Because §22(b)(1) is invoked by vaccine manufactur
+ers as a defense to tort liability, it follows that the “even
+though” clause requires a vaccine manufacturer in each
+civil action to demonstrate that its vaccine is free from
+manufacturing and labeling defects to fall within the
+liability exemption of §22(b)(1).2
+Given that the “even though” clause requires the ab
+sence of manufacturing and labeling defects, the “if ”
+clause’s reference to “side effects that were unavoidable”
+must refer to side effects caused by something other than
+manufacturing and labeling defects. The only remaining
+kind of product defect recognized under traditional prod
+ucts liability law is a design defect. Thus, “side effects
+that were unavoidable” must refer to side effects caused by
+a vaccine’s design that were “unavoidable.” Because
+§22(b)(1) uses the conditional term “if,” moreover, the text
+plainly implies that some side effects stemming from a
+vaccine’s design are “unavoidable,” while others are avoid
+able. See Webster’s Third New International Dictionary
+1124 (2002) (“if ” means “in the event that,” “so long as,” or
+“on condition that”). Accordingly, because the “if ” clause
+(like the “even though” clause) sets forth a condition to
+invoke §22(b)(1)’s defense to tort liability, Congress must
+also have intended a vaccine manufacturer to demonstrate
+in each civil action that the particular side effects of a
+vaccine’s design were “unavoidable.”
+Congress’ use of conditional “if” clauses in two other
+provisions of the Vaccine Act supports the conclusion that
+§22(b)(1) requires an inquiry in each case in which a
+manufacturer seeks to invoke the provision’s exception to
+——————
+2 See Silkwood v. Kerr-McGee Corp., 464 U. S. 238, 255 (1984); Brown
+v. Earthboard Sports USA, Inc., 481 F. 3d 901, 912 (CA6 2007)
+(“ ‘[F]ederal preemption is an affirmative defense upon which the
+defendants bear the burden of proof ’ ” (quoting Fifth Third Bank v.
+CSX Corp., 415 F. 3d 741, 745 (CA7 2005))).
+
+

@@ -1,0 +1,53 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+UNITED STATES v. TOHONO O’ODHAM NATION
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FEDERAL CIRCUIT
+No. 09–846.
+
+Argued November 1, 2010—Decided April 26, 2011
+
+Respondent Tohono O’odham Nation (Nation) filed suit in Federal Dis
+trict Court against federal officials who managed tribal assets held in
+trust by the Federal Government, alleging violations of fiduciary duty
+and requesting equitable relief. The next day, the Nation filed this
+action against the United States in the Court of Federal Claims
+(CFC), alleging almost identical violations and requesting money
+damages. The CFC case was dismissed under 28 U. S. C. §1500,
+which bars CFC jurisdiction over a claim if the plaintiff has another
+suit “for or in respect to” that claim pending against the United
+States or its agents in another court. The Federal Circuit reversed,
+finding that the two suits were not for or in respect to the same claim
+because, although they shared operative facts, they did not seek over
+lapping relief.
+Held:
+1. Two suits are for or in respect to the same claim, precluding CFC
+jurisdiction, if they are based on substantially the same operative
+facts, regardless of the relief sought in each suit. Pp. 2–9.
+(a) Since 1868, Congress has restricted the jurisdiction of the
+CFC and its predecessors when related actions are pending else
+where. Keene Corp. v. United States, 508 U. S. 200, 212, held that
+two suits are for or in respect to the same claim when they are “based
+on substantially the same operative facts . . . , at least if there [is]
+some overlap in the relief requested,” but it reserved the question
+whether the jurisdictional bar operates if suits based on the same op
+erative facts do not seek overlapping relief. The rule now codified in
+§1500 was first enacted to curb duplicate lawsuits by residents of the
+Confederacy who, in seeking to recover for cotton taken by the Fed
+eral Government, sued the Government in the Court of Claims and,
+
+

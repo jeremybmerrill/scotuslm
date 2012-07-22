@@ -1,0 +1,154 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+AMERICAN NEEDLE, INC. v. NATIONAL FOOTBALL
+
+LEAGUE ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SEVENTH CIRCUIT
+No. 08–661.
+
+Argued January 13, 2010—Decided May 24, 2010
+
+Respondent National Football League (NFL) is an unincorporated asso
+ciation of 32 separately owned professional football teams, also re
+spondents here. The teams, each of which owns its own name, colors,
+logo, trademarks, and related intellectual property, formed respon
+dent National Football League Properties (NFLP) to develop, license,
+and market that property. At first, NFLP granted nonexclusive li
+censes to petitioner and other vendors to manufacture and sell team
+labeled apparel. In December 2000, however, the teams authorized
+NFLP to grant exclusive licenses. NFLP granted an exclusive license
+to respondent Reebok International Ltd. to produce and sell trade
+marked headwear for all 32 teams. When petitioner’s license was not
+renewed, it filed this action alleging that the agreements between re
+spondents violated the Sherman Act, §1 of which makes “[e]very con
+tract, combination . . . or, conspiracy, in restraint of trade” illegal.
+Respondents answered that they were incapable of conspiring within
+§1’s meaning because the NFL and its teams are, in antitrust law
+jargon, a single entity with respect to the conduct challenged. The
+District Court granted respondents summary judgment, and the Sev
+enth Circuit affirmed.
+Held: The alleged conduct related to licensing of intellectual property
+constitutes concerted action that is not categorically beyond §1’s cov
+erage. Pp. 4–20.
+(a) The meaning of “contract, combination . . . , or, conspiracy” in §1
+of the Sherman Act is informed by the Act’s “ ‘basic distinction be
+tween concerted and independent action.’ ” Copperweld Corp. v. In
+dependence Tube Corp., 467 U. S. 752, 767. Section 1 “treat[s] con
+certed behavior more strictly than unilateral behavior,” id., at 768,
+
+
+2
+
+AMERICAN NEEDLE, INC. v. NATIONAL 
+
+FOOTBALL LEAGUE
+Syllabus 
+
+
+
+
+
+because, unlike independent action, “[c]oncerted activity inherently is
+fraught with anticompetitive risk” insofar as it “deprives the market
+place of independent centers of decisionmaking that competition as
+sumes and demands,” id., at 768–769. And because concerted action
+is discrete and distinct, a limit on such activity leaves untouched a
+vast amount of business conduct. That creates less risk of deterring
+a firm’s necessary conduct and leaves courts to examine only discrete
+agreements. An arrangement must therefore embody concerted ac
+tion in order to be a “contract, combination . . . or, conspiracy” under
+§1. Pp. 4–6.
+(b) In determining whether there is concerted action under §1, the
+Court has eschewed formalistic distinctions, such as whether the al
+leged conspirators are legally distinct entities, in favor of a functional
+consideration of how they actually operate. The Court has repeatedly
+found instances in which members of a legally single entity violated
+§1 when the entity was controlled by a group of competitors and
+served, in essence, as a vehicle for ongoing concerted activity. See,
+e.g., United States v. Sealy, Inc., 388 U. S. 350, 352–356. Conversely,
+the Court has found that although the entities may be “separate” for
+purposes of incorporation or formal title, if they are controlled by a
+single center of decisionmaking and they control a single aggregation
+of economic power, an agreement between them does not constitute a
+“contract, combination . . . or, conspiracy.” Copperweld, 467 U. S., at
+769. Pp. 6–10.
+(c) The relevant inquiry is therefore one of substance, not form,
+which does not turn on whether the alleged parties to contract, com
+bination, or conspiracy are part of a legally single entity or seem like
+one firm or multiple firms in any metaphysical sense. The inquiry is
+whether the agreement in question joins together “separate economic
+actors pursuing separate economic interests,” Copperweld, 467 U. S.,
+at 768, such that it “deprives the marketplace of independent centers
+of decisionmaking,” id., at 769, and therefore of diversity of entrepre
+neurial interests and thus of actual or potential competition. If it
+does, then there is concerted action covered by §1, and the court must
+decide whether the restraint of trade is unreasonable and therefore
+illegal. Pp. 10–11.
+(d) The NFL teams do not possess either the unitary decisionmak
+ing quality or the single aggregation of economic power characteristic
+of independent action. Each of them is a substantial, independently
+owned, independently managed business, whose “general corporate
+actions are guided or determined” by “separate corporate conscious
+nesses,” and whose “objectives are” not “common.” Copperweld, 467
+U. S., at 771. They compete with one another, not only on the play
+ing field, but to attract fans, for gate receipts, and for contracts with
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Syllabus
+managerial and playing personnel. See, e.g., Brown v. Pro Football,
+Inc., 518 U. S. 231, 249. Directly relevant here, the teams are poten
+tially competing suppliers in the market for intellectual property.
+When teams license such property, they are not pursuing the “com
+mon interests of the whole” league, but, instead, the interests of each
+“corporation itself.” Copperweld, 467 U. S., at 770. It is not disposi
+tive, as respondents argue, that, by forming NFLP, they have formed
+a single entity, akin to a merger, and market their NFL brands
+through a single outlet. Although the NFL respondents may be simi
+lar in some sense to a single enterprise, they are not similar in the
+relevant functional sense. While teams have common interests such
+as promoting the NFL brand, they are still separate, profit
+maximizing entities, and their interests in licensing team trade
+marks are not necessarily aligned. Nor does it matter that the teams
+may find the alleged cooperation necessary to compete against other
+forms of entertainment. Although decisions made by NFLP are not
+as easily classified as concerted activity, the NFLP’s decisions about
+licensing the teams’ separately owned intellectual property are con
+certed activity and thus covered by §1 for the same reason that deci
+sions made directly by the 32 teams are covered by §1. In making the
+relevant licensing decisions, NFLP is “an instrumentality” of the
+teams. Sealy, 388 U. S., at 352–354. Pp. 11–17.
+(e) Football teams that need to cooperate are not trapped by anti
+trust law. The fact that the NFL teams share an interest in making
+the entire league successful and profitable, and that they must coop
+erate to produce games, provides a perfectly sensible justification for
+making a host of collective decisions. Because some of these re
+straints on competition are necessary to produce the NFL’s product,
+the Rule of Reason generally should apply, and teams’ cooperation is
+likely to be permissible. And depending upon the activity in ques
+tion, the Rule of Reason can at times be applied without detailed
+analysis. But the activity at issue in this case is still concerted activ
+ity covered for §1 purposes. Pp. 18–19.
+538 F. 3d 736, reversed and remanded.
+STEVENS, J., delivered the opinion for a unanimous Court.
+
+

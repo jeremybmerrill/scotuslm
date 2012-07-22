@@ -1,0 +1,37 @@
+10
+
+GONZALEZ v. THALER
+SCALIA, J., dissenting
+
+and lengthy provision into manageable subsections.
+Stare Decisis Effect of Torres
+In addition to the fact that conditions attached to courtto-court appeal have always been held jurisdictional, and
+the fact that this statute’s predecessor was held to be so,
+we have considered, and found to be jurisdictional, a statute presenting precisely what is at issue here: a provision
+governing court-to-court appeals which made particular
+content a required element of a document that the statute
+said was necessary for jurisdiction; and which did that in a
+separate section that “excluded the jurisdictional terms,”
+ante, at 10. That case flatly contradicts today’s holding.
+In Torres v. Oakland Scavenger Co., 487 U. S. 312, we
+dealt with Rule 3(c)(1) of the Federal Rules of Appellate
+Procedure. Rule 3(a) of those Rules makes a notice of
+appeal necessary to appellate jurisdiction—just as
+§2253(c)(1) makes a certificate of appealability necessary.
+And Rule 3(c)(1), which, like §2253(c)(3), does not contain
+jurisdictional language, says what the requisite notice of
+appeal must contain—just as §2253(c)(3) says what the
+requisite certificate of appealability must contain:
+“The notice of appeal must:
+“(A) specify the party or parties taking the appeal
+by naming each one in the caption or body of the notice . . . ;
+“(B) designate the judgment, order, or part thereof
+being appealed; and
+“(C) name the court to which the appeal is taken.”
+In Torres we held that the Court of Appeals lacked jurisdiction over the appeal of a party not properly named in
+the notice of appeal. 487 U. S., at 314–315. The parallel
+is perfect.
+The Court claims that the jurisdictional consequences of
+Rule 3(c) were “ ‘imposed by the legislature,’ ” ante, at 12
+
+

@@ -1,0 +1,44 @@
+12
+
+HARDT v. RELIANCE STANDARD LIFE INS. CO.
+Opinion of the Court
+
+Instead, Ruckelshaus lays down the proper markers to
+guide a court in exercising the discretion that §1132(g)(1)
+grants. As in the statute at issue in Ruckelshaus, Con
+gress failed to indicate clearly in §1132(g)(1) that it
+“meant to abandon historic fee-shifting principles and
+intuitive notions of fairness.” 463 U. S., at 686. Accord
+ingly, a fees claimant must show “some degree of success
+on the merits” before a court may award attorney’s fees
+under §1132(g)(1), id., at 694. A claimant does not satisfy
+that requirement by achieving “trivial success on the
+merits” or a “purely procedural victor[y],” but does satisfy
+it if the court can fairly call the outcome of the litigation
+some success on the merits without conducting a “lengthy
+inquir[y] into the question whether a particular party’s
+success was ‘substantial’ or occurred on a ‘central issue.’ ”
+Id., at 688, n. 9.8
+Reliance essentially agrees that this standard should
+govern fee requests under §1132(g)(1), see Brief for Re
+spondent 13–31, but argues that Hardt has not satisfied it.
+Specifically, Reliance contends that a court order remand
+ing an ERISA claim for further consideration can never
+constitute “some success on the merits,” even if such a
+remand results in an award of benefits. See id., at 34–50.
+Reliance’s argument misses the point, given the facts of
+this case. Hardt persuaded the District Court to find that
+“the plan administrator has failed to comply with the
+ERISA guidelines” and “that Ms. Hardt did not get the
+kind of review to which she was entitled under applicable
+law.” App. to Pet. for Cert. 48a; see 29 U. S. C. §1133(2),
+29 CFR §2560.503–1(h) (2009). Although Hardt failed to
+win summary judgment on her benefits claim, the District
+——————
+8 We do not foreclose the possibility that once a claimant has satisfied
+this requirement, and thus becomes eligible for a fees award under
+§1132(g)(1), a court may consider the five factors adopted by the Court
+of Appeals, see n. 1, supra, in deciding whether to award attorney’s
+fees.
+
+

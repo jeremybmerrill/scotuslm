@@ -1,0 +1,306 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+ARIZONA FREE ENTERPRISE CLUB’S FREEDOM 
+
+CLUB PAC ET AL. v. BENNETT, SECRETARY OF
+
+STATE OF ARIZONA, ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–238.
+
+Argued March 28, 2011—Decided June 27, 2011*
+
+The Arizona Citizens Clean Elections Act created a public financing
+system to fund the primary and general election campaigns of candi
+dates for state office. Candidates who opt to participate, and who ac
+cept certain campaign restrictions and obligations, are granted an
+initial outlay of public funds to conduct their campaign. They are
+also granted additional matching funds if a privately financed candi
+date’s expenditures, combined with the expenditures of independent
+groups made in support of the privately financed candidate or in op
+position to a publicly financed candidate, exceed the publicly financed
+candidate’s initial state allotment. Once matching funds are trig
+gered, a publicly financed candidate receives roughly one dollar for
+every dollar raised or spent by the privately financed candidate—
+including any money of his own that a privately financed candidate
+spends on his campaign—and for every dollar spent by independent
+groups that support the privately financed candidate. When there
+are multiple publicly financed candidates in a race, each one receives
+matching funds as a result of the spending of privately financed can
+didates and independent expenditure groups. Matching funds top
+out at two times the initial grant to the publicly financed candidate.
+Petitioners, past and future Arizona candidates and two independ
+ent expenditure groups that spend money to support and oppose Ari
+zona candidates, challenged the constitutionality of the matching
+——————
+* Together with No. 10–239, McComish et al. v. Bennett, Secretary of
+State of Arizona, et al., also on certiorari to the same court.
+
+
+2
+
+ARIZONA FREE ENTERPRISE CLUB’S FREEDOM 
+
+CLUB PAC v. BENNETT
+
+Syllabus 
+
+funds provision, arguing that it unconstitutionally penalizes their
+speech and burdens their ability to fully exercise their First Amend
+ment rights. The District Court entered a permanent injunction
+against the enforcement of the matching funds provision. The Ninth
+Circuit reversed, concluding that the provision imposed only a mini
+mal burden and that the burden was justified by Arizona’s interest in
+reducing quid pro quo political corruption.
+
+Held: Arizona’s matching funds scheme substantially burdens political
+speech and is not sufficiently justified by a compelling interest to
+survive First Amendment scrutiny. Pp. 8–30.
+(a) The matching funds provision imposes a substantial burden on
+the speech of privately financed candidates and independent expendi
+ture groups. Pp. 8–22.
+(1) Petitioners contend that their political speech is substantially
+burdened in the same way that speech was burdened by the so-called
+“Millionaire’s Amendment” of the Bipartisan Campaign Reform Act
+of 2002, which was invalidated in Davis v. Federal Election Comm’n,
+554 U. S. 724. That law—which permitted the opponent of a candi
+date who spent over $350,000 of his personal funds to collect triple
+the normal contribution amount, while the candidate who spent the
+personal funds remained subject to the original contribution cap—
+unconstitutionally forced a candidate “to choose between the First
+Amendment right to engage in unfettered political speech and subjec
+tion to discriminatory fundraising limitations.” Id., at 739. This
+“unprecedented penalty” “impose[d] a substantial burden on the ex
+ercise of the First Amendment right to use personal funds for cam
+paign speech” that was not justified by a compelling government in
+terest. Id., at 739–740. Pp. 8–10.
+(2) The logic of Davis largely controls here. Once a privately fi
+nanced candidate has raised or spent more than the State’s initial
+grant to a publicly financed candidate, each personal dollar the pri
+vately financed candidate spends results in an award of almost one
+additional dollar to his opponent. The privately financed candidate
+must “shoulder a special and potentially significant burden” when
+choosing to exercise his First Amendment right to spend funds on his
+own candidacy. 554 U. S., at 739. If the law at issue in Davis im
+posed a burden on candidate speech, the Arizona law unquestionably
+does so as well.
+The differences between the matching funds provision and the law
+struck down in Davis make the Arizona law more constitutionally
+problematic, not less. First, the penalty in Davis consisted of raising
+the contribution limits for one candidate, who would still have to
+raise the additional funds. Here, the direct and automatic release of
+public money to a publicly financed candidate imposes a far heavier
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Syllabus
+burden. Second, in elections where there are multiple publicly fi
+nanced candidates—a frequent occurrence in Arizona—the matching
+funds provision can create a multiplier effect. Each dollar spent by
+the privately funded candidate results in an additional dollar of fund
+ing to each of that candidate’s publicly financed opponents. Third,
+unlike the law in Davis, all of this is to some extent out of the pri
+vately financed candidate’s hands. Spending by independent expen
+diture groups to promote a privately financed candidate’s election
+triggers matching funds, regardless whether such support is welcome
+or helpful. Those funds go directly to the publicly funded candidate
+to use as he sees fit. That disparity in control—giving money directly
+to a publicly financed candidate, in response to independent expendi
+tures that cannot be coordinated with the privately funded candi
+date—is a substantial advantage for the publicly funded candidate.
+The burdens that matching funds impose on independent expendi
+ture groups are akin to those imposed on the privately financed can
+didates themselves. The more money spent on behalf of a privately
+financed candidate or in opposition to a publicly funded candidate,
+the more money the publicly funded candidate receives from the
+State. The effect of a dollar spent on election speech is a guaranteed
+financial payout to the publicly funded candidate the group opposes,
+and spending one dollar can result in the flow of dollars to multiple
+candidates. In some ways, the burdens imposed on independent
+groups by matching funds are more severe than the burdens imposed
+on privately financed candidates. Independent groups, of course, are
+not eligible for public financing. As a result, those groups can only
+avoid matching funds by changing their message or choosing not to
+speak altogether. Presenting independent expenditure groups with
+such a choice—trigger matching funds, change your message, or do
+not speak—makes the matching funds provision particularly burden
+some to those groups and certainly contravenes “the fundamental
+rule of protection under the First Amendment, that a speaker has the
+autonomy to choose the content of his own message.” Hurley v. IrishAmerican Gay, Lesbian and Bisexual Group of Boston, Inc., 515 U. S.
+557, 573. Pp. 10–14.
+(3) The arguments of Arizona, the Clean Elections Institute, and
+amicus United States attempting to explain away the existence or
+significance of any burden imposed by matching funds are unpersua
+sive.
+Arizona correctly points out that its law is different from the law
+invalidated in Davis, but there is no doubt that the burden on speech
+is significantly greater here than in Davis. Arizona argues that the
+provision actually creates more speech. But even if that were the
+case, only the speech of publicly financed candidates is increased by
+
+
+4
+
+ARIZONA FREE ENTERPRISE CLUB’S FREEDOM 
+
+CLUB PAC v. BENNETT
+
+Syllabus 
+
+the state law. And burdening the speech of some—here privately fi
+nanced candidates and independent expenditure groups—to increase
+the speech of others is a concept “wholly foreign to the First Amend
+ment,” Buckley v. Valeo, 424 U. S. 1, 48–49; cf. Miami Herald Pub
+lishing Co. v. Tornillo, 418 U. S. 241, 244, 258. That no candidate or
+group is forced to express a particular message does not mean that
+the matching funds provision does not burden their speech, especially
+since the direct result of that speech is a state-provided monetary
+subsidy to a political rival. And precedents upholding government
+subsidies against First Amendment challenge provide no support for
+matching funds; none of the subsidies at issue in those cases were
+granted in response to the speech of another.
+The burden on privately financed candidates and independent ex
+penditure groups also cannot be analogized to the burden placed on
+speakers by the disclosure and disclaimer requirements upheld in
+Citizens United v. Federal Election Comm’n, 558 U. S. ___. A political
+candidate’s disclosure of his funding resources does not result in a
+cash windfall to his opponent, or affect their respective disclosure ob
+ligations.
+The burden imposed by the matching funds provision is evident
+and inherent in the choice that confronts privately financed candi
+dates and independent expenditure groups. Indeed every court to
+have considered the question after Davis has concluded that a candi
+date or independent group might not spend money if the direct result
+of that spending is additional funding to political adversaries. Ari
+zona is correct that the candidates do not complain that providing a
+lump sum payment equivalent to the maximum state financing that
+a candidate could obtain through matching funds would be imper
+missible. But it is not the amount of funding that the State provides
+that is constitutionally problematic. It is the manner in which that
+funding is provided—in direct response to the political speech of pri
+vately financed candidates and independent expenditure groups.
+Pp. 14–22.
+(b) Arizona’s matching funds provision is not “ ‘justified by a com
+pelling state interest,’ ” Davis, supra, at 740. Pp. 22–28.
+(1) There is ample support for the argument that the purpose of
+the matching funds provision is to “level the playing field” in terms of
+candidate resources. The clearest evidence is that the provision op
+erates to ensure that campaign funding is equal, up to three times
+the initial public funding allotment. The text of the Arizona Act con
+firms this purpose. The provision setting up the matching funds re
+gime is titled “Equal funding of candidates,” Ariz. Rev. Stat. Ann.
+§16–952; and the Act and regulations refer to the funds as “equaliz
+ing funds,” e.g., §16–952(C)(4). This Court has repeatedly rejected
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Syllabus
+the argument that the government has a compelling state interest in
+“leveling the playing field” that can justify undue burdens on political
+speech, see, e.g., Citizens United, supra, at ___, and the burdens im
+posed by matching funds cannot be justified by the pursuit of such an
+interest. Pp. 22–25.
+(2) Even if the objective of the matching funds provision is to
+combat corruption—and not “level the playing field”—the burdens
+that the matching funds provision imposes on protected political
+speech are not justified. Burdening a candidate’s expenditure of his
+own funds on his own campaign does not further the State’s anticor
+ruption interest. Indeed, “reliance on personal funds reduces the
+threat of corruption.” Davis, supra, at 740–741; see Buckley, supra,
+at 53. The burden on independent expenditures also cannot be sup
+ported by the anticorruption interest. Such expenditures are “politi
+cal speech . . . not coordinated with a candidate.” Citizens United,
+558 U. S., at ___. That separation negates the possibility that the ex
+penditures will result in the sort of quid pro quo corruption with
+which this Court’s case law is concerned. See e.g., id., at ___–___.
+Moreover, “[t]he interest in alleviating the corrupting influence of
+large contributions is served by . . . contribution limitations.” Buck
+ley, supra, at 55. Given Arizona’s contribution limits, some of the
+most austere in the Nation, its strict disclosure requirements, and
+the general availability of public funding, it is hard to imagine what
+marginal corruption deterrence could be generated by the matching
+funds provision.
+The State and the Clean Elections Institute contend that even if
+the matching funds provision does not directly serve the anticorrup
+tion interest, it indirectly does so by ensuring that enough candidates
+participate in the State’s public funding system, which in turn helps
+combat corruption. But the fact that burdening constitutionally pro
+tected speech might indirectly serve the State’s anticorruption inter
+est, by encouraging candidates to take public financing, does not es
+tablish the constitutionality of the matching funds provision. The
+matching funds provision substantially burdens speech, to an even
+greater extent than the law invalidated in Davis. Those burdens
+cannot be justified by a desire to “level the playing field,” and much of
+the speech burdened by the matching funds provision does not pose a
+danger of corruption. The fact that the State may feel that the
+matching funds provision is necessary to allow it to calibrate its pub
+lic funding system to achieve its desired level of participation—
+without an undue drain on public resources—is not a sufficient justi
+fication for the burden.
+The flaw in the State’s argument is apparent in what its reasoning
+would allow. By the State’s logic it could award publicly financed
+
+
+6
+
+ARIZONA FREE ENTERPRISE CLUB’S FREEDOM 
+
+CLUB PAC v. BENNETT
+
+Syllabus 
+
+candidates five dollars for every dollar spent by a privately financed
+candidate, or force candidates who wish to run on private funds to
+pay a $10,000 fine, in order to encourage participation in the public
+funding regime. Such measures might well promote such participa
+tion, but would clearly suppress or unacceptably alter political
+speech. How the State chooses to encourage participation in its pub
+lic funding system matters, and the Court has never held that a State
+may burden political speech—to the extent the matching funds provi
+sion does—to ensure adequate participation in a public funding sys
+tem. Pp. 25–28.
+(c) Evaluating the wisdom of public financing as a means of fund
+ing political candidacy is not the Court’s business. But determining
+whether laws governing campaign finance violate the First Amend
+ment is. The government “may engage in public financing of election
+campaigns,” and doing so can further “significant governmental in
+terest[s].” Buckley, 424 U. S., at 57, n. 65, 92–93, 96. But the goal of
+creating a viable public financing scheme can only be pursued in a
+manner consistent with the First Amendment. Arizona’s program
+gives money to a candidate in direct response to the campaign speech
+of an opposing candidate or an independent group. It does this when
+the opposing candidate has chosen not to accept public financing, and
+has engaged in political speech above a level set by the State. This
+goes too far; Arizona’s matching funds provision substantially bur
+dens the speech of privately financed candidates and independent
+expenditure groups without serving a compelling state interest.
+Pp. 28–30.
+
+611 F. 3d 510, reversed.
+ROBERTS, C. J., delivered the opinion of the Court, in which SCALIA,
+KENNEDY, THOMAS, and ALITO, JJ., joined. KAGAN, J., filed a dissenting
+opinion, in which GINSBURG, BREYER, and SOTOMAYOR, JJ., joined.
+
+

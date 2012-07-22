@@ -1,0 +1,47 @@
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+SCALIA, J., dissenting
+
+litigant is entitled to it only if he has diligently pursued
+his rights and—the requirement relevant here—if “ ‘some
+extraordinary circumstance stood in his way.’ ” Lawrence
+v. Florida, 549 U. S. 327, 336 (2007) (quoting Pace v.
+DiGuglielmo, 544 U. S. 408, 418 (2005)). Because the
+attorney is the litigant’s agent, the attorney’s acts (or
+failures to act) within the scope of the representation are
+treated as those of his client, see Link v. Wabash R. Co.,
+370 U. S. 626, 633–634, and n. 10 (1962), and thus such
+acts (or failures to act) are necessarily not extraordinary
+circumstances.
+To be sure, the rule that an attorney’s acts and over
+sights are attributable to the client is relaxed where the
+client has a constitutional right to effective assistance of
+counsel. Where a State is constitutionally obliged to
+provide an attorney but fails to provide an effective one,
+the attorney’s failures that fall below the standard set
+forth in Strickland v. Washington, 466 U. S. 668 (1984),
+are chargeable to the State, not to the prisoner. See
+Murray v. Carrier, 477 U. S. 478, 488 (1986). But where
+the client has no right to counsel—which in habeas pro
+ceedings he does not—the rule holding him responsible for
+his attorney’s acts applies with full force. See Coleman v.
+Thompson, 501 U. S. 722, 752–754 (1991).4 Thus, when a
+state habeas petitioner’s appeal is filed too late because of
+attorney error, the petitioner is out of luck—no less than if
+he had proceeded pro se and neglected to file the appeal
+himself.5
+——————
+4 The
+
+Court dismisses Coleman as “a case about federalism” and
+therefore inapposite here. Ante, at 18 (internal quotation marks
+omitted). I fail to see how federalism concerns are not implicated by
+ad hoc exceptions to the statute of limitations for attempts to overturn
+state-court convictions. In any event, Coleman did not invent, but
+merely applied, the already established principle that an attorney’s acts
+are his client’s. See 501 U. S., at 754.
+5 That Holland’s counsel was appointed, rather than, like counsel in
+
+

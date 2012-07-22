@@ -1,0 +1,43 @@
+8
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+Opinion of the Court
+
+cause of Ideal’s harm was “a set of actions (offering lower
+prices) entirely distinct from the alleged RICO violation
+(defrauding the State).” Ibid. The alleged violation there­
+fore had not “led directly to the plaintiff’s injuries,” and
+Ideal accordingly had failed to meet RICO’s “requirement
+of a direct causal connection” between the predicate of­
+fense and the alleged harm. Id., at 460–461.
+The City’s claim suffers from the same defect as the
+claim in Anza. Here, the conduct directly responsible for
+the City’s harm was the customers’ failure to pay their
+taxes. And the conduct constituting the alleged fraud was
+Hemi’s failure to file Jenkins Act reports. Thus, as in
+Anza, the conduct directly causing the harm was distinct
+from the conduct giving rise to the fraud. See id., at 458.
+Indeed, the disconnect between the asserted injury and
+the alleged fraud in this case is even sharper than in
+Anza. There, we viewed the point as important because
+the same party—National Steel—had both engaged in the
+harmful conduct and committed the fraudulent act. We
+nevertheless found the distinction between the relevant
+acts sufficient to defeat Ideal’s RICO claim. Here, the
+City’s theory of liability rests not just on separate actions,
+but separate actions carried out by separate parties.
+The City’s theory thus requires that we extend RICO
+liability to situations where the defendant’s fraud on the
+third party (the State) has made it easier for a fourth
+party (the taxpayer) to cause harm to the plaintiff (the
+City). Indeed, the fourth-party taxpayers here only caused
+harm to the City in the first place if they decided not to
+pay taxes they were legally obligated to pay. Put simply,
+Hemi’s obligation was to file the Jenkins Act reports with
+the State, not the City, and the City’s harm was directly
+caused by the customers, not Hemi. We have never before
+stretched the causal chain of a RICO violation so far, and
+we decline to do so today. See id., at 460–461; cf. Associ
+ated Gen. Contractors, supra, at 541, n. 46 (finding no
+
+

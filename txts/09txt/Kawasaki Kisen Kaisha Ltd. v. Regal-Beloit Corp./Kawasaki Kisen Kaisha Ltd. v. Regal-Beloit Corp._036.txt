@@ -1,0 +1,44 @@
+Cite as: 561 U. S. ____ (2010)
+
+11
+
+SOTOMAYOR, J., dissenting
+
+cases on which the majority relies do not stand for this
+proposition. In Reider, the Court found Carmack applica­
+ble when the first domestic rail carrier issued a bill of
+lading from New Orleans to Boston. Although we ob­
+served in that opinion that there was no through bill of
+lading from Buenos Aires to Boston, 339 U. S., at 117, we
+did not say, and it is not a necessary corollary, that the
+presence of such a bill of lading would have commanded a
+different result. The observation is better read as indicat­
+ing that no law other than Carmack could possibly have
+applied in that case: Because “the shipment . . . could not
+have moved an inch beyond New Orleans under the ocean
+bill,” id., at 118, a new domestic bill of lading for domestic
+transportation was required, and as to that transporta­
+tion, we held, Carmack unquestionably applied.
+For its part, Mexican Light held only that, where the
+first rail carrier in the chain of transportation issued a bill
+of lading, a subsequent bill of lading issued by a later rail
+carrier was void because Carmack contemplates one
+through bill of lading governing the entire journey by rail.
+331 U. S., at 734. A subsequent bill of lading by a connect­
+ing rail carrier, however, can be void under Carmack
+without requiring the conclusion that an international
+through bill of lading involving initial transportation by
+ocean carrier would void a subsequent bill of lading issued
+in the United States by the first rail carrier in the domes­
+tic chain of transportation. Because the text of Carmack
+expressly requires a bill of lading to be issued for property
+“receive[d] for transportation under this part,” and Union
+Pacific first received the property for rail transportation in
+the United States, it should have issued a bill of lading.
+Of course, its failure to do so did not affect its liability
+under Carmack (or that of a subsequent connecting or
+delivering carrier), as §11706(a) explicitly states.
+Third, the majority errs in giving weight to the differ­
+ence in scope between Carmack liability and the jurisdic­
+
+

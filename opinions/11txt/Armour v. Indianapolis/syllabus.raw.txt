@@ -1,0 +1,106 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+ARMOUR ET AL. v. CITY OF INDIANAPOLIS, INDIANA,
+ET AL.
+CERTIORARI TO THE SUPREME COURT OF INDIANA
+No. 11–161.
+
+Argued February 29, 2012—Decided June 4, 2012
+
+For decades, Indianapolis (City) funded sewer projects using Indiana’s
+Barrett Law, which permitted cities to apportion a public improvement project’s costs equally among all abutting lots. Under that system, a city would create an initial assessment, dividing the total estimated cost by the number of lots and making any necessary
+adjustments. Upon a project’s completion, the city would issue a final
+lot-by-lot assessment. Lot owners could elect to pay the assessment
+in a lump sum or over time in installments.
+After the City completed the Brisbane/Manning Sanitary Sewers
+Project, it sent affected homeowners formal notice of their payment
+obligations. Of the 180 affected homeowners, 38 elected to pay the
+lump sum. The following year, the City abandoned Barrett Law financing and adopted the Septic Tank Elimination Program (STEP),
+which financed projects in part through bonds, thereby lowering individual owner’s sewer-connection costs. In implementing STEP, the
+City’s Board of Public Works enacted a resolution forgiving all assessment amounts still owed pursuant to Barrett Law financing.
+Homeowners who had paid the Brisbane/Manning Project lump sum
+received no refund, while homeowners who had elected to pay in installments were under no obligation to make further payments.
+The 38 homeowners who paid the lump sum asked the City for a
+refund, but the City denied the request. Thirty-one of these homeowners brought suit in Indiana state court claiming, in relevant part,
+that the City’s refusal violated the Federal Equal Protection Clause.
+The trial court granted summary judgment to the homeowners, and
+the State Court of Appeals affirmed. The Indiana Supreme Court reversed, holding that the City’s distinction between those who had already paid and those who had not was rationally related to its legiti-
+
+
+2
+
+ARMOUR v. INDIANAPOLIS
+Syllabus
+mate interests in reducing administrative costs, providing financial
+hardship relief to homeowners, transitioning from the Barrett Law
+system to STEP, and preserving its limited resources.
+
+Held: The City had a rational basis for its distinction and thus did not
+violate the Equal Protection Clause. Pp. 6–14.
+(a) The City’s classification does not involve a fundamental right or
+suspect classification. See Heller v. Doe, 509 U. S. 312, 319–320. Its
+subject matter is local, economic, social, and commercial. See United
+States v. Carolene Products Co., 304 U. S. 144, 152. It is a tax classification. See Regan v. Taxation With Representation of Wash., 461
+U. S. 540, 547. And no one claims that the City has discriminated
+against out-of-state commerce or new residents. Cf. Hooper v. Bernalillo County Assessor, 472 U. S. 612. Hence, the City’s distinction
+does not violate the Equal Protection Clause as long as “there is any
+reasonably conceivable state of facts that could provide a rational basis for the classification,” FCC v. Beach Communications, Inc., 508
+U. S. 307, 313, and the “ ‘burden is on the one attacking the [classification] to negative every conceivable basis which might support it,’ ”
+Heller, supra, at 320. Pp. 6–7.
+(b) Administrative concerns can ordinarily justify a tax-related distinction, see, e.g., Carmichael v. Southern Coal & Coke Co., 301 U. S.
+495, 511–512, and the City’s decision to stop collecting outstanding
+Barrett Law debts finds rational support in the City’s administrative
+concerns. After the City switched to the STEP system, any decision
+to continue Barrett Law debt collection could have proved complex
+and expensive. It would have meant maintaining an administrative
+system for years to come to collect debts arising out of 20-plus different construction projects built over the course of a decade, involving
+monthly payments as low as $25 per household, with the possible
+need to maintain credibility by tracking down defaulting debtors and
+bringing legal action. The rationality of the City’s distinction draws
+further support from the nature of the line-drawing choices that confronted it. To have added refunds to forgiveness would have meant
+adding further administrative costs, namely the cost of processing refunds. And limiting refunds only to Brisbane/Manning homeowners
+would have led to complaints of unfairness, while expanding refunds
+to the apparently thousands of other Barrett Law project homeowners would have involved an even greater administrative burden. Finally, the rationality of the distinction draws support from the fact
+that the line that the City drew—distinguishing past payments from
+future obligations—is well known to the law. See, e.g., 26 U. S. C.
+§108(a)(1)(E). Pp. 7–10.
+(c) Petitioners’ contrary arguments are unpersuasive. Whether financial hardship is a factor supporting rationality need not be con-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Syllabus
+sidered here, since the City’s administrative concerns are sufficient to
+show a rational basis for its distinction. Petitioners propose other
+forgiveness systems that they argue are superior to the City’s system,
+but the Constitution only requires that the line actually drawn by the
+City be rational. Petitioners further argue that administrative considerations alone should not justify a tax distinction lest a city justify
+an unfair system through insubstantial administrative considerations. Here it was rational for the City to draw a line that avoided
+the administrative burden of both collecting and paying out small
+sums for years to come. Petitioners have not shown that the administrative concerns are too insubstantial to justify the classification.
+Finally, petitioners argue that precedent makes it more difficult for
+the City to show a rational basis, but the cases to which they refer
+involve discrimination based on residence or length of residence. The
+one exception, Allegheny Pittsburgh Coal Co. v. Commission of Webster Cty., 488 U. S. 336, is distinguishable. Pp. 10–14.
+946 N. E. 2d 553, affirmed.
+BREYER, J., delivered the opinion of the Court, in which KENNEDY,
+THOMAS, GINSBURG, SOTOMAYOR, and KAGAN, JJ., joined. ROBERTS, C. J.,
+filed a dissenting opinion, in which SCALIA and ALITO, JJ., joined.
+
+

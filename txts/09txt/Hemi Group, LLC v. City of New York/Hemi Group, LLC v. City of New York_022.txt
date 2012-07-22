@@ -1,0 +1,42 @@
+2
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+BREYER, J., dissenting
+
+seeks to help States collect tobacco taxes by requiring out­
+of-state cigarette sellers, such as Hemi, to file reports with
+state tobacco tax administrators identifying the names
+and addresses of in-state customers and the amounts they
+purchased. The violations consist of Hemi’s intentional
+failure to do so.
+As the majority points out, we must assume for present
+purposes that an intentional failure to file Jenkins Act
+reports counts as mail fraud (at least where the failure is
+part of a scheme that includes use of the mails). Ante, at
+4. Lower courts have sometimes so held. See United
+States v. Melvin, 544 F. 2d 767, 773–777 (CA5 1977);
+United States v. Brewer, 528 F. 2d 492, 497–498 (CA4
+1975). The Court of Appeals here so held. City of New
+York v. Smokes-Spirits.com, Inc., 541 F. 3d 425, 446 (CA2
+2008). And no one has challenged that holding.
+We must also assume that Hemi’s “intentiona[l] con­
+ceal[ment]” of the name/address/purchase information,
+Second Am. Compl. ¶¶103, 104, is the legal equivalent of
+an affirmative representation that Hemi had no New York
+City customers. See Restatement (Second) of Torts §551,
+p. 119 (1976) (a person “who fails to disclose . . . a fact”
+may be “subject to . . . liability” as if “he had represented
+the nonexistence of the matter that he has failed to dis­
+close”); cf. Stewart v. Wyoming Cattle Ranche Co., 128
+U. S. 383, 388 (1888) (concealment or suppression of mate­
+rial fact equivalent to a false representation). On these
+assumptions, the question before us is whether New York
+City’s loss of tax revenues constitutes an injury to its
+“business or property by reason of” Hemi’s Jenkins Act
+misrepresentations.
+B
+The case arises as a result of the District Court’s dis­
+missal of New York City’s RICO complaint. Fed. Rule Civ.
+Proc. 12(b)(6). Hence we must answer the question in
+
+

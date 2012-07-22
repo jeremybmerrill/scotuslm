@@ -1,0 +1,121 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+THOMAS, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–737
+_________________
+
+MICHELLE ORTIZ, PETITIONER v. PAULA JORDAN 
+
+ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SIXTH CIRCUIT
+
+[January 24, 2011] 
+
+
+JUSTICE THOMAS, with whom JUSTICE SCALIA and
+JUSTICE KENNEDY join, concurring in the judgment.
+We granted certiorari to decide the narrow question
+whether a party may appeal an order denying summary
+judgment after a full trial on the merits. I agree with the
+Court that the answer is no. See ante, at 2–3. The Court
+also reaches beyond that question, however, to address the
+effect of Jordan and Bright’s failure to renew their motion
+for judgment as a matter of law under Federal Rule of
+Civil Procedure 50(b). I would limit our decision to the
+question presented and remand for consideration of any
+additional issues.
+As the Court concludes, a party ordinarily cannot appeal
+an order denying summary judgment after a full trial on
+the merits. See ante, at 7–8. Most such orders are not
+appealable at all, because they neither qualify as “final
+decisions” capable of appeal under 28 U. S. C. §1291 nor
+come within the narrow class of appealable interlocutory
+orders under §1292(a)(1). And for those that are appeal
+able,* the time for filing an appeal will usually have run by
+the conclusion of the trial. See §2107(a) (providing that a
+——————
+* See Mitchell v. Forsyth, 472 U. S. 511, 524–530 (1985) (holding that
+some orders denying summary judgment constitute “ ‘final decisions’ ”
+under the collateral order doctrine).
+
+
+2
+
+ORTIZ v. JORDAN
+THOMAS, J., concurring in judgment
+
+notice of appeal in a civil case generally must be filed
+“within thirty days” after entry of the relevant judgment
+or order); Fed. Rule App. Proc. 4(a)(1)(A).
+This case is the ordinary case. Even if the order deny
+ing summary judgment qualified under the collateral
+order doctrine as an appealable “final decision” under
+§1291, the time for filing that appeal expired long before
+trial. Ante, at 7–8. The Court of Appeals therefore lacked
+jurisdiction to review the order. I would reverse the
+judgment on that ground alone and remand for further
+proceedings.
+The majority proceeds to consider the additional ques
+tion whether Jordan and Bright’s failure to file a Rule
+50(b) motion deprived the Court of Appeals of the
+“ ‘powe[r]’ ” to review the sufficiency of the trial evidence.
+See ante, at 3–4, 8 (quoting Unitherm Food Systems, Inc.
+v. Swift-Eckrich, Inc., 546 U. S. 394, 405 (2006)). The
+Court does so because it concludes that the Court of
+Appeals did not confine itself to the pretrial record and
+instead reviewed the trial evidence. Ante, at 3.
+I do not think it necessary to reach beyond the question
+presented. It is clear from the opinion that the appeals
+court reviewed the order denying summary judgment, and
+that was error. The Court of Appeals explained that
+“[a]lthough courts normally do not review the denial of a
+summary judgment motion after a trial on the merits,”
+this case “is an exception to th[at] rule.” 316 Fed. Appx.
+449, 453 (CA6 2009). And to support that conclusion, the
+court cited Goff v. Bise, 173 F. 3d 1068 (1999), in which
+the Eighth Circuit reviewed an order denying summary
+judgment. Finally, the Court of Appeals equated its re
+view in this case to the review of an “interlocutory appea[l]
+of qualified immunity,” which suggests that the court saw
+itself as reviewing the interlocutory order denying sum
+mary judgment. 316 Fed. Appx., at 453. Whether, in
+erroneously reviewing the order denying summary judg
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+THOMAS, J., concurring in judgment
+
+ment, the Court of Appeals considered the pretrial or full
+trial record is beside the point.
+I also think it unwise to reach the Rule 50 issue and the
+questions that follow. Ortiz’s opening brief at the merits
+stage focused on the question presented—whether the
+Court of Appeals lacked jurisdiction to review an order
+denying summary judgment. It was not until Jordan and
+Bright’s response brief in this Court, in which they argued
+that they had not actually appealed the order denying
+summary judgment, that the Rule 50 issues were ad
+dressed at any length. This Court normally proceeds
+more cautiously. Moreover, the Court of Appeals did not
+address these issues at all, and we are ordinarily “a court
+of final review and not first view.” Adarand Constructors,
+Inc. v. Mineta, 534 U. S. 103, 110 (2001) (per curiam)
+(internal quotation marks omitted). This seems a good
+rule to follow in a case like this, which raises difficult and
+far-reaching questions of civil procedure.
+For these reasons, I would resolve only the question on
+which we granted certiorari. I concur in the judgment.
+
+

@@ -1,0 +1,34 @@
+8
+
+PERRY v. NEW HAMPSHIRE
+Opinion of the Court
+
+fies the defendant in a police-organized photo lineup, the
+Court ruled, the identification should be suppressed only
+where “the photographic identification procedure was so
+[unnecessarily] suggestive as to give rise to a very substantial likelihood of irreparable misidentification.” Id., at
+384–385. Satisfied that the photo array used by Federal
+Bureau of Investigation agents in Simmons was both
+necessary and unlikely to have led to a mistaken identification, the Court rejected the defendant’s due process
+challenge to admission of the identification. Id., at 385–
+386. In contrast, the Court held in Foster v. California,
+394 U. S. 440 (1969), that due process required the exclusion of an eyewitness identification obtained through
+police-arranged procedures that “made it all but inevitable
+that [the witness] would identify [the defendant].” Id., at
+443.
+Synthesizing previous decisions, we set forth in Neil v.
+Biggers, 409 U. S. 188 (1972), and reiterated in Manson v.
+Brathwaite, 432 U. S. 98 (1977), the approach appropriately used to determine whether the Due Process Clause
+requires suppression of an eyewitness identification tainted by police arrangement. The Court emphasized, first,
+that due process concerns arise only when law enforcement officers use an identification procedure that is both
+suggestive and unnecessary. Id., at 107, 109; Biggers, 409
+U. S., at 198. Even when the police use such a procedure,
+the Court next said, suppression of the resulting identification is not the inevitable consequence. Brathwaite, 432
+U. S., at 112–113; Biggers, 409 U. S., at 198–199.
+A rule requiring automatic exclusion, the Court reasoned, would “g[o] too far,” for it would “kee[p] evidence
+from the jury that is reliable and relevant,” and “may
+result, on occasion, in the guilty going free.” Brathwaite,
+432 U. S., at 112; see id., at 113 (when an “identification is
+reliable despite an unnecessarily suggestive [police] identification procedure,” automatic exclusion “is a Draconian
+
+

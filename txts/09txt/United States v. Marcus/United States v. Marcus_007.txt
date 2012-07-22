@@ -1,0 +1,44 @@
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+the trial proceeds,’ ” Johnson, supra, at 468 (quoting Ari
+zona v. Fulminante, 499 U. S. 279, 310 (1991)), such that
+it is often “difficul[t]” to “asses[s] the effect of the error,”
+United States v. Gonzalez-Lopez, 548 U. S. 140, 149, n. 4
+(2006). See Johnson, supra, at 468–469 (citing cases in
+which this Court has found “structural error,” including
+Gideon v. Wainwright, 372 U. S. 335 (1963) (total depriva
+tion of counsel); Tumey v. Ohio, 273 U. S. 510 (1927) (lack
+of an impartial trial judge); McKaskle v. Wiggins, 465
+U. S. 168 (1984) (right to self-representation at trial);
+Waller v. Georgia, 467 U. S. 39 (1984) (violation of the
+right to a public trial); and Sullivan v. Louisiana, 508
+U. S. 275 (1993) (erroneous reasonable-doubt instruction)).
+We cannot conclude that the error here falls within that
+category.
+The error at issue in this case created a risk that the
+jury would convict respondent solely on the basis of con
+duct that was not criminal when the defendant engaged in
+that conduct. A judge might have minimized, if not elimi
+nated, this risk by giving the jury a proper instruction.
+We see no reason why, when a judge fails to give such an
+instruction, a reviewing court would find it any more
+difficult to assess the likely consequences of that failure
+than with numerous other kinds of instructional errors
+that we have previously held to be non-“structural”—for
+example, instructing a jury as to an invalid alternative
+theory of guilt, Hedgpeth v. Pulido, 555 U. S. ___ (2008)
+(per curiam), omitting mention of an element of an offense,
+Neder v. United States, 527 U. S. 1 (1999), or erroneously
+instructing the jury on an element, Yates v. Evatt, 500
+U. S. 391 (1991); Carella v. California, 491 U. S. 263
+(1989) (per curiam); Pope v. Illinois, 481 U. S. 497 (1987);
+Rose v. Clark, 478 U. S. 570 (1986).
+Marcus argues that, like the Second Circuit, we should
+apply the label “Ex Post Facto Clause violation” to the
+error in this case, and that we should then treat all errors
+
+

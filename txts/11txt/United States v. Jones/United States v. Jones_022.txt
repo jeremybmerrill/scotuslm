@@ -1,0 +1,42 @@
+2
+
+UNITED STATES v. JONES
+ALITO, J., concurring in judgment
+
+This holding, in my judgment, is unwise. It strains the
+language of the Fourth Amendment; it has little if any
+support in current Fourth Amendment case law; and it is
+highly artificial.
+I would analyze the question presented in this case by
+asking whether respondent’s reasonable expectations of
+privacy were violated by the long-term monitoring of the
+movements of the vehicle he drove.
+I
+
+A
+
+The Fourth Amendment prohibits “unreasonable
+searches and seizures,” and the Court makes very little
+effort to explain how the attachment or use of the GPS
+device fits within these terms. The Court does not contend
+that there was a seizure. A seizure of property occurs
+when there is “some meaningful interference with an individual’s possessory interests in that property,” United
+States v. Jacobsen, 466 U. S. 109, 113 (1984), and here
+there was none. Indeed, the success of the surveillance
+technique that the officers employed was dependent on
+the fact that the GPS did not interfere in any way with
+the operation of the vehicle, for if any such interference had
+been detected, the device might have been discovered.
+The Court does claim that the installation and use of the
+GPS constituted a search, see ante, at 3–4, but this conclusion is dependent on the questionable proposition that
+these two procedures cannot be separated for purposes of
+Fourth Amendment analysis. If these two procedures are
+analyzed separately, it is not at all clear from the Court’s
+opinion why either should be regarded as a search. It is
+clear that the attachment of the GPS device was not itself
+a search; if the device had not functioned or if the officers
+had not used it, no information would have been obtained.
+And the Court does not contend that the use of the device
+constituted a search either. On the contrary, the Court
+
+

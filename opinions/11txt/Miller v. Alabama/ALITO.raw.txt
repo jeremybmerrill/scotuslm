@@ -1,0 +1,314 @@
+Cite as: 567 U. S. ____ (2012)
+
+1
+
+ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+Nos. 10–9646 and 10–9647
+_________________
+
+10–9646
+
+EVAN MILLER, PETITIONER
+v.
+ALABAMA
+
+ON WRIT OF CERTIORARI TO THE COURT OF CRIMINAL
+
+
+
+APPEALS OF ALABAMA
+
+
+
+
+10–9647
+
+KUNTRELL JACKSON, PETITIONER
+v.
+RAY HOBBS, DIRECTOR, ARKANSAS
+DEPARTMENT OF CORRECTION
+
+ON WRIT OF CERTIORARI TO THE SUPREME COURT
+
+
+
+OF ARKANSAS
+
+
+
+[June 25, 2012]
+
+
+
+
+JUSTICE ALITO, with whom JUSTICE SCALIA joins,
+dissenting.
+The Court now holds that Congress and the legislatures
+of the 50 States are prohibited by the Constitution from
+identifying any category of murderers under the age of 18
+who must be sentenced to life imprisonment without
+parole. Even a 17½-year-old who sets off a bomb in a
+crowded mall or guns down a dozen students and teachers is a “child” and must be given a chance to persuade
+a judge to permit his release into society. Nothing in
+the Constitution supports this arrogation of legislative
+authority.
+The Court long ago abandoned the original meaning of
+the Eighth Amendment, holding instead that the prohibition of “cruel and unusual punishment” embodies the
+“evolving standards of decency that mark the progress of a
+maturing society.” Trop v. Dulles, 356 U. S. 86, 101 (1958)
+
+
+2
+
+MILLER v. ALABAMA
+ALITO, J., dissenting
+
+(plurality opinion); see also Graham v. Florida, 560 U. S.
+___, ___ (2010) (slip op., at 7); Kennedy v. Louisiana, 554
+U. S. 407, 419 (2008); Roper v. Simmons, 543 U. S. 551,
+560–561 (2005); Atkins v. Virginia, 536 U. S. 304, 311–312
+(2002); Hudson v. McMillian, 503 U. S. 1, 8 (1992); Ford v.
+Wainwright, 477 U. S. 399, 406 (1986); Rhodes v. Chapman, 452 U. S. 337, 346 (1981); Estelle v. Gamble, 429
+U. S. 97, 102 (1976). Both the provenance and philosophical basis for this standard were problematic from the
+start. (Is it true that our society is inexorably evolving in
+the direction of greater and greater decency? Who says
+so, and how did this particular philosophy of history find
+its way into our fundamental law? And in any event,
+aren’t elected representatives more likely than unaccount­
+able judges to reflect changing societal standards?) But at
+least at the start, the Court insisted that these “evolving
+standards” represented something other than the personal
+views of five Justices. See Rummel v. Estelle, 445 U. S.
+263, 275 (1980) (explaining that “the Court’s Eighth
+Amendment judgments should neither be nor appear to
+be merely the subjective views of individual Justices”). In­
+stead, the Court looked for objective indicia of our society’s
+moral standards and the trajectory of our moral “evolu­
+tion.” See id., at 274–275 (emphasizing that “ ‘judgment
+should be informed by objective factors to the maximum
+possible extent’ ” (quoting Coker v. Georgia, 433 U. S. 584,
+592 (1977) (plurality opinion))).
+In this search for objective indicia, the Court toyed with
+the use of public opinion polls, see Atkins, supra, at 316,
+n. 21, and occasionally relied on foreign law, see Roper v.
+Simmons, supra, at 575; Enmund v. Florida, 458 U. S.
+782, 796, n. 22 (1982); Thompson v. Oklahoma, 487 U. S.
+815, 830–831 (1988); Coker, 433 U. S., at 596, n. 10 (plu­
+rality opinion).
+In the main, however, the staple of this inquiry was the
+tallying of the positions taken by state legislatures. Thus,
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+ALITO, J., dissenting
+
+in Coker, which held that the Eighth Amendment prohib­
+its the imposition of the death penalty for the rape of an
+adult woman, the Court noted that only one State permit­
+ted that practice. Id., at 595–596. In Enmund, where the
+Court held that the Eighth Amendment forbids capital
+punishment for ordinary felony murder, both federal law
+and the law of 28 of the 36 States that authorized the
+death penalty at the time rejected that punishment. 458
+U. S., at 789.
+While the tally in these early cases may be character­
+ized as evidence of a national consensus, the evidence
+became weaker and weaker in later cases. In Atkins,
+which held that low-IQ defendants may not be sentenced
+to death, the Court found an anti–death-penalty consen­
+sus even though more than half of the States that allowed
+capital punishment permitted the practice. See 536 U. S.,
+at 342 (SCALIA, J., dissenting) (observing that less than
+half of the 38 States that permit capital punishment
+have enacted legislation barring execution of the mentally
+retarded). The Court attempted to get around this prob­
+lem by noting that there was a pronounced trend against
+this punishment. See id., at 313–315 (listing 18 States
+that had amended their laws since 1986 to prohibit the
+execution of mentally retarded persons).
+The importance of trend evidence, however, was not
+long lived. In Roper, which outlawed capital punishment
+for defendants between the ages of 16 and 18, the lineup of
+the States was the same as in Atkins, but the trend in
+favor of abolition—five States during the past 15 years—
+was less impressive. Roper, 543 U. S., at 564–565. Never­
+theless, the Court held that the absence of a strong trend
+in support of abolition did not matter. See id., at 566
+(“Any difference between this case and Atkins with respect
+to the pace of abolition is thus counterbalanced by the
+consistent direction of the change”).
+In Kennedy v. Louisiana, the Court went further. Hold­
+
+
+4
+
+MILLER v. ALABAMA
+ALITO, J., dissenting
+
+ing that the Eighth Amendment prohibits capital punish­
+ment for the brutal rape of a 12-year-old girl, the Court
+disregarded a nascent legislative trend in favor of permitting capital punishment for this narrowly defined and
+heinous crime. See 554 U. S., at 433 (explaining that,
+although “the total number of States to have made child
+rape a capital offense . . . is six,” “[t]his is not an indication
+of a trend or change in direction comparable to the one
+supported by data in Roper”). The Court felt no need to
+see whether this trend developed further—perhaps be­
+cause true moral evolution can lead in only one direction.
+And despite the argument that the rape of a young child
+may involve greater depravity than some murders, the
+Court proclaimed that homicide is categorically different
+from all (or maybe almost all) other offenses. See id.,
+at 438 (stating that nonhomicide crimes, including child
+rape, “may be devastating in their harm . . . but in terms
+of moral depravity and of the injury to the person and
+to the public, they cannot be compared to murder in their
+severity and irrevocability” (internal quotation marks
+and citation omitted)). As the Court had previously put
+it, “death is different.” Ford, supra, at 411 (plurality
+opinion).
+Two years after Kennedy, in Graham v. Florida, any
+pretense of heeding a legislative consensus was discarded.
+In Graham, federal law and the law of 37 States and the
+District of Columbia permitted a minor to be sentenced to
+life imprisonment without parole for nonhomicide crimes,
+but despite this unmistakable evidence of a national con­
+sensus, the Court held that the practice violates the
+Eighth Amendment. See 560 U. S., at ___ (THOMAS, J.,
+dissenting) (slip op., at 1–3). The Court, however, drew a
+distinction between minors who murder and minors who
+commit other heinous offenses, so at least in that sense
+the principle that death is different lived on.
+Today, that principle is entirely put to rest, for here we
+
+
+Cite as: 567 U. S. ____ (2012)
+
+5
+
+ALITO, J., dissenting
+
+are concerned with the imposition of a term of imprison­
+ment on offenders who kill. The two (carefully selected)
+cases before us concern very young defendants, and de­
+spite the brutality and evident depravity exhibited by at
+least one of the petitioners, it is hard not to feel sympathy
+for a 14-year-old sentenced to life without the possibility of
+release. But no one should be confused by the particulars
+of the two cases before us. The category of murderers that
+the Court delicately calls “children” (murderers under the
+age of 18) consists overwhelmingly of young men who are
+fast approaching the legal age of adulthood. Evan Miller
+and Kuntrell Jackson are anomalies; much more typical
+are murderers like Christopher Simmons, who committed
+a brutal thrill-killing just seven months shy of his 18th
+birthday. Roper, 543 U. S., at 556.
+Seventeen-year-olds commit a significant number of
+murders every year,1 and some of these crimes are incred­
+ibly brutal. Many of these murderers are at least as ma­
+ture as the average 18-year-old. See Thompson, 487 U. S.,
+at 854 (O’Connor, J., concurring in judgment) (noting that
+maturity may “vary widely among different individuals of
+the same age”). Congress and the legislatures of 43 States
+have concluded that at least some of these murderers
+should be sentenced to prison without parole, and 28
+States and the Federal Government have decided that for
+some of these offenders life without parole should be man­
+datory. See Ante, at 20–21, and nn. 9–10. The majority of
+this Court now overrules these legislative judgments.2
+——————
+1 Between
+
+2002 and 2010, 17-year-olds committed an average com­
+bined total of 424 murders and nonnegligent homicides per year. See
+Dept. of Justice, Bureau of Justice Statistics, §4, Arrests, Age of per­
+sons arrested (Table 4.7).
+2 As the Court noted in Mistretta v. United States, 488 U. S. 361, 366
+(1989), Congress passed the Sentencing Reform Act of 1984 to eliminate
+discretionary sentencing and parole because it concluded that these
+practices had led to gross abuses. The Senate Report for the 1984 bill
+
+
+6
+
+MILLER v. ALABAMA
+ALITO, J., dissenting
+
+It is true that, at least for now, the Court apparently
+permits a trial judge to make an individualized decision
+that a particular minor convicted of murder should be
+sentenced to life without parole, but do not expect this
+possibility to last very long. The majority goes out of its
+way to express the view that the imposition of a sentence
+of life without parole on a “child” (i.e., a murderer under
+the age of 18) should be uncommon. Having held in Graham that a trial judge with discretionary sentencing
+authority may not impose a sentence of life without parole
+on a minor who has committed a nonhomicide offense, the
+Justices in the majority may soon extend that holding to
+minors who commit murder. We will see.
+What today’s decision shows is that our Eighth Amend­
+ment cases are no longer tied to any objective indicia of
+society’s standards. Our Eighth Amendment case law is
+now entirely inward looking. After entirely disregarding
+objective indicia of our society’s standards in Graham, the
+Court now extrapolates from Graham. Future cases may
+extrapolate from today’s holding, and this process may
+continue until the majority brings sentencing practices
+into line with whatever the majority views as truly
+evolved standards of decency.
+The Eighth Amendment imposes certain limits on the
+——————
+rejected what it called the “outmoded rehabilitation model” for federal
+criminal sentencing. S. Rep. No. 98–225, p. 38 (1983). According to
+the Report, “almost everyone involved in the criminal justice system now
+doubts that rehabilitation can be induced reliably in a prison setting,
+and it is now quite certain that no one can really detect whether or
+when a prisoner is rehabilitated.” Ibid. The Report also “observed that
+the indeterminate-sentencing system had two ‘unjustifi[ed] and ‘shame­
+ful’ consequences. The first was the great variation among sentences
+imposed by different judges upon similarly situated offenders. The
+second was uncertainty as to the time the offender would spend in
+prison. Each was a serious impediment to an evenhanded and effective
+operation of the criminal justice system.” Mistretta, supra, at 366
+(quoting S. Rep. No. 98–225, at 38, 65 (citation omitted)).
+
+
+Cite as: 567 U. S. ____ (2012)
+
+7
+
+ALITO, J., dissenting
+
+sentences that may be imposed in criminal cases, but for
+the most part it leaves questions of sentencing policy to be
+determined by Congress and the state legislatures—and
+with good reason. Determining the length of imprison­
+ment that is appropriate for a particular offense and a
+particular offender inevitably involves a balancing of in­
+terests. If imprisonment does nothing else, it removes
+the criminal from the general population and prevents
+him from committing additional crimes in the outside
+world. When a legislature prescribes that a category of
+killers must be sentenced to life imprisonment, the legisla­
+ture, which presumably reflects the views of the elec­
+torate, is taking the position that the risk that these
+offenders will kill again outweighs any countervailing
+consideration, including reduced culpability due to imma­
+turity or the possibility of rehabilitation. When the major­
+ity of this Court countermands that democratic decision,
+what the majority is saying is that members of society
+must be exposed to the risk that these convicted murder­
+ers, if released from custody, will murder again.
+Unless our cases change course, we will continue to
+march toward some vision of evolutionary culmination
+that the Court has not yet disclosed. The Constitution
+does not authorize us to take the country on this journey.
+
+

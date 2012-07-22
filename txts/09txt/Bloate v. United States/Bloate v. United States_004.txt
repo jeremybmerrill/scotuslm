@@ -1,0 +1,53 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–728
+_________________
+
+TAYLOR JAMES BLOATE, PETITIONER v. UNITED 
+
+STATES 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE EIGHTH CIRCUIT
+
+[March 8, 2010] 
+
+
+JUSTICE THOMAS delivered the opinion of the Court.
+The Speedy Trial Act of 1974 (Speedy Trial Act or Act),
+18 U. S. C. §3161 et seq., requires that a criminal defen
+dant’s trial commence within 70 days after he is charged
+or makes an initial appearance, whichever is later, see
+§3161(c)(1), and entitles him to dismissal of the charges if
+that deadline is not met, §3162(a)(2). The Act, however,
+excludes from the 70-day period delays due to certain
+enumerated events. §3161(h). As relevant here, “delay
+resulting from . . . proceedings concerning the defendant”
+is automatically excludable from a Speedy Trial Act calcu
+lation.1 18 U. S. C. A. §3161(h)(1) (Supp. 2009) (hereinaf
+——————
+1 The excludability of delay “resulting from . . . proceedings” under
+subsection (h)(1) is “automatic” in the sense that a district court must
+exclude such delay from a Speedy Trial Act calculation without any
+further analysis as to whether the benefit of the delay outweighs its
+cost. For delays resulting from proceedings under subsection (h)(1),
+Congress already has determined that the benefit of such delay out
+weighs its cost to a speedy trial, regardless of the specifics of the case.
+The word “automatic” serves as a useful shorthand. See, e.g., United
+States v. Lucky, 569 F. 3d 101, 106 (CA2 2009) (“Some exclusions are
+automatic. Other exclusions require judicial action” (citation omitted)).
+
+

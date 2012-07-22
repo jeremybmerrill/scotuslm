@@ -1,0 +1,43 @@
+6
+
+DAVIS v. UNITED STATES
+BREYER, J., dissenting
+
+rights,” ibid. (internal quotation marks omitted). But
+those benefits do not justify exclusion where, as here, the
+police act with “simple, isolated negligence” or an “objec
+tively reasonable good-faith belief that their conduct is
+lawful,” ibid. (internal quotation marks omitted).
+If the Court means what it says, what will happen to the
+exclusionary rule, a rule that the Court adopted nearly a
+century ago for federal courts, Weeks v. United States, 232
+U. S. 383, and made applicable to state courts a half cen
+tury ago through the Fourteenth Amendment, Mapp v.
+Ohio, 367 U. S. 643? The Court has thought of that rule
+not as punishment for the individual officer or as repara
+tion for the individual defendant but more generally as
+an effective way to secure enforcement of the Fourth
+Amendment’s commands. Weeks, supra, at 393 (without
+the exclusionary rule, the Fourth Amendment would be “of
+no value,” and “might as well be stricken from the Consti
+tution”). This Court has deviated from the “suppression”
+norm in the name of “good faith” only a handful of times
+and in limited, atypical circumstances: where a magistrate
+has erroneously issued a warrant, United States v. Leon,
+468 U. S. 897 (1984); where a database has erroneously
+informed police that they have a warrant, Arizona v.
+Evans, 514 U. S. 1 (1995), Herring v. United States, 555
+U. S. 135 (2009); and where an unconstitutional statute
+purported to authorize the search, Illinois v. Krull, 480
+U. S. 340 (1987). See Herring, supra, at 142 (“good faith”
+exception inaptly named).
+The fact that such exceptions are few and far between is
+understandable. Defendants frequently move to suppress
+evidence on Fourth Amendment grounds. In many, per
+haps most, of these instances the police, uncertain of how
+the Fourth Amendment applied to the particular factual
+circumstances they faced, will have acted in objective good
+faith. Yet, in a significant percentage of these instances,
+courts will find that the police were wrong. And, unless
+
+

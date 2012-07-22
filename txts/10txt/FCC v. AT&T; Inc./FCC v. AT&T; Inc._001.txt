@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+FEDERAL COMMUNICATIONS COMMISSION ET AL. v.
+AT&T INC. ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE THIRD CIRCUIT
+No. 09–1279. Argued January 19, 2011—Decided March 1, 2011
+The Freedom of Information Act requires federal agencies to make re
+cords and documents publicly available upon request, subject to sev
+eral statutory exemptions. One of those exemptions, Exemption 7(C),
+covers law enforcement records the disclosure of which “could rea
+sonably be expected to constitute an unwarranted invasion of per
+sonal privacy.” 5 U. S. C. §552(b)(7)(C). CompTel, a trade associa
+tion, submitted a FOIA request for documents AT&T had provided to
+the Federal Communications Commission Enforcement Bureau dur
+ing an investigation of that company. The Bureau found that Ex
+emption 7(C) applied to individuals identified in AT&T’s submissions
+but not to the company itself, concluding that corporations do not
+have “personal privacy” interests as required by the exemption. The
+FCC agreed with the Bureau, but the Court of Appeals for the Third
+Circuit did not. It held that Exemption 7(C) extends to the “personal
+privacy” of corporations, reasoning that “personal” is the adjective
+form of the term “person,” which Congress has defined, as applicable
+here, to include corporations, §551(2).
+Held: Corporations do not have “personal privacy” for the purposes of
+Exemption 7(C). Pp. 3–12.
+(a) AT&T argues that the word “personal” in Exemption 7(C) incor
+porates the statutory definition of “person,” which includes corpora
+tions, §551(2). But adjectives do not always reflect the meaning of
+corresponding nouns. “Person” is a defined term in the statute; “per
+sonal” is not. When a statute does not define a term, the Court typi
+cally “give[s] the phrase its ordinary meaning.” Johnson v. United
+States, 559 U. S. ___, ___. “Personal” ordinarily refers to individuals.
+People do not generally use terms such as personal characteristics or
+
+

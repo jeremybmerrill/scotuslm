@@ -1,0 +1,39 @@
+10
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+ment as the basis for a conclusion, because the statement’s
+utility is then dependent on its truth. If the statement is
+true, then the conclusion based on it is probably true; if
+not, not. So to determine the validity of the witness’s
+conclusion, the factfinder must assess the truth of the outof-court statement on which it relies. That is why the
+principal modern treatise on evidence variously calls the
+idea that such “basis evidence” comes in not for its truth,
+but only to help the factfinder evaluate an expert’s opinion “very weak,” “factually implausible,” “nonsense,” and
+“sheer fiction.” D. Kaye, D. Bernstein, & J. Mnookin, The
+New Wigmore: Expert Evidence §4.10.1, pp. 196–197 (2d
+ed. 2011); id., §4.11.6, at 24 (Supp. 2012). “One can sympathize,” notes that treatise, “with a court’s desire to
+permit the disclosure of basis evidence that is quite probably reliable, such as a routine analysis of a drug, but to
+pretend that it is not being introduced for the truth of its
+contents strains credibility.” Id., §4.10.1, at 198 (2d ed.
+2011); see also, e.g., People v. Goldstein, 6 N. Y. 3d 119,
+128, 843 N. E. 2d 727, 732–733 (2005) (“The distinction
+between a statement offered for its truth and a statement
+offered to shed light on an expert’s opinion is not meaningful”). Unlike in Street, admission of the out-of-court
+statement in this context has no purpose separate from its
+truth; the factfinder can do nothing with it except assess
+its truth and so the credibility of the conclusion it serves to
+buttress.1
+——————
+1 In responding to this reasoning, the plurality confirms it. According
+to the plurality, basis evidence supports the “credibility of the expert’s
+opinion” by showing that he has relied on, and drawn logical inferences
+from, sound “factual premises.” Ante, at 24. Quite right. And that
+process involves assessing such premises’ truth: If they are, as the
+plurality puts it, “unsupported by other evidence in the record” or
+otherwise baseless, they will not “allay [a factfinder’s] fears” about an
+“expert’s reasoning.” Ante, at 24–25. I could not have said it any
+better.
+
+

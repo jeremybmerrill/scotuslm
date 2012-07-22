@@ -1,0 +1,43 @@
+12
+
+BILSKI v. KAPPOS
+STEVENS, J., concurring in judgment
+
+argued that because “a word” in a statute “is given more
+precise content by the neighboring words with which it”
+associates, United States v. Williams, 553 U. S. 285, 294
+(2008), we may draw inferences from the fact that “[t]he
+other three statutory categories of patent-eligible subject
+matter identified in Section 101—‘machine, manufacture,
+or composition of matter’—all ‘are things made by man,
+and involve technology.’ ” Brief for Respondent 26. Spe
+cifically, the Government submits, we may infer “that the
+term ‘process’ is limited to technological and industrial
+methods.” Ibid. The Court rejects this submission cate
+gorically, on the ground that “§100(b) already explicitly
+defines the term ‘process.’ ” Ante, at 6. But §100(b) de
+fines the term “process” by using the term “process,” as
+well as several other general terms. This is not a case,
+then, in which we must either “follow” a definition, ante, at
+7, or rely on neighboring words to understand the scope of
+an ambiguous term. The definition itself contains the very
+ambiguous term that we must define.
+In my view, the answer lies in between the Govern
+ment’s and the Court’s positions: The terms adjacent to
+“process” in §101 provide a clue as to its meaning, al
+though not a very strong clue. Section 101’s list of catego
+ries of patentable subject matter is phrased in the disjunc
+tive, suggesting that the term “process” has content
+distinct from the other items in the list. It would therefore
+be illogical to “rob” the word “process” of all independent
+meaning. Reiter v. Sonotone Corp., 442 U. S. 330, 338
+(1979). Moreover, to the extent we can draw inferences
+about what is a “process” from common attributes in §101,
+it is a dangerous endeavor to do so on the basis of a per
+ceived overarching theme. Given the many moving parts
+at work in the Patent Act, there is a risk of merely con
+firming our preconceived notions of what should be pat
+entable or of seeing common attributes that track “the
+familiar issues of novelty and obviousness” that arise
+
+

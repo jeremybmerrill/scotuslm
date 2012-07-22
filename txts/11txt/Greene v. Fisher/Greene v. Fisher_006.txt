@@ -1,0 +1,40 @@
+4
+
+GREENE v. FISHER
+Opinion of the Court
+
+reasonable determination of the facts in light of the
+evidence presented in the State court proceeding.”
+The issue here pertains to the first exception. We have
+said that its standard of “contrary to, or involv[ing] an
+unreasonable application of, clearly established Federal
+law” is “difficult to meet,” because the purpose of AEDPA
+is to ensure that federal habeas relief functions as a
+“ ‘guard against extreme malfunctions in the state criminal
+justice systems,’ ” and not as a means of error correction.
+Harrington v. Richter, 562 U. S. ___, ___ (2011) (slip op., at
+12–13) (quoting Jackson v. Virginia, 443 U. S. 307, 332,
+n. 5 (1979) (Stevens, J., concurring in judgment)).
+In light of that objective, and relying upon the text of
+the provision, we held last Term, in Cullen v. Pinholster,
+563 U. S. ___ (2011), that review under §2254(d)(1) is
+limited to the record that was before the state court that
+adjudicated the prisoner’s claim on the merits. We said
+that the provision’s “backward-looking language requires
+an examination of the state-court decision at the time it
+was made.” Id., at ___ (slip op., at 9). The reasoning of
+Cullen determines the result here. As we explained,
+§2254(d)(1) requires federal courts to “focu[s] on what a
+state court knew and did,” and to measure state-court
+decisions “against this Court’s precedents as of ‘the time
+the state court renders its decision.’ ” Id., at __ (slip op., at
+10) (quoting Lockyer v. Andrade, 538 U. S. 63, 71–72
+(2003); emphasis added).
+Greene resists that conclusion by appealing to our decision in Teague v. Lane, 489 U. S. 288 (1989). Teague held
+that, with two exceptions not pertinent here, a prisoner
+seeking federal habeas relief may rely on new constitutional rules of criminal procedure announced before the
+prisoner’s conviction became final. Id., at 310 (plurality
+opinion); see also Penry v. Lynaugh, 492 U. S. 302, 313
+(1989) (affirming and applying Teague rule). Finality
+
+

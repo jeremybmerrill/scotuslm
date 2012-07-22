@@ -1,0 +1,35 @@
+2
+
+HOWES v. FIELDS
+Syllabus
+
+Held:
+1. This Court’s precedents do not clearly establish the categorical
+rule on which the Sixth Circuit relied. The Court has repeatedly declined to adopt any such rule. See, e.g., Illinois v. Perkins, 496 U. S.
+292. The Sixth Circuit misread Mathis, which simply held, as relevant here, that a prisoner who otherwise meets the requirements for
+Miranda custody is not taken outside the scope of Miranda because
+he was incarcerated for an unconnected offense. It did not hold that
+imprisonment alone constitutes Miranda custody. Nor does the
+statement in Maryland v. Shatzer, 559 U. S. ___, ___, that “[n]o one
+questions that [inmate] Shatzer was in custody for Miranda purposes” support a per se rule. It means only that the issue of custody was
+not contested in that case. Finally, contrary to respondent’s suggestion, Miranda itself did not hold that the inherently compelling pressures of custodial interrogation are always present when a prisoner is
+taken aside and questioned about events outside the prison walls.
+Pp. 4–7.
+2. The Sixth Circuit’s categorical rule—that imprisonment, questioning in private, and questioning about events in the outside world
+create a custodial situation for Miranda purposes—is simply wrong.
+Pp. 8–13.
+(a) The initial step in determining whether a person is in Miranda custody is to ascertain, given “all of the circumstances surrounding the interrogation,” how a suspect would have gauged his freedom
+of movement. Stansbury v. California, 511 U. S. 318, 322, 325. However, not all restraints on freedom of movement amount to Miranda
+custody. See, e.g., Berkemer v. McCarty, 468 U. S. 420, 423. Shatzer,
+distinguishing between restraints on freedom of movement and Miranda custody, held that a break in Miranda custody between a suspect’s invocation of the right to counsel and the initiation of subsequent questioning may occur while a suspect is serving an
+uninterrupted term of imprisonment. If a break in custody can occur,
+it must follow that imprisonment alone is not enough to create a custodial situation within the meaning of Miranda. At least three strong
+grounds support this conclusion: Questioning a person who is already
+in prison does not generally involve the shock that very often accompanies arrest; a prisoner is unlikely to be lured into speaking by a
+longing for prompt release; and a prisoner knows that his questioners
+probably lack authority to affect the duration of his sentence. Thus,
+service of a prison term, without more, is not enough to constitute
+Miranda custody. Pp. 8–12.
+(b) The other two elements in the Sixth Circuit’s rule are likewise insufficient. Taking a prisoner aside for questioning may necessitate some additional limitations on the prisoner’s freedom of move-
+
+

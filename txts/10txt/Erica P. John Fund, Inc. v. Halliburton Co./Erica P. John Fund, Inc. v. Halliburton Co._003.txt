@@ -1,0 +1,33 @@
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+causation, by contrast, requires a plaintiff to show that the misrepre
+sentation caused a subsequent economic loss. That has nothing to do
+with whether an investor relied on that misrepresentation in the first
+place, either directly or through the fraud-on-the-market theory. The
+Court of Appeals’ rule contravenes Basic’s fundamental premise—
+that an investor presumptively relies on a misrepresentation so long
+as it was reflected in the market price at the time of his transaction.
+Pp. 5–8.
+(c) Halliburton concedes that securities fraud plaintiffs should not
+be required to prove loss causation in order to invoke Basic’s pre
+sumption of reliance. Halliburton nonetheless defends the judgment
+below on the ground that the Court of Appeals did not actually re
+quire EPJ Fund to prove “loss causation” as the Court has used that
+term. According to Halliburton, “loss causation” was shorthand for a
+different analysis. The lower court’s actual inquiry, Halliburton in
+sists, was whether EPJ Fund had demonstrated “price impact”—that
+is, whether the alleged misrepresentations affected the market price
+in the first place.
+The Court does not accept Halliburton’s interpretation of the Court
+of Appeals’ opinion. Loss causation is a familiar and distinct concept
+in securities law; it is not price impact. Whatever Halliburton thinks
+the Court of Appeals meant to say, what it said was loss causation.
+The Court takes the Court of Appeals at its word. Based on those
+words, the decision below cannot stand. Pp. 8–9.
+597 F. 3d 330, vacated and remanded.
+ROBERTS, C. J., delivered the opinion for a unanimous Court.
+
+

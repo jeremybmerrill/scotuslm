@@ -1,0 +1,48 @@
+6
+
+TALK AMERICA, INC. v. MICHIGAN BELL 
+
+TELEPHONE CO.
+Opinion of the Court 
+
+
+
+
+
+cumbent LECs’ interconnection obligations, including the
+obligation to lease entrance facilities for interconnection.
+The Sixth Circuit declined to defer to the FCC’s views, 597
+F. 3d, at 375, n. 6, and also expressly disagreed with the
+Seventh and Eighth Circuits, id., at 384–386 (discussing
+Illinois Bell Tel. Co. v. Box, 526 F. 3d 1069 (2008),
+and Southwestern Bell Tel., L. P. v. Missouri Pub. Serv.
+Comm’n, 530 F. 3d 676 (2008)).3
+We granted certiorari, 562 U. S. ___ (2010), and now
+reverse.
+II
+Petitioners contend that AT&T must lease its existing
+entrance facilities for interconnection at cost-based rates.
+We agree.
+A
+No statute or regulation squarely addresses whether an
+incumbent LEC must provide access to entrance facilities
+at cost-based rates as part of its interconnection duty
+under §251(c)(2). According to the statute, each incum­
+bent LEC has:
+“The duty to provide, for the facilities and equip­
+ment of any requesting telecommunications carrier,
+interconnection with the local exchange carrier’s net­
+work—
+“(A) for the transmission and routing of telephone
+exchange service and exchange access;
+“(B) at any technically feasible point within the car­
+rier’s network;
+“(C) that is at least equal in quality to that provided
+by the local exchange carrier to itself or to any sub­
+sidiary, affiliate, or any other party to which the car­
+——————
+3 The Ninth Circuit has since joined the Seventh and Eighth Circuits.
+Pacific Bell Tel. Co. v. California Pub. Util. Comm’n, 621 F. 3d 836
+(2010).
+
+

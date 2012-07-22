@@ -1,0 +1,323 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+CEDRICK B. ALDERMAN v. UNITED STATES
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED 
+
+STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 09–1555. Decided January 10, 2011
+
+
+The petition for a writ of certiorari is denied.
+JUSTICE THOMAS, with whom JUSTICE SCALIA joins
+except for footnote 2, dissenting from the denial of certio
+rari.
+Today the Court tacitly accepts the nullification of our
+recent Commerce Clause jurisprudence. Joining other
+Circuits, the Court of Appeals for the Ninth Circuit has
+decided that an “implic[it] assum[ption]” of constitutional
+ity in a 33-year old statutory interpretation opinion
+“carve[s] out” a separate constitutional place for statutes
+like the one in this case and pre-empts a “careful parsing
+of post-Lopez case law.” 565 F. 3d 641, 645, 647, 648
+(2009) (citing Scarborough v. United States, 431 U. S. 563
+(1977)). That logic threatens the proper limits on Con
+gress’ commerce power and may allow Congress to exer
+cise police powers that our Constitution reserves to the
+States. I would grant certiorari.
+I
+Title 18 U. S. C. §931(a) makes it “unlawful for a person
+to purchase, own, or possess body armor, if that person
+has been convicted of a felony that is . . . a crime of vio
+lence.” James Guelff and Chris McCurley Body Armor Act
+of 2002, §11009(e)(2)(A), 116 Stat. 1821. The statute
+defines “body armor” as “any product sold or offered for
+sale, in interstate or foreign commerce, as personal protec
+tive body covering intended to protect against gunfire.” 18
+U. S. C. §921(a)(35).
+In October 2005, federal prosecutors indicted Cedrick
+
+
+2
+
+ALDERMAN v. UNITED STATES
+THOMAS, J., dissenting
+
+Alderman under §931. Seattle police had stopped Alder
+man on suspicion of selling cocaine. The officers found no
+cocaine but discovered that Alderman was wearing a
+bulletproof vest. Although possession of the vest was legal
+under Washington state law, the elements of §931 were
+satisfied. Alderman had been convicted of robbery in
+1999, and the vest had been sold in interstate commerce
+three years earlier when the California manufacturer sold
+it to a distributor in Washington State. 565 F. 3d, at 644.
+There were no allegations that Alderman had purchased
+the body armor from another State or ever carried it
+across state lines.
+Alderman entered a conditional guilty plea and was
+sentenced to 18 months in prison. He then appealed,
+arguing that §931 exceeded Congress’ power under the
+Commerce Clause. U. S. Const., Art. I, §8, cl. 3. Over a
+dissent, a panel of the Ninth Circuit found §931 constitu
+tional. 565 F. 3d, at 648; ibid. (Paez, J., dissenting). The
+Ninth Circuit denied rehearing en banc, with four judges
+dissenting. 593 F. 3d 1141 (2010) (O’Scannlain, J., dis
+senting from denial of rehearing en banc).
+II
+This Court has consistently recognized that the Consti
+tution imposes real limits on federal power. See Gregory
+v. Ashcroft, 501 U. S. 452, 457 (1991); Marbury v. Madi
+son, 1 Cranch 137, 176 (1803) (opinion for the Court by
+Marshall, C. J.) (“The powers of the legislature are de
+fined, and limited; and that those limits may not be mis
+taken, or forgotten, the constitution is written”). It follows
+from the enumeration of specific powers that there are
+boundaries to what the Federal Government may do. See,
+e.g., Gibbons v. Ogden, 9 Wheat. 1, 195 (1824) (“The enu
+meration presupposes something not enumerated . . .”).
+The Constitution “withhold[s] from Congress a plenary
+police power that would authorize enactment of every type
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+THOMAS, J., dissenting
+
+of legislation.” United States v. Lopez, 514 U. S. 549, 566
+(1995).
+Recently we have endeavored to more sharply define
+and enforce limits on Congress’ enumerated “[p]ower . . .
+[t]o regulate Commerce . . . among the several States.”
+U. S. Const., Art. I, §8, cl. 3. Lopez marked the first time
+in half a century that this Court held that an Act of Con
+gress exceeded its commerce power. We identified three
+categories of activity that Congress’ commerce power
+authorizes it to regulate: (1) the use of the channels of
+interstate commerce; (2) the instrumentalities of inter
+state commerce; and (3) “activities having a substantial
+relation to interstate commerce . . . i.e., those activities
+that substantially affect interstate commerce.” 514 U. S.,
+at 558–559. Emphasizing that we were unwilling to “con
+vert congressional authority under the Commerce Clause
+to a general police power,” id., at 567, we struck down a
+ban on the possession of firearms within a 1,000-foot
+radius of schools because the statute did not regulate an
+activity that “substantially affect[ed]” interstate com
+merce, id., at 561.
+Five years after Lopez, we reaffirmed the “substantial
+effects” test in United States v. Morrison, 529 U. S. 598
+(2000). We rejected Congress’ attempt to “regulate none
+conomic, violent criminal conduct based solely on that
+conduct’s aggregate effect on interstate commerce,” and
+held unconstitutional the civil remedy portion of the Vio
+lence Against Women Act of 1994. Id., at 617, 619. We
+could think of “no better example of the police power,
+which the Founders denied the National Government and
+reposed in the States.” Id., at 618.
+III
+In upholding §931(a), the Ninth Circuit recognized that
+Lopez and Morrison had “significantly altered the land
+scape of congressional power under the Commerce Clause”
+
+
+4
+
+ALDERMAN v. UNITED STATES
+THOMAS, J., dissenting
+
+but held that it was guided “first and foremost” by Scar
+borough, supra. 565 F. 3d, at 643, 645. In Scarborough,
+this Court construed 18 U. S. C. App. §1202(a) (1970 ed.),
+which made it a crime for a felon to “receiv[e], posses[s], or
+transpor[t] in commerce or affecting commerce” any fire
+arm. 431 U. S., at 564. The question in that case was
+whether the “statutorily required nexus between the
+possession of a firearm by a convicted felon and commerce”
+could be satisfied by evidence that the gun had once trav
+eled in interstate commerce. Ibid. The Court held that
+such evidence was sufficient, noting that the legislative
+history suggested that Congress wished to assert “ ‘its full
+Commerce Clause power.’ ” Id., at 571. No party alleged
+that the statute exceeded Congress’ authority, and the
+Court did not hold that the statute was constitutional.
+The Ninth Circuit concluded that Scarborough had “im
+plicitly assumed the constitutionality of” §1202(a). 565
+F. 3d, at 645.
+The Ninth Circuit discussed how it might apply Lopez
+and Morrison “when traveling in uncharted waters” but
+ultimately concluded that it was “bound by Scarborough,”
+in which this Court had “blessed” a “nearly identical juris
+dictional hook.” 565 F. 3d, at 648. Although it would
+“generally analyze cases in the framework of th[e] three
+[Lopez] categories,” the Ninth Circuit determined that
+Scarborough had “carved out” a separate constitutional
+niche for statutes like §931(a) and §1202(a). 565 F. 3d, at
+646–647. The Ninth Circuit thus upheld the statute with
+out “engag[ing] in the careful parsing of post-Lopez case
+law that would otherwise be required.” Id., at 648. The
+court recognized a tension between Scarborough and
+Lopez but declined to “deviate from binding precedent.”
+565 F. 3d, at 646.
+The dissent argued that the court had “effectively ren
+der[ed] the Supreme Court’s three-part Commerce Clause
+analysis superfluous.” Id., at 648 (opinion of Paez, J.).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+5
+
+THOMAS, J., dissenting
+
+Scarborough, the dissent explained, “decided only a ques
+tion of statutory interpretation.” 565 F. 3d, at 656. Sec
+tion 931 was, in the dissent’s view, unconstitutional be
+cause applying Lopez, “felon-possession of body armor does
+not have a substantial effect on interstate commerce.” 565
+F. 3d, at 648.
+The Ninth Circuit is not alone in its confusion about
+Scarborough and Lopez. The Tenth Circuit, also uphold
+ing §931 under Scarborough, has observed that “[l]ike our
+sister circuits, we see considerable tension between Scar
+borough and the three-category approach adopted by the
+Supreme Court in its recent Commerce Clause cases.”
+United States v. Patton, 451 F. 3d 615, 636 (2006).1 These
+Circuits have determined that “[a]ny doctrinal inconsis
+tency between Scarborough and the Supreme Court’s more
+recent decisions is not for [us] to remedy,” ibid., and have
+stated their intent to follow Scarborough “until the Su
+preme Court tells us otherwise.” 565 F. 3d, at 648 (inter
+nal quotation marks and brackets omitted).
+IV
+It is difficult to imagine a better case for certiorari.
+Scarborough, as the lower courts have read it, cannot be
+reconciled with Lopez because it reduces the constitutional
+analysis to the mere identification of a jurisdictional
+hook like the one in §1202(a). See 593 F. 3d, at 1142
+(O’Scannlain, J., dissenting from denial of rehearing en
+banc) (“The majority’s opinion makes Lopez superfluous”).
+In fact, the Tenth Circuit has concluded that “[a]lthough
+the body armor statute does not fit within any of the Lopez
+——————
+1 Other Courts of Appeals, considering the constitutionality of differ
+ent possession statutes, have applied Scarborough similarly, although
+the issue has divided some panels. See, e.g., United States v. Bishop, 66
+F. 3d 569 (CA3 1995); id., at 595–596 (Becker, J., concurring in part
+and dissenting in part); United States v. Vasquez, 611 F. 3d 325 (CA7
+2010); id., at 337 (Manion, J., dissenting).
+
+
+6
+
+ALDERMAN v. UNITED STATES
+THOMAS, J., dissenting
+
+categories, it is supported by the pre-Lopez precedent of
+Scarborough.” Patton, supra, at 634.
+Recognizing the conflict between Lopez and their inter
+pretation of Scarborough, the lower courts have cried out
+for guidance from this Court. See 565 F. 3d, at 643
+(“[A]bsent the Supreme Court or our en banc court telling
+us otherwise . . . the felon-in-possession of body armor
+statute passes muster”); Patton, supra, at 636 (“We sus
+pect the Supreme Court will revisit this issue in an appro
+priate case—maybe even this one”). This Court has a duty
+to defend the integrity of its precedents, and we should
+grant certiorari to affirm that Lopez provides the proper
+framework for a Commerce Clause analysis of this type.2
+Further, the lower courts’ reading of Scarborough, by
+trumping the Lopez framework, could very well remove
+any limit on the commerce power. The Ninth Circuit’s
+interpretation of Scarborough seems to permit Congress to
+regulate or ban possession of any item that has ever been
+offered for sale or crossed state lines. Congress arguably
+could outlaw “the theft of a Hershey kiss from a corner
+store in Youngstown, Ohio, by a neighborhood juvenile on
+the basis that the candy once traveled . . . to the store from
+Hershey, Pennsylvania.” United States v. Bishop, 66 F. 3d
+569, 596 (CA3 1995) (Becker, J., concurring in part and
+dissenting in part). The Government actually conceded at
+oral argument in the Ninth Circuit that Congress could
+ban possession of french fries that have been offered for
+sale in interstate commerce.
+Such an expansion of federal authority would trespass
+on traditional state police powers. See Morrison, 529
+U. S., at 618; Lopez, 514 U. S., at 566; id., at 584 (THOMAS,
+——————
+2 I adhere to my previously stated views on the proper scope of the
+Commerce Clause. See United States v. Lopez, 514 U. S. 549, 585
+(1995) (concurring opinion); United States v. Morrison, 529 U. S. 598,
+627 (2000) (same); Gonzales v. Raich, 545 U. S. 1, 57 (2005) (dissenting
+opinion).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+7
+
+THOMAS, J., dissenting
+
+J., concurring) (“[W]e always have rejected readings of the
+Commerce Clause and the scope of federal power that
+would permit Congress to exercise a police power . . .”
+(emphasis in original)). Before Congress enacted §931, the
+majority of States already had employed their police pow
+ers to address body armor and its use or possession by
+criminals. The States’ different regimes range from laws
+requiring sales of body armor to be face-to-face, to laws
+increasing sentences for criminals who commit certain
+crimes with weapons and body armor, to no regulation at
+all.3 Cf. Lopez, supra, at 581 (KENNEDY, J., concurring)
+(noting that more than 40 States had already outlawed
+gun possession at or near schools, and observing that “the
+reserved powers of the States are sufficient to enact those
+measures”).
+*
+*
+*
+Fifteen years ago in Lopez, we took a significant step
+toward reaffirming this Court’s commitment to proper
+constitutional limits on Congress’ commerce power. If the
+——————
+3 At
+
+least 31 States have some form of body armor regulation. For
+instance, Maryland makes it a crime to wear body armor while commit
+ting certain crimes, Md. Crim. Law Code Ann. §4–106 (Lexis Supp.
+2010), and also prohibits individuals who have been convicted of crimes
+of violence or drug crimes from possessing, owning, or using body
+armor, although individuals may be exempted through a permit sys
+tem. §4–107 (Lexis 2002). Virginia makes it a Class 4 felony to wear
+body armor while possessing a knife or firearm and committing a drug
+or violence offense. Va. Code Ann. §18.2–287.2 (Lexis 2009). North
+Carolina, by comparison, enhances all felony offenses by one class level
+if the offender wears or possesses body armor during the commission of
+the felony. N. C. Gen. Stat. Ann. §15A–1340.16C (Lexis 2009). The
+States also define “body armor” in many different ways. See M.
+Puckett, Body Armor: A Survey of State & Federal Law (2d ed. 2004).
+Montana, Hawaii, Alaska, Maine, Nebraska, and Rhode Island, among
+others, have elected not to regulate body armor at all. See United
+States v. Patton, 451 F. 3d 615, 631, n. 7 (CA10 2006) (categorizing the
+various state schemes).
+
+
+8
+
+ALDERMAN v. UNITED STATES
+THOMAS, J., dissenting
+
+Lopez framework is to have any ongoing vitality, it is up to
+this Court to prevent it from being undermined by a 1977
+precedent that does not squarely address the constitu
+tional issue. Lower courts have recognized this problem
+and asked us to grant certiorari. I would do so.
+
+

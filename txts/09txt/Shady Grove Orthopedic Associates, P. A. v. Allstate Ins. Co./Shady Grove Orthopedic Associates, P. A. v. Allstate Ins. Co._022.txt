@@ -1,0 +1,49 @@
+Cite as: 559 U. S. ____ (2010)
+
+19
+
+Opinion of SCALIA, J.
+
+rights without consulting State law: If the Rule creates a
+substantive right, even one that duplicates some state­
+created rights, it establishes a new federal right. But it is
+hard to understand how it can be determined whether a
+Federal Rule “abridges” or “modifies” substantive rights
+without knowing what state-created rights would obtain if
+the Federal Rule did not exist. Sibbach’s exclusive focus
+on the challenged Federal Rule—driven by the very real
+concern that Federal Rules which vary from State to State
+would be chaos, see 312 U. S., at 13–14—is hard to square
+with §2072(b)’s terms.11
+Sibbach has been settled law, however, for nearly seven
+decades.12 Setting aside any precedent requires a “special
+——————
+11 The concurrence’s approach, however, is itself unfaithful to the
+statute’s terms. Section 2072(b) bans abridgement or modification only
+of “substantive rights,” but the concurrence would prohibit pre-emption
+of “procedural rules that are intimately bound up in the scope of a
+substantive right or remedy,” post, at 19. This would allow States to
+force a wide array of parochial procedures on federal courts so long as
+they are “sufficiently intertwined with a state right or remedy.” Post,
+at 13.
+12 The concurrence implies that Sibbach has slipped into desuetude,
+apparently for lack of sufficient citations. See post, at 13–14, n. 14. We
+are unaware of any rule to the effect that a holding of ours expires if
+the case setting it forth is not periodically revalidated. In any event,
+the concurrence’s account of our shunning of Sibbach is greatly exag­
+gerated. Hanna did not merely cite the case, but recognized it as
+establishing the governing rule. 380 U. S., at 464–465, 470–471.
+Mississippi Publishing Corp. v. Murphree, 326 U. S. 438, 445–446
+(1946), likewise cited Sibbach and applied the same test, examining the
+Federal Rule, not the state law it displaced. True, Burlington Northern
+R. Co. v. Woods, 480 U. S. 1 (1987), and for that matter Business
+Guides, Inc. v. Chromatic Communications Enterprises, Inc., 498 U. S.
+533 (1991), did not cite Sibbach. But both cited and followed Hanna—
+which as noted held out Sibbach as setting forth the governing rule.
+See Burlington Northern, supra, at 5–6, 8; Business Guides, supra, at
+552–554. Thus, while Sibbach itself may appear infrequently in the
+U. S. Reports, its rule—and in particular its focus on the Federal Rule
+as the proper unit of analysis—is alive and well.
+In contrast, Hanna’s obscure obiter dictum that a court “need not
+
+

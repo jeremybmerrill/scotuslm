@@ -1,0 +1,46 @@
+8
+
+DOE v. REED
+THOMAS, J., dissenting
+
+wide voter registration database,” §29A.08.651(1),2 to
+ensure that each referendum signer meets Washington’s
+residency and voter registration requirements, see
+§29A.72.130. Doing so presumably would drastically
+reduce or eliminate possible errors or mistakes that Wash
+ington argues the secretary might make, see Brief for
+Respondent Reed 42, since it would allow the secretary to
+verify virtually all of the signatures instead of the mere “3
+to 5%” he “ordinarily checks,” ante, at 9 (internal quota
+tion marks omitted).3
+An electronic referendum database would also enable
+the secretary to determine whether multiple entries corre
+spond to a single registered voter, thereby detecting
+whether a voter had signed the petition more than once.
+In addition, the database would protect victims of “for
+gery” or “ ‘bait and switch’ fraud.” Ibid. In Washington, “a
+unique identifier is assigned to each legally registered
+voter in the state.” §29A.08.651(4). Washington could
+create a Web site, linked to the electronic referendum
+database, where a voter concerned that his name had been
+fraudulently signed could conduct a search using his
+unique identifier to ensure that his name was absent from
+the database—without requiring disclosure of the names
+and addresses of all the voluntary, legitimate signers.
+Washington admits that creating this sort of electronic
+referendum database “could be done.” Tr. of Oral Arg. 51.
+Implementing such a system would not place a heavy
+burden on Washington; “the Secretary of State’s staff”
+——————
+2 Under
+
+Washington law, this “computerized list must serve as the
+single system for storing and maintaining the official list of registered
+voters throughout the state” and “must contain the name and registra
+tion information of every legally registered voter in the state.” Wash.
+Rev. Code §§29A.08.651(2)–(3) (2008).
+3 See §29A.72.230 (permitting the secretary of state to verify and
+canvass referendum petitions using approved statistical sampling
+methods).
+
+

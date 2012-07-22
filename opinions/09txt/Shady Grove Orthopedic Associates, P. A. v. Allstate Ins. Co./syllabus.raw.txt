@@ -1,0 +1,140 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A. v. 
+
+ALLSTATE INSURANCE CO. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SECOND CIRCUIT
+No. 08–1008. Argued November 2, 2009—Decided March 31, 2010
+After respondent Allstate refused to remit the interest due under New
+York law on petitioner Shady Grove’s insurance claim, Shady Grove
+filed this class action in diversity to recover interest Allstate owed it
+and others. Despite the class action provisions set forth in Federal
+Rule of Civil Procedure 23, the District Court held itself deprived of
+jurisdiction by N. Y. Civ. Prac. Law Ann. §901(b), which precludes a
+class action to recover a “penalty” such as statutory interest. Affirm
+ing, the Second Circuit acknowledged that a Federal Rule adopted in
+compliance with the Rules Enabling Act, 28 U. S. C. §2072, would
+control if it conflicted with §901(b), but held there was no conflict be
+cause §901(b) and Rule 23 address different issues—eligibility of the
+particular type of claim for class treatment and certifiability of a
+given class, respectively. Finding no Federal Rule on point, the Court
+of Appeals held that §901(b) must be applied by federal courts sitting
+in diversity because it is “substantive” within the meaning of Erie R.
+Co. v. Tompkins, 304 U. S. 64 (1938).
+Held: The judgment is reversed, and the case is remanded.
+549 F. 3d 137, reversed and remanded.
+JUSTICE SCALIA delivered the opinion of the Court with respect to
+PARTS I and II–A, concluding that §901(b) does not preclude a federal
+district court sitting in diversity from entertaining a class action un
+der Rule 23. Pp. 3–12.
+(a) If Rule 23 answers the question in dispute, it governs here
+unless it exceeds its statutory authorization or Congress’s rulemak
+ing power. Burlington Northern R. Co. v. Woods, 480 U. S. 1, 4–5.
+Pp. 3–4.
+
+
+2
+
+SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A.
+v. ALLSTATE INS. CO.
+Syllabus
+(b) Rule 23(b) answers the question in dispute—whether Shady
+Grove’s suit may proceed as a class action—when it states that “[a]
+class action may be maintained” if certain conditions are met. Since
+§901(b) attempts to answer the same question, stating that Shady
+Grove’s suit “may not be maintained as a class action” because of the
+relief it seeks, that provision cannot apply in diversity suits unless
+Rule 23 is ultra vires. The Second Circuit’s view that §901(b) and
+Rule 23 address different issues is rejected. The line between eligibil
+ity and certifiability is entirely artificial and, in any event, Rule 23
+explicitly empowers a federal court to certify a class in every case
+meeting its criteria. Allstate’s arguments based on the exclusion of
+some federal claims from Rule 23’s reach pursuant to federal statutes
+and on §901’s structure are unpersuasive. Pp. 4–6.
+(c) The dissent’s claim that §901(b) can coexist with Rule 23 be
+cause it addresses only the remedy available to class plaintiffs is
+foreclosed by §901(b)’s text, notwithstanding its perceived purpose.
+The principle that courts should read ambiguous Federal Rules to
+avoid overstepping the authorizing statute, 28 U. S. C. §2072(b), does
+not apply because Rule 23 is clear. The dissent’s approach does not
+avoid a conflict between §901(b) and Rule 23 but instead would ren
+der Rule 23 partially invalid. Pp. 6–12.
+JUSTICE SCALIA, joined by THE CHIEF JUSTICE, JUSTICE THOMAS, and
+JUSTICE SOTOMAYOR, concluded in Parts II–B and II–D:
+(a) The Rules Enabling Act, 28 U. S. C. §2072, not Erie, controls
+the validity of a Federal Rule of Procedure. Section 2072(b)’s re
+quirement that federal procedural rules “not abridge, enlarge or mod
+ify any substantive right” means that a Rule must “really regulat[e]
+procedure,—the judicial process for enforcing rights and duties rec
+ognized by substantive law and for justly administering remedy and
+redress for disregard or infraction of them,” Sibbach v. Wilson & Co.,
+312 U. S. 1, 14. Though a Rule may incidentally affect a party’s
+rights, it is valid so long as it regulates only the process for enforcing
+those rights, and not the rights themselves, the available remedies,
+or the rules of decision for adjudicating either. Rule 23 satisfies that
+criterion, at least insofar as it allows willing plaintiffs to join their
+separate claims against the same defendants. Allstate’s arguments
+asserting §901(b)’s substantive impact are unavailing: It is not the
+substantive or procedural nature of the affected state law that mat
+ters, but that of the Federal Rule. See, e.g., id., at 14. Pp. 12–16.
+(b) Opening federal courts to class actions that cannot proceed in
+state court will produce forum shopping, but that is the inevitable re
+sult of the uniform system of federal procedure that Congress cre
+ated. P. 22.
+JUSTICE SCALIA, joined by THE CHIEF JUSTICE and JUSTICE THOMAS,
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Syllabus
+concluded in Part II–C that the concurrence’s analysis—under which
+a Federal Rule may displace a state procedural rule that is not
+“bound up” or “sufficiently intertwined” with substantive rights and
+remedies under state law—squarely conflicts with Sibbach’s single
+criterion that the Federal Rule “really regulat[e] procedure,” 312
+U. S., at 13–14. Pp. 16–22.
+JUSTICE STEVENS agreed that Federal Rule of Civil Procedure 23
+must apply because it governs whether a class must be certified, and
+it does not violate the Rules Enabling Act in this case. Pp. 1–22.
+(a) When the application of a federal rule would “abridge,
+enlarge or modify any substantive right,” 28 U. S. C. §2072(b), the
+federal rule cannot govern. In rare cases, a federal rule that dictates
+an answer to a traditionally procedural question could, if applied,
+displace an unusual state law that is procedural in the ordinary use
+of the term but is so intertwined with a state right or remedy that it
+functions to define the scope of the state-created right. Examples
+may include state laws that make it significantly more difficult to
+bring or to prove a claim or that function as limits on the amount of
+recovery. An application of a federal rule that directly collides with
+such a state law violates the Rules Enabling Act. Pp. 1–13.
+(b) N. Y. Civ. Prac. Law Ann. §901(b), however, is not such a
+state law. It is a procedural rule that is not part of New York’s sub
+stantive law. Pp. 17–22.
+SCALIA, J., announced the judgment of the Court and delivered the
+opinion of the Court with respect to Parts I and II–A, in which ROBERTS, C. J., and STEVENS, THOMAS, and SOTOMAYOR, JJ., joined, an opin
+ion with respect to Parts II–B and II–D, in which ROBERTS, C. J., and
+THOMAS, and SOTOMAYOR, JJ., joined, and an opinion with respect to
+Part II–C, in which ROBERTS, C. J., and, THOMAS, J., joined. STEVENS,
+J., filed an opinion concurring in part and concurring in the judgment.
+GINSBURG, J., filed a dissenting opinion, in which KENNEDY, BREYER,
+and ALITO, JJ., joined.
+
+

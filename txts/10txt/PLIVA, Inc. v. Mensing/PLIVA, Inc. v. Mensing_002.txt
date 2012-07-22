@@ -1,0 +1,51 @@
+2
+
+PLIVA, INC. v. MENSING
+Syllabus
+
+588 F. 3d 603 and 593 F. 3d 428, reversed and remanded.
+JUSTICE THOMAS delivered the opinion of the Court with respect to
+all but Part III–B–2, concluding that federal drug regulations appli
+cable to generic drug manufacturers directly conflict with, and thus
+pre-empt, these state claims. Pp. 4–14, 17–20.
+(a) Because pre-emption analysis requires a comparison between
+federal and state law, the Court begins by identifying the state tort
+duties and federal labeling requirements applicable to the Manufac
+turers. Pp. 4–10.
+(1) State tort law requires a manufacturer that is, or should be,
+aware of its drug’s danger to label it in a way that renders it rea
+sonably safe. Respondents pleaded that the Manufacturers knew, or
+should have known, both that the long-term use of their products car
+ried a high risk of tardive dyskinesia and that their labels did not
+adequately warn of that risk. Taking these allegations as true, the
+state-law duty required the Manufacturers to use a different,
+stronger label than the one they actually used. Pp. 4–5.
+(2) On the other hand, federal drug regulations, as interpreted by
+the FDA, prevented the Manufacturers from independently changing
+their generic drugs’ safety labels. A manufacturer seeking federal
+approval to market a new drug must prove that it is safe and effec
+tive and that the proposed label is accurate and adequate. Although
+the same rules originally applied to all drugs, the 1984 law commonly
+called the Hatch-Waxman Amendments allows a generic drug manu
+facturer to gain FDA approval simply by showing that its drug is
+equivalent to an already-approved brand-name drug, and that the
+safety and efficacy labeling proposed for its drug is the same as that
+approved for the brand-name drug. Respondents contend that fed
+eral law nevertheless provides avenues through which the Manufac
+turers could have altered their metoclopramide labels in time to pre
+vent the injuries here. These include: (1) the FDA’s “changes-being
+effected” (CBE) process, which permits drug manufacturers, without
+preapproval, to add or strengthen a warning label; and (2) sending
+“Dear Doctor” letters providing additional warnings to prescribing
+physicians and other healthcare professionals. However, the FDA
+denies that the Manufacturers could have used either of these proc
+esses to unilaterally strengthen their warning labels. The Court de
+fers to the FDA’s views because they are not plainly erroneous or in
+consistent with the regulations, and there is no other reason to doubt
+that they reflect the FDA’s fair and considered judgment. Auer v.
+Robbins, 519 U. S. 452, 461, 462. Assuming, without deciding, that
+the FDA is correct that federal law nevertheless required the Manu
+facturers to ask for the agency’s assistance in convincing the brand
+name manufacturer to adopt a stronger label, the Court turns to the
+
+

@@ -1,0 +1,36 @@
+10
+
+FAA v. COOPER
+SOTOMAYOR, J., dissenting
+
+622, n. 5 (“Congress explicitly rejected the proposal to
+make presumed damages available for Privacy Act violations”). The elimination of presumed damages from the
+bill can only reasonably imply that what Congress left
+behind—“actual damages”—comprised damages that are
+not presumed, i.e., damages proven by competent evidence
+in the record. See Gertz v. Robert Welch, Inc., 418 U. S.
+323, 349–350 (1974) (distinguishing in defamation context
+between presumed damages and damages for actual injuries sustained by competent evidence in the record, which
+include “impairment of reputation and standing in the
+community, personal humiliation, and mental anguish
+and suffering”); Carey v. Piphus, 435 U. S. 247, 262–264
+(1978) (distinguishing between presumed damages and
+proven damages for mental and emotional distress).
+Rather than view the deletion of general damages (presumed damages) as leaving the converse (proven damages), the majority supposes that the deletion leaves only a
+subset of proven damages—those of an economic nature,
+i.e., “special damages.” Once again, however, the majority’s insistence that “Congress intended ‘actual damages’ in
+the Privacy Act to mean special damages for proven pecuniary loss,” ante, at 13, finds no basis in the statutory text,
+see supra, at 8. And its response to the conclusion that
+Congress retained recovery for proven damages when it
+eliminated presumed damages is singularly unsatisfying.
+The majority declares such a conclusion “flawed” because
+“general damages” “includes compensation for proven
+injuries as well,” so that “what distinguishes [general]
+damages, whether proved or not, from the only other
+category of compensatory damages available in the relevant common-law suits is the type of harm” the term
+encompasses—which the majority takes to be emotional
+harm alone. Ante, at 15–16. That assertion is defective on
+two scores. First, a plaintiff ’s ability to present proof of
+injury in a defamation per se action (and to recover for
+
+

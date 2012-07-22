@@ -1,0 +1,44 @@
+10
+
+HUI v. CASTANEDA
+Opinion of the Court
+
+exception in §2679(b)(2)(A) impliedly repealed pre-existing
+immunity provisions to the extent of any inconsistency.
+“As we have emphasized, repeals by implication are not
+favored and will not be presumed unless the intention of
+the legislature to repeal is clear and manifest.” Hawaii v.
+Office of Hawaiian Affairs, 556 U. S. ___, ___–___ (2009)
+(slip op., at 10–11) (internal quotation marks and altera
+tion omitted). Respondents have pointed to nothing in
+§2679(b)’s text or drafting history that suggests that Con
+gress intended to repeal the more comprehensive immu
+nity provided by §233(a).
+Finally, respondents contend that other features of §233
+show that subsection (a) does not make the remedy under
+the FTCA exclusive of all other actions against PHS per
+sonnel. Respondents first note §233’s lack of a procedure
+for “scope certification” in federal-court actions. Under the
+FTCA, “certification by the Attorney General that the
+defendant employee was acting within the scope of his
+office or employment at the time of the incident out of
+which the claim arose” transforms an action against an
+individual federal employee into one against the United
+States. §2679(d)(1). Because §233 does not provide a
+similar mechanism for scope certification in federal-court
+actions,9 respondents contend that PHS defendants seek
+ing to invoke the immunity provided by §233(a) must rely
+on the FTCA’s scope certification procedure, set forth in
+§2679(d). Section 2679(d), respondents note, is in turn
+subject to the “limitations and exceptions” applicable to
+actions under the FTCA—including the exception for
+Bivens actions provided by §2679(b)(2). See §2679(d)(4).
+——————
+9 Section 233(c) includes such a provision for state-court actions, au
+thorizing removal to federal court “[u]pon a certification by the Attor
+ney General that the defendant was acting in the scope of his employ
+ment at the time of the incident out of which the suit arose,” but unlike
+§2679(d) it does not prescribe a particular mechanism for substituting
+the United States in federal-court actions.
+
+

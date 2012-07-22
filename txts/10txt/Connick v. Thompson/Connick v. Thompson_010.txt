@@ -1,0 +1,49 @@
+Cite as: 563 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+train the prosecutors about their Brady disclosure obliga
+tion with respect to evidence of this type and (2) that the
+lack of training actually caused the Brady violation in this
+case. Connick argues that he was entitled to judgment as
+a matter of law because Thompson did not prove that he
+was on actual or constructive notice of, and therefore
+deliberately indifferent to, a need for more or different
+Brady training. We agree.5
+A
+Title 42 U. S. C. §1983 provides in relevant part:
+“Every person who, under color of any statute, ordi
+nance, regulation, custom, or usage, of any State . . .
+subjects, or causes to be subjected, any citizen of the
+——————
+5 Because
+
+we conclude that Thompson failed to prove deliberate indif
+ference, we need not reach causation. Thus, we do not address whether
+the alleged training deficiency, or some other cause, was the “ ‘moving
+force,’ ” Canton v. Harris, 489 U. S. 378, 389 (1989) (quoting Monell v.
+New York City Dept. of Social Servs., 436 U. S. 658, 694 (1978), and
+Polk County v. Dodson, 454 U. S. 312, 326 (1981)), that “actually
+caused” the failure to disclose the crime lab report, Canton, supra, at
+391.
+The same cannot be said for the dissent, however. Affirming the
+verdict in favor of Thompson would require finding both that he proved
+deliberate indifference and that he proved causation. Perhaps unsur
+prisingly, the dissent has not conducted the second step of the analysis,
+which would require showing that the failure to provide particular
+training (which the dissent never clearly identifies) “actually caused”
+the flagrant—and quite possibly intentional—misconduct that occurred
+in this case. See post, at 21 (opinion of GINSBURG, J.) (assuming that,
+“[h]ad Brady’s importance been brought home to prosecutors,” the
+violation at issue “surely” would not have occurred). The dissent
+believes that evidence that the prosecutors allegedly “misappre
+hen[ded]” Brady proves causation. Post, at 27, n. 20. Of course, if
+evidence of a need for training, by itself, were sufficient to prove that
+the lack of training “actually caused” the violation at issue, no causa
+tion requirement would be necessary because every plaintiff who
+satisfied the deliberate indifference requirement would necessarily
+satisfy the causation requirement.
+
+

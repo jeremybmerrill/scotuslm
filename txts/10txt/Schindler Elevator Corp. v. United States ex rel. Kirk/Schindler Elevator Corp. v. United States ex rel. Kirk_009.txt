@@ -1,0 +1,46 @@
+6
+
+SCHINDLER ELEVATOR CORP. v. UNITED STATES 
+
+EX REL. KIRK 
+
+Opinion of the Court 
+
+
+vides “a broa[d] sweep.” Graham County, supra, at ___
+(slip op., at 8). The statute also mentions “administrative
+hearings” twice, reflecting intent to avoid underinclusive
+ness even at the risk of redundancy.
+The phrase “allegations or transactions” in §3730(e)
+(4)(A) additionally suggests a wide-reaching public disclo
+sure bar. Congress covered not only the disclosure of
+“allegations” but also “transactions,” a term that courts
+have recognized as having a broad meaning. See, e.g.,
+Moore v. New York Cotton Exchange, 270 U. S. 593, 610
+(1926) (“ ‘Transaction’ is a word of flexible meaning”);
+Hamilton v. United Healthcare of La., Inc., 310 F. 3d 385,
+391 (CA5 2002) (“[T]he ordinary meaning of the term
+‘transaction’ is a broad reference to many different types of
+business dealings between parties”).
+2
+Nor is there any textual basis for adopting a narrower
+definition of “report.” The Court of Appeals, in holding
+that FOIA responses were not “reports,” looked to the
+words “hearing, audit, or investigation,” and the phrase
+“criminal, civil, [and] administrative hearings.” It con
+cluded that all of these sources “connote the synthesis of
+information in an investigatory context” to “serve some
+end of the government.” 601 F. 3d, at 107; cf. Brief for
+Respondent 30, n. 15 (“Each is part of the government’s
+ongoing effort to fight fraud”). Applying the noscitur a
+sociis canon, the Court of Appeals then determined that
+these “ ‘neighboring words’ ” mandated a narrower mean
+ing for “report” than its ordinary meaning. 601 F. 3d, at
+107.
+The Court of Appeals committed the very error we re
+versed in Graham County. Like the Fourth Circuit in that
+case, the Second Circuit here applied the noscitur a sociis
+canon only to the immediately surrounding words, to the
+exclusion of the rest of the statute. See 601 F. 3d, at 107,
+
+

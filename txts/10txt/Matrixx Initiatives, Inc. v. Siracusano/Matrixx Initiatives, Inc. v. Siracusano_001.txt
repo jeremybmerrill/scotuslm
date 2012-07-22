@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+MATRIXX INITIATIVES, INC., ET AL. v. SIRACUSANO
+ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 09–1156. Argued January 10, 2011—Decided March 22, 2011
+Respondents filed this securities fraud class action, alleging that peti
+tioners (hereinafter Matrixx) violated §10(b) of the Securities Ex
+change Act of 1934 and Securities and Exchange Commission Rule
+10b–5 by failing to disclose reports of a possible link between Ma
+trixx’s leading product, Zicam Cold Remedy, and loss of smell (anos
+mia), rendering statements made by Matrixx misleading. Matrixx
+moved to dismiss the complaint, arguing that respondents had not
+pleaded the element of a material misstatement or omission and the
+element of scienter. The District Court granted the motion, but the
+Ninth Circuit reversed. It held that the District Court erred in re
+quiring an allegation of statistical significance to establish material
+ity, concluding instead that the complaint adequately alleged infor
+mation linking Zicam and anosmia that would have been significant
+to a reasonable investor. It also held that Matrixx’s withholding of
+information about reports of adverse effects and about pending law
+suits by Zicam users gave rise to a strong inference of scienter.
+Held: Respondents have stated a claim under §10(b) and Rule 10b–5.
+Pp. 8–22.
+(a) To prevail on their claim, respondents must prove, as relevant
+here, a material misrepresentation or omission by Matrixx and sci
+enter. See Stoneridge Investment Partners, LLC v. Scientific-Atlanta,
+Inc., 552 U. S. 148, 157. Matrixx contends that they failed to plead
+these required elements because they did not allege that the reports
+Matrixx received reflected statistically significant evidence that Zi
+cam caused anosmia. Pp. 8–9.
+(b) Respondents have adequately pleaded materiality. Pp. 9–19.
+(1) Under Basic Inc. v. Levinson, 485 U. S. 224, §10(b)’s material
+
+

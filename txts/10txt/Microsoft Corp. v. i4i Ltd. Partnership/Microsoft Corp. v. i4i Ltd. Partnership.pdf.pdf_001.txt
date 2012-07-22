@@ -1,0 +1,55 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+MICROSOFT CORP. v. I4I LIMITED PARTNERSHIP 
+
+ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FEDERAL CIRCUIT
+No. 10–290.
+
+Argued April 18, 2011—Decided June 9, 2011
+
+In asserting patent invalidity as a defense to an infringement action, an
+alleged infringer must contend with §282 of the Patent Act of 1952
+(Act), under which “[a] patent shall be presumed valid” and “[t]he
+burden of establishing invalidity . . . shall rest on the party asserting”
+it. Since 1984, the Federal Circuit has read §282 to require a defen
+dant seeking to overcome the presumption to persuade the factfinder
+of its invalidity defense by clear and convincing evidence.
+Respondents (collectively, i4i) hold the patent at issue, which
+claims an improved method for editing computer documents. After
+i4i sued petitioner Microsoft Corp. for willful infringement of that
+patent, Microsoft counterclaimed and sought a declaration that the
+patent was invalid under §102(b)’s on-sale bar, which precludes pat
+ent protection for any “invention” that was “on sale in this country”
+more than one year prior to the filing of a patent application. The
+parties agreed that, more than a year before filing its patent applica
+tion, i4i had sold a software program known as S4 in the United
+States, but they disagreed over whether that software embodied the
+invention claimed in i4i’s patent. Relying on the undisputed fact that
+the S4 software was never presented to the Patent and Trademark
+Office (PTO) during its examination of the patent application, Micro
+soft objected to i4i’s proposed jury instruction that the invalidity de
+fense must be proved by clear and convincing evidence. The District
+Court nevertheless gave that instruction, rejecting Microsoft’s alter
+native instruction proposing a preponderance of the evidence stan
+dard. The jury found that Microsoft willfully infringed the i4i patent
+and had failed to prove the patent’s invalidity. The Federal Circuit
+affirmed, relying on its settled interpretation of §282.
+
+

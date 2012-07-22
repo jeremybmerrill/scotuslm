@@ -1,0 +1,50 @@
+4
+
+HARRINGTON v. RICHTER
+Syllabus
+ent.” Id., at 694. “Surmounting Strickland’s high bar is never . . .
+easy.” Padilla v. Kentucky, 559 U. S.___, ___. Strickland can func
+tion as a way to escape rules of waiver and forfeiture. The question is
+whether an attorney’s representation amounted to incompetence un
+der prevailing professional norms, not whether it deviated from best
+practices or most common custom. Establishing that a state court’s
+application of Strickland was unreasonable under §2254(d) is even
+more difficult, since both standards are “highly deferential,” 466 U. S,
+at 689, and since Strickland’s general standard has a substantial
+range of reasonable applications. The question under §2254(d) is not
+whether counsel’s actions were reasonable, but whether there is any
+reasonable argument that counsel satisfied Strickland’s deferential
+standard. Pp. 14–16.
+(2) The Ninth Circuit erred in holding that because Richter’s
+attorney had not consulted forensic blood experts or introduced ex
+pert evidence, the State Supreme Court could not reasonably have
+concluded counsel provided adequate representation.
+A state court could reasonably conclude that a competent attorney
+could elect a strategy that did not require using blood evidence ex
+perts. Rare are the situations in which the latitude counsel enjoys
+will be limited to any one technique or approach. There were any
+number of experts whose insight might have been useful to the de
+fense. Counsel is entitled to balance limited resources in accord with
+effective trial tactics and strategies. In finding otherwise the Ninth
+Circuit failed to “reconstruct the circumstances of counsel’s chal
+lenged conduct” and “evaluate the conduct from counsel’s perspective
+at the time.” Strickland, supra, at 689. Given the many factual dif
+ferences between the prosecution and defense versions of events, it
+was far from evident at the time of trial that the blood source was
+central to Richter’s case. And relying on “the harsh light of hind
+sight” to cast doubt on a trial that took place over 15 years ago is pre
+cisely what Strickland and AEDPA seek to prevent. See Bell v. Cone,
+535 U. S. 685, 702. Even had the value of expert testimony been ap
+parent, it would be reasonable to conclude that a competent attorney
+might elect not to use it here, where counsel had reason to question
+the truth of his client’s account. Making blood evidence a central is
+sue could also have led the prosecution to produce its own expert
+analysis, possibly destroying Richter’s case, or distracted the jury
+with esoteric questions of forensic science. Defense counsel’s opening
+statement may have inspired the prosecution to present forensic evi
+dence, but that shows only that the defense strategy did not work out
+as well as hoped. In light of the record here there was no basis to
+rule that the state court’s determination was unreasonable.
+The Court of Appeals erred in dismissing such concern as an inac
+
+

@@ -1,0 +1,197 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+BOARD OF TRUSTEES OF THE LELAND STANFORD 
+
+JUNIOR UNIVERSITY v. ROCHE MOLECULAR 
+
+SYSTEMS, INC., ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FEDERAL CIRCUIT
+No. 09–1159. Argued February 28, 2011—Decided June 6, 2011
+In 1985, a small California research company called Cetus began to
+develop methods for quantifying blood-borne levels of human immu
+nodeficiency virus (HIV), the virus that causes AIDS. A Nobel Prize
+winning technique developed at Cetus known as PCR was an integral
+part of these efforts.
+In 1988, Cetus began to collaborate with scientists at Stanford
+University’s Department of Infectious Diseases to test the efficacy of
+new AIDS drugs. Dr. Holodniy joined Stanford as a research fellow
+in the department around that time. When he did so, he signed an
+agreement stating that he “agree[d] to assign” to Stanford his “right,
+title and interest in” inventions resulting from his employment there.
+Holodniy’s supervisor arranged for him to conduct research at Cetus
+to learn about PCR. As a condition of gaining access to Cetus,
+Holodniy was required to sign an agreement stating that he “will as
+sign and do[es] hereby assign” to Cetus his “right, title and interest
+in . . . the ideas, inventions, and improvements” made “as a conse
+quence of [his] access” to Cetus. Working with Cetus employees,
+Holodniy devised a PCR-based procedure for measuring the amount
+of HIV in a patient’s blood. Upon returning to Stanford, he and other
+Stanford employees tested the procedure. Stanford secured three
+patents to the measurement process.
+Roche Molecular Systems acquired Cetus’s PCR-related assets.
+After conducting clinical trials on the HIV quantification method de
+veloped at Cetus, Roche commercialized the procedure. Today, its
+HIV test kits are used worldwide.
+The University and Small Business Patent Procedures Act of 1980
+
+
+2
+
+BOARD OF TRUSTEES OF LELAND STANFORD JUNIOR 
+
+UNIV. v. ROCHE MOLECULAR SYSTEMS, INC. 
+
+Syllabus 
+
+(Bayh-Dole Act or Act) allocates rights in federally funded “subject
+invention[s]” between the Federal Government and federal contrac
+tors. 35 U. S. C. §§201(e), (c), 202(a). The Act defines “subject inven
+tion” as “any invention of the contractor conceived or first actually
+reduced to practice in the performance of work under a funding
+agreement,” §201(e), and provides that contractors may “elect to re
+tain title to any subject invention,” §202(a). Because some of Stan
+ford’s research on the HIV measurement technique was funded by
+the National Institutes of Health (NIH), the Bayh-Dole Act applied.
+In accordance with the Act’s requirements, Stanford notified NIH
+that it was electing to retain title to the invention and conferred on
+the Government a license to use the patented procedure.
+Petitioner, the Board of Trustees of Stanford University, filed suit
+against respondents (Roche), claiming that their HIV test kits in
+fringed Stanford’s patents. Roche responded that Holodniy’s agree
+ment with Cetus gave it co-ownership of the procedure, and thus
+Stanford lacked standing to sue it for patent infringement. Stanford
+countered that Holodniy had no rights to assign because the Univer
+sity had superior rights under the Bayh-Dole Act. The District Court
+agreed with Stanford and held that under the Bayh-Dole Act, Holod
+niy had no rights to assign to Cetus. The Court of Appeals for the
+Federal Circuit disagreed, concluding that Holodniy’s agreement with
+Cetus assigned his rights to Cetus, and thus to Roche. It also found
+that the Bayh-Dole Act did not automatically void an inventor’s
+rights in federally funded inventions. Thus, the Act did not extin
+guish Roche’s ownership interest in the invention, and Stanford was
+deprived of standing.
+
+Held: The Bayh-Dole Act does not automatically vest title to federally
+funded inventions in federal contractors or authorize contractors to
+unilaterally take title to such inventions. Pp. 6–15.
+(a) Since 1790, patent law has operated on the premise that rights
+in an invention belong to the inventor. See, e.g., Gayler v. Wilder, 10
+How. 477, 493. In most cases, a patent may be issued only to an ap
+plying inventor, or—because an inventor’s interest in his invention is
+assignable in law by an instrument in writing—an inventor’s as
+signee. See United States v. Dubilier Condenser Corp., 289 U. S. 178,
+187. Absent an agreement to the contrary, an employer does not
+have rights in an invention “which is the original conception of the
+employee alone,” id., at 189; an inventor must expressly grant those
+rights to his employer, see id., at 187. Pp. 6–8.
+(b) Stanford and amicus United States contend that, when an in
+vention is conceived or first reduced to practice with the support of
+federal funds, the Bayh-Dole Act vests title to those inventions in the
+inventor’s employer—the federal contractor. Congress has in the
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+past divested inventors of their rights in inventions by providing un
+ambiguously that inventions created pursuant to certain specified
+federal contracts become the Government’s property. Such unambi
+guous language is notably absent from the Bayh-Dole Act. Instead,
+the Act provides that contractors may “elect to retain title to any sub
+ject invention,” §202(a), defining a “subject invention” as “any inven
+tion of the contractor conceived or first actually reduced to practice in
+the performance of work under a funding agreement,” §201(e).
+Stanford contends that “invention of the contractor” means all in
+ventions that a contractor’s employees make with the aid of federal
+funds. That reading assumes that Congress subtly set aside two cen
+turies of patent law in a statutory definition. This Court has rejected
+the idea that mere employment is sufficient to vest title to an em
+ployee’s invention in the employer. Stanford’s reading also renders
+the phrase “of the contractor” superfluous since the definition already
+covers inventions made under a funding agreement. Construing the
+phrase to refer instead to a particular category of inventions con
+ceived or reduced to practice under a funding agreement—inventions
+“of the contractor,” that is, those owned by or belonging to the con
+tractor—makes the phrase meaningful in the statutory definition.
+And “invention owned by the contractor” or “invention belonging to
+the contractor” are natural readings of the phrase “invention of the
+contractor.”
+Section 202(a), which states that contractors may “elect to retain
+title,” confirms that the Act does not vest title. Stanford reaches the
+opposite conclusion, but only because it reads “retain” to mean “ac
+quire” and “receive.” That is certainly not the common meaning of
+“retain,” which is “to hold or continue to hold in possession or use.”
+You cannot retain something unless you already have it. And
+§210(a)—which provides that the Act “take[s] precedence over any
+other Act which would require a disposition of rights in subject inven
+tions . . . that is inconsistent with” the Act—does not displace the ba
+sic principle that an inventor owns the rights to his invention. Only
+when an invention belongs to the contractor does the Bayh-Dole Act
+come into play. The Act’s disposition of rights does nothing more
+than clarify the order of priority of rights between the Federal Gov
+ernment and a federal contractor in a federally funded invention that
+already belongs to the contractor.
+The Act’s isolated provisions dealing with inventors’ rights in sub
+ject inventions are consistent with the Court’s construction of the Act.
+See §202(d). That construction is also bolstered by the Act’s limited
+procedural protections, which expressly give contractors the right to
+challenge a Government-imposed impediment to retaining title to a
+subject invention, §202(b)(4), but do not provide similar protection for
+
+
+4
+
+BOARD OF TRUSTEES OF LELAND STANFORD JUNIOR 
+
+UNIV. v. ROCHE MOLECULAR SYSTEMS, INC. 
+
+Syllabus 
+
+inventor and third-party rights.
+Stanford’s contrary construction would permit title to an em
+ployee’s inventions to vest in the University even if the invention was
+conceived before the inventor became an employee, so long as the in
+vention’s reduction to practice was supported by federal funding. It
+also suggests that the school would obtain title were even one dollar
+of federal funding applied toward an invention’s conception or reduc
+tion to practice. It would be noteworthy enough for Congress to sup
+plant one of the fundamental precepts of patent law and deprive in
+ventors of rights in their own inventions. To do so under such
+unusual terms would be truly surprising. Had Congress intended
+such a sea change in intellectual property rights it would have said so
+clearly—not obliquely through an ambiguous definition of “subject
+invention” and an idiosyncratic use of the word “retain.”
+The Court’s construction of the Act is also reflected in the common
+practice of contractors, who generally obtain assignments from their
+employees, and of agencies that fund federal contractors, who typi
+cally expect those contractors to obtain assignments. With effective
+assignments, federally funded inventions become “subject inventions”
+and the Act as a practical matter works pretty much the way Stan
+ford says it should. The only significant difference is that it does so
+without violence to the basic patent law principle that inventors own
+their inventions. Pp. 8–15.
+
+583 F. 3d 832, affirmed.
+ROBERTS, C. J., delivered the opinion of the Court, in which SCALIA,
+KENNEDY, THOMAS, ALITO, SOTOMAYOR, and KAGAN, JJ., joined. SOTOMAYOR, J., filed a concurring opinion. BREYER, J., filed a dissenting
+opinion, in which GINSBURG, J., joined.
+
+

@@ -1,0 +1,43 @@
+14
+
+MERCK & CO. v. REYNOLDS
+Opinion of the Court
+
+a private §10(b) action. Cf. Brief for United States as
+Amicus Curiae 12, n. 1 (suggesting that facts concerning a
+plaintiff’s reliance, loss, and loss causation are not among
+those that constitute “the violation” and therefore need not
+be “discover[ed]” for a claim to accrue).
+Second, Merck argues that, even if “discovery” requires
+facts related to scienter, facts that tend to show a materi
+ally false or misleading statement (or material omission)
+are ordinarily sufficient to show scienter as well. See
+Brief for Petitioners 22, 28–29. But we do not see how
+that is so. We recognize that certain statements are such
+that, to show them false is normally to show scienter as
+well. It is unlikely, for example, that someone would
+falsely say “I am not married” without being aware of the
+fact that his statement is false. Where §10(b) is at issue,
+however, the relation of factual falsity and state of mind is
+more context specific. An incorrect prediction about a
+firm’s future earnings, by itself, does not automatically tell
+us whether the speaker deliberately lied or just made an
+innocent (and therefore nonactionable) error. Hence, the
+statute may require “discovery” of scienter-related facts
+beyond the facts that show a statement (or omission) to be
+materially false or misleading. Merck fears that this
+requirement will give life to stale claims or subject defen
+dants to liability for acts taken long ago. But Congress’
+inclusion in the statute of an unqualified bar on actions
+instituted “5 years after such violation,” §1658(b)(2), giv
+ing defendants total repose after five years, should dimin
+ish that fear. Cf. Lampf, 501 U. S., at 363 (holding compa
+rable bar not subject to equitable tolling).
+Third, Merck says that the limitations period began to
+run prior to November 2001 because by that point the
+plaintiffs were on “inquiry notice.” Merck uses the term
+“inquiry notice” to refer to the point “at which a plaintiff
+possesses a quantum of information sufficiently suggestive
+of wrongdoing that he should conduct a further inquiry.”
+
+

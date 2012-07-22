@@ -1,0 +1,48 @@
+2
+
+TALK AMERICA, INC. v. MICHIGAN BELL 
+
+TELEPHONE CO.
+Opinion of the Court 
+
+
+
+
+
+ties are to be used for interconnection: to link the incum­
+bent provider’s telephone network with the competitor’s
+network for the mutual exchange of traffic. We defer to
+the Commission’s views and reverse the judgment below.
+I
+The Telecommunications Act of 1996 (1996 Act), 110
+Stat. 56, imposed a number of duties on incumbent pro­
+viders of local telephone service in order to facilitate mar­
+ket entry by competitors. AT&T Corp. v. Iowa Utilities
+Bd., 525 U. S. 366, 371 (1999). The incumbent local ex­
+change carriers (LECs) owned the local exchange net­
+works: the physical equipment necessary to receive, prop­
+erly route, and deliver phone calls among customers.
+Verizon Communications Inc. v. FCC, 535 U. S. 467, 490
+(2002). Before the 1996 Act, a new, competitive LEC could
+not compete with an incumbent carrier without basically
+replicating the incumbent’s entire existing network. Ibid.
+The 1996 Act addressed that barrier to market entry by
+requiring incumbent LECs to share their networks with
+competitive LECs in several ways, two of which are rele­
+vant here. First, 47 U. S. C. §251(c)(3) requires incumbent
+LECs to lease “on an unbundled basis”—i.e., a la carte—
+network elements specified by the Commission. This
+makes it easier for a competitor to create its own network
+without having to build every element from scratch. In
+identifying which network elements must be available
+for unbundled lease under §251(c)(3), the Commission
+is required to consider whether access is “necessary”
+and whether failing to provide access would “impair” a
+competitor’s provision of service. §251(d)(2). Second,
+§251(c)(2) mandates that incumbent LECs “provide . . .
+interconnection” between their networks and competitive
+LECs’ facilities. This ensures that customers on a com­
+petitor’s network can call customers on the incumbent’s
+network, and vice versa. The interconnection duty is
+
+

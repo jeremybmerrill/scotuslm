@@ -1,0 +1,42 @@
+8
+
+HOLDER v. HUMANITARIAN LAW PROJECT
+Opinion of the Court
+
+The District Court consolidated the two actions on re­
+mand. See ibid. The court also allowed plaintiffs to chal­
+lenge the new term “service.” See id., at 1151, n. 24. The
+parties moved for summary judgment, and the District
+Court granted partial relief to plaintiffs on vagueness
+grounds. See id., at 1156.
+The Court of Appeals affirmed once more. 552 F. 3d
+916, 933 (CA9 2009). The court first rejected plaintiffs’
+claim that the material-support statute would violate due
+process unless it were read to require a specific intent to
+further the illegal ends of a foreign terrorist organization.
+See id., at 926–927. The Ninth Circuit also held that the
+statute was not overbroad in violation of the First
+Amendment. See id., at 931–932. As for vagueness, the
+Court of Appeals noted that plaintiffs had not raised a
+“facial vagueness challenge.” Id., at 929, n. 6. The court
+held that, as applied to plaintiffs, the terms “training,”
+“expert advice or assistance” (when derived from “other
+specialized knowledge”), and “service” were vague because
+they “continue[d] to cover constitutionally protected advo­
+cacy,” but the term “personnel” was not vague because it
+“no longer criminalize[d] pure speech protected by the
+First Amendment.” Id., at 929–931.
+The Government petitioned for certiorari, and plaintiffs
+filed a conditional cross-petition. We granted both peti­
+tions. 557 U. S. ___ (2009).
+II
+Given the complicated 12-year history of this litigation,
+we pause to clarify the questions before us. Plaintiffs
+challenge §2339B’s prohibition on four types of material
+support—“training,” “expert advice or assistance,” “ser­
+vice,” and “personnel.” They raise three constitutional
+claims. First, plaintiffs claim that §2339B violates the
+Due Process Clause of the Fifth Amendment because these
+four statutory terms are impermissibly vague. Second,
+
+

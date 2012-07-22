@@ -1,0 +1,43 @@
+4
+
+MILNER v. DEPARTMENT OF NAVY
+BREYER, J., dissenting
+
+Cong., 1st Sess., p. 8 (1965)). But it also noted that the
+House Report described the exemption as protecting from
+disclosure “ ‘[o]perating rules, guidelines, and manuals of
+procedure for Government investigators or examiners.’ ”
+670 F. 2d, at 1060 (quoting H. R. Rep. No. 1497, 89th
+Cong., 2d Sess., p. 10 (1966)). “[U]pon reflection,” it
+thought the views of the two Houses “reconcilable” if one
+understood both sets of examples as referring to internal
+staff information (both minor personnel matters and staff
+instruction matters) that the public had no legitimate
+interest in learning about. 670 F. 2d, at 1065. And it
+accepted this view in light of its hesitation to “apply indi
+vidual provisions of the statute woodenly, oblivious to
+Congress’ intention that FOIA not frustrate law enforce
+ment efforts.” Id., at 1066. At the same time it found no
+other exemption that would protect internal documents in
+which there is no legitimate public interest in disclosure—
+a category that includes, say, building plans, safe combi
+nations, computer passwords, evacuation plans, and the
+like.
+After examining in depth the legislative history and
+relevant precedent, the court adopted an approach based
+on a prior opinion by Circuit Judge Leventhal, as well as
+language used by this Court in Department of Air Force v.
+Rose, 425 U. S. 352, 369 (1976). The D. C. Circuit held
+that a document fits within the literal language of Exemp
+tion 2 and is exempt from disclosure if (1) it “meets the
+test of ‘predominant internality,’ ” i.e., the document is
+“not of legitimate public interest,” and (2) “disclosure
+significantly risks circumvention of agency regulations or
+statutes.” Crooker, supra, at 1056, 1074; see also Rose,
+supra, at 369 (suggesting that Exemption 2 might apply
+where “disclosure may risk circumvention of agency regu
+lation”). This test, based upon Congress’ broader FOIA
+objectives and a “common sense” view of what information
+Congress did and did not want to make available, Crooker,
+
+

@@ -1,0 +1,788 @@
+Cite as: 558 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–911
+_________________
+
+AGRON KUCANA, PETITIONER v. ERIC H. HOLDER,
+JR., ATTORNEY GENERAL
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SEVENTH CIRCUIT
+[January 20, 2010]
+
+JUSTICE GINSBURG delivered the opinion of the Court.
+Petitioner Agron Kucana moved to reopen his removal
+proceedings, asserting new evidence in support of his plea
+for asylum. An Immigration Judge (IJ) denied the motion,
+the Board of Immigration Appeals (BIA or Board) sus
+tained the IJ’s ruling, and the U. S. Court of Appeals for
+the Seventh Circuit concluded that it lacked jurisdiction to
+review the administrative determination. For that conclu
+sion, the court relied on a provision added to the Immigra
+tion and Nationality Act (INA or Act), 66 Stat. 166, 8
+U. S. C. §1101 et seq., by the Illegal Immigration Reform
+and Immigrant Responsibility Act of 1996 (IIRIRA), 110
+Stat. 3009–546. The provision found dispositive by the
+Seventh Circuit, 8 U. S. C. §1252(a)(2)(B), states that no
+court shall have jurisdiction to review any action of the
+Attorney General “the authority for which is specified
+under this subchapter to be in the discretion of the Attor
+ney General,” §1252(a)(2)(B)(ii) (emphasis added).
+We granted certiorari to decide whether the proscription
+of judicial review stated in §1252(a)(2)(B) applies not only
+to Attorney General determinations made discretionary by
+
+
+2
+
+KUCANA v. HOLDER
+Opinion of the Court
+
+statute, but also to determinations declared discretionary
+by the Attorney General himself through regulation. We
+hold that the key words “specified under this subchapter”
+refer to statutory, but not to regulatory, specifications. We
+so rule based on the longstanding exercise of judicial
+review of administrative rulings on reopening motions, the
+text and context of §1252(a)(2)(B), and the history of the
+relevant statutory provisions. We take account, as well, of
+the “presumption favoring interpretations of statutes [to]
+allow judicial review of administrative action.” Reno v.
+Catholic Social Services, Inc., 509 U. S. 43, 63–64 (1993)
+(quoting McNary v. Haitian Refugee Center, Inc., 498 U. S.
+479, 496 (1991)). Separation-of-powers concerns, more
+over, caution us against reading legislation, absent clear
+statement, to place in executive hands authority to remove
+cases from the Judiciary’s domain.
+I
+
+A
+
+In IIRIRA, Congress for the first time codified certain
+rules, earlier prescribed by the Attorney General, govern
+ing the reopening process. The amended Act instructs
+that reopening motions “shall state the new facts that will
+be proven at a hearing to be held if the motion is granted,
+and shall be supported by affidavits or other evidentiary
+material.” §1229a(c)(7)(B). Congress also prescribed that
+“the motion to reopen shall be filed within 90 days of the
+date of entry of a final administrative order of removal.”
+§1229a(c)(7)(C)(i). Among matters excepted from the 90
+day limitation are motions to reopen asylum applications
+because of changed conditions in the country of nationality
+or removal. §1229a(c)(7)(C)(ii).
+Section 1252(a)(2), captioned “Matters not subject to
+judicial review,” contains the provision on which this case
+turns. Subparagraph (B) of that paragraph, headed “De
+nials of discretionary relief,” states:
+
+
+Cite as: 558 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+“Notwithstanding any other provision of law (statu
+tory or nonstatutory), . . . except as provided in sub
+paragraph (D),[1] and regardless of whether the judg
+ment, decision, or action is made in removal
+proceedings, no court shall have jurisdiction to re
+view—
+“(i) any judgment regarding the granting of relief
+under section 1182(h), 1182(i), 1229b, 1229c, or 1255
+of this title,[2] or
+“(ii) any other decision or action of the Attorney
+General . . . the authority for which is specified under
+this subchapter[3] to be in the discretion of the Attor
+ney General . . . , other than the granting of relief un
+der section 1158(a) of this title.”4
+——————
+1 Subparagraph (D) of §1252(a)(2), enacted in 2005, REAL ID Act of
+2005 (REAL ID Act), §106(a), 119 Stat. 310, adds:
+“Nothing in subparagraph (B) . . . or in any other provision of this Act
+(other than this section) which limits or eliminates judicial review,
+shall be construed as precluding review of constitutional claims or
+questions of law raised upon a petition for review filed with an appro
+priate court of appeals in accordance with this section.”
+The addition of 8 U. S. C. §1252(a)(2)(D) in 2005 did not change the
+operative language of §1252(a)(2)(B)(ii) as enacted in 1996.
+The REAL ID Act amendments also inserted into this introductory
+clause, inter alia, the words “(statutory or nonstatutory).”
+§106(a)(1)(A)(ii), 119 Stat. 310. The introductory clause, however, does
+not define the scope of 8 U. S. C. §1252(a)(2)(B)(ii)’s jurisdictional bar.
+It simply informs that once the scope of the bar is determined, jurisdic
+tion is precluded regardless of what any other provision or source of law
+might say.
+2 Sections 1182(h) and 1182(i) address waivers of inadmissibility
+based on certain criminal offenses, and fraud or misrepresentation,
+respectively; §1229b addresses cancellation of removal; §1229c, volun
+tary departure; and §1255, adjustment of status.
+3 “[T]his subchapter” refers to Title 8, Chapter 12, Subchapter II, of
+the United States Code, codified at 8 U. S. C. §§1151–1381 and titled
+“Immigration.”
+4 The exception for relief under §1158(a) refers to administrative deci
+sions whether to grant asylum. Kucana’s petition for judicial review is
+
+
+4
+
+KUCANA v. HOLDER
+Opinion of the Court
+
+A regulation, amended in 1996, just months before Con
+gress enacted IIRIRA, 61 Fed. Reg. 18904, Pt. 3, §3.2(a),
+states that “[t]he decision to grant or deny a motion to
+reopen . . . is within the discretion of the Board.” 8 CFR
+§1003.2(a) (2009). As adjudicator in immigration cases,
+the Board exercises authority delegated by the Attorney
+General. See 8 U. S. C. §1103(g)(2); 8 CFR §1003.1. See
+also 8 CFR §1003.23(b)(3) (governing motions to reopen
+filed with an IJ).
+B
+Kucana, a citizen of Albania, entered the United States
+on a business visa in 1995 and remained after the visa
+expired. Alleging that he would be persecuted based on
+his political beliefs if returned to Albania, Kucana applied
+for asylum and withholding of removal in 1996. An IJ
+determined that Kucana was removable and scheduled a
+hearing to evaluate his eligibility for asylum. When Ku
+cana failed to appear for the hearing, the IJ immediately
+ordered his removal in absentia. Kucana filed a motion to
+reopen, explaining that he had missed his hearing because
+he had overslept. The IJ denied the motion, and the BIA
+affirmed in 2002. Kucana did not seek judicial review, nor
+did he leave the United States.
+Kucana filed a second motion to reopen his removal
+proceedings in 2006, contending that conditions in Albania
+had worsened.5 The BIA denied relief; it concluded that
+conditions in Albania had actually improved since 1997.
+Arguing that the BIA had abused its discretion in denying
+——————
+limited to the denial of his motion to reopen; he does not challenge in
+this proceeding the decision denying his application for asylum.
+5 The statute “guarantees to each alien the right to file ‘one motion to
+reopen proceedings.’ ” Dada v. Mukasey, 554 U. S. 1, __ (2008) (slip op.,
+at 12) (quoting §1229a(c)(7)(A)). Attorney General regulations permit
+further motions to reopen to seek asylum or withholding of removal
+based on changed conditions in the country of nationality or removal.
+See 8 CFR §1003.2(c)(3)(ii) (2009).
+
+
+Cite as: 558 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+his motion, Kucana filed a petition for review in the Sev
+enth Circuit.
+In a fractured decision, the Seventh Circuit dismissed
+the petition for lack of jurisdiction. Kucana v. Mukasey,
+533 F. 3d 534, 539 (2008). The court held that 8 U. S. C.
+§1252(a)(2)(B)(ii) bars judicial review not only of adminis
+trative decisions made discretionary by statute, but also
+“when the agency’s discretion is specified by a regulation
+rather than a statute.” 533 F. 3d, at 536.6 In so ruling,
+the Seventh Circuit created a split between itself and
+other Courts of Appeals, all of them holding that denials of
+reopening motions are reviewable in court.7
+Judge Ripple concurred dubitante. He acknowledged
+that the court was following an earlier decision, Ali v.
+Gonzales, 502 F. 3d 659 (CA7 2007),8 but “suggest[ed]
+that, had Congress intended to deprive th[e] court of juris
+diction . . . , it would have done so explicitly, as it did in 8
+U. S. C. §1252(a)(2)(B)(i).” 533 F. 3d, at 540. The court,
+——————
+6 While recognizing that a regulation, rather than the INA itself,
+confers on the Board discretion to grant or deny a motion to reopen, the
+Court of Appeals said that the regulation, §1003.2(a), “draw[s] . . . force
+from provisions in the Act allowing immigration officials to govern their
+own proceedings.” 533 F. 3d, at 536. The “force,” according to the
+Seventh Circuit, comes from 8 U. S. C. §1229a(c)(7), which it described
+as providing “authority for reopening by [the] Board.” 533 F. 3d, at
+536. Section 1229a(c)(7), however, is not directed to the agency’s
+discretion to grant or deny motions to reopen. In the main, “it simply
+lays out the requirements an alien must fulfill when filing a motion to
+reopen.” Id., at 541 (Cudahy, J., dissenting) (emphasis added). See
+also infra, at 7, n. 9.
+7 See Singh v. Mukasey, 536 F. 3d 149, 153–154 (CA2 2008); Jahjaga
+v. Attorney Gen. of United States, 512 F. 3d 80, 82 (CA3 2008); Zhao v.
+Gonzales, 404 F. 3d 295, 303 (CA5 2005); Miah v. Mukasey, 519 F. 3d
+784, 789, n. 1 (CA8 2008); Medina-Morales v. Ashcroft, 371 F. 3d 520,
+528–529 (CA9 2004); Infanzon v. Ashcroft, 386 F. 3d 1359, 1361–1362
+(CA10 2004).
+8 Ali involved a decision, made discretionary by regulation, denying
+an alien’s request for a continuance.
+
+
+6
+
+KUCANA v. HOLDER
+Opinion of the Court
+
+he concluded, should revisit both Ali and Kucana and
+“chart a course . . . more closely adher[ing] to the statutory
+language chosen and enacted by Congress.” 533 F. 3d, at
+540.
+Judge Cudahy dissented. Given the absence of “specific
+[statutory] language entrusting the decision on a motion
+to reopen to the discretion of the Attorney General,” ibid.
+(internal quotation marks omitted), he saw no impediment
+to the exercise of jurisdiction over Kucana’s petition. In
+support of his position, Judge Cudahy invoked the “strong
+presumption that Congress intends judicial review of
+administrative action.” Id., at 541 (quoting Traynor v.
+Turnage, 485 U. S. 535, 542 (1988)). With four judges
+dissenting, the Seventh Circuit denied Kucana’s petition
+for rehearing en banc. See 533 F. 3d, at 541–542 (dissent
+ing statement of Ripple, J., joined by Rovner, Wood, and
+Williams, JJ.).
+We granted certiorari, 556 U. S. ___ (2009), to resolve the Circuit conflict. As it did before the Seventh
+Circuit, the Government agrees with Kucana that
+§1252(a)(2)(B)(ii) does not remove federal-court jurisdic
+tion to review the denial of a reopening motion. We ap
+pointed Amanda C. Leiter to brief and argue the case, as
+amicus curiae, in support of the Seventh Circuit’s judg
+ment. 557 U. S. ___ (2009). Ms. Leiter has ably dis
+charged her assigned responsibilities.
+II
+The motion to reopen is an “important safeguard” in
+tended “to ensure a proper and lawful disposition” of
+immigration proceedings. Dada v. Mukasey, 554 U. S. 1,
+___ (2008) (slip op., at 15–16); cf. Stone v. INS, 514 U. S.
+386, 401 (1995) (analogizing motions to reconsider immi
+gration decisions to motions for relief from a judgment
+under Federal Rule of Civil Procedure 60(b)). Federal
+court review of administrative decisions denying motions
+
+
+Cite as: 558 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+to reopen removal proceedings dates back to at least 1916.
+See Dada, 554 U. S., at ___ (slip op., at 9–10) (citing
+cases). This Court has ultimately reviewed reopening
+decisions on numerous occasions. See, e.g., INS v. Do
+herty, 502 U. S. 314, 322–324 (1992); INS v. Abudu, 485
+U. S. 94, 104–111 (1988); INS v. Rios-Pineda, 471 U. S.
+444, 449–452 (1985); INS v. Jong Ha Wang, 450 U. S. 139,
+141–146 (1981) (per curiam). Mindful of the Board’s
+“broad discretion” in such matters, however, courts have
+employed a deferential, abuse-of-discretion standard of
+review. See Doherty, 502 U. S., at 323 (internal quotation
+marks omitted).
+The Seventh Circuit held that Congress removed the
+authority long exercised by federal courts to review deni
+als of an alien’s reopening request. Congress did so, the
+Court of Appeals said, in §1252(a)(2)(B)(ii), which removes
+jurisdiction to review a decision of the Attorney General
+“the authority for which is specified under this subchapter
+to be in the discretion of the Attorney General.” All agree
+that the Attorney General’s regulation, 8 CFR §1003.2(a),
+places “[t]he decision to grant or deny a motion to reopen
+. . . within the discretion of the Board.” But the statute
+does not codify that prescription,9 and does not otherwise
+“specif[y]” that reopening decisions are “in the discretion
+of the Attorney General.”10
+——————
+9 As earlier noted, see supra, at 5, n. 6, the Seventh Circuit stated
+that the regulation specifying the Board’s discretion over motions to
+reopen, 8 CFR §1003.2(a), “draw[s] [its] force from provisions in the
+Act.” 533 F. 3d, at 536 (citing 8 U. S. C. §1229a(c)(7)). It is hard to see
+how the regulation could draw force from §1229a(c)(7), for the regula
+tion was already in force when that statutory provision was enacted.
+The regulation, 8 CFR §1003.2(a), was published April 29, 1996, 61
+Fed. Reg. 18900, 18904; 8 U. S. C. §1229a(c)(7) was enacted September
+30, 1996, §304, 110 Stat. 3009–593.
+10 The only statutory reference to discretion respecting motions to
+reopen appears in §1229a(c)(7)(C)(iv)(III), which gives the Attorney
+General “discretion” to waive one of the statute’s time limitations in
+
+
+8
+
+KUCANA v. HOLDER
+Opinion of the Court
+
+III
+A
+1
+The Board’s discretionary authority to act on a motion to
+reopen, we have thus far explained, is “specified” not in a
+statute, but only in the Attorney General’s regulation,
+which instructs: “The decision to grant or deny a motion to
+reopen . . . is within the discretion of the Board, subject to
+the restrictions of this section. The Board has discretion
+to deny a motion to reopen even if the party moving has
+made out a prima facie case for relief.” 8 CFR §1003.2(a).
+Nevertheless, in defense of the Seventh Circuit’s judg
+ment, amicus urges that regulations suffice to trigger 8
+U. S. C. §1252(a)(2)(B)(ii)’s proscription of judicial review.
+The jurisdiction-stripping provision, amicus reminds,
+refers to “authority . . . specified under this subchapter.”
+As she reads that formulation, the word “under” is key.
+She comprehends “under” to mean “pursuant to,” “subor
+dinate to,” “below or lower than,” “inferior . . . in rank or
+importance,” “by reason of the authority of.” Brief for
+——————
+extraordinary circumstances.
+Amicus urges that “the statutory language governing motions to
+reopen anticipates an exercise of Attorney General discretion when it
+states, ‘[t]he motion to reopen shall state the new facts that will be
+proven at a hearing to be held if the motion is granted.’ ” Brief for
+Court-Appointed Amicus Curiae in Support of Judgment Below 19, n. 8
+(quoting §1229a(c)(7)(B)). One can demur to the argument that Con
+gress anticipated that decisions on reopening motions would be discre
+tionary.
+Even so, the statutory proscription Congress enacted,
+§1252(a)(2)(B)(ii), speaks of authority “specified”—not merely assumed
+or contemplated—to be in the Attorney General’s discretion. “Speci
+fied” is not synonymous with “implied” or “anticipated.” See Webster’s
+New Collegiate Dictionary 1116 (1974) (“specify” means “to name or
+state explicitly or in detail”). See also Soltane v. U. S. Dept. of Justice,
+381 F. 3d 143, 147 (CA3 2004) (Alito, J.) (“[W]e do not think . . . that the
+use of marginally ambiguous statutory language, without more, is
+adequate to ‘specif[y]’ that a particular action is within the Attorney
+General’s discretion for the purposes of §1252(a)(2)(B)(ii).”).
+
+
+Cite as: 558 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+Court-Appointed Amicus Curiae in Support of Judgment
+Below 15, 17 (citing, inter alia, Florida Dept. of Revenue v.
+Piccadilly Cafeterias, Inc., 554 U. S. ___, ___ (2008) (slip
+op., at 5); Ardestani v. INS, 502 U. S. 129, 135 (1991)).
+Administrative regulations count for §1252(a)(2)(B) pur
+poses, she urges, because they are issued “pursuant to,”
+and are measures “subordinate to,” the legislation they
+serve to implement. The parties, on the other hand, read
+“specified under this subchapter” to mean “specified in,” or
+“specified by,” the subchapter.11
+On the reading amicus advances, §1252(a)(2)(B)(ii)
+would bar judicial review of any decision that an executive
+regulation places within the BIA’s discretion, including
+the decision to deny a motion to reopen. On the parties’
+reading, however, §1252(a)(2)(B)(ii) precludes judicial
+review only when the statute itself specifies the discre
+tionary character of the Attorney General’s authority.
+2
+As the parties and amicus recognize, their diverse ren
+derings of “under,” standing alone, do not equip us to
+resolve this case. The word “under” is chameleon; it “has
+many dictionary definitions and must draw its meaning
+from its context.” Ardestani, 502 U. S., at 135.12 Examin
+——————
+11 Defining
+
+“under,” as used in §1252(a)(2)(B)(ii), to mean “pursuant
+to,” or “subordinate to,” and not “in” or “by,” the Attorney General
+observes, would give rise to “a fatal anomaly”: “Section 1252(a)(2)(B)(ii)
+would apply only to regulations promulgated ‘under the authority of’
+the relevant subchapter, and not to specifications of discretion in the
+subchapter itself.” Reply Brief for Respondent 6.
+12 In an appendix to her brief, amicus lists hundreds of statutory
+provisions in which regulations are described as being issued “under” a
+statute. See App. A to Brief for Court-Appointed Amicus Curiae in
+Support of Judgment Below. In every one of those examples, Congress
+expressly used the word “regulations.”
+At oral argument, amicus called our attention to three instances in
+which Congress used the words “specified under” in Title 8, without any
+reference to “regulations,” to encompass agency matters. Tr. of Oral
+
+
+10
+
+KUCANA v. HOLDER
+Opinion of the Court
+
+ing, in statutory context, the provision in which the word
+“under” is embedded, we conclude that the parties’ posi
+tion stands on firmer ground.
+Section 1252(a)(2)(B)(ii), the provision at issue here, is
+far from the only jurisdictional limitation in IIRIRA. See
+Dada, 554 U. S., at ___ (slip op., at 13) (“In reading a
+statute we must not look merely to a particular clause, but
+consider in connection with it the whole statute.” (internal
+quotation marks omitted)); Davis v. Michigan Dept. of
+Treasury, 489 U. S. 803, 809 (1989) (“[T]he words of a
+statute must be read in their context and with a view to
+their place in the overall statutory scheme.”). Section
+1252(a)(2), titled “Matters not subject to judicial review,”
+lists a variety of agency determinations the federal courts
+lack jurisdiction to review. Those determinations divide
+into three categories. The first, §1252(a)(2)(A), concerns
+immigration officers’ determinations whether aliens apply
+ing for admission are admissible. Next in statutory order
+is the provision before us, §1252(a)(2)(B), which involves
+denials of discretionary relief.
+The last category,
+§1252(a)(2)(C), concerns final orders of removal entered
+against criminal aliens.
+Both §1252(a)(2)(A) and §1252(a)(2)(C) depend on statu
+tory provisions, not on any regulation, to define their
+scope. The latter provision, the criminal alien bar, pre
+cludes judicial review of “any final order of removal
+against an alien who is removable by reason of having
+committed a criminal offense covered in” §1182(a)(2),
+§1227(a)(2)(A)(iii), (B), (C), or (D), or certain offenses
+covered in §1227(a)(2)(A)(ii). All the defining references
+are statutory; none invokes a regulation. The same holds
+—————— 
+
+Arg. 47–48, 54–55 (citing §§1227(a)(1)(H), 1375a(a)(6), and 1537(b)(1)).
+
+These three provisions point to other parts of the Act, which in turn
+
+rely on administrative determinations. Amicus’ research underscores 
+
+the point that context defines “under.” 
+
+
+
+Cite as: 558 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+for the admissibility bar in §1252(a)(2)(A).
+Given
+§1252(a)(2)(B)’s statutory placement, sandwiched between
+subsections (a)(2)(A) and (a)(2)(C), one would expect that
+it, too, would cover statutory provisions alone.
+3
+Focusing on §1252(a)(2)(B), we note the lead line serving
+to introduce both of the subparagraph’s two clauses: “[N]o
+court shall have jurisdiction to review . . . .” Clause (i)
+then places within the no-judicial-review category “any
+judgment regarding the granting of relief under section
+1182(h), 1182(i), 1229b, 1229c, or 1255.” Each of the
+statutory provisions referenced in clause (i) addresses a
+different form of discretionary relief from removal, see
+supra, at 3, n. 2, and each contains language indicating
+that the decision is entrusted to the Attorney General’s
+discretion. See, e.g., §1182(h) (“The Attorney General
+may, in his discretion, waive [inadmissibility based on
+certain criminal offenses].”). Clause (i) does not refer to
+any regulatory provision.
+To the clause (i) enumeration of administrative judg
+ments that are insulated from judicial review, Congress
+added in clause (ii) a catchall provision covering “any
+other decision . . . the authority for which is specified
+under this subchapter.” The proximity of clauses (i) and
+(ii), and the words linking them—“any other decision”—
+suggests that Congress had in mind decisions of the same
+genre, i.e., those made discretionary by legislation.13 The
+clause (i) enumeration, we find, is instructive in determin
+——————
+13 Congress excepted from §1252(a)(2)(B)(ii) “the granting of relief
+under [§]1158(a).” Section 1158 concerns applications for asylum.
+Absent the exception, asylum applicants might fall within
+§1252(a)(2)(B)(ii)’s jurisdictional bar because a statutory provision,
+§1158(b)(1)(A), specifies that “the Attorney General may grant asylum.”
+(Emphasis added.) See Zadvydas v. Davis, 533 U. S. 678, 697 (2001)
+(“ ‘may’ suggests discretion”).
+
+
+12
+
+KUCANA v. HOLDER
+Opinion of the Court
+
+ing the meaning of the clause (ii) catchall. Read harmoni
+ously, both clauses convey that Congress barred court
+review of discretionary decisions only when Congress itself
+set out the Attorney General’s discretionary authority in
+the statute. See Hall Street Associates, L. L. C. v. Mattel,
+Inc., 552 U. S. ___, ___ (2008) (slip op., at 9) (“[W]hen a
+statute sets out a series of specific items ending with a
+general term, that general term is confined to covering
+subjects comparable to the specifics it follows.”).14
+4
+We also find significant the character of the decisions
+Congress enumerated in §1252(a)(2)(B)(i), thereby insulat
+ing them from judicial review. As the Government ex
+plained at oral argument, the determinations there listed
+are “substantive decisions . . . made by the Executive in
+the immigration context as a matter of grace, things that
+involve whether aliens can stay in the country or not.” Tr.
+of Oral Arg. 14.15 They include waivers of inadmissibility
+based on certain criminal offenses, §1182(h), or based on
+fraud or misrepresentation, §1182(i); cancellation of re
+——————
+14 Amicus suggests that the word “any” in §1252(a)(2)(B)(ii) should be
+read expansively to draw in decisions made discretionary by regulation.
+Brief for Court-Appointed Amicus Curiae in Support of Judgment
+Below 21–23. But §1252(a)(2)(B)(ii) does not say “any decision”; it says
+“any other decision.” And as we have just explained, other decisions
+falling within §1252(a)(2)(B)(ii)’s compass are most sensibly understood
+to include only decisions made discretionary by Congress. See Brief for
+Respondent 19–20, and n. 11 (noting that “over thirty provisions in the
+relevant subchapter of the INA . . . explicitly grant the Attorney Gen
+eral . . . ‘discretion’ to make a certain decision”).
+15 Counsel offered this explanation in response to the question: “Why
+would Congress want to exclude review for discretionary judgments by
+the Attorney General that are recited explicitly to be discretionary in
+the statute, but provide judicial review for judgments that are just as
+lawfully discretionary because the Attorney General is given the
+authority to make them discretionary and has done so?” Tr. of Oral
+Arg. 9; see id., at 13–14.
+
+
+Cite as: 558 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+moval, §1229b; permission for voluntary departure,
+§1229c; and adjustment of status, §1255.
+Other decisions specified by statute “to be in the discre
+tion of the Attorney General,” and therefore shielded from
+court oversight by §1252(a)(2)(B)(ii), are of a like kind.
+See, e.g., §1157(c)(1) (discretion to admit refugees “deter
+mined to be of special humanitarian concern to the United
+States”); §1181(b) (discretion to waive requirement of
+documentation for readmission); §1182(a)(3)(D)(iv) (discre
+tion to waive, in certain cases, inadmissibility of aliens
+who have affiliated with a totalitarian party). Decisions
+on reopening motions made discretionary by regulation, in
+contrast, are adjunct rulings: The motion to reopen is a
+procedural device serving to ensure “that aliens [a]re
+getting a fair chance to have their claims heard.” Tr. of
+Oral Arg. 17. A court decision reversing the denial of a
+motion to reopen does not direct the Executive to afford
+the alien substantive relief; ordinarily, it touches and
+concerns only the question whether the alien’s claims have
+been accorded a reasonable hearing.
+If Congress wanted the jurisdictional bar to encompass
+decisions specified as discretionary by regulation along
+with those made discretionary by statute, moreover, Con
+gress could easily have said so. In other provisions en
+acted simultaneously with §1252(a)(2)(B)(ii), Congress
+expressed precisely that meaning. See IIRIRA, §213, 110
+Stat. 3009–572 (“immigration benefits pursuant to this
+Act; or the regulations promulgated thereunder”), codified
+at 8 U. S. C. §1324c(e)(2); IIRIRA, §372, 110 Stat. 3009–
+646 (“any of the powers, privileges, or duties conferred or
+imposed by this Act or regulations issued thereunder”),
+codified at 8 U. S. C. §1103(a)(10). “[W]here Congress
+includes particular language in one section of a statute but
+omits it in another section of the same Act, it is generally
+presumed that Congress acts intentionally and purposely
+in the disparate inclusion or exclusion.” Nken v. Holder,
+
+
+14
+
+KUCANA v. HOLDER
+Opinion of the Court
+
+556 U. S. ___, ___ (2009) (slip op., at 11) (internal quota
+tion marks omitted).
+B
+The history of the relevant statutory provisions corrobo
+rates our determination that §1252(a)(2)(B)(ii) does not
+proscribe judicial review of denials of motions to reopen.
+Attorney General regulations have long addressed reopen
+ing requests. See 6 Fed. Reg. 71–72 (1941). The current
+regulations, adopted in 1996, 61 Fed. Reg. 18904–18906,
+derive from rules published in 1958, see 23 Fed. Reg.
+9118–9119; Dada, 554 U. S., at ___ (slip op., at 10).
+Enacting IIRIRA in 1996, Congress “transform[ed] the
+motion to reopen from a regulatory procedure to a statu
+tory form of relief available to the alien.” Id., at ___ (slip
+op., at 12). IIRIRA largely codified the Attorney General’s
+directions on filing reopening motions. See §1229a(c)(7)
+(guaranteeing right to file one motion, prescribing con
+tents, and setting deadlines).
+In the same legislation, Congress amended the INA
+aggressively to expedite removal of aliens lacking a legal
+basis to remain in the United States. See Reno v. Ameri
+can-Arab Anti-Discrimination Comm., 525 U. S. 471, 475
+(1999). Among IIRIRA’s several proscriptions of judicial
+review is the one here at issue, §1252(a)(2)(B)(ii), barring
+review of administrative decisions Congress placed within
+the Attorney General’s discretion.
+Congress thus simultaneously codified the process for
+filing motions to reopen and acted to bar judicial review of
+a number of executive decisions regarding removal. But
+Congress did not codify the regulation delegating to the
+BIA discretion to grant or deny motions to reopen. See 8
+CFR §1003.2(a) (reopening may be entertained not only on
+application; Board “may at any time reopen . . . on its own
+motion any case in which it has rendered a decision”).
+Had Congress elected to insulate denials of motions to
+
+
+Cite as: 558 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+reopen from judicial review, it could have so specified
+together with its codification of directions on filing reopen
+ing motions.
+From the Legislature’s silence on the discretion of the
+Attorney General (or his delegate, the Board) over reopen
+ing motions, see supra, at 7–8, n. 10, we take it that Con
+gress left the matter where it was pre-IIRIRA: The BIA
+has broad discretion, conferred by the Attorney General,
+“to grant or deny a motion to reopen,” 8 CFR §1003.2(a),
+but courts retain jurisdiction to review, with due respect,
+the Board’s decision.16 It is unsurprising that Congress
+would leave in place judicial oversight of this “important
+[procedural] safeguard” designed “to ensure a proper and
+lawful disposition” of immigration proceedings, Dada, 554
+U. S., at ___ (slip op., at 15–16), where, as here, the alien’s
+underlying claim (for asylum) would itself be reviewable.17
+In the REAL ID Act, Congress further amended the
+INA. By 2005, two Courts of Appeals had already ruled
+that 8 U. S. C. §1252(a)(2)(B)(ii) did not preclude them
+——————
+16 A statement in the House Conference Report on IIRIRA, amicus
+suggests, supports her argument that Congress intended broadly to
+foreclose judicial review of reopening denials.
+Brief for CourtAppointed Amicus Curiae in Support of Judgment Below 32–34. The
+report states that §1252(a)(2)(B) “bars judicial review . . . of any deci
+sion or action of the Attorney General which is specified to be in the
+discretion of the Attorney General.” H. R. Conf. Rep. No. 104–828,
+p. 219 (1996). That statement, as we read it, simply summarizes the
+statutory text at a general level. It does not home in on the question
+whether decisions made discretionary only by regulation are judicially
+reviewable.
+17 We do not reach the question whether review of a reopening denial
+would be precluded if the court would lack jurisdiction over the alien’s
+underlying claim for relief. Some courts confronting that question have
+refused to consider petitions for review of a reopening denial that seeks
+to revisit the denial of the underlying claim; they have reasoned that
+hearing the petition would end-run the bar to review of the petitioner’s
+core claim. See, e.g., Assaad v. Ashcroft, 378 F. 3d 471, 473–475 (CA5
+2004) (per curiam).
+
+
+16
+
+KUCANA v. HOLDER
+Opinion of the Court
+
+from reviewing denials of motions to reopen, see Infanzon
+v. Ashcroft, 386 F. 3d 1359, 1361–1362 (CA10 2004); Me
+dina-Morales v. Ashcroft, 371 F. 3d 520, 528–529 (CA9
+2004), and no court had reached a contrary result. Al
+though adding or reformulating provisions on asylum,
+§101(a), (b), 119 Stat. 302–303, protection from removal,
+§101(c), (d), id., at 303–305, even judicial review, §106, id.,
+at 310–311, the REAL ID Act did not disturb the unbroken
+line of decisions upholding court review of administrative
+denials of motions to reopen. See supra, at 6–7; supra, at
+3, n. 1.18
+IV
+Any lingering doubt about the proper interpretation of 8
+U. S. C. §1252(a)(2)(B)(ii) would be dispelled by a familiar
+principle of statutory construction: the presumption favor
+ing judicial review of administrative action. When a
+statute is “reasonably susceptible to divergent interpreta
+tion, we adopt the reading that accords with traditional
+understandings and basic principles: that executive de
+terminations generally are subject to judicial review.”
+Gutierrez de Martinez v. Lamagno, 515 U. S. 417, 434
+(1995). We have consistently applied that interpretive
+guide to legislation regarding immigration, and particu
+larly to questions concerning the preservation of federal
+court jurisdiction. See, e.g., INS v. St. Cyr, 533 U. S. 289,
+298 (2001); Catholic Social Services, Inc., 509 U. S., at 63–
+64; McNary, 498 U. S., at 496. Because the “presumption
+favoring interpretations of statutes [to] allow judicial
+——————
+18 We express no opinion on whether federal courts may review the
+Board’s decision not to reopen removal proceedings sua sponte. Courts
+of Appeals have held that such decisions are unreviewable because
+sua sponte reopening is committed to agency discretion by law, see 5
+U. S. C. §701(a)(2). See, e.g., Tamenut v. Mukasey, 521 F. 3d 1000,
+1003–1004 (CA8 2008) (en banc) (per curiam) (agreeing with ten other
+Courts of Appeals).
+
+
+Cite as: 558 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+review of administrative action” is “well-settled,” Catholic
+Social Services, Inc., 509 U. S., at 63–64 (quoting McNary,
+498 U. S., at 496), the Court assumes that “Congress
+legislates with knowledge of” the presumption, id., at 496.
+It therefore takes “clear and convincing evidence” to dis
+lodge the presumption. Catholic Social Services, Inc., 509
+U. S., at 64 (internal quotation marks omitted). There is
+no such evidence here.
+Finally, we stress a paramount factor in the decision we
+render today. By defining the various jurisdictional bars
+by reference to other provisions in the INA itself, Congress
+ensured that it, and only it, would limit the federal courts’
+jurisdiction. To read §1252(a)(2)(B)(ii) to apply to matters
+where discretion is conferred on the Board by regulation,
+rather than on the Attorney General by statute, would
+ignore that congressional design. If the Seventh Circuit’s
+construction of §1252(a)(2)(B)(ii) were to prevail, the Ex
+ecutive would have a free hand to shelter its own decisions
+from abuse-of-discretion appellate court review simply by
+issuing a regulation declaring those decisions “discretion
+ary.” Such an extraordinary delegation of authority can
+not be extracted from the statute Congress enacted.
+V
+A statute affecting federal jurisdiction “must be con
+strued both with precision and with fidelity to the terms
+by which Congress has expressed its wishes.” Cheng Fan
+Kwok v. INS, 392 U. S. 206, 212 (1968). As we have noted,
+see supra, at 14, and as amicus emphasizes, “many provi
+sions of IIRIRA [we]re aimed at protecting [from court
+review exercises of] the Executive’s discretion.” AmericanArab Anti-Discrimination Comm., 525 U. S., at 486 (em
+phasis deleted). But “no law pursues its purpose at all
+costs, and . . . the textual limitations upon a law’s scope
+are no less a part of its ‘purpose’ than its substantive
+authorizations.” Rapanos v. United States, 547 U. S. 715,
+
+
+18
+
+KUCANA v. HOLDER
+Opinion of the Court
+
+752 (2006) (plurality opinion). While Congress pared back
+judicial review in IIRIRA, it did not delegate to the Execu
+tive authority to do so. Action on motions to reopen, made
+discretionary by the Attorney General only, therefore
+remain subject to judicial review.
+*
+*
+*
+For the reasons stated, the judgment of the United
+States Court of Appeals for the Seventh Circuit is re
+versed, and the case is remanded for further proceedings
+consistent with this opinion.
+It is so ordered.
+
+

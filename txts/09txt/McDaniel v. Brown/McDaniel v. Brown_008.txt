@@ -1,0 +1,43 @@
+8
+
+MCDANIEL v. BROWN
+Per Curiam
+
+Romero’s qualifications as an expert or the validity of any
+of the tests that she performed. Mueller instead contends
+that Romero committed the so-called “prosecutor’s fallacy”
+and that she underestimated the probability of a DNA
+match between respondent and one of his brothers.
+The prosecutor’s fallacy is the assumption that the
+random match probability is the same as the probability
+that the defendant was not the source of the DNA sample.
+See Nat. Research Council, Comm. on DNA Forensic
+Science, The Evaluation of Forensic DNA Evidence 133
+(1996) (“Let P equal the probability of a match, given the
+evidence genotype. The fallacy is to say that P is also the
+probability that the DNA at the crime scene came from
+someone other than the defendant”). In other words, if a
+juror is told the probability a member of the general popu
+lation would share the same DNA is 1 in 10,000 (random
+match probability), and he takes that to mean there is
+only a 1 in 10,000 chance that someone other than the
+defendant is the source of the DNA found at the crime
+scene (source probability), then he has succumbed to the
+prosecutor’s fallacy. It is further error to equate source
+probability with probability of guilt, unless there is no
+explanation other than guilt for a person to be the source
+of crime-scene DNA. This faulty reasoning may result in
+an erroneous statement that, based on a random match
+probability of 1 in 10,000, there is a .01% chance the de
+fendant is innocent or a 99.99% chance the defendant is
+guilty.
+The Mueller Report does not dispute Romero’s opinion
+that only 1 in 3,000,000 people would have the same DNA
+profile as the rapist. Mueller correctly points out, how
+ever, that some of Romero’s testimony—as well as the
+prosecutor’s argument—suggested that the evidence also
+established that there was only a .000033% chance that
+respondent was innocent. The State concedes as much.
+Brief for Petitioners 54. For example, the prosecutor
+
+

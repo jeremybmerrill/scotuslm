@@ -1,0 +1,56 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–304
+_________________
+
+GRAHAM COUNTY SOIL AND WATER CONSERVA-
+
+TION DISTRICT, ET AL., PETITIONERS v. UNITED 
+
+STATES EX REL. KAREN T. WILSON 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FOURTH CIRCUIT
+
+[March 30, 2010] 
+
+
+JUSTICE STEVENS delivered the opinion of the Court.
+Since its enactment during the Civil War, the False
+Claims Act, 31 U. S. C. §§3729–3733, has authorized both
+the Attorney General and private qui tam relators to
+recover from persons who make false or fraudulent claims
+for payment to the United States. The Act now contains a
+provision barring qui tam actions based upon the public
+disclosure of allegations or transactions in certain speci
+fied sources. §3730(e)(4)(A). The question before us is
+whether the reference to “administrative” reports, audits,
+and investigations in that provision encompasses disclo
+sures made in state and local sources as well as federal
+sources. We hold that it does.1
+——————
+1 On
+
+March 23, 2010, the President signed into law the Patient Pro
+tection and Affordable Care Act, Pub. L. 111–148, 124 Stat. 119.
+Section 10104(j)(2) of this legislation replaces the prior version of 31
+U. S. C. §3730(e)(4) with new language. The legislation makes no
+mention of retroactivity, which would be necessary for its application to
+pending cases given that it eliminates petitioners’ claimed defense to a
+qui tam suit. See Hughes Aircraft Co. v. United States ex rel. Schumer,
+520 U. S. 939, 948 (1997). Throughout this opinion, we use the present
+
+

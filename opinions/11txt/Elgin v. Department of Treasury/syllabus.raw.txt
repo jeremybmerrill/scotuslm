@@ -1,0 +1,153 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+ELGIN ET AL. v. DEPARTMENT OF THE TREASURY
+
+ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FIRST CIRCUIT
+No. 11–45. Argued February 27, 2012—Decided June 11, 2012
+The Civil Service Reform Act of 1978 (CSRA) “established a comprehensive system for reviewing personnel action taken against federal
+employees,” United States v. Fausto, 484 U. S. 439, 455, including
+removals, 5 U. S. C. §7512. A qualifying employee has the right to a
+hearing before the Merit Systems Protection Board (MSPB),
+§§7513(d), 7701(a)(1)–(2), which is authorized to order reinstatement,
+backpay, and attorney’s fees, §§1204(a)(2), 7701(g). An employee who
+is dissatisfied with the MSPB’s decision is entitled to judicial review
+in the Federal Circuit. §§7703(a)(1), (b)(1).
+Petitioners were federal employees discharged pursuant to 5
+U. S. C. §3328, which bars from Executive agency employment anyone who has knowingly and willfully failed to register for the Selective Service as required by the Military Selective Service Act, 50
+U. S. C. App. §453. Petitioner Elgin challenged his removal before
+the MSPB, claiming that §3328 is an unconstitutional bill of attainder and unconstitutionally discriminates based on sex when combined with the Military Selective Service Act’s male-only registration
+requirement. The MSPB referred the case to an Administrative Law
+Judge (ALJ), who dismissed the appeal for lack of jurisdiction, concluding that an employee is not entitled to MSPB review of agency
+action that is based on an absolute statutory bar to employment. The
+ALJ also concluded that the MSPB lacked authority to determine the
+constitutionality of a federal statute. Rather than seeking further
+MSPB review or appealing to the Federal Circuit, Elgin joined other
+petitioners raising the same constitutional challenges to their removals in a suit in Federal District Court. The District Court found that
+it had jurisdiction and denied petitioners’ constitutional claims on the
+
+
+2
+
+ELGIN v. DEPARTMENT OF TREASURY
+Syllabus
+merits. The First Circuit vacated and remanded with instructions to
+dismiss for lack of jurisdiction. The First Circuit held that petitioners were employees entitled to MSPB review despite the statutory
+bar to their employment. The court further concluded that challenges to a removal are not exempt from the CSRA review scheme simply
+because an employee challenges the constitutionality of the statute
+authorizing the removal.
+
+Held: The CSRA precludes district court jurisdiction over petitioners’
+claims because it is fairly discernible that Congress intended the
+statute’s review scheme to provide the exclusive avenue to judicial
+review for covered employees who challenge covered adverse employment actions, even when those employees argue that a federal
+statute is unconstitutional. Pp. 5–20.
+(a) Relying on Webster v. Doe, 486 U. S. 592, 603, petitioners claim
+that 28 U. S. C. §1331’s general grant of federal-question jurisdiction
+to district courts remains undisturbed unless Congress explicitly directs otherwise. But Webster’s “heightened showing” applies only
+when a statute purports to “deny any judicial forum for a colorable
+constitutional claim,” 486 U. S., at 603, not when Congress channels
+judicial review of a constitutional claim to a particular court, see
+Thunder Basin Coal Co. v. Reich, 510 U. S. 200. Here, where the
+claims can be “meaningfully addressed in the” Federal Circuit, id., at
+215, the proper inquiry is whether Congress’ intent to preclude district court jurisdiction was “ ‘fairly discernible in the statutory
+scheme,’ ” id., at 207. Pp. 5–6.
+(b) It is “fairly discernible” from the CSRA’s text, structure, and
+purpose that Congress precluded district court jurisdiction over petitioners’ claims. Pp. 6–12.
+(1) Just as the CSRA’s “elaborate” framework demonstrated
+Congress’ intent to entirely foreclose judicial review to employees to
+whom the CSRA denies statutory review in Fausto, 484 U. S., at 443,
+the CSRA indicates that extrastatutory review is not available to
+those employees to whom the CSRA grants administrative and judicial review. It “prescribes in great detail the protections and remedies applicable to” adverse personnel actions against federal employees, ibid., specifically enumerating the major adverse actions and
+employee classifications to which the CSRA’s procedural protections
+and review provisions apply, §§7511, 7512, setting out the procedures
+due an employee prior to final agency action, §7513, and exhaustively
+detailing the system of review before the MSPB and the Federal Circuit, §§7701, 7703. Petitioners and the Government do not dispute
+that petitioners are removed employees to whom CSRA review is
+provided, but petitioners claim that there is an exception to the
+CSRA review scheme for employees who bring constitutional chal-
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+Syllabus
+lenges to federal statutes; this claim finds no support in the CSRA’s
+text and structure. The availability of administrative and judicial
+review under the CSRA generally turns on the type of civil service
+employee and adverse employment action at issue. Nothing in the
+CSRA’s text suggests that its exclusive review scheme is inapplicable
+simply because a covered employee raises a constitutional challenge.
+And §7703(b)(2)—which expressly exempts from Federal Circuit review challenges alleging that a covered action was based on discrimination prohibited by enumerated federal employment laws—
+demonstrates that Congress knew how to provide alternative forums
+for judicial review based on the nature of an employee’s claim. Pp. 6–
+10.
+(2) The CSRA’s purpose also supports the conclusion that the
+statutory review scheme is exclusive, even for constitutional challenges. The CSRA’s objective of creating an integrated review
+scheme to replace inconsistent decisionmaking and duplicative judicial review would be seriously undermined if a covered employee
+could challenge a covered employment action first in a district court,
+and then again in a court of appeals, simply by challenging the constitutionality of the statutory authorization for the action. Claimsplitting and preclusion doctrines would not necessarily eliminate the
+possibility of parallel proceedings before the MSPB and the district
+court, and petitioners point to nothing in the CSRA to support the notion that Congress intended to allow employees to pursue constitutional claims in district court at the expense of forgoing other, potentially meritorious claims before the MSPB. Pp. 10–12.
+(c) Petitioners invoke the “presum[ption] that Congress does not intend to limit [district court] jurisdiction if ‘a finding of preclusion
+could foreclose all meaningful judicial review’; if the suit is ‘wholly
+collateral to a statute’s review provisions’; and if the claims are ‘outside the agency’s expertise.’ ” Free Enterprise Fund v. Public Company Accounting Oversight Bd., 561 U. S. ___, ___. But none of those
+characteristics is present here. Pp. 12–20.
+(1) Petitioners’ constitutional claims can receive meaningful review within the CSRA scheme even if the MSPB, as it claims, is not
+authorized to decide a federal law’s constitutionality. Their claims
+can be “meaningfully addressed” in the Federal Circuit, which has
+held that it can determine the constitutionality of a statute upon
+which an employee’s removal was based, notwithstanding the
+MSPB’s professed lack of authority to decide the question. The CSRA
+review scheme also fully accommodates the potential need for a factual record. Even without factfinding capabilities, the Federal Circuit may take judicial notice of facts relevant to the constitutional
+question. If further development is necessary, the CSRA empowers
+
+
+4
+
+ELGIN v. DEPARTMENT OF TREASURY
+Syllabus
+the MSPB to take evidence and find facts for Federal Circuit review.
+See 5 U. S. C. §§1204(b)(1)–(2). Petitioners err in arguing that the
+MSPB will invariably dismiss a case without ever reaching the factfinding stage in an appeal such as theirs. The MSPB may determine
+that it lacks authority to decide the issue; but absent another infirmity in the adverse action, it will affirm the employing agency’s decision. The Federal Circuit can then review the decision, including any
+factual record developed by the MSPB. Petitioners’ argument is not
+illustrated by Elgin’s case, which was dismissed on the threshold
+ground that he was not an “employee” with a right to appeal because
+his employment was absolutely barred by statute. Pp. 12–18.
+(2) Petitioners’ claims are also not “wholly collateral” to the
+CSRA scheme. Their constitutional claims are the vehicle by which
+they seek to reverse the removal decisions, to return to federal employment, and to receive lost compensation. A challenge to removal
+is precisely the type of personnel action regularly adjudicated by the
+MSPB and the Federal Circuit within the CSRA scheme, and reinstatement, backpay, and attorney’s fees are precisely the kinds of relief that the CSRA empowers the MSPB and the Federal Circuit to
+provide. Pp. 18–19.
+(3) Finally, in arguing that their constitutional claims are not the
+sort that Congress intended to channel through the MSPB because
+they are beyond the MSPB’s expertise, petitioners overlook the many
+threshold questions that may accompany a constitutional claim and
+to which the MSPB can apply its expertise, e.g., whether a resignation, as in petitioner Tucker’s case, amounts to a constructive discharge. Pp. 19–20.
+
+641 F. 3d 6, affirmed.
+THOMAS, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and SCALIA, KENNEDY, BREYER, and SOTOMAYOR, JJ., joined.
+ALITO, J., filed a dissenting opinion, in which GINSBURG and KAGAN, JJ.,
+joined.
+
+

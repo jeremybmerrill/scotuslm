@@ -1,0 +1,43 @@
+14
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+enough to reject this novel interpretation of Carmack,
+which was neither urged by any party nor adopted by any
+authority that has been called to this Court’s attention.
+This would be a quite different case if, as in Reider, the
+bills of lading for the overseas transport ended at this
+country’s ports and the cargo owners then contracted with
+Union Pacific to complete a new journey to an inland
+destination in the United States. Under those circum
+stances, Union Pacific would have been the receiving rail
+carrier and would have been required to issue a separate
+Carmack-compliant bill of lading to the cargo owners. See
+Reider, 339 U. S., at 117 (“If the various parties dealing
+with this shipment separated the carriage into distinct
+portions by their contracts, it is not for courts judicially to
+meld the portions into something they are not”).
+The Court of Appeals interpreted Carmack as applying
+to any domestic rail segment of an overseas shipment,
+regardless of whether Carmack required a bill of lading.
+The court rested on the assumption that “[STB]’s jurisdic
+tion . . . is coextensive with Carmack’s coverage.” 557
+F. 3d, at 992. Yet, as explained above, Carmack applies
+only to shipments for which Carmack requires a bill of
+lading; that is to say, to shipments that start with a car
+rier that is both subject to the STB’s jurisdiction and
+“receives [the property] for [domestic rail] transportation.”
+The Court of Appeals ignored this “receive[d] . . . for trans
+portation” limitation and so reached the wrong conclusion.
+See, e.g., Reiter v. Sonotone Corp., 442 U. S. 330, 339
+(1979) (courts are “obliged to give effect, if possible, to
+every word Congress used”).
+The Court of Appeals’ conclusion is also an awkward fit
+with Carmack’s venue provisions. Under Carmack, a suit
+against the “originating” (that is, receiving) rail carrier
+that has not actually caused the damage to the goods “may
+only be brought . . . in the judicial district in which the
+point of origin is located.” §11706(d)(2)(A), (A)(i). Suit
+
+

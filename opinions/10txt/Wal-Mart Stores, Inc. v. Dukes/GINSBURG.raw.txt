@@ -1,0 +1,492 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+Opinion of GINSBURG, J.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–277
+_________________
+
+WAL-MART STORES, INC., PETITIONER v.
+
+BETTY DUKES ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[June 20, 2011] 
+
+
+JUSTICE GINSBURG, with whom JUSTICE BREYER,
+JUSTICE SOTOMAYOR, and JUSTICE KAGAN join, concurring
+in part and dissenting in part.
+The class in this case, I agree with the Court, should not
+have been certified under Federal Rule of Civil Procedure
+23(b)(2). The plaintiffs, alleging discrimination in viola
+tion of Title VII, 42 U. S. C. §2000e et seq., seek monetary
+relief that is not merely incidental to any injunctive or
+declaratory relief that might be available. See ante, at 20–
+27. A putative class of this type may be certifiable under
+Rule 23(b)(3), if the plaintiffs show that common class questions “predominate” over issues affecting individuals—
+e.g., qualification for, and the amount of, backpay or com
+pensatory damages—and that a class action is “superior”
+to other modes of adjudication.
+Whether the class the plaintiffs describe meets the
+specific requirements of Rule 23(b)(3) is not before the
+Court, and I would reserve that matter for consideration
+and decision on remand.1 The Court, however, disqualifies
+the class at the starting gate, holding that the plaintiffs
+cannot cross the “commonality” line set by Rule 23(a)(2).
+——————
+1 The plaintiffs requested Rule 23(b)(3) certification as an alternative,
+should their request for (b)(2) certification fail. Plaintiffs’ Motion for
+Class Certification in No. 3:01–cv–02252–CRB (ND Cal.), Doc. 99, p. 47.
+
+
+2
+
+WAL-MART STORES, INC. v. DUKES
+Opinion of GINSBURG, J.
+
+In so ruling, the Court imports into the Rule 23(a) de
+termination concerns properly addressed in a Rule 23(b)(3)
+assessment.
+I
+
+A
+
+Rule 23(a)(2) establishes a preliminary requirement for
+maintaining a class action: “[T]here are questions of law or
+fact common to the class.”2 The Rule “does not require
+that all questions of law or fact raised in the litigation be
+common,” 1 H. Newberg & A. Conte, Newberg on Class
+Actions §3.10, pp. 3–48 to 3–49 (3d ed. 1992); indeed,
+“[e]ven a single question of law or fact common to the
+members of the class will satisfy the commonality re
+quirement,” Nagareda, The Preexistence Principle and the
+Structure of the Class Action, 103 Colum. L. Rev. 149, 176,
+n. 110 (2003). See Advisory Committee’s 1937 Notes on
+Fed. Rule Civ. Proc. 23, 28 U. S. C. App., p. 138 (citing
+with approval cases in which “there was only a question of
+law or fact common to” the class members).
+A “question” is ordinarily understood to be “[a] subject
+or point open to controversy.” American Heritage Diction
+ary 1483 (3d ed. 1992). See also Black’s Law Dictionary
+1366 (9th ed. 2009) (defining “question of fact” as “[a]
+disputed issue to be resolved . . . [at] trial” and “question of
+law” as “[a]n issue to be decided by the judge”). Thus, a
+“question” “common to the class” must be a dispute, either
+——————
+2 Rule 23(a) lists three other threshold requirements for class-action
+certification: “(1) the class is so numerous that joinder of all members is
+impracticable”; “(3) the claims or defenses of the representative parties
+are typical of the claims or defenses of the class; and (4) the representa
+tive parties will fairly and adequately protect the interests of the class.”
+The numerosity requirement is clearly met and Wal-Mart does not
+contend otherwise. As the Court does not reach the typicality and
+adequacy requirements, ante, at 9, n. 5, I will not discuss them either,
+but will simply record my agreement with the District Court’s resolu
+tion of those issues.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Opinion of GINSBURG, J.
+
+of fact or of law, the resolution of which will advance the
+determination of the class members’ claims.3
+B
+The District Court, recognizing that “one significant is
+sue common to the class may be sufficient to warrant cer
+tification,” 222 F. R. D. 137, 145 (ND Cal. 2004), found
+that the plaintiffs easily met that test. Absent an error of
+law or an abuse of discretion, an appellate tribunal has no
+warrant to upset the District Court’s finding of commonal
+ity. See Califano v. Yamasaki, 442 U. S. 682, 703 (1979)
+(“[M]ost issues arising under Rule 23 . . . [are] committed
+in the first instance to the discretion of the district
+court.”).
+The District Court certified a class of “[a]ll women em
+ployed at any Wal-Mart domestic retail store at any time
+since December 26, 1998.” 222 F. R. D., at 141–143 (in
+ternal quotation marks omitted). The named plaintiffs,
+led by Betty Dukes, propose to litigate, on behalf of the
+class, allegations that Wal-Mart discriminates on the basis
+of gender in pay and promotions. They allege that the
+company “[r]eli[es] on gender stereotypes in making em
+ployment decisions such as . . . promotion[s] [and] pay.”
+App. 55a. Wal-Mart permits those prejudices to infect
+personnel decisions, the plaintiffs contend, by leaving pay
+and promotions in the hands of “a nearly all male manage
+rial workforce” using “arbitrary and subjective criteria.”
+Ibid. Further alleged barriers to the advancement of
+female employees include the company’s requirement, “as
+a condition of promotion to management jobs, that em
+——————
+3 The Court suggests Rule 23(a)(2) must mean more than it says. See
+ante, at 8–10. If the word “questions” were taken literally, the majority
+asserts, plaintiffs could pass the Rule 23(a)(2) bar by “[r]eciting . . .
+questions” like “Do all of us plaintiffs indeed work for Wal-Mart?” Ante,
+at 9. Sensibly read, however, the word “questions” means disputed
+issues, not any utterance crafted in the grammatical form of a question.
+
+
+4
+
+WAL-MART STORES, INC. v. DUKES
+Opinion of GINSBURG, J.
+
+ployees be willing to relocate.” Id., at 56a. Absent in
+struction otherwise, there is a risk that managers will act
+on the familiar assumption that women, because of their
+services to husband and children, are less mobile than
+men. See Dept. of Labor, Federal Glass Ceiling Commis
+sion, Good for Business: Making Full Use of the Nation’s
+Human Capital 151 (1995).
+Women fill 70 percent of the hourly jobs in the retailer’s
+stores but make up only “33 percent of management em
+ployees.” 222 F. R. D., at 146. “[T]he higher one looks in
+the organization the lower the percentage of women.” Id.,
+at 155. The plaintiffs’ “largely uncontested descriptive
+statistics” also show that women working in the company’s
+stores “are paid less than men in every region” and “that
+the salary gap widens over time even for men and women
+hired into the same jobs at the same time.” Ibid.; cf.
+Ledbetter v. Goodyear Tire & Rubber Co., 550 U. S. 618,
+643 (2007) (GINSBURG, J., dissenting).
+The District Court identified “systems for . . . promoting
+in-store employees” that were “sufficiently similar across
+regions and stores” to conclude that “the manner in which
+these systems affect the class raises issues that are com
+mon to all class members.” 222 F. R. D., at 149. The
+selection of employees for promotion to in-store manage
+ment “is fairly characterized as a ‘tap on the shoulder’
+process,” in which managers have discretion about whose
+shoulders to tap. Id., at 148. Vacancies are not regularly
+posted; from among those employees satisfying minimum
+qualifications, managers choose whom to promote on the
+basis of their own subjective impressions. Ibid.
+Wal-Mart’s compensation policies also operate uniformly
+across stores, the District Court found. The retailer leaves
+open a $2 band for every position’s hourly pay rate. WalMart provides no standards or criteria for setting wages
+within that band, and thus does nothing to counter uncon
+scious bias on the part of supervisors. See id., at 146–147.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Opinion of GINSBURG, J.
+
+Wal-Mart’s supervisors do not make their discretion
+ary decisions in a vacuum. The District Court reviewed
+means Wal-Mart used to maintain a “carefully constructed
+. . . corporate culture,” such as frequent meetings to reinforce the common way of thinking, regular transfers of
+managers between stores to ensure uniformity through
+out the company, monitoring of stores “on a close and con
+stant basis,” and “Wal-Mart TV,” “broadcas[t] . . . into
+all stores.” Id., at 151–153 (internal quotation marks
+omitted).
+The plaintiffs’ evidence, including class members’ tales
+of their own experiences,4 suggests that gender bias suf
+fused Wal-Mart’s company culture. Among illustrations,
+senior management often refer to female associates as
+“little Janie Qs.” Plaintiffs’ Motion for Class Certification
+in No. 3:01–cv–02252–CRB (ND Cal.), Doc. 99, p. 13 (in
+ternal quotation marks omitted). One manager told an
+employee that “[m]en are here to make a career and
+women aren’t.” 222 F. R. D., at 166 (internal quotation
+marks omitted). A committee of female Wal-Mart execu
+tives concluded that “[s]tereotypes limit the opportunities
+offered to women.” Plaintiffs’ Motion for Class Certifica
+tion in No. 3:01–cv–02252–CRB (ND Cal.), Doc. 99, at 16
+(internal quotation marks omitted).
+Finally, the plaintiffs presented an expert’s appraisal to
+show that the pay and promotions disparities at Wal-Mart
+“can be explained only by gender discrimination and not
+by . . . neutral variables.” 222 F. R. D., at 155. Using
+regression analyses, their expert, Richard Drogin, con
+——————
+4 The majority purports to derive from Teamsters v. United States,
+431 U. S. 324 (1977), a rule that a discrimination claim, if accompanied
+by anecdotes, must supply them in numbers proportionate to the size of
+the class. Ante, at 17–18. Teamsters, the Court acknowledges, see
+ante, at 18, n. 9, instructs that statistical evidence alone may suffice,
+431 U. S., at 339; that decision can hardly be said to establish a nu
+merical floor before anecdotal evidence can be taken into account.
+
+
+6
+
+WAL-MART STORES, INC. v. DUKES
+Opinion of GINSBURG, J.
+
+trolled for factors including, inter alia, job performance,
+length of time with the company, and the store where an
+employee worked. Id., at 159.5 The results, the District
+Court found, were sufficient to raise an “inference of dis
+crimination.” Id., at 155–160.
+C
+The District Court’s identification of a common question,
+whether Wal-Mart’s pay and promotions policies gave rise
+to unlawful discrimination, was hardly infirm. The prac
+tice of delegating to supervisors large discretion to make
+personnel decisions, uncontrolled by formal standards, has
+long been known to have the potential to produce dispa
+rate effects. Managers, like all humankind, may be prey
+to biases of which they are unaware.6 The risk of dis
+crimination is heightened when those managers are pre
+dominantly of one sex, and are steeped in a corporate
+culture that perpetuates gender stereotypes.
+The plaintiffs’ allegations resemble those in one of the
+——————
+5 The Court asserts that Drogin showed only average differences at
+the “regional and national level” between male and female employees.
+Ante, at 16 (internal quotation marks omitted). In fact, his regression
+analyses showed there were disparities within stores. The majority’s
+contention to the contrary reflects only an arcane disagreement about
+statistical method—which the District Court resolved in the plaintiffs’
+favor. 222 F. R. D. 137, 157 (ND Cal. 2004). Appellate review is no
+occasion to disturb a trial court’s handling of factual disputes of this
+order.
+6 An example vividly illustrates how subjective decisionmaking can be
+a vehicle for discrimination. Performing in symphony orchestras was
+long a male preserve. Goldin and Rouse, Orchestrating Impartiality:
+The Impact of “Blind” Auditions on Female Musicians, 90 Am. Econ.
+Rev. 715, 715–716 (2000). In the 1970’s orchestras began hiring musi
+cians through auditions open to all comers. Id., at 716. Reviewers were
+to judge applicants solely on their musical abilities, yet subconscious
+bias led some reviewers to disfavor women. Orchestras that permitted
+reviewers to see the applicants hired far fewer female musicians than
+orchestras that conducted blind auditions, in which candidates played
+behind opaque screens. Id., at 738.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+Opinion of GINSBURG, J.
+
+prototypical cases in this area, Leisner v. New York Tel.
+Co., 358 F. Supp. 359, 364–365 (SDNY 1973). In deciding
+on promotions, supervisors in that case were to start with
+objective measures; but ultimately, they were to “look at
+the individual as a total individual.” Id., at 365 (internal
+quotation marks omitted). The final question they were to
+ask and answer: “Is this person going to be successful in
+our business?” Ibid. (internal quotation marks omitted).
+It is hardly surprising that for many managers, the ideal
+candidate was someone with characteristics similar to
+their own.
+We have held that “discretionary employment practices”
+can give rise to Title VII claims, not only when such prac
+tices are motivated by discriminatory intent but also when
+they produce discriminatory results. See Watson v. Fort
+Worth Bank & Trust, 487 U. S. 977, 988, 991 (1988). But
+see ante, at 17 (“[P]roving that [a] discretionary system
+has produced a . . . disparity is not enough.”). In Watson,
+as here, an employer had given its managers large author
+ity over promotions. An employee sued the bank under
+Title VII, alleging that the “discretionary promotion sys
+tem” caused a discriminatory effect based on race. 487
+U. S., at 984 (internal quotation marks omitted). Four
+different supervisors had declined, on separate occasions,
+to promote the employee. Id., at 982. Their reasons were
+subjective and unknown. The employer, we noted “had
+not developed precise and formal criteria for evaluating
+candidates”; “[i]t relied instead on the subjective judgment
+of supervisors.” Ibid.
+Aware of “the problem of subconscious stereotypes and
+prejudices,” we held that the employer’s “undisciplined
+system of subjective decisionmaking” was an “employment
+practic[e]” that “may be analyzed under the disparate
+impact approach.” Id., at 990–991. See also Wards Cove
+Packing Co. v. Atonio, 490 U. S. 642, 657 (1989) (recogniz
+ing “the use of ‘subjective decision making’ ” as an “em
+
+
+8
+
+WAL-MART STORES, INC. v. DUKES
+Opinion of GINSBURG, J.
+
+ployment practic[e]” subject to disparate-impact attack).
+The plaintiffs’ allegations state claims of gender dis
+crimination in the form of biased decisionmaking in both
+pay and promotions. The evidence reviewed by the Dis
+trict Court adequately demonstrated that resolving those
+claims would necessitate examination of particular poli
+cies and practices alleged to affect, adversely and globally,
+women employed at Wal-Mart’s stores. Rule 23(a)(2),
+setting a necessary but not a sufficient criterion for class
+action certification, demands nothing further.
+II 
+
+A
+
+The Court gives no credence to the key dispute common
+to the class: whether Wal-Mart’s discretionary pay and pro
+motion policies are discriminatory. See ante, at 9 (“Reciting” questions like “Is [giving managers discretion over
+pay] an unlawful employment practice?” “is not sufficient to obtain class certification.”). “What matters,” the
+Court asserts, “is not the raising of common ‘questions,’ ”
+but whether there are “[d]issimilarities within the pro
+posed class” that “have the potential to impede the genera
+tion of common answers.” Ante, at 9–10 (quoting Na
+gareda, Class Certification in the Age of Aggregate Proof,
+84 N. Y. U. L. Rev. 97, 132 (2009); some internal quotation
+marks omitted).
+The Court blends Rule 23(a)(2)’s threshold criterion
+with the more demanding criteria of Rule 23(b)(3), and
+thereby elevates the (a)(2) inquiry so that it is no longer
+“easily satisfied,” 5 J. Moore et al., Moore’s Federal Prac
+tice §23.23[2], p. 23–72 (3d ed. 2011).7 Rule 23(b)(3) certi
+——————
+7 The Court places considerable weight on General Telephone Co. of
+Southwest v. Falcon, 457 U. S. 147 (1982). Ante, at 12–13. That case
+has little relevance to the question before the Court today. The lead
+plaintiff in Falcon alleged discrimination evidenced by the company’s
+failure to promote him and other Mexican-American employees and
+
+
+Cite as: 564 U. S. ____ (2011)
+
+9
+
+Opinion of GINSBURG, J.
+
+fication requires, in addition to the four 23(a) findings, de
+terminations that “questions of law or fact common to
+class members predominate over any questions affecting
+only individual members” and that “a class action is supe
+rior to other available methods for . . . adjudicating the
+controversy.”8
+The Court’s emphasis on differences between class
+members mimics the Rule 23(b)(3) inquiry into whether
+common questions “predominate” over individual issues.
+And by asking whether the individual differences “impede”
+common adjudication, ante, at 10 (internal quotation
+marks omitted), the Court duplicates 23(b)(3)’s question
+whether “a class action is superior” to other modes of
+adjudication. Indeed, Professor Nagareda, whose “dissimi
+——————
+failure to hire Mexican-American applicants. There were “no common
+questions of law or fact” between the claims of the lead plaintiff and the
+applicant class. 457 U. S., at 162 (Burger, C. J., concurring in part and
+dissenting in part) (emphasis added). The plaintiff-employee alleged
+that the defendant-employer had discriminated against him intention
+ally. The applicant class claims, by contrast, were “advanced under the
+‘adverse impact’ theory,” ibid., appropriate for facially neutral prac
+tices. “[T]he only commonality [wa]s that respondent is a MexicanAmerican and he seeks to represent a class of Mexican-Americans.”
+Ibid. Here the same practices touch and concern all members of the
+class.
+8 “A class action may be maintained if Rule 23(a) is satisfied and if:
+“(1) prosecuting separate actions by or against individual class mem
+bers would create a risk of . . . inconsistent or varying adjudications . . .
+[or] adjudications with respect to individual class members that, as a
+practical matter, would be dispositive of the interests of the other
+members . . . ;
+“(2) the party opposing the class has acted or refused to act on
+grounds that apply generally to the class, so that final injunctive relief
+. . . is appropriate respecting the class as a whole; or
+“(3) the court finds that the questions of law or fact common to class
+members predominate over any questions affecting only individual
+members, and that a class action is superior to other available methods
+for fairly and efficiently adjudicating the controversy.” Fed. Rule Civ.
+Proc. 23(b) (paragraph breaks added).
+
+
+10
+
+WAL-MART STORES, INC. v. DUKES
+Opinion of GINSBURG, J.
+
+larities” inquiry the Court endorses, developed his position
+in the context of Rule 23(b)(3). See 84 N. Y. U. L. Rev.,
+at 131 (Rule 23(b)(3) requires “some decisive degree of
+similarity across the proposed class” because it “speaks
+of common ‘questions’ that ‘predominate’ over individual
+ones”).9 “The Rule 23(b)(3) predominance inquiry” is
+meant to “tes[t] whether proposed classes are sufficiently
+cohesive to warrant adjudication by representation.”
+Amchem Products, Inc. v. Windsor, 521 U. S. 591, 623
+(1997). If courts must conduct a “dissimilarities” analysis
+at the Rule 23(a)(2) stage, no mission remains for Rule
+23(b)(3).
+Because Rule 23(a) is also a prerequisite for Rule
+23(b)(1) and Rule 23(b)(2) classes, the Court’s “dissimilari
+ties” position is far reaching.
+Individual differences
+should not bar a Rule 23(b)(1) or Rule 23(b)(2) class, so
+long as the Rule 23(a) threshold is met. See Amchem
+Products, 521 U. S., at 623, n. 19 (Rule 23(b)(1)(B) “does
+not have a predominance requirement”); Yamasaki, 442
+U. S., at 701 (Rule 23(b)(2) action in which the Court noted
+that “[i]t is unlikely that differences in the factual back
+ground of each claim will affect the outcome of the legal
+issue”). For example, in Franks v. Bowman Transp. Co.,
+424 U. S. 747 (1976), a Rule 23(b)(2) class of AfricanAmerican truckdrivers complained that the defendant had
+discriminatorily refused to hire black applicants. We
+recognized that the “qualification[s] and performance” of
+individual class members might vary. Id., at 772 (internal
+quotation marks omitted). “Generalizations concerning
+such individually applicable evidence,” we cautioned,
+“cannot serve as a justification for the denial of [injunc
+——————
+9 Cf.
+
+supra, at 2 (Rule 23(a) commonality prerequisite satisfied by
+“[e]ven a single question . . . common to the members of the class”
+(quoting Nagareda, The Preexistence Principle and the Structure of the
+Class Action, 103 Colum. L. Rev. 149, 176, n. 110 (2003)).
+
+
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+Opinion of GINSBURG, J.
+
+tive] relief to the entire class.” Ibid.
+B
+The “dissimilarities” approach leads the Court to train
+its attention on what distinguishes individual class mem
+bers, rather than on what unites them. Given the lack of
+standards for pay and promotions, the majority says,
+“demonstrating the invalidity of one manager’s use of
+discretion will do nothing to demonstrate the invalidity of
+another’s.” Ante, at 15.
+Wal-Mart’s delegation of discretion over pay and promo
+tions is a policy uniform throughout all stores. The very
+nature of discretion is that people will exercise it in vari
+ous ways. A system of delegated discretion, Watson held,
+is a practice actionable under Title VII when it produces
+discriminatory outcomes. 487 U. S., at 990–991; see su
+pra, at 7–8. A finding that Wal-Mart’s pay and promo
+tions practices in fact violate the law would be the first
+step in the usual order of proof for plaintiffs seeking indi
+vidual remedies for company-wide discrimination. Team
+sters v. United States, 431 U. S. 324, 359 (1977); see Albe
+marle Paper Co. v. Moody, 422 U. S. 405, 415–423 (1975).
+That each individual employee’s unique circumstances will
+ultimately determine whether she is entitled to backpay or
+damages, §2000e–5(g)(2)(A) (barring backpay if a plaintiff
+“was refused . . . advancement . . . for any reason other
+than discrimination”), should not factor into the Rule
+23(a)(2) determination.
+*
+*
+*
+The Court errs in importing a “dissimilarities” notion
+suited to Rule 23(b)(3) into the Rule 23(a) commonality
+inquiry. I therefore cannot join Part II of the Court’s
+opinion.
+
+

@@ -1,0 +1,233 @@
+Cite as: 558 U. S. ____ (2009)
+
+1
+
+Opinion of THOMAS, J.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–678
+_________________
+
+MOHAWK INDUSTRIES, INC., PETITIONER v.
+
+NORMAN CARPENTER 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+[December 8, 2009] 
+
+
+JUSTICE THOMAS, concurring in part and concurring in
+the judgment.
+I concur in the judgment and in Part II–C of the Court’s
+opinion because I wholeheartedly agree that “Congress’s
+designation of the rulemaking process as the way to define
+or refine when a district court ruling is ‘final’ and when an
+interlocutory order is appealable warrants the Judiciary’s
+full respect.” Swint v. Chambers County Comm’n, 514
+U. S. 35, 48 (1995); ante, at 13 (quoting Swint, supra;
+citing Cunningham v. Hamilton County, 527 U. S. 198,
+210 (1999)). It is for that reason that I do not join the
+remainder of the Court’s analysis.
+The scope of federal appellate jurisdiction is a matter
+the Constitution expressly commits to Congress, see Art. I,
+§8, cl. 9, and that Congress has addressed not only in 28
+U. S. C. §§1291 and 1292, but also in the Rules Enabling
+Act amendments to which the Court refers. See ante, at
+12–13 (citing §§2072–2074). The Court recognizes that
+these amendments “designat[e] rulemaking, ‘not expan
+sion by court decision,’ as the preferred means of deter
+mining whether and when prejudgment orders should be
+
+
+2
+
+MOHAWK INDUSTRIES, INC. v. CARPENTER
+Opinion of THOMAS, J.
+
+immediately appealable.” Ante, at 12 (quoting Swint,
+supra, at 48). Because that designation is entitled to our
+full respect, and because the privilege order here is not on
+all fours with orders we previously have held to be appeal
+able under the collateral order doctrine, see Cohen v.
+Beneficial Industrial Loan Corp., 337 U. S. 541 (1949), I
+would affirm the Eleventh Circuit’s judgment on the
+ground that any “avenue for immediate appeal” beyond
+the three avenues addressed in the Court’s opinion must
+be left to the “rulemaking process.” Ante, at 13; see ante,
+at 9–12 (discussing certification under 28 U. S. C.
+§1292(b), petitions for mandamus, and appeals from con
+tempt orders).
+We need not, and in my view should not, further justify
+our holding by applying the Cohen doctrine, which
+prompted the rulemaking amendments in the first place.
+In taking this path, the Court needlessly perpetuates a
+judicial policy that we for many years have criticized and
+struggled to limit. See, e.g., Ashcroft v. Iqbal, 556 U. S.
+___, ___ (2009) (slip op., at 8); Will v. Hallock, 546 U. S.
+345, 349 (2006); Sell v. United States, 539 U. S. 166, 177
+(2003); Cunningham, supra, at 210; Digital Equipment
+Corp. v. Desktop Direct, Inc., 511 U. S. 863, 884 (1994);
+Swint, supra, at 48; Lauro Lines s.r.l. v. Chasser, 490 U. S.
+495, 498–501 (1989); Van Cauwenberghe v. Biard, 486
+U. S. 517, 527 (1988). The Court’s choice of analysis is the
+more ironic because applying Cohen to the facts of this
+case requires the Court to reach conclusions on, and thus
+potentially prejudice, the very matters it says would bene
+fit from “the collective experience of bench and bar” and
+the “opportunity for full airing” that rulemaking provides.
+Ante, at 13.
+“Finality as a condition of review is an historic charac
+teristic of federal appellate procedure” that was incorpo
+rated in the first Judiciary Act and that Congress itself
+has “departed from only when observance of it would
+
+
+Cite as: 558 U. S. ____ (2009)
+
+3
+
+Opinion of THOMAS, J.
+
+practically defeat the right to any review at all.” Cobble
+dick v. United States, 309 U. S. 323, 324–325 (1940). Until
+1949, this Court’s view of the appellate jurisdiction statute
+reflected this principle and the statute’s text. See, e.g.,
+Catlin v. United States, 324 U. S. 229, 233 (1945) (holding
+that §128 of the Judicial Code (now 28 U. S. C. §1291)
+limits review to decisions that “en[d] the litigation on the
+merits and leav[e] nothing for the court to do but execute
+the judgment”). Cohen changed all that when it an
+nounced that a “small class” of collateral orders that do
+not meet the statutory definition of finality nonetheless
+may be immediately appealable if they satisfy certain
+criteria that show they are “too important to be denied
+review.” 337 U. S., at 546.
+Cohen and the early decisions applying it allowed §1291
+appeals of interlocutory orders concerning the posting of a
+bond, see id., at 545–547, the attachment of a vessel in
+admiralty, see Swift & Co. Packers v. Compania Colombi
+ana Del Caribe, S. A., 339 U. S. 684, 688–689 (1950), and
+the imposition of notice costs in a class action, see Eisen v.
+Carlisle & Jacquelin, 417 U. S. 156, 170–172 (1974). As
+the Court’s opinion notes, later decisions sought to narrow
+Cohen lest its exception to §1291 “ ‘ swallow’ ” the final
+judgment rule. Ante, at 5 (quoting Digital Equipment,
+supra, at 868); see generally Coopers & Lybrand v. Live
+say, 437 U. S. 463, 467–468 (1978). The Court has ad
+hered to that narrowing approach, principally by raising
+the bar on what types of interests are “important enough”
+to justify collateral order appeals. See, e.g., Will, supra, at
+352–353 (explaining that an interlocutory order typically
+will be “important” enough to justify Cohen review only
+where “some particular value of a high order,” such as
+“honoring the separation of powers, preserving the effi
+ciency of government . . . , [or] respecting a State’s digni
+tary interests,” is “marshaled in support of the interest in
+avoiding trial” and the Court determines that denying
+
+
+4
+
+MOHAWK INDUSTRIES, INC. v. CARPENTER
+Opinion of THOMAS, J.
+
+review would “imperil” that interest); Digital Equipment,
+supra, at 878–879 (noting that appealability under Cohen
+turns on a “judgment about the value of the interests that
+would be lost through rigorous application of a final judg
+ment requirement,” and that an interest “qualifies as
+‘important’ in Cohen’s sense” if it is “weightier than the
+societal interests advanced by the ordinary operation of
+final judgment principles”). As we recognized last Term,
+however, our attempts to contain the Cohen doctrine have
+not all been successful or persuasive. See Ashcroft, supra,
+at ___ (slip op., at 8) (“[A]s a general matter, the collateral
+order doctrine may have expanded beyond the limits
+dictated by its internal logic and the strict application of
+the criteria set out in Cohen”). In my view, this case pre
+sents an opportunity to improve our approach.
+The privilege interest at issue here is undoubtedly
+important, both in its own right and when compared to
+some of the interests (e.g., in bond and notice-cost rulings)
+we have held to be appealable under Cohen. Accordingly,
+the Court’s Cohen analysis does not rest on the privilege
+order’s relative unimportance, but instead on its effective
+reviewability after final judgment. Ante, at 8–12. Al
+though I agree with the Court’s ultimate conclusion, I see
+two difficulties with this approach. First, the Court em
+phasizes that the alternative avenues of review it dis
+cusses (which did not prove adequate in this case) would
+be adequate where the privilege ruling at issue is “particu
+larly injurious or novel.” Ante, at 9. If that is right, and it
+seems to me that it is, then the opinion raises the question
+why such avenues were not also adequate to address the
+orders whose unusual importance or particularly injurious
+nature we have held justified immediate appeal under
+Cohen. See, e.g., Sell, supra, at 177. Second, the facts of
+this particular case seem in several respects to undercut
+the Court’s conclusion that the benefits of collateral order
+review “cannot justify the likely institutional costs.” Ante,
+
+
+Cite as: 558 U. S. ____ (2009)
+
+5
+
+Opinion of THOMAS, J.
+
+at 11.* The Court responds that these case-specific argu
+ments miss the point because the focus of the Cohen
+analysis is whether the “entire category” or “class of
+claims” at issue merits appellate review under the collat
+eral order doctrine. Ante, at 6 (internal quotation marks
+omitted). That is exactly right, and illustrates what in
+creasingly has bothered me about making this kind of
+appealability determination via case-by-case adjudication.
+The exercise forces the reviewing court to subordinate the
+realities of each case before it to generalized conclusions
+about the “likely” costs and benefits of allowing an excep
+tion to the final judgment rule in an entire “class of cases.”
+The Court concedes that Congress, which holds the consti
+tutional reins in this area, has determined that such value
+judgments are better left to the “collective experience of
+bench and bar” and the “opportunity for full airing” that
+rulemaking provides. Ante, at 13. This determination is
+entitled to our full respect, in deed as well as in word.
+Accordingly, I would leave the value judgments the Court
+makes in its opinion to the rulemaking process, and in so
+doing take this opportunity to limit—effectively, predicta
+bly, and in a way we should have done long ago—the
+——————
+* The Court concludes, for example, that in most cases final judgment
+review of an erroneous privilege ruling will suffice to vindicate the
+injured party’s rights because the appellate court can vacate the
+adverse judgment and remand for a new trial in which the protected
+material is excluded. Ante, at 8. But this case appears to involve one of
+the (perhaps rare) situations in which final judgment review might not
+be sufficient because it is a case in which the challenged order already
+has had “implications beyond the case at hand,” namely, in the sepa
+rate class action in Williams v. Mohawk Indus., Inc., No. 4:04–CV–
+0003–HLM (ND Ga.). Ante, at 11. The Court also concludes that the
+“likely institutional costs” of allowing collateral order review would
+outweigh its benefits because, inter alia, such review would “needlessly
+burden the Courts of Appeals.” Ibid. But as the Court concedes, it
+must speculate on this point because the three Circuits that allow
+Cohen appeals of privilege rulings have not been overwhelmed. See
+ante, at 12.
+
+
+6
+
+MOHAWK INDUSTRIES, INC. v. CARPENTER
+Opinion of THOMAS, J.
+
+doctrine that, with a sweep of the Court’s pen, subordi
+nated what the appellate jurisdiction statute says to what
+the Court thinks is a good idea.
+
+

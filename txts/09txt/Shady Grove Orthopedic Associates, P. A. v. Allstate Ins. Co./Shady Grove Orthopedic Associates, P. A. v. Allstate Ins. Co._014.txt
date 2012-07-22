@@ -1,0 +1,51 @@
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+Opinion of SCALIA, J.
+the Court
+
+But while the dissent does indeed artificially narrow the
+scope of §901(b) by finding that it pursues only substan­
+tive policies, that is not the central difficulty of the dis­
+sent’s position. The central difficulty is that even artificial
+narrowing cannot render §901(b) compatible with Rule 23.
+Whatever the policies they pursue, they flatly contradict
+each other. Allstate asserts (and the dissent implies, see
+post, at 3, 11) that we can (and must) interpret Rule 23 in
+a manner that avoids overstepping its authorizing stat­
+ute.7 If the Rule were susceptible of two meanings—one
+that would violate §2072(b) and another that would not—
+we would agree. See Ortiz v. Fibreboard Corp., 527 U. S.
+815, 842, 845 (1999); cf. Semtek Int’l Inc. v. Lockheed
+Martin Corp., 531 U. S. 497, 503–504 (2001). But it is not.
+Rule 23 unambiguously authorizes any plaintiff, in any
+federal civil proceeding, to maintain a class action if the
+Rule’s prerequisites are met. We cannot contort its text,
+even to avert a collision with state law that might render
+——————
+7 The
+
+dissent also suggests that we should read the Federal Rules
+“ ‘with sensitivity to important state interests’ ” and “ ‘to avoid conflict
+with important state regulatory policies.’ ” Post, at 7 (quoting Gasperini
+v. Center for Humanities, Inc., 518 U. S. 415, 427, n. 7, 438, n. 22
+(1996)). The search for state interests and policies that are “important”
+is just as standardless as the “important or substantial” criterion we
+rejected in Sibbach v. Wilson & Co., 312 U. S. 1, 13–14 (1941), to define
+the state-created rights a Federal Rule may not abridge.
+If all the dissent means is that we should read an ambiguous Federal
+Rule to avoid “substantial variations [in outcomes] between state and
+federal litigation,” Semtek Int’l Inc. v. Lockheed Martin Corp., 531 U. S.
+497, 504 (2001) (internal quotation marks omitted), we entirely agree.
+We should do so not to avoid doubt as to the Rule’s validity—since a
+Federal Rule that fails Erie’s forum-shopping test is not ipso facto
+invalid, see Hanna v. Plumer, 380 U. S. 460, 469–472 (1965)—but
+because it is reasonable to assume that “Congress is just as concerned
+as we have been to avoid significant differences between state and
+federal courts in adjudicating claims,” Stewart Organization, Inc. v.
+Ricoh Corp., 487 U. S. 22, 37–38 (1988) (SCALIA, J., dissenting). The
+assumption is irrelevant here, however, because there is only one
+reasonable reading of Rule 23.
+
+

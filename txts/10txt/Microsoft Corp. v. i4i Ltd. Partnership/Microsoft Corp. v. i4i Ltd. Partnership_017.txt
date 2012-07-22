@@ -1,0 +1,48 @@
+14
+
+MICROSOFT CORP. v. i4i LTD. PARTNERSHIP 
+
+Opinion of the Court 
+
+
+B
+
+Reprising the more limited argument that it pressed
+below, Microsoft argues in the alternative that a prepon
+derance standard must at least apply where the evidence
+before the factfinder was not before the PTO during the
+examination process. In particular, it relies on KSR
+Int’l Co. v. Teleflex Inc., 550 U. S. 398 (2007), where we ob
+served that, in these circumstances, “the rationale under
+lying the presumption—that the PTO, in its expertise, has
+approved the claim—seems much diminished.” Id., at 426.
+That statement is true enough, although other ration
+ales may animate the presumption in such circumstances.
+See The Barbed Wire Patent, 143 U. S. 275, 292 (1892)
+(explaining that because the patentee “first published this
+device; put it upon record; made use of it for a practical
+purpose; and gave it to the public . . . . doubts . . . concern
+ing the actual inventor . . . should be resolved in favor
+of the patentee”); cf. Brief for United States as Amicus
+Curiae 33 (arguing that even when the administrative cor
+rectness rationale has no relevance, the heightened stan
+dard of proof “serves to protect the patent holder’s reliance
+interests” in disclosing an invention to the public in
+exchange for patent protection). The question remains,
+however, whether Congress has specified the applicable
+——————
+also Patent Act of 1870, ch. 230, §61, 16 Stat. 208 (same); Patent Act of
+1836, ch. 357, §15, 5 Stat. 123 (similar); Patent Act of 1793, ch. II, §6, 1
+Stat. 322 (similar); Coffin, 18 Wall., at 124 (explaining that the Patent
+Act of 1836 “allowed a party sued for infringement to prove, among
+other defences, that the patentee was not the original and first inventor
+of the thing patented, or of a substantial and material part thereof
+claimed to be new” (internal quotation marks omitted)). The House and
+Senate Reports state, however, that §282 established a principle that
+previously “had no expression in the statute.” H. R. Rep., at 10; S. Rep.,
+at 9. Thus, because the only thing missing from §282’s predecessor was
+the heightened standard of proof itself, Congress must have understood
+the presumption of patent validity to include the heightened standard
+of proof attached to it.
+
+

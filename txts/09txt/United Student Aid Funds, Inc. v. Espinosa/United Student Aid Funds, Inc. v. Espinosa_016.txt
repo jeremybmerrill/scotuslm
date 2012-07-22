@@ -1,0 +1,46 @@
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+bankruptcy court must make an undue hardship finding
+even if the creditor does not request one; it does not mean
+that a bankruptcy court’s failure to make the finding
+renders its subsequent confirmation order void for pur­
+poses of Rule 60(b)(4).12
+Given the Code’s clear and self-executing requirement
+for an undue hardship determination, the Bankruptcy
+Court’s failure to find undue hardship before confirming
+Espinosa’s plan was a legal error. See Part III, infra. But
+the order remains enforceable and binding on United
+because United had notice of the error and failed to object
+or timely appeal.
+United’s response—that it had no obligation to object to
+Espinosa’s plan until Espinosa served it with the sum­
+mons and complaint the Bankruptcy Rules require, Brief
+for Petitioner 33—is unavailing. Rule 60(b)(4) does not
+provide a license for litigants to sleep on their rights.
+United had actual notice of the filing of Espinosa’s plan,
+its contents, and the Bankruptcy Court’s subsequent
+confirmation of the plan. In addition, United filed a proof
+of claim regarding Espinosa’s student loan debt, thereby
+submitting itself to the Bankruptcy Court’s jurisdiction
+with respect to that claim. See Langenkamp v. Culp, 498
+U. S. 42, 44 (1990) (per curiam). United therefore forfeited
+its arguments regarding the validity of service or the
+——————
+sis added). Section 1328(a) thus incorporates by reference paragraph
+(8) of §523(a), including that paragraph’s self-executing requirement for
+an undue hardship determination, but does not incorporate the “does
+not discharge” text of §523(a) itself.
+12 United relies on our decisions in United States ex rel. Wilson v.
+Walker, 109 U. S. 258 (1883), and Vallely v. Northern Fire & Marine
+Ins. Co., 254 U. S. 348 (1920), to argue otherwise. Those authorities
+are not controlling because they predate Rule 60(b)(4)’s enactment and
+because we interpreted the statutes at issue in those cases as stripping
+courts of jurisdiction—either over the parties, id., at 354–356, or the
+res, Wilson, supra, at 265–266—and United concedes that the statutory
+limit in this case is not jurisdictional. See supra, at 9.
+
+

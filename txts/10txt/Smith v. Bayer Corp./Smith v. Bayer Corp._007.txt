@@ -1,0 +1,45 @@
+4
+
+SMITH v. BAYER CORP.
+Opinion of the Court
+
+this one affecting Smith’s case in West Virginia. In a
+motion—receipt of which first apprised Smith of McCol
+lins’ suit—Bayer explained that the proposed class in
+Smith’s case was identical to the one the federal court had
+just rejected. Bayer therefore requested that the federal
+court enjoin the West Virginia state court from hearing
+Smith’s motion to certify a class. According to Bayer, that
+order was appropriate to protect the District Court’s
+judgment in McCollins’ suit denying class certification.
+The District Court agreed and granted the injunction.
+The Court of Appeals for the Eighth Circuit affirmed.
+In re Baycol Prods. Litigation, 593 F. 3d 716 (2010). The
+court noted that the Anti-Injunction Act generally prohib
+its federal courts from enjoining state court proceedings.
+But the court held that the Act’s relitigation exception
+authorized the injunction here because ordinary rules of
+issue preclusion barred Smith from seeking certification of
+his proposed class. According to the court, Smith was
+invoking a similar class action rule as McCollins had used
+to seek certification “of the same class” in a suit alleging
+“the same legal theories,” id., at 724; the issue in the state
+court therefore was “sufficiently identical” to the one the
+federal court had decided to warrant preclusion, ibid. In
+addition, the court held, the parties in the two proceedings
+were sufficiently alike: Because Smith was an unnamed
+member of the class McCollins had proposed, and because
+their “interests were aligned,” Smith was appropriately
+bound by the federal court’s judgment. Ibid.
+We granted certiorari, 561 U. S. __ (2010), because the
+order issued here implicates two circuit splits arising from
+application of the Anti-Injunction Act’s relitigation excep
+tion. The first involves the requirement of preclusion law
+that a subsequent suit raise the “same issue” as a previous
+case.3 The second concerns the scope of the rule that a
+——————
+3 Compare
+
+In re Baycol Prods. Litigation, 593 F. 3d 716, 723 (CA8
+
+

@@ -1,0 +1,211 @@
+Cite as: 558 U. S. ____ (2009)
+
+1
+
+ROBERTS, C. J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+VIRGINIA v. JOSEPH A. MOSES HARRIS, JR.
+ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME
+
+COURT OF VIRGINIA
+
+No. 08–1385. Decided October 20, 2009 
+
+
+The petition for a writ of certiorari is denied.
+CHIEF JUSTICE ROBERTS, with whom JUSTICE SCALIA
+joins, dissenting from denial of certiorari.
+Every year, close to 13,000 people die in alcohol-related
+car crashes—roughly one death every 40 minutes. See
+Dept. of Transp., Nat. Hwy. Traffic Safety Admin., Traffic
+Safety Facts, 2007 Traffic Safety Annual Assessment—
+Alcohol-Impaired Driving Fatalities 1 (No. 81106, Aug.
+2008). Ordinary citizens are well aware of the dangers
+posed by drunk driving, and they frequently report such
+conduct to the police. A number of States have adopted
+programs specifically designed to encourage such tips—
+programs such as the “Drunkbusters Hotline” in New
+Mexico and the REDDI program (Report Every Drunk
+Driver Immediately) in force in several States. See Dept.
+of Transp., Nat. Hwy. Traffic Safety Admin., Programs
+Across the United States That Aid Motorists in the Re
+porting of Impaired Drivers to Law Enforcement (2007).
+By a 4-to-3 vote, the Virginia Supreme Court below
+adopted a rule that will undermine such efforts to get
+drunk drivers off the road. The decision below commands
+that police officers following a driver reported to be drunk
+do nothing until they see the driver actually do something
+unsafe on the road—by which time it may be too late.
+Here, a Richmond police officer pulled Joseph Harris
+over after receiving an anonymous tip that Harris was
+driving while intoxicated. The tip described Harris, his
+car, and the direction he was traveling in considerable
+detail. The officer did not personally witness Harris vio
+
+
+2
+
+VIRGINIA v. HARRIS
+ROBERTS, C. J., dissenting
+
+late any traffic laws. When Harris was pulled over, how
+ever, he reeked of alcohol, his speech was slurred, he
+almost fell over in attempting to exit his car, and he failed
+the sobriety tests the officer administered on the scene.
+Harris was convicted of driving while intoxicated, but the
+Virginia Supreme Court overturned the conviction. It
+concluded that because the officer had failed to independ
+ently verify that Harris was driving dangerously, the stop
+violated the Fourth Amendment’s prohibition on unrea
+sonable searches and seizures. 276 Va. 689, 696–698, 668
+S. E. 2d 141, 146–147 (2008); see Pet. for Cert. 4 (citing
+record).
+I am not sure that the Fourth Amendment requires such
+independent corroboration before the police can act, at
+least in the special context of anonymous tips reporting
+drunk driving. This is an important question that is not
+answered by our past decisions, and that has deeply di
+vided federal and state courts. The Court should grant the
+petition for certiorari to answer the question and resolve
+the conflict.
+On the one hand, our cases allow police to conduct in
+vestigative stops based on reasonable suspicion, viewed
+under the totality of the circumstances. Terry v. Ohio, 392
+U. S. 1, 22 (1968); Alabama v. White, 496 U. S. 325, 328–
+331 (1990). In Florida v. J. L., 529 U. S. 266, 270 (2000),
+however, we explained that anonymous tips, in the ab
+sence of additional corroboration, typically lack the “indi
+cia of reliability” needed to justify a stop under the rea
+sonable suspicion standard. In J. L., the Court suppressed
+evidence seized by police after receiving an anonymous tip
+alleging that a young man, wearing a plaid shirt and
+waiting at a particular bus stop, was carrying a gun. The
+majority below relied extensively on J. L. in reversing
+Harris’s conviction.
+But it is not clear that J. L. applies to anonymous tips
+reporting drunk or erratic driving. J. L. itself suggested
+
+
+Cite as: 558 U. S. ____ (2009)
+
+3
+
+ROBERTS, C. J., dissenting
+
+that the Fourth Amendment analysis might be different in
+other situations. The Court declined “to speculate about
+the circumstances under which the danger alleged in an
+anonymous tip might be so great as to justify a search
+even without a showing of reliability.” Id., at 273. It also
+hinted that “in quarters where the reasonable expectation
+of Fourth Amendment privacy is diminished,” it might be
+constitutionally permissible to “conduct protective
+searches on the basis of information insufficient to justify
+searches elsewhere.” Id., at 274.
+There is no question that drunk driving is a serious and
+potentially deadly crime, as our cases have repeatedly
+emphasized. See, e.g., Michigan Dept. of State Police v.
+Sitz, 496 U. S. 444, 451 (1990) (“No one can seriously
+dispute the magnitude of the drunken driving problem or
+the States’ interest in eradicating it. Media reports of
+alcohol-related death and mutilation on the Nation’s roads
+are legion”). The imminence of the danger posed by drunk
+drivers exceeds that at issue in other types of cases. In a
+case like J. L., the police can often observe the subject of a
+tip and step in before actual harm occurs; with drunk
+driving, such a wait-and-see approach may prove fatal.
+Drunk driving is always dangerous, as it is occurring.
+This Court has in fact recognized that the dangers posed
+by drunk drivers are unique, frequently upholding anti
+drunk-driving policies that might be constitutionally
+problematic in other, less exigent circumstances.1
+——————
+1 See, e.g., Michigan Dept. of State Police v. Sitz, 496 U. S. 444, 455
+(1990) (approving use of field-sobriety checkpoints of all approaching
+drivers, despite fact that over 98 percent of such drivers were innocent);
+South Dakota v. Neville, 459 U. S. 553, 554, 560 (1983) (upholding state
+law allowing a defendant’s refusal to take a blood-alcohol test to be
+introduced as evidence against him at trial); Mackey v. Montrym, 443
+U. S. 1, 17–19 (1979) (upholding state law requiring mandatory sus
+pension of a driver’s license upon a drunk-driving suspect’s refusal to
+submit to a breath-analysis test); see also Indianapolis v. Edmond, 531
+U. S. 32, 37–38 (2000) (noting that in the Fourth Amendment context
+
+
+4
+
+VIRGINIA v. HARRIS
+ROBERTS, C. J., dissenting
+
+In the absence of controlling precedent on point, a sharp
+disagreement has emerged among federal and state courts
+over how to apply the Fourth Amendment in this context.
+The majority of courts examining the question have up
+held investigative stops of allegedly drunk or erratic driv
+ers, even when the police did not personally witness any
+traffic violations before conducting the stops.2 These
+courts have typically distinguished J. L.’s general rule
+based on some combination of (1) the especially grave and
+imminent dangers posed by drunk driving; (2) the en
+hanced reliability of tips alleging illegal activity in public,
+to which the tipster was presumably an eyewitness; (3) the
+fact that traffic stops are typically less invasive than
+searches or seizures of individuals on foot; and (4) the
+diminished expectation of privacy enjoyed by individuals
+driving their cars on public roads. A minority of jurisdic
+tions, meanwhile, take the same position as the Virginia
+Supreme Court, requiring that officers first confirm an
+anonymous tip of drunk or erratic driving through their
+own independent observation.3 This conflict has been
+expressly noted by the lower courts.4
+——————
+the Court has upheld government measures “aimed at removing drunk
+drivers from the road,” distinguishing such measures from those with
+the primary purpose of “detect[ing] evidence of ordinary criminal
+wrongdoing”).
+2 See, e.g., United States v. Wheat, 278 F. 3d 722 (CA8 2001); People v.
+Wells, 38 Cal. 4th 1078, 136 P. 3d 810 (2006); State v. Prendergast, 103
+Haw. 451, 83 P. 3d 714 (2004); State v. Walshire, 634 N. W. 2d 625
+(Iowa 2001); State v. Crawford, 275 Kan. 492, 67 P. 3d 115 (2003);
+Bloomingdale v. State, 842 A. 2d 1212 (Del. 2004); State v. Golotta, 178
+N. J. 205, 837 A. 2d 359 (2003); State v. Scholl, 2004 SD 85, 684 N. W.
+2d 83; State v. Boyea, 171 Vt. 401, 765 A. 2d 862 (2000); State v. Rutzin
+ski, 2001 WI 22, 241 Wis. 2d 729, 623 N. W. 2d 516.
+3 See, e.g., McChesney v. State, 988 P. 2d 1071 (Wyo. 1999); Common
+wealth v. Lubiejewski, 49 Mass. App. 212, 729 N. E. 2d 288 (2000);
+State v. Sparen, No. CR00258199S, 2001 WL 206078 (Conn. Super. Ct.,
+Feb. 9, 2001) (unpublished).
+4 See, e.g., Wheat, supra, at 729–730 (reviewing cases upholding stops,
+
+
+Cite as: 558 U. S. ____ (2009)
+
+5
+
+ROBERTS, C. J., dissenting
+
+The conflict is clear and the stakes are high. The effect
+of the rule below will be to grant drunk drivers “one free
+swerve” before they can legally be pulled over by police. It
+will be difficult for an officer to explain to the family of a
+motorist killed by that swerve that the police had a tip
+that the driver of the other car was drunk, but that they
+were powerless to pull him over, even for a quick check.
+Maybe the decision of the Virginia Supreme Court below
+was correct, and the Fourth Amendment bars police from
+acting on anonymous tips of drunk driving unless they can
+verify each tip. If so, then the dangerous consequences of
+this rule are unavoidable. But the police should have
+every legitimate tool at their disposal for getting drunk
+drivers off the road. I would grant certiorari to determine
+if this is one of them.
+
+—————— 
+
+then noting that some courts “have reached a different conclusion”);
+
+Wells, supra, at 1084, 136 P. 3d, at 814 (“split of authority”). 
+
+
+

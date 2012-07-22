@@ -1,0 +1,568 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+SCALIA, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–209
+_________________
+
+BLAINE LAFLER, PETITIONER v. ANTHONY COOPER
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SIXTH CIRCUIT
+
+[March 21, 2012]
+
+
+JUSTICE SCALIA, with whom JUSTICE THOMAS joins, and
+with whom THE CHIEF JUSTICE joins as to all but Part IV,
+dissenting.
+“If a plea bargain has been offered, a defendant has
+the right to effective assistance of counsel in considering whether to accept it. If that right is denied, prejudice can be shown if loss of the plea opportunity led
+to a trial resulting in a conviction on more serious
+charges or the imposition of a more severe sentence.”
+Ante, at 9.
+“The inquiry then becomes how to define the duty
+and responsibilities of defense counsel in the plea bargain process. This is a difficult question. . . . Bargaining is, by its nature, defined to a substantial degree by
+personal style. . . . This case presents neither the necessity nor the occasion to define the duties of defense
+counsel in those respects . . . .” Missouri v. Frye, ante,
+at 8.
+With those words from this and the companion case, the
+Court today opens a whole new field of constitutionalized
+criminal procedure: plea-bargaining law. The ordinary
+criminal process has become too long, too expensive, and
+unpredictable, in no small part as a consequence of an
+intricate federal Code of Criminal Procedure imposed on
+the States by this Court in pursuit of perfect justice. See
+
+
+2
+
+LAFLER v. COOPER
+SCALIA, J., dissenting
+
+Friendly, The Bill of Rights as a Code of Criminal Proce­
+dure, 53 Cal. L. Rev. 929 (1965). The Court now moves to
+bring perfection to the alternative in which prosecutors
+and defendants have sought relief. Today’s opinions deal
+with only two aspects of counsel’s plea-bargaining in­
+adequacy, and leave other aspects (who knows what they
+might be?) to be worked out in further constitutional
+litigation that will burden the criminal process. And it
+would be foolish to think that “constitutional” rules gov­
+erning counsel’s behavior will not be followed by rules
+governing the prosecution’s behavior in the plea­
+bargaining process that the Court today announces “ ‘is the
+criminal justice system,’ ” Frye, ante, at 7 (quoting approv­
+ingly from Scott & Stuntz, Plea Bargaining as Contract,
+101 Yale L. J. 1909, 1912 (1992) (hereinafter Scott)). Is it
+constitutional, for example, for the prosecution to with­
+draw a plea offer that has already been accepted? Or to
+withdraw an offer before the defense has had adequate
+time to consider and accept it? Or to make no plea offer at
+all, even though its case is weak—thereby excluding the
+defendant from “the criminal justice system”?
+Anthony Cooper received a full and fair trial, was found
+guilty of all charges by a unanimous jury, and was given
+the sentence that the law prescribed. The Court nonethe­
+less concludes that Cooper is entitled to some sort of ha­
+beas corpus relief (perhaps) because his attorney’s allegedly
+incompetent advice regarding a plea offer caused him to
+receive a full and fair trial. That conclusion is foreclosed
+by our precedents. Even if it were not foreclosed, the
+constitutional right to effective plea-bargainers that it
+establishes is at least a new rule of law, which does not
+undermine the Michigan Court of Appeals’ decision and
+therefore cannot serve as the basis for habeas relief. And
+the remedy the Court announces—namely, whatever the
+state trial court in its discretion prescribes, down to and
+including no remedy at all—is unheard-of and quite ab­
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+SCALIA, J., dissenting
+
+surd for violation of a constitutional right. I respectfully
+dissent.
+I
+This case and its companion, Missouri v. Frye, ante,
+p. ___, raise relatively straightforward questions about the
+scope of the right to effective assistance of counsel. Our
+case law originally derived that right from the Due Pro­
+cess Clause, and its guarantee of a fair trial, see United
+States v. Gonzalez-Lopez, 548 U. S. 140, 147 (2006), but
+the seminal case of Strickland v. Washington, 466 U. S.
+668 (1984), located the right within the Sixth Amendment.
+As the Court notes, ante, at 6, the right to counsel does not
+begin at trial. It extends to “any stage of the prosecution,
+formal or informal, in court or out, where counsel’s ab­
+sence might derogate from the accused’s right to a fair
+trial.” United States v. Wade, 388 U. S. 218, 226 (1967).
+Applying that principle, we held that the “entry of a guilty
+plea, whether to a misdemeanor or a felony charge, ranks
+as a ‘critical stage’ at which the right to counsel adheres.”
+Iowa v. Tovar, 541 U. S. 77, 81 (2004); see also Hill v.
+Lockhart, 474 U. S. 52, 58 (1985). And it follows from this
+that acceptance of a plea offer is a critical stage. That, and
+nothing more, is the point of the Court’s observation in
+Padilla v. Kentucky, 559 U. S. ___, ___ (2010) (slip op., at
+16), that “the negotiation of a plea bargain is a critical
+phase of litigation for purposes of the Sixth Amendment
+right to effective assistance of counsel.” The defendant in
+Padilla had accepted the plea bargain and pleaded guilty,
+abandoning his right to a fair trial; he was entitled to
+advice of competent counsel before he did so. The Court
+has never held that the rule articulated in Padilla, Tovar,
+and Hill extends to all aspects of plea negotiations, requir­
+ing not just advice of competent counsel before the defend­
+ant accepts a plea bargain and pleads guilty, but also the
+advice of competent counsel before the defendant rejects a
+
+
+4
+
+LAFLER v. COOPER
+SCALIA, J., dissenting
+
+plea bargain and stands on his constitutional right to a
+fair trial. The latter is a vast departure from our past
+cases, protecting not just the constitutionally prescribed
+right to a fair adjudication of guilt and punishment, but a
+judicially invented right to effective plea bargaining.
+It is also apparent from Strickland that bad plea bar­
+gaining has nothing to do with ineffective assistance of
+counsel in the constitutional sense. Strickland explained
+that “[i]n giving meaning to the requirement [of effective
+assistance], . . . we must take its purpose—to ensure a fair
+trial—as the guide.” 466 U. S., at 686. Since “the right to
+the effective assistance of counsel is recognized not for its
+own sake, but because of the effect it has on the ability of
+the accused to receive a fair trial,” United States v. Cronic,
+466 U. S. 648, 658 (1984), the “benchmark” inquiry in
+evaluating any claim of ineffective assistance is whether
+counsel’s performance “so undermined the proper func­
+tioning of the adversarial process” that it failed to produce
+a reliably “just result.” Strickland, 466 U. S., at 686.
+That is what Strickland’s requirement of “prejudice” con­
+sists of: Because the right to effective assistance has as its
+purpose the assurance of a fair trial, the right is not in­
+fringed unless counsel’s mistakes call into question the
+basic justice of a defendant’s conviction or sentence. That
+has been, until today, entirely clear. A defendant must
+show “that counsel’s errors were so serious as to deprive
+the defendant of a fair trial, a trial whose result is relia­
+ble.” Id., at 687. See also Gonzalez-Lopez, supra, at 147.
+Impairment of fair trial is how we distinguish between
+unfortunate attorney error and error of constitutional
+significance.1
+——————
+1 Rather than addressing the constitutional origins of the right to
+effective counsel, the Court responds to the broader claim (raised by no
+one) that “the sole purpose of the Sixth Amendment is to protect the
+right to a fair trial.” Ante, at 6 (emphasis added). Cf. Brief for United
+States as Amicus Curiae 10–12 (arguing that the “purpose of the Sixth
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+SCALIA, J., dissenting
+
+To be sure, Strickland stated a rule of thumb for meas­
+uring prejudice which, applied blindly and out of context,
+could support the Court’s holding today: “The defendant
+must show that there is a reasonable probability that, but
+for counsel’s unprofessional errors, the result of the pro­
+ceeding would have been different.” 466 U. S., at 694.
+Strickland itself cautioned, however, that its test was not
+to be applied in a mechanical fashion, and that courts
+were not to divert their “ultimate focus” from “the funda­
+mental fairness of the proceeding whose result is being
+challenged.” Id., at 696. And until today we have followed
+that course.
+In Lockhart v. Fretwell, 506 U. S. 364 (1993), the defi­
+cient performance at issue was the failure of counsel for a
+defendant who had been sentenced to death to make an
+objection that would have produced a sentence of life
+——————
+Amendment right to counsel is to secure a fair trial” (emphasis added));
+Brief for Petitioner 12–21 (same). To destroy that straw man, the
+Court cites cases in which violations of rights other than the right to
+effective counsel—and, perplexingly, even rights found outside the
+Sixth Amendment and the Constitution entirely—were not cured by a
+subsequent trial. Vasquez v. Hillery, 474 U. S. 254 (1986) (violation of
+equal protection in grand jury selection); Ballard v. United States, 329
+U. S. 187 (1946) (violation of statutory scheme providing that women
+serve on juries); Stirone v. United States, 361 U. S. 212 (1960) (violation
+of Fifth Amendment right to indictment by grand jury). Unlike the
+right to effective counsel, no showing of prejudice is required to make
+violations of the rights at issue in Vasquez, Ballard, and Stirone com­
+plete. See Vasquez, supra, at 263–264 (“[D]iscrimination in the grand
+jury undermines the structural integrity of the criminal tribunal itself,
+and is not amenable to harmless-error review”); Ballard, supra, at 195
+(“[R]eversible error does not depend on a showing of prejudice in an
+individual case”); Stirone, supra, at 217 (“Deprivation of such a basic
+right is far too serious to be treated as nothing more than a variance
+and then dismissed as harmless error”). Those cases are thus irrele­
+vant to the question presented here, which is whether a defendant can
+establish prejudice under Strickland v. Washington, 466 U. S. 668
+(1984), while conceding the fairness of his conviction, sentence, and
+appeal.
+
+
+6
+
+LAFLER v. COOPER
+SCALIA, J., dissenting
+
+imprisonment instead. The objection was fully supported
+by then-extant Circuit law, so that the sentencing court
+would have been compelled to sustain it, producing a life
+sentence that principles of double jeopardy would likely
+make final. See id., at 383–385 (Stevens, J., dissenting);
+Bullington v. Missouri, 451 U. S. 430 (1981). By the time
+Fretwell’s claim came before us, however, the Circuit law
+had been overruled in light of one of our cases. We deter­
+mined that a prejudice analysis “focusing solely on mere
+outcome determination, without attention to whether the
+result of the proceeding was fundamentally unfair or
+unreliable,” would be defective. Fretwell, 506 U. S., at
+369. Because counsel’s error did not “deprive the defend­
+ant of any substantive or procedural right to which the
+law entitles him,” the defendant’s sentencing proceeding
+was fair and its result was reliable, even though counsel’s
+error may have affected its outcome. Id., at 372. In Williams v. Taylor, 529 U. S. 362, 391–393 (2000), we ex­
+plained that even though Fretwell did not mechanically
+apply an outcome-based test for prejudice, its reasoning
+was perfectly consistent with Strickland. “Fretwell’s
+counsel had not deprived him of any substantive or pro­
+cedural right to which the law entitled him.” 529 U. S.
+at 392.2
+——————
+2 Kimmelman v. Morrison, 477 U. S. 365 (1986), cited by the Court,
+ante, at 10–11, does not contradict this principle. That case, which
+predated Fretwell and Williams, considered whether our holding that
+Fourth Amendment claims fully litigated in state court cannot be
+raised in federal habeas “should be extended to Sixth Amendment
+claims of ineffective assistance of counsel where the principal allegation
+and manifestation of inadequate representation is counsel’s failure to
+file a timely motion to suppress evidence allegedly obtained in violation
+of the Fourth Amendment.” 477 U. S., at 368. Our negative answer to
+that question had nothing to do with the issue here. The parties in
+Kimmelman had not raised the question “whether the admission of
+illegally seized but reliable evidence can ever constitute ‘prejudice’
+under Strickland”—a question similar to the one presented here—and
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+SCALIA, J., dissenting
+
+Those precedents leave no doubt about the answer to
+the question presented here. As the Court itself observes,
+a criminal defendant has no right to a plea bargain. Ante,
+at 9. “[T]here is no constitutional right to plea bargain;
+the prosecutor need not do so if he prefers to go to trial.”
+Weatherford v. Bursey, 429 U. S. 545, 561 (1977). Coun­
+sel’s mistakes in this case thus did not “deprive the de­
+fendant of a substantive or procedural right to which the
+law entitles him,” Williams, supra, at 393. Far from being “beside the point,” ante, at 9, that is critical to correct
+application of our precedents. Like Fretwell, this case
+“concerns the unusual circumstance where the defendant
+attempts to demonstrate prejudice based on considerations
+that, as a matter of law, ought not inform the inquiry,”
+506 U. S., at 373 (O’Connor, J., concurring); he claims
+“that he might have been denied ‘a right the law simply
+does not recognize,’ ” id., at 375 (same). Strickland,
+Fretwell, and Williams all instruct that the pure outcome­
+based test on which the Court relies is an erroneous
+measure of cognizable prejudice. In ignoring Strickland’s
+“ultimate focus . . . on the fundamental fairness of the
+proceeding whose result is being challenged,” 466 U. S., at
+696, the Court has lost the forest for the trees, leading it to
+accept what we have previously rejected, the “novel argu­
+ment that constitutional rights are infringed by trying the
+defendant rather than accepting his plea of guilty.”
+Weatherford, supra, at 561.
+——————
+the Court therefore did not address it. Id., at 391 (Powell, J., concur­
+ring in judgment); see also id., at 380. Kimmelman made clear, how­
+ever, how the answer to that question is to be determined: “The essence
+of an ineffective-assistance claim is that counsel’s unprofessional errors
+so upset the adversarial balance between defense and prosecution that
+the trial was rendered unfair and the verdict rendered suspect,” id., at 374
+(emphasis added). “Only those habeas petitioners who can prove under
+Strickland that they have been denied a fair trial . . . will be granted the
+writ,” id., at 382 (emphasis added). In short, Kimmelman’s only rele­
+vance is to prove the Court’s opinion wrong.
+
+
+8
+
+LAFLER v. COOPER 
+
+SCALIA, J., dissenting 
+
+
+II
+
+Novelty alone is the second, independent reason why the
+Court’s decision is wrong. This case arises on federal
+habeas, and hence is governed by the Antiterrorism and
+Effective Death Penalty Act of 1996 (AEDPA). Since, as
+the Court acknowledges, the Michigan Court of Appeals
+adjudicated Cooper’s ineffective-assistance claim on the
+merits, AEDPA bars federal courts from granting habeas
+relief unless that court’s decision was “contrary to, or
+involved an unreasonable application of, clearly estab­
+lished Federal law, as determined by the Supreme Court
+of the United States.” 28 U. S. C. §2254(d)(1). Yet the
+Court concludes that §2254(d)(1) does not bar relief here,
+because “[b]y failing to apply Strickland to assess the
+ineffective-assistance-of-counsel claim respondent raised,
+the state court’s adjudication was contrary to clearly
+established federal law.” Ante, at 15. That is not so.
+The relevant portion of the Michigan Court of Appeals
+decision reads as follows:
+“To establish ineffective assistance, the defendant
+must demonstrate that his counsel’s performance fell
+below an objective standard of reasonableness and
+that counsel’s representation so prejudiced the de­
+fendant that he was deprived of a fair trial. With
+respect to the prejudice aspect of the test, the defendant must demonstrate a reasonable probability that,
+but for counsel’s errors, the result of the proceedings would have been different, and that the attendant proceedings were fundamentally unfair and
+unreliable.
+“Defendant challenges the trial court’s finding after
+a Ginther hearing that defense counsel provided effec­
+tive assistance to defendant during the plea bargain­
+ing process. He contends that defense counsel failed
+to convey the benefits of the plea offer to him and ig­
+nored his desire to plead guilty, and that these fail­
+
+
+Cite as: 566 U. S. ____ (2012)
+
+9
+
+SCALIA, J., dissenting
+
+ures led him to reject a plea offer that he now wishes
+to accept. However, the record shows that defendant
+knowingly and intelligently rejected two plea offers
+and chose to go to trial. The record fails to support de­
+fendant’s contentions that defense counsel’s represen­
+tation was ineffective because he rejected a defense
+based on [a] claim of self-defense and because he did
+not obtain a more favorable plea bargain for defend­
+ant.” People v. Cooper, No. 250583 (Mar. 15, 2005),
+App. to Pet. for Cert. 45a, 2005 WL 599740, *1
+(per curiam) (footnote and citations omitted).
+The first paragraph above, far from ignoring Strickland,
+recites its standard with a good deal more accuracy than
+the Court’s opinion. The second paragraph, which is
+presumably an application of the standard recited in the
+first, says that “defendant knowingly and intelligently
+rejected two plea offers and chose to go to trial.” This can
+be regarded as a denial that there was anything “funda­
+mentally unfair” about Cooper’s conviction and sentence,
+so that no Strickland prejudice had been shown. On the
+other hand, the entire second paragraph can be regarded
+as a contention that Cooper’s claims of inadequate repre­
+sentation were unsupported by the record. The state
+court’s analysis was admittedly not a model of clarity, but
+federal habeas corpus is a “guard against extreme mal­
+functions in the state criminal justice systems,” not a
+license to penalize a state court for its opinion-writing
+technique. Harrington v. Richter, 562 U. S. ___, ___ (2011)
+(slip op., at 13) (internal quotation marks omitted). The
+Court’s readiness to find error in the Michigan court’s
+opinion is “inconsistent with the presumption that state
+courts know and follow the law,” Woodford v. Visciotti, 537
+U. S. 19, 24 (2002) (per curiam), a presumption borne out
+here by the state court’s recitation of the correct legal
+standard.
+Since it is ambiguous whether the state court’s holding
+
+
+10
+
+LAFLER v. COOPER
+SCALIA, J., dissenting
+
+was based on a lack of prejudice or rather the court’s
+factual determination that there had been no deficient
+performance, to provide relief under AEDPA this Court
+must conclude that both holdings would have been unrea­
+sonable applications of clearly established law. See Premo
+v. Moore, 562 U. S. ___, ___ (2011) (slip op., at 7). The first
+is impossible of doing, since this Court has never held that
+a defendant in Cooper’s position can establish Strickland
+prejudice. The Sixth Circuit thus violated AEDPA in
+granting habeas relief, and the Court now does the same.
+III
+It is impossible to conclude discussion of today’s ex­
+traordinary opinion without commenting upon the remedy
+it provides for the unconstitutional conviction. It is a
+remedy unheard-of in American jurisprudence—and, I
+would be willing to bet, in the jurisprudence of any other
+country.
+The Court requires Michigan to “reoffer the plea agree­
+ment” that was rejected because of bad advice from coun­
+sel. Ante, at 16. That would indeed be a powerful remedy—
+but for the fact that Cooper’s acceptance of that reoffered agreement is not conclusive. Astoundingly, “the
+state trial court can then exercise its discretion in deter­
+mining whether to vacate the convictions and resentence
+respondent pursuant to the plea agreement, to vacate only
+some of the convictions and resentence respondent accord­
+ingly, or to leave the convictions and sentence from trial
+undisturbed.” Ibid. (emphasis added).
+Why, one might ask, require a “reoffer” of the plea
+agreement, and its acceptance by the defendant? If the
+district court finds (as a necessary element, supposedly, of
+Strickland prejudice) that Cooper would have accepted the
+original offer, and would thereby have avoided trial and
+conviction, why not skip the reoffer-and-reacceptance
+minuet and simply leave it to the discretion of the state
+
+
+Cite as: 566 U. S. ____ (2012)
+
+11
+
+SCALIA, J., dissenting
+
+trial court what the remedy shall be? The answer, of
+course, is camouflage. Trial courts, after all, regularly
+accept or reject plea agreements, so there seems to be
+nothing extraordinary about their accepting or rejecting
+the new one mandated by today’s decision. But the ac­
+ceptance or rejection of a plea agreement that has no
+status whatever under the United States Constitution is
+worlds apart from what this is: “discretionary” specifi­
+cation of a remedy for an unconstitutional criminal
+conviction.
+To be sure, the Court asserts that there are “factors”
+which bear upon (and presumably limit) exercise of this
+discretion—factors that it is not prepared to specify in full,
+much less assign some determinative weight. “Principles
+elaborated over time in decisions of state and federal
+courts, and in statutes and rules” will (in the Court’s rosy
+view) sort all that out. Ante, at 13. I find it extraordinary
+that “statutes and rules” can specify the remedy for a
+criminal defendant’s unconstitutional conviction. Or that
+the remedy for an unconstitutional conviction should ever
+be subject at all to a trial judge’s discretion. Or, finally,
+that the remedy could ever include no remedy at all.
+I suspect that the Court’s squeamishness in fashioning a
+remedy, and the incoherence of what it comes up with, is
+attributable to its realization, deep down, that there is no
+real constitutional violation here anyway. The defendant
+has been fairly tried, lawfully convicted, and properly
+sentenced, and any “remedy” provided for this will do
+nothing but undo the just results of a fair adversarial
+process.
+IV
+In many—perhaps most—countries of the world, American­
+style plea bargaining is forbidden in cases as serious
+as this one, even for the purpose of obtaining testimony
+that enables conviction of a greater malefactor, much less
+
+
+12
+
+LAFLER v. COOPER
+SCALIA, J., dissenting
+
+for the purpose of sparing the expense of trial. See, e.g.,
+World Plea Bargaining 344, 363–366 (S. Thaman ed.
+2010). In Europe, many countries adhere to what they
+aptly call the “legality principle” by requiring prosecutors
+to charge all prosecutable offenses, which is typically
+incompatible with the practice of charge-bargaining. See,
+e.g., id., at xxii; Langbein, Land Without Plea Bargaining:
+How the Germans Do It, 78 Mich. L. Rev. 204, 210–211
+(1979) (describing the “Legalitätsprinzip,” or rule of com­
+pulsory prosecution, in Germany). Such a system reflects
+an admirable belief that the law is the law, and those who
+break it should pay the penalty provided.
+In the United States, we have plea bargaining a-plenty,
+but until today it has been regarded as a necessary evil. It
+presents grave risks of prosecutorial overcharging that
+effectively compels an innocent defendant to avoid massive
+risk by pleading guilty to a lesser offense; and for guilty
+defendants it often—perhaps usually—results in a sen­
+tence well below what the law prescribes for the actual
+crime. But even so, we accept plea bargaining because
+many believe that without it our long and expensive pro­
+cess of criminal trial could not sustain the burden imposed
+on it, and our system of criminal justice would grind to a
+halt. See, e.g., Alschuler, Plea Bargaining and its History,
+79 Colum. L. Rev. 1, 38 (1979).
+Today, however, the Supreme Court of the United
+States elevates plea bargaining from a necessary evil to
+a constitutional entitlement. It is no longer a somewhat
+embarrassing adjunct to our criminal justice system;
+rather, as the Court announces in the companion case to
+this one, “ ‘it is the criminal justice system.’ ” Frye, ante, at
+7 (quoting approvingly from Scott 1912). Thus, even
+though there is no doubt that the respondent here is guilty
+of the offense with which he was charged; even though he
+has received the exorbitant gold standard of American
+justice—a full-dress criminal trial with its innumerable
+
+
+Cite as: 566 U. S. ____ (2012)
+
+13
+
+SCALIA, J., dissenting
+
+constitutional and statutory limitations upon the evidence
+that the prosecution can bring forward, and (in Michigan
+as in most States3) the requirement of a unanimous guilty
+verdict by impartial jurors; the Court says that his convic­
+tion is invalid because he was deprived of his constitutional entitlement to plea-bargain.
+I am less saddened by the outcome of this case than I
+am by what it says about this Court’s attitude toward
+criminal justice. The Court today embraces the sporting­
+chance theory of criminal law, in which the State functions
+like a conscientious casino-operator, giving each player a
+fair chance to beat the house, that is, to serve less time
+than the law says he deserves. And when a player is
+excluded from the tables, his constitutional rights have
+been violated. I do not subscribe to that theory. No one
+should, least of all the Justices of the Supreme Court.
+*
+*
+*
+Today’s decision upends decades of our cases, violates a
+federal statute, and opens a whole new boutique of consti­
+tutional jurisprudence (“plea-bargaining law”) without
+even specifying the remedies the boutique offers. The
+result in the present case is the undoing of an adjudicatory
+process that worked exactly as it is supposed to. Released
+felon Anthony Cooper, who shot repeatedly and gravely
+injured a woman named Kali Mundy, was tried and con­
+victed for his crimes by a jury of his peers, and given a
+punishment that Michigan’s elected representatives have
+deemed appropriate. Nothing about that result is unfair
+or unconstitutional. To the contrary, it is wonderfully
+just, and infinitely superior to the trial-by-bargain that
+today’s opinion affords constitutional status. I respectfully
+dissent.
+——————
+3 See People v. Cooks, 446 Mich. 503, 510, 521 N. W. 2d 275, 278
+(1994); 6 W. LaFave, J. Israel, N. King, & O. Kerr, Criminal Procedure
+§22.1(e) (3d ed. 2007 and Supp. 2011–2012).
+
+

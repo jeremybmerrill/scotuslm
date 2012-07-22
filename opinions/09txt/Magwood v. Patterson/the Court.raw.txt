@@ -1,0 +1,966 @@
+Cite as: 561 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–158
+_________________
+
+BILLY JOE MAGWOOD, PETITIONER v. TONY
+
+PATTERSON, WARDEN, ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+[June 24, 2010] 
+
+
+JUSTICE THOMAS delivered the opinion of the Court,
+except as to Part IV–B.
+Petitioner Billy Joe Magwood was sentenced to death for
+murdering a sheriff. After the Alabama courts denied
+relief on direct appeal and in postconviction proceedings,
+Magwood filed an application for a writ of habeas corpus
+in Federal District Court, challenging both his conviction
+and his sentence. The District Court conditionally granted
+the writ as to the sentence, mandating that Magwood
+either be released or resentenced. The state trial court
+conducted a new sentencing hearing and again sentenced
+Magwood to death. Magwood filed an application for a
+writ of habeas corpus in federal court challenging this new
+sentence. The District Court once again conditionally
+granted the writ, finding constitutional defects in the new
+sentence. The Court of Appeals for the Eleventh Circuit
+reversed, holding in relevant part that Magwood’s chal
+lenge to his new death sentence was an unreviewable
+“second or successive” challenge under 28 U. S. C.
+§2244(b) because he could have mounted the same chal
+lenge to his original death sentence. We granted certio
+
+
+2
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+rari, and now reverse. Because Magwood’s habeas appli
+cation1 challenges a new judgment for the first time, it is
+not “second or successive” under §2244(b).
+I
+After a conviction for a drug offense, Magwood served
+several years in the Coffee County Jail in Elba, Alabama,
+under the watch of Sheriff C. F. “Neil” Grantham. During
+his incarceration, Magwood, who had a long history of
+mental illness, became convinced that Grantham had
+imprisoned him without cause, and vowed to get even
+upon his release. Magwood followed through on his
+threat. On the morning of March 1, 1979, shortly after his
+release, he parked outside the jail and awaited the sher
+iff’s arrival. When Grantham exited his car, Magwood
+shot him and fled the scene.
+Magwood was indicted by a grand jury for the murder of
+an on-duty sheriff, a capital offense under Alabama Code
+§13–11–2(a)(5) (1975).2 He was tried in 1981. The prose
+cution asked the jury to find Magwood guilty of aggra
+vated murder as charged in the indictment, and sought
+the death penalty. Magwood pleaded not guilty by reason
+of insanity; however, the jury found him guilty of capital
+murder under §13–11–2(a)(5), and imposed the sentence of
+death based on the aggravation charged in the indictment.
+——————
+1 Although 28 U. S. C. §2244(b) refers to a habeas “application,” we
+use the word “petition” interchangeably with the word “application,” as
+we have in our prior cases.
+2 At the time of the murder, Alabama Code §13–11–2(a) provided: “If
+the jury finds the defendant guilty, it shall fix the punishment at death
+when the defendant is charged by indictment with any of the following
+offenses and with aggravation, which must also be averred in the
+indictment . . . .” The offenses included “murder of any . . . sheriff . . .
+while . . . on duty or because of some official or job-related act.” §13–
+11–2(a)(5). The same statute set forth a list of “aggravating circum
+stances,” §13–11–6, but the trial court found that none existed in
+Magwood’s case.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+In accordance with Alabama law, the trial court reviewed
+the basis for the jury’s decision. See §§13–11–3, 13–11–4.
+Although the court did not find the existence of any statu
+tory “aggravating circumstance” under §13–11–6, the
+court relied on Ex parte Kyzer, 399 So. 2d 330 (Ala. 1981),
+to find that murder of a sheriff while “on duty or because
+of some official or job-related acts,” §13–11–2(a)(5), is a
+capital felony that, by definition, involves aggravation
+sufficient for a death sentence.3 The trial court found that
+Magwood’s young age (27 at the time of the offense) and
+lack of significant criminal history qualified as mitigating
+factors, but found no mitigation related to Magwood’s
+mental state. Weighing the aggravation against the two
+mitigating factors, the court approved the sentence of
+death. The Alabama courts affirmed. See Magwood v.
+State, 426 So. 2d 918, 929 (Ala. Crim. App. 1982); Ex parte
+Magwood, 426 So. 2d 929, 932 (Ala. 1983). We denied
+certiorari. Magwood v. Alabama, 462 U. S. 1124 (1983).
+After the Alabama Supreme Court set an execution date of
+——————
+3 As relevant here, Kyzer did away with the prior Alabama rule that
+an aggravating component of a capital felony could not double as an
+aggravating factor supporting a capital sentence. In Kyzer, the defen
+dant had been sentenced to death for the intentional murder of “two or
+more human beings” under §13–11–2(a)(10). See 399 So. 2d, at 332.
+The crime of murder, so defined, was aggravated by its serial nature,
+just as Magwood’s crime of murder, as defined under §13–11–2(a)(5),
+was aggravated by the fact that he killed an on-duty sheriff because of
+the sheriff’s job-related acts. In Kyzer, the Alabama Supreme Court
+ultimately remanded for a new trial, but in order to guide the lower
+court on remand, addressed whether the aggravation in the charged
+crime, see §13–11–2(a)(10), was sufficient to impose a sentence of death
+even without a finding of any “aggravating circumstance” enumerated
+in §13–11–6. See id., at 337. The court ruled that if the defendant was
+convicted under §13–11–2(a)(10), “the jury and the trial judge at the
+sentencing hearing [may] find the aggravation averred in the indict
+ment as the aggravating circumstance, even though the aggravation is
+not listed in §13–11–6 as an aggravating circumstance.” Id., at 339
+(internal quotation marks omitted).
+
+
+4
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+July 22, 1983, Magwood filed a coram nobis petition and
+an application for a stay of execution. The trial court held
+a hearing on the petition and denied relief on July 18,
+1983.4
+Eight days before his scheduled execution, Magwood
+filed an application for a writ of habeas corpus under 28
+U. S. C. §2254, and the District Court granted a stay of
+execution. After briefing by the parties, the District Court
+upheld Magwood’s conviction but vacated his sentence and
+conditionally granted the writ based on the trial court’s
+failure to find statutory mitigating circumstances relating
+to Magwood’s mental state.5 See Magwood v. Smith, 608
+F. Supp. 218, 225–226, 229 (MD Ala. 1985). The Court of
+Appeals affirmed. See Magwood v. Smith, 791 F. 2d 1438,
+1450 (CA11 1986).
+In response to the conditional writ, the state trial court
+held a new sentencing proceeding in September 1986.
+This time, the judge found that Magwood’s mental state,
+as well as his age and lack of criminal history, qualified as
+statutory mitigating circumstances. As before, the court
+found that Magwood’s capital felony under §13–11–2(a)(5)
+included sufficient aggravation to render him death eligi
+ble. In his proposed findings, Magwood’s attorney agreed
+that Magwood’s offense rendered him death eligible, but
+argued that a death sentence would be inappropriate in
+light of the mitigating factors. The trial court imposed a
+——————
+4 The
+
+Alabama Court of Criminal Appeals subsequently affirmed the
+denial of Magwood’s coram nobis petition, see Magwood v. State, 449
+So. 2d 1267 (1984), and the Alabama Supreme Court denied Magwood’s
+motion to file an out-of-time appeal from that decision, see Ex parte
+Magwood, 453 So. 2d 1349 (1984).
+5 See Ala. Code §13–11–7 (“Mitigating circumstances shall be the
+following: . . . (2) The capital felony was committed while the defendant
+was under the influence of extreme mental or emotional disturbance
+. . . . (6) The capacity of the defendant to appreciate the criminality of
+his conduct or to conform his conduct to the requirements of law was
+substantially impaired”).
+
+
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+penalty of death, stating on the record that the new
+“judgment and sentence [were] the result of a complete
+and new assessment of all of the evidence, arguments of
+counsel, and law.” Sentencing Tr., R. Tab 1, p. R–25. The
+Alabama courts affirmed, see Magwood v. State, 548
+So. 2d 512, 516 (Ala. Crim. App. 1988); Ex parte Magwood,
+548 So. 2d 516, 516 (Ala. 1988), and this Court denied
+certiorari, see Magwood v. Alabama, 493 U. S. 923 (1989).
+Magwood filed a petition for relief under Alabama’s
+former Temporary Rule of Criminal Procedure 20 (1987)
+(now Ala. Rule Crim. Proc. 32) (Rule 20 petition) claiming,
+inter alia, that his death sentence exceeded the maximum
+sentence authorized by statute; that his death sentence
+violated the Fifth, Eighth, and Fourteenth Amendments
+because it rested upon an unforeseeable interpretation of
+the capital sentencing statute; and that his attorney ren
+dered ineffective assistance of counsel during resentenc
+ing. The trial court denied relief. It held that the statu
+tory basis for Magwood’s death sentence had been
+affirmed on direct appeal and could not be relitigated. The
+trial court also held that Magwood’s attorney played no
+substantive role in the resentencing and had no obligation
+to dispute the aggravation, given that the District Court
+had required only that the trial court consider additional
+mitigating factors.
+Magwood appealed the denial of his Rule 20 petition,
+arguing, inter alia, that his sentence was unconstitutional
+because he did not have fair warning that his offense could
+be punished by death, and that he received constitution
+ally ineffective assistance of counsel at resentencing. See
+Record in Appeal No. 92–843 (Ala. Crim. App.), Tab 25,
+pp. 23–24, 53–61.
+The Alabama Court of Criminal Appeals affirmed, citing
+its decision on direct appeal as to the propriety of the
+death sentence. See Magwood v. State, 689 So. 2d 959,
+965 (1996) (citing Kyzer, 399 So. 2d 330, and Jackson v.
+
+
+6
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+State, 501 So. 2d 542 (Ala. Crim. App. 1986)).6 The Ala
+bama Supreme Court denied certiorari, see 689 So. 2d, at
+959, as did this Court, see Magwood v. Alabama, 522 U. S.
+836 (1997).
+In April 1997, Magwood sought leave to file a second or
+successive application for a writ of habeas corpus challeng
+ing his 1981 judgment of conviction. See §2244(b)(3)(A)
+(requiring authorization from the Court of Appeals to file a
+second or successive application). The Court of Appeals
+denied his request. See In re Magwood, 113 F. 3d 1544
+(CA11 1997). He simultaneously filed a petition for a writ
+of habeas corpus challenging his new death sentence,
+which the District Court conditionally granted. See Mag
+wood v. Culliver, 481 F. Supp. 2d 1262, 1295 (MD Ala.
+2007). In that petition, Magwood again argued that his
+sentence was unconstitutional because he did not have fair
+warning at the time of his offense that his conduct would
+be sufficient to warrant a death sentence under Alabama
+law, and that his attorney rendered ineffective assistance
+during the resentencing proceeding.
+Before addressing the merits of Magwood’s fair-warning
+claim, the District Court sua sponte considered whether
+the application was barred as a “successive petition” under
+§2244, and concluded that it was not. Id., at 1283–1284
+(“[H]abeas petitions challenging the constitutionality of a
+resentencing proceeding are not successive to petitions
+that challenge the underlying conviction and original
+sentence” (citing 2 R. Hertz & J. Liebman, Federal Habeas
+Corpus Practice & Procedure §28.3b(i), p. 1412 (5th ed.
+2005) (“When a petitioner files a second or subsequent
+petition to challenge a criminal judgment other than the
+——————
+6 In
+
+Jackson v. State, the Alabama Court of Criminal Appeals held
+that Kyzer supported a death sentence for a defendant who was con
+victed for an offense committed before Kyzer was decided but was
+resentenced after that decision. 501 So. 2d 542, 544 (1986).
+
+
+Cite as: 561 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+one attacked in an earlier petition, it cannot be said that
+the two petitions are ‘successive’ ” (emphasis in original))).
+The District Court rejected the State’s argument that
+Magwood had procedurally defaulted the fair-warning
+claim by failing to present it adequately to the state
+courts, noting that Magwood had presented the claim both
+in his Rule 20 petition and on appeal from the denial of
+that petition. See 481 F. Supp. 2d, at 1285–1286; supra,
+at 5. Addressing the merits, the District Court ruled that
+Magwood’s death sentence was unconstitutional because
+“at the time of the offense conduct, Magwood did not have
+fair notice that he could be sentenced to death absent at
+least one aggravating circumstance enumerated in former
+1975 Ala. Code §13–11–6.” 481 F. Supp. 2d, at 1285. The
+District Court also found the state court’s grounds for
+rejecting Magwood’s ineffective-assistance claim unrea
+sonable in light of clearly established federal law, noting
+that Magwood’s attorney in fact had engaged substan
+tively in the “complete and new” resentencing, and al
+though the attorney could not be expected to object on
+state-law grounds foreclosed by precedent, he was clearly
+ineffective for failing to raise the federal fair-warning
+claim. Id., at 1294 (internal quotation marks omitted).
+The Court of Appeals reversed in relevant part. See 555
+F. 3d 968 (CA11 2009). It concluded that the first step in
+determining whether §2244(b) applies is to “separate the
+new claims challenging the resentencing from the old
+claims that were or should have been presented in the
+prior application.” Id., at 975 (internal quotation marks
+omitted). Under the Court of Appeals’ approach, any
+claim that “challenge[s] the new, amended component of
+the sentence” should be “regarded as part of a first peti
+tion,” and any claim that “challenge[s] any component of
+the original sentence that was not amended” should be
+“regarded as part of a second petition.” Ibid. Applying
+this test, the court held that because Magwood’s fair
+
+
+8
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+warning claim challenged the trial court’s reliance on the
+same (allegedly improper) aggravating factor that the trial
+court had relied upon for Magwood’s original sentence, his
+claim was governed by §2244(b)’s restrictions on “second
+or successive” habeas applications. Id., at 975–976. The
+Court of Appeals then dismissed the claim because Mag
+wood did not argue that it was reviewable under one of the
+exceptions to §2244(b)’s general rule requiring dismissal of
+claims first presented in a successive application.7 See id.,
+at 976.
+We granted certiorari to determine whether Magwood’s
+application challenging his 1986 death sentence, imposed
+as part of resentencing in response to a conditional writ
+from the District Court, is subject to the constraints that
+§2244(b) imposes on the review of “second or successive”
+habeas applications. 558 U. S. ___ (2009).
+II
+As amended by the Antiterrorism and Effective Death
+Penalty Act of 1996 (AEDPA), 28 U. S. C. §2244(b) pro
+vides in relevant part:
+“(1) A claim presented in a second or successive ha
+beas corpus application under section 2254 that was
+presented in a prior application shall be dismissed.
+“(2) A claim presented in a second or successive ha
+beas corpus application under section 2254 that was
+not presented in a prior application shall be dismissed
+unless—
+——————
+7 The
+
+court treated Magwood’s ineffective-assistance claim as new
+and free of the restrictions of §2244(b)(2), but reversed on the merits:
+“While there was a possible objection, Alabama’s highest court had said
+in Kyzer that a §13–11–2 aggravating factor could be used as an aggra
+vating circumstance. We are not prepared to require counsel to raise
+an argument that has already been decided adversely to his client’s
+position by a state’s highest court in order to avoid being found ineffec
+tive.” 555 F. 3d, at 977–978.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+“(A) the applicant shows that the claim relies on a
+new rule of constitutional law, made retroactive to
+cases on collateral review by the Supreme Court, that
+was previously unavailable; or
+“(B)(i) the factual predicate for the claim could not
+have been discovered previously through the exercise
+of due diligence; and
+“(ii) the facts underlying the claim, if proven and
+viewed in light of the evidence as a whole, would be
+sufficient to establish by clear and convincing evi
+dence that, but for constitutional error, no reasonable
+factfinder would have found the applicant guilty of the
+underlying offense.”
+This case turns on the meaning of the phrase “second or
+successive” in §2244(b). More specifically, it turns on
+when a claim should be deemed to arise in a “second or
+successive habeas corpus application.” §§2244(b)(1), (2).
+If an application is “second or successive,” the petitioner
+must obtain leave from the Court of Appeals before filing
+it with the district court. See §2244(b)(3)(A). The district
+court must dismiss any claim presented in an authorized
+second or successive application unless the applicant
+shows that the claim satisfies certain statutory require
+ments. See §2244(b)(4). Thus, if Magwood’s application
+was “second or successive,” the District Court should have
+dismissed it in its entirety because he failed to obtain the
+requisite authorization from the Court of Appeals. If,
+however, Magwood’s application was not second or succes
+sive, it was not subject to §2244(b) at all, and his fair
+warning claim was reviewable (absent procedural default).
+The State contends that although §2244(b), as amended
+by AEDPA, applies the phrase “second or successive” to
+“application[s],” it “is a claim-focused statute,” Brief for
+Respondents 22–24, and “[c]laims, not applications, are
+barred by §2244(b),” id., at 24 (citing Artuz v. Bennett, 531
+
+
+10
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+U. S. 4, 9 (2000)). According to the State, the phrase
+should be read to reflect a principle that “a prisoner is
+entitled to one, but only one, full and fair opportunity to
+wage a collateral attack.” See Brief for Respondents
+25–26 (citing Beyer v. Litscher, 306 F. 3d 504, 508 (CA7
+2002); internal quotation marks omitted). The State
+asserts that under this “one opportunity” rule, Magwood’s
+fair-warning claim was successive because he had an
+opportunity to raise it in his first application, but did not
+do so. See Brief for Respondents 25–26.
+Magwood, in contrast, reads §2244(b) to apply only to a
+“second or successive” application challenging the same
+state-court judgment. According to Magwood, his 1986
+resentencing led to a new judgment, and his first applica
+tion challenging that new judgment cannot be “second or
+successive” such that §2244(b) would apply. We agree.
+We begin with the text. Although Congress did not
+define the phrase “second or successive,” as used to modify
+“habeas corpus application under section 2254,”
+§§2244(b)(1)–(2), it is well settled that the phrase does not
+simply “refe[r] to all §2254 applications filed second or
+successively in time,” Panetti v. Quarterman, 551 U. S.
+930, 944 (2007); see id., at 947 (creating an “exceptio[n]” to
+§2244(b) for a second application raising a claim that
+would have been unripe had the petitioner presented it in
+his first application); Stewart v. Martinez-Villareal, 523
+U. S. 637, 643 (1998) (treating a second application as part
+of a first application where it was premised on a newly
+ripened claim that had been dismissed from the first
+application “as premature”); Slack v. McDaniel, 529 U. S.
+473, 478, 487 (2000) (declining to apply §2244(b) to a
+second application where the District Court dismissed the
+first application for lack of exhaustion).8
+——————
+8 In Slack v. McDaniel, we applied pre-AEDPA law, but “d[id] not
+suggest the definition of second or successive would be different under
+
+
+Cite as: 561 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+We have described the phrase “second or successive” as
+a “term of art.” Id., at 486. To determine its meaning, we
+look first to the statutory context. The limitations im
+posed by §2244(b) apply only to a “habeas corpus applica
+tion under §2254,” that is, an “application for a writ of
+habeas corpus on behalf of a person in custody pursuant to
+the judgment of a State court,” §2254(b)(1) (emphasis
+added). The reference to a state-court judgment in
+§2254(b) is significant because the term “application”
+cannot be defined in a vacuum. A §2254 petitioner is
+applying for something: His petition “seeks invalidation
+(in whole or in part) of the judgment authorizing the pris
+oner’s confinement,” Wilkinson v. Dotson, 544 U. S. 74, 83
+(2005) (emphasis added). If his petition results in a dis
+trict court’s granting of the writ, “the State may seek a
+new judgment (through a new trial or a new sentencing
+proceeding).” Ibid. (emphasis in original). Thus, both
+§2254(b)’s text and the relief it provides indicate that the
+phrase “second or successive” must be interpreted with
+respect to the judgment challenged.
+The State disagrees, contending that if the cross
+reference to §2254 is relevant, we should focus not on the
+statute’s reference to a “judgment” but on its reference to
+“custody,” Brief for Respondents 53; compare §§2254(a),
+(b) (establishing rules for review of “an application for a
+writ of habeas corpus” on “behalf of a person in custody
+pursuant to the judgment of a State court” (emphasis
+added)) with §2254(a) (specifying that an application may
+be entertained “only on the ground that [the petitioner] is
+in custody in violation of the Constitution or laws or trea
+ties of the United States” (emphasis added)). The State
+explains that unlawful “custody” is the key “ ‘substance
+—————— 
+
+AEDPA.” 529 U. S., at 473, 486. Courts have followed Slack in post-
+
+AEDPA cases, and the State agrees it is relevant to the question
+
+presented here. See Brief for Respondents 36, n. 13. 
+
+
+
+12
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+requirement’ ” of §2254, whereas being held pursuant to a
+state-court “judgment” is merely a “ ‘status requirement.’ ”
+Brief for Respondents 53 (quoting Liebman & Hertz,
+Federal Habeas Corpus Practice and Procedure §8.1,
+p. 391).
+We find this argument unpersuasive. Section 2254
+articulates the kind of confinement that may be chal
+lenged on the ground that the petitioner is being held “in
+violation of the Constitution or laws or treaties of the
+United States.” §2254(a). The requirement of custody
+pursuant to a state-court judgment distinguishes §2254
+from other statutory provisions authorizing relief from
+constitutional violations—such as §2255, which allows
+challenges to the judgments of federal courts, or 42
+U. S. C. §1983, which allows federal-court suits against
+state and local officials. Custody is crucial for §2254
+purposes, but it is inextricable from the judgment that
+authorizes it.
+The State’s “custody”-based rule is difficult to justify for
+another reason. Under the State’s approach, applying the
+phrase “second or successive” to any subsequent applica
+tion filed before a prisoner’s release would mean that a
+prisoner who remains in continuous custody for a com
+pletely unrelated conviction would have to satisfy the
+strict rules for review under §2244(b) to challenge his
+unrelated conviction for the first time. Nothing in the
+statutory text or context supports, much less requires,
+such an anomalous result. See, e.g., Beyer, 306 F. 3d, at
+507 (“[A] prisoner is entitled to one free-standing collateral
+attack per judgment, rather than one attack per stretch of
+imprisonment”); cf. Dotson, supra, at 85 (SCALIA, J., con
+curring) (“[W]hen a habeas petitioner challenges only one
+of several consecutive sentences, the court may invalidate
+the challenged sentence even though the prisoner remains
+
+
+Cite as: 561 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+in custody to serve the others”).9
+III
+Appearing to recognize that Magwood has the stronger
+textual argument, the State argues that we should rule
+based on the statutory purpose. According to the State, a
+“one opportunity” rule is consistent with the statutory
+text, and better reflects AEDPA’s purpose of preventing
+piecemeal litigation and gamesmanship.
+We are not persuaded. AEDPA uses the phrase “second
+or successive” to modify “application.” See §§2244(b)(1),
+(2). The State reads the phrase to modify “claims.” See,
+e.g., Brief for Respondents 51 (“Congress’ intent for
+AEDPA was to eradicate successive claims”). We cannot
+replace the actual text with speculation as to Congress’
+intent. We have previously found Congress’ use of the
+word “application” significant, and have refused to adopt
+an interpretation of §2244(b) that would “elid[e] the differ
+ence between an ‘application’ and a ‘claim,’ ” Artuz, 531
+U. S., at 9; see also Gonzalez v. Crosby, 545 U. S. 524, 530
+(2005) (“[F]or purposes of §2244(b), an ‘application’ for
+habeas relief is a filing that contains one or more
+‘claims’ ”). Therefore, although we agree with the State
+that many of the rules under §2244(b) focus on claims,
+that does not entitle us to rewrite the statute to make the
+phrase “second or successive” modify claims as well.10
+The State’s reading leads to a second, more fundamental
+——————
+9 Our focus on the judgment accords with current filing requirements.
+See Habeas Corpus Rule 2(b) (requiring any petitioner to “ask for relief
+from the state-court judgment being contested”); Rule 2(e) (prescribing
+that any “petitioner who seeks relief from judgments of more than one
+state court must file a separate petition covering the judgment or
+judgments of each court”).
+10 The dissent recognizes that the phrase “second or successive” ap
+plies to an application as a whole, see post, at 2–4 (opinion of KENNEDY,
+J.), but departs in other significant ways from the statutory text, see
+infra, at 14–15.
+
+
+14
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+error. Under the State’s “one opportunity” rule, the
+phrase “second or successive” would apply to any claim
+that the petitioner had a full and fair opportunity to raise
+in a prior application. And the phrase “second or succes
+sive” would not apply to a claim that the petitioner did not
+have a full and fair opportunity to raise previously.
+This reading of §2244(b) would considerably under
+mine—if not render superfluous—the exceptions to dis
+missal set forth in §2244(b)(2). That section describes
+circumstances when a claim not presented earlier may be
+considered: intervening and retroactive case law, or newly
+discovered facts suggesting “that . . . no reasonable fact
+finder would have found the applicant guilty of the under
+lying offense.” §2244(b)(2)(B)(ii). In either circumstance,
+a petitioner cannot be said to have had a prior opportunity
+to raise the claim, so under the State’s rule the claim
+would not be successive and §2244(b)(2) would not apply to
+it at all. This would be true even if the claim were raised
+in a second application challenging the same judgment.11
+In addition to duplicating the exceptions under §2244(b)
+in some circumstances, the State’s rule would dilute them
+in others. Whereas the exception to dismissal of fact
+based claims not presented in a prior application applies
+only if the facts provide clear and convincing evidence
+——————
+11 This case does not require us to determine whether §2244(b) ap
+plies to every application filed by a prisoner in custody pursuant to a
+state-court judgment if the prisoner challenged the same state-court
+judgment once before. Three times we have held otherwise. See Slack
+v. McDaniel, 529 U. S. 475, 487 (2000); Stewart v. Martinez-Villareal,
+523 U. S. 637, 643 (1998); Panetti v. Quarterman, 551 U. S. 930, 945
+(2007).
+The dissent’s claim that our reading of §2244(b) calls one of those
+decisions, Panetti, into doubt, see post, at 7–8, is unfounded. The
+question in this case is whether a first application challenging a new
+sentence in an intervening judgment is second or successive. It is not
+whether an application challenging the same state-court judgment
+must always be second or successive.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+“that, but for constitutional error, no reasonable factfinder
+would have found the applicant guilty of the underlying
+offense,” §2244(b)(2)(B)(ii), under the State’s rule, all that
+matters is that the facts “could not have been discovered
+previously through the exercise of due diligence,”
+§2244(b)(2)(B)(i). We decline to adopt a reading that
+would thus truncate §2244(b)(2)’s requirements.
+IV 
+
+A
+
+We are not persuaded by the State or the dissent that
+the approach we take here contradicts our precedents.
+The State invokes several pre-AEDPA cases denying
+review of claims in second or successive applications
+where the petitioners did not avail themselves of prior
+opportunities to present the claims. See Wong Doo v.
+United States, 265 U. S. 239 (1924); Antone v. Dugger, 465
+U. S. 200 (1984) (per curiam); Woodard v. Hutchins, 464
+U. S. 377 (1984) (per curiam); Delo v. Stokes, 495 U. S. 320
+(1990) (per curiam); McCleskey v. Zant, 499 U. S. 467
+(1991). These cases, the State contends, show that Mag
+wood’s fair-warning claim should be dismissed as second
+or successive because he could have raised—but did not
+raise—the claim in his first application.
+But none of these pre-AEDPA decisions applies the
+phrase “second or successive” to an application challenging
+a new judgment. Therefore, the decisions cast no light on
+the question before the Court today: whether abuse-of-the
+writ rules, as modified by AEDPA under §2244(b)(2), apply
+at all to an application challenging a new judgment. The
+State’s misplaced reliance on those cases stems from its
+failure to distinguish between §2244(b)’s threshold inquiry
+into whether an application is “second or successive,” and
+its subsequent inquiry into whether claims in a successive
+application must be dismissed.
+
+
+16
+
+MAGWOOD v. PATTERSON
+
+Opinion of the Court
+Opinion of THOMAS, J. 
+
+
+B
+
+The dissent similarly errs by interpreting the phrase
+“second or successive” by reference to our longstanding
+doctrine governing abuse of the writ. AEDPA modifies
+those abuse-of-the-writ principles and creates new statu
+tory rules under §2244(b). These rules apply only to “sec
+ond or successive” applications. The dissent contends that
+this reading renders AEDPA inapplicable to a broad range
+of abusive claims that would have been barred under prior
+rules. Yet, the dissent fails to cite any case in which this
+Court has dismissed a claim as successive or abusive if the
+petitioner raised it in an application challenging a new
+judgment.
+The dissent’s conclusion that our reading of §2254 “un
+moor[s] the phrase ‘second or successive’ from its textual
+and historical underpinnings,” post, at 8, is unwarranted.
+Pre-AEDPA usage of the phrase “second or successive” is
+consistent with our reading. A review of our habeas
+precedents shows that pre-AEDPA cases cannot affirma
+tively define the phrase “second or successive” as it ap
+pears in AEDPA. Congress did not even apply the phrase
+“second or successive” to applications filed by state prison
+ers until it enacted AEDPA. The phrase originally arose
+in the federal context, see §2255 (1946 ed., Supp. II), and
+applied only to applications raising previously adjudicated
+claims, see Sanders v. United States, 373 U. S. 1, 12
+(1963). After this Court interpreted the law to permit
+dismissal of “abusive” claims—as distinguished from
+“successive” claims, see ibid.—Congress codified restric
+tions on both types of claims in §2244(b), but still without
+using the phrase “second or successive.” See §2244(b)
+(1964 ed., Supp. IV) (providing rules governing applica
+tions filed by state as well as federal prisoners). It was not
+until 1996 that AEDPA incorporated the phrase “second or
+successive” into §2244(b). In light of this complex history
+of the phrase “second or successive,” we must rely upon
+
+
+Cite as: 561 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+the current text to determine when the phrase applies,
+rather than pre-AEDPA precedents or superseded statu
+tory formulations.12
+C
+Nor do our post-AEDPA cases contradict our approach.
+Only one, Burton v. Stewart, 549 U. S. 147 (2007) (per
+curiam), comes close to addressing the threshold question
+whether an application is “second or successive” if it chal
+lenges a new judgment. And that case confirms that the
+existence of a new judgment is dispositive. In Burton, the
+petitioner had been convicted and sentenced in state court
+in 1994. See id., at 149. He successfully moved for resen
+tencing based on vacatur of an unrelated prior conviction.
+Id., at 150. The state appellate court affirmed the convic
+tion but remanded for a second resentencing. Ibid. In
+March 1998, the trial court entered an amended judgment
+and new sentence. Id., at 151. In December 1998, with
+state review of his new sentence still pending, the peti
+tioner filed a §2254 application challenging his 1994 con
+viction. The District Court denied it on the merits, the
+Court of Appeals affirmed, and we denied certiorari. Ibid.
+In 2002, after exhausting his state sentencing appeal,
+the petitioner filed a §2254 petition challenging only his
+1998 sentence. The District Court denied relief on the
+merits and the Court of Appeals affirmed. We reversed,
+holding that the petition challenging the sentence should
+have been dismissed as an unauthorized “second or suc
+cessive” application. Id., at 153; see §2244(b)(3)(A). We
+——————
+12 The dissent speculates about issues far beyond the question before
+the Court. See, e.g., post, at 8–9 (suggesting that our judgment-based
+reading of §2244(b) calls into question precedents recognizing habeas
+petitions challenging the denial of good-time credits or parole). We
+address only an application challenging a new state-court judgment for
+the first time. We do not purport to constrain the scope of §2254 as we
+have previously defined it.
+
+
+18
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+rejected the petitioner’s argument “that his 1998 and 2002
+petitions challenged different judgments.” Id., at 155; see
+id., at 156–157. Although petitioner had styled his first
+petition as a challenge to the 1994 conviction and his
+second petition as a challenge to the 1998 sentence, we
+concluded that both attacked the same “judgment” be
+cause the 1998 sentence was already in place when the
+petitioner filed his first application for federal habeas
+relief. See id., at 156. In other words, the judgment he
+challenged in his 1998 application was “the same one
+challenged in the subsequent 2002 petition”; it “was the
+judgment pursuant to which [the petitioner] was being
+detained.” Ibid. (emphasis added). We expressly recog
+nized that the case might have been different had there
+been a “new judgment intervening between the two ha
+beas petitions.” Ibid. There was no such judgment in
+Burton, but there is such an intervening judgment here.
+This is Magwood’s first application challenging that
+intervening judgment. The errors he alleges are new. It is
+obvious to us—and the State does not dispute—that his
+claim of ineffective assistance at resentencing turns upon
+new errors. But, according to the State, his fair-warning
+claim does not, because the state court made the same
+mistake before. We disagree. An error made a second
+time is still a new error. That is especially clear here,
+where the state court conducted a full resentencing and
+reviewed the aggravating evidence afresh. See Sentencing
+Tr., R. Tab 1, at R–25 (“The Court in f[or]mulating the
+present judgment has considered the original record of the
+trial and sentence. . . . The present judgment and sentence
+has been the result of a complete and new assessment of all
+of the evidence, arguments of counsel, and law” (emphasis
+added)).13
+——————
+13 Cf. Walker v. Roth, 133 F. 3d 454, 455 (CA7 1997) (“None of these
+new claims were raised in his first petition, nor could they have been;
+
+
+Cite as: 561 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+D
+The dissent’s concern that our rule will allow “petition
+ers to bring abusive claims so long as they have won any
+victory pursuant to a prior federal habeas petition,” post,
+at 14, is greatly exaggerated. A petitioner may not raise
+in federal court an error that he failed to raise properly in
+state court in a challenge to the judgment reflecting the
+error. If a petitioner does not satisfy the procedural re
+quirements for bringing an error to the state court’s atten
+tion—whether in trial, appellate, or habeas proceedings,
+as state law may require—procedural default will bar
+federal review. See Coleman v. Thompson, 501 U. S. 722,
+729–730 (1991); O’Sullivan v. Boerckel, 526 U. S. 838, 848
+(1999) (stating that the petitioner’s “failure to present
+three of his federal habeas claims to the [state court] in a
+timely fashion has resulted in a procedural default of
+those claims”). In this case, the State argued that Mag
+wood procedurally defaulted his fair-warning claim by
+failing to raise it properly in his collateral challenge to the
+1986 judgment, and sought dismissal on that ground.
+Only after ruling that Magwood did not procedurally
+default the claim did the District Court sua sponte con
+sider whether §2244(b) barred review.14 We leave that
+procedural-default ruling to the Court of Appeals to review
+in the first instance. Here, we underscore only that proce
+dural-default rules continue to constrain review of claims
+in all applications, whether the applications are “second or
+——————
+[the petitioner] is attempting to challenge the constitutionality of a
+proceeding which obviously occurred after he filed, and obtained relief,
+in his first habeas petition”).
+14 See 481 F. Supp. 2d 1262, 1267 (MD Ala. 2007) (“This court split
+the proceedings on the current petition into two stages: Stage I (deter
+mining whether the claims were procedurally defaulted) and Stage II
+(considering the merits of the claims that were not procedurally de
+faulted)”). Few of Magwood’s claims survived the initial cut.
+
+
+20
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+successive” or not.15
+Ironically, in an effort to effectuate what they believe is
+Congress’ intent not to give any unfair benefit to habeas
+petitioners, the State and the dissent propose an alterna
+tive rule that would “close our doors to a class of habeas
+petitioners seeking review without any clear indication
+that such was Congress’ intent.” Castro v. United States,
+540 U. S. 375, 381 (2003). Many examples can be given,
+but one suffices to illustrate this point. Suppose that a
+petitioner files an application raising 10 meritorious
+claims challenging his conviction. The district court
+grants a conditional writ based on one of them, without
+reaching the remaining nine. Upon retrial, the state court
+commits the same 10 legal mistakes. (These are new
+errors, but no more new than the sentencing error in
+Magwood’s case.) Is an application presenting those same
+10 claims—now based on the errors in the new judg
+ment—“second or successive”? Under the opportunity
+based rule advanced by the State and the dissent, the
+answer must be yes. All 10 claims would have to be dis
+missed. See §2244(b)(1) (requiring dismissal of any claim
+presented in a prior application). The State attempts to
+avoid this “procedural anomal[y],” Castro, supra, at 380,
+by suggesting that we treat the nine unadjudicated claims
+as part of a first application, because they were never
+adjudicated on the merits. Cf. Slack, 529 U. S., at
+478–481; Martinez-Villareal, 523 U. S., at 643–645. As for
+the adjudicated claim, “[r]espondents assume that state
+judges will follow instructions imposed by federal courts,”
+and if not, “that federal courts will consider a petitioner’s
+claim that the state court violated due process by failing to
+——————
+15 The dissent’s concern that such a petitioner may “reraise every
+argument against a sentence that was rejected by the federal courts
+during the first round of federal habeas review,” post, at 12, is similarly
+hyperbolic. It will not take a court long to dispose of such claims where
+the court has already analyzed the legal issues.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+21
+
+Opinion of the Court
+
+honor the federal court’s mandate.” Brief for Respondents
+42. We see no need to engage in such novel and complex
+rationalizations.
+AEDPA’s text commands a more
+straightforward rule: where, unlike in Burton, there is a
+“new judgment intervening between the two habeas peti
+tions,” 549 U. S., at 156, an application challenging the
+resulting new judgment is not “second or successive” at all.
+V
+The State objects that our reading of §2244(b) would
+allow a petitioner who obtains a conditional writ as to his
+sentence to file a subsequent application challenging not
+only his resulting, new sentence, but also his original,
+undisturbed conviction. The State believes this result
+follows because a sentence and conviction form a single
+“judgment” for purposes of habeas review. This case gives
+us no occasion to address that question, because Magwood
+has not attempted to challenge his underlying conviction.16
+We base our conclusion on the text, and that text is not
+altered by consequences the State speculates will follow in
+another case.17
+*
+*
+*
+For these reasons, we conclude that Magwood’s first
+application challenging his new sentence under the 1986
+judgment is not “second or successive” under §2244(b).
+——————
+16 Several
+
+Courts of Appeals have held that a petitioner who succeeds
+on a first habeas application and is resentenced may challenge only the
+“portion of a judgment that arose as a result of a previous successful
+action.” Lang v. United States, 474 F. 3d 348, 351 (CA6 2007) (citing
+decisions); see also Walker, 133 F. 3d, at 455; United States v. Esposito,
+135 F. 3d 111, 113–114 (CA2 1997).
+17 In any case, we cannot agree with the dissent that our reading of
+§2244(b) gives a windfall to “a defendant who succeeds on even the
+most minor and discrete issue.” Post, at 12. AEDPA permits relief
+“only on the ground that [the petitioner] is in custody in violation of the
+Constitution or laws or treaties of the United States.” §2254(a).
+
+
+22
+
+MAGWOOD v. PATTERSON
+Opinion of the Court
+
+The Court of Appeals erred by reading §2244(b) to bar
+review of the fair-warning claim Magwood presented in
+that application. We do not address whether the fair
+warning claim is procedurally defaulted. Nor do we ad
+dress Magwood’s contention that the Court of Appeals
+erred in rejecting his ineffective-assistance claim by not
+addressing whether his attorney should have objected
+under federal law.
+The judgment of the Court of Appeals is reversed, and
+the case is remanded for further proceedings consistent
+with this opinion.
+It is so ordered.
+
+

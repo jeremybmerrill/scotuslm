@@ -1,0 +1,42 @@
+Cite as: 560 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+that party has “an interest relating to the subject of the
+action” and “disposing of the action in the person’s absence
+may . . . as a practical matter impair or impede the per
+son’s ability to protect the interest.” Fed. Rule Civ. Proc.
+19(a)(1)(B). If this is the case, and the entity is immune
+from suit under the FSIA, the district court may have to
+dismiss the suit, regardless of whether the official is im
+mune or not under the common law. See Republic of
+Philippines v. Pimentel, 553 U. S. 851, 867 (2008)
+(“[W]here sovereign immunity is asserted, and the claims
+of the sovereign are not frivolous, dismissal of the action
+must be ordered where there is a potential for injury to
+the interests of the absent sovereign”). Or it may be the
+case that some actions against an official in his official
+capacity should be treated as actions against the foreign
+state itself, as the state is the real party in interest. Cf.
+Kentucky v. Graham, 473 U. S. 159, 166 (1985) (“[A]n
+official-capacity suit is, in all respects other than name, to
+be treated as a suit against the entity. It is not a suit
+against the official personally, for the real party in inter
+est is the entity” (citation omitted)).
+We are thus not persuaded that our construction of the
+statute’s text should be affected by the risk that plaintiffs
+may use artful pleading to attempt to select between
+application of the FSIA or the common law. And we think
+this case, in which respondents have sued petitioner in his
+personal capacity and seek damages from his own pockets,
+is properly governed by the common law because it is not a
+claim against a foreign state as the Act defines that term.
+Although Congress clearly intended to supersede the
+common-law regime for claims against foreign states, we
+find nothing in the statute’s origin or aims to indicate that
+Congress similarly wanted to codify the law of foreign
+official immunity.
+
+

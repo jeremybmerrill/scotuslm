@@ -1,0 +1,37 @@
+8
+
+KAWASHIMA v. HOLDER
+Opinion of the Court
+
+ernment are aggravated felonies. The Kawashimas assert
+that, if Clause (i) applies to tax crimes, then qualifying
+convictions for tax evasion under Clause (ii) would also
+qualify as aggravated felonies under Clause (i), because
+tax evasion is a crime involving fraud or deceit. To buttress this argument, the Kawashimas point to a body of
+law providing that a conviction for tax evasion under
+§7201 collaterally estops the convicted taxpayer from
+contesting a civil penalty under 26 U. S. C. §6663(b) for
+“underpayment . . . attributable to fraud.” See, e.g., Gray
+v. Commissioner, 708 F. 2d 243, 246 (CA6 1983) (“Numerous federal courts have held that a conviction for federal
+income tax evasion, either upon a plea of guilty, or upon
+a jury verdict of guilt, conclusively establishes fraud in a
+subsequent civil tax fraud proceeding through application
+of the doctrine of collateral estoppel”). Therefore, according to the Kawashimas, if Clause (i) covers tax offenses,
+then Clause (ii) is mere surplusage.
+We disagree with the Kawashimas’ contention that the
+specific mention of one type of tax crime in Clause (ii)
+impliedly limits the scope of Clause (i)’s plain language,
+which extends to any offense that “involves fraud or deceit.” We think it more likely that Congress specifically
+included tax evasion offenses under 26 U. S. C. §7201 in
+Clause (ii) to remove any doubt that tax evasion qualifies
+as an aggravated felony.
+Several considerations support this conclusion. Like
+§§7206(1) and (2), §7201 does not, on its face, mention
+fraud or deceit. Instead, §7201 simply provides that “[a]ny
+person who willfully attempts in any manner to evade or
+defeat any tax imposed by [the Internal Revenue Code] or
+the payment thereof shall, in addition to other penalties
+provided by law, be guilty of a felony.” Accordingly, neither fraud nor deceit is among the elements of a conviction
+under §7201, which include: (1) willfulness; (2) the existence of a tax deficiency; and (3) an affirmative act consti-
+
+

@@ -1,0 +1,40 @@
+2
+
+NATIONAL MEAT ASSN. v. HARRIS
+Syllabus
+shall “buy, sell, or receive a nonambulatory animal”; “process, butcher, or sell meat or products of nonambulatory animals for human
+consumption”; or “hold a nonambulatory animal without taking immediate action to humanely euthanize the animal.” §§599f(a)–(c).
+Petitioner National Meat Association (NMA), a trade association representing meatpackers and processors, sued to enjoin enforcement of
+§599f against swine slaughterhouses, arguing that the FMIA
+preempts application of the state law. The District Court agreed, and
+granted the NMA a preliminary injunction. The Ninth Circuit reversed, holding that §599f is not preempted because it regulates only
+“the kind of animal that may be slaughtered,” not the inspection or
+slaughtering process itself.
+
+Held: The FMIA expressly preempts §599f’s application against federally inspected swine slaughterhouses. Pp. 6−14.
+(a) The FMIA’s preemption clause sweeps widely, and so blocks the
+applications of §599f challenged here. The clause prevents a State
+from imposing any additional or different―even if nonconflicting―requirements that fall within the FMIA’s scope and concern
+slaughterhouse facilities or operations. Section 599f imposes additional or different requirements on swine slaughterhouses: Where
+under federal law a slaughterhouse may take one course of action in
+handling a nonambulatory pig, under state law the slaughterhouse
+must take another. For example, when a pig becomes injured and
+thus nonambulatory sometime after delivery to a slaughterhouse,
+§599f(c) prohibits the slaughterhouse from “hold[ing]” the pig without
+immediately euthanizing it; and §599f(b) prohibits the slaughterhouse from “process[ing]” or “butcher[ing]” the animal to make food.
+By contrast, the FMIA and its regulations allow a slaughterhouse to
+hold (without euthanizing) any nonambulatory animal that has not
+been condemned, and to process and butcher such an animal’s meat,
+subject to an FSIS official’s approval at post-mortem inspection. Similarly, when a pig is nonambulatory at the time of delivery, §599f(a)
+prohibits a slaughterhouse from “receiv[ing]” or “buy[ing]” the pig.
+But the FMIA and its regulations expressly allow slaughterhouses to
+purchase nonambulatory pigs. See 21 U. S. C. §644; 9 CFR
+§325.20(c). And the FSIS inspection regime clearly contemplates
+that slaughterhouses will receive nonambulatory animals. So §599f
+substitutes a new regulatory regime for the one the FMIA prescribes.
+Respondent Humane Society argues that §599f(a)’s ban on purchasing nonambulatory animals escapes preemption because it would
+not be preempted if applied to purchases occurring off slaughterhouse
+premises. But the record does not disclose whether §599f(a) ever applies beyond the slaughterhouse gate, much less how an application
+of that kind would affect a slaughterhouse’s operations. Moreover,
+
+

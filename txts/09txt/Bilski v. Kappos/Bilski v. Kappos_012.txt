@@ -1,0 +1,42 @@
+8
+
+BILSKI v. KAPPOS
+Opinion of ENNEDY, J.
+Opinion of Kthe Court
+
+entability of a process claim that does not include particu
+lar machines.” At the same time, it explicitly declined to
+“hold that no process patent could ever qualify if it did not
+meet [machine or transformation] requirements.” Id., at
+71. Flook took a similar approach, “assum[ing] that a
+valid process patent may issue even if it does not meet
+[the machine-or-transformation test].” 437 U. S., at 588,
+n. 9.
+This Court’s precedents establish that the machine-or
+transformation test is a useful and important clue, an
+investigative tool, for determining whether some claimed
+inventions are processes under §101. The machine-or
+transformation test is not the sole test for deciding
+whether an invention is a patent-eligible “process.”
+2
+It is true that patents for inventions that did not satisfy
+the machine-or-transformation test were rarely granted in
+earlier eras, especially in the Industrial Age, as explained
+by Judge Dyk’s thoughtful historical review. See 545
+F. 3d, at 966–976 (concurring opinion). But times change.
+Technology and other innovations progress in unexpected
+ways. For example, it was once forcefully argued that
+until recent times, “well-established principles of patent
+law probably would have prevented the issuance of a valid
+patent on almost any conceivable computer program.”
+Diehr, 450 U. S., at 195 (STEVENS, J., dissenting). But
+this fact does not mean that unforeseen innovations such
+as computer programs are always unpatentable. See id.,
+at 192–193 (majority opinion) (holding a procedure for
+molding rubber that included a computer program is
+within patentable subject matter). Section 101 is a “dy
+namic provision designed to encompass new and unfore
+seen inventions.” J. E. M. Ag Supply, Inc. v. Pioneer HiBred Int’l, Inc., 534 U. S. 124, 135 (2001). A categorical
+rule denying patent protection for “inventions in areas not
+
+

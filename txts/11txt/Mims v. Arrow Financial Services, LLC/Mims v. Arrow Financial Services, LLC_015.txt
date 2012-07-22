@@ -1,0 +1,43 @@
+12
+
+MIMS v. ARROW FINANCIAL SERVICES, LLC
+Opinion of the Court
+
+see ErieNet, 156 F. 3d, at 522 (Alito, J., dissenting) (“[47
+U. S. C. A. §227(g)(2) (Supp. 2011)] reveals that, while
+drafting the TCPA, Congress knew full well how to grant
+exclusive jurisdiction with mandatory language. The most
+natural interpretation of Congress’ failure to use similar
+language in [47 U. S. C. §]227(b)(3) is that Congress did
+not intend to grant exclusive jurisdiction in that section.”);
+Brill, 427 F. 3d, at 451 (“[47 U. S. C. A. §227(g)(2) (Supp.
+2011)] is explicit about exclusivity, while [47 U. S. C.]
+§227(b)(3) is not; the natural inference is that the state
+forum mentioned in §227(b)(3) is optional rather than
+mandatory.”).11
+Arrow urges that Congress would have had no reason to
+provide for a private action “in an appropriate [state]
+court,” §227(b)(3), if it did not mean to make the state
+forum exclusive. Had Congress said nothing at all about
+bringing private TCPA claims in state courts, Arrow observes, those courts would nevertheless have concurrent
+——————
+11 For TCPA actions brought by State Attorneys General, or
+“an[other] official or agency designated by a State,” 47 U. S. C. A.
+§227(g)(1) (Supp. 2011), Arrow points out, Congress specifically addressed venue, service of process, §227(g)(4), and potential conflicts
+between federal and state enforcement efforts, §227(g)(7). No similar
+prescriptions appear in the section on private actions, 47 U. S. C.
+§227(b)(3), for this obvious reason:
+“[As] the general rules governing venue and service of process in the
+district courts are well established, see 28 U. S. C. §1391(b); Fed. Rules
+Civ. Proc. 4, 4.1, there was no need for Congress to reiterate them in
+section 227(b)(3). The fact that venue and service of process are discussed in [47 U. S. C. A. §227(g)(4) (Supp. 2011)] and not [47 U. S. C.
+§]227(b)(3) simply indicates that Congress wished to make adjustments
+to the general rules in the former section and not the latter. As for the
+conflict provision that appears in section [47 U. S. C. A. §227(g) (Supp.
+2011)] but not [47 U. S. C. §]227(b)(3), it is hardly surprising that
+Congress would be concerned about agency conflicts in the section of
+the TCPA dealing with official state enforcement efforts but not in the
+section governing private lawsuits.” ErieNet, Inc. v. Velocity Net, Inc.,
+156 F. 3d 513, 523 (CA3 1998) (Alito, J., dissenting).
+
+

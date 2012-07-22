@@ -1,0 +1,43 @@
+2
+
+CONKRIGHT v. FROMMERT
+Opinion of the Court
+
+cover them only in broad strokes. This case concerns
+Xerox Corporation’s pension plan, which is covered by
+ERISA, 88 Stat. 829, as amended, 29 U. S. C. §1001 et seq.
+Petitioners are the plan itself (hereinafter Plan), and the
+Plan’s current and former administrators (hereinafter
+Plan Administrator). See §1002(16)(A)(i); App. 32a. Re
+spondents are Xerox employees who left the company in
+the 1980’s, received lump-sum distributions of retirement
+benefits they had earned up to that point, and were later
+rehired. See 328 F. Supp. 2d 420, 424 (WDNY 2004); Brief
+for Respondents 9–10. The dispute giving rise to this case
+concerns how to account for respondents’ past distribu
+tions when calculating their current benefits—that is, how
+to avoid paying respondents the same benefits twice.
+The Plan Administrator initially interpreted the Plan to
+call for an approach that has come to be known as the
+“phantom account” method. 328 F. Supp. 2d, at 424.
+Essentially, that method calculated the hypothetical
+growth that respondents’ past distributions would have
+experienced if the money had remained in Xerox’s invest
+ment funds, and reduced respondents’ present benefits
+accordingly. See id., at 426–428; App. to Pet. for Cert.
+146a. After the Plan Administrator denied respondents’
+administrative challenges to that method, respondents
+filed suit in federal court under ERISA, 29 U. S. C.
+§1132(a)(1)(B). See 328 F. Supp. 2d, at 428–429. The
+District Court granted summary judgment for the Plan,
+applying a deferential standard of review to the Plan
+Administrator’s interpretation. See id., at 430–431, 439.
+The Second Circuit vacated and remanded, holding that
+the Plan Administrator’s interpretation was unreasonable
+and that respondents had not been adequately notified
+that the phantom account method would be used to calcu
+late their benefits. See 433 F. 3d 254, 257, 265–269
+(2006).
+The phantom account method having been exorcised
+
+

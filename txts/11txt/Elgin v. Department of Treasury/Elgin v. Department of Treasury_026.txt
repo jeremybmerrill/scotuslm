@@ -1,0 +1,35 @@
+2
+
+ELGIN v. DEPARTMENT OF TREASURY
+ALITO, J., dissenting
+
+employment disputes within the existing statutory framework. By contrast, petitioners argue that one key provision of that framework is facially unconstitutional. Not
+only does the Board lack authority to adjudicate facial
+constitutional challenges, but such challenges are wholly
+collateral to the type of claims that the Board is authorized to hear.
+The majority attempts to defend its holding by noting
+that, although the Board cannot consider petitioners’
+claims, petitioners may appeal from the Board to the
+Federal Circuit, which does have authority to address
+facial constitutional claims. But that does not cure the
+oddity of requiring such claims to be filed initially before
+the Board, which can do nothing but pass them along
+unaddressed, leaving the Federal Circuit to act as a court
+of first review, but with little capacity for factfinding.
+Because I doubt that Congress intended to channel
+petitioners’ constitutional claims into an administrative
+tribunal that is powerless to decide them, I respectfully
+dissent.
+I
+As a general matter, federal district courts have “original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.” 28
+U. S. C. §1331. Under this provision, it has long been
+“established practice for this Court to sustain the jurisdiction of federal courts to issue injunctions to protect rights
+safeguarded by the Constitution.” Bell v. Hood, 327 U. S.
+678, 684 (1946). In light of §1331, the question is not
+whether Congress has specifically conferred jurisdiction,
+but whether it has taken it away. See Whitman v. Department of Transportation, 547 U. S. 512, 514 (2006)
+(per curiam).
+Congress may remove certain claims from the general
+jurisdiction of the federal courts in order to channel these
+
+

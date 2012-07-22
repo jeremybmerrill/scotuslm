@@ -1,0 +1,43 @@
+24
+
+WAL-MART STORES, INC. v. DUKES
+Opinion of the Court
+
+establish a disposition that has no basis in the Rule’s text,
+and that does obvious violence to the Rule’s structural
+features. The mere “predominance” of a proper (b)(2)
+injunctive claim does nothing to justify elimination of Rule
+23(b)(3)’s procedural protections: It neither establishes the
+superiority of class adjudication over individual adjudica
+tion nor cures the notice and opt-out problems. We fail to
+see why the Rule should be read to nullify these protec
+tions whenever a plaintiff class, at its option, combines its
+monetary claims with a request—even a “predominating
+request”—for an injunction.
+Respondents’ predominance test, moreover, creates
+perverse incentives for class representatives to place at
+risk potentially valid claims for monetary relief. In this
+case, for example, the named plaintiffs declined to include
+employees’ claims for compensatory damages in their
+complaint. That strategy of including only backpay claims
+made it more likely that monetary relief would not “pre
+dominate.” But it also created the possibility (if the pre
+dominance test were correct) that individual class mem
+bers’ compensatory-damages claims would be precluded by
+litigation they had no power to hold themselves apart
+from. If it were determined, for example, that a particular
+class member is not entitled to backpay because her denial
+of increased pay or a promotion was not the product of
+discrimination, that employee might be collaterally es
+topped from independently seeking compensatory dam
+ages based on that same denial. That possibility under
+scores the need for plaintiffs with individual monetary
+claims to decide for themselves whether to tie their fates to
+the class representatives’ or go it alone—a choice Rule
+23(b)(2) does not ensure that they have.
+The predominance test would also require the District
+Court to reevaluate the roster of class members continu
+ally. The Ninth Circuit recognized the necessity for this
+when it concluded that those plaintiffs no longer employed
+
+

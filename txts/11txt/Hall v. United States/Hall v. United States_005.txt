@@ -1,0 +1,46 @@
+2
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+Chapter 12 debtors similarly file a plan of reorganization.
+§1221. To be confirmed, the plan must provide for the full
+payment of priority claims. §1222(a)(2).
+In the Bankruptcy Abuse Prevention and Consumer
+Protection Act of 2005 (BAPCPA), §1003, 119 Stat. 186,
+Congress created an exception to that requirement:
+“Contents of plan
+“(a) The plan shall—
+.
+.
+.
+.
+.
+“(2) provide for the full payment, in deferred cash
+payments, of all claims entitled to priority under sec­
+tion 507, unless—
+“(A) the claim is a claim owed to a governmental
+unit that arises as a result of the sale, transfer, ex­
+change, or other disposition of any farm asset used
+in the debtor’s farming operation, in which case the
+claim shall be treated as an unsecured claim that is
+not entitled to priority under section 507, but the debt
+shall be treated in such manner only if the debtor re­
+ceives a discharge.” 11 U. S. C. §1222.
+Under §1222(a)(2)(A), certain governmental claims result­
+ing from the disposition of farm assets are downgraded to
+general, unsecured claims that are dischargeable after less
+than full payment. See §1228(a). The claims are stripped
+of their priority status.
+That exception, however, applies only to claims in the
+plan that are “entitled to priority under section 507” in the
+first place. Section 507 lists 10 categories of such claims.
+Two pertain to taxes: One category, §507(a)(8), covers
+prepetition taxes, and is inapplicable in this case. The
+other, §507(a)(2), covers “administrative expenses allowed
+under section 503(b),” which in turn includes “any tax . . .
+incurred by the estate.” §503(b)(B)(i). Thus, for postpeti­
+tion taxes to be entitled to priority under §507 and eligible
+for the §1222(a)(2)(A) exception, the taxes must be “in­
+
+

@@ -1,0 +1,41 @@
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+Jefferson 75–76 (H. Washington ed. 1871)).
+The Court’s precedents provide three specific exceptions
+to §101’s broad patent-eligibility principles: “laws of na
+ture, physical phenomena, and abstract ideas.” Chakra
+barty, supra, at 309. While these exceptions are not re
+quired by the statutory text, they are consistent with the
+notion that a patentable process must be “new and useful.”
+And, in any case, these exceptions have defined the reach
+of the statute as a matter of statutory stare decisis going
+back 150 years. See Le Roy v. Tatham, 14 How. 156, 174–
+175 (1853). The concepts covered by these exceptions are
+“part of the storehouse of knowledge of all men . . . free to
+all men and reserved exclusively to none.” Funk Brothers
+Seed Co. v. Kalo Inoculant Co., 333 U. S. 127, 130 (1948).
+The §101 patent-eligibility inquiry is only a threshold
+test. Even if an invention qualifies as a process, machine,
+manufacture, or composition of matter, in order to receive
+the Patent Act’s protection the claimed invention must
+also satisfy “the conditions and requirements of this title.”
+§101. Those requirements include that the invention be
+novel, see §102, nonobvious, see §103, and fully and par
+ticularly described, see §112.
+The present case involves an invention that is claimed
+to be a “process” under §101. Section 100(b) defines “proc
+ess” as:
+“process, art or method, and includes a new use of a
+known process, machine, manufacture, composition of
+matter, or material.”
+The Court first considers two proposed categorical limita
+tions on “process” patents under §101 that would, if
+adopted, bar petitioners’ application in the present case:
+the machine-or-transformation test and the categorical
+exclusion of business method patents.
+
+

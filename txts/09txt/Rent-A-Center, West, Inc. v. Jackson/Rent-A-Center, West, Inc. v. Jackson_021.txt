@@ -1,0 +1,46 @@
+Cite as: 561 U. S. ____ (2010)
+
+7
+
+STEVENS, J., dissenting
+
+that the agreement’s “delegation” provision suggests
+assent is beside the point, because the gravamen of re
+spondent’s claim is that he never consented to the terms in
+his agreement.
+In other words, when a party raises a good-faith validity
+challenge to the arbitration agreement itself, that issue
+must be resolved before a court can say that he clearly and
+unmistakably intended to arbitrate that very validity
+question. This case well illustrates the point: If respon
+dent’s unconscionability claim is correct—i.e., if the terms
+of the agreement are so one-sided and the process of its
+making so unfair—it would contravene the existence of
+clear and unmistakable assent to arbitrate the very ques
+tion petitioner now seeks to arbitrate. Accordingly, it is
+necessary for the court to resolve the merits of respon
+dent’s unconscionability claim in order to decide whether
+the parties have a valid arbitration agreement under §2.
+Otherwise, that section’s preservation of revocation issues
+for the Court would be meaningless.
+This is, in essence, how I understand the Court of Ap
+peals to have decided the issue below. See 581 F. 3d 912,
+917 (CA9 2009) (“[W]e hold that where, as here, a party
+challenges an arbitration agreement as unconscionable,
+and thus asserts that he could not meaningfully assent to
+——————
+because he was in a position of unequal bargaining power when it was
+imposed as a condition of employment”); id., at 3–4 (identifying three
+distinct provisions of the agreement that were substantively uncon
+scionable); accord, 581 F. 3d, at 917.
+Some of respondent’s arguments, however, could be understood as
+attacks not on the enforceability of the agreement as a whole but
+merely on the fairness of individual contract terms. Such term-specific
+challenges would generally be for the arbitrator to resolve (at least so
+long as they do not go to the identity of the arbitrator or the ability of a
+party to initiate arbitration). Cf. Restatement (Second) of Contracts
+§208 (1979) (providing that “a contract or term thereof [may be] uncon
+scionable” and that in the latter case “the remainder of the contract
+without the unconscionable term” may be enforced).
+
+

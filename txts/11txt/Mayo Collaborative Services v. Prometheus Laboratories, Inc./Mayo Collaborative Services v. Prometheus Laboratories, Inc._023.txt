@@ -1,0 +1,43 @@
+Cite as: 566 U. S. ____ (2012)
+
+19
+
+Opinion of the Court
+
+to depart from case law precedent.
+III
+We have considered several further arguments in sup­
+port of Prometheus’ position. But they do not lead us to
+adopt a different conclusion. First, the Federal Circuit, in
+upholding the patent eligibility of the claims before us,
+relied on this Court’s determination that “[t]ransformation
+and reduction of an article ‘to a different state or thing’ is
+the clue to the patentability of a process claim that does
+not include particular machines.” Benson, supra, at 70–71
+(emphasis added); see also Bilski, supra, at ___ (slip op., at
+6–7); Diehr, 450 U. S., at 184; Flook, supra, at 588, n. 9;
+Cochrane v. Deener, 94 U. S. 780, 788 (1877). It reasoned
+that the claimed processes are therefore patent eligible,
+since they involve transforming the human body by ad­
+ministering a thiopurine drug and transforming the blood
+by analyzing it to determine metabolite levels. 628 F. 3d,
+at 1356–1357.
+The first of these transformations, however, is irrele­
+vant. As we have pointed out, the “administering” step
+simply helps to pick out the group of individuals who are
+likely interested in applying the law of nature. See supra,
+at 9. And the second step could be satisfied without trans­
+forming the blood, should science develop a totally differ­
+ent system for determining metabolite levels that did not
+involve such a transformation. See supra, at 18. Regard­
+less, in stating that the “machine-or-transformation” test
+is an “important and useful clue” to patentability, we have
+neither said nor implied that the test trumps the “law of
+nature” exclusion. Bilski, supra, at ___ (slip op., at 6–7)
+(emphasis added). That being so, the test fails here.
+Second, Prometheus argues that, because the particular
+laws of nature that its patent claims embody are narrow
+and specific, the patents should be upheld. Thus, it en­
+courages us to draw distinctions among laws of nature
+
+

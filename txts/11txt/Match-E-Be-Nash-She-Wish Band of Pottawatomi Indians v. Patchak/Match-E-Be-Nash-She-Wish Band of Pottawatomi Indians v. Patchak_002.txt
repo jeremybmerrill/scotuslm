@@ -1,0 +1,44 @@
+2
+
+MATCH-E-BE-NASH-SHE-WISH BAND OF POTTAWATOMI
+INDIANS v. PATCHAK
+
+Syllabus
+
+Patchak’s action. The APA’s general waiver of the Federal Government’s immunity from suit does not apply “if any other statute that
+grants consent to suit expressly or impliedly forbids the relief which
+is sought” by the plaintiff. 5 U. S. C. §702. The Government and
+Band contend that the Quiet Title Act (QTA) is such a statute. The
+QTA authorizes (and so waives the Government’s sovereign immunity from) a suit by a plaintiff asserting a “right, title, or interest” in
+real property that conflicts with a “right, title, or interest” the United
+States claims. 28 U. S. C. §2409a(d). But it contains an exception for
+“trust or restricted Indian lands.” §2409a(a).
+To determine whether the “Indian lands” exception bars Patchak’s
+suit, the Court considers whether the QTA addresses the kind of
+grievance Patchak advances. It does not, because Patchak’s action is
+not a quiet title action. The QTA, from its title to its jurisdictional
+grant to its venue provision, speaks specifically and repeatedly of
+“quiet title” actions, a term universally understood to refer to suits in
+which a plaintiff not only challenges someone else’s claim, but also
+asserts his own right to disputed property. Although Patchak’s suit
+contests the Secretary’s title, it does not claim any competing interest
+in the Bradley Property.
+Contrary to the argument of the Band and Government, the QTA
+does not more broadly encompass any “civil action . . . to adjudicate a
+disputed title to real property in which the United States claims an
+interest.” §2409(a). Rather, §2409a includes a host of indications
+that the “civil action” at issue is an ordinary quiet title suit. The
+Band and Government also contend that the QTA’s specific authorization of adverse claimants’ suits creates the negative implication
+that non-claimants like Patchak cannot challenge Government ownership of land under any statute. That argument is faulty for the
+reason already given: Patchak is bringing a different claim, seeking
+different relief, from the kind the QTA addresses. Finally, the Band
+and Government argue that Patchak’s suit should be treated the
+same as an adverse claimant’s because both equally implicate the
+“Indian lands” exception’s policies. That argument must be addressed to Congress. The “Indian lands” exception reflects Congress’s
+judgment about how far to allow quiet title suits—not all suits challenging the Government’s ownership of property. Pp. 4−14.
+2. Patchak has prudential standing to challenge the Secretary’s acquisition. A person suing under the APA must assert an interest
+that is “arguably within the zone of interests to be protected or regulated by the statute” that he says was violated. Association of Data
+Processing Service Organizations, Inc. v. Camp, 397 U. S. 150, 153.
+The Government and Band claim that Patchak’s economic, environmental, and aesthetic injuries are not within §465’s zone of interests
+
+

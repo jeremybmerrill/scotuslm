@@ -1,0 +1,203 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+UNION PACIFIC RAILROAD CO. v. BROTHERHOOD 
+
+OF LOCOMOTIVE ENGINEERS AND TRAINMEN 
+
+GENERAL COMMITTEE OF ADJUSTMENT,
+
+CENTRAL REGION 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SEVENTH CIRCUIT
+No. 08–604.
+
+Argued October 7, 2009—Decided December 8, 2009
+
+The Railway Labor Act (RLA or Act) was enacted to promote peaceful
+and efficient resolution of labor disputes. As amended, the Act man
+dates arbitration of “minor disputes” before panels composed of two
+representatives of labor and two of industry, with a neutral referee as
+tiebreaker. Union Pacific R. Co. v. Price, 360 U. S. 601, 610–613. To
+supply arbitrators, Congress established the National Railroad Ad
+justment Board (NRAB or Board), a board of 34 private persons rep
+resenting labor and industry in equal numbers. 45 U. S. C. §153
+First (a). Before resorting to arbitration, employees and carriers
+must exhaust the grievance procedures in their collective-bargaining
+agreement (hereinafter CBA), see §153 First (i), a stage known as
+“on-property” proceedings. As a final prearbitration step, the parties
+must attempt settlement “in conference” between representatives of
+the carrier and the grievant-employee. §152 Second, Sixth. The RLA
+contains instructions concerning the place and time of conferences,
+but does not “supersede the provisions of any agreement (as to con
+ferences) . . . between the parties,” §152 Sixth; in common practice
+the conference may be as informal as a telephone conversation. If the
+parties fail to achieve resolution, either may refer the matter to the
+NRAB. §153 First (i). Submissions to the Board must include “a full
+statement of the facts and all supporting data bearing upon the dis
+putes.” Ibid. Parties may seek court review of an NRAB panel order
+on one or more stated grounds: “failure . . . to comply with the re
+quirements of [the RLA], . . . failure of the order to conform, or con
+
+
+2
+
+UNION PACIFIC R. CO. v. LOCOMOTIVE ENGINEERS AND
+TRAINMEN GEN. COMM. OF ADJUSTMENT
+Syllabus
+
+fine itself, to matters within the scope of the division’s jurisdiction, or
+. . . fraud or corruption by a member of the division making the or
+der.” §153 First (q). Courts of Appeals have divided on whether, in
+addition to the statutory grounds for judicial review stated in §153
+First (q), courts may review NRAB proceedings for due process viola
+tions.
+After petitioner Union Pacific Railroad Co. (hereinafter Carrier)
+charged five of its employees with disciplinary violations, their union
+(hereinafter Union) initiated grievance proceedings pursuant to the
+CBA. The Union asserts that the parties conferenced all five dis
+putes and the Carrier concedes that they conferenced at least two.
+Dissatisfied with the outcome of the on-property proceedings, the Un
+ion sought arbitration before the NRAB’s First Division. Both parties
+filed submissions in the five cases, but neither mentioned conferenc
+ing as a disputed matter. Yet, in each case, both parties necessarily
+knew whether the Union and the Carrier had conferred; and the
+Board’s governing rule, published in Circular One, which prescribes
+Board procedures, instructs carriers and employees to “set forth all
+relevant, argumentative facts,” 29 CFR §301.5(d), (e). Just prior to
+the hearing, one of the arbitration panel’s industry representatives
+objected, sua sponte, that the on-property record included no proof of
+conferencing. The Carrier thereafter embraced that objection. The
+referee allowed the Union to submit evidence of conferencing. The
+Union did so, but it maintained that the proof-of-conferencing issue
+was untimely raised, indeed forfeited, as the Carrier had not objected
+before the date set for argument. The panel, in five identical deci
+sions, dismissed the petitions for want of jurisdiction. The record
+could not be supplemented to meet the no-proof-of-conferencing objec
+tion, the panel reasoned, for as an appellate tribunal, the panel was
+not empowered to consider de novo evidence and arguments. The Un
+ion sought review in the Federal District Court, which affirmed the
+Board’s decision. On appeal, the Seventh Circuit observed that the
+“single question” at issue was whether written documentation of the
+conference in the on-property record was a necessary prerequisite to
+NRAB arbitration, and determined that there was no such prerequi
+site in the statute or rules. But instead of resting its decision on the
+Union’s primary, statute-based argument—that the panel erred in
+ruling that it lacked jurisdiction over the cases—it reversed on the
+ground that the NRAB’s proceedings were incompatible with due
+process.
+Held:
+1. The Seventh Circuit erred in resolving the Union’s appeal under
+a constitutional, rather than a statutory, headline. This Court
+granted certiorari to address whether NRAB orders may be set aside
+
+
+Cite as: 558 U. S. ____ (2009)
+
+3
+
+Syllabus
+for failure to comply with due process notwithstanding §153 First
+(q)’s limited grounds for review. But so long as a respondent does not
+“seek to modify the judgment below,” true here, the respondent may
+“rely upon any matter appearing in the record in support of the
+judgment.” Blum v. Bacon, 457 U. S. 132, 137, n. 5. The Seventh
+Circuit understood that the Union had pressed “statutory and consti
+tutional” arguments, but observed that both arguments homed in on
+a “single question”: is written documentation of the conference in the
+on-property record a necessary prerequisite to NRAB arbitration?
+Answering this “single question” in the negative, the Seventh Circuit
+effectively resolved the Union’s core complaint. Because nothing in
+the Act elevates to jurisdictional status the obligation to conference
+minor disputes or to prove conferencing, a negative answer to the
+“single question” leaves no doubt about the Union’s entitlement, in
+accord with §153 First (q), to vacation of the Board’s orders. Given
+this statutory ground for relief, there is no due process issue alive in
+this case, and no warrant to answer a question that may be conse
+quential in another case. Nevertheless, the grant of certiorari here
+enables this Court to reduce confusion, clouding court as well as
+Board decisions, over matters properly typed “jurisdictional.” Pp. 10–
+12.
+2. Congress authorized the Board to prescribe rules for presenting
+and processing claims, §153 First (v), but Congress alone controls the
+Board’s jurisdiction. By refusing to adjudicate the instant cases on
+the false premise that it lacked “jurisdiction” to hear them, the NRAB
+panel failed “to conform, or confine itself, to matters [Congress
+placed] within the scope of [NRAB] jurisdiction,” §153 First (q).
+Pp. 12–17.
+(a) Not all mandatory “prescriptions, however emphatic, ‘are . . .
+properly typed “jurisdictional.” ’ ” Arbaugh v. Y & H Corp., 546 U. S.
+500, 510. Subject-matter jurisdiction properly comprehended refers
+to a tribunal’s “ ‘power to hear a case,’ ” and “ ‘can never be forfeited or
+waived.’ ” Id., at 514. In contrast, a “claim-processing rule” does not
+reduce a tribunal’s adjudicatory domain and is ordinarily “forfeited if
+the party asserting the rule waits too long to raise the point.” Kon
+trick v. Ryan, 540 U. S. 443, 456. For example, this Court has held
+nonjurisdictional and forfeitable the provision in Title VII of the Civil
+Rights Act of 1964 requiring complainants to file a timely discrimina
+tion charge with the Equal Employment Opportunity Commission
+(EEOC) before proceeding to court, Zipes v. Trans World Airlines,
+Inc., 455 U. S. 385, 393. In contrast, the Court has reaffirmed the ju
+risdictional character of 28 U. S. C. §2107(a)’s time limitation for fil
+ing a notice of appeal. Bowles v. Russell, 551 U. S. 205, 209–211.
+Here, the requirement that parties to minor disputes, as a last
+
+
+4
+
+UNION PACIFIC R. CO. v. LOCOMOTIVE ENGINEERS AND
+TRAINMEN GEN. COMM. OF ADJUSTMENT
+Syllabus
+
+chance prearbitration, attempt settlement “in conference,” is imposed
+on carriers and grievants alike, but satisfaction of that obligation
+does not condition the Board’s adjudicatory authority, which extends
+to “all disputes between carriers and their employees ‘growing out of
+grievances or out of the interpretation or application of agreements
+concerning rates of pay, rules, or working conditions . . . ,’ ” Slocum v.
+Delaware, L. & W. R. Co., 339 U. S. 239, 240 (quoting §153 First (i)).
+When a CBA’s grievance procedure has not been followed, resort to
+the Board would ordinarily be objectionable as premature, but the
+conference requirement is independent of the CBA process. Rooted in
+§152, the RLA’s “[g]eneral duties” section, and not moored to the
+NRAB’s “[e]stablishment[,] . . . powers[,] and duties” set out in §153
+First, conferencing is often informal in practice, and is no more “ju
+risdictional” than is the presuit resort to the EEOC held nonjurisdic
+tional and forfeitable in Zipes. And if the conference requirement is
+not “jurisdictional,” then failure initially to submit proof of conferenc
+ing cannot be of that genre. And although the Carrier alleges that
+NRAB decisions support characterizing conferencing as jurisdic
+tional, if the NRAB lacks authority to define its panels’ jurisdiction,
+surely the panels themselves lack that authority. Furthermore,
+NRAB panels have variously addressed the matter. Pp. 12–15.
+(b) Neither the RLA nor Circular One could plausibly be read to
+require, as a prerequisite to the NRAB’s exercise of jurisdiction, sub
+mission of proof of conferencing. Instructions on party submissions
+are claim-processing, not jurisdictional, rules. The Board itself has
+recognized that conferencing may not be a “question in dispute,” and
+when that is so, proof thereof need not accompany party submissions.
+It makes sense to exclude at the arbitration stage newly presented
+“data” supporting the employee’s grievance, 29 CFR §301(d)—
+evidence the carrier had no opportunity to consider prearbitration.
+But conferencing is not a fact bearing on the merits of a grievance.
+Moreover, the RLA respects the parties’ right to order for themselves
+the conference procedures they will follow. See 45 U. S. C. §152
+Sixth. Pp. 16–17.
+522 F. 3d 746, affirmed.
+GINSBURG, J., delivered the opinion for a unanimous Court.
+
+

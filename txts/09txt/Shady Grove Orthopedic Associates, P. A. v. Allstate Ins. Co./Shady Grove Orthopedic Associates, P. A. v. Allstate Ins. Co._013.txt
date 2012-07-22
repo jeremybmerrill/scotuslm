@@ -1,0 +1,45 @@
+10
+
+SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A.
+v. ALLSTATE INS. CO.
+Opinion of SCALIA, J.
+the Court
+
+tential conflict with a Federal Rule arises; the state­
+friendly approach would be to accept the law as written
+and test the validity of the Federal Rule.
+The dissent’s approach of determining whether state
+and federal rules conflict based on the subjective inten­
+tions of the state legislature is an enterprise destined to
+produce “confusion worse confounded,” Sibbach v. Wilson
+& Co., 312 U. S. 1, 14 (1941). It would mean, to begin
+with, that one State’s statute could survive pre-emption
+(and accordingly affect the procedures in federal court)
+while another State’s identical law would not, merely
+because its authors had different aspirations. It would
+also mean that district courts would have to discern, in
+every diversity case, the purpose behind any putatively
+pre-empted state procedural rule, even if its text squarely
+conflicts with federal law. That task will often prove
+arduous. Many laws further more than one aim, and the
+aim of others may be impossible to discern. Moreover, to
+the extent the dissent’s purpose-driven approach depends
+on its characterization of §901(b)’s aims as substantive, it
+would apply to many state rules ostensibly addressed to
+procedure. Pleading standards, for example, often embody
+policy preferences about the types of claims that should
+succeed—as do rules governing summary judgment, pre­
+trial discovery, and the admissibility of certain evidence.
+Hard cases will abound. It is not even clear that a state
+supreme court’s pronouncement of the law’s purpose
+would settle the issue, since existence of the factual predi­
+cate for avoiding federal pre-emption is ultimately a fed­
+eral question. Predictably, federal judges would be con­
+demned to poring through state legislative history—which
+may be less easily obtained, less thorough, and less famil­
+iar than its federal counterpart, see R. Mersky & D. Dunn,
+Fundamentals of Legal Research 233 (8th ed. 2002); Tor­
+res & Windsor, State Legislative Histories: A Select, An­
+notated Bibliography, 85 L. Lib. J. 545, 547 (1993).
+
+

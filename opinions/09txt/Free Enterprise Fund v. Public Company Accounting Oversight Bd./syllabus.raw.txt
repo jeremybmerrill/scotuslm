@@ -1,0 +1,288 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+FREE ENTERPRISE FUND ET AL. v. PUBLIC COM-
+
+PANY ACCOUNTING OVERSIGHT BOARD ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE DISTRICT OF COLUMBIA CIRCUIT
+No. 08–861.
+
+Argued December 7, 2009—Decided June 28, 2010
+
+Respondent, the Public Company Accounting Oversight Board, was
+created as part of a series of accounting reforms in the SarbanesOxley Act of 2002. The Board is composed of five members appointed
+by the Securities and Exchange Commission. It was modeled on pri
+vate self-regulatory organizations in the securities industry—such as
+the New York Stock Exchange—that investigate and discipline their
+own members subject to Commission oversight. Unlike these organi
+zations, the Board is a Government-created entity with expansive
+powers to govern an entire industry. Every accounting firm that au
+dits public companies under the securities laws must register with
+the Board, pay it an annual fee, and comply with its rules and over
+sight. The Board may inspect registered firms, initiate formal inves
+tigations, and issue severe sanctions in its disciplinary proceedings.
+The parties agree that the Board is “part of the Government” for con
+stitutional purposes, Lebron v. National Railroad Passenger Corpora
+tion, 513 U. S. 374, 397, and that its members are “ ‘Officers of the
+United States’ ” who “exercis[e] significant authority pursuant to the
+laws of the United States,” Buckley v. Valeo, 424 U. S. 1, 125–126.
+While the SEC has oversight of the Board, it cannot remove Board
+members at will, but only “for good cause shown,” “in accordance
+with” specified procedures. §§7211(e)(6), 7217(d)(3). The parties also
+agree that the Commissioners, in turn, cannot themselves be re
+moved by the President except for “ ‘inefficiency, neglect of duty, or
+malfeasance in office.’ ” Humphrey’s Executor v. United States, 295
+U. S. 602, 620.
+The Board inspected petitioner accounting firm, released a report
+critical of its auditing procedures, and began a formal investigation.
+
+
+2
+
+FREE ENTERPRISE FUND v. PUBLIC COMPANY 
+
+ACCOUNTING OVERSIGHT BD. 
+
+Syllabus 
+
+The firm and petitioner Free Enterprise Fund, a nonprofit organiza
+tion of which the firm is a member, sued the Board and its members,
+seeking, inter alia, a declaratory judgment that the Board is uncon
+stitutional and an injunction preventing the Board from exercising its
+powers. Petitioners argued that the Sarbanes-Oxley Act contravened
+the separation of powers by conferring executive power on Board
+members without subjecting them to Presidential control. The basis
+for petitioners’ challenge was that Board members were insulated
+from Presidential control by two layers of tenure protection: Board
+members could only be removed by the Commission for good cause,
+and the Commissioners could in turn only be removed by the Presi
+dent for good cause. Petitioners also challenged the Board’s ap
+pointment as violating the Appointments Clause, which requires offi
+cers to be appointed by the President with the Senate’s advice and
+consent, or—in the case of “inferior Officers”—by “the President
+alone, . . . the Courts of Law, or . . . the Heads of Departments,”
+Art. II, §2, cl. 2. The United States intervened to defend the statute.
+The District Court found it had jurisdiction and granted summary
+judgment to respondents. The Court of Appeals affirmed. It first
+agreed that the District Court had jurisdiction. It then ruled that the
+dual restraints on Board members’ removal are permissible, and that
+Board members are inferior officers whose appointment is consistent
+with the Appointments Clause.
+
+Held:
+1. The District Court had jurisdiction over these claims. The
+Commission may review any Board rule or sanction, and an ag
+grieved party may challenge the Commission’s “final order” or “rule”
+in a court of appeals under 15 U. S. C. §78y. The Government reads
+§78y as an exclusive route to review, but the text does not expressly
+or implicitly limit the jurisdiction that other statutes confer on dis
+trict courts. It is presumed that Congress does not intend to limit ju
+risdiction if “a finding of preclusion could foreclose all meaningful ju
+dicial review”; if the suit is “ ‘wholly “collateral” ’ to a statute’s review
+provisions”; and if the claims are “outside the agency’s expertise.”
+Thunder Basin Coal Co. v. Reich, 510 U. S. 200, 212–213.
+These considerations point against any limitation on review here.
+Section 78y provides only for review of Commission action, and peti
+tioners’ challenge is “collateral” to any Commission orders or rules
+from which review might be sought. The Government advises peti
+tioners to raise their claims by appealing a Board sanction, but peti
+tioners have not been sanctioned, and it is no “meaningful” avenue of
+relief, Thunder Basin, supra, at 212, to require a plaintiff to incur a
+sanction in order to test a law’s validity, MedImmune, Inc. v. Genen
+tech, Inc., 549 U. S. 118, 129. Petitioners’ constitutional claims are
+
+
+Cite as: 561 U. S. ____ (2010)
+
+3
+
+Syllabus
+also outside the Commission’s competence and expertise, and the
+statutory questions involved do not require technical considerations
+of agency policy. Pp. 7–10.
+2. The dual for-cause limitations on the removal of Board members
+contravene the Constitution’s separation of powers. Pp. 10–27.
+(a) The Constitution provides that “[t]he executive Power shall be
+vested in a President of the United States of America.” Art. II, §1,
+cl. 1. Since 1789, the Constitution has been understood to empower
+the President to keep executive officers accountable—by removing
+them from office, if necessary. See generally Myers v. United States,
+272 U. S. 52. This Court has determined that this authority is not
+without limit. In Humphrey’s Executor, supra, this Court held that
+Congress can, under certain circumstances, create independent agen
+cies run by principal officers appointed by the President, whom the
+President may not remove at will but only for good cause. And in
+United States v. Perkins, 116 U. S. 483, and Morrison v. Olson, 487
+U. S. 654, the Court sustained similar restrictions on the power of
+principal executive officers—themselves responsible to the Presi
+dent—to remove their own inferiors. However, this Court has not
+addressed the consequences of more than one level of good-cause ten
+ure. Pp. 10–14.
+(b) Where this Court has upheld limited restrictions on the
+President’s removal power, only one level of protected tenure sepa
+rated the President from an officer exercising executive power. The
+President—or a subordinate he could remove at will—decided
+whether the officer’s conduct merited removal under the good-cause
+standard. Here, the Act not only protects Board members from re
+moval except for good cause, but withdraws from the President any
+decision on whether that good cause exists. That decision is vested in
+other tenured officers—the Commissioners—who are not subject to
+the President’s direct control. Because the Commission cannot re
+move a Board member at will, the President cannot hold the Com
+mission fully accountable for the Board’s conduct. He can only review
+the Commissioner’s determination of whether the Act’s rigorous good
+cause standard is met. And if the President disagrees with that de
+termination, he is powerless to intervene—unless the determination
+is so unreasonable as to constitute “ ‘inefficiency, neglect of duty, or
+malfeasance in office.’ ” Humphrey’s Executor, supra, at 620.
+This arrangement contradicts Article II’s vesting of the executive
+power in the President. Without the ability to oversee the Board, or
+to attribute the Board’s failings to those whom he can oversee, the
+President is no longer the judge of the Board’s conduct. He can nei
+ther ensure that the laws are faithfully executed, nor be held respon
+sible for a Board member’s breach of faith. If this dispersion of re
+
+
+4
+
+FREE ENTERPRISE FUND v. PUBLIC COMPANY 
+
+ACCOUNTING OVERSIGHT BD. 
+
+Syllabus 
+
+sponsibility were allowed to stand, Congress could multiply it further
+by adding still more layers of good-cause tenure. Such diffusion of
+power carries with it a diffusion of accountability; without a clear and
+effective chain of command, the public cannot determine where the
+blame for a pernicious measure should fall. The Act’s restrictions are
+therefore incompatible with the Constitution’s separation of powers.
+Pp. 14–17.
+(c) The “ ‘fact that a given law or procedure is efficient, conven
+ient, and useful in facilitating functions of government, standing
+alone, will not save it if it is contrary to the Constitution. ” Bowsher
+v. Synar, 478 U. S. 714, 736. The Act’s multilevel tenure protections
+provide a blueprint for the extensive expansion of legislative power.
+Congress controls the salary, duties, and existence of executive of
+fices, and only Presidential oversight can counter its influence. The
+Framers created a structure in which “[a] dependence on the people”
+would be the “primary controul on the government,” and that de
+pendence is maintained by giving each branch “the necessary consti
+tutional means and personal motives to resist encroachments of the
+others.” The Federalist No. 51, p. 349. A key “constitutional means”
+vested in the President was “the power of appointing, overseeing, and
+controlling those who execute the laws.” 1 Annals of Congress 463.
+While a government of “opposite and rival interests” may sometimes
+inhibit the smooth functioning of administration, The Federalist No.
+51, at 349, “[t]he Framers recognized that, in the long term, struc
+tural protections against abuse of power were critical to preserving
+liberty.” Bowsher, supra, at 730. Pp. 17–21.
+(d) The Government errs in arguing that, even if some con
+straints on the removal of inferior executive officers might violate the
+Constitution, the restrictions here do not. There is no construction of
+the Commission’s good-cause removal power that is broad enough to
+avoid invalidation. Nor is the Commission’s broad power over Board
+functions the equivalent of a power to remove Board members. Alter
+ing the Board’s budget or powers is not a meaningful way to control
+an inferior officer; the Commission cannot supervise individual Board
+members if it must destroy the Board in order to fix it. Moreover, the
+Commission’s power over the Board is hardly plenary, as the Board
+may take significant enforcement actions largely independently of
+the Commission. Enacting new SEC rules through the required no
+tice and comment procedures would be a poor means of micro
+managing the Board, and without certain findings, the Act forbids
+any general rule requiring SEC preapproval of Board actions. Fi
+nally, the Sarbanes-Oxley Act is highly unusual in committing sub
+stantial executive authority to officers protected by two layers of
+good-cause removal. Pp. 21–27.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+Syllabus
+3. The unconstitutional tenure provisions are severable from the
+remainder of the statute. Because “[t]he unconstitutionality of a part
+of an Act does not necessarily defeat or affect the validity of its re
+maining provisions,” Champlin Refining Co. v. Corporation Comm’n
+of Okla., 286 U. S. 210, 234, the “normal rule” is “that partial . . . in
+validation is the required course,” Brockett v. Spokane Arcades, Inc.,
+472 U. S. 491, 504. The Board’s existence does not violate the sepa
+ration of powers, but the substantive removal restrictions imposed by
+§§7211(e)(6) and 7217(d)(3) do. Concluding that the removal restric
+tions here are invalid leaves the Board removable by the Commission
+at will. With the tenure restrictions excised, the Act remains “ ‘fully
+operative as a law,’ ” New York v. United States, 505 U. S. 144, 186,
+and nothing in the Act’s text or historical context makes it “evident”
+that Congress would have preferred no Board at all to a Board whose
+members are removable at will, Alaska Airlines, Inc. v. Brock, 480
+U. S. 678, 684. The consequence is that the Board may continue to
+function as before, but its members may be removed at will by the
+Commission. Pp. 27–29.
+4. The Board’s appointment is consistent with the Appointments
+Clause. Pp. 29–33.
+(a) The Board members are inferior officers whose appointment
+Congress may permissibly vest in a “Hea[d] of Departmen[t].” Infe
+rior officers “are officers whose work is directed and supervised at
+some level” by superiors appointed by the President with the Senate’s
+consent. Edmond v. United States, 520 U. S. 651, 662–663. Because
+the good-cause restrictions discussed above are unconstitutional and
+void, the Commission possesses the power to remove Board members
+at will, in addition to its other oversight authority. Board members
+are therefore directed and supervised by the Commission. Pp. 29–30.
+(b) The Commission is a “Departmen[t]” under the Appointments
+Clause. Freytag v. Commissioner, 501 U. S. 868, 887, n. 4, specifi
+cally reserved the question whether a “principal agenc[y], such as”
+the SEC, is a “Departmen[t].” The Court now adopts the reasoning of
+the concurring Justices in Freytag, who would have concluded that
+the SEC is such a “Departmen[t]” because it is a freestanding compo
+nent of the Executive Branch not subordinate to or contained within
+any other such component. This reading is consistent with the com
+mon, near-contemporary definition of a “department”; with the early
+practice of Congress, see §3, 1 Stat. 234; and with this Court’s cases,
+which have never invalidated an appointment made by the head of
+such an establishment. Pp. 30–31.
+(c) The several Commissioners, and not the Chairman, are the
+Commission’s “Hea[d].” The Commission’s powers are generally
+vested in the Commissioners jointly, not the Chairman alone. The
+
+
+6
+
+FREE ENTERPRISE FUND v. PUBLIC COMPANY 
+
+ACCOUNTING OVERSIGHT BD. 
+
+Syllabus 
+
+Commissioners do not report to the Chairman, who exercises admin
+istrative functions subject to the full Commission’s policies. There is
+no reason why a multimember body may not be the “Hea[d]” of a
+“Departmen[t]” that it governs. The Appointments Clause necessar
+ily contemplates collective appointments by the “Courts of Law,”
+Art. II, §2, cl. 2, and each House of Congress appoints its officers col
+lectively, see, e.g., Art. I, §2, cl. 5. Practice has also sanctioned the
+appointment of inferior officers by multimember agencies. Pp. 31–33.
+
+537 F. 3d 667, affirmed in part, reversed in part, and remanded.
+ROBERTS, C. J., delivered the opinion of the Court, in which SCALIA,
+KENNEDY, THOMAS, and ALITO, JJ., joined. BREYER, J., filed a dissenting
+opinion, in which STEVENS, GINSBURG, and SOTOMAYOR, JJ., joined.
+
+

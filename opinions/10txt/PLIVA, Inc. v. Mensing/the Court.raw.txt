@@ -1,0 +1,862 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+Nos. 09–993, 09–1039, and 09–1501
+_________________
+
+09–993
+
+PLIVA, INC., ET AL., PETITIONERS
+v.
+GLADYS MENSING
+
+ACTAVIS ELIZABETH, LLC, PETITIONER
+09–1039
+v.
+GLADYS MENSING
+
+09–1501
+
+ACTAVIS, INC., PETITIONER
+v.
+JULIE DEMAHY
+
+ON WRITS OF CERTIORARI TO THE UNITED STATES COURTS OF
+APPEALS FOR THE EIGHTH AND FIFTH CIRCUITS
+[June 23, 2011]
+
+JUSTICE THOMAS delivered the opinion of the Court, ex­
+cept as to Part III–B–2.*
+These consolidated lawsuits involve state tort-law
+claims based on certain drug manufacturers’ alleged fail­
+ure to provide adequate warning labels for generic meto­
+clopramide. The question presented is whether federal
+drug regulations applicable to generic drug manufacturers
+directly conflict with, and thus pre-empt, these state-law
+claims. We hold that they do.
+——————
+* JUSTICE KENNEDY joins all but Part III–B–2 of this opinion.
+
+
+2
+
+PLIVA, INC. v. MENSING 
+
+Opinion of the Court 
+
+
+I
+
+Metoclopramide is a drug designed to speed the move­
+ment of food through the digestive system. The Food and
+Drug Administration (FDA) first approved metoclopra­
+mide tablets, under the brand name Reglan, in 1980. Five
+years later, generic manufacturers also began producing meto­
+clopramide. The drug is commonly used to treat digestive tract problems such as diabetic gastroparesis and
+gastroesophageal reflux disorder.
+Evidence has accumulated that long-term metoclopra­
+mide use can cause tardive dyskinesia, a severe neurologi­
+cal disorder. Studies have shown that up to 29% of pa­
+tients who take metoclopramide for several years develop
+this condition. McNeil v. Wyeth, 462 F. 3d 364, 370,
+n. 5 (CA5 2006); see also Shaffer, Butterfield, Pamer, &
+Mackey, Tardive Dyskinesia Risks and Metoclopramide
+Use Before and After U. S. Market Withdrawal of Cis­
+apride, 44 J. Am. Pharmacists Assn. 661, 663 (2004) (not­
+ing 87 cases of metoclopramide-related tardive dyskinesia
+reported to the FDA’s adverse event reporting system by
+mid-2003).
+Accordingly, warning labels for the drug have been
+strengthened and clarified several times. In 1985, the
+label was modified to warn that “tardive dyskinesia . . .
+may develop in patients treated with metoclopramide,”
+and the drug’s package insert added that “[t]herapy longer
+than 12 weeks has not been evaluated and cannot be
+recommended.” Physician’s Desk Reference 1635–1636
+(41st ed. 1987); see also Brief for Petitioner PLIVA et al.
+21–22 (hereinafter PLIVA Brief). In 2004, the brand­
+name Reglan manufacturer requested, and the FDA ap­
+proved, a label change to add that “[t]herapy should not
+exceed 12 weeks in duration.” Brief for United States as
+Amicus Curiae 8 (hereinafter U. S. Brief). And in 2009,
+the FDA ordered a black box warning—its strongest—
+which states: “Treatment with metoclopramide can cause
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+tardive dyskinesia, a serious movement disorder that is
+often irreversible. . . . Treatment with metoclopramide
+for longer than 12 weeks should be avoided in all but rare
+cases.” See Physician’s Desk Reference 2902 (65th ed.
+2011).
+Gladys Mensing and Julie Demahy, the plaintiffs in
+these consolidated cases, were prescribed Reglan in 2001
+and 2002, respectively. Both received generic metoclo­
+pramide from their pharmacists. After taking the drug
+as prescribed for several years, both women developed
+tardive dyskinesia.
+In separate suits, Mensing and Demahy sued the ge­
+neric drug manufacturers that produced the metoclopra­
+mide they took (Manufacturers). Each alleged, as relevant
+here, that long-term metoclopramide use caused her tar­
+dive dyskinesia and that the Manufacturers were liable
+under state tort law (specifically, that of Minnesota and
+Louisiana) for failing to provide adequate warning labels.
+They claimed that “despite mounting evidence that long
+term metoclopramide use carries a risk of tardive dyskine­
+sia far greater than that indicated on the label,” none of
+the Manufacturers had changed their labels to adequately
+warn of that danger. Mensing v. Wyeth, Inc., 588 F. 3d
+603, 605 (CA8 2009); see also Demahy v. Actavis, Inc., 593
+F. 3d 428, 430 (CA5 2010).
+In both suits, the Manufacturers urged that federal law
+pre-empted the state tort claims. According to the Manu­
+facturers, federal statutes and FDA regulations required
+them to use the same safety and efficacy labeling as their
+brand-name counterparts. This means, they argued, that
+it was impossible to simultaneously comply with both
+federal law and any state tort-law duty that required them
+to use a different label.
+The Courts of Appeals for the Fifth and Eighth Circuits
+rejected the Manufacturers’ arguments and held that Men­
+sing and Demahy’s claims were not pre-empted. See
+
+
+4
+
+PLIVA, INC. v. MENSING
+Opinion of the Court
+
+588 F. 3d, at 614; 593 F. 3d, at 449. We granted certiorari,
+562 U. S. ___ (2010), consolidated the cases, and now
+reverse each.
+II
+Pre-emption analysis requires us to compare federal and
+state law. We therefore begin by identifying the state tort
+duties and federal labeling requirements applicable to the
+Manufacturers.
+A
+It is undisputed that Minnesota and Louisiana tort law
+require a drug manufacturer that is or should be aware of
+its product’s danger to label that product in a way that
+renders it reasonably safe. Under Minnesota law, which
+applies to Mensing’s lawsuit, “where the manufacturer . . .
+of a product has actual or constructive knowledge of
+danger to users, the . . . manufacturer has a duty to give
+warning of such dangers.” Frey v. Montgomery Ward &
+Co., 258 N. W. 2d 782, 788 (Minn. 1977). Similarly, under
+Louisiana law applicable to Demahy’s lawsuit, “a manu­
+facturer’s duty to warn includes a duty to provide ade­
+quate instructions for safe use of a product.” Stahl v.
+Novartis Pharmaceuticals Corp., 283 F. 3d 254, 269–270
+(CA5 2002); see also La. Rev. Stat. Ann. §9:2800.57 (West
+2009). In both States, a duty to warn falls specifically on
+the manufacturer. See Marks v. OHMEDA, Inc., 2003–
+1446, pp. 8–9 (La. App. 3/31/04), 871 So. 2d 1148, 1155;
+Gray v. Badger Min. Corp., 676 N. W. 2d 268, 274 (Minn.
+2004).
+Mensing and Demahy have pleaded that the Manufac­
+turers knew or should have known of the high risk of
+tardive dyskinesia inherent in the long-term use of their
+product. They have also pleaded that the Manufacturers
+knew or should have known that their labels did not ade­
+quately warn of that risk. App. 437–438, 67–69, 94–96.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+The parties do not dispute that, if these allegations are
+true, state law required the Manufacturers to use a differ­
+ent, safer label.
+B
+Federal law imposes far more complex drug labeling
+requirements. We begin with what is not in dispute.
+Under the 1962 Drug Amendments to the Federal Food,
+Drug, and Cosmetic Act, 76 Stat. 780, 21 U. S. C. §301 et
+seq., a manufacturer seeking federal approval to market a
+new drug must prove that it is safe and effective and that
+the proposed label is accurate and adequate.1 See, e.g.,
+21 U. S. C. §§355(b)(1), (d); Wyeth v. Levine, 555 U. S. 555,
+567 (2009). Meeting those requirements involves costly
+and lengthy clinical testing. §§355(b)(1)(A), (d); see also D.
+Beers, Generic and Innovator Drugs: A Guide to FDA
+Approval Requirements §2.02[A] (7th ed. 2008).
+Originally, the same rules applied to all drugs. In 1984,
+however, Congress passed the Drug Price Competition and
+Patent Term Restoration Act, 98 Stat. 1585, commonly
+called the Hatch-Waxman Amendments. Under this law,
+“generic drugs” can gain FDA approval simply by showing
+equivalence to a reference listed drug that has already
+been approved by the FDA.2 21 U. S. C. §355(j)(2)(A).
+This allows manufacturers to develop generic drugs in­
+expensively, without duplicating the clinical trials already
+performed on the equivalent brand-name drug. A generic
+drug application must also “show that the [safety and
+——————
+1 All relevant events in these cases predate the Food and Drug
+Administration Amendments Act of 2007, 121 Stat. 823. We therefore
+refer exclusively to the pre-2007 statutes and regulations and express
+no view on the impact of the 2007 Act.
+2 As we use it here, “generic drug” refers to a drug designed to be a
+copy of a reference listed drug (typically a brand-name drug), and thus
+identical in active ingredients, safety, and efficacy. See, e.g., United
+States v. Generix Drug Corp., 460 U. S. 453, 454–455 (1983); 21 CFR
+§314.3(b) (2006) (defining “reference listed drug”).
+
+
+6
+
+PLIVA, INC. v. MENSING
+Opinion of the Court
+
+efficacy] labeling proposed . . . is the same as the labeling
+approved for the [brand-name] drug.” §355(j)(2)(A)(v); see
+also §355(j)(4)(G); Beers §§3.01, 3.03[A].
+As a result, brand-name and generic drug manufactur­
+ers have different federal drug labeling duties. A brand­
+name manufacturer seeking new drug approval is respon­
+sible for the accuracy and adequacy of its label. See, e.g.,
+21 U. S. C. §§355(b)(1), (d); Wyeth, supra, at 570–571. A
+manufacturer seeking generic drug approval, on the other
+hand, is responsible for ensuring that its warning label is
+the same as the brand name’s. See, e.g., §355(j)(2)(A)(v);
+§355(j)(4)(G); 21 CFR §§314.94(a)(8), 314.127(a)(7).
+The parties do not disagree. What is in dispute is
+whether, and to what extent, generic manufacturers may
+change their labels after initial FDA approval. Mensing
+and Demahy contend that federal law provided several
+avenues through which the Manufacturers could have
+altered their metoclopramide labels in time to prevent the
+injuries here. The FDA, however, tells us that it inter­
+prets its regulations to require that the warning labels of a
+brand-name drug and its generic copy must always be the
+same—thus, generic drug manufacturers have an ongoing
+federal duty of “sameness.” U. S. Brief 16; see also 57 Fed.
+Reg. 17961 (1992) (“[T]he [generic drug’s] labeling must
+be the same as the listed drug product’s labeling because
+the listed drug product is the basis for [generic drug] ap­
+proval”). The FDA’s views are “controlling unless plainly
+erroneous or inconsistent with the regulation[s]” or there
+is any other reason to doubt that they reflect the FDA’s
+fair and considered judgment. Auer v. Robbins, 519 U. S.
+452, 461, 462 (1997) (internal quotation marks omitted).3
+——————
+3 The brief filed by the United States represents the views of the FDA.
+Cf. Talk America, Inc. v. Michigan Bell Telephone Co., 564 U. S. ___,
+___, n. 1 (2011) (slip op., at 1, n. 1); Chase Bank USA, N. A. v. McCoy,
+562 U. S. ___, ___ (2011) (slip op., at 8). Although we defer to the
+agency’s interpretation of its regulations, we do not defer to an agency’s
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+1
+First, Mensing and Demahy urge that the FDA’s
+“changes-being-effected” (CBE) process allowed the Manu­
+facturers to change their labels when necessary. See Brief
+for Respondents 33–35; see also 593 F. 3d, at 439–444;
+Gaeta v. Perrigo Pharmaceuticals Co., 630 F. 3d 1225,
+1231 (CA9 2011); Foster v. American Home Prods. Corp.,
+29 F. 3d 165, 170 (CA4 1994). The CBE process permits
+drug manufacturers to “add or strengthen a contraindica­
+tion, warning, [or] precaution,” 21 CFR §314.70(c)(6)(iii)(A)
+(2006), or to “add or strengthen an instruction about dos­
+age and administration that is intended to increase the
+safe use of the drug product,” §314.70(c)(6)(iii)(C). When
+making labeling changes using the CBE process, drug man­
+ufacturers need not wait for preapproval by the FDA,
+which ordinarily is necessary to change a label. Wyeth,
+supra, at 568. They need only simultaneously file a sup­
+plemental application with the FDA. 21 CFR §314.70(c)(6).
+The FDA denies that the Manufacturers could have
+used the CBE process to unilaterally strengthen their
+warning labels. The agency interprets the CBE regulation
+to allow changes to generic drug labels only when a ge­
+neric drug manufacturer changes its label to match an
+updated brand-name label or to follow the FDA’s instruc­
+tions. U. S. Brief 15, 16, n. 7 (interpreting 21 CFR
+§314.94(a)(8)(iv)); U. S. Brief 16, n. 8. The FDA argues
+that CBE changes unilaterally made to strengthen a
+generic drug’s warning label would violate the statutes
+and regulations requiring a generic drug’s label to match
+its brand-name counterpart’s. Id., at 15–16; see also
+21 U. S. C. §355(j)(4)(G); 21 CFR §§314.94(a)(8)(iii),
+314.150(b)(10) (approval may be withdrawn if the generic
+drug’s label “is no longer consistent with that for [the
+—————— 
+
+ultimate conclusion about whether state law should be pre-empted.
+
+Wyeth v. Levine, 555 U. S. 555, 576 (2009).
+
+
+
+8
+
+PLIVA, INC. v. MENSING
+Opinion of the Court
+
+brand-name]”).
+We defer to the FDA’s interpretation of its CBE and
+generic labeling regulations.
+Although Mensing and
+Demahy offer other ways to interpret the regulations, see
+Brief for Respondents 33–35, we do not find the agency’s
+interpretation “plainly erroneous or inconsistent with the
+regulation.” Auer, supra, at 461 (internal quotation marks
+omitted). Nor do Mensing and Demahy suggest there is
+any other reason to doubt the agency’s reading. We there­
+fore conclude that the CBE process was not open to the
+Manufacturers for the sort of change required by state
+law.
+2
+Next, Mensing and Demahy contend that the Manufac­
+turers could have used “Dear Doctor” letters to send ad­
+ditional warnings to prescribing physicians and other
+healthcare professionals. See Brief for Respondents 36; 21
+CFR §200.5. Again, the FDA disagrees, and we defer to
+the agency’s views.
+The FDA argues that Dear Doctor letters qualify as
+“labeling.” U. S. Brief 18; see also 21 U. S. C. §321(m); 21
+CFR §202.1(l)(2). Thus, any such letters must be “consis­
+tent with and not contrary to [the drug’s] approved . . .
+labeling.” 21 CFR §201.100(d)(1). A Dear Doctor letter
+that contained substantial new warning information
+would not be consistent with the drug’s approved labeling.
+Moreover, if generic drug manufacturers, but not the
+brand-name manufacturer, sent such letters, that would
+inaccurately imply a therapeutic difference between the
+brand and generic drugs and thus could be impermissibly
+“misleading.” U. S. Brief 19; see 21 CFR §314.150(b)(3)
+(FDA may withdraw approval of a generic drug if “the
+labeling of the drug . . . is false or misleading in any
+particular”).
+As with the CBE regulation, we defer to the FDA.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+Mensing and Demahy offer no argument that the FDA’s
+interpretation is plainly erroneous. See Auer, 519 U. S., at
+461. Accordingly, we conclude that federal law did not
+permit the Manufacturers to issue additional warnings
+through Dear Doctor letters.
+3
+Though the FDA denies that the Manufacturers could
+have used the CBE process or Dear Doctor letters to
+strengthen their warning labels, the agency asserts that
+a different avenue existed for changing generic drug la­
+bels. According to the FDA, the Manufacturers could have
+proposed—indeed, were required to propose—stronger
+warning labels to the agency if they believed such warn­
+ings were needed. U. S. Brief 20; 57 Fed. Reg. 17961. If
+the FDA had agreed that a label change was necessary,
+it would have worked with the brand-name manufacturer
+to create a new label for both the brand-name and generic
+drug. Ibid.
+The agency traces this duty to 21 U. S. C. §352(f)(2),
+which provides that a drug is “misbranded . . . [u]nless its
+labeling bears . . . adequate warnings against . . . unsafe
+dosage or methods or duration of administration or appli­
+cation, in such manner and form, as are necessary for the
+protection of users.” See U. S. Brief 12. By regulation, the
+FDA has interpreted that statute to require that “labeling
+shall be revised to include a warning as soon as there is
+reasonable evidence of an association of a serious hazard
+with a drug.” 21 CFR §201.57(e).
+According to the FDA, these requirements apply to ge­
+neric drugs. As it explains, a “ ‘central premise of federal drug regulation is that the manufacturer bears re­
+sponsibility for the content of its label at all times.’ ” U. S.
+Brief 12–13 (quoting Wyeth, 555 U. S., at 570–571). The
+FDA reconciles this duty to have adequate and accurate
+labeling with the duty of sameness in the following way:
+
+
+10
+
+PLIVA, INC. v. MENSING
+Opinion of the Court
+
+Generic drug manufacturers that become aware of safety
+problems must ask the agency to work toward strengthen­
+ing the label that applies to both the generic and brand­
+name equivalent drug. U. S. Brief 20.
+The Manufacturers and the FDA disagree over whether
+this alleged duty to request a strengthened label actually
+existed. The FDA argues that it explained this duty in the
+preamble to its 1992 regulations implementing the HatchWaxman Amendments. Ibid.; see 57 Fed. Reg. 17961 (“If
+a [generic drug manufacturer] believes new safety infor­
+mation should be added to a product’s labeling, it should
+contact FDA, and FDA will determine whether the label­
+ing for the generic and listed drugs should be revised”).
+The Manufacturers claim that the FDA’s 19-year-old
+statement did not create a duty, and that there is no evi­
+dence of any generic drug manufacturer ever acting pur­
+suant to any such duty. See Tr. of Oral Arg. 19–24;
+Reply Brief for Petitioner PLIVA et al. 18–22. Because we
+ultimately find pre-emption even assuming such a duty
+existed, we do not resolve the matter.
+C
+To summarize, the relevant state and federal require­
+ments are these: State tort law places a duty directly on
+all drug manufacturers to adequately and safely label
+their products. Taking Mensing and Demahy’s allegations
+as true, this duty required the Manufacturers to use a
+different, stronger label than the label they actually used.
+Federal drug regulations, as interpreted by the FDA,
+prevented the Manufacturers from independently chang­
+ing their generic drugs’ safety labels. But, we assume,
+federal law also required the Manufacturers to ask for
+FDA assistance in convincing the brand-name manufac­
+turer to adopt a stronger label, so that all corresponding
+generic drug manufacturers could do so as well. We turn
+now to the question of pre-emption.
+
+
+Cite as: 564 U. S. ____ (2011) 
+
+
+11
+
+Opinion of the Court 
+
+
+III
+
+The Supremacy Clause establishes that federal law
+“shall be the supreme Law of the Land . . . any Thing
+in the Constitution or Laws of any State to the Contrary
+notwithstanding.” U. S. Const., Art. VI, cl. 2. Where state
+and federal law “directly conflict,” state law must give
+way. Wyeth, supra, at 583 (THOMAS, J., concurring in
+judgment); see also Crosby v. National Foreign Trade
+Council, 530 U. S. 363, 372 (2000) (“[S]tate law is natu­
+rally preempted to the extent of any conflict with a federal
+statute”). We have held that state and federal law conflict
+where it is “impossible for a private party to comply with
+both state and federal requirements.”4 Freightliner Corp.
+v. Myrick, 514 U. S. 280, 287 (1995) (internal quotation
+marks omitted).5
+A
+We find impossibility here. It was not lawful under
+federal law for the Manufacturers to do what state law
+required of them. And even if they had fulfilled their
+federal duty to ask for FDA assistance, they would not
+have satisfied the requirements of state law.
+If the Manufacturers had independently changed their
+——————
+4 We do not address whether state and federal law “directly conflict”
+in circumstances beyond “impossibility.” See Wyeth, 555 U. S., at 582,
+590–591 (THOMAS, J., concurring in judgment) (suggesting that they
+might).
+5 The Hatch-Waxman Amendments contain no provision expressly
+pre-empting state tort claims. See post, at 9, 19 (SOTOMAYOR, J.,
+dissenting). Nor do they contain any saving clause to expressly pre­
+serve state tort claims. Cf. Williamson v. Mazda Motor of America,
+Inc., 562 U. S. ___, ___ (2011) (THOMAS, J., concurring in judgment)
+(discussing the saving clause in the National Traffic and Motor Vehicle
+Safety Act of 1966, 49 U. S. C. §30103(e)). Although an express state­
+ment on pre-emption is always preferable, the lack of such a statement
+does not end our inquiry. Contrary to the dissent’s suggestion, the
+absence of express pre-emption is not a reason to find no conflict pre­
+emption. See post, at 19.
+
+
+12
+
+PLIVA, INC. v. MENSING
+Opinion of the Court
+
+labels to satisfy their state-law duty, they would have
+violated federal law. Taking Mensing and Demahy’s
+allegations as true, state law imposed on the Manufac­
+turers a duty to attach a safer label to their generic meto­
+clopramide. Federal law, however, demanded that ge­
+neric drug labels be the same at all times as the corres­
+ponding brand-name drug labels. See, e.g., 21 CFR
+§314.150(b)(10). Thus, it was impossible for the Manufac­
+turers to comply with both their state-law duty to change
+the label and their federal law duty to keep the label the
+same.
+The federal duty to ask the FDA for help in strengthen­
+ing the corresponding brand-name label, assuming such
+a duty exists, does not change this analysis. Although
+requesting FDA assistance would have satisfied the Man­
+ufacturers’ federal duty, it would not have satisfied
+their state tort-law duty to provide adequate labeling.
+State law demanded a safer label; it did not instruct the
+Manufacturers to communicate with the FDA about the
+possibility of a safer label. Indeed, Mensing and Demahy
+deny that their state tort claims are based on the Manu­
+facturers’ alleged failure to ask the FDA for assistance in
+changing the labels. Brief for Respondents 53–54; cf.
+Buckman Co. v. Plaintiffs’ Legal Comm., 531 U. S. 341
+(2001) (holding that federal drug and medical device laws
+pre-empted a state tort-law claim based on failure to
+properly communicate with the FDA).
+B
+1
+Mensing and Demahy contend that, while their state­
+law claims do not turn on whether the Manufacturers
+asked the FDA for assistance in changing their labels, the
+Manufacturers’ federal affirmative defense of pre-emption
+does. Mensing and Demahy argue that if the Manufactur­
+ers had asked the FDA for help in changing the corre­
+
+
+Cite as: 564 U. S. ____ (2011)
+
+13
+
+Opinion of the Court
+
+sponding brand-name label, they might eventually have
+been able to accomplish under federal law what state law
+requires. That is true enough. The Manufacturers “freely
+concede” that they could have asked the FDA for help.
+PLIVA Brief 48. If they had done so, and if the FDA
+decided there was sufficient supporting information, and
+if the FDA undertook negotiations with the brand-name
+manufacturer, and if adequate label changes were decided
+on and implemented, then the Manufacturers would have
+started a Mouse Trap game that eventually led to a better
+label on generic metoclopramide.
+This raises the novel question whether conflict pre­
+emption should take into account these possible actions by
+the FDA and the brand-name manufacturer. Here, what
+federal law permitted the Manufacturers to do could have
+changed, even absent a change in the law itself, depending
+on the actions of the FDA and the brand-name manufac­
+turer. Federal law does not dictate the text of each ge­
+neric drug’s label, but rather ties those labels to their
+brand-name counterparts. Thus, federal law would permit
+the Manufacturers to comply with the state labeling re­
+quirements if, and only if, the FDA and the brand-name
+manufacturer changed the brand-name label to do so.
+Mensing and Demahy assert that when a private party’s
+ability to comply with state law depends on approval and
+assistance from the FDA, proving pre-emption requires
+that party to demonstrate that the FDA would not have
+allowed compliance with state law. Here, they argue, the
+Manufacturers cannot bear their burden of proving impos­
+sibility because they did not even try to start the process
+that might ultimately have allowed them to use a safer
+label. Brief for Respondents 47. This is a fair argument,
+but we reject it.
+The question for “impossibility” is whether the private
+party could independently do under federal law what state
+law requires of it. See Wyeth, 555 U. S., at 573 (finding
+
+
+14
+
+PLIVA, INC. v. MENSING
+Opinion of the Court
+
+no pre-emption where the defendant could “unilaterally”
+do what state law required). Accepting Mensing and
+Demahy’s argument would render conflict pre-emption
+largely meaningless because it would make most conflicts
+between state and federal law illusory. We can often
+imagine that a third party or the Federal Government
+might do something that makes it lawful for a private
+party to accomplish under federal law what state law
+requires of it. In these cases, it is certainly possible that,
+had the Manufacturers asked the FDA for help, they
+might have eventually been able to strengthen their warn­
+ing label. Of course, it is also possible that the Manufac­
+turers could have convinced the FDA to reinterpret its
+regulations in a manner that would have opened the CBE
+process to them. Following Mensing and Demahy’s argu­
+ment to its logical conclusion, it is also possible that,
+by asking, the Manufacturers could have persuaded the
+FDA to rewrite its generic drug regulations entirely or
+talked Congress into amending the Hatch-Waxman
+Amendments.
+If these conjectures suffice to prevent federal and state
+law from conflicting for Supremacy Clause purposes, it
+is unclear when, outside of express pre-emption, the Su­
+premacy Clause would have any force.6 We do not read
+the Supremacy Clause to permit an approach to pre­
+emption that renders conflict pre-emption all but mean­
+ingless. The Supremacy Clause, on its face, makes federal
+law “the supreme Law of the Land” even absent an ex­
+press statement by Congress. U. S. Const., Art. VI, cl. 2.
+——————
+6 The dissent asserts that we are forgetting “purposes-and-objectives”
+pre-emption. Post, at 15–16. But as the dissent acknowledges, pur­
+poses-and-objectives pre-emption is a form of conflict pre-emption.
+Post, at 9, 16. If conflict pre-emption analysis must take into account
+hypothetical federal action, including possible changes in Acts of
+Congress, then there is little reason to think that pre-emption based on
+the purposes and objectives of Congress would survive either.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+15
+
+Opinion of the Court
+Opinion of THOMAS, J.
+
+2
+Moreover, the text of the Clause—that federal law shall
+be supreme, “any Thing in the Constitution or Laws of any
+State to the Contrary notwithstanding”—plainly contem­
+plates conflict pre-emption by describing federal law as
+effectively repealing contrary state law. Ibid.; see Nelson,
+Preemption, 86 Va. L. Rev. 225, 234 (2000); id., at 252–253
+(describing discussion of the Supremacy Clause in state
+ratification debates as concerning whether federal law
+could repeal state law, or vice versa). The phrase “any
+[state law] to the Contrary notwithstanding” is a non ob
+stante provision. Id., at 238–240, nn. 43–45. Eighteenth­
+century legislatures used non obstante provisions to
+specify the degree to which a new statute was meant to
+repeal older, potentially conflicting statutes in the same
+field. Id., at 238–240 (citing dozens of statutes from the
+1770’s and 1780’s with similar provisions). A non obstante
+provision “in a new statute acknowledged that the statute
+might contradict prior law and instructed courts not to
+apply the general presumption against implied repeals.”
+Id., at 241–242; 4 M. Bacon, A New Abridgment of the
+Law 639 (4th ed. 1778) (“Although two Acts of Parliament
+are seemingly repugnant, yet if there be no Clause of non
+Obstante in the latter, they shall if possible have such
+Construction, that the latter may not be a Repeal of the
+former by Implication”). The non obstante provision in the
+Supremacy Clause therefore suggests that federal law
+should be understood to impliedly repeal conflicting state
+law.
+Further, the provision suggests that courts should not
+strain to find ways to reconcile federal law with seemingly
+conflicting state law. Traditionally, courts went to great
+lengths attempting to harmonize conflicting statutes, in
+order to avoid implied repeals. Warder v. Arell, 2 Va. 282,
+296 (1796) (opinion of Roane, J.) (“[W]e ought to seek for
+such a construction as will reconcile [the statutes] to­
+
+
+16
+
+PLIVA, INC. v. MENSING
+Opinion of the Court
+Opinion of THOMAS, J.
+
+gether”); Ludlow’s Heirs v. Johnston, 3 Ohio 553, 564
+(1828) (“[I]f by any fair course of reasoning the two [stat­
+utes] can be reconciled, both shall stand”); Doolittle v.
+Bryan, 14 How. 563, 566 (1853) (requiring “the repug­
+nance be quite plain” before finding implied repeal). A
+non obstante provision thus was a useful way for legisla­
+tures to specify that they did not want courts distorting
+the new law to accommodate the old. Nelson, supra, at
+240–242; see also J. Sutherland, Statutes and Statutory
+Construction §147, p. 199 (1891) (“[W]hen there is inserted
+in a statute a provision [of non obstante] . . . . It is to be
+supposed that courts will be less inclined against recogniz­
+ing repugnancy in applying such statutes”); Weston’s Case,
+73 Eng. Rep. 780, 781 (K. B. 1576) (“[W]hen there are two
+statutes, one in appearance crossing the other, and no
+clause of non obstante is contained in the second statute
+. . . the exposition ought to be that both should stand in
+force”); G. Jacob, A New Law Dictionary (J. Morgan ed.,
+10th ed. 1782) (definition of “statute,” ¶6: “[W]hen there is
+a seeming variance between two statutes, and no clause of
+non obstante in the latter, such construction shall be made
+that both may stand”). The non obstante provision of
+he Supremacy Clause indicates that a court need look no
+further than “the ordinary meanin[g]” of federal law, and
+should not distort federal law to accommodate conflicting
+state law. Wyeth, 555 U. S., at 588 (THOMAS, J., concur­
+ring in judgment) (internal quotation marks omitted).
+To consider in our pre-emption analysis the contingen­
+cies inherent in these cases—in which the Manufacturers’
+ability to comply with state law depended on uncertain
+federal agency and third-party decisions—would be incon­
+sistent with the non obstante provision of the Supremacy
+Clause. The Manufacturers would be required continually
+to prove the counterfactual conduct of the FDA and brand­
+name manufacturer in order to establish the supremacy of
+federal law. We do not think the Supremacy Clause con­
+
+
+Cite as: 564 U. S. ____ (2011)
+
+17
+
+Opinion of the Court
+
+templates that sort of contingent supremacy. The non
+obstante provision suggests that pre-emption analysis
+should not involve speculation about ways in which fed­
+eral agency and third-party actions could potentially
+reconcile federal duties with conflicting state duties.
+When the “ordinary meaning” of federal law blocks a
+private party from independently accomplishing what
+state law requires, that party has established pre-emption.
+3
+To be sure, whether a private party can act sufficiently
+independently under federal law to do what state law
+requires may sometimes be difficult to determine. But this
+is not such a case. Before the Manufacturers could satisfy
+state law, the FDA—a federal agency—had to undertake
+special effort permitting them to do so. To decide these
+cases, it is enough to hold that when a party cannot satisfy
+its state duties without the Federal Government’s special
+permission and assistance, which is dependent on the
+exercise of judgment by a federal agency, that party can­
+not independently satisfy those state duties for pre­
+emption purposes.
+Here, state law imposed a duty on the Manufacturers to
+take a certain action, and federal law barred them from
+taking that action. The only action the Manufacturers
+could independently take—asking for the FDA’s help—is
+not a matter of state-law concern. Mensing and Demahy’s
+tort claims are pre-empted.
+C
+Wyeth is not to the contrary. In that case, as here,
+the plaintiff contended that a drug manufacturer had
+breached a state tort-law duty to provide an adequate
+warning label. 555 U. S., at 559–560. The Court held that
+the lawsuit was not pre-empted because it was possible for
+Wyeth, a brand-name drug manufacturer, to comply with
+
+
+18
+
+PLIVA, INC. v. MENSING
+Opinion of the Court
+
+both state and federal law. Id., at 572–573.7 Specifically,
+the CBE regulation, 21 CFR §314.70(c)(6)(iii), permitted a
+brand-name drug manufacturer like Wyeth “to unilater­
+ally strengthen its warning” without prior FDA approval.
+555 U. S., at 573; cf. supra, at 7–8. Thus, the federal
+regulations applicable to Wyeth allowed the company, of
+its own volition, to strengthen its label in compliance with
+its state tort duty.8
+We recognize that from the perspective of Mensing and
+Demahy, finding pre-emption here but not in Wyeth makes
+little sense. Had Mensing and Demahy taken Reglan, the
+brand-name drug prescribed by their doctors, Wyeth would
+control and their lawsuits would not be pre-empted. But
+——————
+7 Wyeth also urged that state tort law “creat[ed] an unacceptable
+‘obstacle to the accomplishment and execution of the full purposes
+and objectives of Congress.’ ” 555 U. S., at 563–564 (quoting Hines v.
+Davidowitz, 312 U. S. 52, 67 (1941)). The Court rejected that argu­
+ment, and that type of pre-emption is not argued here. Cf. post, at 16,
+n. 13 (opinion of SOTOMAYOR, J.).
+8 The FDA, however, retained the authority to eventually rescind
+Wyeth’s unilateral CBE changes. Accordingly, the Court noted that
+Wyeth could have attempted to show, by “clear evidence,” that the FDA
+would have rescinded any change in the label and thereby demonstrate
+that it would in fact have been impossible to do under federal law
+what state law required. Wyeth, supra, at 571. Wyeth offered no such
+evidence.
+That analysis is consistent with our holding today. The Court in
+Wyeth asked what the drug manufacturer could independently do under
+federal law, and in the absence of clear evidence that Wyeth could not
+have accomplished what state law required of it, found no pre-emption.
+The Wyeth Court held that, because federal law accommodated state
+law duties, “the possibility of impossibility” was “not enough.” Post, at
+10; see also Rice v. Norman Williams Co., 458 U. S. 654, 659 (1982)
+(rejecting “hypothetical” impossibility). But here, “existing” federal law
+directly conflicts with state law. Post, at 15 (“Conflict analysis neces­
+sarily turns on existing law”). The question in these cases is not
+whether the possibility of impossibility establishes pre-emption, but
+rather whether the possibility of possibility defeats pre-emption. Post,
+at 10.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+19
+
+Opinion of the Court
+
+because pharmacists, acting in full accord with state law,
+substituted generic metoclopramide instead, federal law
+pre-empts these lawsuits. See, e.g., Minn. Stat. §151.21
+(2010) (describing when pharmacists may substitute ge­
+neric drugs); La. Rev. Stat. Ann. §37:1241(A)(17) (West
+2007) (same). We acknowledge the unfortunate hand that
+federal drug regulation has dealt Mensing, Demahy, and
+others similarly situated.9
+But “it is not this Court’s task to decide whether the
+statutory scheme established by Congress is unusual or
+even bizarre.” Cuomo v. Clearing House Assn., L. L. C.,
+557 U. S. ___, ___ (2009) (THOMAS, J., concurring in part
+and dissenting in part) (slip op., at 21) (internal quotation
+marks and brackets omitted). It is beyond dispute that
+the federal statutes and regulations that apply to brand­
+name drug manufacturers are meaningfully different than
+those that apply to generic drug manufacturers. Indeed, it
+is the special, and different, regulation of generic drugs
+that allowed the generic drug market to expand, bringing
+more drugs more quickly and cheaply to the public. But
+different federal statutes and regulations may, as here,
+lead to different pre-emption results. We will not distort
+the Supremacy Clause in order to create similar pre­
+emption across a dissimilar statutory scheme. As always,
+Congress and the FDA retain the authority to change the
+——————
+9 That said, the dissent overstates what it characterizes as the “many
+absurd consequences” of our holding. Post, at 18. First, the FDA in­
+forms us that “[a]s a practical matter, genuinely new information about
+drugs in long use (as generic drugs typically are) appears infre­
+quently.” U. S. Brief 34–35. That is because patent protections ordi­
+narily prevent generic drugs from arriving on the market for a number
+of years after the brand-name drug appears. Indeed, situations like the
+one alleged here are apparently so rare that the FDA has no “formal
+regulation” establishing generic drug manufacturers’ duty to initiate a
+label change, nor does it have any regulation setting out that label­
+change process. Id., at 20–21. Second, the dissent admits that, even
+under its approach, generic drug manufacturers could establish pre­
+emption in a number of scenarios. Post, at 12–13.
+
+
+20
+
+PLIVA, INC. v. MENSING
+Opinion of the Court
+
+law and regulations if they so desire.
+*
+*
+*
+The judgments of the Fifth and Eighth Circuits are
+reversed, and the cases are remanded for further proceed­
+ings consistent with this opinion.
+It is so ordered.
+
+

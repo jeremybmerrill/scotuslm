@@ -1,0 +1,43 @@
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+KENNEDY, J., dissenting
+
+§2254(a).
+But this provision does not purport to create any prerequi
+sites to §2244(b)’s bar against “second or successive” appli
+cations. The accepted reading of the quoted language is
+that this is a mere “status requirement.” See 1 R. Hertz &
+J. Liebman, Federal Habeas Corpus Practice and Proce
+dure §8.1, p. 391 (5th ed. 2005). The provision stands for
+the simple proposition that a petitioner must be held
+“pursuant to the judgment of a State court” to be able to
+file any §2254(b) petition in the first place. That reading
+also explains why federal habeas petitions can attack not
+only the judgment pursuant to which the petitioner is
+being held but also “the duration of sentence . . . and . . .
+the conditions under which that sentence is being served,”
+including rules such as “the basis of parole” and “good
+time” credits. Id., §9.1, at 475–481.
+The Court’s reading of the phrase “pursuant to the
+judgment of a State court” as a limitation on §2244(b)(2)’s
+“second or successive” application bar is artificial. The
+Court would amend §2244(b)(2) to read: “A claim pre
+sented in a second or successive habeas corpus application
+under section 2254 that was not presented in a prior
+application [against the same judgment] shall be dis
+missed.” This is not what §2244(b)(2) says.
+The Court wholly glosses over another significant prob
+lem with its atextual analysis. The Court relies upon the
+notion that “[a]n error made a second time is still a new
+error.” Ante, at 18. But in making this statement, the
+Court can mean one of two very different things:
+First, it could mean that any error logically encom
+passed in a reentered judgment is a “new” error. A crimi
+nal “judgment” generally includes both the conviction and
+the sentence. See, e.g., Fed. Rule Crim. Proc. 32(k)(1) (a
+criminal judgment “must set forth the plea, the jury ver
+dict or the court’s findings, the adjudication, and the
+
+

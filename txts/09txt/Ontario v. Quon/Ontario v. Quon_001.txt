@@ -1,0 +1,52 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+CITY OF ONTARIO, CALIFORNIA, ET AL. v. QUON 
+
+ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 08–1332. Argued April 19, 2010—Decided June 17, 2010
+Petitioner Ontario (hereinafter City) acquired alphanumeric pagers
+able to send and receive text messages. Its contract with its service
+provider, Arch Wireless, provided for a monthly limit on the number
+of characters each pager could send or receive, and specified that us
+age exceeding that number would result in an additional fee. The
+City issued the pagers to respondent Quon and other officers in its
+police department (OPD), also a petitioner here. When Quon and
+others exceeded their monthly character limits for several months
+running, petitioner Scharf, OPD’s chief, sought to determine whether
+the existing limit was too low, i.e., whether the officers had to pay
+fees for sending work-related messages or, conversely, whether the
+overages were for personal messages. After Arch Wireless provided
+transcripts of Quon’s and another employee’s August and September
+2002 text messages, it was discovered that many of Quon’s messages
+were not work related, and some were sexually explicit. Scharf re
+ferred the matter to OPD’s internal affairs division. The investigat
+ing officer used Quon’s work schedule to redact from his transcript
+any messages he sent while off duty, but the transcript showed that
+few of his on-duty messages related to police business. Quon was dis
+ciplined for violating OPD rules.
+He and the other respondents—each of whom had exchanged text
+messages with Quon during August and September—filed this suit,
+alleging, inter alia, that petitioners violated their Fourth Amendment
+rights and the federal Stored Communications Act (SCA) by obtain
+ing and reviewing the transcript of Quon’s pager messages, and that
+Arch Wireless violated the SCA by giving the City the transcript.
+The District Court denied respondents summary judgment on the
+
+

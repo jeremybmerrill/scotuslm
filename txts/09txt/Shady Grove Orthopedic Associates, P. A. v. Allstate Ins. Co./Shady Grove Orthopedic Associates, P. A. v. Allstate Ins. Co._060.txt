@@ -1,0 +1,49 @@
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+GINSBURG, J., dissenting
+
+fairest and most efficient way of conducting litigation.”).
+Suppose, for example, that a State, wishing to cap dam
+ages in class actions at $1,000,000, enacted a statute
+providing that “a suit to recover more than $1,000,000
+may not be maintained as a class action.” Under the
+Court’s reasoning—which attributes dispositive signifi
+cance to the words “may not be maintained”—Rule 23
+would preempt this provision, nevermind that Congress,
+by authorizing the promulgation of rules of procedure for
+federal courts, surely did not intend to displace state
+created ceilings on damages.7 The Court suggests that the
+analysis might differ if the statute “limit[ed] the remedies
+available in an existing class action,” ante, at 7, such that
+Rule 23 might not conflict with a state statute prescribing
+that “no more than $1,000,000 may be recovered in a class
+action.” There is no real difference in the purpose and
+intended effect of these two hypothetical statutes. The
+notion that one directly impinges on Rule 23’s domain,
+while the other does not, fundamentally misperceives the
+office of Rule 23.8
+——————
+7 There
+
+is, of course, a difference between “justly administering [a]
+remedy,” Sibbach v. Wilson & Co., 312 U. S. 1, 14 (1941), and prescrib
+ing the content of that remedy; if Rule 23 can be read to increase a
+plaintiff’s recovery from $1,000,000 to some greater amount, the Rule
+has arguably “enlarge[d] . . . [a] substantive right” in violation of the
+Rules Enabling Act. 28 U. S. C. §2072(b). The plurality appears to
+acknowledge this point, stating that the Federal Rules we have found
+to be in compliance with the Act have not “altered . . . available reme
+dies.” Ante, at 13. But the Court’s relentless reading of Rule 23 today
+does exactly that: The Federal Rule, it says, authorizes the recovery of
+class-size statutory damages even though the New York provision
+instructs that such penalties shall not be available.
+8 The Court states that “[w]e cannot rewrite [a state law] to reflect
+our perception of legislative purpose.” Ante, at 9. But we can, of
+course, interpret the Federal Rules in light of a State’s regulatory policy
+to decide whether and to what extent a Rule preempts state law. See
+supra, at 3–7. Just as we read Federal Rule 3 in Walker v. Armco Steel
+Corp., 446 U. S. 740, 751 (1980), not to govern when a suit commences
+
+

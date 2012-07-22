@@ -1,0 +1,43 @@
+4
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+Opinion of the Court
+
+§1964(c) provides a private cause of action. Record A980.
+Invoking that private cause of action, the City asserts that
+it has suffered injury in the form of lost tax revenue—its
+“business or property” in RICO terms—“by reason of”
+Hemi’s fraud.
+Hemi does not contest the City’s characterization of the
+Jenkins Act violations as predicate offenses actionable
+under §1964(c). (We therefore assume, without deciding,
+that failure to file Jenkins Act material can serve as a
+RICO predicate offense.) Instead, Hemi argues that the
+City’s asserted injury—lost tax revenue—is not “business
+or property” under RICO, and that the City cannot show
+that it suffered any injury “by reason of” the failure to file
+Jenkins Act reports.
+The District Court dismissed the City’s RICO claims,
+determining that Hemi owner and officer Kai Gachupin
+did not have an individual duty to file Jenkins Act reports,
+and thus could not have committed the alleged predicate
+acts. City of New York v. Nexicon, Inc., No. 03 CV 383
+(DAB), 2006 WL 647716, *7–*8 (SDNY, Mar. 15, 2006).
+The District Court therefore held that the City could not
+establish that Hemi and Gachupin formed an “enterprise”
+as required to establish RICO liability. Id., at *7–*10.
+Because it dismissed on that ground, the District Court
+did not address whether the City’s loss of tax revenue
+constitutes an injury to its “business or property” under
+§1964, or whether that injury was caused “by reason of”
+Hemi’s failure to file the Jenkins Act reports.
+The Second Circuit vacated the District Court’s judg­
+ment and remanded for further proceedings. The Court of
+Appeals held that the City had established that Gachupin
+and Hemi operated as an “enterprise” and that the enter­
+prise committed the predicate RICO acts of mail and wire
+fraud, based on the failure to file the Jenkins Act material
+with the State. 541 F. 3d, at 447–448. The court also
+determined that the City’s asserted injury, lost tax reve­
+
+

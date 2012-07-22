@@ -1,0 +1,52 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–907
+_________________
+
+JASON M. RANSOM, PETITIONER v. FIA CARD 
+
+SERVICES, N. A., FKA MBNA AMERICA 
+
+BANK, N. A. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[January 11, 2011] 
+
+
+JUSTICE KAGAN delivered the opinion of the Court.
+Chapter 13 of the Bankruptcy Code enables an individ
+ual to obtain a discharge of his debts if he pays his credi
+tors a portion of his monthly income in accordance with a
+court-approved plan. 11 U. S. C. §1301 et seq. To deter
+mine how much income the debtor is capable of paying,
+Chapter 13 uses a statutory formula known as the “means
+test.” §§707(b)(2) (2006 ed. and Supp. III), 1325(b)(3)(A)
+(2006 ed.). The means test instructs a debtor to deduct
+specified expenses from his current monthly income. The
+result is his “disposable income”—the amount he has
+available to reimburse creditors. §1325(b)(2).
+This case concerns the specified expense for vehicle
+ownership costs. We must determine whether a debtor
+like petitioner Jason Ransom who owns his car outright,
+and so does not make loan or lease payments, may claim
+an allowance for car-ownership costs (thereby reducing the
+amount he will repay creditors). We hold that the text,
+context, and purpose of the statutory provision at issue
+preclude this result. A debtor who does not make loan or
+
+

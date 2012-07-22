@@ -1,0 +1,47 @@
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+ments in the Janus Investment Fund prospectuses; Janus
+Investment Fund did. Only Janus Investment Fund—not
+JCM—bears the statutory obligation to file the prospec
+tuses with the SEC. 15 U. S. C. §§77e(b)(2), 80a–8(b),
+80a–29(a)–(b); see also 17 CFR §230.497 (imposing re
+quirements on “investment companies”). The SEC has
+recorded that Janus Investment Fund filed the prospec
+tuses. See JIF Group1 Standalone Prospectuses (Feb. 25,
+2002), online at http://www.sec.gov/Archives/edgar/data/
+277751 / 000027775102000049 / 0000277751-02-000049.txt
+(as visited June 10, 2011, and available in Clerk of Court’s
+case file) (recording the “Filer” of the Janus Mercury Fund
+prospectus as “Janus Investment Fund”). There is no
+allegation that JCM in fact filed the prospectuses and
+falsely attributed them to Janus Investment Fund. Nor
+did anything on the face of the prospectuses indicate that
+any statements therein came from JCM rather than Janus
+Investment Fund—a legally independent entity with its
+own board of trustees.11
+——————
+11 First Derivative suggests that “indirectly” in Rule 10b–5 may
+broaden the meaning of “make.” We disagree. The phrase “directly or
+indirectly” is set off by itself in Rule 10b–5 and modifies not just “to
+make,” but also “to employ” and “to engage.” We think the phrase
+merely clarifies that as long as a statement is made, it does not matter
+whether the statement was communicated directly or indirectly to the
+recipient. A different understanding of “indirectly” would, like a broad
+definition of “make,” threaten to erase the line between primary viola
+tors and aiders and abettors established by Central Bank.
+In this case, we need not define precisely what it means to communi
+cate a “made” statement indirectly because none of the statements in
+the prospectuses were attributed, explicitly or implicitly, to JCM.
+Without attribution, there is no indication that Janus Investment Fund
+was quoting or otherwise repeating a statement originally “made” by
+JCM. Cf. Anixter v. Home-Stake Production Co., 77 F. 3d 1215, 1220, and
+n. 4 (CA10 1996) (quoting a signed “ ‘Auditor’s Report’ ” included in a pro
+spectus); Basic, supra, at 227, n. 4 (quoting a news item reporting a state
+ment by Basic’s president). More may be required to find that a person
+or entity made a statement indirectly, but attribution is necessary.
+
+

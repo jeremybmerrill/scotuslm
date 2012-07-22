@@ -1,0 +1,46 @@
+Cite as: 564 U. S. ____ (2011)
+
+13
+
+ROBERTS, C. J., dissenting
+
+Even the Court seems to appreciate that it is creating a
+troubling gap in the FELA negligence action and ought to
+do something to patch it over. The something it proposes
+is “[r]easonable foreseeability of harm,” ante, at 16 (inter­
+nal quotation marks omitted). Foreseeability as a test for
+proximate causation would be one thing; foreseeability
+has, after all, long been an aspect of proximate cause. But
+that is not the test the Court prescribes. It instead limits
+the foreseeability inquiry to whether the defendant was
+negligent in the first place.
+The Court observes that juries may be instructed that a
+defendant’s negligence depends on “what a reasonably
+prudent person would anticipate or foresee as creating a
+potential for harm.” 5 L. Sand et al., Modern Federal Jury
+Instructions–Civil ¶89.10, p. 89–21 (2010); see ante, at 16–
+17. That’s all fine and good when a defendant’s negligence
+results directly in the plaintiff’s injury (nevermind that no
+“reasonable foreseeability” instruction was given in this
+case). For instance, if I drop a piano from a window and it
+falls on a person, there is no question that I was negligent
+and could have foreseen that the piano would hit some­
+one—as, in fact, it did. The problem for the Court’s test
+arises when the negligence does not directly produce the
+injury to the plaintiff: I drop a piano; it cracks the side­
+walk; during sidewalk repairs weeks later a man barreling
+down the sidewalk on a bicycle hits a cone that repairmen
+have placed around their worksite, and is injured. Was
+I negligent in dropping the piano because I could have
+foreseen “a mishap and injury,” ante, at 17 (emphasis
+added; internal quotation marks omitted)? Yes. Did my
+negligence cause “[the] mishap and injury” that resulted?
+It depends on what is meant by cause. My negligence was
+a “but for” cause of the injury: If I had not dropped the
+piano, the bicyclist would not have crashed. But is it a
+—————— 
+
+as the cause of negligently inflicted harm”). 
+
+
+

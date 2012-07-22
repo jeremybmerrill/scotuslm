@@ -1,0 +1,52 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–969
+_________________
+
+HEMI GROUP, LLC AND KAI GACHUPIN, 
+
+PETITIONERS v. CITY OF NEW YORK, 
+
+NEW YORK
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE SECOND CIRCUIT
+
+[January 25, 2010] 
+
+
+CHIEF JUSTICE ROBERTS delivered the opinion of the
+Court in part.
+The City of New York taxes the possession of cigarettes.
+Hemi Group, based in New Mexico, sells cigarettes online
+to residents of the City. Neither state nor city law re­
+quires Hemi to charge, collect, or remit the tax, and the
+purchasers seldom pay it on their own. Federal law,
+however, requires out-of-state vendors such as Hemi to
+submit customer information to the States into which they
+ship the cigarettes.
+Against that backdrop, the City filed this lawsuit under
+the Racketeer Influenced and Corrupt Organizations Act
+(RICO), alleging that Hemi failed to file the required
+customer information with the State. That failure, the
+City argues, constitutes mail and wire fraud, which caused
+it to lose tens of millions of dollars in unrecovered ciga­
+rette taxes. Because the City cannot show that it lost the
+tax revenue “by reason of” the alleged RICO violation, 18
+U. S. C. §1964(c), we hold that the City cannot state a
+claim under RICO. We therefore reverse the Court of
+
+

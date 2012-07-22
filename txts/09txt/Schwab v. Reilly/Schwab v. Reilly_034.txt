@@ -1,0 +1,48 @@
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+GINSBURG, J., dissenting
+
+a monetary cap.5 Those prescriptions, the Court points
+out, “define the ‘property’ a debtor may ‘clai[m] as exempt’
+as the debtor’s ‘interest’—up to a specified dollar
+amount—in the assets described in the category, not as
+the assets themselves.” Ante, at 10. So long as a debtor
+values her claimed exemption at a dollar amount below
+the statutory cap, the Court reasons, the claim is on-its­
+face permissible no matter the market value she ascribes
+to the asset. To evaluate the propriety of Reilly’s declared
+“interest” in her kitchen equipment, the Court concludes,
+Schwab was obliged promptly to inspect “three, and only
+three, entries on Reilly’s Schedule C: the description of the
+business equipment . . . ; the Code provisions governing
+the claimed exemptions; and the amounts Reilly listed in
+the column titled ‘value of claimed exemption.’ ” Ante, at
+12–13.6
+——————
+5 Section 522(d) catalogs exemptions of two types. Most exemptions—
+and all of those Reilly invoked—place a monetary limit on the value of
+the property the debtor may reclaim. See, e.g., §522(d)(2) (“motor
+vehicle”); §522(d)(3) (“household furnishings, household goods, wearing
+apparel, appliances, books, animals, crops, or musical instruments”);
+§522(d)(4) (“jewelry”). For certain exemptions not at issue here, the
+Bankruptcy Code authorizes reclamation of the property in full without
+any cap on value. See, e.g., §522(d)(7) (“unmatured life insurance
+contract”); §522(d)(9) (“[p]rofessionally prescribed health aids”);
+§522(d)(11)(A) (“award under a crime victim’s reparation law”).
+6 In support of its view that market value is not relevant to determin­
+ing the “property claimed as exempt” for purposes of Rule 4003(b)’s
+timely objection mandate, the Court observes that Schedule C did not
+require the debtor to list this information until 1991. Ante, at 14–15.
+Prior to 1991, however, debtors recorded market value on a different
+schedule. See Interim Fed. Rule Bkrtcy. Proc. Official Form 6, Sched­
+ule B–2 (1979) (requiring debtor to list the “[m]arket value of [her]
+interest [in personal property] without deduction for . . . exemptions
+claimed”). Trustees assessing the “property claimed as exempt,”
+therefore, have always been able, from the face of the debtor’s filings, to
+compare the value of the claimed exemption to the property’s declared
+market value. See Brief for National Association of Consumer Bank­
+ruptcy Attorneys et al. as Amici Curiae 34.
+
+

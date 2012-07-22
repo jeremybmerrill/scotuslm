@@ -1,0 +1,43 @@
+14
+
+MICHIGAN v. BRYANT
+SCALIA, J., dissenting
+
+2 How. St. Tr. 1, 14, 17, 19–20, 22–23, 29 (1603); that
+case remains the canonical example of a Confrontation
+Clause violation, not because Raleigh should have won the
+debate but because he should have been allowed
+cross-examination.
+The Court attempts to fit its resurrected interest in
+reliability into the Crawford framework, but the result is
+incoherent. Reliability, the Court tells us, is a good indi
+cator of whether “a statement is . . . an out-of-court substi
+tute for trial testimony.” Ante, at 11. That is patently
+false. Reliability tells us nothing about whether a state
+ment is testimonial. Testimonial and nontestimonial
+statements alike come in varying degrees of reliability.
+An eyewitness’s statements to the police after a fender
+bender, for example, are both reliable and testimonial.
+Statements to the police from one driver attempting to
+blame the other would be similarly testimonial but rarely
+reliable.
+The Court suggests otherwise because it “misunder
+stands the relationship” between qualification for one of
+the standard hearsay exceptions and exemption from the
+confrontation requirement. Melendez-Diaz v. Massachu
+setts, 557 U. S. ___, ___ (2009) (slip op., at 18). That rela
+tionship is not a causal one. Hearsay law exempts busi
+ness records, for example, because businesses have a
+financial incentive to keep reliable records. See Fed. Rule
+Evid. 803(6). The Sixth Amendment also generally admits
+business records into evidence, but not because the records
+are reliable or because hearsay law says so. It admits
+them “because—having been created for the administra
+tion of an entity’s affairs and not for the purpose of estab
+lishing or proving some fact at trial—they are not” weaker
+substitutes for live testimony. Melendez-Diaz, 557 U. S.,
+at ___ (slip op., at 18). Moreover, the scope of the exemp
+tion from confrontation and that of the hearsay exceptions
+also are not always coextensive. The reliability logic of the
+
+

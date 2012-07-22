@@ -1,0 +1,44 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+KENNEDY, J., dissenting
+
+tory term “violation” thus stands in direct contrast to
+other provisions of the FDCPA that describe conduct itself.
+This applies both to specific terms, e.g., §1692e (“A debt
+collector may not use any false, deceptive, or misleading
+representation or means in connection with the collection
+of any debt”), and to more general ones, e.g., §1692k(e)
+(referring to “any act done or omitted in good faith”). By
+linking the mens rea requirement (“not intentional”) with
+the word “violation”—rather than with the conduct giving
+rise to the violation—the Act by its terms indicates that
+the bona fide error exception applies to legal errors as well
+as to factual ones.
+The Court’s precedents accord with this interpretation.
+Federal statutes that link the term “violation” with a mens
+rea requirement have been interpreted to excuse good
+faith legal mistakes. See, e.g., McLaughlin v. Richland
+Shoe Co., 486 U. S. 128, 129, 133 (1988) (the phrase “aris
+ing out of a willful violation” in the Fair Labor Standards
+Act applies where an employer “either knew or showed
+reckless disregard for the matter of whether its conduct
+was prohibited by the statute”); Trans World Airlines, Inc.
+v. Thurston, 469 U. S. 111, 125, 126 (1985) (damages
+provision under the Age Discrimination in Employment
+Act, which applies “only in cases of willful violations,”
+creates liability where an employer “knew or showed
+reckless disregard for the matter of whether its conduct
+was prohibited by the ADEA” (internal quotation marks
+omitted)); cf. Liparota v. United States, 471 U. S. 419, 428
+(1985) (prohibition on use of food stamps “ ‘knowing [them]
+to have been received . . . in violation of’ ” federal law
+“undeniably requires a knowledge of illegality” (emphasis
+deleted)). The FDCPA’s use of “violation” thus distin
+guishes it from most of the authorities relied upon by the
+Court to demonstrate that mistake-of-law defenses are
+disfavored. See, e.g., ante, at 7–8 (citing Kolstad v. Ameri
+can Dental Assn., 527 U. S. 526 (1999)).
+
+

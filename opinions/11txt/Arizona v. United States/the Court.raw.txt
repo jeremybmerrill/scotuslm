@@ -1,0 +1,1058 @@
+Cite as: 567 U. S. ____ (2012)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 11–182
+_________________
+
+ARIZONA, ET AL., PETITIONERS v. UNITED STATES
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+
+
+APPEALS FOR THE NINTH CIRCUIT
+
+
+
+[June 25, 2012] 
+
+
+JUSTICE KENNEDY delivered the opinion of the Court.
+To address pressing issues related to the large number
+of aliens within its borders who do not have a lawful right
+to be in this country, the State of Arizona in 2010 enacted
+a statute called the Support Our Law Enforcement and
+Safe Neighborhoods Act. The law is often referred to as
+S. B. 1070, the version introduced in the state senate. See
+also H. 2162 (2010) (amending S. 1070). Its stated pur­
+pose is to “discourage and deter the unlawful entry and
+presence of aliens and economic activity by persons unlaw­
+fully present in the United States.” Note following Ariz.
+Rev. Stat. Ann. §11–1051 (West 2012). The law’s provi­
+sions establish an official state policy of “attrition through
+enforcement.” Ibid. The question before the Court is
+whether federal law preempts and renders invalid four
+separate provisions of the state law.
+I
+The United States filed this suit against Arizona, seek­
+ing to enjoin S. B. 1070 as preempted. Four provisions of
+the law are at issue here. Two create new state offenses.
+Section 3 makes failure to comply with federal alien­
+registration requirements a state misdemeanor. Ariz.
+
+
+2
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+Rev. Stat. Ann. §13–1509 (West Supp. 2011). Section 5, in
+relevant part, makes it a misdemeanor for an unauthor­
+ized alien to seek or engage in work in the State; this
+provision is referred to as §5(C). See §13–2928(C). Two
+other provisions give specific arrest authority and investigative duties with respect to certain aliens to state and
+local law enforcement officers. Section 6 authorizes offic­
+ers to arrest without a warrant a person “the officer has
+probable cause to believe . . . has committed any public
+offense that makes the person removable from the United
+States.” §13–3883(A)(5). Section 2(B) provides that offic­
+ers who conduct a stop, detention, or arrest must in some
+circumstances make efforts to verify the person’s immi­
+gration status with the Federal Government. See §11–
+1051(B) (West 2012).
+The United States District Court for the District of
+Arizona issued a preliminary injunction preventing the
+four provisions at issue from taking effect. 703 F. Supp.
+2d 980, 1008 (2010). The Court of Appeals for the Ninth
+Circuit affirmed. 641 F. 3d 339, 366 (2011). It agreed that
+the United States had established a likelihood of success
+on its preemption claims. The Court of Appeals was unan­
+imous in its conclusion that §§3 and 5(C) were likely
+preempted. Judge Bea dissented from the decision to
+uphold the preliminary injunction against §§2(B) and 6.
+This Court granted certiorari to resolve important ques­
+tions concerning the interaction of state and federal power
+with respect to the law of immigration and alien status.
+565 U. S. ___ (2011).
+II
+
+
+
+A
+
+The Government of the United States has broad, un­
+doubted power over the subject of immigration and the
+status of aliens. See Toll v. Moreno, 458 U. S. 1, 10 (1982);
+see generally S. Legomsky & C. Rodríguez, Immigration
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+and Refugee Law and Policy 115–132 (5th ed. 2009). This
+authority rests, in part, on the National Government’s
+constitutional power to “establish an uniform Rule of Naturalization,” U. S. Const., Art. I, §8, cl. 4, and its inherent power as sovereign to control and conduct relations
+with foreign nations, see Toll, supra, at 10 (citing United
+States v. Curtiss-Wright Export Corp., 299 U. S. 304, 318
+(1936)).
+The federal power to determine immigration policy is
+well settled. Immigration policy can affect trade, invest­
+ment, tourism, and diplomatic relations for the entire
+Nation, as well as the perceptions and expectations of
+aliens in this country who seek the full protection of its
+laws. See, e.g., Brief for Argentina et al. as Amici Curiae;
+see also Harisiades v. Shaughnessy, 342 U. S. 580,
+588–589 (1952). Perceived mistreatment of aliens in the
+United States may lead to harmful reciprocal treatment
+of American citizens abroad. See Brief for Madeleine K.
+Albright et al. as Amici Curiae 24–30.
+It is fundamental that foreign countries concerned about
+the status, safety, and security of their nationals in the
+United States must be able to confer and communicate on
+this subject with one national sovereign, not the 50 sepa­
+rate States. See Chy Lung v. Freeman, 92 U. S. 275, 279–
+280 (1876); see also The Federalist No. 3, p. 39 (C. Rossiter
+ed. 2003) (J. Jay) (observing that federal power would be
+necessary in part because “bordering States . . . under the
+impulse of sudden irritation, and a quick sense of appar­
+ent interest or injury” might take action that would un­
+dermine foreign relations). This Court has reaffirmed that
+“[o]ne of the most important and delicate of all interna­
+tional relationships . . . has to do with the protection of the
+just rights of a country’s own nationals when those na­
+tionals are in another country.” Hines v. Davidowitz, 312
+U. S. 52, 64 (1941).
+Federal governance of immigration and alien status is
+
+
+4
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+extensive and complex. Congress has specified catego­
+ries of aliens who may not be admitted to the United
+States. See 8 U. S. C. §1182. Unlawful entry and unlawful
+reentry into the country are federal offenses. §§1325,
+1326. Once here, aliens are required to register with the
+Federal Government and to carry proof of status on their
+person. See §§1301–1306. Failure to do so is a federal
+misdemeanor. §§1304(e), 1306(a). Federal law also au­
+thorizes States to deny noncitizens a range of public bene­
+fits, §1622; and it imposes sanctions on employers who
+hire unauthorized workers, §1324a.
+Congress has specified which aliens may be removed
+from the United States and the procedures for doing so.
+Aliens may be removed if they were inadmissible at the
+time of entry, have been convicted of certain crimes, or
+meet other criteria set by federal law. See §1227. Re­
+moval is a civil, not criminal, matter. A principal feature of
+the removal system is the broad discretion exercised by
+immigration officials. See Brief for Former Commission­
+ers of the United States Immigration and Naturalization
+Service as Amici Curiae 8–13 (hereinafter Brief for For­
+mer INS Commissioners). Federal officials, as an initial
+matter, must decide whether it makes sense to pursue
+removal at all. If removal proceedings commence, aliens
+may seek asylum and other discretionary relief allowing
+them to remain in the country or at least to leave without
+formal removal. See §1229a(c)(4); see also, e.g., §§1158
+(asylum), 1229b (cancellation of removal), 1229c (volun­
+tary departure).
+Discretion in the enforcement of immigration law em­
+braces immediate human concerns. Unauthorized work­
+ers trying to support their families, for example, likely
+pose less danger than alien smugglers or aliens who com­
+mit a serious crime. The equities of an individual case
+may turn on many factors, including whether the alien
+has children born in the United States, long ties to the
+
+
+Cite as: 567 U. S. ____ (2012)
+
+5
+
+Opinion of the Court
+
+community, or a record of distinguished military service.
+Some discretionary decisions involve policy choices that
+bear on this Nation’s international relations. Returning
+an alien to his own country may be deemed inappropriate
+even where he has committed a removable offense or fails
+to meet the criteria for admission. The foreign state may
+be mired in civil war, complicit in political persecution, or
+enduring conditions that create a real risk that the alien
+or his family will be harmed upon return. The dynamic
+nature of relations with other countries requires the Exec­
+utive Branch to ensure that enforcement policies are con­
+sistent with this Nation’s foreign policy with respect to
+these and other realities.
+Agencies in the Department of Homeland Security play
+a major role in enforcing the country’s immigration laws.
+United States Customs and Border Protection (CBP) is responsible for determining the admissibility of aliens and
+securing the country’s borders. See Dept. of Homeland
+Security, Office of Immigration Statistics, Immigration
+Enforcement Actions: 2010, p. 1 (2011). In 2010, CBP’s
+Border Patrol apprehended almost half a million people.
+Id., at 3. Immigration and Customs Enforcement (ICE), a
+second agency, “conducts criminal investigations involving
+the enforcement of immigration-related statutes.” Id., at
+2. ICE also operates the Law Enforcement Support Cen­
+ter. LESC, as the Center is known, provides immigration status information to federal, state, and local officials
+around the clock. See App. 91. ICE officers are respon­
+sible “for the identification, apprehension, and removal of
+illegal aliens from the United States.” Immigration En­
+forcement Actions, supra, at 2. Hundreds of thousands of
+aliens are removed by the Federal Government every year.
+See id., at 4 (reporting there were 387,242 removals, and
+476,405 returns without a removal order, in 2010).
+
+
+6
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+B
+The pervasiveness of federal regulation does not di­
+minish the importance of immigration policy to the States.
+Arizona bears many of the consequences of unlawful im­
+migration. Hundreds of thousands of deportable aliens
+are apprehended in Arizona each year. Dept. of Homeland
+Security, Office of Immigration Statistics, 2010 Yearbook
+of Immigration Statistics 93 (2011) (Table 35). Unauthor­
+ized aliens who remain in the State comprise, by one estimate, almost six percent of the population. See Passel
+& Cohn, Pew Hispanic Center, U. S. Unauthorized Immigration Flows Are Down Sharply Since Mid-Decade 3
+(2010). And in the State’s most populous county, these
+aliens are reported to be responsible for a disproportionate
+share of serious crime. See, e.g., Camarota & Vaughan,
+Center for Immigration Studies, Immigration and Crime:
+Assessing a Conflicted Situation 16 (2009) (Table 3) (esti­
+mating that unauthorized aliens comprise 8.9% of the
+population and are responsible for 21.8% of the felonies in
+Maricopa County, which includes Phoenix).
+Statistics alone do not capture the full extent of Arizo­
+na’s concerns. Accounts in the record suggest there is an
+“epidemic of crime, safety risks, serious property damage,
+and environmental problems” associated with the influx
+of illegal migration across private land near the Mexican
+border. Brief for Petitioners 6. Phoenix is a major city of
+the United States, yet signs along an interstate highway
+30 miles to the south warn the public to stay away. One
+reads, “DANGER—PUBLIC WARNING—TRAVEL NOT
+RECOMMENDED / Active Drug and Human Smuggling
+Area / Visitors May Encounter Armed Criminals and
+Smuggling Vehicles Traveling at High Rates of Speed.”
+App. 170; see also Brief for Petitioners 5–6. The problems
+posed to the State by illegal immigration must not be
+underestimated.
+These concerns are the background for the formal legal
+
+
+Cite as: 567 U. S. ____ (2012)
+
+7
+
+Opinion of the Court
+
+analysis that follows. The issue is whether, under pre­
+emption principles, federal law permits Arizona to imple­
+ment the state-law provisions in dispute.
+III
+Federalism, central to the constitutional design, adopts
+the principle that both the National and State Govern­
+ments have elements of sovereignty the other is bound to
+respect. See Gregory v. Ashcroft, 501 U. S. 452, 457
+(1991); U. S. Term Limits, Inc. v. Thornton, 514 U. S. 779,
+838 (1995) (KENNEDY, J., concurring). From the existence
+of two sovereigns follows the possibility that laws can be
+in conflict or at cross-purposes. The Supremacy Clause
+provides a clear rule that federal law “shall be the su­
+preme Law of the Land; and the Judges in every State
+shall be bound thereby, any Thing in the Constitution or
+Laws of any State to the Contrary notwithstanding.”
+Art. VI, cl. 2. Under this principle, Congress has the
+power to preempt state law. See Crosby v. National Foreign Trade Council, 530 U. S. 363, 372 (2000); Gibbons
+v. Ogden, 9 Wheat. 1, 210–211 (1824). There is no doubt
+that Congress may withdraw specified powers from the
+States by enacting a statute containing an express
+preemption provision. See, e.g., Chamber of Commerce of
+United States of America v. Whiting, 563 U. S. ___, ___
+(2011) (slip op., at 4).
+State law must also give way to federal law in at least
+two other circumstances. First, the States are precluded
+from regulating conduct in a field that Congress, acting
+within its proper authority, has determined must be regu­
+lated by its exclusive governance. See Gade v. National
+Solid Wastes Management Assn., 505 U. S. 88, 115 (1992).
+The intent to displace state law altogether can be inferred
+from a framework of regulation “so pervasive . . . that
+Congress left no room for the States to supplement it” or
+where there is a “federal interest . . . so dominant that the
+
+
+8
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+federal system will be assumed to preclude enforcement of
+state laws on the same subject.” Rice v. Santa Fe Elevator
+Corp., 331 U. S. 218, 230 (1947); see English v. General
+Elec. Co., 496 U. S. 72, 79 (1990).
+Second, state laws are preempted when they conflict
+with federal law. Crosby, supra, at 372. This includes
+cases where “compliance with both federal and state
+regulations is a physical impossibility,” Florida Lime &
+Avocado Growers, Inc. v. Paul, 373 U. S. 132, 142–143
+(1963), and those instances where the challenged state law
+“stands as an obstacle to the accomplishment and execu­
+tion of the full purposes and objectives of Congress,”
+Hines, 312 U. S., at 67; see also Crosby, supra, at 373
+(“What is a sufficient obstacle is a matter of judgment, to
+be informed by examining the federal statute as a whole
+and identifying its purpose and intended effects”). In
+preemption analysis, courts should assume that “the
+historic police powers of the States” are not superseded
+“unless that was the clear and manifest purpose of Con­
+gress.” Rice, supra, at 230; see Wyeth v. Levine, 555 U. S.
+555, 565 (2009).
+The four challenged provisions of the state law each
+must be examined under these preemption principles.
+IV
+A
+Section 3
+Section 3 of S. B. 1070 creates a new state misdemeanor. It forbids the “willful failure to complete or carry an
+alien registration document . . . in violation of 8 United
+States Code section 1304(e) or 1306(a).” Ariz. Rev. Stat.
+Ann. §11–1509(A) (West Supp. 2011). In effect, §3 adds a
+state-law penalty for conduct proscribed by federal law.
+The United States contends that this state enforcement
+mechanism intrudes on the field of alien registration, a
+field in which Congress has left no room for States to
+
+
+Cite as: 567 U. S. ____ (2012)
+
+9
+
+Opinion of the Court
+
+regulate. See Brief for United States 27, 31.
+The Court discussed federal alien-registration require­
+ments in Hines v. Davidowitz, 312 U. S. 52. In 1940, as
+international conflict spread, Congress added to federal
+immigration law a “complete system for alien registra­
+tion.” Id., at 70. The new federal law struck a careful
+balance. It punished an alien’s willful failure to register
+but did not require aliens to carry identification cards.
+There were also limits on the sharing of registration rec­
+ords and fingerprints. The Court found that Congress
+intended the federal plan for registration to be a “single
+integrated and all-embracing system.” Id., at 74. Because
+this “complete scheme . . . for the registration of aliens”
+touched on foreign relations, it did not allow the States to
+“curtail or complement” federal law or to “enforce addi­
+tional or auxiliary regulations.” Id., at 66–67. As a con­
+sequence, the Court ruled that Pennsylvania could not
+enforce its own alien-registration program. See id., at 59, 74.
+The present regime of federal regulation is not identi­
+cal to the statutory framework considered in Hines, but
+it remains comprehensive. Federal law now includes a
+requirement that aliens carry proof of registration. 8
+U. S. C. §1304(e). Other aspects, however, have stayed the
+same. Aliens who remain in the country for more than 30
+days must apply for registration and be fingerprinted.
+Compare §1302(a) with id., §452(a) (1940 ed.). Detailed
+information is required, and any change of address has
+to be reported to the Federal Government. Compare
+§§1304(a), 1305(a) (2006 ed.), with id., §§455(a), 456 (1940
+ed.). The statute continues to provide penalties for the
+willful failure to register. Compare §1306(a) (2006 ed.),
+with id., §457 (1940 ed.).
+The framework enacted by Congress leads to the conclu­
+sion here, as it did in Hines, that the Federal Government
+has occupied the field of alien registration. See American
+Ins. Assn. v. Garamendi, 539 U. S. 396, 419, n. 11 (2003)
+
+
+10
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+(characterizing Hines as a field preemption case); Pennsylvania v. Nelson, 350 U. S. 497, 504 (1956) (same); see also
+Dinh, Reassessing the Law of Preemption, 88 Geo. L. J.
+2085, 2098–2099, 2107 (2000) (same). The federal statu­
+tory directives provide a full set of standards governing
+alien registration, including the punishment for noncom­
+pliance. It was designed as a “ ‘harmonious whole.’ ”
+Hines, supra, at 72. Where Congress occupies an entire
+field, as it has in the field of alien registration, even com­
+plementary state regulation is impermissible. Field pre­
+emption reflects a congressional decision to foreclose any
+state regulation in the area, even if it is parallel to federal standards. See Silkwood v. Kerr-McGee Corp., 464
+U. S. 238, 249 (1984).
+Federal law makes a single sovereign responsible for
+maintaining a comprehensive and unified system to keep
+track of aliens within the Nation’s borders. If §3 of the
+Arizona statute were valid, every State could give itself
+independent authority to prosecute federal registration
+violations, “diminish[ing] the [Federal Government]’s control
+over enforcement” and “detract[ing] from the ‘integrated
+scheme of regulation’ created by Congress.” Wisconsin
+Dept. of Industry v. Gould Inc., 475 U. S. 282, 288–289
+(1986). Even if a State may make violation of federal
+law a crime in some instances, it cannot do so in a field
+(like the field of alien registration) that has been occupied
+by federal law. See California v. Zook, 336 U. S. 725, 730–
+731, 733 (1949); see also In re Loney, 134 U. S. 372, 375–
+376 (1890) (States may not impose their own punishment
+for perjury in federal courts).
+Arizona contends that §3 can survive preemption be­
+cause the provision has the same aim as federal law and
+adopts its substantive standards. This argument not only
+ignores the basic premise of field preemption—that States
+may not enter, in any respect, an area the Federal Gov­
+ernment has reserved for itself—but also is unpersuasive
+
+
+Cite as: 567 U. S. ____ (2012)
+
+11
+
+Opinion of the Court
+
+on its own terms. Permitting the State to impose its own
+penalties for the federal offenses here would conflict with
+the careful framework Congress adopted. Cf. Buckman
+Co. v. Plaintiffs’ Legal Comm., 531 U. S. 341, 347–348
+(2001) (States may not impose their own punishment for
+fraud on the Food and Drug Administration); Wisconsin
+Dept., supra, at 288 (States may not impose their own
+punishment for repeat violations of the National Labor
+Relations Act). Were §3 to come into force, the State
+would have the power to bring criminal charges against
+individuals for violating a federal law even in circum­
+stances where federal officials in charge of the comprehen­
+sive scheme determine that prosecution would frustrate
+federal policies.
+There is a further intrusion upon the federal scheme.
+Even where federal authorities believe prosecution is appropriate, there is an inconsistency between §3 and federal law with respect to penalties. Under federal law,
+the failure to carry registration papers is a misdemeanor
+that may be punished by a fine, imprisonment, or a term
+of probation. See 8 U. S. C. §1304(e) (2006 ed.); 18 U. S. C.
+§3561. State law, by contrast, rules out probation as a
+possible sentence (and also eliminates the possibility of
+a pardon). See Ariz. Rev. Stat. Ann. §13–1509(D) (West
+Supp. 2011). This state framework of sanctions creates a
+conflict with the plan Congress put in place. See Wisconsin Dept., supra, at 286 (“[C]onflict is imminent whenever
+two separate remedies are brought to bear on the same
+activity” (internal quotation marks omitted)).
+These specific conflicts between state and federal law
+simply underscore the reason for field preemption. As it
+did in Hines, the Court now concludes that, with respect
+to the subject of alien registration, Congress intended to
+preclude States from “complement[ing] the federal law, or
+enforc[ing] additional or auxiliary regulations.” 312 U. S.,
+at 66–67. Section 3 is preempted by federal law.
+
+
+12
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+B
+Section 5(C)
+Unlike §3, which replicates federal statutory require­
+ments, §5(C) enacts a state criminal prohibition where no
+federal counterpart exists. The provision makes it a state
+misdemeanor for “an unauthorized alien to knowingly apply for work, solicit work in a public place or perform
+work as an employee or independent contractor” in Ari­
+zona. Ariz. Rev. Stat. Ann. §13–2928(C) (West Supp. 2011).
+Violations can be punished by a $2,500 fine and incarcera­
+tion for up to six months. See §13–2928(F); see also
+§§13–707(A)(1) (West 2010); 13–802(A); 13–902(A)(5). The
+United States contends that the provision upsets the balance struck by the Immigration Reform and Control Act
+of 1986 (IRCA) and must be preempted as an obstacle
+to the federal plan of regulation and control.
+When there was no comprehensive federal program
+regulating the employment of unauthorized aliens, this
+Court found that a State had authority to pass its own
+laws on the subject. In 1971, for example, California
+passed a law imposing civil penalties on the employment
+of aliens who were “not entitled to lawful residence in the
+United States if such employment would have an adverse
+effect on lawful resident workers.” 1971 Cal. Stats. ch.
+1442, §1(a). The law was upheld against a preemption
+challenge in De Canas v. Bica, 424 U. S. 351 (1976). De
+Canas recognized that “States possess broad authority
+under their police powers to regulate the employment
+relationship to protect workers within the State.” Id., at
+356. At that point, however, the Federal Government had
+expressed no more than “a peripheral concern with [the]
+employment of illegal entrants.” Id., at 360; see Whiting,
+563 U. S., at ___ (slip op., at 3).
+Current federal law is substantially different from the
+regime that prevailed when De Canas was decided. Con­
+gress enacted IRCA as a comprehensive framework for
+
+
+Cite as: 567 U. S. ____ (2012)
+
+13
+
+Opinion of the Court
+
+“combating the employment of illegal aliens.” Hoffman
+Plastic Compounds, Inc. v. NLRB, 535 U. S. 137, 147
+(2002). The law makes it illegal for employers to know­
+ingly hire, recruit, refer, or continue to employ unauthorized
+workers. See 8 U. S. C. §§1324a(a)(1)(A), (a)(2). It also
+requires every employer to verify the employment authori­
+zation status of prospective employees. See §§1324a(a)
+(1)(B), (b); 8 CFR §274a.2(b) (2012). These requirements
+are enforced through criminal penalties and an escalat­
+ing series of civil penalties tied to the number of times
+an employer has violated the provisions. See 8 U. S. C.
+§§1324a(e)(4), (f); 8 CFR §274a.10.
+This comprehensive framework does not impose federal
+criminal sanctions on the employee side (i.e., penalties on
+aliens who seek or engage in unauthorized work). Under
+federal law some civil penalties are imposed instead. With
+certain exceptions, aliens who accept unlawful employ­
+ment are not eligible to have their status adjusted to
+that of a lawful permanent resident. See 8 U. S. C.
+§§1255(c)(2), (c)(8). Aliens also may be removed from the
+country for having engaged in unauthorized work. See
+§1227(a)(1)(C)(i); 8 CFR §214.1(e). In addition to specify­
+ing these civil consequences, federal law makes it a crime
+for unauthorized workers to obtain employment through
+fraudulent means. See 18 U. S. C. §1546(b). Congress has
+made clear, however, that any information employees
+submit to indicate their work status “may not be used” for
+purposes other than prosecution under specified federal
+criminal statutes for fraud, perjury, and related conduct.
+See 8 U. S. C. §§1324a(b)(5), (d)(2)(F)–(G).
+The legislative background of IRCA underscores the fact
+that Congress made a deliberate choice not to impose crim­
+
+inal penalties on aliens who seek, or engage in, unauthor­
+ized employment. A commission established by Congress
+to study immigration policy and to make recommen­
+dations concluded these penalties would be “unnecessary
+
+
+14
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+and unworkable.” U. S. Immigration Policy and the Na­
+tional Interest: The Final Report and Recommendations of
+the Select Commission on Immigration and Refugee Policy
+with Supplemental Views by Commissioners 65–66 (1981);
+see Pub. L. 95–412, §4, 92 Stat. 907. Proposals to make
+unauthorized work a criminal offense were debated and
+discussed during the long process of drafting IRCA. See
+Brief for Service Employees International Union et al. as
+Amici Curiae 9–12. But Congress rejected them. See, e.g.,
+119 Cong. Rec. 14184 (1973) (statement of Rep. Dennis).
+In the end, IRCA’s framework reflects a considered judg­
+ment that making criminals out of aliens engaged in
+unauthorized work—aliens who already face the possibil­
+ity of employer exploitation because of their removable
+status—would be inconsistent with federal policy and objectives. See, e.g., Hearings before the Subcommittee
+No. 1 of the House Committee on the Judiciary, 92d Cong.,
+1st Sess., pt. 3, pp. 919–920 (1971) (statement of Rep.
+Rodino, the eventual sponsor of IRCA in the House of
+Representatives).
+IRCA’s express preemption provision, which in most
+instances bars States from imposing penalties on employ­
+ers of unauthorized aliens, is silent about whether addi­
+tional penalties may be imposed against the employees
+themselves. See 8 U. S. C. §1324a(h)(2); Whiting, supra,
+at ___–___ (slip op., at 1–2). But the existence of an “ex­
+press pre-emption provisio[n] does not bar the ordinary
+working of conflict pre-emption principles” or impose a
+“special burden” that would make it more difficult to
+establish the preemption of laws falling outside the clause.
+Geier v. American Honda Motor Co., 529 U. S. 861, 869–
+872 (2000); see Sprietsma v. Mercury Marine, 537 U. S. 51,
+65 (2002).
+The ordinary principles of preemption include the well­
+settled proposition that a state law is preempted where it
+“stands as an obstacle to the accomplishment and exe­
+
+
+Cite as: 567 U. S. ____ (2012)
+
+15
+
+Opinion of the Court
+
+cution of the full purposes and objectives of Congress.”
+Hines, 312 U. S., at 67. Under §5(C) of S. B. 1070, Arizona
+law would interfere with the careful balance struck by
+Congress with respect to unauthorized employment of
+aliens. Although §5(C) attempts to achieve one of the
+same goals as federal law—the deterrence of unlawful
+employment—it involves a conflict in the method of en­
+forcement. The Court has recognized that a “[c]onflict
+in technique can be fully as disruptive to the system Con­
+gress enacted as conflict in overt policy.” Motor Coach
+Employees v. Lockridge, 403 U. S. 274, 287 (1971). The
+correct instruction to draw from the text, structure, and
+history of IRCA is that Congress decided it would be inap­
+propriate to impose criminal penalties on aliens who seek
+or engage in unauthorized employment. It follows that a
+state law to the contrary is an obstacle to the regulatory
+system Congress chose. See Puerto Rico Dept. of Consumer Affairs v. ISLA Petroleum Corp., 485 U. S. 495, 503
+(1988) (“Where a comprehensive federal scheme intention­
+ally leaves a portion of the regulated field without con­
+trols, then the pre-emptive inference can be drawn—not
+from federal inaction alone, but from inaction joined with
+action”). Section 5(C) is preempted by federal law.
+C
+Section 6
+Section 6 of S. B. 1070 provides that a state officer,
+“without a warrant, may arrest a person if the officer has
+probable cause to believe . . . [the person] has committed
+any public offense that makes [him] removable from the
+United States.” Ariz. Rev. Stat. Ann. §13–3883(A)(5)
+(West Supp. 2011). The United States argues that arrests
+authorized by this statute would be an obstacle to the
+removal system Congress created.
+As a general rule, it is not a crime for a removable alien
+to remain present in the United States. See INS v. Lopez-
+
+
+16
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+Mendoza, 468 U. S. 1032, 1038 (1984). If the police stop
+someone based on nothing more than possible removabil­
+ity, the usual predicate for an arrest is absent. When an
+alien is suspected of being removable, a federal official
+issues an administrative document called a Notice to Ap­
+pear. See 8 U. S. C. §1229(a); 8 CFR §239.1(a) (2012).
+The form does not authorize an arrest. Instead, it gives
+the alien information about the proceedings, including the
+time and date of the removal hearing. See 8 U. S. C.
+§1229(a)(1). If an alien fails to appear, an in absentia
+order may direct removal. §1229a(5)(A).
+The federal statutory structure instructs when it is ap­
+propriate to arrest an alien during the removal process.
+For example, the Attorney General can exercise discretion
+to issue a warrant for an alien’s arrest and detention
+“pending a decision on whether the alien is to be removed
+from the United States.” 8 U. S. C. §1226(a); see Memo­
+randum from John Morton, Director, ICE, to All Field
+Office Directors et al., Exercising Prosecutorial Discretion
+Consistent with the Civil Immigration Enforcement Prior­
+ities of the Agency for the Apprehension, Detention, and
+Removal of Aliens (June 17, 2011) (hereinafter 2011 ICE
+Memorandum) (describing factors informing this and re­
+lated decisions). And if an alien is ordered removed after
+a hearing, the Attorney General will issue a warrant.
+See 8 CFR §241.2(a)(1). In both instances, the warrants
+are executed by federal officers who have received training
+in the enforcement of immigration law. See §§241.2(b),
+287.5(e)(3). If no federal warrant has been issued, those
+officers have more limited authority. See 8 U. S. C. §1357(a).
+They may arrest an alien for being “in the United
+States in violation of any [immigration] law or regulation,” for example, but only where the alien “is likely to
+escape before a warrant can be obtained.” §1357(a)(2).
+Section 6 attempts to provide state officers even greater
+authority to arrest aliens on the basis of possible remova­
+
+
+Cite as: 567 U. S. ____ (2012)
+
+17
+
+Opinion of the Court
+
+bility than Congress has given to trained federal immigration officers. Under state law, officers who believe
+an alien is removable by reason of some “public offense”
+would have the power to conduct an arrest on that basis
+regardless of whether a federal warrant has issued or
+the alien is likely to escape. This state authority could be
+exercised without any input from the Federal Government
+about whether an arrest is warranted in a particular case.
+This would allow the State to achieve its own immigra­
+tion policy. The result could be unnecessary harassment
+of some aliens (for instance, a veteran, college student, or
+someone assisting with a criminal investigation) whom
+federal officials determine should not be removed.
+This is not the system Congress created. Federal law
+specifies limited circumstances in which state officers may
+perform the functions of an immigration officer. A princi­
+pal example is when the Attorney General has granted
+that authority to specific officers in a formal agreement
+with a state or local government. See §1357(g)(1); see also
+§1103(a)(10) (authority may be extended in the event of an
+“imminent mass influx of aliens off the coast of the United
+States”); §1252c (authority to arrest in specific circum­
+stance after consultation with the Federal Government);
+§1324(c) (authority to arrest for bringing in and harboring
+certain aliens). Officers covered by these agreements are
+subject to the Attorney General’s direction and super­
+vision. §1357(g)(3). There are significant complexities
+involved in enforcing federal immigration law, including
+the determination whether a person is removable. See
+Padilla v. Kentucky, 559 U. S. ___, ___–___ (2010) (ALITO,
+J., concurring in judgment) (slip op., at 4–7). As a result,
+the agreements reached with the Attorney General must
+contain written certification that officers have received
+adequate training to carry out the duties of an immigra­
+tion officer. See §1357(g)(2); cf. 8 CFR §§287.5(c) (arrest power contingent on training), 287.1(g) (defining the
+
+
+18
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+training).
+By authorizing state officers to decide whether an
+alien should be detained for being removable, §6 violates
+the principle that the removal process is entrusted to the
+discretion of the Federal Government. See, e.g., Reno v.
+American-Arab Anti-Discrimination Comm., 525 U. S. 471,
+483–484 (1999); see also Brief for Former INS Commis­
+sioners 8–13. A decision on removability requires a de­
+termination whether it is appropriate to allow a foreign
+national to continue living in the United States. Decisions
+of this nature touch on foreign relations and must be made
+with one voice. See Jama v. Immigration and Customs
+Enforcement, 543 U. S. 335, 348 (2005) (“Removal deci­
+sions, including the selection of a removed alien’s destina­
+tion, may implicate [the Nation’s] relations with foreign
+powers and require consideration of changing political and
+economic circumstances” (internal quotation marks omit­
+ted)); see also Galvan v. Press, 347 U. S. 522, 531 (1954)
+(“Policies pertaining to the entry of aliens and their right
+to remain here are . . . entrusted exclusively to Congress
+. . .”); Truax v. Raich, 239 U. S. 33, 42 (1915) (“The author­
+ity to control immigration—to admit or exclude aliens—is
+vested solely in the Federal Government”).
+In defense of §6, Arizona notes a federal statute permit­
+ting state officers to “cooperate with the Attorney General
+in the identification, apprehension, detention, or removal
+of aliens not lawfully present in the United States.” 8
+U. S. C. §1357(g)(10)(B). There may be some ambiguity as
+to what constitutes cooperation under the federal law; but
+no coherent understanding of the term would incorporate
+the unilateral decision of state officers to arrest an alien
+for being removable absent any request, approval, or other
+instruction from the Federal Government. The Depart­
+ment of Homeland Security gives examples of what would
+constitute cooperation under federal law. These include
+situations where States participate in a joint task force
+
+
+Cite as: 567 U. S. ____ (2012)
+
+19
+
+Opinion of the Court
+
+with federal officers, provide operational support in exe­
+cuting a warrant, or allow federal immigration officials
+to gain access to detainees held in state facilities. See
+Dept. of Homeland Security, Guidance on State and Local
+Governments’ Assistance in Immigration Enforcement
+and Related Matters 13–14 (2011), online at http://
+www.dhs.gov/files/resources/immigration.shtm (all Inter­
+net materials as visited June 21, 2012, and available in
+Clerk of Court’s case file). State officials can also assist
+the Federal Government by responding to requests for
+information about when an alien will be released from
+their custody. See §1357(d). But the unilateral state
+action to detain authorized by §6 goes far beyond these
+measures, defeating any need for real cooperation.
+Congress has put in place a system in which state offic­
+ers may not make warrantless arrests of aliens based on
+possible removability except in specific, limited circum­
+stances. By nonetheless authorizing state and local officers to engage in these enforcement activities as a general
+matter, §6 creates an obstacle to the full purposes and
+objectives of Congress. See Hines, 312 U. S., at 67. Sec­
+tion 6 is preempted by federal law.
+D
+Section 2(B)
+Section 2(B) of S. B. 1070 requires state officers to make
+a “reasonable attempt . . . to determine the immigration
+status” of any person they stop, detain, or arrest on some
+other legitimate basis if “reasonable suspicion exists that
+the person is an alien and is unlawfully present in the
+United States.” Ariz. Rev. Stat. Ann. §11–1051(B) (West
+2012). The law also provides that “[a]ny person who is
+arrested shall have the person’s immigration status de­
+termined before the person is released.” Ibid. The accepted
+way to perform these status checks is to contact ICE,
+which maintains a database of immigration records.
+
+
+20
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+Three limits are built into the state provision. First, a
+detainee is presumed not to be an alien unlawfully present
+in the United States if he or she provides a valid Arizona
+driver’s license or similar identification. Second, officers
+“may not consider race, color or national origin . . . except
+to the extent permitted by the United States [and] Ari­
+zona Constitution[s].” Ibid. Third, the provisions must
+be “implemented in a manner consistent with federal law
+regulating immigration, protecting the civil rights of all
+persons and respecting the privileges and immunities of
+United States citizens.” §11–1051(L) (West 2012).
+The United States and its amici contend that, even with
+these limits, the State’s verification requirements pose an
+obstacle to the framework Congress put in place. The first
+concern is the mandatory nature of the status checks. The
+second is the possibility of prolonged detention while the
+checks are being performed.
+1
+Consultation between federal and state officials is an
+important feature of the immigration system. Congress
+has made clear that no formal agreement or special train­
+ing needs to be in place for state officers to “communicate
+with the [Federal Government] regarding the immigration
+status of any individual, including reporting knowledge
+that a particular alien is not lawfully present in the United
+States.” 8 U. S. C. §1357(g)(10)(A). And Congress has
+obligated ICE to respond to any request made by state
+officials for verification of a person’s citizenship or immigration status. See §1373(c); see also §1226(d)(1)(A)
+(requiring a system for determining whether individuals
+arrested for aggravated felonies are aliens). ICE’s Law
+Enforcement Support Center operates “24 hours a day,
+seven days a week, 365 days a year” and provides, among
+other things, “immigration status, identity information
+and real-time assistance to local, state and federal law
+
+
+Cite as: 567 U. S. ____ (2012)
+
+21
+
+Opinion of the Court
+
+enforcement agencies.” ICE, Fact Sheet: Law Enforce­
+ment Support Center (May 29, 2012), online at http://
+www.ice.gov/news/library/factsheets/lesc.htm.
+LESC re­
+
+sponded to more than one million requests for information
+in 2009 alone. App. 93.
+The United States argues that making status verifica­
+tion mandatory interferes with the federal immigration
+scheme. It is true that §2(B) does not allow state officers
+to consider federal enforcement priorities in deciding
+whether to contact ICE about someone they have de­
+tained. See Brief for United States 47–50. In other words,
+the officers must make an inquiry even in cases where it
+seems unlikely that the Attorney General would have
+the alien removed. This might be the case, for example,
+when an alien is an elderly veteran with significant and
+longstanding ties to the community. See 2011 ICE Memo­
+randum 4–5 (mentioning these factors as relevant).
+Congress has done nothing to suggest it is inappropriate
+to communicate with ICE in these situations, however.
+Indeed, it has encouraged the sharing of information about
+possible immigration violations. See 8 U. S. C. §1357(g)
+(10)(A). A federal statute regulating the public benefits
+provided to qualified aliens in fact instructs that “no State
+or local government entity may be prohibited, or in any
+way restricted, from sending to or receiving from [ICE]
+information regarding the immigration status, lawful or
+unlawful, of an alien in the United States.” §1644. The
+federal scheme thus leaves room for a policy requiring
+state officials to contact ICE as a routine matter. Cf.
+Whiting, 563 U. S., at ___–___ (slip op., at 23–24) (reject­
+ing argument that federal law preempted Arizona’s re­
+quirement that employers determine whether employees
+were eligible to work through the federal E-Verify system
+where the Federal Government had encouraged its use).
+
+
+22
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+2
+Some who support the challenge to §2(B) argue that, in
+practice, state officers will be required to delay the release
+of some detainees for no reason other than to verify their
+immigration status. See, e.g., Brief for Former Arizona
+Attorney General Terry Goddard et al. as Amici Curiae 37,
+n. 49. Detaining individuals solely to verify their immi­
+gration status would raise constitutional concerns. See,
+e.g., Arizona v. Johnson, 555 U. S. 323, 333 (2009); Illinois
+v. Caballes, 543 U. S. 405, 407 (2005) (“A seizure that is
+justified solely by the interest in issuing a warning ticket
+to the driver can become unlawful if it is prolonged beyond
+the time reasonably required to complete that mission”).
+And it would disrupt the federal framework to put state
+officers in the position of holding aliens in custody for
+possible unlawful presence without federal direction and
+supervision. Cf. Part IV–C, supra (concluding that Ari­
+zona may not authorize warrantless arrests on the basis of
+removability). The program put in place by Congress does
+not allow state or local officers to adopt this enforcement
+mechanism.
+But §2(B) could be read to avoid these concerns. To take
+one example, a person might be stopped for jaywalking in
+Tucson and be unable to produce identification. The first
+sentence of §2(B) instructs officers to make a “reasonable”
+attempt to verify his immigration status with ICE if there
+is reasonable suspicion that his presence in the United
+States is unlawful. The state courts may conclude that,
+unless the person continues to be suspected of some crime
+for which he may be detained by state officers, it would
+not be reasonable to prolong the stop for the immigration
+inquiry. See Reply Brief for Petitioners 12, n. 4 (“[Section
+2(B)] does not require the verification be completed during
+the stop or detention if that is not reasonable or practica­
+ble”); cf. Muehler v. Mena, 544 U. S. 93, 101 (2005) (finding
+no Fourth Amendment violation where questioning about
+
+
+Cite as: 567 U. S. ____ (2012)
+
+23
+
+Opinion of the Court
+
+immigration status did not prolong a stop).
+To take another example, a person might be held pend­
+ing release on a charge of driving under the influence of
+alcohol. As this goes beyond a mere stop, the arrestee
+(unlike the jaywalker) would appear to be subject to the
+categorical requirement in the second sentence of §2(B)
+that “[a]ny person who is arrested shall have the person’s
+immigration status determined before [he] is released.”
+State courts may read this as an instruction to initiate a
+status check every time someone is arrested, or in some
+subset of those cases, rather than as a command to hold
+the person until the check is complete no matter the cir­
+cumstances. Even if the law is read as an instruction to
+complete a check while the person is in custody, moreover,
+it is not clear at this stage and on this record that the
+verification process would result in prolonged detention.
+However the law is interpreted, if §2(B) only requires
+state officers to conduct a status check during the course
+of an authorized, lawful detention or after a detainee has
+been released, the provision likely would survive preemption—at least absent some showing that it has other
+consequences that are adverse to federal law and its objec­
+tives. There is no need in this case to address whether
+reasonable suspicion of illegal entry or another immigra­
+tion crime would be a legitimate basis for prolonging a
+detention, or whether this too would be preempted by
+federal law. See, e.g., United States v. Di Re, 332 U. S.
+581, 589 (1948) (authority of state officers to make arrests
+for federal crimes is, absent federal statutory instruction,
+a matter of state law); Gonzales v. Peoria, 722 F. 2d 468,
+475–476 (CA9 1983) (concluding that Arizona officers have
+authority to enforce the criminal provisions of federal
+immigration law), overruled on other grounds in HodgersDurgin v. de la Vina, 199 F. 3d 1037 (CA9 1999).
+The nature and timing of this case counsel caution in
+evaluating the validity of §2(B). The Federal Government
+
+
+24
+
+ARIZONA v. UNITED STATES
+Opinion of the Court
+
+has brought suit against a sovereign State to challenge the
+provision even before the law has gone into effect. There
+is a basic uncertainty about what the law means and how
+it will be enforced. At this stage, without the benefit of a
+definitive interpretation from the state courts, it would be
+inappropriate to assume §2(B) will be construed in a way
+that creates a conflict with federal law. Cf. Fox v. Washington, 236 U. S. 273, 277 (1915) (“So far as statutes fairly
+may be construed in such a way as to avoid doubtful con­
+stitutional questions they should be so construed; and it is
+to be presumed that state laws will be construed in that
+way by the state courts” (citation omitted)). As a result,
+the United States cannot prevail in its current challenge.
+See Huron Portland Cement Co. v. Detroit, 362 U. S. 440,
+446 (1960) (“To hold otherwise would be to ignore the
+teaching of this Court’s decisions which enjoin seeking out
+conflicts between state and federal regulation where none
+clearly exists”). This opinion does not foreclose other
+preemption and constitutional challenges to the law as
+interpreted and applied after it goes into effect.
+V
+Immigration policy shapes the destiny of the Nation.
+On May 24, 2012, at one of this Nation’s most distin­
+guished museums of history, a dozen immigrants stood
+before the tattered flag that inspired Francis Scott Key
+to write the National Anthem. There they took the oath
+to become American citizens. The Smithsonian, News
+Release, Smithsonian Citizenship Ceremony Welcomes
+a Dozen New Americans (May 24, 2012), online at
+http://newsdesk.si.edu/releases. These naturalization ceremonies bring together men and women of different ori­
+gins who now share a common destiny. They swear a
+common oath to renounce fidelity to foreign princes, to
+defend the Constitution, and to bear arms on behalf of the
+country when required by law. 8 CFR §337.1(a) (2012).
+
+
+Cite as: 567 U. S. ____ (2012)
+
+25
+
+Opinion of the Court
+
+The history of the United States is in part made of the
+stories, talents, and lasting contributions of those who
+crossed oceans and deserts to come here.
+The National Government has significant power to
+regulate immigration. With power comes responsibility,
+and the sound exercise of national power over immigration
+depends on the Nation’s meeting its responsibility to base
+its laws on a political will informed by searching, thought­
+ful, rational civic discourse. Arizona may have under­
+standable frustrations with the problems caused by illegal
+immigration while that process continues, but the State
+may not pursue policies that undermine federal law.
+*
+*
+*
+The United States has established that §§3, 5(C), and 6
+of S. B. 1070 are preempted. It was improper, however, to
+enjoin §2(B) before the state courts had an opportunity to
+construe it and without some showing that enforcement of
+the provision in fact conflicts with federal immigration law
+and its objectives.
+The judgment of the Court of Appeals for the Ninth
+Circuit is affirmed in part and reversed in part. The case
+is remanded for further proceedings consistent with this
+opinion.
+It is so ordered.
+JUSTICE KAGAN took no part in the consideration or
+decision of this case.
+
+

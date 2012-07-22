@@ -1,0 +1,43 @@
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+curred by the estate.”
+B
+Petitioners Lynwood and Brenda Hall petitioned for
+bankruptcy under Chapter 12 and sold their farm shortly
+thereafter. Petitioners initially proposed a plan of reor­
+ganization under which they would pay off outstanding
+liabilities with proceeds from the sale. The Internal Reve­
+nue Service (IRS) objected, asserting a federal income tax
+of $29,000 on the capital gains from the farm sale.
+Petitioners amended their proposal to treat the income
+tax as a general, unsecured claim to be paid to the extent
+funds were available, with the unpaid balance discharged.
+Again the IRS objected. Taxes on income from a postpeti­
+tion farm sale, the IRS argued, remain the debtors’ inde­
+pendent responsibility because they are neither collectible
+nor dischargeable in bankruptcy.
+The Bankruptcy Court sustained the objection. The
+court reasoned that because a Chapter 12 estate is not a
+separate taxable entity under the Internal Revenue Code
+(IRC), see 26 U. S. C. §§1398, 1399, it cannot “incur” taxes
+for purposes of 11 U. S. C. §503(b).
+The District Court reversed, expressing doubt that IRC
+provisions are relevant to interpreting §503(b). Based on
+its reading of legislative history, the District Court deter­
+mined that Congress intended §1222(a)(2)(A) to extend to
+petitioners’ postpetition taxes.
+The Court of Appeals for the Ninth Circuit reversed.
+617 F. 3d 1161 (2010). The Court of Appeals held that the
+Chapter 12 estate does not “incur” the postpetition federal
+income taxes for purposes of §503(b) because it is not a
+separate taxable entity under the IRC, and noted that
+Congress repeatedly has indicated the relevance of the
+IRC’s taxable entity provisions to the Bankruptcy Code.
+Although “sympathetic” to the view that the postpetition
+tax liabilities should be dischargeable, the Court of Ap­
+
+

@@ -1,0 +1,41 @@
+10
+
+GLOBAL-TECH APPLIANCES, INC. v. SEB S. A.
+Opinion of the Court
+
+Based on this premise, it follows that the same knowl­
+edge is needed for induced infringement under §271(b). As
+noted, the two provisions have a common origin in the pre­
+1952 understanding of contributory infringement, and the
+language of the two provisions creates the same difficult
+interpretive choice. It would thus be strange to hold that
+knowledge of the relevant patent is needed under §271(c)
+but not under §271(b).
+Accordingly, we now hold that induced infringement
+under §271(b) requires knowledge that the induced acts
+constitute patent infringement.
+III
+Returning to Pentalpha’s principal challenge, we agree
+that deliberate indifference to a known risk that a patent
+exists is not the appropriate standard under §271(b). We
+nevertheless affirm the judgment of the Court of Appeals
+because the evidence in this case was plainly sufficient to
+support a finding of Pentalpha’s knowledge under the
+doctrine of willful blindness.
+A
+The doctrine of willful blindness is well established in
+criminal law. Many criminal statutes require proof that a
+defendant acted knowingly or willfully, and courts apply­
+ing the doctrine of willful blindness hold that defendants
+cannot escape the reach of these statutes by deliberately
+shielding themselves from clear evidence of critical facts
+that are strongly suggested by the circumstances. The
+traditional rationale for this doctrine is that defendants
+who behave in this manner are just as culpable as those
+who have actual knowledge. Edwards, The Criminal
+Degrees of Knowledge, 17 Mod. L. Rev. 294, 302 (1954)
+(hereinafter Edwards) (observing on the basis of English
+authorities that “up to the present day, no real doubt has
+been cast on the proposition that [willful blindness] is as
+
+

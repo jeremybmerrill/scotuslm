@@ -1,0 +1,42 @@
+14
+
+BILSKI v. KAPPOS
+Opinion of the Court
+
+Benson. The applicant there attempted to patent a proce
+dure for monitoring the conditions during the catalytic
+conversion process in the petrochemical and oil-refining
+industries. The application’s only innovation was reliance
+on a mathematical algorithm. 437 U. S., at 585–586.
+Flook held the invention was not a patentable “process.”
+The Court conceded the invention at issue, unlike the
+algorithm in Benson, had been limited so that it could still
+be freely used outside the petrochemical and oil-refining
+industries. 437 U. S., at 589–590. Nevertheless, Flook
+rejected “[t]he notion that post-solution activity, no matter
+how conventional or obvious in itself, can transform an
+unpatentable principle into a patentable process.” Id., at
+590. The Court concluded that the process at issue there
+was “unpatentable under §101, not because it contain[ed]
+a mathematical algorithm as one component, but because
+once that algorithm [wa]s assumed to be within the prior
+art, the application, considered as a whole, contain[ed] no
+patentable invention.” Id., at 594. As the Court later
+explained, Flook stands for the proposition that the prohi
+bition against patenting abstract ideas “cannot be circum
+vented by attempting to limit the use of the formula to a
+particular technological environment” or adding “insignifi
+cant postsolution activity.” Diehr, 450 U. S., at 191–192.
+Finally, in Diehr, the Court established a limitation on
+the principles articulated in Benson and Flook. The appli
+cation in Diehr claimed a previously unknown method for
+“molding raw, uncured synthetic rubber into cured preci
+sion products,” using a mathematical formula to complete
+some of its several steps by way of a computer. 450 U. S.,
+at 177. Diehr explained that while an abstract idea, law of
+nature, or mathematical formula could not be patented,
+“an application of a law of nature or mathematical for
+mula to a known structure or process may well be deserv
+ing of patent protection.” Id., at 187. Diehr emphasized
+
+

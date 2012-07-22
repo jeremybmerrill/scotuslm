@@ -1,0 +1,148 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+HOLLAND v. FLORIDA
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE ELEVENTH CIRCUIT
+No. 09–5327. Argued March 1, 2010—Decided June 14, 2010
+Petitioner Holland was convicted of first-degree murder and sentenced
+to death in Florida state court. After the State Supreme Court af
+firmed on direct appeal and denied collateral relief, Holland filed a
+pro se federal habeas corpus petition, which was approximately five
+weeks late under the 1-year statute of limitations set forth in the An
+titerrorism and Effective Death Penalty Act of 1996 (AEDPA), 28
+U. S. C. §2244(d). The record facts reveal, inter alia, that Holland’s
+court-appointed attorney, Bradley Collins, had failed to file a timely
+federal petition, despite Holland’s many letters emphasizing the im
+portance of doing so; that Collins apparently did not do the research
+necessary to find out the proper filing date, despite the fact that Hol
+land had identified the applicable legal rules for him; that Collins
+failed to inform Holland in a timely manner that the State Supreme
+Court had decided his case, despite Holland’s many pleas for that in
+formation; and that Collins failed to communicate with Holland over
+a period of years, despite Holland’s pleas for responses to his letters.
+Meanwhile, Holland repeatedly requested that the state courts and
+the Florida bar remove Collins from his case. Based on these and
+other record facts, Holland asked the Federal District Court to toll
+the AEDPA limitations period for equitable reasons. It refused, hold
+ing that he had not demonstrated the due diligence necessary to in
+voke equitable tolling. Affirming, the Eleventh Circuit held that, re
+gardless of diligence, Holland’s case did not constitute “extraordinary
+circumstances.” Specifically, it held that when a petitioner seeks to
+excuse a late filing based on his attorney’s unprofessional conduct,
+that conduct, even if grossly negligent, cannot justify equitable toll
+ing absent proof of bad faith, dishonesty, divided loyalty, mental im
+pairment, or the like.
+
+
+2
+
+HOLLAND v. FLORIDA
+Syllabus
+
+Held:
+1. Section 2244(d), the AEDPA statute of limitations, is subject to
+equitable tolling in appropriate cases. Pp. 12–21.
+(a) Several considerations support the Court’s holding. First, be
+cause AEDPA’s “statute of limitations defense . . . is not ‘jurisdic
+tional,’ ” Day v. McDonough, 547 U. S. 198, 205, 213, it is subject to a
+“rebuttable presumption” in favor “of equitable tolling,” Irwin v. De
+partment of Veterans Affairs, 498 U. S. 89, 95–96. That presump
+tion’s strength is reinforced here by the fact that “equitable princi
+ples” have traditionally “governed” substantive habeas law. Munaf v.
+Geren, 553 U. S. 674, ___, and the fact that Congress enacted AEDPA
+after Irwin and therefore was likely aware that courts, when inter
+preting AEDPA’s timing provisions, would apply the presumption,
+see, e.g., Merck & Co. v. Reynolds, 559 U. S. ___, ___. Second,
+§2244(d) differs significantly from the statutes at issue in United
+States v. Brockamp, 519 U. S. 347, 350–352, and United States v.
+Beggerly, 524 U. S. 38, 49, in which the Court held that Irwin’s pre
+sumption had been overcome. For example, unlike the subject mat
+ters at issue in those cases—tax collection and land claims—
+AEDPA’s subject matter, habeas corpus, pertains to an area of the
+law where equity finds a comfortable home. See Munaf, supra, at
+___. Brockamp, supra, at 352, distinguished. Moreover, AEDPA’s
+limitations period is neither unusually generous nor unusually com
+plex. Finally, the Court disagrees with respondent’s argument that
+equitable tolling undermines AEDPA’s basic purpose of eliminating
+delays in the federal habeas review process, see, e.g., Day, supra, at
+205–206. AEDPA seeks to do so without undermining basic habeas
+corpus principles and by harmonizing the statute with prior law, un
+der which a petition’s timeliness was always determined under equi
+table principles. See, e.g., Slack v. McDaniel, 529 U. S. 473, 483.
+Such harmonization, along with the Great Writ’s importance as the
+only writ explicitly protected by the Constitution, counsels hesitancy
+before interpreting AEDPA’s silence on equitable tolling as congres
+sional intent to close courthouse doors that a strong equitable claim
+would keep open. Pp. 12–16.
+(b) The Eleventh Circuit’s per se standard is too rigid. A “peti
+tioner” is “entitled to equitable tolling” if he shows “(1) that he has
+been pursuing his rights diligently, and (2) that some extraordinary
+circumstance stood in his way” and prevented timely filing. Pace v.
+DiGuglielmo, 544 U. S. 408, 418. Such “extraordinary circumstances”
+are not limited to those that satisfy the Eleventh Circuit’s test.
+Courts must often “exercise [their] equity powers . . . on a case-by
+case basis,” Baggett v. Bullitt, 377 U. S. 360, 375, demonstrating
+“flexibility” and avoiding “mechanical rules,” Holmberg v. Armbrecht,
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Syllabus
+327 U. S. 392, 396, in order to “relieve hardships . . . aris[ing] from a
+hard and fast adherence” to more absolute legal rules, Hazel-Atlas
+Glass Co. v. Hartford-Empire Co., 322 U. S. 238, 248. The Court’s
+cases recognize that equity courts can and do draw upon decisions
+made in other similar cases for guidance, exercising judgment in light
+of precedent, but with awareness of the fact that specific circum
+stances, often hard to predict, could warrant special treatment in an
+appropriate case. Coleman v. Thompson, 501 U. S. 722, 753, distin
+guished. No pre-existing rule of law or precedent demands the Elev
+enth Circuit’s rule. That rule is difficult to reconcile with more gen
+eral equitable principles in that it fails to recognize that, at least
+sometimes, an attorney’s unprofessional conduct can be so egregious
+as to create an extraordinary circumstance warranting equitable toll
+ing, as several other federal courts have specifically held. Although
+equitable tolling is not warranted for “a garden variety claim of ex
+cusable neglect,” Irwin, supra, at 96, this case presents far more seri
+ous instances of attorney misconduct than that. Pp. 16–19.
+2. While the record facts suggest that this case may well present
+“extraordinary” circumstances, the Court does not state its conclusion
+absolutely because more proceedings may be necessary. The District
+Court incorrectly rested its ruling not on a lack of such circum
+stances, but on a lack of diligence. Here, Holland diligently pursued
+his rights by writing Collins numerous letters seeking crucial infor
+mation and providing direction, by repeatedly requesting that Collins
+be removed from his case, and by filing his own pro se habeas petition
+on the day he learned his AEDPA filing period had expired. Because
+the District Court erroneously concluded that Holland was not dili
+gent, and because the Court of Appeals erroneously relied on an
+overly rigid per se approach, no lower court has yet considered
+whether the facts of this case indeed constitute extraordinary cir
+cumstances sufficient to warrant equitable tolling. The Eleventh
+Circuit may determine on remand whether such tolling is appropri
+ate, or whether an evidentiary hearing and other proceedings might
+indicate that the State should prevail. Pp. 19–21.
+539 F. 3d 1334, reversed and remanded.
+BREYER, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and STEVENS, KENNEDY, GINSBURG, and SOTOMAYOR, JJ., joined.
+ALITO, J., filed an opinion concurring in part and concurring in the
+judgment. SCALIA, J., filed a dissenting opinion, in which THOMAS, J.,
+joined as to all but Part I.
+
+

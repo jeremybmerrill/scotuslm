@@ -1,0 +1,48 @@
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+SCALIA, J., dissenting
+
+appearance of bad faith,” ante, at 15 (citing §1325(a)(7)),
+but it offers no explanation of why that is so, and no au
+thority supporting it.4
+● Even if bad faith were a real worry, or if it were essen
+tial to a debtor’s prospects that he invoke §362’s automatic
+stay immediately, the debtor might ask the bankruptcy
+court to excuse him from filing a statement of current
+income, so that it determines his “currently monthly in
+come” at a later date. See §101(10A)(A)(ii). The Court
+dismisses this alternative, explaining that if the Code
+requires a mechanical approach this solution would “im
+properly undermine” it, and if the Code allows exceptions
+for changed circumstances the solution is unnecessary.
+Ante, at 16. The second premise is correct, but the first is
+not. Congress does not pursue its purposes at all costs.
+Rodriguez v. United States, 480 U. S. 522, 525–526 (1987)
+(per curiam). Here it may have struck the very balance
+the Court thinks critical by creating a fixed formula but
+leaving leeway as to the time to which it applies.5
+——————
+4 Neither of the two Court of Appeals cases the Court cites—In re
+Myers, 491 F. 3d 120, 125 (CA3 2007), and Neufeld v. Freeman, 794
+F. 2d 149, 153 (CA4 1986)—involved a debtor’s delaying his petition
+until his circumstances would permit the court to confirm a repayment
+plan.
+5 The Court observes that not every debtor will benefit from this ex
+ception, ante, at 16, and n. 6, since §521(i)(3) provides that a bank
+ruptcy court may not grant a request (which may be made after the
+deadline for filing the current-income schedule) for an extension of
+more than 45 days to file such a schedule. But the statute appears to
+assume that a court may excuse the filing of such a schedule altogether:
+A debtor is required to file a schedule in the first instance “unless the
+court orders otherwise,” §521(a)(1)(B) (emphasis added).
+And
+§101(10A)(A)(ii)’s provision of a method for calculating current monthly
+income “if the debtor does not file the schedule of current income
+required by section 521(a)(1)(B)(ii)” makes little sense unless a court
+can excuse the failure to do so, since an unexcused failure to do so
+would be a basis for dismissing the case, see §521(i). Allowing courts to
+excuse such schedules does not render superfluous §521(i)(3)’s authori
+
+

@@ -1,0 +1,70 @@
+16
+
+WILLIAMS v. ILLINOIS 
+
+BREYER, J., concurring
+Appendix to opinion of BREYER, J. 
+
+
+A. Profile of Suspect’s Sample (Summary of Lab Process)
+1. Technician #1:
+Evidence Examination
+Forensics lab receives
+crime-scene evidence.
+Tech #1 examines the
+evidence for biological
+fluids/materials and tests
+whether the results reveal
+the presence of a biological
+sample. If present, Tech
+#1 takes cuttings or
+swabbings from evidence
+for DNA extraction.
+4. Technician #4:
+Amplification
+Tech #4 amplifies (copies)
+the extracted DNA using
+polymerase chain reaction
+(PCR), i.e., uses a highly
+automated process to target, tag, and copy specific
+locations (loci), raising
+them to a detectable level.
+
+5. Technicians #5 and #6:
+Electrophoresis
+
+2. Technician #2:
+Extraction
+Tech #2 extracts DNA
+from cuttings or swabbings, i.e., adds chemical reagents to the
+sample that break open
+the cells and free up the
+DNA so that it is accessible for testing.
+
+3. Technician #3:
+Quantification
+Tech #3 measures the
+amount of DNA that is
+present in the sample to
+ensure that there is
+enough DNA for testing.
+6. Technicians
+#5 and #6: Report
+Techs #5 and #6 use
+software to determine
+allele calls (i.e.,
+length) and produce a
+report. The software
+measures the length
+of the DNA fragments
+produced by electrophoresis, determines
+the alleles that correspond to the fragments, and compiles a
+DNA profile for the
+sample. The Techs
+record what the allele
+values are at each loci
+analyzed, which, once
+compiled, constitute a
+DNA profile.
+
+

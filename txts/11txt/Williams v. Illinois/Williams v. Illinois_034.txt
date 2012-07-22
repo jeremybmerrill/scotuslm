@@ -1,0 +1,45 @@
+28
+
+WILLIAMS v. ILLINOIS
+Opinion of ALITO, J.
+
+IV 
+
+A
+
+Even if the Cellmark report had been introduced for its
+truth, we would nevertheless conclude that there was no
+Confrontation Clause violation. The Confrontation Clause
+refers to testimony by “witnesses against” an accused.
+Both the noted evidence scholar James Henry Wigmore
+and Justice Harlan interpreted the Clause in a strictly
+literal sense as referring solely to persons who testify in
+court, but we have not adopted this narrow view. It has
+been said that “[t]he difficulty with the Wigmore-Harlan
+view in its purest form is its tension with much of the
+apparent history surrounding the evolution of the right of
+confrontation at common law.” White v. Illinois, 502 U. S.
+346, 360 (1992) (THOMAS, J., concurring). “[T]he principal
+evil at which the Confrontation Clause was directed,” the
+Court concluded in Crawford, “was the civil-law mode of
+criminal procedure, and particularly its use of ex parte
+examinations as evidence against the accused.” 541 U. S.,
+at 50. “[I]n England, pretrial examinations of suspects
+——————
+realized while testifying at a pretrial hearing that there was an error in
+the lab’s report and that the DNA profile attributed to the accused was
+actually that of the victim. The lesson of this cautionary tale is nothing
+more than the truism that it is possible for an apparently incriminating
+DNA profile to be mistakenly attributed to an accused. But requiring
+that the lab analyst or analysts who produced the DNA profile be called
+as prosecution witnesses is neither sufficient nor necessary to prevent
+such errors. Since samples may be mixed up or contaminated at many
+points along the way from a crime scene to the lab, calling one or more
+lab analysts will not necessarily catch all such mistakes. For example,
+a mistake might be made by a clerical employee responsible for receiving shipments of samples and then providing them to the lab’s technicians. What is needed is for the trier of fact to make sure that the
+evidence, whether direct or circumstantial, rules out the possibility of
+such mistakes at every step along the way. And in the usual course of
+authentication, defense counsel will have access to sufficient information to inquire into, question, or challenge the procedures used by a
+laboratory if this seems to be a prudent and productive strategy.
+
+

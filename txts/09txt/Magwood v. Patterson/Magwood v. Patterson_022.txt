@@ -1,0 +1,44 @@
+Cite as: 561 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+D
+The dissent’s concern that our rule will allow “petition
+ers to bring abusive claims so long as they have won any
+victory pursuant to a prior federal habeas petition,” post,
+at 14, is greatly exaggerated. A petitioner may not raise
+in federal court an error that he failed to raise properly in
+state court in a challenge to the judgment reflecting the
+error. If a petitioner does not satisfy the procedural re
+quirements for bringing an error to the state court’s atten
+tion—whether in trial, appellate, or habeas proceedings,
+as state law may require—procedural default will bar
+federal review. See Coleman v. Thompson, 501 U. S. 722,
+729–730 (1991); O’Sullivan v. Boerckel, 526 U. S. 838, 848
+(1999) (stating that the petitioner’s “failure to present
+three of his federal habeas claims to the [state court] in a
+timely fashion has resulted in a procedural default of
+those claims”). In this case, the State argued that Mag
+wood procedurally defaulted his fair-warning claim by
+failing to raise it properly in his collateral challenge to the
+1986 judgment, and sought dismissal on that ground.
+Only after ruling that Magwood did not procedurally
+default the claim did the District Court sua sponte con
+sider whether §2244(b) barred review.14 We leave that
+procedural-default ruling to the Court of Appeals to review
+in the first instance. Here, we underscore only that proce
+dural-default rules continue to constrain review of claims
+in all applications, whether the applications are “second or
+——————
+[the petitioner] is attempting to challenge the constitutionality of a
+proceeding which obviously occurred after he filed, and obtained relief,
+in his first habeas petition”).
+14 See 481 F. Supp. 2d 1262, 1267 (MD Ala. 2007) (“This court split
+the proceedings on the current petition into two stages: Stage I (deter
+mining whether the claims were procedurally defaulted) and Stage II
+(considering the merits of the claims that were not procedurally de
+faulted)”). Few of Magwood’s claims survived the initial cut.
+
+

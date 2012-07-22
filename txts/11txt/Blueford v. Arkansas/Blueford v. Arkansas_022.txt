@@ -1,0 +1,39 @@
+10
+
+BLUEFORD v. ARKANSAS
+SOTOMAYOR, J., dissenting
+
+against which the Double Jeopardy Clause guards, a trial
+judge must tread with special care where a mistrial would
+“help the prosecution, at a trial in which its case is going
+badly, by affording it another, more favorable opportunity
+to convict the accused.” Gori v. United States, 367 U. S.
+364, 369 (1961); see Green, 355 U. S., at 188.
+A jury’s genuine inability to reach a verdict constitutes
+manifest necessity. But in an acquittal-first jurisdiction, a
+jury that advances to the consideration of a lesser included
+offense has not demonstrated an inability to decide a defendant’s guilt or innocence on a greater—it has acquitted on the greater. Under Green, that is unquestionably
+true if the jury convicts on the lesser. See id., at 189. It
+would be anomalous if the Double Jeopardy Clause offered
+less protection to a defendant whose jury has deadlocked
+on the lesser and thus convicted of nothing at all. See
+Stone, 31 Cal. 3d, at 511–512, n. 5, 646 P. 2d, at 815, n. 5.
+I would therefore hold that the Double Jeopardy Clause
+requires a trial judge, in an acquittal-first jurisdiction, to
+honor a defendant’s request for a partial verdict before
+declaring a mistrial on the ground of jury deadlock.
+Courts in acquittal-first jurisdictions have so held. See,
+e.g., Tate, 256 Conn., at 285–287, 773 A. 2d, at 324–325;
+Whiteaker v. State, 808 P. 2d 270, 274 (Alaska App. 1991);
+Stone, 31 Cal. 3d, at 519, 646 P. 2d, at 820; State v.
+Pugliese, 120 N. H. 728, 730, 422 A. 2d 1319, 1321 (1980)
+(per curiam); State v. Castrillo, 90 N. M. 608, 611, 566
+P. 2d 1146, 1149 (1977); see also N. Y. Crim. Proc. Law
+Ann. §310.70 (West 2002). Requiring a partial verdict in
+an acquittal-first jurisdiction ensures that the jurisdiction
+takes the bitter with the sweet. In general, an acquittalfirst instruction increases the likelihood of conviction on a
+greater offense. See People v. Boettcher, 69 N. Y. 2d 174,
+182, 505 N. E. 2d 594, 597 (1987). True, such an instruction may also result in deadlock on a greater, preventing a
+State “from obtaining a conviction on the lesser charge
+
+

@@ -1,0 +1,639 @@
+Cite as: 565 U. S. ____ (2012)
+
+1
+
+SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–704
+_________________
+
+CURT MESSERSCHMIDT, ET AL., PETITIONERS v.
+
+BRENDA MILLENDER, AS EXECUTOR OF THE
+
+ESTATE OF AUGUSTA MILLENDER,
+
+DECEASED, ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[February 22, 2012]
+
+
+JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG
+joins, dissenting.
+The fundamental purpose of the Fourth Amendment’s
+warrant clause is “to protect against all general searches.”
+Go-Bart Importing Co. v. United States, 282 U. S. 344, 357
+(1931). The Fourth Amendment was adopted specifically
+in response to the Crown’s practice of using general warrants and writs of assistance to search “suspected places”
+for evidence of smuggling, libel, or other crimes. Boyd v.
+United States, 116 U. S. 616, 625–626 (1886). Early patriots railed against these practices as “the worst instrument
+of arbitrary power” and John Adams later claimed that
+“the child Independence was born” from colonists’ opposition to their use. Id., at 625 (internal quotation marks
+omitted).
+To prevent the issue of general warrants on “loose,
+vague or doubtful bases of fact,” Go-Bart Importing Co.,
+282 U. S., at 357, the Framers established the inviolable
+principle that should resolve this case: “no Warrants shall
+issue, but upon probable cause . . . and particularly describing the . . . things to be seized.” U. S. Const., Amdt. 4.
+That is, the police must articulate an adequate reason to
+search for specific items related to specific crimes.
+
+
+2
+
+MESSERSCHMIDT v. MILLENDER
+SOTOMAYOR, J., dissenting
+
+In this case, police officers investigating a specific, nongang-related assault committed with a specific firearm (a
+sawed-off shotgun) obtained a warrant to search for all
+evidence related to “any Street Gang,” “[a]ny photographs
+. . . which may depict evidence of criminal activity,” and
+“any firearms.” App. 52. They did so for the asserted
+reason that the search might lead to evidence related to
+other gang members and other criminal activity, and that
+other “[v]alid warrants commonly allow police to search
+for ‘firearms and ammunition.’ ” See infra, at 8–9. That
+kind of general warrant is antithetical to the Fourth
+Amendment.
+The Court nonetheless concludes that the officers are
+entitled to qualified immunity because their conduct was
+“objectively reasonable.” I could not disagree more. All
+13 federal judges who previously considered this case
+had little difficulty concluding that the police officers’
+search for any gang-related material violated the Fourth
+Amendment. See App. to Pet. for Cert. 28–29, 45, n. 7,
+73, 94, 157–158. And a substantial majority agreed that
+the police’s search for both gang-related material and all
+firearms not only violated the Fourth Amendment, but
+was objectively unreasonable. Like them, I believe that
+any “reasonably well-trained officer in petitioner’s position
+would have known that his affidavit failed to establish
+probable cause.” Malley v. Briggs, 475 U. S. 335, 345
+(1986).
+The Court also hints that a police officer’s otherwise
+unreasonable conduct may be excused by the approval of
+a magistrate, or more disturbingly, another police officer.
+Ante, at 16–18. That is inconsistent with our focus on the
+objective reasonableness of an officer’s decision to submit
+a warrant application to a magistrate, and we long ago
+rejected it. See Malley, 475 U. S., at 345–346.
+The Court’s analysis bears little relationship to the
+record in this case, our precedents, or the purposes under-
+
+
+Cite as: 565 U. S. ____ (2012)
+
+3
+
+SOTOMAYOR, J., dissenting
+
+lying qualified immunity analysis. For all these reasons,
+I respectfully dissent.
+I
+The Court holds that a well-trained officer could have
+reasonably concluded that there was probable cause to
+search the Millenders’ residence for any evidence of affiliation with “any Street Gang,” and “all handguns, rifles, or
+shotguns of any caliber, or any firearms capable of firing
+ammunition.” App. 52.1 I cannot agree.
+A
+Most troubling is the Court’s determination that petitioners reasonably could have concluded that they had
+probable cause to search for all evidence of any gang affiliation in the Millenders’ home. The Court reaches this
+result only by way of an unprecedented, post hoc reconstruction of the crime that wholly ignores the police’s own
+conclusions, as well as the undisputed facts presented to
+the District Court.
+The Court primarily theorizes that “[a] reasonable officer could certainly view Bowen’s attack as motivated
+not by the souring of his romantic relationship with Kelly
+but instead by a desire to prevent her from disclosing
+details of his gang activity to the police.” Ante, at 13. The
+majority therefore dismisses as “misleading” the Millenders’ characterization of the case as a “domestic dispute,”
+insisting that Detective Messerschmidt could have reasonably thought that the crime was gang related. See
+ante, at 13–14.2
+——————
+1 Not even the Court defends the warrant’s authorization to search for
+“[a]ny photographs . . . which may depict evidence of criminal activity.”
+2 The Court implies Detective Messerschmidt did not consider the
+crime “solely . . . a domestic dispute” because he labeled it a “spousal
+assault and an assault with a deadly weapon.” Ante, at 13 (internal
+quotation marks omitted). Solely domestic disputes often involve gun
+violence, however. See Sorenson & Weibe, Weapons in the Lives of
+
+
+4
+
+MESSERSCHMIDT v. MILLENDER
+SOTOMAYOR, J., dissenting
+
+The police flatly rejected that hypothesis, however, concluding that the crime was a domestic dispute that was
+not in any way gang related. Detective Messerschmidt’s
+deposition is illustrative.
+“Q: So as far as you knew, it was just sort of a spousalabuse-type case where the perpetrator happened to be
+in a gang, right?
+“A: Correct.
+“Q: So you didn’t have any reason to believe that the
+assault on Kelly was any sort of gang crime, did you?
+“A: No.” Record in No. CV 05–2298 DDP (RZx) (CD
+Cal.) (hereinafter Record), Doc. 51, (Exh. X), p. 120
+(hereinafter Deposition).3
+The “Crime Analysis” forms prepared by the police like——————
+Battered Women, 94 Am. J. Pub. Health 1412, 1413 (2004) (noting
+more than one-third of female domestic violence shelter residents in
+California reported having been threatened or harmed with a firearm).
+That was the case here. In any event, the Court’s reading of Detective
+Messerschmidt’s affidavit is incompatible with his testimony that the
+crime was “just sort of a spousal-abuse-type case,” not a “gang crime.”
+See supra this page.
+3 By suggesting that courts assessing qualified immunity should ignore police officers’ testimony about the information they possessed at
+the time of the search, ante, at 14–15, n. 6, the Court misreads Harlow
+v. Fitzgerald, 457 U. S. 800, 815–819 (1982), and Anderson v.
+Creighton, 483 U. S. 635, 645 (1987). In Harlow, we adopted a qualified
+immunity test focusing on an officer’s objective good faith, rather than
+whether the officer searched “with the malicious intention to cause a
+deprivation of constitutional rights or other injury.” 457 U. S., at 815.
+As we have explained, “examination of the information possessed by the
+searching officials . . . does not reintroduce into qualified immunity
+analysis the inquiry into officials’ subjective intent that Harlow sought
+to minimize.” Anderson, 483 U. S., at 641. It is therefore highly
+relevant that Detective Messerschmidt testified that he lacked “any
+reason” to consider the crime gang related, supra this page, and possessed no “information” that there were handguns in the Millenders’
+home, infra, at 11. Courts cannot ignore information in crime analysis
+forms, ballistic reports, or victim interviews by labeling such information “conclusions.”
+
+
+Cite as: 565 U. S. ____ (2012)
+
+5
+
+SOTOMAYOR, J., dissenting
+
+wise identified Bowen as a “Mona Park Crip” gang member, but did not check off “gang-related” as a motive for the
+attack. See App. 41, 44 (Crime Analysis Supplemental
+Form–M. O. Factors). And the District Court noted it was
+undisputed that Detective Messerschmidt “had no reason
+to believe Bowen’s crime was a ‘gang’ crime.” App. to Pet.
+for Cert. 115.4
+The police’s conclusions matched the victim’s own account of the attack. Kelly asked police officers to help her
+move out because Bowen “ha[d] a domestic violence on his
+record,” had “hit [her] once or twice” already, had repeatedly threatened her “You’ll never leave me. I’ll kill you
+if you leave me,” and she was “planning on breaking up”
+with him. Record, Doc. 51 (Exh. C), pp. 5–6 (hereinafter
+Kelly Interview). As Kelly described the confrontation, it
+was only after she fled to her car in order to leave that
+Bowen reemerged from their shared apartment with the
+shotgun and told her “I’m gonna kill your ass right here if
+you take off,” consistent with his prior threats. Id., at 7–8.
+Every piece of information, therefore, accorded with Detective Messerschmidt’s conclusion: The crime was domestic
+violence that was not gang related.5
+——————
+4 The Court is wrong to imply that courts should not consider “facts
+outside the affidavit,” but within the officers’ possession, when assessing qualified immunity. Ante, at 10, n. 2. Our precedents make
+clear that the objective reasonableness of an officer’s conduct is judged
+“in light of clearly established law and the information the officers
+possessed.” Wilson v. Layne, 526 U. S. 603, 615 (1999). If an officer
+possesses information indicating that he lacks probable cause to search,
+and that information was not presented to the neutral magistrate when
+he approved the search, it is particularly likely that “a reasonably well
+trained officer would have known that the search was illegal despite
+the magistrate’s authorization.” United States v. Leon, 468 U. S. 897,
+922, n. 23 (1984).
+5 To support its theory that Bowen attacked Kelly to keep her silent
+about his gang activity, the majority relies principally on its claim that
+Bowen yelled, “ ‘I told you never to call the cops on me bitch!’ ” ante, at
+2, citing it no less than five times. See, ante, at 11 (Bowen “attempt[ed]
+
+
+6
+
+MESSERSCHMIDT v. MILLENDER
+SOTOMAYOR, J., dissenting
+
+Unlike the Members of this Court, Detective Messerschmidt alone had 14 years of experience as a peace officer, “hundreds of hours of instruction on the dynamics of
+gangs and gang trends,” received “specialized training in
+the field of gang related crimes,” and had been “involved
+in hundreds of gang related incidents, contacts, and or
+arrests.” App. 53–54. The Court provides no justification
+for sweeping aside the conclusions he reached on the basis
+of his far greater expertise, let alone the facts found by the
+District Court. We have repeatedly and recently warned
+appellate courts, “far removed from the scene,” against
+second-guessing the judgments made by the police or
+reweighing the facts as they stood before the district court.
+Ryburn v. Huff, 565 U. S. —, — (2012) (per curiam) (slip
+op., at 6–8). The majority’s decision today is totally inconsistent with those principles.
+Qualified immunity analysis does not direct courts to
+play the role of crime scene investigators, second-guessing
+police officers’ determinations as to whether a crime was
+committed with a handgun or a shotgun, or whether vio——————
+to murder” Kelly “on the asserted ground that she had ‘call[ed] the cops’
+on him”); see also ante, at 1, 13. Bowen, however, never made that
+statement. Though it appears in the warrant application, the words
+are Messerschmidt’s—taken from his own inaccurate notes of Kelly’s
+account of the crime. What Kelly actually said during her interview
+was that as soon as the police deputies left, Bowen “came out of nowhere talking about, ‘Did you call the police on me? You called the
+police on me,’ ” to which Kelly responded “no one called the police on
+you . . . . [I]nstead of arguing and fighting with you I just want to get
+my shit done.” Kelly Interview 7; compare ibid. with Record, Doc. 51
+(Exh. B), p. 3 (Messerschmidt’s narrative of interview with Kelly). Only
+after Kelly started to leave did Bowen exclaim “oh it’s like that. It’s
+like that,” retrieve a gun, and threaten to shoot her if she left. Kelly
+Interview 7–8. That Bowen was “ ‘angry,’ ” ante, at 14, n. 5, because she
+had called the sheriff's department for assistance reflected exactly what
+Kelly and the police expected at the outset—that Bowen “would give
+her a hard time about moving out.” App. 38 (sheriff’s department
+incident report).
+
+
+Cite as: 565 U. S. ____ (2012)
+
+7
+
+SOTOMAYOR, J., dissenting
+
+lence was gang related or a domestic dispute. Indeed,
+we have warned courts against asking “whether another
+reasonable, or more reasonable, interpretation of the
+events can be constructed five years after the fact.”
+Hunter v. Bryant, 502 U. S. 224, 228 (1991) (per curiam).
+The inquiry our precedents demand is not whether different conclusions might conceivably be drawn from the
+crime scene. Rather, it is whether “a reasonably welltrained officer in petitioner’s position would have known
+that his affidavit failed to establish probable cause.”
+Malley, 475 U. S., at 345. The operative question in this
+case, therefore, is whether—given that, as petitioners
+comprehended, the crime itself was not gang related—a
+reasonable officer nonetheless could have believed he had
+probable cause to seek a warrant to search the suspect’s
+residence for all evidence of affiliation not only with the
+suspect’s street gang, but “any Street Gang.” He could
+not.
+The Court offers two secondary explanations for why a
+search for gang-related items might have been justified,
+but they are equally unpersuasive. First, the majority
+suggests that such evidence hypothetically “might prove
+helpful in impeaching Bowen or rebutting various defenses he could raise at trial.” Ante, at 15. That is a nonstarter. The Fourth Amendment does not permit the police
+to search for evidence solely because it could be admissible
+for impeachment or rebuttal purposes. If it did, the police
+would be equally entitled to obtain warrants to rifle
+through the papers of anyone reasonably suspected of a
+crime for all evidence of his bad character, Fed. Rule Evid.
+404(a)(2)(B)(i), or any evidence of any “crime, wrong, or
+other act” that might prove the defendant’s “motive, opportunity, intent, preparation, plan, knowledge, identity,
+absence of mistake, or lack of accident,” Fed. Rule Evid.
+404(b)(2). Indeed, the majority’s rationale presumably
+would authorize the police to search the residence of every
+
+
+8
+
+MESSERSCHMIDT v. MILLENDER
+SOTOMAYOR, J., dissenting
+
+member of Bowen’s street gang for similar weapons—
+which likewise “might [have] prove[d] helpful in impeaching Bowen or rebutting various defenses he could raise at
+trial.” Ante, at 15. It has long been the case, however,
+that such general searches, detached from probable cause,
+are impermissible. See, e.g., Go-Bart Importing Co., 282
+U. S., at 357. By their own admission, however, the officers were not searching for gang-related indicia to bolster
+some hypothetical impeachment theory, but for other
+reasons: because “photos sought re gang membership
+could be linked with other gang members, evidencing
+criminal activity as gang affiliation is an enhancement to
+criminal charges.” App. 181; see also id., at 145. That
+kind of fishing expedition for evidence of unidentified
+criminal activity committed by unspecified persons was
+the very evil the Fourth Amendment was intended to
+prevent.
+Finally, the Court concludes that “even if this were
+merely a domestic dispute, a reasonable officer could still
+conclude that gang paraphernalia found at the Millenders’
+residence would aid in the prosecution of Bowen by, for
+example, demonstrating Bowen’s connection to other
+[unspecified] evidence found there.” Ante, at 15. That is
+difficult to understand. The police were well aware before
+obtaining a warrant that “other persons associated with
+the home, the Millender family members, were active
+Mona Park Crip gang members.” App. 28. Simply finding
+gang-related paraphernalia, therefore, would have done
+little to establish probable cause that particular evidence
+found in the home was connected to Bowen, rather than
+any of the several other active gang members who resided
+full time at the Millender home.6 Moreover, it would have
+——————
+6 The Court suggests that even if gang-related evidence would be
+inconclusive generally, evidence bearing Bowen’s particular gang moniker could have demonstrated Bowen’s connection to the residence.
+
+
+Cite as: 565 U. S. ____ (2012)
+
+9
+
+SOTOMAYOR, J., dissenting
+
+done nothing to establish that Bowen had committed the
+non-gang-related crime specified in the warrant.7
+B
+The Court also errs by concluding that petitioners could
+have reasonably concluded that they had probable cause
+to search for all firearms. Notably absent from the Court’s
+discussion is any acknowledgment of the actual basis for
+petitioners’ search. The police officers searched for all
+firearms not for the reasons hypothesized by the majority,
+but because they determined that “[v]alid warrants commonly allow police to search for ‘firearms and ammunition,’ ” and that “[h]ere, any caliber of shotgun or receipts
+would show possession of and/or purchase of guns.” Id., at
+144, 180–181; see also Brief for Appellant in No. 07–55518
+(CA9), p. 41 (hereinafter CA9 Brief). It is small wonder
+that the District Court found these arguments “nonsensical and unpersuasive.” App. to Pet. for Cert. 157. It bears
+repeating that the Founders adopted the Fourth Amendment to protect against searches for evidence of unspecified crimes. And merely possessing other firearms is not a
+crime at all. See generally District of Columbia v. Heller,
+554 U. S. 570 (2008).8
+——————
+But the warrant did not authorize a search for items bearing Bowen’s
+moniker, but rather for items related to “any Street Gang,” including
+countless street gangs of which Bowen was not a member. App. 52.
+Even under the Court’s interpretation, therefore, the warrant was
+hopelessly overbroad and invalid.
+7 The police also could not search for gang-related evidence for its own
+sake. Mere membership in a gang is not a crime under California law.
+See People v. Gardeley, 14 Cal. 4th 605, 623, 927 P. 2d 713, 725 (1996).
+8 Although the Court recites additional facts about Bowen’s background and arrest record, ante, at 2–3, none of these facts were disclosed to the magistrate. The police cannot rationalize a search post
+hoc on the basis of information they failed to set forth in their warrant
+application to a neutral magistrate. Rather, “[i]t is elementary that in
+passing on the validity of a warrant, the reviewing court may consider
+only information brought to the magistrate’s attention.” Aguilar v.
+
+
+10
+
+MESSERSCHMIDT v. MILLENDER
+SOTOMAYOR, J., dissenting
+
+By justifying the officers’ actions on reasons of its own
+invention, the Court ignores the reasons the officers actually gave, as well as the facts upon which this case was
+decided below. The majority’s analysis—akin to a rationalbasis test—is thus far removed from what qualified
+immunity analysis demands. Even if the police had
+searched for the reasons the Court proposes, however, I
+still would find it inappropriate to afford them qualified
+immunity.
+The Court correctly recognizes that to satisfy the Fourth
+Amendment the police were required to demonstrate
+probable cause that (1) other firearms could be found at
+the Millenders’ residence; and (2) such weapons were
+illegal or were “ ‘possess[ed] . . . with the intent to use
+them as a means of committing a public offense.’ ” Ante, at
+12 (quoting Cal. Penal Code Ann. §1524(a)(3) (West
+2011)). The warrant failed to establish either.
+The majority has little difficulty concluding that because
+Bowen fired one firearm, it was reasonable for the police
+to conclude not only that Bowen must have possessed
+others, but that he must be storing these other weapons
+at his 73-year-old former foster mother’s home.9 Again,
+however, this is not what the police actually concluded, as
+Detective Messerschmidt’s deposition makes clear.
+“Q: Did you have any reason to believe there would be
+——————
+Texas, 378 U. S. 108, 109, n. 1 (1964); see also United States v. Jacobsen, 466 U. S. 109, 112 (1984). Likewise, a police officer cannot obtain
+qualified immunity for searching pursuant to a warrant by relying
+upon facts outside that warrant, as evinced by Malley’s focus on
+“whether a reasonably well-trained officer in petitioner’s position would
+have known that his affidavit failed to establish probable cause.”
+Malley v. Briggs, 475 U. S. 335, 345 (1986) (emphasis added).
+9 The majority ignores that Bowen retrieved the shotgun that he fired
+from the apartment he shared with Kelly, not the Millenders’ home.
+Kelly provided no indication that Bowen possessed other guns or that
+he stored them at his former foster mother’s home.
+
+
+Cite as: 565 U. S. ____ (2012)
+
+11
+
+SOTOMAYOR, J., dissenting
+
+any automatic weapons in the house? 
+
+“A: No.
+
+“Q: Did you have any reason to believe there would be 
+
+any hand guns in the house? 
+
+“A: I wasn’t given information that there were.” Deposition 120.
+
+Undaunted, the majority finds that a well-trained officer
+could have concluded on this information that he had
+probable cause to search for “[a]ll hand guns, . . . [a]ll
+caliber of ammunition, miscellaneous gun parts, gun
+cleaning kits, holsters which could hold or have held any
+caliber handgun being sought,” and “[a]ny receipts or
+paperwork, showing the purchase, ownership, or possession of the handguns being sought.” App. 52. That is
+puzzling. If any aspect of the Fourth Amendment is clearly established, it is that the police cannot reasonably
+search—even pursuant to a warrant—for items that they
+do not have “any reason to believe” will be present. The
+Court’s conclusion to the contrary simply reads the “probable cause” requirement out of the Fourth Amendment.
+Even assuming that the police reasonably could have
+concluded that Bowen possessed other guns and was
+storing them at the Millenders’ home, I cannot agree that
+the warrant provided probable cause to believe any weapon possessed in a home in which 10 persons regularly
+lived—none of them the suspect in this case—was either
+“contraband or evidence of a crime.” Ornelas v. United
+States, 517 U. S. 690, 696 (1996). The warrant set forth no
+specific facts or particularized explanation establishing
+probable cause to believe that other guns found in the
+home were connected to the crime specified in the warrant
+or were otherwise illegal.10 While the Court hypothesizes
+——————
+10 Augusta Millender was a 73-year-old grandmother living in a dangerous part of Los Angeles. It would not have been unreasonable to
+imagine that she validly possessed a weapon for self-defense, as turned
+
+
+12
+
+MESSERSCHMIDT v. MILLENDER
+SOTOMAYOR, J., dissenting
+
+that the police could have searched for all firearms to
+uncover evidence of yet unnamed crimes, ante, at 11–12,
+the warrant specified that the police were investigating
+one particular crime—“an assault with a deadly weapon.”
+App. 55. And the police officers confirmed that their
+search was targeted to find the gun related to “the crime
+at issue.” CA9 Brief 42; see also App. 52 (obtaining authorization to search for “the item being sought and or
+believed to be evidence in the case being investigated on
+this warrant” (emphasis added)).
+The police told the Ninth Circuit that they searched for
+all firearms not because, as the majority hypothesizes,
+“there would be additional illegal guns among others that
+Bowen owned,” ante, at 11–12, but on the dubious theory
+that “Kelly could have been mistaken in her description of
+the gun.” App. to Pet. for Cert. 20–21. The Ninth Circuit
+properly dismissed that argument as carrying “little
+force.” Id., at 21. Its finding is unimpeachable, given that
+Kelly presented the police with a photograph of Bowen
+holding the specific gun used in the crime, and the police,
+the victim, and a witness to the crime all identified the
+gun as a sawed-off shotgun. See id., at 20, 21, 24, 28.
+Finally, the majority suggests that the officers could
+have reasonably believed that seizure of all firearms at the
+Millenders’ residence was justified because those weapons
+might be possessed by Bowen “ ‘with the intent to use
+them as a means of committing a public offense.’ ” Ante, at
+12. But the warrant specified that the police sought only
+the shotgun used in this crime for that purpose. See App.
+59 (statement of probable cause) (“Your Affiant also believes that the items sought will be in the possession of
+Jerry Ray Bowen and the recovery of the weapon could be
+invaluable in the successful prosecution of the suspect
+involved in this case, and the curtailment of further
+——————
+out to be the case.
+
+
+Cite as: 565 U. S. ____ (2012)
+
+13
+
+SOTOMAYOR, J., dissenting
+
+crimes being committed” (emphasis added)).
+II
+The Court also finds error in the Court of Appeals’
+failure to find “pertinent” the fact that the officer sought
+approval of his warrant from a magistrate.11 Ante, at 18.
+Whether Detective Messerschmidt presented his warrant
+application to a magistrate surely would be “pertinent” to
+demonstrating his subjective good faith.12 But qualified
+immunity does not turn on whether an officer is motivated
+by good intentions or malice, but rather on the “objective
+reasonableness of an official’s conduct.” Harlow v. Fitzgerald, 457 U. S. 800, 818 (1982).
+The majority asserts, without citation, that the magistrate’s approval is relevant to objective reasonableness.
+That view, however, is expressly contradicted by our holding in Malley v. Briggs, 475 U. S. 335. There, we found
+that a police officer is not “entitled to rely on the judgment
+of a judicial officer in finding that probable cause exists
+and hence issuing the warrant,” and explained that “[that]
+view of objective reasonableness is at odds with our development of that concept in Harlow and [United States v.
+Leon, 468 U. S. 897 (1984)].” Id., at 345. The appropriate
+qualified immunity analysis, we held, was not whether an
+——————
+11 Under California law, magistrates are the officials responsible for
+issuing search warrants. Cal. Penal Code Ann. §1523 (West 2011).
+12 To be clear, no one suggests petitioners acted with malice or intended to be “misleading in omitting . . . facts,” ante, at 10, n. 2, that
+illustrate why it would have been objectively unreasonable to search for
+the reasons the Court proposes. It is hardly surprising, for instance,
+that Detective Messerschmidt did not include in his affidavit further
+facts affirming that the crime was not gang related, given that he did
+not believe the crime was gang related and did not search for gangrelated material for that reason. See supra, at 7–8. The affidavit and
+warrant were perfectly consistent with the officers’ stated reasons for
+their search—just not with the Court’s own theories.
+
+
+14
+
+MESSERSCHMIDT v. MILLENDER
+SOTOMAYOR, J., dissenting
+
+officer reasonably relied on a magistrate’s probable cause
+determination, but rather “whether a reasonably welltrained officer in petitioner’s position would have known
+that his affidavit failed to establish probable cause and
+that he should not have applied for the warrant.” Ibid.
+(emphasis added).13 In such a case, “the officer’s application for a warrant [would] not [be] objectively reasonable,
+because it create[s] the unnecessary danger of an unlawful
+arrest.” Ibid. When “no officer of reasonable competence
+would have requested the warrant,” a “magistrate [who]
+issues the warrant [makes] not just a reasonable mistake,
+but an unacceptable error indicating gross incompetence
+or neglect of duty.” Id., at 346, n. 9. In such cases, “[t]he
+officer . . . cannot excuse his own default by pointing to the
+greater incompetence of the magistrate.” Ibid.
+In cases in which it would be not only wrong but unreasonable for any well-trained officer to seek a warrant,
+allowing a magistrate’s approval to immunize the police
+officer’s unreasonable action retrospectively makes little
+sense. By motivating an officer “to reflect, before submitting a request for a warrant, upon whether he has a reasonable basis for believing that his affidavit establishes
+probable cause,” we recognized that our qualified immunity precedents had the “desirable” effect of “reduc[ing] the
+likelihood that the officer’s request for a warrant will be
+premature,” leading to “a waste of judicial resources” or
+“premature arrests.” Id., at 343. To the extent it proposes
+to cut back upon Malley, the majority will promote the
+opposite result—encouraging sloppy police work and exacerbating the risk that searches will not comport with
+the requirements of the Fourth Amendment.
+——————
+13 Two
+
+Justices wrote separately, disagreeing with the majority because they believed that “substantial weight should be accorded the
+judge’s finding of probable cause.” Malley, 475 U. S., at 346 (Powell, J.,
+joined by Rehnquist, C. J., concurring in part and dissenting in part).
+
+
+Cite as: 565 U. S. ____ (2012)
+
+15
+
+SOTOMAYOR, J., dissenting
+
+The Court also makes much of the fact that Detective
+Messerschmidt sent his proposed warrant application to
+two superior police officers and a district attorney for
+review. Giving weight to that fact would turn the Fourth
+Amendment on its head. This Court made clear in Malley
+that a police officer acting unreasonably cannot obtain
+qualified immunity on the basis of a neutral magistrate’s
+approval. It would be passing strange, therefore, to immunize an officer’s conduct instead based upon the approval of other police officers and prosecutors.14 See Johnson v. United States, 333 U. S. 10, 14 (1948) (opinion of
+Jackson, J.) (“When the right of privacy must reasonably
+yield to the right of search is, as a rule, to be decided by a
+judicial officer, not by a policeman or government enforcement agent”). The effect of the Court’s rule, however,
+is to hold blameless the “plainly incompetent” action of the
+police officer seeking a warrant because of the “plainly
+incompetent” approval of his superiors and the district
+attorney. See ante, at 16–18; see also ante, at 3–4 (opinion
+of KAGAN, J.). Under the majority’s test, four wrongs
+apparently make a right. I cannot agree, however, that
+the “objective legal reasonableness of an official’s acts,”
+Harlow, 457 U. S., at 819, turns on the number of police
+officers or prosecutors who improperly sanction a search
+that violates the Fourth Amendment.
+III
+Police officers perform a difficult and essential service to
+society, frequently at substantial risk to their personal
+——————
+14 In the famous case of Wilkes v. Wood, Lofft 1, 98 Eng. Rep. 489
+(C. P. 1763), one of the seminal events informing the Framers’ development
+of the Fourth Amendment, the Undersecretary of State who searched
+the home of John Wilkes pursuant to a general warrant was subjected
+to monetary damages notwithstanding that his superior, Lord Halifax,
+issued the warrant. See Boyd v. United States, 116 U. S. 616, 626
+(1886).
+
+
+16
+
+MESSERSCHMIDT v. MILLENDER
+SOTOMAYOR, J., dissenting
+
+safety. And criminals like Bowen are not sympathetic
+figures. But the Fourth Amendment “protects all, those
+suspected or known to be offenders as well as the innocent.” Go-Bart Importing Co., 282 U. S., at 357. And this
+Court long ago recognized that efforts “to bring the guilty
+to punishment, praiseworthy as they are, are not to be
+aided by the sacrifice of those great principles established
+by years of endeavor and suffering which have resulted
+in their embodiment in the fundamental law of the land.”
+Weeks v. United States, 232 U. S. 383, 393 (1914).
+Qualified immunity properly affords police officers protection so long as their conduct is objectively reasonable.
+But it is not objectively reasonable for police investigating a specific, non-gang-related assault committed with
+a particular firearm to search for all evidence related to
+“any Street Gang,” “photographs . . . which may depict
+evidence of criminal activity,” and all firearms. The Court
+reaches a contrary result not because it thinks that these
+police officers’ stated reasons for searching were objectively reasonable, but because it thinks different conclusions
+might be drawn from the crime scene that reasonably
+might have led different officers to search for different
+reasons. That analysis, however, is far removed from
+qualified immunity’s proper focus on whether petitioners
+acted in an objectively reasonable manner.
+Because petitioners did not, I would affirm the judgment
+of the Court of Appeals.
+
+

@@ -1,0 +1,44 @@
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+KENNEDY, J., dissenting
+
+looked to the nature of the claim raised in the second-in
+time habeas petition to determine that the application was
+not “second or successive.” Ibid.
+The above principles apply to a situation, like the pre
+sent one, where the petitioner in his first habeas proceed
+ing succeeds in obtaining a conditional grant of relief,
+which allows the state court to correct an error that oc
+curred at the original sentencing. Assume, as alleged
+here, that in correcting the error in a new sentencing
+proceeding, the state court duplicates a different mistake
+that also occurred at the first sentencing. The second
+application is “second or successive” with respect to that
+claim because the alleged error “could and should have”
+been raised in the first petition. Woodard, 464 U. S., at
+379 (opinion of Powell, J.). Put another way, under abuse
+of-the-writ principles, a petitioner loses his right to chal
+lenge the error by not raising a claim at the first opportu
+nity after his claim becomes ripe. On the other hand, if
+the petitioner raises a claim in his second habeas petition
+that could not have been raised in the earlier petition—
+perhaps because the error occurred for the first time dur
+ing resentencing—then the application raising the claim is
+not “second or successive” and §2244(b)(2)’s bar does not
+apply.
+Although the above-cited authorities are adequate to
+show that the application in this case is “second or succes
+sive,” it must be noted that no previous case from this
+Court has dealt with the precise sequence of events here:
+A petitioner attempts to bring a previously unraised claim
+after a second resentencing proceeding that followed a
+grant of federal habeas relief. The conclusion that such an
+application is barred as “second or successive” unless the
+claim was previously unavailable is consistent with the
+approach of every court of appeals that has considered the
+issue, although some of those cases highlight subtleties
+that are not relevant under abuse-of-the-writ principles.
+
+

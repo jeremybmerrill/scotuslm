@@ -1,0 +1,40 @@
+Cite as: 565 U. S. ____ (2012)
+
+7
+
+Opinion of the Court
+
+here lies the rub: The statute fails to specify how a court
+should decide such a motion. Section 3599 says not a word
+about the standard a court should apply when addressing
+a request for a new lawyer.
+The parties offer us two alternative ways to fill this
+statutory hole. Clair argues, and the Ninth Circuit
+agreed, that district courts should decide substitution
+motions brought under §3599 “in the interests of justice.”
+That standard derives from 18 U. S. C. §3006A, which
+governs the appointment and substitution of counsel in
+federal non-capital litigation. By contrast, the State contends that district courts may replace an appointed lawyer
+under §3599 only when the defendant has suffered an
+“actual or constructive denial” of counsel. Brief for Petitioner 33. That denial occurs, the State asserts, in just
+three situations: when the lawyer lacks the qualifications
+necessary for appointment under the statute; when he has
+a “disabling conflict of interest”; or when he has “completely abandoned” the client. Id., at 34. On this matter, we
+think Clair, not the State, gets it right.
+A trip back in time begins to show why. Prior to 1988,
+§3006A governed the appointment of counsel in all federal
+criminal cases and habeas litigation, regardless whether
+the matter involved a capital or a non-capital offense.
+That section provided counsel as a matter of right to most
+indigent criminal defendants, from pre-trial proceedings
+through appeal. See §§3006A(a)(1), (c) (1982 ed.). In
+——————
+ed shall represent the defendant throughout every subsequent stage of
+available judicial proceedings, including pretrial proceedings, trial,
+sentencing, motions for new trial, appeals, applications for writ of
+certiorari to the Supreme Court of the United States, and all available
+post-conviction process, together with applications for stays of execution and other appropriate motions and procedures, and shall also
+represent the defendant in such competency proceedings and proceedings for executive or other clemency as may be available to the
+defendant.”
+
+

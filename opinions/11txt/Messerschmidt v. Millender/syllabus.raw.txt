@@ -1,0 +1,155 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+MESSERSCHMIDT ET AL. v. MILLENDER, EXECUTOR OF
+ESTATE OF MILLENDER, DECEASED, ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–704.
+
+Argued December 5, 2011—Decided February 22, 2012
+
+Shelly Kelly was afraid that she would be attacked by her boyfriend,
+Jerry Ray Bowen, while she moved out of her apartment. She therefore requested police protection. Two officers arrived, but they were
+called away to an emergency. As soon as the officers left, Bowen
+showed up at the apartment, yelled “I told you never to call the cops
+on me bitch!” and attacked Kelly, attempting to throw her over a second-story landing. After Kelly escaped to her car, Bowen pointed a
+sawed-off shotgun at her and threatened to kill her if she tried to
+leave. Kelly nonetheless sped away as Bowen fired five shots at the
+car, blowing out one of its tires.
+Kelly later met with Detective Curt Messerschmidt to discuss the
+incident. She described the attack in detail, mentioned that Bowen
+had previously assaulted her, that he had ties to the Mona Park
+Crips gang, and that he might be staying at the home of his former
+foster mother, Augusta Millender. Following this conversation, Messerschmidt conducted a detailed investigation, during which he confirmed Bowen’s connection to the Millenders’ home, verified his
+membership in two gangs, and learned that Bowen had been arrested
+and convicted for numerous violent and firearm-related offenses.
+Based on this investigation, Messerschmidt drafted an application
+for a warrant authorizing a search of the Millenders’ home for all
+firearms and ammunition, as well as evidence indicating gang
+membership.
+Messerschmidt included two affidavits in the warrant application.
+The first detailed his extensive law enforcement experience and his
+specialized training in gang-related crimes. The second, expressly incorporated into the search warrant, described the incident and ex-
+
+
+2
+
+MESSERSCHMIDT v. MILLENDER
+Syllabus
+plained why Messerschmidt believed there was probable cause for the
+search. It also requested that the warrant be endorsed for night service because of Bowen’s gang ties. Before submitting the application
+to a magistrate for approval, Messerschmidt had it reviewed by his
+supervisor, Sergeant Robert Lawrence, as well as a police lieutenant
+and a deputy district attorney. Messerschmidt then submitted the
+application to a magistrate, who issued the warrant. The ensuing
+search uncovered only Millender’s shotgun, a California Social Services letter addressed to Bowen, and a box of .45-caliber ammunition.
+The Millenders filed an action under 42 U. S. C. §1983 against petitioners Messerschmidt and Lawrence, alleging that the officers had
+subjected them to an unreasonable search in violation of the Fourth
+Amendment. The District Court granted summary judgment to the
+Millenders, concluding that the firearm and gang-material aspects of
+the search warrant were overbroad and that the officers were not entitled to qualified immunity from damages. The Ninth Circuit, sitting en banc, affirmed the denial of qualified immunity. The court
+held that the warrant’s authorization was unconstitutionally overbroad because the affidavits and warrant failed to establish probable
+cause that the broad categories of firearms, firearm-related material,
+and gang-related material were contraband or evidence of a crime,
+and that a reasonable officer would have been aware of the warrant’s
+deficiency.
+
+Held: The officers are entitled to qualified immunity. Pp. 8−19.
+(a) Qualified immunity “protects government officials ‘from liability
+for civil damages insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable
+person would have known.’ ” Pearson v. Callahan, 555 U. S. 223, 231.
+Where the alleged Fourth Amendment violation involves a search or
+seizure pursuant to a warrant, the fact that a neutral magistrate has
+issued a warrant is the clearest indication that the officers acted in
+an objectively reasonable manner, or in “objective good faith.” United
+States v. Leon, 468 U. S. 897, 922–923. Nonetheless, that fact does
+not end the inquiry into objective reasonableness. The Court has recognized an exception allowing suit when “it is obvious that no reasonably competent officer would have concluded that a warrant
+should issue.” Malley v. Briggs, 475 U. S. 335, 341. The “shield of
+immunity” otherwise conferred by the warrant, id., at 345, will be
+lost, for example, where the warrant was “based on an affidavit so
+lacking in indicia of probable cause as to render official belief in its
+existence entirely unreasonable.” Leon, 468 U. S., at 923. The
+threshold for establishing this exception is high. “[I]n the ordinary
+case, an officer cannot be expected to question the magistrate’s probable-cause determination” because “[i]t is the magistrate’s responsi-
+
+
+Cite as: 565 U. S. ____ (2012)
+
+3
+
+Syllabus
+bility to determine whether the officer’s allegations establish probable cause and, if so, to issue a warrant comporting in form with the
+requirements of the Fourth Amendment.” Leon, supra, at 921. Pp.
+8−10.
+(b) This case does not fall within that narrow exception. It would
+not be entirely unreasonable for an officer to believe that there was
+probable cause to search for all firearms and firearm-related materials. Under the circumstances set forth in the warrant, an officer
+could reasonably conclude that there was a “fair probability” that the
+sawed-off shotgun was not the only firearm Bowen owned, Illinois v.
+Gates, 462 U. S. 213, 238, and that Bowen’s sawed-off shotgun was illegal. Cf. 26 U. S. C. §§ 5845(a), 5861(d). Given Bowen’s possession
+of one illegal gun, his gang membership, willingness to use the gun to
+kill someone, and concern about the police, it would not be unreasonable for an officer to conclude that Bowen owned other illegal guns.
+An officer also could reasonably believe that seizure of firearms was
+necessary to prevent further assaults on Kelly. California law allows
+a magistrate to issue a search warrant for items “in the possession of
+any person with the intent to use them as a means of committing a
+public offense,” Cal. Penal Code Ann. §1524(a)(3), and the warrant
+application submitted by the officers specifically referenced this provision as a basis for the search. Pp. 10–12.
+(c) Regarding the warrant’s authorization to search for gangrelated materials, a reasonable officer could view Bowen’s attack as
+motivated not by the souring of his romantic relationship with Kelly
+but by a desire to prevent her from disclosing details of his gang activity to the police. It would therefore not be unreasonable—based on
+the facts set out in the affidavit—for an officer to believe that evidence of Bowen’s gang affiliation would prove helpful in prosecuting
+him for the attack on Kelly, in supporting additional, related charges
+against Bowen for the assault, or in impeaching Bowen or rebutting
+his defenses. Moreover, even if this were merely a domestic dispute,
+a reasonable officer could still conclude that gang paraphernalia
+found at the Millenders’ residence could demonstrate Bowen’s control
+over the premises or his connection to other evidence found there.
+Pp. 12−16.
+(d) The fact that the officers sought and obtained approval of the
+warrant application from a superior and a deputy district attorney
+before submitting it to the magistrate provides further support for
+the conclusion that an officer could reasonably have believed that the
+scope of the warrant was supported by probable cause. A contrary
+conclusion would mean not only that Messerschmidt and Lawrence
+were “plainly incompetent” in concluding that the warrant was supported by probable cause, Malley, supra, at 341, but that their super-
+
+
+4
+
+MESSERSCHMIDT v. MILLENDER
+Syllabus
+visor, the deputy district attorney, and the magistrate were as well.
+Pp. 16−18.
+(e) In holding that the warrant in this case was so obviously defective that no reasonable officer could have believed it to be valid, the
+court below erred in relying on Groh v. Ramirez, 540 U. S. 551.
+There, officers who carried out a warrant-approved search were not
+entitled to qualified immunity because the warrant failed to describe
+any of the items to be seized and “even a cursory reading of the warrant” would have revealed this defect. Id., at 557. Here, in contrast,
+any arguable defect would have become apparent only upon a close
+parsing of the warrant application, and a comparison of the supporting affidavit to the terms of the warrant to determine whether the affidavit established probable cause to search for all the items listed in
+the warrant. Unlike in Groh, any error here would not be one that
+“just a simple glance” would have revealed. Id. at 564. Pp. 18−19.
+
+620 F. 3d 1016, reversed.
+ROBERTS, C. J., delivered the opinion of the Court, in which SCALIA,
+KENNEDY, THOMAS, BREYER, and ALITO, JJ., joined. BREYER, J., filed a
+concurring opinion. KAGAN, J., filed an opinion concurring in part and
+dissenting in part. SOTOMAYOR, J., filed a dissenting opinion, in which
+GINSBURG, J., joined.
+
+

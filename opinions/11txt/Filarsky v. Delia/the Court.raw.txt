@@ -1,0 +1,585 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–1018
+_________________
+
+STEVE A. FILARSKY, PETITIONER v. NICHOLAS B.
+
+DELIA
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[April 17, 2012] 
+
+
+CHIEF JUSTICE ROBERTS delivered the opinion of the
+Court.
+Section 1983 provides a cause of action against state
+actors who violate an individual’s rights under federal law.
+42 U. S. C. §1983. At common law, those who carried out
+the work of government enjoyed various protections from
+liability when doing so, in order to allow them to serve the
+government without undue fear of personal exposure. Our
+decisions have looked to these common law protections
+in affording either absolute or qualified immunity to individuals sued under §1983. The question in this case is
+whether an individual hired by the government to do its
+work is prohibited from seeking such immunity, solely because he works for the government on something other
+than a permanent or full-time basis.
+I
+
+A
+
+Nicholas Delia, a firefighter employed by the City of
+Rialto, California, became ill while responding to a toxic
+spill in August 2006. Under a doctor’s orders, Delia
+missed three weeks of work. The City became suspicious
+
+
+2
+
+FILARSKY v. DELIA
+Opinion of the Court
+
+of Delia’s extended absence, and hired a private investigation firm to conduct surveillance on him. The private
+investigators observed Delia purchasing building supplies—
+including several rolls of fiberglass insulation—from a
+home improvement store. The City surmised that Delia
+was missing work to do construction on his home rather
+than because of illness, and it initiated a formal internal
+affairs investigation of him.
+Delia was ordered to appear for an administrative investigation interview. The City hired Steve Filarsky to
+conduct the interview. Filarsky was an experienced employment lawyer who had previously represented the City in
+several investigations. Delia and his attorney attended
+the interview, along with Filarsky and two fire department officials, Mike Peel and Frank Bekker. During the
+interview, Filarsky questioned Delia about the building supplies. Delia acknowledged that he had purchased the
+supplies, but claimed that he had not yet done the work on
+his home.
+During a break, Filarsky met with Peel, Bekker, and
+Fire Chief Stephen Wells. Filarsky proposed resolving the
+investigation by verifying Delia’s claim that he had not
+done any work on his home. To do so, Filarsky recommended asking Delia to produce the building materials.
+Chief Wells approved the plan.
+When the meeting resumed, Filarsky requested permission for Peel to enter Delia’s home to view the materials.
+On the advice of counsel, Delia refused. Filarsky then
+asked Delia if he would be willing to bring the materials
+out onto his lawn, so that Peel could observe them without
+entering his home. Delia again refused to consent. Unable to obtain Delia’s cooperation, Filarsky ordered him to
+produce the materials for inspection.
+Delia’s counsel objected to the order, asserting that it
+would violate the Fourth Amendment. When that objection proved unavailing, Delia’s counsel threatened to sue
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+the City. He went on to tell Filarsky that “[w]e might
+quite possibly find a way to figure if we can name you Mr.
+Filarsky. . . . If you want to take that chance, you go right
+ahead.” App. 131–132. The threat was repeated over and
+over: “[E]verybody is going to get named, and they are
+going to sweat it out as to whether or not they have individual liability . . . .” “[Y]ou order him and you will be
+named and that is not an idle threat.” “Whoever issues
+that order is going to be named in the lawsuit.” “[W]e will
+seek any and all damages including individual liability . . . .
+[W]e are coming if you order this.” “[M]ake sure the spelling is clear [in the order] so we know who to sue.” Id.,
+at 134–136, 148–149. Despite these threats, Filarsky
+prepared an order directing Delia to produce the materials, which Chief Wells signed.
+As soon as the interview concluded, Peel and Bekker
+followed Delia to his home. Once there, Delia, his attorney, and a union representative went into Delia’s house,
+brought out the four rolls of insulation, and placed them
+on Delia’s lawn. Peel and Bekker, who remained in their
+car during this process, thanked Delia for showing them
+the insulation and drove off.
+B
+Delia brought an action under 42 U. S. C. §1983 against
+the City, its Fire Department, Chief Wells, Peel, Bekker,
+Filarsky, and ten unidentified individuals, alleging that
+the order to produce the building materials violated his
+rights under the Fourth and Fourteenth Amendments.
+The District Court granted summary judgment to all the
+individual defendants, concluding that they were protected by qualified immunity. The court held that Delia
+had “not demonstrated a violation of a clearly established
+constitutional right,” because “Delia was not threatened
+with insubordination or termination if he did not comply
+with any order given and none of these defendants entered
+
+
+4
+
+FILARSKY v. DELIA
+Opinion of the Court
+
+[his] house.” Delia v. Rialto, No. CV 08–03359 (CD Cal.,
+Mar. 9, 2009), App. to Pet. for Cert. 42, 48.
+The Court of Appeals for the Ninth Circuit affirmed
+with respect to all defendants except Filarsky. The Court
+of Appeals concluded that the order violated the Fourth
+Amendment, but agreed with the District Court that Delia
+“ha[d] not demonstrated that a constitutional right was
+clearly established as of the date of Chief Wells’s order,
+such that defendants would have known that their actions
+were unlawful.” Delia v. Rialto, 621 F. 3d 1069, 1079
+(2010). As to Filarsky, however, the court concluded that
+because he was a private attorney and not a City employee, he was not entitled to seek the protection of qualified
+immunity. Id., at 1080–1081. The court noted that its
+decision conflicted with a decision of the Court of Appeals
+for the Sixth Circuit, see Cullinan v. Abramson, 128 F. 3d
+301, 310 (1997), but considered itself bound by Circuit
+precedent and therefore “not free to follow the Cullinan
+decision.” 621 F. 3d, at 1080 (citing Gonzalez v. Spencer,
+336 F. 3d 832 (CA9 2003)).
+Filarsky filed a petition for certiorari, which we granted.
+564 U. S. ___ (2011).
+II
+Section 1983 provides a cause of action against any
+person who deprives an individual of federally guaranteed
+rights “under color” of state law. 42 U. S. C. §1983. Anyone whose conduct is “fairly attributable to the state” can
+be sued as a state actor under §1983. See Lugar v. Edmondson Oil Co., 457 U. S. 922, 937 (1982). At common
+law, government actors were afforded certain protections
+from liability, based on the reasoning that “the public good
+can best be secured by allowing officers charged with the
+duty of deciding upon the rights of others, to act upon
+their own free, unbiased convictions, uninfluenced by any
+apprehensions.” Wasson v. Mitchell, 18 Iowa 153, 155–156
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+Opinion of the Court
+
+(1864) (internal quotation marks omitted); see also W.
+Prosser, Law of Torts §25, p. 150 (1941) (common law
+protections derived from the need to avoid the “impossible
+burden [that] would fall upon all our agencies of government” if those acting on behalf of the government were
+“unduly hampered and intimidated in the discharge of
+their duties” by a fear of personal liability). Our decisions
+have recognized similar immunities under §1983, reasoning that common law protections “ ‘well grounded in history and reason’ had not been abrogated ‘by covert inclusion
+in the general language’ of §1983.” Imbler v. Pachtman,
+424 U. S. 409, 418 (1976) (quoting Tenney v. Brandhove,
+341 U. S. 367, 376 (1951)).
+In this case, there is no dispute that qualified immunity
+is available for the sort of investigative activities at issue.
+See Pearson v. Callahan, 555 U. S. 223, 243–244 (2009).
+The Court of Appeals granted this protection to Chief
+Wells, Peel, and Bekker, but denied it to Filarsky, because
+he was not a public employee but was instead a private
+individual “retained by the City to participate in internal
+affairs investigations.” 621 F. 3d, at 1079–1080. In determining whether this distinction is valid, we look to the
+“general principles of tort immunities and defenses” applicable at common law, and the reasons we have afforded
+protection from suit under §1983. Imbler, supra, at 418.
+A
+Under our precedent, the inquiry begins with the common law as it existed when Congress passed §1983 in
+1871. Tower v. Glover, 467 U. S. 914, 920 (1984). Understanding the protections the common law afforded to those
+exercising government power in 1871 requires an appreciation of the nature of government at that time. In the
+mid-nineteenth century, government was smaller in both
+size and reach. It had fewer responsibilities, and operated
+primarily at the local level. Local governments faced tight
+
+
+6
+
+FILARSKY v. DELIA
+Opinion of the Court
+
+budget constraints, and generally had neither the need
+nor the ability to maintain an established bureaucracy
+staffed by professionals. See B. Campbell, The Growth of
+American Government: Governance From the Cleveland
+Era to the Present 14–16, 20–21 (1995); id., at 20 (noting
+that in the 1880s “[t]he governor’s office staff in Wisconsin
+. . . totaled five workers if we count the lieutenant governor and the janitor”).
+As one commentator has observed, there was at that
+time “no very clear conception of a professional office, that
+is, an office the incumbent of which devotes his entire time
+to the discharge of public functions, who has no other
+occupation, and who receives a sufficiently large compensation to enable him to live without resorting to other
+means.” F. Goodnow, Principles of the Administrative
+Law of the United States 227 (1905). Instead, to a significant extent, government was “administered by members of
+society who temporarily or occasionally discharge[d] public
+functions.” Id., at 228. Whether government relied primarily upon professionals or occasional workers obviously
+varied across the country and across different government
+functions. But even at the turn of the twentieth century,
+a public servant was often one who “does not devote his
+entire time to his public duties, but is, at the same time
+that he is holding public office, permitted to carry on some
+other regular business, and as a matter of fact finds his
+main means of support in such business or in his private
+means since he receives from his office a compensation
+insufficient to support him.” Id., at 227.
+Private citizens were actively involved in government
+work, especially where the work most directly touched the
+lives of the people. It was not unusual, for example, to see
+the owner of the local general store step behind a window
+in his shop to don his postman’s hat. See, e.g., Stole
+Stamps, Maysville, KY, The Evening Bulletin, p. 1, Sept.
+25, 1895 (reporting that “[t]he post office and general store
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+Opinion of the Court
+
+at Mount Hope was broken into,” resulting in the loss of
+$400 worth of cutlery and stamps). Nor would it have
+been a surprise to find, on a trip to the docks, the local
+ferryman collecting harbor fees as public wharfmaster.
+See 3 E. Johnson, A History of Kentucky and Kentuckians
+1346 (1912).
+Even such a core government activity as criminal prosecution was often carried out by a mixture of public employees and private individuals temporarily serving the
+public. At the time §1983 was enacted, private lawyers
+were regularly engaged to conduct criminal prosecutions
+on behalf of the State. See, e.g., Commonwealth v. Gibbs,
+70 Mass. 146 (1855); White v. Polk County, 17 Iowa 413
+(1864). Abraham Lincoln himself accepted several such
+appointments. See, e.g., An Awful Crime and Speedy
+Punishment, Springfield Daily Register, May 14, 1853
+(reporting that “A. Lincoln, esq. was appointed prosecutor”
+in a rape case). In addition, private lawyers often assisted
+public prosecutors in significant cases. See, e.g., Commonwealth v. Knapp, 10 Mass. 477, 490–491 (1830);
+Chambers v. State, 22 Tenn. 237 (1842). And public prosecutors themselves continued to represent private clients
+while in office—sometimes creating odd conflicts of interest. See People v. Bussey, 82 Mich. 49, 46 N. W. 97, 98
+(1890) (public prosecutor employed as private counsel by
+the defendant’s wife in several civil suits against the
+defendant); Phillip v. Waller, 5 Haw. 609, 617 (1886)
+(public prosecutor represented plaintiff in a suit for malicious prosecution); Oliver v. Pate, 43 Ind. 132, 139 (1873)
+(public prosecutor who conducted a state prosecution
+against a defendant later served as counsel for the defendant in a malicious prosecution suit against the complaining witness).
+This mixture of public responsibility and private pursuits extended even to the highest levels of government.
+Until the position became full-time in 1853, for example,
+
+
+8
+
+FILARSKY v. DELIA
+Opinion of the Court
+
+the Attorney General of the United States was expected to
+and did maintain an active private law practice. To cite a
+notable illustration, in Hayburn’s Case, 2 Dall. 409 (1792),
+the first Attorney General, Edmund Randolph, sought a
+writ of mandamus from this Court to compel a lower court
+to hear William Hayburn’s petition to be put on the pension list. When this Court did not allow the Attorney
+General to seek the writ in his official capacity, Randolph
+readily solved the problem by arguing the case as Hayburn’s private lawyer. Ibid.; see also Letter from Edmund
+Randolph to James Madison (Aug. 12, 1792), reprinted in
+14 The Papers of James Madison 348, 349 (R. Rutland,
+T. Mason, R. Brugger, J. Sisson, & F. Teute eds. 1983);
+Bloch, The Early Role of the Attorney General in Our
+Constitutional Scheme: In the Beginning There Was
+Pragmatism, 1989 Duke L. J. 561, 598–599, n. 121, 619.
+Given all this, it should come as no surprise that the
+common law did not draw a distinction between public
+servants and private individuals engaged in public service
+in according protection to those carrying out government
+responsibilities. Government actors involved in adjudicative activities, for example, were protected by an absolute
+immunity from suit. See Bradley v. Fisher, 13 Wall. 335,
+347–348 (1872); J. Bishop, Commentaries on the NonContract Law §781 (1889). This immunity applied equally
+to “the highest judge in the State or nation” and “the
+lowest officer who sits as a court and tries petty causes,”
+T. Cooley, Law of Torts 409 (1879), including those who
+served as judges on a part-time or episodic basis. Justices
+of the peace, for example, often maintained active private
+law practices (or even had nonlegal livelihoods), and generally served in a judicial capacity only part-time. See
+Hubbell v. Harbeck, 54 Hun. 147, 7 N. Y. S. 243 (1889);
+Ingraham v. Leland, 19 Vt. 304 (1847). In fact, justices of
+the peace were not even paid a salary by the government,
+but instead received compensation through fees payable
+
+
+Cite as: 566 U. S. ____ (2012)
+
+9
+
+Opinion of the Court
+
+by the parties that came before them. See W. Murfee, The
+Justice of the Peace §1145 (1886). Yet the common law
+extended the same immunity “to a justice of the peace as
+to any other judicial officer.” Pratt v. Gardner, 56 Mass.
+63, 70 (1848); see also Mangold v. Thorpe, 33 N. J. L. 134,
+137–138 (1868).
+The common law also extended certain protections to
+individuals engaged in law enforcement activities, such as
+sheriffs and constables. At the time §1983 was enacted,
+however, “[t]he line between public and private policing
+was frequently hazy. Private detectives and privately employed patrol personnel often were publicly appointed
+as special policemen, and the means and objects of detective work, in particular, made it difficult to distinguish
+between those on the public payroll and private detectives.” Sklansky, The Private Police, 46 UCLA L. Rev.
+1165, 1210 (1999) (footnotes and internal quotation marks
+omitted). The protections provided by the common law did
+not turn on whether someone we today would call a police
+officer worked for the government full-time or instead
+for both public and private employers. Rather, at common
+law, “[a] special constable, duly appointed according to
+law, ha[d] all the powers of a regular constable so far as
+may be necessary for the proper discharge of the special
+duties intrusted to him, and in the lawful discharge of
+those duties, [was] as fully protected as any other officer.”
+W. Murfee, A Treatise on the Law of Sheriffs and Other
+Ministerial Officers §1121, p. 609 (1884).
+Sheriffs executing a warrant were empowered by the
+common law to enlist the aid of the able-bodied men of the
+community in doing so. See 1 W. Blackstone, Commentaries on the Laws of England 332 (1765); In re Quarles,
+158 U. S. 532, 535 (1895). While serving as part of
+this “posse comitatus,” a private individual had the same
+authority as the sheriff, and was protected to the same
+extent. See, e.g., Robinson v. State, 93 Ga. 77, 18 S. E.
+
+
+10
+
+FILARSKY v. DELIA
+Opinion of the Court
+
+1018, 1019 (1893) (“A member of a posse comitatus summoned by the sheriff to aid in the execution of a warrant
+for a felony in the sheriff ’s hands is entitled to the same
+protection in the discharge of his duties as the sheriff
+himself ”); State v. Mooring, 115 N. C. 709, 20 S. E. 182
+(1894) (considering it “well settled by the courts” that a
+sheriff may break open the doors of a house to execute a
+search warrant and that “if he act in good faith in doing
+so, both he and his posse comitatus will be protected”);
+North Carolina v. Gosnell, 74 F. 734, 738–739 (CC WDNC
+1896) (“Both judicial and ministerial officers, in the execution of the duties of their office, are under the strong
+protection of the law; and their legally summoned assistants, for such time as in service, are officers of the law”);
+Reed v. Rice, 25 Ky. 44, 46–47 (App. 1829) (private individuals summoned by a constable to execute a search
+warrant were protected from a suit based on the invalidity
+of the warrant).
+Indeed, examples of individuals receiving immunity for
+actions taken while engaged in public service on a temporary or occasional basis are as varied as the reach of government itself. See, e.g., Gregory v. Brooks, 37 Conn. 365,
+372 (1870) (public wharfmaster not liable for ordering removal of a vessel unless the order was issued maliciously);
+Henderson v. Smith, 26 W. Va. 829, 836–838 (1885)
+(notaries public given immunity for discretionary acts
+taken in good faith); Chamberlain v. Clayton, 56 Iowa 331,
+9 N. W. 237 (1881) (trustees of a public institution for the
+disabled not liable absent a showing of malice); McCormick v. Burt, 95 Ill. 263, 265–266 (1880) (school board
+members not liable for suspending a student in good
+faith); Donohue v. Richards, 38 Me. 379, 392 (1854)
+(same); Downer v. Lent, 6 Cal. 94, 95 (1856) (members of a
+Board of Pilot Commissioners given immunity for official
+acts); Rail v. Potts & Baker, 27 Tenn. 225, 228–230 (1847)
+(private individuals appointed by the sheriff to serve as
+
+
+Cite as: 566 U. S. ____ (2012)
+
+11
+
+Opinion of the Court
+
+judges of an election were not liable for refusing a voter
+absent a showing of malice); Jenkins v. Waldron, 11
+Johns. 114, 120–121 (NY Sup. Ct. 1814) (same).
+We read §1983 “in harmony with general principles of
+tort immunities and defenses.” Imbler, 424 U. S., at 418.
+And we “proceed[ ] on the assumption that common-law
+principles of . . . immunity were incorporated into our
+judicial system and that they should not be abrogated
+absent clear legislative intent to do so.” Pulliam v. Allen,
+466 U. S. 522, 529 (1984). Under this assumption, immunity under §1983 should not vary depending on whether
+an individual working for the government does so as a
+full-time employee, or on some other basis.
+B
+Nothing about the reasons we have given for recognizing
+immunity under §1983 counsels against carrying forward
+the common law rule. As we have explained, such immunity “protect[s] government’s ability to perform its traditional functions.” Wyatt v. Cole, 504 U. S. 158, 167 (1992).
+It does so by helping to avoid “unwarranted timidity” in
+performance of public duties, ensuring that talented candidates are not deterred from public service, and preventing the harmful distractions from carrying out the work of
+government that can often accompany damages suits.
+Richardson v. McKnight, 521 U. S. 399, 409–411 (1997).
+We have called the government interest in avoiding
+“unwarranted timidity” on the part of those engaged in the
+public’s business “the most important special government
+immunity-producing concern.” Id., at 409. Ensuring that
+those who serve the government do so “with the decisiveness and the judgment required by the public good,”
+Scheuer v. Rhodes, 416 U. S. 232, 240 (1974), is of vital
+importance regardless whether the individual sued as a
+state actor works full-time or on some other basis.
+Affording immunity not only to public employees but
+
+
+12
+
+FILARSKY v. DELIA
+Opinion of the Court
+
+also to others acting on behalf of the government similarly
+serves to “ ‘ensure that talented candidates [are] not deterred by the threat of damages suits from entering public
+service.’ ” Richardson, supra, at 408 (quoting Wyatt, supra, at 167). The government’s need to attract talented
+individuals is not limited to full-time public employees.
+Indeed, it is often when there is a particular need for
+specialized knowledge or expertise that the government
+must look outside its permanent work force to secure the
+services of private individuals. This case is a good example: Filarsky had 29 years of specialized experience as an
+attorney in labor, employment, and personnel matters,
+with particular expertise in conducting internal affairs
+investigations. App. to Pet. for Cert. 59, 89; App. 156.
+The City of Rialto certainly had no permanent employee
+with anything approaching those qualifications. To the
+extent such private individuals do not depend on the
+government for their livelihood, they have freedom to
+select other work—work that will not expose them to
+liability for government actions. This makes it more likely
+that the most talented candidates will decline public engagements if they do not receive the same immunity enjoyed by their public employee counterparts.
+Sometimes, as in this case, private individuals will
+work in close coordination with public employees, and face
+threatened legal action for the same conduct. See App.
+134 (Delia’s lawyer: “everybody is going to get named” in
+threatened suit). Because government employees will
+often be protected from suit by some form of immunity,
+those working alongside them could be left holding the
+bag—facing full liability for actions taken in conjunction
+with government employees who enjoy immunity for the
+same activity. Under such circumstances, any private
+individual with a choice might think twice before accepting a government assignment.
+The public interest in ensuring performance of govern-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+13
+
+Opinion of the Court
+
+ment duties free from the distractions that can accompany
+even routine lawsuits is also implicated when individuals
+other than permanent government employees discharge
+these duties. See Richardson, supra, at 411. Not only will
+such individuals’ performance of any ongoing government
+responsibilities suffer from the distraction of lawsuits, but
+such distractions will also often affect any public employees with whom they work by embroiling those employees
+in litigation. This case is again a good example: If the suit
+against Filarsky moves forward, it is highly likely that
+Chief Wells, Bekker, and Peel will all be required to testify, given their roles in the dispute. Allowing suit under
+§1983 against private individuals assisting the government will substantially undermine an important reason
+immunity is accorded public employees in the first place.
+Distinguishing among those who carry out the public’s
+business based on the nature of their particular relationship with the government also creates significant linedrawing problems. It is unclear, for example, how Filarsky would be categorized if he regularly spent half his
+time working for the City, or worked exclusively on one
+City project for an entire year. See Tr. of Oral Arg. 34–36.
+Such questions deprive state actors of the ability to “reasonably anticipate when their conduct may give rise to
+liability for damages,” Anderson v. Creighton, 483 U. S.
+635, 646 (1987) (alteration and internal quotation marks
+omitted), frustrating the purposes immunity is meant to
+serve. An uncertain immunity is little better than no
+immunity at all.
+III
+Our decisions in Wyatt v. Cole, 504 U. S. 158 (1992), and
+Richardson v. McKnight, 521 U. S. 399 (1997), are not to
+the contrary. In Wyatt, we held that individuals who used
+a state replevin law to compel the local sheriff to seize
+disputed property from a former business partner were
+
+
+14
+
+FILARSKY v. DELIA
+Opinion of the Court
+
+not entitled to seek qualified immunity. Cf. Lugar, 457
+U. S. 922 (holding that an individual who uses a state
+replevin, garnishment, or attachment statute later declared to be unconstitutional acts under color of state law
+for purposes of §1983). We explained that the reasons
+underlying recognition of qualified immunity did not support its extension to individuals who had no connection
+to government and pursued purely private ends. Because
+such individuals “hold no office requiring them to exercise
+discretion; nor are they principally concerned with enhancing the public good,” we concluded that extending
+immunity to them would “have no bearing on whether
+public officials are able to act forcefully and decisively in
+their jobs or on whether qualified applicants enter public
+service.” 504 U. S., at 168.
+Wyatt is plainly not implicated by the circumstances of
+this case. Unlike the defendants in Wyatt, who were using the mechanisms of government to achieve their own
+ends, individuals working for the government in pursuit of
+government objectives are “principally concerned with enhancing the public good.” Ibid. Whether such individuals have assurance that they will be able to seek protection if sued under §1983 directly affects the government’s
+ability to achieve its objectives through their public service. Put simply, Wyatt involved no government agents,
+no government interests, and no government need for
+immunity.
+In Richardson, we considered whether guards employed
+by a privately run prison facility could seek the protection
+of qualified immunity. Although the Court had previously
+determined that public-employee prison guards were
+entitled to qualified immunity, see Procunier v. Navarette,
+434 U. S. 555 (1978), it determined that prison guards
+employed by a private company and working in a privately
+run prison facility did not enjoy the same protection. We
+explained that the various incentives characteristic of the
+
+
+Cite as: 566 U. S. ____ (2012)
+
+15
+
+Opinion of the Court
+
+private market in that case ensured that the guards would
+not perform their public duties with unwarranted timidity
+or be deterred from entering that line of work. 521 U. S.,
+at 410–411.
+Richardson was a self-consciously “narrow[ ]” decision.
+Id., at 413 (“[W]e have answered the immunity question
+narrowly, in the context in which it arose”). The Court
+made clear that its holding was not meant to foreclose all
+claims of immunity by private individuals. Ibid. Instead,
+the Court emphasized that the particular circumstances of
+that case—“a private firm, systematically organized to
+assume a major lengthy administrative task (managing an
+institution) with limited direct supervision by the government, undertak[ing] that task for profit and potentially
+in competition with other firms”—combined sufficiently to
+mitigate the concerns underlying recognition of governmental immunity under §1983. Ibid. Nothing of the sort
+is involved here, or in the typical case of an individual
+hired by the government to assist in carrying out its work.
+*
+*
+*
+A straightforward application of the rule set out above
+is sufficient to resolve this case. Though not a public employee, Filarsky was retained by the City to assist in
+conducting an official investigation into potential wrongdoing. There is no dispute that government employees
+performing such work are entitled to seek the protection
+of qualified immunity. The Court of Appeals rejected
+Filarsky’s claim to the protection accorded Wells, Bekker,
+and Peel solely because he was not a permanent, full-time
+employee of the City. The common law, however, did not
+draw such distinctions, and we see no justification for
+doing so under §1983.
+New York City has a Department of Investigation
+staffed by full-time public employees who investigate city
+personnel, and the resources to pay for it. The City of
+
+
+16
+
+FILARSKY v. DELIA
+Opinion of the Court
+
+Rialto has neither, and so must rely on the occasional
+services of private individuals such as Mr. Filarsky. There
+is no reason Rialto’s internal affairs investigator should be
+denied the qualified immunity enjoyed by the ones who
+work for New York.
+In light of the foregoing, the judgment of the Court of
+Appeals denying qualified immunity to Filarsky is
+reversed.
+It is so ordered.
+
+

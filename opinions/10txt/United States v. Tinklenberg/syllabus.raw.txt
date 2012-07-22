@@ -1,0 +1,145 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+UNITED STATES v. TINKLENBERG
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SIXTH CIRCUIT
+No. 09–1498. Argued February 22, 2011—Decided May 26, 2011
+The Speedy Trial Act of 1974 (Act) provides, inter alia, that in “any case
+in which a plea of not guilty is entered, the trial . . . shall commence
+within seventy days” after the arraignment, 18 U. S. C. §3161(c)(1),
+but lists a number of exclusions from the 70-day period, including
+“delay resulting from any pretrial motion, from the filing of the mo
+tion through the conclusion of the hearing on, or other prompt dispo
+sition of, such motion,” §3161(h)(1)(D).
+Respondent Tinklenberg’s trial on federal drug and gun charges
+began 287 days after his arraignment. The District Court denied his
+motion to dismiss the indictment on the ground that the trial violated
+the Act’s 70-day requirement, finding that 218 of the days fell within
+various of the Act’s exclusions, leaving 69 nonexcludable days, thus
+making the trial timely. On Tinklenberg’s appeal from his convic
+tion, the Sixth Circuit agreed that many of the 287 days were exclud
+able, but concluded that 9 days during which three pretrial motions
+were pending were not, because the motions did not actually cause a
+delay, or the expectation of delay, of trial. Since these 9 days were
+sufficient to bring the number of nonexcludable days above 70, the
+court found a violation of the Act. And given that Tinklenberg had
+already served his prison sentence, it ordered the indictment dis
+missed with prejudice.
+Held:
+1. The Act contains no requirement that the filing of a pretrial mo
+tion actually caused, or was expected to cause, delay of a trial.
+Rather, §3161(h)(1)(D) stops the Speedy Trial clock from running
+automatically upon the filing of a pretrial motion irrespective of
+whether the motion has any impact on when the trial begins. Pp. 3–
+12.
+
+
+2
+
+UNITED STATES v. TINKLENBERG
+Syllabus
+(a) The Sixth Circuit reasoned that subparagraph (D)’s “delay resulting from” phrase, read most naturally, requires a court to apply
+the exclusion provision only to motions that actually cause a trial delay, or the expectation of such a delay. While such a reading is linguistically reasonable, it is not the only reasonable interpretation.
+The subparagraph falls within a general set of provisions introduced
+by the phrase: “The following periods of delay shall be excluded.”
+§3161(h). That phrase is followed by a list that includes “[a]ny period
+of delay resulting from other proceedings concerning the defendant,
+including. . . .” §3161(h)(1). This latter list is followed by a sublist,
+each member (but one) of which is introduced by the phrase “delay
+resulting from . . . .” Ibid. Those words are followed by a more specific description, such as “any pretrial motion” from its “filing”
+“through the conclusion of the hearing on, or other prompt disposition
+of, such motion.” §3161(h)(1)(D). The whole paragraph can be read
+as requiring the automatic exclusion of the members of that specific
+sublist, while referring to those members in general as “periods of delay” and as causing that delay, not because Congress intended the
+judge to determine causation, but because, in a close to definitional
+way, the words embody Congress’ own view of the matter. Thus, language alone cannot resolve the basic question presented. Pp. 4–7.
+(b) Several considerations, taken together, compel the conclusion
+that Congress intended subparagraph (D) to apply automatically.
+First, subparagraph (D) and neighboring subparagraphs (F) and (H)
+contain language that instructs courts to measure the time actually
+consumed by the specified pretrial occurrence, but those subparagraphs do not mention the date on which the trial begins or was expected to begin. Second, during the 37 years since Congress enacted
+the statute, every other Court of Appeals has rejected the Sixth Circuit’s interpretation. Third, the Sixth Circuit’s interpretation would
+make the subparagraph (D) exclusion significantly more difficult to
+administer, thereby hindering the Act’s efforts to secure fair and efficient trials. Fourth, the Court’s conclusion is reinforced by the difficulty of squaring the Sixth Circuit’s interpretation with the “automatic application” rule expressed in, e.g., Henderson v. United States,
+476 U. S. 321, 327. Fifth, the legislative history also supports the
+Court’s conclusion. Sixth, because all the subparagraphs but one under paragraph (1) begin with the phrase “delay resulting from,” the
+Sixth Circuit’s interpretation would potentially extend well beyond
+pretrial motions and encompass such matters as mental and physical
+competency examinations, interlocutory appeals, consideration of
+plea agreements, and the absence of essential witnesses. Pp. 7–12.
+2. The Sixth Circuit also misinterpreted §3161(h)(1)(F), which excludes from the 70-day calculation “delay resulting from transporta-
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+tion of any defendant . . . to and from places of examination . . . , ex
+cept that any time consumed in excess of ten days . . . shall be pre
+sumed to be unreasonable.” The lower courts agreed that a total of
+20 transportation days had elapsed when Tinklenberg was evaluated
+for competency, and that because the Government provided no justi
+fication, all days in excess of the 10 days specified in the statute were
+unreasonable. However, the Sixth Circuit exempted 8 weekend days
+and holidays from the count on the theory that subparagraph (F) in
+corporated Federal Rule of Criminal Procedure 45(a), which, at the
+time, excluded such days when computing any period specified in
+“rules” and “court order[s]” that was less than 11 days. Thus, the
+Circuit considered only two transportation days excessive, and the
+parties concede that the eight extra days were enough to make the
+difference between compliance with, and violation of, the Act.
+This Court exercises its discretion to consider the subsidiary sub
+paragraph (F) question because doing so is fairer to Tinklenberg, who
+has already served his sentence. In the Court’s view, subparagraph
+(F) does not incorporate Rule 45. The Act does not say that it does so,
+the Government gives no good reason for such a reading, and the
+Rule itself, as it existed at the relevant time, stated it applied to rules
+and court orders, but said nothing about statutes. The fact that Rule
+45 is revised from time to time also argues against its direct applica
+tion to subparagraph (F) because such changes, likely reflecting con
+siderations other than those related to the Act, may well leave courts
+treating similar defendants differently. The better reading includes
+weekend days and holidays in subparagraph (F)’s 10-day period un
+der the common-law rule that such days are included when counting
+a statutory time period of 10 days unless a statute specifically ex
+cludes them. Many courts have treated statutory time periods this
+way, and Congress has tended specifically to exclude weekend days
+and holidays from statutory time periods of 10 days when it intended
+that result. Indeed, Rule 45 has been recently modified to require a
+similar result. Pp. 12–14.
+3. Although the Sixth Circuit’s interpretations of subparagraphs
+(D) and (F) are both mistaken, the conclusions the court drew from
+its interpretations in relevant part cancel each other out, such that
+the court’s ultimate conclusion that Tinklenberg’s trial failed to com
+ply with the Act’s deadline is correct. Pp. 14–15.
+579 F. 3d 589, affirmed.
+BREYER, J., delivered the opinion of the Court, in which KENNEDY,
+GINSBURG, ALITO, and SOTOMAYOR, JJ., joined, and in which ROBERTS,
+C. J., and SCALIA and THOMAS, JJ., joined as to Parts I and III. SCALIA,
+J., filed an opinion concurring in part and concurring in the judgment,
+
+
+4
+
+UNITED STATES v. TINKLENBERG
+Syllabus
+
+in which ROBERTS, C. J., and THOMAS, J., joined. KAGAN, J., took no part
+in the consideration or decision of the case.
+
+

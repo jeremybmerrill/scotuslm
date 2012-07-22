@@ -1,0 +1,42 @@
+12
+
+MARTEL v. CLAIR
+Opinion of the Court
+
+not been convicted or sentenced and therefore have no
+incentive to delay. Moreover, the State’s claim misjudges
+the capacity of the “interests of justice” standard to deal
+with such issues. Protecting against abusive delay is an
+interest of justice. Because that is so, courts addressing
+substitution motions in both capital and non-capital cases
+routinely consider issues of timeliness. See, e.g., Hunter v.
+Delo, 62 F. 3d 271, 274 (CA8 1995) (citing “the need to
+thwart abusive delay” in affirming the denial of a habeas
+petitioner’s substitution motion); United States v. White,
+451 F. 2d 1225, 1226 (CA6 1971) (per curiam) (approving a
+District Court’s refusal to change counsel under §3006A(c)
+“on the morning of the trial”). Indeed, we will do so, just
+paragraphs from here, in this very case. See infra, at 15–
+16. The standard we adopt thus takes account of, rather
+than ignores or opposes, the State’s interest in avoiding
+undue delay.3
+
+——————
+3 The State also makes a more specific argument based on AEDPA,
+see Brief for Petitioner 26–29, but we think it is not well taken. The
+State notes that the “interests of justice” standard enables a court,
+when ruling on a substitution motion, to take account of a lawyer’s
+effectiveness. That consideration, according to the State, conflicts
+with AEDPA’s injunction that “[t]he ineffectiveness or incompetence of
+counsel during Federal or State collateral post-conviction proceedings
+shall not be a ground for relief in a [habeas] proceeding arising under
+section 2254.” 28 U. S. C. §2254(i); see §2261(e) (using similar language). But most naturally read, §2254(i) prohibits a court from
+granting substantive habeas relief on the basis of a lawyer’s ineffectiveness in post-conviction proceedings, not from substituting counsel
+on that ground. Cf. Holland v. Florida, 560 U. S. ___, ___ (2010) (slip
+op., at 18) (holding that §2254(i) does not preclude equitable tolling of a
+statute of limitations based on attorney misconduct in habeas proceedings). Indeed, if the State were right, we would also have to find that
+AEDPA silently repealed §3006A’s instruction to courts to apply the
+“interests of justice” standard in non-capital habeas cases. We see
+nothing to suggest that Congress had that result in mind.
+
+

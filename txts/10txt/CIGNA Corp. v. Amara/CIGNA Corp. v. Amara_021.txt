@@ -1,0 +1,44 @@
+Cite as: 563 U. S. ____ (2011)
+
+17
+
+Opinion of the Court
+
+that the fiduciary sought to obtain a lien attaching to (or a
+constructive trust imposed upon) money that the benefici
+ary had received from the tort-case defendant. But we
+noted that the money in question was not the “particular”
+money that the tort defendant had paid. And, tradition
+ally speaking, relief that sought a lien or a constructive
+trust was legal relief, not equitable relief, unless the funds
+in question were “particular funds or property in the
+defendant’s possession.” 534 U. S., at 213 (emphasis
+added).
+The case before us concerns a suit by a beneficiary
+against a plan fiduciary (whom ERISA typically treats as
+a trustee) about the terms of a plan (which ERISA typi
+cally treats as a trust). See LaRue v. DeWolff, Boberg &
+Associates, Inc., 552 U. S. 248, 253, n. 4 (2008); Varity
+Corp., 516 U. S., at 496–497. It is the kind of lawsuit that,
+before the merger of law and equity, respondents could
+have brought only in a court of equity, not a court of law.
+4 A. Scott, W. Fratcher, & M. Ascher, Trusts §24.1, p. 1654
+(5th ed. 2007) (hereinafter Scott & Ascher) (“Trusts are,
+and always have been, the bailiwick of the courts of eq
+uity”); Duvall v. Craig, 2 Wheat. 45, 56 (1817) (a trustee
+was “only suable in equity”).
+With the exception of the relief now provided by
+§502(a)(1)(B), Restatement (Second) of Trusts §§198(1)–(2)
+(1957) (hereinafter Second Restatement); 4 Scott & Ascher
+§24.2.1, the remedies available to those courts of equity
+were traditionally considered equitable remedies, see
+Second Restatement §199; J. Adams, Doctrine of Equity:
+A Commentary on the Law as Administered by the Court
+of Chancery 61 (7th Am. ed. 1881) (hereinafter Adams);
+4 Scott & Ascher §24.2.
+The District Court’s affirmative and negative injunc
+tions obviously fall within this category. Mertens, supra,
+at 256 (identifying injunctions, mandamus, and restitution
+as equitable relief ). And other relief ordered by the Dis
+
+

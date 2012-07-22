@@ -1,0 +1,51 @@
+2
+
+BRUESEWITZ v. WYETH LLC
+Syllabus
+provides that “[n]o vaccine manufacturer shall be liable in a civil ac
+tion for damages arising from a vaccine-related injury or death asso
+ciated with the administration of a vaccine after October 1, 1988, if
+the injury or death resulted from side-effects that were unavoidable
+even though the vaccine was properly prepared and was accompanied
+by proper directions and warnings.” The Third Circuit affirmed.
+
+Held: The NCVIA preempts all design-defect claims against vaccine
+manufacturers brought by plaintiffs seeking compensation for injury
+or death caused by a vaccine’s side effects. Pp. 7–19.
+(a) Section 300aa–22(b)(1)’s text suggests that a vaccine’s design is
+not open to question in a tort action. If a manufacturer could be held
+liable for failure to use a different design, the “even though” clause
+would do no work. A vaccine side effect could always have been
+avoidable by use of a different vaccine not containing the harmful
+element. The language of the provision thus suggests the design is
+not subject to question in a tort action. What the statute establishes
+as a complete defense must be unavoidability (given safe manufac
+ture and warning) with respect to the particular design. This conclu
+sion is supported by the fact that, although products-liability law es
+tablishes three grounds for liability—defective manufacture,
+inadequate directions or warnings, and defective design—the Act
+mentions only manufacture and warnings. It thus seems that the
+Act’s failure to mention design-defect liability is “by deliberate choice,
+not inadvertence.” Barnhart v. Peabody Coal Co., 537 U. S. 149, 168.
+Pp. 7–8.
+(b) Contrary to petitioners’ argument, there is no reason to believe
+that §300aa–22(b)(1)’s term “unavoidable” is a term of art incorporat
+ing Restatement (Second) of Torts §402A, Comment k, which exempts
+from strict liability rules “unavoidably unsafe products.” “Unavoid
+able” is hardly a rarely used word, and cases interpreting comment k
+attach special significance only to the term “unavoidably unsafe
+products,” not the word “unavoidable” standing alone. Moreover,
+reading the phrase “side effects that were unavoidable” to exempt in
+juries caused by flawed design would require treating “even though”
+as a coordinating conjunction linking independent ideas when it is a
+concessive, subordinating conjunction conveying that one clause
+weakens or qualifies the other. The canon against superfluity does
+not undermine this Court’s interpretation because petitioners’ com
+peting interpretation has superfluity problems of its own. Pp. 8–12.
+(c) The structure of the NCVIA and of vaccine regulation in general
+reinforces what §300aa–22(b)(1)’s text suggests. Design defects do
+not merit a single mention in the Act or in Food and Drug Admini
+stration regulations that pervasively regulate the drug manufactur
+ing process. This lack of guidance for design defects, combined with
+
+

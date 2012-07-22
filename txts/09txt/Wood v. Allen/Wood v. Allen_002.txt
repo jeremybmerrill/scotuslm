@@ -1,0 +1,51 @@
+2
+
+WOOD v. ALLEN
+Syllabus
+investigation was warranted, the court additionally held that counsel
+appeared to have made a strategic decision not to present their lim
+ited mental-deficiency evidence to the jury because having Dr. Kirk
+land testify was not in Wood’s best interest. It also found no reason
+able probability of a different outcome had the evidence developed in
+the Rule 32 proceedings been presented at trial. Woods subsequently
+sought federal habeas relief under §2254. The District Court rejected
+all but his ineffective-assistance-of-counsel claim. The District Court
+concluded that the state court’s finding that counsel made a strategic
+decision was an unreasonable determination of the facts. The court
+further held that counsel’s performance was deficient and had preju
+diced Wood, and that the state court’s contrary holdings were an un
+reasonable application of federal law under Strickland v. Washing
+ton, 466 U. S. 668. Reversing, the Eleventh Circuit held that the
+state court’s rejection of Wood’s ineffective-assistance claim was nei
+ther an unreasonable application of clearly established law nor based
+on an unreasonable determination of the facts. With respect to the
+facts, it concluded that the evidence in the Rule 32 hearings sup
+ported the state court’s strategic-decision finding, and it agreed with
+the state court’s legal conclusion that counsel’s strategic decision was
+reasonable and that Wood had failed to show prejudice. Wood’s cer
+tiorari petition raises the questions (1) whether, in order to obtain re
+lief under §2254(d)(2), a petitioner must establish only that the state
+court factual determination on which the decision was based was
+“unreasonable,” or whether §2254(e)(1) additionally requires a peti
+tioner to rebut a presumption that the determination was correct
+with clear and convincing evidence; and (2) whether the state court’s
+strategic-decision determination was reasonable.
+
+Held:
+1. Even under Wood’s reading of §2254(d)(2), the state court’s con
+clusion that his counsel made a strategic decision not to pursue or
+present evidence of his mental deficiencies was not an unreasonable
+determination of the facts in light of the evidence presented in the
+state-court proceedings. This Court need not reach the question
+whether §2254(e)(1) applies in every case presenting a challenge un
+der §2254(d)(2), see Rice v. Collins, 546 U. S. 333, 339, because its
+view of the state court’s factual determination here does not depend
+on an interpretative difference regarding the relationship between
+those provisions. While “[t]he term ‘unreasonable’ is . . . difficult to
+define,” Williams v. Taylor, 529 U. S. 362, 410, it suffices to say that
+a state-court factual determination is not unreasonable merely be
+cause the federal habeas court would have reached a different conclu
+sion in the first instance. See Rice, supra, at 341–342. Here, the
+state-court record shows that all of Wood’s counsel read the Kirkland
+
+

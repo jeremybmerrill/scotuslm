@@ -1,0 +1,47 @@
+6
+
+FOWLER v. UNITED STATES
+ALITO, J., dissenting
+
+officer whom the defendant knows to be a federal, as op
+posed to a state or local law enforcement officer. But noth
+ing in this provision adds to the actus reus elements in
+§1512(a)(1)(C).
+JUSTICE SCALIA’s principal criticism of my interpreta
+tion of the statute is that “it makes the words ‘of the
+United States’ superfluous.” Ante, at 6.1 He incorrectly
+states that under my interpretation “the Government need
+not prove anything with respect to the fact that the com
+munication sought to be prevented was ‘to a law enforce
+ment officer . . . of the United States’ ” and that “[a]s long
+as the Government can prove that the defendant sought to
+prevent the communication of information about a federal
+crime (including a federal crime that is also a state crime)
+it will necessarily have proved that [the set of officers
+whom the defendant had in mind] ‘included law enforce
+ment officers who were employed by the United States.’ ”
+Ante, at 5 (emphasis in original). This description of my
+interpretation confuses what the prosecution must prove
+with what a rational jury may choose to infer in a particu
+lar case.
+In order to violate §1512(a)(1)(C), a defendant must
+have an intent regarding two things: first, the substance of
+the communication that the defendant wishes to prevent
+(information concerning, among other things, the commis
+sion or possible commission of a federal crime) and, sec
+ond, the recipient of the communication (a law enforce
+ment officer or judge who turns out to be a federal officer
+or judge).
+It is true that evidence regarding the federal character
+of an offense may lead a rational jury to infer that the
+officers whom the defendant had in mind included federal
+officers.2 But those two elements remain distinct; both
+——————
+1 The
+
+Court makes a related argument. See ante, at 8.
+is nothing unusual about the proposition that the proof of one
+
+2 There
+
+

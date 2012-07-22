@@ -1,0 +1,34 @@
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+dressed the standard that governs the Federal Circuit’s
+review of the PTO’s factual findings. We held that the
+Administrative Procedure Act (APA), 5 U. S. C. §701
+et seq., applies to §141 proceedings and that the Federal
+Circuit therefore should set aside the PTO’s factual findings only if they are “ ‘unsupported by substantial evidence.’ ” 527 U. S., at 152 (quoting 5 U. S. C. §706).
+In Zurko, we also noted that, unlike §141, §145 permits
+the applicant to present new evidence to the district court
+that was not presented to the PTO. 527 U. S., at 164.
+This opportunity to present new evidence is significant,
+not the least because the PTO generally does not accept
+oral testimony. See Brief for Petitioner 40, n. 11. We have
+not yet addressed, however, whether there are any limitations on the applicant’s ability to introduce new evidence
+in such a proceeding or the appropriate standard of review
+that a district court should apply when considering such
+evidence.
+II
+In 1995, respondent Gilbert Hyatt filed a patent application that, as amended, included 117 claims. The PTO’s
+patent examiner denied each claim for lack of an adequate
+written description. See 35 U. S. C. §112 (requiring patent applications to include a “specification” that provides,
+among other information, a written description of the
+invention and of the manner and process of making and
+using it). Hyatt appealed the examiner’s decision to the
+Board, which eventually approved 38 claims, but denied
+the rest. Hyatt then filed a §145 action in Federal District Court against the Director of the PTO (Director), petitioner here.
+To refute the Board’s conclusion that his patent application lacked an adequate written description, Hyatt submitted a written declaration to the District Court. In the
+declaration, Hyatt identified portions of the patent specifi-
+
+

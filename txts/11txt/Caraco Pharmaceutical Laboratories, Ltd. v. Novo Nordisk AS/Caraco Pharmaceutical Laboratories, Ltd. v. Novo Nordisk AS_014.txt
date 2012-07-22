@@ -1,0 +1,42 @@
+Cite as: 566 U. S. ____ (2012)
+
+9
+
+Opinion of the Court
+
+Caraco’s label now overlapped with Novo’s use code on the
+other two uses. And Caraco could not carve out those uses
+as well, because at that point nothing would be left for
+it to market. The FDA has approved repaglinide for only
+three uses, and Novo’s use code encompassed them all.
+The FDA accordingly informed Caraco that it could no
+longer employ section viii to bring its drug to market.
+Caraco responded to Novo’s new, preclusive use code by
+filing a statutory counterclaim in the ongoing infringement suit. The counterclaim sought an order requiring
+Novo to “correct” its use code “on the ground that [the
+’358] patent does not claim” two approved methods of
+using repaglinide—alone and in combination with TZDs.
+§355(j)(5)(C)(ii)(I); see supra, at 6–7. That order would
+permit the FDA to accept Caraco’s proposed carve-out
+label and approve the company’s ANDA. The District
+Court granted summary judgment to Caraco, enjoining
+Novo to “correct . . . its inaccurate description of the ’358
+patent” by submitting a new Form 3542 to the FDA that
+would “reinstat[e] its former” use code. App. to Pet. for
+Cert. 65a–66a.
+The Court of Appeals reversed, holding that Caraco
+lacked “a statutory basis to assert a counterclaim.” 601
+F. 3d, at 1360. The court first read the statutory phrase
+“the patent does not claim . . . an approved method of
+using the drug” to require Caraco to demonstrate that
+the ’358 patent does not claim any approved method of
+use. See id., at 1365 (“ ‘[A]n approved method’ means ‘any
+approved method’ ”). Because the patent covers one approved method of use—repaglinide in combination with
+metformin—the counterclaim was unavailable. The court
+further ruled that the counterclaim provision does not
+reach use codes because they are not “patent information
+submitted by the [brand] under subsection (b) or (c).” On
+the Federal Circuit’s view, that information consists only
+of the patent number and expiration date. See id., at
+
+

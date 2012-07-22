@@ -1,0 +1,55 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+BILSKI ET AL. v. KAPPOS, UNDER SECRETARY OF 
+
+COMMERCE FOR INTELLECTUAL PROPERTY AND 
+
+DIRECTOR, PATENT AND TRADEMARK OFFICE 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FEDERAL CIRCUIT
+No. 08–964.
+
+Argued November 9, 2009—Decided June 28, 2010
+
+Petitioners’ patent application seeks protection for a claimed invention
+that explains how commodities buyers and sellers in the energy mar
+ket can protect, or hedge, against the risk of price changes. The key
+claims are claim 1, which describes a series of steps instructing how
+to hedge risk, and claim 4, which places the claim 1 concept into a
+simple mathematical formula. The remaining claims explain how
+claims 1 and 4 can be applied to allow energy suppliers and consum
+ers to minimize the risks resulting from fluctuations in market de
+mand. The patent examiner rejected the application on the grounds
+that the invention is not implemented on a specific apparatus, merely
+manipulates an abstract idea, and solves a purely mathematical
+problem. The Board of Patent Appeals and Interferences agreed and
+affirmed. The Federal Circuit, in turn, affirmed. The en banc court
+rejected its prior test for determining whether a claimed invention
+was a patentable “process” under Patent Act, 35 U. S. C. §101—i.e.,
+whether the invention produced a “useful, concrete, and tangible re
+sult,” see, e.g., State Street Bank & Trust Co v. Signature Financial
+Group, Inc., 149 F. 3d 1368, 1373—holding instead that a claimed
+process is patent eligible if: (1) it is tied to a particular machine or
+apparatus, or (2) it transforms a particular article into a different
+state or thing. Concluding that this “machine-or-transformation test”
+is the sole test for determining patent eligibility of a “process” under
+§101, the court applied the test and held that the application was not
+patent eligible.
+Held: The judgment is affirmed.
+
+

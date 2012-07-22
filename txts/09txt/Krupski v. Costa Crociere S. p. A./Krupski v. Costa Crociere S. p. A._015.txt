@@ -1,0 +1,44 @@
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+the plaintiff misunderstood a crucial fact about his iden
+tity. Because a plaintiff’s knowledge of the existence of a
+party does not foreclose the possibility that she has made
+a mistake of identity about which that party should have
+been aware, such knowledge does not support that party’s
+interest in repose.
+Our reading is also consistent with the history of Rule
+15(c)(1)(C). That provision was added in 1966 to respond
+to a recurring problem in suits against the Federal Gov
+ernment, particularly in the Social Security context.
+Advisory Committee’s 1966 Notes 122. Individuals who
+had filed timely lawsuits challenging the administrative
+denial of benefits often failed to name the party identified
+in the statute as the proper defendant—the current Secre
+tary of what was then the Department of Health, Educa
+tion, and Welfare—and named instead the United States;
+the Department of Health, Education, and Welfare itself;
+the nonexistent “Federal Security Administration”; or a
+Secretary who had recently retired from office. Ibid. By
+the time the plaintiffs discovered their mistakes, the
+statute of limitations in many cases had expired, and the
+district courts denied the plaintiffs leave to amend on the
+ground that the amended complaints would not relate
+back. Rule 15(c) was therefore “amplified to provide a
+general solution” to this problem. Ibid. It is conceivable
+that the Social Security litigants knew or reasonably
+should have known the identity of the proper defendant
+either because of documents in their administrative cases
+or by dint of the statute setting forth the filing require
+ments. See 42 U. S. C. §405(g) (1958 ed., Supp. III).
+Nonetheless, the Advisory Committee clearly meant their
+filings to qualify as mistakes under the Rule.
+Respondent suggests that our decision in Nelson v.
+Adams USA, Inc., 529 U. S. 460 (2000), forecloses the
+reading of Rule 15(c)(1)(C)(ii) we adopt today. We dis
+agree. In that case, Adams USA, Inc. (Adams), had ob
+
+

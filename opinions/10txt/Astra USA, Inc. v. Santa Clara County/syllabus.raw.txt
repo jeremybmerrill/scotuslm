@@ -1,0 +1,125 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+ASTRA USA, INC., ET AL. v. SANTA CLARA COUNTY, 
+
+CALIFORNIA 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 09–1273. Argued January 19, 2011—Decided March 29, 2011
+Section 340B of the Public Health Services Act imposes ceilings on
+prices drug manufacturers may charge for medications sold to speci
+fied health care facilities (340B or covered entities), dominantly, local
+providers of medical care for the poor. The §340B ceiling-price pro
+gram (340B Program) is superintended by the Health Resources and
+Services Administration (HRSA), part of the Department of Health
+and Human Services (HHS). It is tied to the earlier-enacted, much
+larger Medicaid Drug Rebate Program, under which manufacturers
+gain Medicaid coverage for their drugs. To qualify for participation
+in this program, a manufacturer must enter into a standardized
+agreement with HHS undertaking to provide rebates to States on
+their Medicaid drug purchases. The amount of the rebates depends
+on a manufacturer’s “average” and “best” prices, as defined by legisla
+tion and regulation. The 340B Program, like the Medicaid Rebate
+Program, uses a form contract as an opt-in mechanism. The 340B
+Program also draws on the larger scheme’s pricing methodology. In
+the 340B Program’s contract, called the Pharmaceutical Pricing
+Agreement (PPA), manufacturers agree to charge covered entities no
+more than predetermined ceiling prices, derived from the “average”
+and “best” prices and rebates calculated under the Medicaid Rebate
+Program.
+HRSA may require a manufacturer who overcharges a covered en
+tity to reimburse that entity. HRSA may also terminate the manu
+facturer’s PPA, which terminates as well the manufacturer’s eligibil
+ity for Medicaid coverage of its drugs. Currently, HRSA handles
+overcharge complaints through informal procedures, but the 2010 Pa
+tient Protection and Affordable Care Act (PPACA) directs the Secre
+
+
+2
+
+ASTRA USA, INC. v. SANTA CLARA COUNTY
+Syllabus
+tary to develop formal procedures. Once those procedures are in
+place, HRSA will reach an “administrative resolution,” which will be
+subject to judicial review under the Administrative Procedure Act
+(APA). In addition to authorizing compensation awards to over
+charged entities, the PPACA provides for the imposition of monetary
+penalties payable to the Government.
+Respondent Santa Clara County (County), operator of several 340B
+entities, filed suit against Astra and eight other pharmaceutical com
+panies, alleging that they were overcharging 340B entities in viola
+tion of the PPAs. Asserting that 340B entities are the PPAs’ in
+tended beneficiaries, the County sought compensatory damages for
+breach of contract. The District Court dismissed the complaint, con
+cluding that the PPAs conferred no enforceable rights on 340B enti
+ties. Reversing, the Ninth Circuit held that, while 340B entities have
+no right to sue under the statute, they could proceed against drug
+manufacturers as third-party beneficiaries of the PPAs.
+
+Held: Suits by 340B entities to enforce ceiling-price contracts running
+between drug manufacturers and the Secretary of HHS are incom
+patible with the statutory regime. As the County has conceded, cov
+ered entities have no right of action under §340B itself. Congress
+vested authority to oversee compliance with the 340B Program in
+HHS and assigned no auxiliary enforcement role to covered entities.
+Nonetheless, the County maintains that the PPAs are contracts en
+forceable by covered entities as third-party beneficiaries. This argu
+ment overlooks that the PPAs simply incorporate statutory obliga
+tions and record the manufacturers’ agreement to abide by them.
+The agreements have no negotiable terms. Like the Medicaid Rebate
+Program agreements, the PPAs provide the means by which drug
+manufacturers opt into the statutory scheme. A third-party suit to
+enforce an HHS-drug manufacturer agreement, therefore, is in es
+sence a suit to enforce the statute itself. Telling in this regard, the
+County based its suit on allegations that the manufacturers charged
+more than the §340B ceiling price, not that they violated an inde
+pendent substantive obligation arising from the PPAs.
+The Ninth Circuit reasoned that suits like the County’s would
+spread the enforcement burden instead of placing it entirely on the
+Government. But spreading the enforcement burden is hardly what
+Congress contemplated when it made HHS administrator of the in
+terdependent Medicaid Rebate Program and 340B Program. Suits by
+340B entities would undermine the agency’s efforts to administer
+these two programs harmoniously and uniformly. Notably, the Medi
+caid Rebate Program’s statute prohibits HHS from disclosing pricing
+information that could reveal the prices a manufacturer charges for
+its drugs. Had Congress meant to leave open the prospect of third
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+party beneficiary suits by 340B entities, it likely would not have
+barred them from obtaining the very information necessary to deter
+mine whether their asserted rights have been violated.
+The Ninth Circuit noted that HHS’s Office of the Inspector General
+has reported on HRSA’s inadequate enforcement authority. But
+Congress did not respond to the reports of lax enforcement by invit
+ing 340B entities to launch lawsuits. Instead, Congress opted to
+strengthen and formalize HRSA’s enforcement authority, to make the
+new adjudicative framework the proper remedy for covered entities’
+complaints, and to render the agency’s resolution of those complaints
+binding, subject to judicial review under the APA. Pp. 5–10.
+588 F. 3d 1237, reversed.
+GINSBURG, J., delivered the opinion of the Court, in which all other
+Members joined, except KAGAN, J., who took no part in the considera
+tion or decision of the case.
+
+

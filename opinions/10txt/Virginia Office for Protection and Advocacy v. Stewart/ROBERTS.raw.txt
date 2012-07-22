@@ -1,0 +1,520 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+ROBERTS, C. J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–529
+_________________
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVO- 
+
+CACY, PETITIONER v. JAMES W. STEWART, III, 
+
+COMMISSIONER, VIRGINIA DEPARTMENT 
+
+OF BEHAVIORAL HEALTH AND DE- 
+
+VELOPMENTAL SERVICES, ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FOURTH CIRCUIT
+
+[April 19, 2011] 
+
+
+CHIEF JUSTICE ROBERTS, with whom JUSTICE ALITO
+joins, dissenting.
+Today the Court holds that a state agency may sue
+officials acting on behalf of the State in federal court. This
+has never happened before. In order to reach this unset
+tling result, the Court extends the fiction of Ex parte
+Young—what we have called an “empty formalism”—well
+beyond the circumstances of that case. Because I cannot
+subscribe to such a substantial and novel expansion of
+what we have also called “a narrow exception” to a State’s
+sovereign immunity, I respectfully dissent.
+I
+
+A
+
+“The federal system established by our Constitution
+preserves the sovereign status of the States.” Alden v.
+Maine, 527 U. S. 706, 714 (1999). As confirmed by the
+Eleventh Amendment, “[a]n integral component of that
+residuary and inviolable sovereignty” is the States’ “im
+munity from private suits.” Federal Maritime Comm’n v.
+South Carolina Ports Authority, 535 U. S. 743, 751–753
+(2002) (internal quotation marks omitted); Hans v. Louisi
+
+
+2
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY
+v. STEWART 
+
+ROBERTS, C. J., dissenting
+
+
+ana, 134 U. S. 1, 13 (1890) (“ ‘It is inherent in the nature of
+sovereignty not to be amenable to the suit of an individual
+without its consent’ ” (quoting The Federalist No. 81 (A.
+Hamilton))). “The preeminent purpose of state sovereign
+immunity is to accord States the dignity that is consistent
+with their status as sovereign entities.” Federal Maritime
+Comm’n, supra, at 760. Accordingly, any time a State is
+haled into federal court against its will, “the dignity and
+respect afforded [that] State, which [sovereign] immunity
+is designed to protect, are placed in jeopardy.” Idaho v.
+Coeur d’Alene Tribe of Idaho, 521 U. S. 261, 268 (1997).
+The immunity does not turn on whether relief will be
+awarded; “[t]he Eleventh Amendment is concerned not
+only with the States’ ability to withstand suit, but with
+their privilege not to be sued.” Puerto Rico Aqueduct and
+Sewer Authority v. Metcalf & Eddy, Inc., 506 U. S. 139,
+147, n. 5 (1993). See Federal Maritime Comm’n, supra, at
+769 (“the primary function of sovereign immunity is not to
+protect state treasuries, but to afford the States the dig
+nity and respect due sovereign entities” (citation omitted)).
+Because of the key role state sovereign immunity plays
+in our federal system, the Court has recognized only a few
+exceptions to that immunity. The sole one relevant here is
+the “narrow exception,” Seminole Tribe of Fla. v. Florida,
+517 U. S. 44, 76 (1996), established by our decision in Ex
+parte Young, 209 U. S. 123 (1908). In Ex parte Young, the
+Court held that private litigants could seek an injunction
+in federal court against a state official, prohibiting him
+from enforcing a state law claimed to violate the Federal
+Constitution. See id., at 159–168. As we have often ob
+served, Ex parte Young rests on the “obvious fiction,”
+Coeur d’Alene Tribe, supra, at 270, that such a suit is not
+really against the State, but rather against an individual
+who has been “stripped of his official or representative
+character” because of his unlawful conduct, Ex parte
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+ROBERTS, C. J., dissenting
+
+Young, supra, at 159–160.1
+While we have consistently acknowledged the important
+role Ex parte Young plays in “promot[ing] the vindication
+of federal rights,” we have been cautious not to give that
+decision “an expansive interpretation.” Pennhurst State
+School and Hospital v. Halderman, 465 U. S. 89, 105, 102
+(1984). Indeed, the history of our Ex parte Young juris
+prudence has largely been focused on ensuring that this
+narrow exception is “narrowly construed,” 465 U. S., at
+114, n. 25. We have, for example, held that the fiction of
+Ex parte Young does not extend to suits where the plaintiff
+seeks retroactive relief, Edelman v. Jordan, 415 U. S. 651,
+678 (1974); where the claimed violations are based on
+state law, Pennhurst, supra, at 106; where the federal law
+violation is no longer “ongoing,” Green v. Mansour, 474
+U. S. 64, 71 (1985); “where Congress has prescribed a
+detailed remedial scheme for the enforcement against a
+State” of the claimed federal right, Seminole Tribe, supra,
+at 74; and where “special sovereignty interests” are impli
+cated, Coeur d’Alene Tribe, supra, at 281.
+We recently stated that when “determining whether the
+doctrine of Ex parte Young avoids an Eleventh Amend
+ment bar to suit, a court need only conduct a straightfor
+ward inquiry into whether [the] complaint alleges an
+ongoing violation of federal law and seeks relief properly
+characterized as prospective.” Verizon Md. Inc. v. Public
+Serv. Comm’n of Md., 535 U. S. 635, 645 (2002) (internal
+quotation marks omitted). But not every plaintiff who
+complies with these prerequisites will be able to bring suit
+under Ex parte Young. Indeed, in Verizon itself the Court
+went beyond its so-called straightforward inquiry in con
+——————
+1 Ex parte Young also rests on the “well-recognized irony that an offi
+cial’s unconstitutional conduct constitutes state action under the
+Fourteenth Amendment but not the Eleventh Amendment.” Pennhurst
+State School and Hospital v. Halderman, 465 U. S. 89, 105 (1984)
+(internal quotation marks omitted).
+
+
+4
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY
+v. STEWART 
+
+ROBERTS, C. J., dissenting
+
+
+sidering whether Ex parte Young applied. After deciding
+the plaintiffs “clearly satisfie[d]” the “straightforward
+inquiry,” the Court went on to examine whether Congress
+had created a detailed remedial scheme like the one in
+Seminole Tribe. 535 U. S., at 645, 647–648 (internal
+quotation marks omitted). Only after determining that
+Congress had not done so did the Court conclude that the
+suit could go forward under Ex parte Young.
+If Verizon’s formulation set forth the only requirements
+for bringing an action under Ex parte Young, two of our
+recent precedents were wrongly decided. In Seminole
+Tribe, the Court acknowledged that it had often “found
+federal jurisdiction over a suit against a state official when
+that suit seeks only prospective injunctive relief in order
+to end a continuing violation of federal law.” 517 U. S., at
+73 (internal quotation marks omitted). The Court held,
+however, that the “situation presented” there was “suffi
+ciently different from that giving rise to the traditional Ex
+parte Young action so as to preclude the availability of
+that doctrine.” Ibid.2
+In Coeur d’Alene Tribe, the Court recognized that an
+“allegation of an ongoing violation of federal law where the
+requested relief is prospective is ordinarily sufficient to
+invoke the Young fiction.” 521 U. S., at 281 (emphasis
+added). The Court held, however, that the action could
+not proceed under Ex parte Young because it implicated
+“special sovereignty interests”—in that case, the State’s
+——————
+2 While I agree that in Seminole Tribe “we refused to permit suit to
+proceed” under Ex parte Young because Congress “had foreclosed
+recourse to the doctrine,” ante, at 7, n. 3, that simply confirms my point
+that the availability of Young depends on more than just whether
+Verizon’s prescribed inquiry is satisfied. In short, Seminole Tribe
+makes clear that a plaintiff who files a “complaint alleg[ing] an ongoing
+violation of federal law and seeks relief properly characterized as
+prospective,” Verizon, 535 U. S., at 645 (internal quotation marks
+omitted), may nonetheless be barred from pursuing an action under
+Young.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+5
+
+ROBERTS, C. J., dissenting
+
+property rights in certain submerged lands. 521 U. S., at
+281–283.
+As we explained in Papasan v. Allain, 478 U. S. 265
+(1986), there are “certain types of cases that formally meet
+the Young requirements of a state official acting inconsis
+tently with federal law but that stretch that case too far
+and would upset the balance of federal and state interests
+that it embodies.” Id., at 277. This is one of those cases.
+In refusing to extend Ex parte Young to claims that
+involve “special sovereignty interests,” the Court in Coeur
+d’Alene Tribe warned against a rote application of the Ex
+parte Young fiction:
+“To interpret Young to permit a federal-court action
+to proceed in every case where prospective declaratory
+and injunctive relief is sought against an officer,
+named in his individual capacity, would be to adhere
+to an empty formalism and to undermine the principle
+. . . that Eleventh Amendment immunity represents a
+real limitation on a federal court’s federal-question ju
+risdiction. The real interests served by the Eleventh
+Amendment are not to be sacrificed to elementary me
+chanics of captions and pleading. Application of the
+Young exception must reflect a proper understanding
+of its role in our federal system and respect for state
+courts instead of a reflexive reliance on an obvious fic
+tion.” 521 U. S., at 270.
+B
+It is undisputed that petitioner’s complaint alleges an
+ongoing violation of federal law by a state official and
+seeks only prospective relief. If this were a “traditional Ex
+parte Young action,” Seminole Tribe, supra, at 73, peti
+tioner might very well be able to pursue its claims under
+that case. This, however, is anything but a traditional
+case—and petitioner is anything but a typical Ex parte
+Young plaintiff.
+
+
+6
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY
+v. STEWART
+ROBERTS, C. J., dissenting
+
+Unlike the plaintiffs in Ex parte Young—and, for that
+matter, unlike any other plaintiff that has ever sought to
+invoke Ex parte Young before this Court—petitioner is a
+state agency seeking to sue officials of the same State in
+federal court. The Court is troubled by this novelty, ante
+at 12–13, but not enough. See Free Enterprise Fund v.
+Public Company Accounting Oversight Bd., 561 U. S. ___,
+___ (2010) (slip op., at 25) (“Perhaps the most telling indi
+cation of [a] severe constitutional problem . . . is the lack of
+historical precedent” (internal quotation marks omitted));
+cf. Alden, 527 U. S., at 743–745; Printz v. United States,
+521 U. S. 898, 905–910, 918, 925 (1997). This is especially
+true in light of the “presumption” we articulated more
+than 120 years ago in Hans v. Louisiana, that States are
+immune from suits that would have been “anomalous and
+unheard of when the Constitution was adopted.” Hans,
+134 U. S., at 18; see also Alden, supra, at 727 (invoking
+presumption).
+Accordingly, when determining whether to lift the bar of
+sovereign immunity, we have “attribute[d] great signifi
+cance” to the absence of analogous suits “at the time of the
+founding or for many years thereafter.” Federal Maritime
+Comm’n, 535 U. S., at 755. This sort of suit was not only
+anomalous and unheard of at the time of the founding; it
+was anomalous and unheard of yesterday. The Hans
+presumption applies here with full force.
+The Court speculates that these suits have not previ
+ously arisen because the necessary conditions—state
+agencies pursuing a federal right free of internal state
+veto—are themselves novel. See ante, at 12; see also ante,
+at 3–4 (KENNEDY, J., concurring). Even if true, that sim
+ply highlights the fact that this case is not suitable for
+mere rote application of Ex parte Young.
+In addition to its novel character, petitioner’s complaint
+“conflicts directly with the principles of federalism that
+underlie the Eleventh Amendment.” Pennhurst, 465 U. S.,
+
+
+Cite as: 563 U. S. ____ (2011)
+
+7
+
+ROBERTS, C. J., dissenting
+
+at 106. In Alden, we held that state sovereign immunity prohibited Congress from authorizing “private suits
+against nonconsenting States in their own courts.” 527
+U. S., at 749. We explained that such power would permit
+one branch of state government, the “State’s own courts,”
+“to coerce the other branches of the State” and “to turn the
+State against itself.” Ibid.
+Here the Court goes further: this suit features a state
+agency on one side, and state executive officials on the
+other. The objection in Alden was that the Federal Gov
+ernment could force the State to defend itself before itself.
+Here extending Young forces the State to defend itself
+against itself in federal court.
+Both sides in this case exercise the sovereign power of
+the Commonwealth of Virginia. Petitioner claims the title
+of “The Commonwealth of Virginia” in its complaint, App.
+10; respondents are state officials acting in an official
+capacity. Whatever the decision in the litigation, one
+thing is clear: The Commonwealth will win. And the
+Commonwealth will lose. Because of today’s holding, a
+federal judge will resolve which part of the Common
+wealth will prevail.
+Virginia has not consented to such a suit in federal
+court; rather, petitioner has unilaterally determined that
+this intramural dispute should be resolved in that forum.
+This is precisely what sovereign immunity is supposed to
+guard against. See ante, at 10 (“The specific indignity
+against which sovereign immunity protects is the insult to
+a State of being haled into court without its consent”).
+That indignity is compounded when the State is haled into
+federal court so that a federal judge can decide an internal
+state dispute.
+The Court is wrong to suggest that Virginia has no
+sovereign interest in determining where such disputes will
+be resolved. See ante, at 10–11, and n. 6. It is one thing
+for a State to decide that its components may sue one
+
+
+8
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY
+v. STEWART
+ROBERTS, C. J., dissenting
+
+another in its own courts (as Virginia did here); it is quite
+another thing for such a dispute to be resolved in federal
+court against the State’s wishes. For this reason, the
+Court’s examples of other suits pitting state entities
+against one another are inapposite. In each of those hy
+potheticals, the State consented to having a particular
+forum resolve its internal conflict. That is not true here.3
+In sum, the “special sovereignty interests” implicated
+here make this case “sufficiently different from that giving
+rise to the traditional Ex parte Young action so as to pre
+clude the availability of that doctrine.” Seminole Tribe,
+517 U. S., at 73. I would cling to reality and not extend
+the fiction of Ex parte Young to cover petitioner’s suit.
+II
+The Court offers several justifications for its expansion
+of Ex parte Young. None is persuasive.
+The Court first contends that whether the Ex parte
+Young fiction should be applied turns only on the “relief
+sought” in a case. Ante, at 8–9 (internal quotation marks
+omitted). The Court is correct that several of our prior
+cases have focused on the nature of the relief requested.
+See, e.g., Edelman, 415 U. S., at 664–671. That may well
+be because “the difference between the type of relief
+barred by the Eleventh Amendment and that permitted
+——————
+3 Sovereign immunity principles would of course not prohibit this
+Court from reviewing the federal questions presented by this suit if it
+had been filed in state court. See ante, at 11. We have held that “it is
+inherent in the constitutional plan that when a state court takes
+cognizance of a case, the State assents to appellate review by this Court
+of the federal issues raised in the case whoever may be the parties to
+the original suit, whether private persons, or the state itself.” McKes
+son Corp. v. Division of Alcoholic Beverages and Tobacco, Fla. Dept. of
+Business Regulation, 496 U. S. 18, 30 (1990) (internal quotation marks
+and citation omitted). By contrast, there is nothing “inherent in the
+constitutional plan” that warrants lower federal courts handling
+intrastate disputes absent a State’s consent.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+9
+
+ROBERTS, C. J., dissenting
+
+under Ex parte Young will not in many instances be that
+between day and night.” Id., at 667. But the Court is
+wrong to draw a negative implication from those cases and
+categorically conclude that there can be no other basis for
+determining whether to extend Ex parte Young’s fiction.
+The thrust of the Court’s argument appears to be that,
+because the relief sought here is no different from that
+which could be sought in a suit by a private protection and
+advocacy system, the doctrine of Ex parte Young should
+also apply to a suit brought by a state system. Ante, at 7–
+9. But private entities are different from public ones:
+They are private. When private litigants are involved, the
+State is not turned against itself.
+Contrary to the Court’s suggestion, see ante, at 9, there
+is indeed a real difference between a suit against the State
+brought by a private party and one brought by a state
+agency. It is the difference between eating and cannibal
+ism; between murder and patricide. While the ultimate
+results may be the same—a full stomach and a dead
+body—it is the means of getting there that attracts notice.
+I would think it more an affront to someone’s dignity to be
+sued by a brother than to be sued by a stranger. While
+neither may be welcomed, that does not mean they would
+be equally received.
+The Court also contends that petitioner’s ability to sue
+state officials in federal court “is a consequence of Vir
+ginia’s own decision to establish a public [protection and
+advocacy] system.” Ibid. This cannot mean that Virginia
+has consented to an infringement on its sovereignty. That
+argument was rejected below, and petitioner did not seek
+certiorari on that issue. See Virginia v. Reinhard, 565
+F. 3d 110, 116–118 (CA4 2009); Pet. for Cert. i.
+Instead the Court claims that “Virginia has only itself to
+blame”—if it wanted to avoid its current predicament, it
+could have chosen to establish a private entity instead.
+Ante, at 9–10, and n. 5; see also ante, at 3 (KENNEDY, J.,
+
+
+10
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY
+v. STEWART 
+
+ROBERTS, C. J., dissenting
+
+
+concurring). But I am aware of no doctrine to the effect
+that an unconstitutional establishment is insulated from
+challenge simply because a constitutional alternative is
+available. And here the public and private systems are
+not interchangeable alternatives in any event.
+The Court’s analysis is also circular; it wrongly assumes
+Virginia knew in advance the answer to the question
+presented in this case. Only after concluding that Ex parte
+Young applies to this arrangement—that for the first time
+in history a state agency may sue an unwilling State in
+federal court—can the Court suggest that Virginia know
+ingly exposed its officers to suit in federal court.
+In a similar vein, the Court asserts that because Vir
+ginia law authorizes petitioner to exercise independent
+litigating authority, petitioner should be treated the same
+“as any other litigant.” Ante, at 13. But petitioner is not
+like any other litigant. While it is true petitioner enjoys
+some independence from the State’s executive branch, that
+does not mean petitioner is independent from the State.
+As noted, petitioner certainly views itself as “The Com
+monwealth of Virginia,” App. 10, and would presumably
+invoke sovereign immunity itself if sued. As a matter of
+sovereign immunity law, it should make no difference how
+a State chooses to allocate its governmental powers among
+different state agencies or officials.
+The Court is wrong to suggest that simply because
+petitioner possesses independent litigating authority, it
+may sue state officials in federal court. See ante, at 13
+(“the Eleventh Amendment presents no obstacle” since it
+“was Virginia law that created [petitioner] and gave it the
+power to sue state officials”). There is more to this case
+than merely whether petitioner needs the approval of the
+Attorney General to sue, and the Virginia Code provisions
+cited by the Court say nothing about actions against the
+State in federal court.
+If independent litigating authority is all that it takes,
+
+
+Cite as: 563 U. S. ____ (2011)
+
+11
+
+ROBERTS, C. J., dissenting
+
+then scores of state entities now “suddenly possess the
+authority to pursue Ex parte Young actions against other
+state officials” in federal court. Reinhard, supra, at 124.
+There would be no Eleventh Amendment impediment to
+such suits. Given the number of state agencies across the
+country that enjoy independent litigating authority, see,
+e.g., Brief for State of Indiana et al. as Amici Curiae 11–
+13, the Court’s decision today could potentially lead to all
+sorts of litigation in federal courts addressing internal
+state government disputes.
+And there is also no reason to think that the Court’s
+holding is limited to state agency plaintiffs. According to
+the Court’s basic rationale, state officials who enjoy some
+level of independence could as a matter of federal law
+bring suit against other state officials in federal court.
+Disputes that were formerly resolved in state cabinet
+rooms may now appear on the dockets of federal courts.
+*
+*
+*
+No one questions the continued vitality or importance of
+the doctrine announced in Ex parte Young. But Ex parte
+Young was about affording relief to a private party against
+unconstitutional state action. It was not about resolving
+a dispute between two different state actors. That is a
+matter for the State to sort out, not a federal judge.
+Our decision in Chisholm v. Georgia, 2 Dall. 419
+(1793)—permitting States to be sued by private parties in
+federal court—“created such a shock of surprise” through
+out the country “that the Eleventh Amendment was at
+once proposed and adopted.” Principality of Monaco v.
+Mississippi, 292 U. S. 313, 325 (1934). It is fair to say that
+today’s decision will probably not trigger a similar re
+sponse. But however much their practical functions and
+prominence may have changed in the past 218 years, the
+States remain a vital element of our political structure.
+Sovereign immunity ensures that States retain a stature
+
+
+12
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY
+v. STEWART
+ROBERTS, C. J., dissenting
+
+commensurate with their role under the Constitution.
+Allowing one part of the State to sue another in federal
+court, so that a federal judge decides an important dispute
+between state officials, undermines state sovereignty in
+an unprecedented and direct way. The fiction of Ex parte
+Young should not be extended to permit so real an
+intrusion.
+Because I believe the Court’s novel expansion of Ex
+parte Young is inconsistent with the federal system estab
+lished by our Constitution, I respectfully dissent.
+
+

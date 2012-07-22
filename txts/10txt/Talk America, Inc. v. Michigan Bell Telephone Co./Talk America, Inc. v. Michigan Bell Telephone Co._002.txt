@@ -1,0 +1,57 @@
+2
+
+TALK AMERICA, INC. v. MICHIGAN BELL 
+
+TELEPHONE CO.
+Syllabus 
+
+
+
+
+
+LECs’ §251(c)(2) obligation to provide for interconnection. Thus, the
+practical effect of the order was only that incumbent LECs were not
+obligated to unbundle entrance facilities for backhauling purposes.
+In 2005, following D. C. Circuit review, the FCC issued its Trien
+nial Review Remand Order. The FCC retreated from the view that
+entrance facilities are not network elements, but adhered to its pre
+vious position that cost-based unbundled access to such facilities
+need not be provided under §251(c)(3). Treating entrance facilities as
+network elements, the FCC concluded that competitive LECs are not
+impaired without access to such facilities. The FCC again empha
+sized that competitive LECs’ §251(c)(2) right to obtain interconnec
+tion had not been altered.
+In the Remand Order’s wake, respondent AT&T notified competi
+tive LECs that it would no longer provide entrance facilities at cost
+based rates for either backhauling or interconnection, but would in
+stead charge higher rates. Competitive LECs complained to the
+Michigan Public Service Commission that AT&T was unlawfully ab
+rogating their §251(c)(2) right to cost-based interconnection. The
+Michigan Public Service Commission agreed and ordered AT&T to
+continue providing entrance facilities for interconnection at cost
+based rates. AT&T challenged the ruling. Relying on the Remand
+Order, the Federal District Court ruled in AT&T’s favor. The Sixth
+Circuit affirmed, declining to defer to the FCC’s argument that the
+order did not change incumbent LECs’ interconnection obligations,
+including the obligation to lease entrance facilities for interconnec
+tion.
+Held: The FCC has advanced a reasonable interpretation of its regula
+tions—i.e., that to satisfy its duty under §251(c)(2), an incumbent
+LEC must make its existing entrance facilities available to competi
+tors at cost-based rates if the facilities are to be used for interconnec
+tion—and this Court defers to the FCC’s views. Pp. 6–16.
+(a) No statute or regulation squarely addresses the question. Pp.
+6–7.
+(b) Absent an unambiguous statute or regulation, the Court turns
+to the FCC’s interpretation of its regulations in its amicus brief. See,
+e.g., Chase Bank USA, N. A. v. McCoy, 562 U. S. ___, ___. The FCC
+proffers a three-step argument why its regulations require AT&T to
+provide access at cost-based rates to existing entrance facilities for
+interconnection purposes. Pp. 7–10.
+(1) Interpreting 47 CFR §51.321(a), the FCC first contends that
+an incumbent LEC must lease “technically feasible” facilities for in
+terconnection. Pp. 8–9.
+(2) The FCC contends, second, that existing entrance facilities
+are part of an incumbent LEC’s network, 47 CFR §51.319(e), and
+
+

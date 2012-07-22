@@ -1,0 +1,43 @@
+2
+
+CIGNA CORP. v. AMARA
+SCALIA, J., concurring in judgment
+
+that it is not is eliminated by ERISA’s repeated differen
+tiation of SPDs from the “written instruments” that con
+stitute a plan, see, e.g., §§1029(c), 1024(b)(2), and ERISA’s
+assignment to different entities of responsibility for draft
+ing and amending SPDs on the one hand and plans on the
+other, see §§1002(1), (2)(A); 1021(a) (2006 ed. and Supp.
+III), 1024(b)(1); Beck v. PACE Int’l Union, 551 U. S. 96,
+101 (2007). An SPD, moreover, would not fulfill its pur
+pose of providing an easily accessible summary of the plan
+if it were an authoritative part of the plan itself; the minor
+omissions appropriate for a summary would risk revising
+the plan.
+Nothing else needs to be said to dispose of this case.
+The District Court based the relief it awarded upon
+ERISA §502(a)(1)(B), and that provision alone. It thought
+that the “benefits” due “under the terms of the plan,” 29
+U. S. C. §1132(a)(1)(B), could derive from an SPD, either
+because the SPD is part of the plan or because it is capable
+of somehow modifying the plan. Under either justifica
+tion, that conclusion is wrong. An SPD is separate from a
+plan, and cannot amend a plan unless the plan so pro
+vides. See Curtiss-Wright Corp. v. Schoonejongen, 514
+U. S. 73, 79, 85 (1995). I would go no further.
+The Court, however, ventures on to address a different
+question: whether respondents may recover under
+§502(a)(3) of ERISA, which allows plan participants “to
+obtain other appropriate equitable relief.” 29 U. S. C.
+§1132(a)(3). The District Court expressly declined to
+answer this question, stating that it “need not consider
+whether any relief ordered under §502(a)(1)(B) would also
+be available under §502(a)(3).” 559 F. Supp. 2d 192, 205
+(Conn. 2008). It did note that §502(a)(3) might not help
+respondents because that provision authorizes only relief
+that was “ ‘typically available in equity.’ ” Ibid. (quoting
+Great-West Life & Annuity Ins. Co. v. Knudson, 534 U. S.
+204, 210 (2002)). But it described this question as “par
+
+

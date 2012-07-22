@@ -1,0 +1,42 @@
+18
+
+PEPPER v. UNITED STATES
+Opinion of the Court
+
+mand to apply the Guidelines range, as §3742(g)(2) does,
+will often result in a Sixth Amendment violation for the
+reasons we explained in Booker. Accordingly, as with the
+provisions in Booker, the proper remedy here is to invali
+date §3742(g)(2).
+The sentencing proceeding at issue in Booker itself
+illustrates why §3742(g)(2) cannot withstand Sixth
+Amendment scrutiny. The district court in Booker in
+creased the defendant’s then-mandatory Guidelines range
+based on a drug-quantity finding that it, rather than
+the jury, made. 543 U. S., at 227. After we held that the
+Guidelines must be treated as advisory, we remanded the
+case for resentencing. Id., at 267. Had §3742(g)(2) re
+mained valid after Booker, the district court on remand
+would have been required to sentence within the Guide
+lines range because it did not depart from the Guidelines
+at the original sentencing. Accordingly, the resentencing
+judge in Booker would have been required under
+§3742(g)(2) to impose a Guidelines sentence based on
+judge-found facts concerning drug quantity, the precise
+result that Booker forbids.
+The same result would occur in any sentencing in which
+a district court erroneously refuses to impose a sentence
+outside the Guidelines range “based on a misunderstand
+ing of its authority to depart under or vary from the
+Guidelines.” Reply Brief for United States 16. For exam
+ple, if §3742(g)(2) remained valid, there would be no rem
+edy at resentencing if a district court erroneously believed
+the Guidelines were presumptively reasonable, see Nelson
+v. United States, 555 U. S. ___, ___ (2009) (per curiam)
+(slip op., at 2), or if it mistakenly thought that a nonGuidelines sentence required extraordinary circum
+stances, see Gall, 552 U. S., at 47, or if it incorrectly con
+cluded that it could not vary from the Guidelines based on
+a policy disagreement with their disparate treatment of
+crack and powder cocaine, see Kimbrough, 552 U. S., at
+
+

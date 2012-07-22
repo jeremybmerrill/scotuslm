@@ -1,0 +1,51 @@
+10
+
+TALK AMERICA, INC. v. MICHIGAN BELL 
+
+TELEPHONE CO.
+Opinion of the Court 
+
+
+
+
+
+3
+Finally, the FCC contends that providing access to the
+entrance facilities here for interconnection purposes is
+technically feasible. Under the Commission’s regulations,
+an incumbent LEC bears the burden of showing that a
+requested method or point of interconnection is technically
+infeasible. See 47 CFR §§51.305(e), 51.321(d); see also
+§§51.305(d), 51.321(c) (previously successful intercon­
+nection is “substantial evidence” of technical feasibility).
+AT&T does not dispute technical feasibility here.4
+C
+The FCC’s interpretation is not “plainly erroneous or
+inconsistent with the regulation[s]. ” Auer, supra, at 461
+(internal quotation marks omitted). First, we disagree
+with AT&T’s argument that entrance facilities are not a
+part of incumbent LECs’ networks. Indeed, the Commis­
+sion’s view on this question is more than reasonable; it is
+certainly not plainly erroneous. The Triennial Review
+Remand Order responded to the D. C. Circuit’s decision
+questioning the Commission’s earlier finding that en­
+trance facilities are not network elements. It revised
+the definition of dedicated transport—a type of network
+——————
+4 These cases concern only existing entrance facilities, and the Com­
+mission expressly declines to address whether it reads its regulations to
+require incumbent LECs to build new entrance facilities for intercon­
+nection. Brief for United States as Amicus Curiae 25, n. 7. The Com­
+mission suggests here, as it has before, that additional considerations of
+cost or reasonableness might be appropriate if a competitive LEC were
+to request that an incumbent LEC build new entrance facilities for
+interconnection. Ibid. (noting that the Commission’s Wireline Competi­
+tion Bureau has declined to require an incumbent LEC to bear the
+entire cost of building new entrance facilities); see also Local Competi
+tion Order ¶553 (explaining with respect to meet-point arrangements
+that “the parties and state commissions are in a better position than
+the Commission to determine the appropriate distance that would
+constitute the required reasonable accommodation of interconnection”).
+We express no view on the matter.
+
+

@@ -1,0 +1,42 @@
+18
+
+MICROSOFT CORP. v. i4i LTD. PARTNERSHIP
+Opinion of the Court
+
+ated by the PTO, the jury may be instructed to consider
+that question. In either case, the jury may be instructed
+to evaluate whether the evidence before it is materially
+new, and if so, to consider that fact when determining
+whether an invalidity defense has been proved by clear
+and convincing evidence. Cf., e.g., Mendenhall v. Cedarap
+ids, Inc., 5 F. 3d 1557, 1563–1564 (CA Fed. 1993); see
+also Brief for International Business Machines Corp. as
+Amicus Curiae 31–37. Although Microsoft emphasized in
+its argument to the jury that S4 was never considered by
+the PTO, it failed to request an instruction along these
+lines from the District Court. Now, in its reply brief in
+this Court, Microsoft insists that an instruction of this
+kind was warranted. Reply Brief for Petitioner 22–23.
+That argument, however, comes far too late, and we there
+fore refuse to consider it. See Rent-A-Center, West, Inc. v.
+Jackson, 561 U. S. ___ , ___ (2010) (slip op., at 12); cf. Fed.
+Rule Civ. Proc. 51(d)(1)(B).
+III
+The parties and their amici have presented opposing
+views as to the wisdom of the clear-and-convincing
+evidence standard that Congress adopted. Microsoft and
+its amici contend that the heightened standard of proof
+dampens innovation by unduly insulating “bad” patents
+from invalidity challenges. They point to the high invali
+dation rate as evidence that the PTO grants patent protec
+tion to too many undeserving “inventions.” They claim
+that inter partes reexamination proceedings before the
+PTO cannot fix the problem, as some grounds for invalida
+tion (like the on-sale bar at issue here) cannot be raised in
+such proceedings. They question the deference that the
+PTO’s expert determinations warrant, in light of the
+agency’s resources and procedures, which they deem in
+adequate. And, they insist that the heightened standard
+of proof essentially causes juries to abdicate their role in
+
+

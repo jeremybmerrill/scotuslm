@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+BARBER ET AL. v. THOMAS, WARDEN
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 09–5201. Argued March 30, 2010—Decided June 7, 2010
+The federal sentencing statute at issue provides that a “prisoner . . .
+serving a term of imprisonment of more than 1 year . . . may receive
+credit toward the service of [that] sentence . . . of up to 54 days at the
+end of each year” subject to the Bureau of Prison’s (BOP) “determina
+tion . . . that, during that year, the prisoner” has behaved in an ex
+emplary fashion. 18 U. S. C. §3624(b)(1). Credit “for the last year or
+portion of a year of the term of imprisonment [is] prorated . . . .” Ibid.
+The BOP applies this statute using a methodology that awards 54
+days of credit at the end of each year the prisoner serves and sets
+those days to the side. When the difference between the time re
+maining in the sentence and the amount of accumulated credit is less
+than one year, the BOP awards a prorated amount of credit for that
+final year proportional to the awards in other years.
+Petitioners claim that the BOP’s calculation method is unlawful
+because §3624(b)(1) requires a calculation based on the length of the
+term of imprisonment imposed by the sentencing judge, not the
+length of time that the prisoner actually serves. The District Court
+rejected this challenge in each of petitioner’s cases, and the Ninth
+Circuit affirmed.
+Held: Because the BOP’s method for calculating good time credit re
+flects the most natural reading of the statute, it is lawful. Pp. 5–17.
+(a) The statute’s language and purpose, taken together, support the
+BOP’s method. That method tracks §3624(b)’s language by providing
+a prisoner a maximum credit of 54 days for each full year of impris
+onment and a proportionally adjusted amount of credit for any addi
+tional time served that is less than a full year. As §3624(b) directs,
+the BOP awards the credit “at the end of each year” of imprisonment.
+Petitioners’ approach cannot be reconciled with the statute. Because
+
+

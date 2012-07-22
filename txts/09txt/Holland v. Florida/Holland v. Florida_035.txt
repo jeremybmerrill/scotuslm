@@ -1,0 +1,46 @@
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+SCALIA, J., dissenting
+
+bar is subject to tolling, but whether it is consistent with
+§2244(d) for federal courts to toll the time bar for addi
+tional reasons beyond those Congress included.
+In my view it is not. It is fair enough to infer, when a
+statute of limitations says nothing about equitable tolling,
+that Congress did not displace the default rule. But when
+Congress has codified that default rule and specified the
+instances where it applies, we have no warrant to extend
+it to other cases. See United States v. Beggerly, 524 U. S.
+38, 48–49 (1998). Unless the Court believes §2244(d)
+contains an implicit, across-the-board exception that
+subsumes (and thus renders unnecessary) §2244(d)(1)(B)–
+(D) and (d)(2), it must rely on the untenable assumption
+that when Congress enumerated the events that toll the
+limitations period—with no indication the list is merely
+illustrative—it implicitly authorized courts to add others
+as they see fit. We should assume the opposite: that by
+specifying situations in which an equitable principle ap
+plies to a specific requirement, Congress has displaced
+courts’ discretion to develop ad hoc exceptions. Cf. Lon
+char v. Thomas, 517 U. S. 314, 326–328 (1996).
+The Court’s responses are unpersuasive. It brushes
+aside §2244(d)(1)(B)–(D), apparently because those subdi
+visions merely delay the start of the limitations period but
+do not suspend a limitations period already underway.
+Ante, at 15. But the Court does not explain why that
+distinction makes any difference,2 and we have described a
+——————
+2 The Court cites several Court of Appeals cases that support its trig
+gering-tolling distinction, ante, at 15, but no case of ours that does so.
+Clay v. United States, 537 U. S. 522, 529 (2003), described
+§2244(d)(1)(A) as containing “triggers” for the limitations period, but it
+did not distinguish delaying the start of the limitations period from
+tolling. The Court of Appeals cases the Court cites, Cada v. Baxter
+Healthcare Corp., 920 F. 2d 446, 450 (CA7 1990), Wolin v. Smith
+Barney Inc., 83 F. 3d 847, 852 (CA7 1996), and Wims v. United States,
+225 F. 3d 186, 190 (CA2 2000), rely on a distinction between accrual
+rules and tolling that we have since disregarded, see TRW Inc. v.
+
+

@@ -1,0 +1,39 @@
+Cite as: 566 U. S. ____ (2012)
+
+13
+
+Opinion of the Court
+
+Rules of Evidence and the Federal Rules of Civil Procedure.” 625 F. 3d, at 1331.
+We also agree with the Federal Circuit’s longstanding
+view that, “where new evidence is presented to the district
+court on a disputed fact question, a de novo finding will be
+necessary to take such evidence into account together with
+the evidence before the board.” Fregeau v. Mossinghoff,
+776 F. 2d 1034, 1038 (1985). As we noted in Zurko,
+the district court acts as a factfinder when new evidence
+is introduced in a §145 proceeding. 527 U. S., at 164. The
+district court must assess the credibility of new witnesses
+and other evidence, determine how the new evidence
+comports with the existing administrative record, and
+decide what weight the new evidence deserves. As a
+logical matter, the district court can only make these
+determinations de novo because it is the first tribunal to
+hear the evidence in question. Furthermore, a de novo
+standard adheres to this Court’s instruction in Butterworth that an R. S. 4915 proceeding be heard “upon the
+whole merits” and conducted “according to the ordinary
+course of equity practice and procedure.” 112 U. S., at 61.
+D
+Although we reject the Director’s proposal for a stricter
+evidentiary rule and an elevated standard of review in
+§145 proceedings, we agree with the Federal Circuit that
+the district court may, in its discretion, “consider the
+proceedings before and findings of the Patent Office in
+deciding what weight to afford an applicant’s newlyadmitted evidence.” 625 F. 3d, at 1335. Though the PTO
+has special expertise in evaluating patent applications,
+the district court cannot meaningfully defer to the PTO’s
+factual findings if the PTO considered a different set of
+facts. Supra, at 8; cf. Microsoft Corp. v. i4i Ltd. Partnership, 564 U. S. ___, ___ (2011) (slip op., at 19) (noting that
+“if the PTO did not have all material facts before it, its
+
+

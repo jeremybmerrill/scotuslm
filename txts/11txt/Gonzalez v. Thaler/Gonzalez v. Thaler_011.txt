@@ -1,0 +1,38 @@
+8
+
+GONZALEZ v. THALER
+Opinion of the Court
+
+peals] courts.” Arbaugh, 546 U. S., at 515 (internal quotation marks omitted). The unambiguous jurisdictional
+terms of §§2253(a), (b), and (c)(1) show that Congress
+would have spoken in clearer terms if it intended
+§2253(c)(3) to have similar jurisdictional force. Instead,
+the contrast underscores that the failure to obtain a COA
+is jurisdictional, while a COA’s failure to indicate an issue
+is not. A defective COA is not equivalent to the lack of any
+COA.
+It is telling, moreover, that Congress placed the power
+to issue COAs in the hands of a “circuit justice or judge.”5
+It would seem somewhat counterintuitive to render a
+panel of court of appeals judges powerless to act on appeals based on COAs that Congress specifically empowered one court of appeals judge to grant. Indeed, whereas
+§2253(c)(2)’s substantial-showing requirement at least describes a burden that “the applicant” seeking a COA
+bears, §2253(c)(3)’s indication requirement binds only the
+judge issuing the COA. Notably, Gonzalez advanced both
+the timeliness and Sixth Amendment issues in his application for a COA. A petitioner, having successfully obtained a COA, has no control over how the judge drafts the
+COA and, as in Gonzalez’s case, may have done everything
+required of him by law. That fact would only compound
+the “unfai[r] prejudice” resulting from the sua sponte
+dismissals and remands that jurisdictional treatment
+would entail. Henderson, 562 U. S., at ___ (slip op., at 5).6
+——————
+5 The courts of appeals uniformly interpret “circuit justice or judge” to
+encompass district judges. See United States v. Mitchell, 216 F. 3d
+1126, 1129 (CADC 2000) (collecting cases); Fed. Rule App. Proc. 22(b).
+Habeas Corpus Rule 11(a) requires district judges to decide whether to
+grant or deny a COA in the first instance.
+6 That fact also distinguishes the indication requirement from every
+“ ‘similar provisio[n]’ ” that the dissent claims we have deemed jurisdictional. Post, at 5–6. None of our cases addressing those provisions,
+moreover, recognized or relied on the sweeping “rule” that the dissent
+now invokes, whereby this Court should enforce as jurisdictional all
+
+

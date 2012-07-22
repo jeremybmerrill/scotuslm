@@ -1,0 +1,44 @@
+2
+
+UNITED STATES v. O’BRIEN
+STEVENS, J., concurring
+
+criminal offense itself. In these circumstances, I continue
+to believe the Constitution requires proof beyond a rea
+sonable doubt of this “factor.”
+I
+We first encountered the use of a “sentencing factor” in
+the mandatory minimum context in McMillan v. Pennsyl
+vania, 477 U. S. 79 (1986), when we examined the consti
+tutionality of Pennsylvania’s 1982 Mandatory Minimum
+Sentencing Act (Act).2 The Pennsylvania statute subjected
+anyone convicted of a specified felony to a mandatory
+minimum 5-year sentence if the trial judge found, by a
+preponderance of the evidence, that the defendant “visibly
+possessed a firearm” during the commission of the offense.
+See id., at 81–82. In four prosecutions under the Act, the
+trial judges had each held that the statute was unconstitu
+tional and imposed sentences lower than the 5-year man
+datory minimum, presumably because they recognized
+that the statute treated the visible possession of a firearm
+as the functional equivalent of an offense element. Id., at
+82. On appeal, the Pennsylvania Supreme Court consoli
+dated the four cases and reversed.3 Id., at 83. It reasoned
+that because visible possession of a firearm was a mere
+“sentencing factor,” rather than an element of any of the
+specified offenses defined by the legislature, the protec
+tions afforded by cases like In re Winship, 397 U. S. 358
+(1970),4 did not apply.
+A bare majority of the McMillan Court endorsed this
+——————
+2 See Apprendi v. New Jersey, 530 U. S. 466, 485 (2000) (“It was in
+McMillan . . . that this Court, for the first time, coined the term ‘sen
+tencing factor’ to refer to a fact that was not found by a jury but that
+could affect the sentence imposed by the judge”).
+3 Commonwealth v. Wright, 508 Pa. 25, 494 A. 2d 354 (1985).
+4 In Winship, the Court “explicitly” held that “the Due Process Clause
+protects the accused against conviction except upon proof beyond a
+reasonable doubt of every fact necessary to constitute the crime with
+which he is charged.” 397 U. S., at 364.
+
+

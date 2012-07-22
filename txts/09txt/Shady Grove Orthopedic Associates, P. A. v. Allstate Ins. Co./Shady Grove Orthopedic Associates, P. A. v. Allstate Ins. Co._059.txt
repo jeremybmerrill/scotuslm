@@ -1,0 +1,45 @@
+12
+
+SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A.
+v. ALLSTATE INS. CO.
+GINSBURG, J., dissenting
+
+In other words, Rule 23 describes a method of enforcing
+a claim for relief, while §901(b) defines the dimensions of
+the claim itself. In this regard, it is immaterial that
+§901(b) bars statutory penalties in wholesale, rather than
+retail, fashion. The New York Legislature could have
+embedded the limitation in every provision creating a
+cause of action for which a penalty is authorized; §901(b)
+operates as shorthand to the same effect. It is as much a
+part of the delineation of the claim for relief as it would be
+were it included claim by claim in the New York Code.
+The Court single-mindedly focuses on whether a suit
+“may” or “may not” be maintained as a class action. See
+ante, at 4–6. Putting the question that way, the Court
+does not home in on the reason why. Rule 23 authorizes
+class treatment for suits satisfying its prerequisites be
+cause the class mechanism generally affords a fair and
+efficient way to aggregate claims for adjudication. Section
+901(b) responds to an entirely different concern; it does
+not allow class members to recover statutory damages
+because the New York Legislature considered the result of
+adjudicating such claims en masse to be exorbitant.6 The
+fair and efficient conduct of class litigation is the legiti
+mate concern of Rule 23; the remedy for an infraction of
+state law, however, is the legitimate concern of the State’s
+lawmakers and not of the federal rulemakers. Cf. Ely, The
+Irrepressible Myth of Erie, 87 Harv. L. Rev. 693, 722
+(1974) (It is relevant “whether the state provision embod
+ies a substantive policy or represents only a procedural
+disagreement with the federal rulemakers respecting the
+——————
+6 The Court disputes the strength of the evidence of legislative intent,
+see ante, at 9, but offers no alternative account of §901(b)’s purpose.
+Perhaps this silence indicates how very hard it would be to ascribe to
+§901(b) any purpose bound up with the fairness and efficiency of
+processing cases. On its face, the proscription is concerned with reme
+dies, i.e., the availability of statutory damages in a lawsuit. Legislative
+history confirms this objective, but is not essential to revealing it.
+
+

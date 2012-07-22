@@ -1,0 +1,52 @@
+Cite as: 561 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1191
+_________________
+
+ROBERT MORRISON, ET AL., PETITIONERS v.
+
+NATIONAL AUSTRALIA BANK 
+
+LTD. ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SECOND CIRCUIT
+
+[June 24, 2010] 
+
+
+JUSTICE SCALIA delivered the opinion of the Court.
+We decide whether §10(b) of the Securities Exchange
+Act of 1934 provides a cause of action to foreign plaintiffs
+suing foreign and American defendants for misconduct in
+connection with securities traded on foreign exchanges.
+I
+Respondent National Australia Bank Limited (National)
+was, during the relevant time, the largest bank in Austra­
+lia. Its Ordinary Shares—what in America would be
+called “common stock”—are traded on the Australian
+Stock Exchange Limited and on other foreign securities
+exchanges, but not on any exchange in the United States.
+There are listed on the New York Stock Exchange, how­
+ever, National’s American Depositary Receipts (ADRs),
+which represent the right to receive a specified number of
+National’s Ordinary Shares. 547 F. 3d 167, 168, and n. 1
+(CA2 2008).
+The complaint alleges the following facts, which we
+accept as true. In February 1998, National bought re­
+spondent HomeSide Lending, Inc., a mortgage servicing
+
+

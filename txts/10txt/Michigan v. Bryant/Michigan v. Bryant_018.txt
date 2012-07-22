@@ -1,0 +1,47 @@
+14
+
+MICHIGAN v. BRYANT
+Opinion of the Court
+
+B
+As our recent Confrontation Clause cases have ex
+plained, the existence of an “ongoing emergency” at the
+time of an encounter between an individual and the police
+is among the most important circumstances informing the
+“primary purpose” of an interrogation. See Davis, 547
+U. S., at 828–830; Crawford, 541 U. S., at 65. The exis
+tence of an ongoing emergency is relevant to determining
+the primary purpose of the interrogation because an
+emergency focuses the participants on something other
+than “prov[ing] past events potentially relevant to later
+criminal prosecution.”8 Davis, 547 U. S., at 822. Rather,
+it focuses them on “end[ing] a threatening situation.” Id.,
+at 832. Implicit in Davis is the idea that because the
+prospect of fabrication in statements given for the primary
+purpose of resolving that emergency is presumably signifi
+cantly diminished, the Confrontation Clause does not
+require such statements to be subject to the crucible of
+cross-examination.
+This logic is not unlike that justifying the excited utter
+ance exception in hearsay law. Statements “relating to a
+startling event or condition made while the declarant was
+under the stress of excitement caused by the event or
+—————— 
+
+applicability of the public safety exception to Miranda v. Arizona, 384
+
+U. S. 436 (1966)); Rhode Island v. Innis, 446 U. S. 291, 301–302 (1980)
+(holding that a police officer’s subjective intent to obtain incriminatory
+statements is not relevant to determining whether an interrogation has
+occurred).
+8 The existence of an ongoing emergency must be objectively assessed
+from the perspective of the parties to the interrogation at the time, not
+with the benefit of hindsight. If the information the parties knew at
+the time of the encounter would lead a reasonable person to believe
+that there was an emergency, even if that belief was later proved
+incorrect, that is sufficient for purposes of the Confrontation Clause.
+The emergency is relevant to the “primary purpose of the interrogation”
+because of the effect it has on the parties’ purpose, not because of its
+actual existence.
+
+

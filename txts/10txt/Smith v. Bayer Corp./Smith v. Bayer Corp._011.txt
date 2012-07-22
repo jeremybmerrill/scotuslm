@@ -1,0 +1,46 @@
+8
+
+SMITH v. BAYER CORP. 
+
+Opinion of the Court 
+
+
+A
+
+In our most recent case on the relitigation exception,
+Chick Kam Choo v. Exxon, we applied the “same issue”
+requirement of preclusion law to invalidate a federal
+court’s injunction. 486 U. S., at 151. The federal court
+had dismissed a suit involving Singapore law on grounds
+of forum non conveniens. After the plaintiff brought the
+same claim in Texas state court, the federal court issued
+an injunction barring the plaintiff from pursuing relief in
+that alternate forum. We held that the District Court had
+gone too far. “[A]n essential prerequisite for applying the
+relitigation exception,” we explained, “is that the . . . is
+sues which the federal injunction insulates from litigation
+in state proceedings actually have been decided by the
+federal court.” Id., at 148. That prerequisite, we thought,
+was not satisfied because the issue to be adjudicated in
+state court was not the one the federal court had resolved.
+The federal court had considered the permissibility of the
+claim under federal forum non conveniens principles. But
+the Texas courts, we thought, “would apply a significantly
+different forum non conveniens analysis,” id., at 149; they
+had in prior cases rejected the strictness of the federal
+doctrine. Our conclusion followed: “[W]hether the Texas
+state courts are an appropriate forum for [the plaintiff’s]
+Singapore law claims has not yet been litigated.” Ibid.
+Because the legal standards in the two courts differed, the
+issues before the courts differed, and an injunction was
+unwarranted.
+The question here closely resembles the one in Chick
+Kam Choo. The class Smith proposed in state court mir
+rored the class McCollins sought to certify in federal court:
+Both included all Baycol purchasers resident in West
+Virginia. Moreover, the substantive claims in the two
+suits broadly overlapped: Both complaints alleged that
+Bayer had sold a defective product in violation of the
+State’s consumer protection law and the company’s war
+
+

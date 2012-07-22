@@ -1,0 +1,56 @@
+2
+
+JANUS CAPITAL GROUP, INC. v. FIRST DERIVATIVE 
+
+TRADERS
+Syllabus 
+
+
+
+
+
+Atlanta, Inc., 552 U. S. 148, 165, but, in analyzing the question at is
+sue, the Court is mindful that it must give “narrow dimensions . . . to
+a right . . . Congress did not authorize when it first enacted the stat
+ute and did not expand when it revisited” it, id., at 167. Pp. 5–10.
+(1) For Rule 10b–5 purposes, the maker of a statement is the
+person or entity with ultimate authority over the statement, includ
+ing its content and whether and how to communicate it. Without
+control, a person or entity can merely suggest what to say, not
+“make” a statement in its own right. This rule follows from Central
+Bank of Denver, N. A. v. First Interstate Bank of Denver, N. A., 511
+U. S. 164, 180, which held that Rule 10b–5’s private right of action
+does not include suits against aiders and abettors who contribute
+“substantial assistance” to the making of a statement but do not ac
+tually make it. Reading “make” more broadly, to include persons or
+entities lacking ultimate control over a statement, would substan
+tially undermine Central Bank by rendering aiders and abettors al
+most nonexistent. The Court’s interpretation is also suggested by
+Stoneridge, 552 U. S., at 161, and accords with the narrow scope that
+must be given the implied private right of action, id., at 167. Pp. 6–8.
+(2) The Court rejects the Government’s contention that “make”
+should be defined as “create,” thereby allowing private plaintiffs to
+sue a person who provides the false or misleading information that
+another person puts into a statement. Adopting that definition would
+be inconsistent with Stoneridge, supra, at 161, which rejected a pri
+vate Rule 10b–5 suit against companies involved in deceptive trans
+actions, even when information about those transactions was later
+incorporated into false public statements. First Derivative notes the
+uniquely close relationship between a mutual fund and its invest
+ment adviser, but the corporate formalities were observed, and reap
+portionment of liability in light of this close relationship is properly
+the responsibility of Congress, not the courts. Furthermore, First
+Derivative’s rule would read into Rule 10b–5 a theory of liability
+similar to—but broader than—control-person liability under §20(a).
+Pp. 8–10.
+(b) Although JCM may have been significantly involved in prepar
+ing the prospectuses, it did not itself “make” the statements at issue
+for Rule 10b–5 purposes. Its assistance in crafting what was said
+was subject to Janus Investment Fund’s ultimate control. Pp. 10–12.
+566 F. 3d 111, reversed.
+THOMAS, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and SCALIA, KENNEDY, and ALITO, JJ., joined. BREYER, J., filed a
+dissenting opinion, in which GINSBURG, SOTOMAYOR, and KAGAN, JJ.,
+joined.
+
+

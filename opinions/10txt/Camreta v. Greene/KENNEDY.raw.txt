@@ -1,0 +1,683 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+KENNEDY, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+Nos. 09–1454 and 09–1478
+_________________
+
+BOB CAMRETA, PETITIONER
+09–1454
+v.
+SARAH GREENE, PERSONALLY AND AS NEXT FRIEND OF
+S. G., A MINOR, AND K. G., A MINOR
+JAMES ALFORD, DEPUTY SHERIFF, DESCHUTES
+COUNTY, OREGON, PETITIONER
+09–1478
+v.
+SARAH GREENE, PERSONALLY AND AS NEXT FRIEND OF
+S. G., A MINOR, AND K. G., A MINOR
+ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[May 26, 2011]
+
+JUSTICE KENNEDY, with whom JUSTICE THOMAS joins,
+dissenting.
+Today’s decision results from what is emerging as a
+rather troubling consequence from the reasoning of our
+recent qualified immunity cases. The Court is correct to
+note the problem presented when, on the one hand, its
+precedents permit or invite courts to rule on the merits of
+a constitutional claim even when qualified immunity
+disposes of the matter; and, on the other hand, jurisdic
+tional principles prevent us from reviewing those invited
+rulings. It does seem that clarification is required. In my
+view, however, the correct solution is not to override juris
+dictional rules that are basic to the functioning of the
+Court and to the necessity of avoiding advisory opinions.
+Dictum, though not precedent, may have its utility; but it
+ought not to be treated as a judgment standing on its own.
+
+
+2
+
+CAMRETA v. GREENE
+KENNEDY, J., dissenting
+
+So, while acknowledging the problem the Court confronts,
+my concern with the rule adopted for this case calls for
+this respectful dissent.
+I
+The Court acknowledges our “settled refusal to enter
+tain an appeal,” including a petition for certiorari, “by a
+party on an issue as to which he prevailed.” Ante, at 8
+(internal quotation marks omitted). At the outset, how
+ever, it is important to state this rule more fully to show
+its foundational character. A party that has already ob
+tained the judgment it requested may not seek review to
+challenge the reasoning of a judicial decision. As we have
+said on many occasions, “This Court reviews judgments,
+not statements in opinions.” California v. Rooney, 483
+U. S. 307, 311 (1987) (per curiam) (internal quotation
+marks omitted); see also Chevron U. S. A. Inc. v. Natural
+Resources Defense Council, Inc., 467 U. S. 837, 842, and
+n. 8 (1984) (collecting cases). The rule has been noted and
+followed since the early years of this Court. “The question
+before an appellate Court is, was the judgment correct, not
+the ground on which the judgment professes to proceed.”
+McClung v. Silliman, 6 Wheat. 598, 603 (1821).
+The rule against hearing appeals or accepting petitions
+for certiorari by prevailing parties is related to the Article
+III prohibition against issuing advisory opinions. This
+principle underlies, for example, the settled rule against
+hearing cases involving a disputed judgment based on
+grounds of state law. As Justice Jackson explained for the
+Court: “[O]ur power is to correct wrong judgments, not to
+revise opinions. We are not permitted to render an advi
+sory opinion, and if the same judgment would be rendered
+by the state court after we corrected its views of federal
+laws, our review could amount to nothing more than an
+advisory opinion.” Herb v. Pitcairn, 324 U. S. 117, 125–
+126 (1945). This point has been repeated with force and
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+KENNEDY, J., dissenting
+
+clarity. See, e.g., Michigan v. Long, 463 U. S. 1032, 1041–
+1042 (1983). The “ ‘judicial Power’ is one to render dis
+positive judgments,” not advisory opinions. Plaut v.
+Spendthrift Farm, Inc., 514 U. S. 211, 219 (1995) (internal
+quotation marks omitted).
+The rule against hearing appeals by prevailing parties
+applies in countless situations, many involving govern
+ment parties. Deficient performance may not yield preju
+dice under Strickland v. Washington, 466 U. S. 668 (1984).
+A defective warrant may be entitled to good-faith reliance
+under United States v. Leon, 468 U. S. 897 (1984). An
+unreasonable search may be cured through the inevitable
+discovery doctrine of Nix v. Williams, 467 U. S. 431 (1984).
+In these and myriad other situations, an error is identi
+fied, but that conclusion does not affect the ultimate
+judgment entered. In all these contexts, it is established
+that the prevailing party may not appeal. This conclusion
+holds true even though a statement on the merits can
+have adverse consequences for the prevailing party. “The
+Court of Appeal’s use of analysis that may have been
+adverse to the State’s long-term interests does not allow
+the State to claim status as a losing party for purposes of
+this Court’s review.” Rooney, supra, at 311.
+The Court nonetheless holds that defendants who pre
+vail in the Courts of Appeals based on qualified immunity
+may still obtain review in this Court. This point is put in
+perspective by the fact that the Court today, in an alto
+gether unprecedented disposition, says that it vacates not
+a judgment but rather “part of the Ninth Circuit’s opin
+ion.” Ante, at 2. The Court’s conclusion is unsettling in its
+implications. Even on the Court’s reading of our cases, the
+almost invariable rule is that prevailing parties are not
+permitted to obtain a writ of certiorari. Cf. Kalka v.
+Hawk, 215 F. 3d 90, 96, n. 9 (CADC 2000) (concluding that
+the Supreme Court “has apparently never granted the
+certiorari petition of a party who prevailed in the appel
+
+
+4
+
+CAMRETA v. GREENE
+KENNEDY, J., dissenting
+
+late court”). After today, however, it will be common for
+prevailing parties to seek certiorari based on the Court’s
+newfound exception. And that will be so even though the
+“admonition” against reviewing mere statements in opin
+ions “has special force when the statements raise consti
+tutional questions, for it is our settled practice to avoid
+the unnecessary decision of such issues.” FCC v. Pacifica
+Foundation, 438 U. S. 726, 734 (1978).
+The Court defends its holding with citations to just two
+of our cases. Ante, at 6. Neither provides support for the
+Court’s result.
+The first case is Electrical Fittings Corp. v. Thomas &
+Betts Co., 307 U. S. 241 (1939). There, a plaintiff alleged
+the infringement of two patent claims. The District Court
+found the plaintiff’s first claim valid but not infringed and
+the second claim invalid. Rather than issuing a judgment
+“dismissing the bill without more,” the District Court
+instead “entered a decree adjudging claim 1 valid” and
+“dismissing the bill for failure to prove infringement.” Id.,
+at 241–242. The District Court thus issued a formal judg
+ment regarding the validity of the first claim. The defen
+dant appealed to dispute that claim’s validity. This Court
+noted, without qualification, that a party “may not appeal
+from a judgment or decree in his favor, for the purpose of
+obtaining a review of findings he deems erroneous which
+are not necessary to support the decree.” Id., at 242.
+“But,” this Court went on to explain, “here the decree itself
+purports to adjudge the validity of claim 1, and though
+the adjudication was immaterial to the disposition of the
+cause, it stands as an adjudication of one of the issues
+litigated.” Ibid. In other words, the District Court had
+entered an unnecessary legal conclusion into the terms of
+the judgment itself, making it possible, for example, that
+the decree would have estoppel effect as to an issue whose
+resolution was unnecessary to the proper judgment of
+dismissal. Electrical Fittings therefore concluded that
+
+
+Cite as: 563 U. S. ____ (2011)
+
+5
+
+KENNEDY, J., dissenting
+
+“the petitioners were entitled to have this portion of the
+decree eliminated.” Ibid. The sole relief provided was
+an order for the “reformation of the decree.” Ibid. That
+result accords with, indeed flows from, the settled rule
+that this Court reviews only judgments, not statements in
+opinions.
+The second case is Deposit Guaranty Nat. Bank v.
+Roper, 445 U. S. 326 (1980). In that case plaintiffs at
+tempted to bring a class action against a bank. After the
+District Court denied class certification, the defendant
+tendered to the plaintiffs the maximum value that they
+could recover as individuals. Of course, that offer did
+not amount to “all that ha[d] been requested in the
+complaint”—namely, “relief for the class.” Id., at 341
+(Rehnquist, J., concurring). It is therefore no surprise
+that the plaintiffs responded with “a counteroffer of judg
+ment in which they attempted to reserve the right to
+appeal the adverse class certification ruling.” Id., at 329
+(opinion of the Court). But that proposal was denied.
+“Based on the bank’s offer, the District Court entered
+judgment in respondents’ favor, over their objection.” Id.,
+at 330. The District Court thus issued a judgment other
+than the one the plaintiffs had sought. The would-be class
+plaintiffs appealed, and this Court later granted certiorari.
+The Court held that appeal was not barred by the prevailing
+party rule: “We view the denial of class certification as
+an example of a procedural ruling, collateral to the merits
+of a litigation, that is appealable after the entry of final
+judgment.” Id., at 336. As the Court explained, the plain
+tiffs had obtained only a judgment in their individual
+capacities. Yet the plaintiffs had “asserted as their per
+sonal stake in the appeal their desire to shift to successful
+class litigants a portion of those fees and expenses that
+have been incurred in this litigation.” Id., at 334, n. 6; see
+also id., at 336. Because the purported prevailing parties
+were injured by their failure to obtain the class-based
+
+
+6
+
+CAMRETA v. GREENE
+KENNEDY, J., dissenting
+
+judgment they had sought, the Court held there was “ju
+risdiction to entertain the appeal only to review the as
+serted procedural error, not for the purpose of passing on
+the merits.” Ibid. The Court was clear that the District
+Court’s denial of class certification had a direct effect on
+the judgment: “As in Electrical Fittings,” the purported
+prevailing parties “were entitled to have [a] portion of the
+District Court’s judgment reviewed.” Ibid.
+Neither Electrical Fittings nor Deposit Guaranty pro
+vides support for the rule adopted today. Those decisions
+instead held that, in the unusual circumstances presented,
+particular parties who at first appeared to have prevailed
+below had in fact failed to obtain the judgments they had
+sought. This Court therefore had jurisdiction, including of
+course jurisdiction under Article III, to provide relief for
+the harm caused by the adverse judgments entered below.
+The parties seeking appeal in Electrical Fittings and
+Deposit Guaranty might be compared with plaintiffs who
+have requested $1,000 in relief but obtained only $500.
+Such parties have prevailed in part, but have not “re
+ceive[d] all that [they] ha[d] sought.” Deposit Guaranty,
+supra, at 333. In contrast the Court appears to assume
+that the petitioners in the present case are true prevailing
+parties. They have obtained from the Court of Appeals the
+only formal judgment they requested: denial of respon
+dent’s claim for damages.
+The Court points to policy concerns as the basis for its
+willingness to hear appeals by prevailing parties. Ante, at
+8–10. But those concerns are unwarranted. In only one
+dissenting opinion has it been suggested that certiorari
+should be granted to reach a merits determination “locked
+inside” a favorable qualified immunity ruling. Bunting v.
+Mellen, 541 U. S. 1019, 1024 (2004) (SCALIA, J., dissenting
+from denial of certiorari). That dissenting opinion was
+issued in response to the rule that constitutional issues
+should be decided in every case involving qualified immu
+
+
+Cite as: 563 U. S. ____ (2011)
+
+7
+
+KENNEDY, J., dissenting
+
+nity. Id., at 1025. Yet that mandated rule of decision has
+now been disapproved, so the dissent’s argument is no
+longer applicable. See Pearson v. Callahan, 555 U. S. 223
+(2009). Indeed, the Court today suggests that it still
+would not allow review of the merits even in the case that
+provoked the dissent. Unlike petitioner Camreta, the
+petitioner in Bunting had left the Government’s employ
+before filing a petition for certiorari and so lacked stand
+ing to obtain review in this Court. Compare 541 U. S., at
+1025, n., with id., at 1021 (Stevens, J., respecting denial of
+certiorari), and ante, at 14–15, and n. 9.
+The instant case thus appears to be the first in which
+the Court’s new exception to the prevailing party rule
+might have been applied. And even here that exception is
+neither necessary nor sufficient for the merits to be adju
+dicated by this Court. The Fourth Amendment question
+decided below is bound to arise again in future cases.
+Indeed, the reasoning of the decision below implicates a
+number of decisions in other Courts of Appeals. Cf. 588
+F. 3d 1011, 1026, n. 11 (CA9 2009) (collecting cases). Yet
+today’s decision does not supply the Courts of Appeals
+with guidance as to these merits issues. The Court in
+stead vacates part of the reasoning of the decision below,
+thereby leaving other decisions intact and unreviewed.
+The Court thus resolves difficult constitutional issues and
+provides an unprecedented answer to “an important ques
+tion of judicial policy,” all to no end. Ante, at 7.
+The Court errs in reading Electrical Fittings and Deposit
+Guaranty to permit review and, indeed, the provision of
+relief disconnected from any judgment. The result is an
+erroneous and unbounded exception to an essential princi
+ple of judicial restraint. Parties who have obtained all
+requested relief may not seek review here.
+II
+As today’s decision illustrates, our recent qualified im
+
+
+8
+
+CAMRETA v. GREENE
+KENNEDY, J., dissenting
+
+munity cases tend to produce decisions that are in ten
+sion with conventional principles of case-or-controversy
+adjudication. This Court has given the Courts of Appeals
+“permission” to find constitutional violations when order
+ing dismissal or summary judgment based on qualified
+immunity. Ante, at 9; see Pearson, supra. This invitation,
+as the Court is correct to note, was intended to produce
+binding constitutional holdings on the merits. Ante, at
+10–11. The goal was to make dictum precedent, in order
+to hasten the gradual process of constitutional interpreta
+tion and alter the behavior of government defendants.
+Ibid. The present case brings the difficulties of that objec
+tive into perspective. In express reliance on the permis
+sion granted in Pearson, the Court of Appeals went out of
+its way to announce what may be an erroneous interpreta
+tion of the Constitution; and, under our case law, the
+Ninth Circuit must give that dictum legal effect as prece
+dent in future cases.
+In this way unnecessary merits decisions in qualified
+immunity cases could come to resemble declaratory judg
+ments or injunctions. Indeed the United States as amicus
+curiae contends that the merits decision below “has an
+effect similar to an injunction or a declaratory judgment
+against the government as a whole.” Brief for United
+States as Amicus Curiae 13. Today’s opinion adopts that
+view, providing as relief the vacatur of “part of the Ninth
+Circuit’s opinion”—namely, the part of the opinion that
+rules on the constitutional merits. Ante, at 2. For the first
+time, obiter dictum is treated not just as precedent for
+future cases but as a judgment in its own right.
+The Court of Appeals in this case did not in fact issue a
+declaratory judgment or injunction embodying a determi
+nation on the merits, and it does not appear that a judg
+ment of that kind could have issued. Plaintiffs must
+establish standing as to each form of relief they request,
+yet the plaintiff in this case had no separate interest in
+
+
+Cite as: 563 U. S. ____ (2011)
+
+9
+
+KENNEDY, J., dissenting
+
+obtaining a declaratory judgment. See Los Angeles v.
+Lyons, 461 U. S. 95, 103–105 (1983) (citing Ashcroft v.
+Mattis, 431 U. S. 171 (1977) (per curiam); Golden v. Zwick
+ler, 394 U. S. 103 (1969)); see also MedImmune, Inc. v.
+Genentech, Inc., 549 U. S. 118, 127 (2007). There was no
+likelihood that S. G., the plaintiff’s daughter, would again
+be subjected to interrogation while at school, much less
+that she would be interrogated by petitioner-defendant
+Camreta, so S. G. would seem to have had no greater
+stake in obtaining a declaratory judgment than the plain
+tiff in Lyons had in obtaining an injunction. See 461 U. S.,
+at 104 (noting the “actual controversy that must exist for a
+declaratory judgment to be entered”). Our qualified im
+munity cases should not permit plaintiffs in constitutional
+cases to make an end-run around established principles of
+justiciability. In treating dictum as though it were a
+declaratory judgment or an injunction, the Court appears
+to approve the issuance of such judgments outside the
+bounds of Article III jurisdiction.
+The Court creates an exception to the prevailing party
+rule in order to solve the difficulties created by our quali
+fied immunity jurisprudence, but the Court’s solution
+creates new problems. Sometimes defendants in qualified
+immunity cases have no particular interest in disputing
+the constitutional merits. Acknowledging as much, the
+Court notes that petitioner Alford no longer works for the
+government and so “has lost his interest in the Fourth
+Amendment ruling.” Ante, at 14, n. 9. In concluding that
+Alford lacks Article III standing, the Court suggests that
+it would lack jurisdiction to review and perhaps even to
+vacate the merits decision of the Court of Appeals if re
+spondent had sued only Alford. Ibid.; cf. Arizonans for
+Official English v. Arizona, 520 U. S. 43, 72–73 (1997)
+(discussing standing to obtain review in this Court as well
+as this Court’s jurisdiction to vacate judgments issued
+without jurisdiction). That suggestion is disconcerting.
+
+
+10
+
+CAMRETA v. GREENE
+KENNEDY, J., dissenting
+
+Under today’s decision, it appears that the Court’s ability
+to review merits determinations in qualified immunity
+cases is contingent on the defendant who has been sued.
+A defendant who has left the government’s employ or
+otherwise lacks an interest in disputing the merits will
+be unable to obtain further review. See ante, at 14, n. 9
+(discussing Article III limits on relief in this Court); ante,
+at 17, n. 10 (discussing limitations on this Court’s equita
+ble vacatur authority).
+The Court today avoids this difficulty by concluding that
+petitioner Camreta has suffered an Article III injury.
+Ante, at 7; cf. ante, at 15, n. 9 (“[W]e do not decide any
+questions that would arise if [Alford] were the only defen
+dant”). But the Court can reach that conclusion only
+because, “as part of his job,” Camreta “regularly engages”
+in conduct made unlawful by the reasoning of the Court of
+Appeals. Ante, at 7. As discussed below, this conclusion is
+doubtful. See infra, at 11–13. In any event the Court’s
+standing analysis will be inapplicable in most qualified
+immunity cases. Cf. ante, at 6 (asserting that the “Article
+III standard often will be met”). When an officer is sued
+for taking an extraordinary action, such as using excessive
+force during a high-speed car chase, there is little possibil
+ity that a constitutional decision on the merits will again
+influence that officer’s conduct. The officer, like petitioner
+Alford or the petitioner in Bunting, would have no interest
+in litigating the merits in the Court of Appeals and, under
+the Court’s rule, would seem unable to obtain review of a
+merits ruling by petitioning for certiorari. See ante, at 5–
+7; ante, at 14, n. 9, ante, at 17, n. 10; see also Lyons, supra,
+at 103–105. This problem will arise with great frequency
+in qualified immunity cases. Once again, the decision
+today allows plaintiffs to obtain binding constitutional
+determinations on the merits that lie beyond this Court’s
+jurisdiction to review. The Court thus fails to solve the
+problem it identifies.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+11
+
+KENNEDY, J., dissenting
+
+III
+It is most doubtful that Article III permits appeals by
+any officer to whom the reasoning of a judicial decision
+might be applied in a later suit. Yet that appears to be
+the implication of the Court’s holding. The favorable judg
+ment of the Court of Appeals did not in itself cause peti
+tioner Camreta to suffer an Article III injury entitling him
+to appeal. Cf. supra, at 1–7 (discussing Electrical Fittings
+and Deposit Guaranty); ASARCO Inc. v. Kadish, 490 U. S.
+605, 619 (1989) (finding an Article III controversy where
+petitioner challenged “a final judgment altering tangible
+legal rights”). On the contrary, Camreta has been injured
+by the decision below to no greater extent than have hun
+dreds of other government officers who might argue that
+they too have been affected by the unnecessary statements
+made by the Court of Appeals. The Court notes as a limit
+on its authority to entertain appeals from prevailing par
+ties certain statutory directives, directives that can be
+interpreted or shaped to allow expanded powers of review.
+Ante, at 4. But even if Congress were to give explicit
+permission for certiorari petitions to be filed by “any per
+son” instead of by “any party,” 28 U. S. C. §1254(1), the
+constitutional definition of a case or controversy would
+still constrain this Court’s jurisdiction.
+The Court’s analysis appears to rest on the premise that
+the reasoning of the decision below in itself causes Cam
+reta injury. Until today, however, precedential reasoning
+of general applicability divorced from a particular adverse
+judgment was not thought to yield “standing to appeal.”
+Parr v. United States, 351 U. S. 513, 516, 517 (1956) (opin
+ion for the Court by Harlan, J.). That is why “[o]nly one
+injured by the judgment sought to be reviewed can ap
+peal.” Id., at 516; see also supra, at 1–6; e.g., Chathas v.
+Local 134 IBEW, 233 F. 3d 508, 512 (CA7 2000) (Posner,
+J.) (“Adverse dicta are not appealable rulings. They can
+cause harm, but not the sort of harm that the courts . . .
+
+
+12
+
+CAMRETA v. GREENE
+KENNEDY, J., dissenting
+
+deem to create a genuine controversy within the meaning
+of Article III of the Constitution. Judgments are appeal
+able; opinions are not” (citations omitted)); Sea-Land
+Serv., Inc. v. Department of Transp., 137 F. 3d 640, 648
+(CADC 1998) (Williams, J.) (“[M]ere precedential effect
+within an agency is not, alone, enough to create Article III
+standing, no matter how foreseeable the future litigation”
+(citing Radiofone, Inc. v. FCC, 759 F. 2d 936, 938 (CADC
+1985) (opinion of Scalia, J.))); id., at 939 (explaining that
+standing must “arise from the particular activity which
+the agency adjudication has approved . . . and not from the
+mere precedential effect of the agency’s rationale in later
+adjudications”); Oxford Shipping Co., v. New Hampshire
+Trading Corp., 697 F. 2d 1, 7 (CA1 1982) (Breyer, J.)
+(“Since the judgment appealed from was in [a party’s]
+favor, and since the statement made was in no sense
+necessary to that judgment, the statement was dictum.
+There is no known basis for an appeal from a dictum”). It
+is revealing that the Court creates an exception to the
+prevailing party rule while making clear that the Courts
+of Appeals are not to follow suit, in any context. See ante,
+at 13–14.
+The conclusion that precedent of general applicability
+cannot in itself create standing to sue or appeal flows from
+basic principles. Camreta’s asserted injury is caused not
+by the Court of Appeals or by respondent but rather by
+“the independent action of some third party not before the
+court”—that is, by the still-unidentified private plaintiffs
+whose lawsuits Camreta hopes to avoid. Lujan v. Defend
+ers of Wildlife, 504 U. S. 555, 560–561 (1992) (internal
+quotation marks omitted).
+This circumstance distin
+guishes the present case from requests for declaratory or
+injunctive relief filed against officeholders who threaten
+legal enforcement. An inert rule of law does not cause
+particular, concrete injury; only the specific threat of its
+enforcement can do so. That is why the proper defendant
+
+
+Cite as: 563 U. S. ____ (2011)
+
+13
+
+KENNEDY, J., dissenting
+
+in a suit for prospective relief is the party prepared to
+enforce the relevant legal rule against the plaintiff. See
+MedImmune, Inc., 549 U. S., at 127 (explaining that de
+claratory relief requires a controversy “between parties
+having adverse legal interests, of sufficient immediacy and
+reality” (internal quotation marks omitted)); Babbitt v.
+Farm Workers, 442 U. S. 289, 298–299 (1979) (“A plaintiff
+who challenges a statute must demonstrate a realistic
+danger of sustaining a direct injury as a result of the
+statute’s operation or enforcement”). Without an adverse
+judgment from which to appeal, Camreta has in effect filed
+a new declaratory judgment action in this Court against
+the Court of Appeals. This is no more consistent with
+Article III than filing a declaratory judgment action
+against this Court for its issuance of an adverse precedent
+or against Congress in response to its enactment of an
+unconstitutional law.
+IV
+If today’s decision proves to be more than an isolated
+anomaly, the Court might find it necessary to reconsider
+its special permission that the Courts of Appeals may
+issue unnecessary merits determinations in qualified im
+munity cases with binding precedential effect.
+Other dynamics permit the law of the Constitution to be
+elaborated within the conventional framework of a case or
+controversy. “[T]he development of constitutional law is
+by no means entirely dependent on cases in which the
+defendant may seek qualified immunity.” Pearson, 555
+U. S., at 242–243. For example, qualified immunity does
+not bar Fourth and Fifth Amendment suppression chal
+lenges. See, e.g., Kentucky v. King, ante, p. ___. Nor does
+it prevent invocation of the Constitution as a defense
+against criminal prosecution, civil suit, or cruel and un
+usual punishment. See, e.g., Snyder v. Phelps, 562 U. S.
+___ (2011); Graham v. Florida, 560 U. S. ___ (2010); Law
+
+
+14
+
+CAMRETA v. GREENE
+KENNEDY, J., dissenting
+
+rence v. Texas, 539 U. S. 558 (2003). Nor is qualified
+immunity available in constitutional suits against munici
+palities—as this very case illustrates. Ante, at 15–16.
+Our cases make clear, moreover, that “officials can still be
+on notice that their conduct violates established law even
+in novel factual circumstances.” Hope v. Pelzer, 536 U. S.
+730, 741 (2002). That rule permits clearly established
+violations to be found when extreme though unheard-of
+actions violate the Constitution. See, e.g., ibid. Further
+more, constitutional plaintiffs may seek declaratory or
+injunctive relief pursuant to standard principles of justi
+ciability. Those plaintiffs do not need Pearson’s special
+rule.
+See, e.g., Citizens United v. Federal Election
+Comm’n, 558 U. S. ___ (2010); McDonald v. Chicago, 561
+U. S. ___ (2010). In any event, some incremental advance
+in the law occurs even when clearly established violations
+are found. It is an inevitable aspect of judicial decision
+making that the resolution of one legal question or factual
+dispute casts light on the next.
+It would be preferable at least to explore refinements to
+our qualified immunity jurisprudence before altering basic
+principles of jurisdiction. For instance, the objectives of
+qualified immunity might be satisfied if there were no bar
+to reaching the merits and issuing judgment when re
+quested damages are nominal and substantial attorney’s
+fees are waived or not allowed. Cf. Farrar v. Hobby, 506
+U. S. 103, 112–115 (1992) (discussing unavailability of
+attorney’s fees where nominal damages are only relief);
+Hewitt v. Helms, 482 U. S. 755, 761–763 (1987); Harlow
+v. Fitzgerald, 457 U. S. 800, 819, n. 34 (1982); Carey v.
+Piphus, 435 U. S. 247, 266 (1978) (discussing the propriety
+of providing nominal damages as relief).
+The desire to resolve more constitutional questions
+ought not lead to altering our jurisdictional rules. That is
+the precise object that our legal tradition tells us we
+should resist. Haste to resolve constitutional issues has
+
+
+Cite as: 563 U. S. ____ (2011)
+
+15
+
+KENNEDY, J., dissenting
+
+never been thought advisable. We instead have encour
+aged the Courts of Appeals to follow “that older, wiser
+judicial counsel not to pass on questions of constitutional
+ity . . . unless such adjudication is unavoidable.” Scott v.
+Harris, 550 U. S. 372, 388 (2007) (BREYER, J., concurring)
+(internal quotation marks omitted); see generally Ash
+wander v. TVA, 297 U. S. 288, 347 (1936) (Brandeis, J.,
+concurring). Experience teaches that there is no persua
+sive reason to reverse normal principles of judicial review
+in qualified immunity cases. Compare, e.g., Pearson,
+supra, at 236, and Siegert v. Gilley, 500 U. S. 226, 235
+(1991) (KENNEDY, J., concurring in judgment) (“[I]t seems
+to reverse the usual ordering of issues to tell the trial and
+appellate courts that they should resolve the constitu
+tional question first”), with id., at 232 (opinion of the
+Court), and Saucier v. Katz, 533 U. S. 194, 201 (2001). Yet
+this Court’s “puzzling misadventure in constitutional
+dictum” still has not come to an end. Leval, Judging
+Under the Constitution: Dicta About Dicta, 81 N. Y. U.
+L. Rev. 1249, 1275 (2006).
+There will be instances where courts discuss the merits
+in qualified immunity cases. It is sometimes a better
+analytic approach and a preferred allocation of judicial
+time and resources to dismiss a claim on the merits rather
+than to dismiss based on qualified immunity. And “[i]t
+often may be difficult to decide whether a right is clearly
+established without deciding precisely what the existing
+constitutional right happens to be.” Pearson, supra, at 236
+(internal quotation marks omitted). This Court should not
+superintend the judicial decisionmaking process in quali
+fied immunity cases under special rules, lest it make the
+judicial process more complex for civil rights suits than for
+other litigation. It follows, however, that the Court should
+provide no special permission to reach the merits. If
+qualified immunity cases were treated like other cases
+raising constitutional questions, settled principles of con
+
+
+16
+
+CAMRETA v. GREENE
+KENNEDY, J., dissenting
+
+stitutional avoidance would apply. So would conventional rules regarding dictum and holding. Judicial obser
+vations made in the course of explaining a case might give
+important instruction and be relevant when assessing a
+later claim of qualified immunity. Cf. Wilkinson v. Rus
+sell, 182 F. 3d 89, 112, and n. 3 (CA2 1999) (Calabresi, J.,
+concurring). But as dicta those remarks would not estab
+lish law and would not qualify as binding precedent. See
+Seminole Tribe of Fla. v. Florida, 517 U. S. 44, 67 (1996).
+*
+*
+*
+The distance our qualified immunity jurisprudence has
+taken us from foundational principles is made all the more
+apparent by today’s decision. The Court must construe
+two of its precedents in so broad a manner that they are
+taken out of their proper and logical confines. To vacate
+the reasoning of the decision below, the Court accepts that
+obiter dictum is not just binding precedent but a judgment
+susceptible to plenary review. I would dismiss this case
+and note that our jurisdictional rule against hearing ap
+peals by prevailing parties precludes petitioners’ attempt
+to obtain review of judicial reasoning disconnected from a
+judgment.
+
+

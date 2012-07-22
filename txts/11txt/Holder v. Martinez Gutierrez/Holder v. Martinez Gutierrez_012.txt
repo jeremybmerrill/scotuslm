@@ -1,0 +1,37 @@
+8
+
+HOLDER v. MARTINEZ GUTIERREZ
+Opinion of the Court
+
+§212(c) was silent on imputation. Yet the Second, Third,
+and Ninth Circuits (the only appellate courts to consider
+the question) concluded that, in determining eligibility for
+relief under §212(c), the Board should impute a parent’s
+years of domicile to his or her child. See Rosario v. INS,
+962 F. 2d 220 (CA2 1992); Lepe-Guitron v. INS, 16 F. 3d
+1021, 1024–1026 (CA9 1994); Morel v. INS, 90 F. 3d 833,
+840–842 (CA3 1996). Those courts reasoned that at common law, a minor’s domicile was “the same as that of its
+parents, since most children are presumed not legally
+capable of forming the requisite intent to establish their
+own domicile.” Rosario, 962 F. 2d, at 224; see Mississippi
+Band of Choctaw Indians v. Holyfield, 490 U. S. 30, 48
+(1989) (defining “domicile” as “physical presence in a place
+in connection with a certain state of mind concerning one’s
+intent to remain there”). So by the time Congress replaced
+§212(c) with §1229b(a), the BIA often imputed a parent’s
+years of domicile to a child in determining eligibility for
+cancellation of removal. Sawyers argues that against this
+backdrop, Congress “would have understood the language
+it chose [in §1229b(a)] to provide for imputation.” Sawyers
+Brief 10.
+But we cannot conclude that Congress ratified an imputation requirement when it passed §1229b(a). As all parties
+agree, Congress enacted §§1229b(a)(1) and (a)(2) to resolve
+an unrelated question about §212(c)’s meaning. See id.,
+at 17; Martinez Gutierrez Brief 28; Brief for Petitioner
+25. Courts had differed on whether an alien’s “seven
+consecutive years” of domicile under §212(c) all had to
+post-date the alien’s obtaining LPR status. See CuevasGaspar, 430 F. 3d, at 1027–1028 (canvassing split). Congress addressed that split by creating two distinct durational conditions: the 5-year status requirement of subsection (a)(1), which runs from the time an alien becomes an
+LPR, and the 7-year continuous-residency requirement of
+subsection (a)(2), which can include years preceding the
+
+

@@ -1,0 +1,46 @@
+Cite as: 564 U. S. ____ (2011)
+
+15
+
+Opinion of the Court
+
+2
+More importantly, AT&T’s characterization of what the
+Commission has done, and is doing, is inaccurate. The
+Triennial Review orders eliminated incumbent LECs’ obli­
+gation under §251(c)(3) to provide unbundled access to
+entrance facilities. But the FCC emphasized in both
+orders that it “d[id] not alter” the obligation on incumbent
+LECs under §251(c)(2) to provide facilities for interconnec­
+tion purposes. Triennial Review Order ¶366; Triennial
+Review Remand Order ¶140. Because entrance facilities
+are used for backhauling and interconnection purposes,
+the FCC effectively eliminated only unbundled access to
+entrance facilities for backhauling purposes—a nuance it
+expressly noted in the first Triennial Review order. Tri
+ennial Review Order ¶365. That distinction is neither
+unusual nor ambiguous.6 In these cases, the Commission
+is simply explaining the interconnection obligation that it
+left undisturbed in the Triennial Review orders. We see
+no conflict between the Triennial Review orders and the
+Commission’s views expressed here.7
+We are not concerned that the Triennial Review Re
+mand Order did not expressly distinguish between back­
+——————
+6 The Commission has long recognized that a single facility can be
+used for different functions and that its regulatory treatment can vary
+depending on its use. Unbundled network elements, for example, may
+not be used for the exclusive provision of mobile wireless or long­
+distance services. 47 CFR §51.309(b) (2010). Similarly, interconnection
+arrangements may be used for local telephone service but not for long­
+distance services. §51.305(b).
+7 The parties and their amici dispute whether an incumbent LEC
+has any way of knowing how a competitive LEC is using an entrance
+facility. This technical factual dispute simply underscores the appro­
+priateness of deferring to the FCC. So long as the Commission is acting
+within the scope of its delegated authority and in accordance with
+prescribed procedures, it has greater expertise and stands in a better
+position than this Court to make the technical and policy judgments
+necessary to administer the complex regulatory program at issue here.
+
+

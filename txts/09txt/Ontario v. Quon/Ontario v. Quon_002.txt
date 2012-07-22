@@ -1,0 +1,51 @@
+2
+
+ONTARIO v. QUON
+Syllabus
+constitutional claims, relying on the plurality opinion in O’Connor v.
+Ortega, 480 U. S. 709, to determine that Quon had a reasonable ex
+pectation of privacy in the content of his messages. Whether the au
+dit was nonetheless reasonable, the court concluded, turned on
+whether Scharf used it for the improper purpose of determining if
+Quon was using his pager to waste time, or for the legitimate purpose
+of determining the efficacy of existing character limits to ensure that
+officers were not paying hidden work-related costs. After the jury
+concluded that Scharf’s intent was legitimate, the court granted peti
+tioners summary judgment on the ground they did not violate the
+Fourth Amendment. The Ninth Circuit reversed. Although it agreed
+that Quon had a reasonable expectation of privacy in his text mes
+sages, the appeals court concluded that the search was not reason
+able even though it was conducted on a legitimate, work-related ra
+tionale. The opinion pointed to a host of means less intrusive than
+the audit that Scharf could have used. The court further concluded
+that Arch Wireless had violated the SCA by giving the City the tran
+script.
+
+Held: Because the search of Quon’s text messages was reasonable, peti
+tioners did not violate respondents’ Fourth Amendment rights, and
+the Ninth Circuit erred by concluding otherwise. Pp. 7–17.
+(a) The Amendment guarantees a person’s privacy, dignity, and se
+curity against arbitrary and invasive governmental acts, without re
+gard to whether the government actor is investigating crime or per
+forming another function. Skinner v. Railway Labor Executives’
+Assn., 489 U. S. 602, 613–614. It applies as well when the govern
+ment acts in its capacity as an employer. Treasury Employees v. Von
+Raab, 489 U. S. 656, 665. The Members of the O’Connor Court dis
+agreed on the proper analytical framework for Fourth Amendment
+claims against government employers. A four-Justice plurality con
+cluded that the correct analysis has two steps. First, because “some
+[government] offices may be so open . . . that no expectation of pri
+vacy is reasonable,” a court must consider “[t]he operational realities
+of the workplace” to determine if an employee’s constitutional rights
+are implicated. 480 U. S., at 718. Second, where an employee has a
+legitimate privacy expectation, an employer’s intrusion on that ex
+pectation “for noninvestigatory, work-related purposes, as well as for
+investigations of work-related misconduct, should be judged by the
+standard of reasonableness under all the circumstances.” Id., at 725–
+726. JUSTICE SCALIA, concurring in the judgment, would have dis
+pensed with the “operational realities” inquiry and concluded “that
+the offices of government employees . . . are [generally] covered by
+Fourth Amendment protections,” id., at 731, but he would also have
+held “that government searches to retrieve work-related materials or
+
+

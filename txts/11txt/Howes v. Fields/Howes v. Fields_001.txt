@@ -1,0 +1,44 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+HOWES, WARDEN v. FIELDS
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SIXTH CIRCUIT
+No. 10–680.
+
+Argued October 4, 2011—Decided February 21, 2012
+
+Respondent Fields, a Michigan state prisoner, was escorted from his
+prison cell by a corrections officer to a conference room where he was
+questioned by two sheriff’s deputies about criminal activity he had allegedly engaged in before coming to prison. At no time was Fields
+given Miranda warnings or advised that he did not have to speak
+with the deputies. As relevant here: Fields was questioned for between five and seven hours; Fields was told more than once that he
+was free to leave and return to his cell; the deputies were armed, but
+Fields remained free of restraints; the conference room door was
+sometimes open and sometimes shut; several times during the interview Fields stated that he no longer wanted to talk to the deputies,
+but he did not ask to go back to his cell; after Fields confessed and
+the interview concluded, he had to wait an additional 20 minutes for
+an escort and returned to his cell well after the hour when he generally retired.
+The trial court denied Fields’ motion to suppress his confession
+under Miranda v. Arizona, 384 U. S. 436, and he was convicted. The
+Michigan Court of Appeals affirmed, rejecting Fields’ contention that
+his statements should have been suppressed because he was subjected to custodial interrogation without a Miranda warning. The United States District Court for the Eastern District of Michigan subsequently granted Fields habeas relief under 28 U. S. C. §2254(d)(1).
+Affirming, the Sixth Circuit held that the interview was a custodial
+interrogation within the meaning of Miranda, reasoning that Mathis
+v. United States, 391 U. S. 1, “clearly established,” §2254(d)(1), that
+isolation from the general prison population, combined with questioning about conduct occurring outside the prison, makes any such interrogation custodial per se.
+
+

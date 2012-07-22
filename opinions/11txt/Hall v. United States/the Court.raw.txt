@@ -1,0 +1,676 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–875
+_________________
+
+LYNWOOD D. HALL, ET UX., PETITIONERS v. 
+
+UNITED STATES
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[May 14, 2012]
+
+
+JUSTICE SOTOMAYOR delivered the opinion of the Court.
+Under Chapter 12 of the Bankruptcy Code, farmer
+debtors may treat certain claims owed to a governmental
+unit resulting from the disposition of farm assets as dis­
+chargeable, unsecured liabilities. 11 U. S. C. §1222(a)
+(2)(A). One such claim is for “any tax . . . incurred by the
+estate.” §503(b)(B)(i). The question presented is whether
+a federal income tax liability resulting from individual
+debtors’ sale of a farm during the pendency of a Chapter
+12 bankruptcy is “incurred by the estate” and thus dis­
+chargeable. We hold that it is not.
+I
+
+A
+
+In 1986, Congress enacted Chapter 12 of the Bankruptcy
+Code, §1201 et seq., to allow farmer debtors with regu­
+lar annual income to adjust their debts. Chapter 12 was
+modeled on Chapter 13, §1301 et seq., which permits
+individual debtors with regular annual income to preserve
+existing assets subject to a “court-approved plan under
+which they pay creditors out of their future income.”
+Hamilton v. Lanning, 560 U. S. ___, ___ (2010) (slip op., at 1).
+
+
+2
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+Chapter 12 debtors similarly file a plan of reorganization.
+§1221. To be confirmed, the plan must provide for the full
+payment of priority claims. §1222(a)(2).
+In the Bankruptcy Abuse Prevention and Consumer
+Protection Act of 2005 (BAPCPA), §1003, 119 Stat. 186,
+Congress created an exception to that requirement:
+“Contents of plan
+“(a) The plan shall—
+.
+.
+.
+.
+.
+“(2) provide for the full payment, in deferred cash
+payments, of all claims entitled to priority under sec­
+tion 507, unless—
+“(A) the claim is a claim owed to a governmental
+unit that arises as a result of the sale, transfer, ex­
+change, or other disposition of any farm asset used
+in the debtor’s farming operation, in which case the
+claim shall be treated as an unsecured claim that is
+not entitled to priority under section 507, but the debt
+shall be treated in such manner only if the debtor re­
+ceives a discharge.” 11 U. S. C. §1222.
+Under §1222(a)(2)(A), certain governmental claims result­
+ing from the disposition of farm assets are downgraded to
+general, unsecured claims that are dischargeable after less
+than full payment. See §1228(a). The claims are stripped
+of their priority status.
+That exception, however, applies only to claims in the
+plan that are “entitled to priority under section 507” in the
+first place. Section 507 lists 10 categories of such claims.
+Two pertain to taxes: One category, §507(a)(8), covers
+prepetition taxes, and is inapplicable in this case. The
+other, §507(a)(2), covers “administrative expenses allowed
+under section 503(b),” which in turn includes “any tax . . .
+incurred by the estate.” §503(b)(B)(i). Thus, for postpeti­
+tion taxes to be entitled to priority under §507 and eligible
+for the §1222(a)(2)(A) exception, the taxes must be “in­
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+curred by the estate.”
+B
+Petitioners Lynwood and Brenda Hall petitioned for
+bankruptcy under Chapter 12 and sold their farm shortly
+thereafter. Petitioners initially proposed a plan of reor­
+ganization under which they would pay off outstanding
+liabilities with proceeds from the sale. The Internal Reve­
+nue Service (IRS) objected, asserting a federal income tax
+of $29,000 on the capital gains from the farm sale.
+Petitioners amended their proposal to treat the income
+tax as a general, unsecured claim to be paid to the extent
+funds were available, with the unpaid balance discharged.
+Again the IRS objected. Taxes on income from a postpeti­
+tion farm sale, the IRS argued, remain the debtors’ inde­
+pendent responsibility because they are neither collectible
+nor dischargeable in bankruptcy.
+The Bankruptcy Court sustained the objection. The
+court reasoned that because a Chapter 12 estate is not a
+separate taxable entity under the Internal Revenue Code
+(IRC), see 26 U. S. C. §§1398, 1399, it cannot “incur” taxes
+for purposes of 11 U. S. C. §503(b).
+The District Court reversed, expressing doubt that IRC
+provisions are relevant to interpreting §503(b). Based on
+its reading of legislative history, the District Court deter­
+mined that Congress intended §1222(a)(2)(A) to extend to
+petitioners’ postpetition taxes.
+The Court of Appeals for the Ninth Circuit reversed.
+617 F. 3d 1161 (2010). The Court of Appeals held that the
+Chapter 12 estate does not “incur” the postpetition federal
+income taxes for purposes of §503(b) because it is not a
+separate taxable entity under the IRC, and noted that
+Congress repeatedly has indicated the relevance of the
+IRC’s taxable entity provisions to the Bankruptcy Code.
+Although “sympathetic” to the view that the postpetition
+tax liabilities should be dischargeable, the Court of Ap­
+
+
+4
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+peals held that “the operative language simply failed to
+make its way into the statute.” Id., at 1167. The Court of
+Appeals concluded that because the taxes do not qualify
+under §503(b), they are not priority claims in the plan
+eligible for the §1222(a)(2)(A) exception.
+Judge Paez dissented, siding with a sister Circuit
+that had concluded that Congress intended §1222(a)(2)(A)
+to extend to such postpetition federal income taxes. We
+granted certiorari to resolve the split of authority.1 564
+U. S. ___ (2011).
+II
+
+A
+
+Our resolution of this case turns on the meaning of a
+phrase in §503(b) of the Bankruptcy Code: “incurred by
+the estate.” The parties agree that §1222(a)(2)(A) applies
+only to priority claims collectible in the bankruptcy plan
+and that postpetition federal income taxes so qualify only
+if they constitute a “tax . . . incurred by the estate.”
+§503(b)(B)(i).
+The phrase “incurred by the estate” bears a plain and
+natural reading. See FCC v. AT&T Inc., 562 U. S. ___, ___
+(2011) (slip op., at 5) (“When a statute does not define a
+term, we typically ‘give the phrase its ordinary meaning’ ”).
+To “incur,” one must “suffer or bring on oneself (a liability
+or expense).” Black’s Law Dictionary 836 (9th ed. 2009);
+see also Webster’s Third New International Dictionary
+1146 (1976) (“to . . . become liable or subject to: bring down
+upon oneself ”); Random House Dictionary 722 (1966) (“to
+become liable or subject to through one’s own action; bring
+upon oneself ”). A tax “incurred by the estate” is a tax for
+which the estate itself is liable.
+——————
+1 Compare
+
+In re Dawes, 652 F. 3d 1236 (CA10 2011), and 617 F. 3d
+1161 (CA9 2010) (case below), with Knudsen v. IRS, 581 F. 3d 696 (CA8
+2009) (postpetition federal taxes are eligible for the §1222(a)(2)(A)
+exception and thus dischargeable).
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+Opinion of the Court
+
+As the IRC makes clear, only certain estates are liable
+for federal income taxes. Title 26 U. S. C. §§1398 and
+1399 address taxation in bankruptcy and define the divi­
+sion of responsibilities for the payment of taxes between
+the estate and the debtor on a chapter-by-chapter basis.
+Section 1398 provides that when an individual debtor files
+for Chapter 7 or 11 bankruptcy, the estate shall be liable
+for taxes. In such cases, the trustee files a separate re­
+turn on the estate’s behalf and “[t]he tax” on “the taxable
+income of the estate . . . shall be paid by the trustee.”
+§1398(c)(1); see also §6012(b)(4) (“Returns of . . . an estate
+of an individual under chapter 7 or 11 . . . shall be made
+by the fiduciary thereof ”). Section 1399 provides that
+“[e]xcept in any case to which section 1398 applies, no
+separate taxable entity shall result from the commence­
+ment of a [bankruptcy] case.” In Chapter 12 and 13 cases,
+then, there is no separately taxable estate. The debtor—
+not the trustee—is generally liable for taxes and files the
+only tax return. See In re Lindsey, 142 B. R. 447, 448
+(Bkrtcy. Ct. WD Okla. 1992) (“It is clear that, pursuant
+to 26 U. S. C. §1398 and 1399, the standing Chapter 12
+trustee neither files a return nor pays federal income
+tax”); cf. infra, at 15 (discussing special trustee duties in
+corporate-debtor cases).
+These provisions suffice to resolve this case: Chapter 12
+estates are not taxable entities. Petitioners, not the estate
+itself, are required to file the tax return and are liable for
+the taxes resulting from their postpetition farm sale. The
+postpetition federal income tax liability is not “incurred by
+the estate” and thus is neither collectible nor discharge­
+able in the Chapter 12 plan.2
+——————
+2 Because we hold that the postpetition federal income taxes at issue
+are not collectible in the plan because they are not “incurred by the
+estate,” we need not address the Government’s broader alternative
+argument that Chapter 12 plans are exclusively limited to prepetition
+claims.
+
+
+6
+
+HALL v. UNITED STATES
+Opinion of the Court 
+
+
+B
+
+Our reading of “incurred by the estate” as informed by
+the IRC’s separate taxable entity rules draws support
+from a related provision of the Bankruptcy Code, 11
+U. S. C. §346, and its longstanding interplay with 26
+U. S. C. §§1398 and 1399. That relationship illustrates
+that from the inception of the current Bankruptcy Code,
+Congress has specified on a chapter-by-chapter basis
+which estates are separately taxable and therefore liable
+for taxes. That relationship also refutes the dissent’s
+suggestion that applying such rules is an incongruous
+importation of “tax law” unconnected to “bankruptcy
+principles (as Congress understood them).” Post, at 8–9
+(opinion of BREYER, J.). And it reinforces the reasonableness of our view that whether an estate “incurs”
+taxes under §503(b) turns on such chapter-by-chapter
+distinctions.
+In the original Bankruptcy Code, Congress included a
+provision, §346, that set out a chapter-specific division of
+tax liabilities between the estate and the debtor. Bank­
+ruptcy Reform Act of 1978, 92 Stat. 2565. Section
+346(b)(1) provided that in an individual-debtor Chapter 7
+or 11 bankruptcy, “any income of the estate may be taxed
+under a State or local law imposing a tax . . . only to the
+estate, and may not be taxed to such individual.” 92 Stat.
+2565 (emphasis added); see also 11 Collier on Bankruptcy
+¶TX12.03[5][b][i], p. TX12–21 (16th ed. 2011) (hereinafter
+Collier) (§346(b) “provided that in a case under chapter 7
+[or] 11 . . . the estate of an individual is a taxable entity”).
+Section 346(d) provided, meanwhile, that in a Chapter 13
+bankruptcy, “any income of the estate or the debtor may
+be taxed under a State or local law imposing a tax . . . only
+to the debtor, and may not be taxed to the estate.” 92 Stat.
+2566 (emphasis added). Congress thus established that
+the estate in an individual-debtor Chapter 7 or 11 bank­
+ruptcy is a separate taxable entity; the estate in a Chapter
+
+
+8
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+the estate is not separately taxable in Chapter 13 (and
+now Chapter 12) cases.
+In 2005, Congress in BAPCPA amended §346 and crys­
+tallized the connection between the Bankruptcy Code and
+the IRC. Section 346 now expressly aligns its assignment
+of state or local taxes with the rules for federal taxes,
+providing in relevant part:
+“(a) Whenever the Internal Revenue Code of 1986
+provides that a separate taxable estate or entity is
+created in a case concerning a debtor under this title,
+and the income . . . of such estate shall be taxed to or
+claimed by the estate, a separate taxable estate is also
+created for purposes of any State and local law impos­
+ing a tax on or measured by income and such income
+. . . shall be taxed to or claimed by the estate and may
+not be taxed to or claimed by the debtor.
+“(b) Whenever the Internal Revenue Code of 1986
+provides that no separate taxable estate shall be cre­
+ated in a case concerning a debtor under this title,
+and the income . . . of an estate shall be taxed to or
+claimed by the debtor, such income . . . shall be taxed
+to or claimed by the debtor under a State or local law
+imposing a tax on or measured by income and may not
+be taxed to or claimed by the estate.” (Emphasis added.)
+Thus, whenever the estate is separately taxable under
+federal income tax law, that “is also” the case under state
+or local income tax law, §346(a), and vice versa, §346(b).
+And given that the Bankruptcy Code instructs that the as­
+signment of state or local tax liabilities shall turn on the
+IRC’s separate taxable entity rules, there is parity in
+turning to such rules in assigning federal tax liabilities.
+In the same Act, Congress added §1222(a)(2)(A). Section
+1222(a)(2)(A) carves out an exception to the ordinary
+priority classification scheme. But §1222(a)(2)(A) did not
+purport to redefine which claims are otherwise entitled to
+
+
+Cite as: 566 U. S. ____ (2012)
+
+9
+
+Opinion of the Court
+
+priority, much less alter the underlying division of tax
+liability between the estate and the debtor in Chapter 12
+cases. “We assume that Congress is aware of existing law
+when it passes legislation,” Miles v. Apex Marine Corp.,
+498 U. S. 19, 32 (1990), and the existing law at the enact­
+ment of §1222(a)(2)(A) indicated that an estate’s liability
+for taxes turned on chapter-by-chapter separate taxable
+entity rules.
+C
+The statutory structure further reinforces our holding
+that petitioners’ postpetition income taxes are not “in­
+curred by the estate.” As a leading bankruptcy treatise
+and lower courts recognize, “[b]ecause chapter 12 was
+modeled on chapter 13, and because so many of the provi­
+sions are identical, chapter 13 cases construing provisions
+corresponding to chapter 12 provisions may be relied on as
+authority in chapter 12 cases.” 8 Collier ¶1200.01[5], at
+1200–10; In re Lopez, 372 B. R. 40, 45, n. 13 (Bkrtcy. App.
+Panel CA9 2007); Justice v. Valley Nat. Bank, 849 F. 2d
+1078, 1083 (CA8 1988). We agree. Section 1322(a)(2), like
+§1222(a)(2), requires full payment of “all claims entitled to
+priority under section 507” under the plan. Both provi­
+sions cross-reference the same section of the Code, §507,
+and in turn, the same subsection, §503(b). Both are treat­
+ed alike by IRC §§1398 and 1399. Whether postpetition
+taxes qualify under §503(b) in Chapter 13 thus sheds light
+on whether they so qualify in petitioners’ Chapter 12 case.
+Bankruptcy courts and commentators have reasoned
+that postpetition income taxes are not “incurred by the
+estate” under §503(b) because “a tax on postpetition in­
+come of the debtor or of the chapter 13 estate is not a
+liability of the chapter 13 estate; it is a liability of the
+debtor alone.” 8 Collier ¶1305.02[1], at 1305–5 and 1305–
+
+
+10
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+6.5 For over a decade, the Government has likewise hewed
+to the position that “since post-petition tax liabilities are,
+in Chapter 13 cases, incurred by the debtor, rather than
+the bankruptcy estate, characterizing such liabilities as
+administrative expenses is inconsistent with section 503.”
+IRS Chief Counsel Advice No. 200113027, p. 6 (Mar. 30,
+2001), 2001 WL 307746, *4; see also Internal Revenue
+Manual §5.9.10.9.2(3) (2006) (hereinafter IRM); IRS Liti­
+gation Guideline Memorandum GL–26, p. 9 (Dec. 16,
+1996), 1996 WL 33107107, *6. We see no reason to depart
+from those established understandings. To “ ‘hold the
+Chapter 13 estate liable for [a] tax when it does not exist
+as a taxable entity defies common sense as well as Con­
+gress’ intent.’ ” In re Whall, 391 B. R. 1, 4 (Bkrtcy. Ct.
+Mass. 2008). The same holds true for a Chapter 12 estate.
+A provision in Chapter 13 confirms that postpetition
+income taxes fall outside §503(b). Section 1305(a)(1) pro­
+vides that “[a] proof of claim may be filed by any entity
+that holds a claim against the debtor . . . for taxes that
+become payable to a governmental unit while the case is
+pending.” (Emphasis added.) That provision gives holders
+of postpetition claims the option of collecting postpetition
+taxes within the bankruptcy case—an option that the
+Government would never need to invoke if postpetition tax
+liabilities were already collectible inside the bankruptcy.
+Accordingly, lest we render §1305 “ ‘inoperative or super­
+fluous,’ ” Hibbs v. Winn, 542 U. S. 88, 101 (2004), it is clear
+that postpetition income taxes are not automatically col­
+lectible in a Chapter 13 plan and, a fortiori, are not admin­
+istrative expenses under §503(b).
+It follows that postpetition income taxes are not auto­
+——————
+5 See, e.g., In re Maxfield, No. 04–60355, 2009 WL 2105953, *5–*6
+(Bkrtcy. Ct. ND Ind. 2009); In re Jagours, 236 B. R. 616, 620 (Bkrtcy.
+Ct. ED Tex. 1999); In re Whall, 391 B. R. 1, 5–6 (Bkrtcy. Ct. Mass.
+2008); In re Brown, No. 05–41071, 2006 WL 3370867, *3 (Bkrtcy. Ct.
+Mass. 2006); In re Gyulafia, 65 B. R. 913, 916 (Bkrtcy. Ct. Kan. 1986).
+
+
+Cite as: 566 U. S. ____ (2012)
+
+11
+
+Opinion of the Court
+
+matically collectible in petitioners’ Chapter 12 plan.6
+Because both chapters cross-reference §503(b) in an iden­
+tical manner, see §§1222(a)(2), 1322(a)(2), we are cogni­
+zant that any conflicting reading of §503(b) here could
+disrupt settled Chapter 13 practices. See Cohen v. de la
+Cruz, 523 U. S. 213, 221 (1998) (the Court “ ‘will not read
+the Bankruptcy Code to erode past bankruptcy practice
+absent a clear indication that Congress intended such a
+departure’ ”). Chapter 13 filings outnumber Chapter 12
+filings six-hundred-fold. See U. S. Bankruptcy Courts—
+Cases Commenced During the 12-Month Period Ending
+September 30, 2011 (Table F–2), http://www.uscourts.gov/
+Statistics/BankruptcyStatistics.aspx (estimating 676 and
+——————
+6 The dissent suggests that Chapter 12 can be distinguished from
+Chapter 13 because Chapter 12 bankruptcies tend to be longer, such
+that the treatment of taxes is more “important.” Post, at 13. As
+a practical matter, it is not clear that Chapter 12 bankruptcies are
+substantially longer. Compare Brief for Neil E. Harl. et al. as Amici
+Curiae 33 (median Chapter 12 case duration is under 8 months) with
+Tr. of Oral Arg. 49 (“on average we’re talking about 4 months in a
+chapter 13 case”). In any event, there is no indication that Congress
+intended any difference in duration—if it anticipated a difference at
+all—to flip the characterization of postpetition income taxes from one
+chapter to the other. Nor does the absence of a §1305 equivalent in
+Chapter 12 justify shoehorning postpetition taxes into §503(b), as the
+dissent argues. That Chapter 12 lacks a provision allowing such taxes
+to be brought inside the plan only clarifies that such taxes fall outside
+of the plan.
+The dissent alternatively suggests that it “do[es] not see the serious
+harm in treating the relevant taxes as ‘administrative expenses’ in both
+Chapter 12 and Chapter 13 cases.” Post, at 13–14. The “harm” is to
+settled understandings in Chapter 13 to the contrary. The “harm” is
+also to §1305; to avoid rendering §1305 a nullity, the dissent recasts the
+provision as applicable not to all “taxes that become payable . . . while
+the case is pending,” but only those payable “after the Chapter 13 Plan
+is confirmed.” Post, at 14. The dissent does not claim, however, that
+this was Congress’ intent for §1305, as Congress’ choice of words would
+be exceedingly overbroad if it were. And the dissent’s novel reading
+contravenes ample Chapter 13 authority recognizing no such limitation
+on §1305’s scope. E.g., 8 Collier ¶1305.02 (citing cases).
+
+
+12
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+417,503 annual Chapter 12 and 13 filings, respectively)
+(as visited May 14, 2012, and available in Clerk of Court’s
+case file). Yet adopting petitioners’ reading of §503(b)
+would mean that, in every Chapter 13 case, the Govern­
+ment could ignore §1305 and expect priority payment of
+postpetition income taxes in every plan.
+At bottom, “identical words and phrases within the
+same statute should normally be given the same mean­
+ing.” Powerex Corp. v. Reliant Energy Services, Inc., 551
+U. S. 224, 232 (2007). Absent any indication that Con­
+gress intended a conflict between two closely related chap­
+ters, we decline to create one.7
+III
+Petitioners and the dissent advance several arguments
+for why the postpetition income taxes at issue should be
+considered “incurred by the estate,” notwithstanding the
+IRC’s separate taxable entity rules. But none provides
+sufficient reason to overcome the statute’s plain language,
+context, and structure.
+Petitioners primarily argue that “incurred by the estate”
+has a temporal meaning. Petitioners emphasize that the
+estate only comes into existence after a bankruptcy peti­
+tion is filed. Thus, they reason, taxes “incurred by the
+estate” refers to all taxes “incurred postpetition,” regard­
+less of whether the estate is liable for the tax and regard­
+less of the chapter under which a case is filed. Although
+all taxes “incurred by the estate” are necessarily incurred
+——————
+7 IRS
+
+manuals dating back to 1998 indicate that the Government did
+not view postpetition federal income taxes as collectible in an individual debtor’s Chapter 12 plan, even when that view was adverse to its
+interests. See IRM §25.17.12.9.3 (2004); id., §25.17.12.9.3(1) (2002);
+id., §5.9, ch. 10.8(4) (1999); id., §5.9, ch. 10.8(4) (1998). Until the en­
+actment of 11 U. S. C. §1222(a)(2)(A), treating such taxes as priority
+claims in the plan would have assured the Government of full payment
+before or at the time of the plan.
+
+
+Cite as: 566 U. S. ____ (2012)
+
+13
+
+Opinion of the Court
+
+postpetition, not all taxes incurred postpetition are “in­
+curred by the estate.” That an estate cannot incur liability
+until it exists does not mean that every liability that
+arises after that point automatically becomes the estate’s
+liability. And there is no textual basis to focus on when
+the liability is incurred, as opposed to whether the liability
+is incurred “by the estate.”
+Alternately, petitioners contend that a tax should be
+considered “incurred by the estate” so long as it is payable
+out of estate assets. Income from postpetition sales of
+farm assets is considered property of the estate. See
+§1207(a). Petitioners argue that even if the debtor—and
+not the estate—is liable for a tax, the tax is still “incurred
+by the estate” because the funds the debtor uses to pay the
+tax are property of the estate. But that too strains the
+text beyond what it can bear. To concede that someone
+other than the estate is liable for filing the return and
+paying the tax, and yet maintain that the estate is the one
+that has “incurred” the tax, defies the ordinary meaning of
+“incur” as bringing a liability upon oneself.
+The dissent, echoing both of these points, urges that
+we “simply . . . consider the debtor and estate as merged.”
+Post, at 11. “The English language,” the dissent reasons,
+“permits this reading” and “do[es] not require” our read­
+ing. Post, at 8–9. But any reading of “tax . . . incurred by
+the estate” that is contingent on merging the debtor and
+estate—despite Congress’ longstanding efforts to distinguish between when tax liabilities are borne by the debtor
+or borne by the estate—is not a natural construction of the
+statute as written.
+Moreover, these alternative readings create a conflict
+between §503(b) and §346(b). Petitioners consider postpe­
+tition state or local income taxes, like federal income
+taxes, to be “incurred by the estate” under §503(b). See
+Tr. of Oral Arg. 4–5. But §346(b) requires that such taxes
+be borne by the Chapter 12 debtor, not the estate. It is
+
+
+14
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+implausible to maintain that taxes are “incurred by the
+estate” when §346(b) specifically prohibits such taxes from
+being “taxed to or claimed by the estate.”
+To buttress their counterintuitive readings of the text,
+petitioners and the dissent suggest that there is a long
+history of treating postpetition taxes as administrative
+expenses entitled to priority. Both point to two legislative
+Reports accompanying the 1978 enactment of §503. But
+neither snippet from which they quote is inconsistent with
+today’s holding,8 and we have cautioned against “allowing
+ambiguous legislative history to muddy clear statutory
+language.” Milner v. Department of Navy, 562 U. S. ___,
+___ (2011) (slip op., at 9).
+Petitioners also point to cases suggesting that postpeti­
+tion taxes were treated as administrative expenses. E.g.,
+United States v. Noland, 517 U. S. 535, 543 (1996) (cor­
+porate Chapter 11 debtor); Nicholas v. United States,
+384 U. S. 678, 687–688 (1966) (corporate Chapter XI case
+under predecessor Bankruptcy Act). But those cases
+involve corporate debtors and are therefore inapposite.
+Among estates that are not separately taxable, those
+involving corporate debtors have long been singled out by
+——————
+8 The House Report stated—after noting that, in addition to prepeti­
+tion taxes, “certain other taxes are entitled to priority”—that “[t]axes
+arising from the operation of the estate after bankruptcy are entitled to
+priority as administrative expenses.” H. R. Rep., at 193. That is still
+true. Many taxes arising after bankruptcy, as in individual-debtor
+Chapter 7 or 11 cases, remain entitled to priority as administrative
+expenses. The Senate Report, meanwhile, stated: “In general, adminis­
+trative expenses include taxes which the trustee incurs in administer­
+ing the debtor’s estate, including taxes on capital gains from sales of
+property by the trustee and taxes on income earned by the estate during
+the case.” S. Rep., at 66 (emphasis added). That likewise remains true.
+Administrative expenses still include income taxes that “the trustee,”
+as opposed to the debtor, has incurred—again, as in individual-debtor
+Chapter 7 or 11 cases.
+
+
+Cite as: 566 U. S. ____ (2012)
+
+15
+
+Opinion of the Court
+
+Congress for special responsibilities.9 See H. R. Rep., at
+277 (even “[i]f the estate is not a separate taxable entity,”
+administrative responsibility can “var[y] according to the
+nature of the debtor”). Although estates of corporate
+debtors are not separate taxable entities under 26 U. S. C.
+§§1398 and 1399, the IRC requires a trustee that “has
+possession of or holds title to all or substantially all the
+property or business of a corporation” to “make the return
+of income for such corporation.” §6012(b)(3). In effect,
+Congress provided that the trustee in a corporate-debtor
+case may shoulder responsibility that parallels that borne
+by the trustee of a separate taxable entity. In any event,
+petitioners do not deny that neither the separate taxable
+entity provisions nor the special provisions for corporate
+debtors apply to them.
+Finally, petitioners and the dissent contend that the
+purpose of 11 U. S. C. §1222(a)(2)(A) was to provide debt­
+ors with robust relief from tax debts, relying on state­
+ments by a single Senator on unenacted bills introduced in
+years preceding the enactment. See Brief for Petitioners
+23–36. They argue that deeming §1222(a)(2)(A) inapplica­
+ble to their postpetition income taxes would undermine
+that purpose and confine the exception to prepetition
+taxes. But we need not resolve here what other claims, if
+any, are covered by §1222(a)(2)(A).10 Whatever the 2005
+——————
+9 The original §346 established that the estate of a corporate debtor
+is not a separate taxable entity, but nonetheless provided that “the
+trustee shall make any [State or local] tax return otherwise required
+. . . to be filed by or on behalf of such . . . corporation.” §§346(c)(1)–(2),
+92 Stat. 2565, 2566. The current §346 similarly states, in the same
+provision deeming the debtor taxable when there is no separate taxable
+estate, that “[t]he trustee shall make such tax returns of income of
+corporations . . . . The estate shall be liable for any [State or local] tax
+imposed on such corporation.” §346(b).
+10 The dissent opines that employment taxes must be administrative
+expenses “incurred by the estate” because, in its view, they “do not
+fit easily” within the category of administrative expenses under
+
+
+16
+
+HALL v. UNITED STATES
+Opinion of the Court
+
+Congress’ intent with respect to §1222(a)(2)(A), that provi­
+sion merely carved out an exception to the pre-existing
+priority classification scheme. The exception could only
+apply to claims “entitled to priority under section 507” in
+the first place. That pre-existing scheme was in turn
+premised on antecedent, decades-old understandings
+about the scope of §503(b) and the division of tax liabilities
+between estates and debtors. See Dewsnup v. Timm, 502
+U. S. 410, 419 (1992) (“When Congress amends the bank­
+ruptcy laws, it does not write ‘on a clean slate’ ”). If Con­
+gress wished to alter these background norms, it needed to
+enact a provision to enable postpetition income taxes to be
+collected in the Chapter 12 plan in the first place.
+The dissent concludes otherwise by an inverted analysis.
+Rather than demonstrate that such claims were treated as
+§507 priority claims in the first place, the dissent begins
+with the single Senator’s stated purpose for the exception
+to that priority scheme. Post, at 7. It then reasons back­
+wards from there, and in the process upsets background
+norms in both Chapters 12 and 13.
+Certainly, there may be compelling policy reasons for
+treating postpetition income tax liabilities as dischargeable. But if Congress intended that result, it did not so
+provide in the statute. Given the statute’s plain language,
+context, and structure, it is not for us to rewrite the stat­
+ute, particularly in this complex terrain of interconnected
+provisions and exceptions enacted over nearly three dec­
+ades. Petitioners’ position threatens ripple effects beyond
+this individual case for debtors in Chapter 13 and the
+broader bankruptcy scheme that we need not invite. As
+the Court of Appeals noted, “Congress is entirely free to
+change the law by amending the text.” 617 F. 3d, at 1167.
+—————— 
+
+§503(b)(1)(A)(i), notwithstanding the Government’s contrary represen­
+tations on both points. Post, at 12. Because employment taxes are not 
+
+at issue in this case, we offer no opinion on either question. 
+
+
+

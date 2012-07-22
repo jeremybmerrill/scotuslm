@@ -1,0 +1,46 @@
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+SOTOMAYOR, J., dissenting
+
+majority’s contrary reading of the statute reflects four
+fundamental errors.
+First, the majority reads the term “receiving rail carrier”
+in §11706(a) too narrowly. There is simply no basis in the
+text of the statute to support the majority’s conclusion
+that Carmack applies only when the first rail carrier in
+the chain of transportation accepted the cargo at the
+shipment’s point of origin. Cf. ante, at 10, 12. The two
+cases the majority cites for this proposition are inapposite,
+as neither addresses an international, multimodal ship­
+ment in which the first leg of the trip was by ocean.2 In
+St. Louis, I. M. & S. R. Co. v. Starbird, 243 U. S. 592, 594
+(1917), the entire shipment was by rail from Arkansas to
+New York City. And in Mexican Light & Power Co. v.
+Texas Mexican R. Co., 331 U. S. 731, 732 (1947), the entire
+shipment was by rail from Pennsylvania to Mexico. Given
+that the first rail carrier was in each case the carrier that
+received the goods from the shipper and issued a through
+bill of lading, it is unsurprising that the Court, applying
+Carmack, described that carrier as the “initial carrier.”
+243 U. S., at 595; 331 U. S., at 733. But nothing in these
+cases, and nothing in Carmack itself, requires that the
+“receiving carrier” take the goods from the shipper at the
+shipment’s point of origin.3
+Instead, these cases are compatible with my view that
+the “receiving carrier” is any rail carrier that first receives
+cargo for transportation in the United States. Union
+——————
+2 The additional cases the United States cites for this proposition
+suffer from this same flaw. See Brief for United States as Amicus
+Curiae 27–28; Tr. of Oral Arg. 20.
+3 Carmack’s venue provision refers to the “receiving rail carrier” as
+the “originating rail carrier” and states that the proper venue for a
+lawsuit against this carrier is “the judicial district in which the point of
+origin is located.” §11706(d)(2)(A)(i). Especially because the focus of
+Carmack is on transportation by rail, the phrase “point of origin” in this
+context is best read as referring to the point of origin of the “originating
+rail carrier[’s]” transportation, not the point of origin of the shipment.
+
+

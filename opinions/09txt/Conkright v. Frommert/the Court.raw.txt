@@ -1,0 +1,637 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–810
+_________________
+
+SALLY L. CONKRIGHT, ET AL., PETITIONERS v. PAUL
+J. FROMMERT ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE SECOND CIRCUIT
+
+[April 21, 2010] 
+
+
+CHIEF JUSTICE ROBERTS delivered the opinion of the
+Court.
+People make mistakes. Even administrators of ERISA
+plans. That should come as no surprise, given that the
+Employee Retirement Income Security Act of 1974 is “an
+enormously complex and detailed statute,” Mertens v.
+Hewitt Associates, 508 U. S. 248, 262 (1993), and the plans
+that administrators must construe can be lengthy and
+complicated. (The one at issue here runs to 81 pages, with
+139 sections.) We held in Firestone Tire & Rubber Co. v.
+Bruch, 489 U. S. 101 (1989), that an ERISA plan adminis
+trator with discretionary authority to interpret a plan is
+entitled to deference in exercising that discretion. The
+question here is whether a single honest mistake in plan
+interpretation justifies stripping the administrator of that
+deference for subsequent related interpretations of the
+plan. We hold that it does not.
+I
+As in many ERISA matters, the facts of this case are
+exceedingly complicated. Fortunately, most of the factual
+details are unnecessary to the legal issues before us, so we
+
+
+2
+
+CONKRIGHT v. FROMMERT
+Opinion of the Court
+
+cover them only in broad strokes. This case concerns
+Xerox Corporation’s pension plan, which is covered by
+ERISA, 88 Stat. 829, as amended, 29 U. S. C. §1001 et seq.
+Petitioners are the plan itself (hereinafter Plan), and the
+Plan’s current and former administrators (hereinafter
+Plan Administrator). See §1002(16)(A)(i); App. 32a. Re
+spondents are Xerox employees who left the company in
+the 1980’s, received lump-sum distributions of retirement
+benefits they had earned up to that point, and were later
+rehired. See 328 F. Supp. 2d 420, 424 (WDNY 2004); Brief
+for Respondents 9–10. The dispute giving rise to this case
+concerns how to account for respondents’ past distribu
+tions when calculating their current benefits—that is, how
+to avoid paying respondents the same benefits twice.
+The Plan Administrator initially interpreted the Plan to
+call for an approach that has come to be known as the
+“phantom account” method. 328 F. Supp. 2d, at 424.
+Essentially, that method calculated the hypothetical
+growth that respondents’ past distributions would have
+experienced if the money had remained in Xerox’s invest
+ment funds, and reduced respondents’ present benefits
+accordingly. See id., at 426–428; App. to Pet. for Cert.
+146a. After the Plan Administrator denied respondents’
+administrative challenges to that method, respondents
+filed suit in federal court under ERISA, 29 U. S. C.
+§1132(a)(1)(B). See 328 F. Supp. 2d, at 428–429. The
+District Court granted summary judgment for the Plan,
+applying a deferential standard of review to the Plan
+Administrator’s interpretation. See id., at 430–431, 439.
+The Second Circuit vacated and remanded, holding that
+the Plan Administrator’s interpretation was unreasonable
+and that respondents had not been adequately notified
+that the phantom account method would be used to calcu
+late their benefits. See 433 F. 3d 254, 257, 265–269
+(2006).
+The phantom account method having been exorcised
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+from the Plan, the District Court on remand considered
+other approaches for adjusting respondents’ present bene
+fits in light of their past distributions. See 472 F. Supp.
+2d 452, 456–458 (WDNY 2007). The Plan Administrator
+submitted an affidavit proposing an approach that, like
+the phantom account method, accounted for the time value
+of the money that respondents had previously received.
+But unlike the phantom account method, the Plan Admin
+istrator’s new approach did not calculate the present value
+of a past distribution based on events that occurred after
+the distribution was made. Instead, the new approach
+used an interest rate that was fixed at the time of the
+distribution, thereby calculating the current value of the
+distribution based on information that was known at the
+time of the distribution. See App. to Pet. for Cert. 147a–
+153a. Petitioners argued that the District Court should
+apply a deferential standard of review to this approach,
+and accept it as a reasonable interpretation of the Plan.
+See Defendants’ Pre-Hearing Brief Addressed to Remedies
+in No. 00–CV–6311 (WDNY), pp. 7–8; Defendants’ PreHearing Reply Brief Addressing Remedies in No. 00–CV–
+6311 (WDNY), p. 2.
+The District Court did not apply a deferential standard
+of review. Nor did it accept the Plan Administrator’s
+interpretation. Instead, after finding the Plan to be am
+biguous, the District Court adopted an approach proposed
+by respondents that did not account for the time value of
+money. Under that approach, respondents’ present bene
+fits were reduced only by the nominal amount of their past
+distributions—thereby treating a dollar distributed to
+respondents in the 1980’s as equal in value to a dollar
+distributed today. See 472 F. Supp. 2d, at 457–458. The
+Second Circuit affirmed in relevant part, holding that the
+District Court was correct not to apply a deferential stan
+dard on remand, and that the District Court’s decision on
+the merits was not an abuse of discretion. See 535 F. 3d
+
+
+4
+
+CONKRIGHT v. FROMMERT
+Opinion of the Court
+
+111, 119 (2008).
+Petitioners asked us to grant certiorari on two ques
+tions: (1) whether the District Court owed deference to the
+Plan Administrator’s interpretation of the Plan on re
+mand, and (2) whether the Court of Appeals properly
+granted deference to the District Court on the merits. Pet.
+for Cert. i. We granted certiorari on both, 557 U. S. ___
+(2009), but find it necessary to decide only the first.
+II
+A
+This Court addressed the standard for reviewing the
+decisions of ERISA plan administrators in Firestone, 489
+U. S. 101. Because ERISA’s text does not directly resolve
+the matter, we looked to “principles of trust law” for guid
+ance. Id., at 109, 111. We recognized that, under trust
+law, the proper standard of review of a trustee’s decision
+depends on the language of the instrument creating the
+trust. See id., at 111–112. If the trust documents give the
+trustee “power to construe disputed or doubtful terms, . . .
+the trustee’s interpretation will not be disturbed if reason
+able.” Id., at 111. Based on these considerations, we held
+that “a denial of benefits challenged under §1132(a)(1)(B)
+is to be reviewed under a de novo standard unless the
+benefit plan gives the administrator or fiduciary discre
+tionary authority to determine eligibility for benefits or to
+construe the terms of the plan.” Id., at 115.
+We expanded Firestone’s approach in Metropolitan Life
+Ins. Co. v. Glenn, 554 U. S. ___ (2008). In determining the
+proper standard of review when a plan administrator
+operates under a conflict of interest, we again looked to
+trust law, the terms of the plan at issue, and the principles
+of ERISA—plus, of course, our precedent in Firestone. See
+554 U. S., at ___ (slip op., at 4, 6–7, 9–10). We held that,
+when the terms of a plan grant discretionary authority to
+the plan administrator, a deferential standard of review
+
+
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+remains appropriate even in the face of a conflict. See id.,
+at ___ (slip op., at 9).
+It is undisputed that, under Firestone and the terms of
+the Plan, the Plan Administrator here would normally be
+entitled to deference when interpreting the Plan. See 328
+F. Supp. 2d, at 430–431 (observing that the Plan grants
+the Plan Administrator “broad discretion in making deci
+sions relative to the Plan”). The Court of Appeals, how
+ever, crafted an exception to Firestone deference. Specifi
+cally, the Second Circuit held that a court need not apply a
+deferential standard “where the administrator ha[s] previ
+ously construed the same [plan] terms and we found such
+a construction to have violated ERISA.” 535 F. 3d, at 119.
+Under that view, the District Court here was entitled to
+reject a reasonable interpretation of the Plan offered by
+the Plan Administrator, solely because the Court of Ap
+peals had overturned a previous interpretation by
+the Administrator.
+Cf. ibid. (accepting the District
+Court’s chosen method as one of “several reasonable
+alternatives”).
+B
+We reject this “one-strike-and-you’re-out” approach.
+Brief for Petitioners 51. As an initial matter, it has no
+basis in the Court’s holding in Firestone, which set out a
+broad standard of deference without any suggestion that
+the standard was susceptible to ad hoc exceptions like the
+one adopted by the Court of Appeals. See 489 U. S., at
+111, 115. Indeed, we refused to create such an exception
+to Firestone deference in Glenn, recognizing that ERISA
+law was already complicated enough without adding
+“special procedural or evidentiary rules” to the mix. 554
+U. S., at ___ (slip op., at 10). If, as we held in Glenn, a
+systemic conflict of interest does not strip a plan adminis
+trator of deference, see id., at ___ (slip op., at 9), it is diffi
+cult to see why a single honest mistake would require a
+
+
+6
+
+CONKRIGHT v. FROMMERT
+Opinion of the Court
+
+different result.
+Nor is the Court of Appeals’ decision supported by the
+considerations on which our holdings in Firestone and
+Glenn were based—namely, the terms of the plan, princi
+ples of trust law, and the purposes of ERISA. See supra,
+at 4–5. First, the Plan here grants the Plan Administrator
+general authority to “[c]onstrue the Plan.” App. to Pet. for
+Cert. 141a–142a. Nothing in that provision suggests that
+the grant of authority is limited to first efforts to construe
+the Plan.
+Second, the Court of Appeals’ exception to Firestone
+deference is not required by principles of trust law. Trust
+law is unclear on the narrow question before us. A leading
+treatise states that a court will strip a trustee of his dis
+cretion when there is reason to believe that he will not
+exercise that discretion fairly—for example, upon a show
+ing that the trustee has already acted in bad faith:
+“If the trustee’s failure to pay a reasonable amount [to
+the beneficiary of the trust] is due to a failure to exer
+cise [the trustee’s] discretion honestly and fairly, the
+court may well fix the amount [to be paid] itself. On
+the other hand, if the trustee’s failure to provide rea
+sonably for the beneficiary is due to a mistake as to
+the trustee’s duties or powers, and there is no reason
+to believe the trustee will not fairly exercise the dis
+cretion once the court has determined the extent of
+the trustee’s duties and powers, the court ordinarily
+will not fix the amount but will instead direct the
+trustee to make reasonable provision for the benefici
+ary’s support.” 3 A. Scott, W. Fratcher, & M. Ascher,
+Scott and Ascher on Trusts §18.2.1, pp. 1348–1349
+(5th ed. 2007) (hereinafter Scott and Ascher) (footnote
+omitted) (citing cases).
+This is not surprising—if the settlor who creates a trust
+grants discretion to the trustee, it seems doubtful that the
+
+
+Cite as: 559 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+settlor would want the trustee divested entirely of that
+discretion simply because of one good-faith mistake.1
+Here the lower courts made no finding that the Plan
+Administrator had acted in bad faith or would not fairly
+exercise his discretion to interpret the terms of the Plan.
+Thus, if the District Court had followed the trust law
+principles set out in Scott and Ascher, it should not have
+“act[ed] as a substitute trustee,” Eaton v. Eaton, 82 N. H.
+216, 218, 132 A. 10, 11 (1926), and stripped the Plan
+——————
+1 The
+
+dissent is wrong to suggest a lack of case support for this inter
+pretation of trust law. Post, at 10–12 (opinion of BREYER, J.). See, e.g.,
+Hanford v. Clancy, 87 N. H. 458, 461, 183 A. 271, 272–273 (1936)
+(“Affirmative orders of disposition, such as the court made in this case,
+may only be sustained if, under the circumstances, there is but one
+reasonable disposition possible. If more than one reasonable disposi
+tion could be made, then the trustee must make the choice” (emphasis
+added)); In re Sullivan’s Will, 144 Neb. 36, 40–41, 12 N. W. 2d 148,
+150–151 (1943) (although trustees erred in not providing any support to
+plaintiff, “the court was without authority to determine the amount of
+support to which plaintiff was entitled from the trust fund” because
+“the court has no authority to substitute its judgment for that of the
+trustees” (emphasis added)); Eaton v. Eaton, 82 N. H. 216, 218–219,
+132 A. 10, 11 (1926) (“[The trustee’s] failure to administer the fund
+properly did not entitle the court to act as a substitute trustee. . . .
+[W]ithin the limits of reasonableness the trustee alone may exercise
+discretion, since that is what the will requires” (emphasis added) (cited
+in 3 A. Scott & W. Fratcher, Law of Trusts §187.1, pp. 30–31 (4th ed.
+1988))); In re Marre’s Estate, 18 Cal. 2d 184, 190, 114 P. 2d 586, 590–
+591 (1941) (lower court erred in setting amount of payments to benefi
+ciary after ruling that trustees had mistakenly failed to make payment;
+“[i]t is well settled that the courts will not attempt to exercise discretion
+which has been confided to a trustee unless it is clear that the trustee
+has abused his discretion in some manner. . . . The amounts to be paid
+should therefore be determined in the discretion of the trustees” (cited
+in 3 Scott and Ascher 1349, n. 4 (5th ed. 2007))); Finch v. Wachovia
+Bank & Trust Co., 156 N. C. App. 343, 348, 577 S. E. 2d 306, 310 (2003)
+(agreeing with lower court that trustee abused its discretion, but
+vacating the court’s remedial order because it would “strip discretion
+from the trustee and replace it with the judgment of the court”). See
+also Brief for Petitioners 40–43.
+
+
+8
+
+CONKRIGHT v. FROMMERT
+Opinion of the Court
+
+Administrator of the deference he would otherwise enjoy
+under Firestone and the terms of the Plan.
+Other trust law sources, however, point the other way.
+For example, the Restatement (Second) of Trusts states
+that “the court will control the trustee in the exercise of a
+power where he acts beyond the bounds of a reasonable
+judgment.” Restatement (Second) of Trusts §187, Com
+ment i, p. 406 (1957). Another treatise states that, after a
+trustee has abused his discretion, “[s]ometimes the court
+decides for the trustee how he should act, either by stating
+the exact result it desires to achieve, or by fixing some
+limits on the trustee’s action and giving him leeway within
+those limits.” G. Bogert & G. Bogert, Law of Trusts and
+Trustees §560, p. 223 (2d rev. ed. 1980).
+The unclear state of trust law on the question was per
+haps best captured by the Texas Supreme Court:
+“There is authority for ordering a dismissal of the case
+to afford the trustee an opportunity to exercise a rea
+sonable discretion in arriving at the amount of pay
+ments to be made in the light of our discussion of the
+problem and after a proper consideration of the many
+factors involved. On the other hand, there is author
+ity for remanding the case to the trial court to hear
+evidence and in the exercise of its supervisory juris
+diction to fix the amount of such payments. There is
+still other authority for remanding the case to the
+trial court to hear evidence and fix the boundaries of a
+reasonable discretion to be exercised by the trustee
+within maximum and minimum limits.” State v.
+Rubion, 158 Tex. 43, 54–55, 308 S. W. 2d 4, 11 (1957)
+(citations omitted).
+While we are “guided by principles of trust law” in
+ERISA cases, Firestone, 489 U. S., at 111, we have recog
+nized before that “trust law does not tell the entire story,”
+Varity Corp. v. Howe, 516 U. S. 489, 497 (1996); see ibid.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+(“In some instances, trust law will offer only a starting
+point, after which courts must go on to ask whether, or to
+what extent, the language of the statute, its structure, or
+its purposes require departing from common-law trust
+requirements”); Brief for Respondents 50 (pressing same
+view as the dissent but concluding that the dispute over
+trust law “need not be resolved”). Here trust law does not
+resolve the specific issue before us, but the guiding princi
+ples we have identified underlying ERISA do.
+Congress enacted ERISA to ensure that employees
+would receive the benefits they had earned, but Congress
+did not require employers to establish benefit plans in the
+first place. Lockheed Corp. v. Spink, 517 U. S. 882, 887
+(1996). We have therefore recognized that ERISA repre
+sents a “ ‘careful balancing’ between ensuring fair and
+prompt enforcement of rights under a plan and the en
+couragement of the creation of such plans.” Aetna Health
+Inc. v. Davila, 542 U. S. 200, 215 (2004) (quoting Pilot Life
+Ins. Co. v. Dedeaux, 481 U. S. 41, 54 (1987)). Congress
+sought “to create a system that is [not] so complex that
+administrative costs, or litigation expenses, unduly dis
+courage employers from offering [ERISA] plans in the first
+place.” Varity Corp., supra, at 497. ERISA “induc[es]
+employers to offer benefits by assuring a predictable set of
+liabilities, under uniform standards of primary conduct
+and a uniform regime of ultimate remedial orders and
+awards when a violation has occurred.” Rush Prudential
+HMO, Inc. v. Moran, 536 U. S. 355, 379 (2002).
+Firestone deference protects these interests and, by
+permitting an employer to grant primary interpretive
+authority over an ERISA plan to the plan administrator,
+preserves the “careful balancing” on which ERISA is
+based. Deference promotes efficiency by encouraging
+resolution of benefits disputes through internal adminis
+trative proceedings rather than costly litigation. It also
+promotes predictability, as an employer can rely on the
+
+
+10
+
+CONKRIGHT v. FROMMERT
+Opinion of the Court
+
+expertise of the plan administrator rather than worry
+about unexpected and inaccurate plan interpretations that
+might result from de novo judicial review. Moreover,
+Firestone deference serves the interest of uniformity,
+helping to avoid a patchwork of different interpretations of
+a plan, like the one here, that covers employees in differ
+ent jurisdictions—a result that “would introduce consider
+able inefficiencies in benefit program operation, which
+might lead those employers with existing plans to reduce
+benefits, and those without such plans to refrain from
+adopting them.” Fort Halifax Packing Co. v. Coyne, 482
+U. S. 1, 11 (1987). Indeed, a group of prominent actuaries
+tells us that it is impossible even to determine whether an
+ERISA plan is solvent (a duty imposed on actuaries by
+federal law, see 29 U. S. C. §§1023(a)(4), (d)) if the plan is
+interpreted to mean different things in different places.
+See Brief for Chief Actuaries as Amici Curiae 5–11.
+Respondents and the United States as amicus curiae do
+not question that deference to plan administrators serves
+these important purposes. Rather, they argue that defer
+ence is less important once a plan administrator has is
+sued an interpretation of a plan found to be unreasonable.
+But the interests in efficiency, predictability, and uniform
+ity—and the manner in which they are promoted by defer
+ence to reasonable plan construction by administrators—
+do not suddenly disappear simply because a plan adminis
+trator has made a single honest mistake.
+This case illustrates the point. Consider first the inter
+est in efficiency, an interest that Xerox has pursued by
+granting the Plan Administrator authority to construe the
+Plan. On remand from the Court of Appeals, if the Dis
+trict Court had applied a deferential standard of review
+under Firestone, the question before it would have been
+whether the Plan Administrator’s interpretation of the
+Plan was reasonable. After answering that question, the
+case might well have been over. Instead, the District
+
+
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+Court declined to defer, and therefore had to answer the
+more complicated question of how best to interpret the
+Plan.
+The prospect of increased litigation costs inherent in
+respondents’ approach does not end there. Under respon
+dents’ and the Government’s view, the question whether a
+deferential standard of review was required in this case
+turns on whether the Plan Administrator was interpreting
+the “same terms” or deciding the “same issue” on remand.
+See Brief for Respondents 43, 46–48, 53, and n. 13; Brief
+for United States as Amicus Curiae 13–15, 23. Whether
+that condition is satisfied will not always be clear. Indeed,
+petitioners dispute that question here, arguing that the
+Plan Administrator confronted an entirely new issue on
+remand—how to interpret the Plan, knowing that specific
+provisions requiring use of the phantom account method
+could not be applied to respondents due to a lack of notice.
+See Brief for Petitioners 50–51. Respondents would force
+the parties to litigate this potentially complicated “same
+issue” or “same terms” question before a district court
+could even decide whether deference is owed to a plan
+administrator’s view. As we recognized in Glenn, there is
+little place in the ERISA context for these sorts of “special
+procedural rules [that] would create further complexity,
+adding time and expense to a process that may already be
+too costly for many of those who seek redress.” 554 U. S.,
+at ___ (slip op., at 10).
+The position of respondents and the Government could
+interject other additional issues into ERISA litigation. For
+example, even under their view, the District Court here
+could have granted deference to the Plan Administrator;
+the court merely was not required to do so. See Brief for
+Respondents 43, 49–50, 52–53; Brief for United States as
+Amicus Curiae 23–24. That raises the question of how a
+court is to decide between the two options; respondents’
+answer is to weigh an indeterminate number of factors,
+
+
+12
+
+CONKRIGHT v. FROMMERT
+Opinion of the Court
+
+which would only further complicate ERISA proceedings.
+See Tr. of Oral Arg. 34, 40–45.
+This case also demonstrates the harm to the interest in
+predictability that would result from stripping a plan
+administrator of Firestone deference. After declining to
+apply a deferential standard here, the District Court
+adopted an interpretation of the Plan that does not ac
+count for the time value of money. 472 F. Supp. 2d, at
+458; 535 F. 3d, at 119. In the actuarial world, this is
+heresy, and highly unforeseeable. Indeed, the actuaries
+tell us that they have never encountered an ERISA plan
+resembling this one that did not include some adjustment
+for the time value of money. Brief for Chief Actuaries as
+Amici Curiae 12.
+Respondents’ own actuarial expert testified before the
+District Court that fairness would require recognizing the
+time value of money in some fashion. See App. 127a,
+130a. And respondents and the Government do not dis
+pute that the District Court’s approach, which does not
+account for the fact that respondents were able to use
+their past distributions as they saw fit for over 20 years,
+would place respondents in a better position than employ
+ees who never left the company. Cf. Brief for Respondents
+42–43; Brief for United States as Amicus Curiae 32–33.
+Deference to plan administrators, who have a duty to all
+beneficiaries to preserve limited plan assets, see Varity
+Corp., 516 U. S., at 514, helps prevent such windfalls for
+particular employees.
+Finally, this case demonstrates the uniformity problems
+that arise from creating ad hoc exceptions to Firestone
+deference. If other courts were to adopt an interpretation
+of the Plan that does account for the time value of money,
+Xerox could be placed in an impossible situation. Similar
+Xerox employees could be entitled to different benefits
+depending on where they live, or perhaps where they bring
+a legal action. Cf. 29 U. S. C. §1132(e)(2) (permitting suit
+
+
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+“where the plan is administered, where the breach took
+place, or where a defendant resides or may be found”). In
+fact, that may already be the case. In similar litigation
+over the Plan, the Ninth Circuit also rejected the use of
+the phantom account method, but held that the Plan
+Administrator should utilize actuarial principles in ac
+counting for rehired employees’ past distributions—which
+would presumably include taking some cognizance of the
+time value of money. See Miller v. Xerox Corp. Retirement
+Income Guarantee Plan, 464 F. 3d 871, 875–876 (2006);
+Brief for ERISA Industry Committee and American Bene
+fits Council as Amici Curiae 8–9. Thus, failing to defer to
+the Plan Administrator here could well cause the Plan to
+be subject to different interpretations in California and
+New York. “Uniformity is impossible, however, if plans
+are subject to different legal obligations in different
+States.” Egelhoff v. Egelhoff, 532 U. S. 141, 148 (2001).
+Firestone deference serves to avoid that result and to
+preserve the “careful balancing” of interests that ERISA
+represents. Pilot Life Ins. Co., 481 U. S., at 54.
+C
+In spite of all this, respondents and the Government
+argue that requiring the District Court to apply Firestone
+deference in this case would actually disserve the purposes
+of ERISA. They argue that continued deference would
+encourage plan administrators to adopt unreasonable
+interpretations of plans in the first instance, as adminis
+trators would anticipate a second chance to interpret their
+plans if their first interpretations were rejected. And they
+argue that plan administrators would be able to proceed
+seriatim through several interpretations of their plans,
+each time receiving deference, thereby undermining the
+prompt resolution of disputes over benefits, driving up
+litigation costs, and discouraging employees from chal
+lenging the decisions of plan administrators at all.
+
+
+14
+
+CONKRIGHT v. FROMMERT
+Opinion of the Court
+
+All this is overblown. There is no reason to think that
+deference would be required in the extreme circumstances
+that respondents foresee. Under trust law, a trustee may
+be stripped of deference when he does not exercise his
+discretion “honestly and fairly.” 3 Scott and Ascher 1348.
+Multiple erroneous interpretations of the same plan provi
+sion, even if issued in good faith, might well support a
+finding that a plan administrator is too incompetent to
+exercise his discretion fairly, cutting short the rounds of
+costly litigation that respondents fear.
+Applying a deferential standard of review does not mean
+that the plan administrator will prevail on the merits. It
+means only that the plan administrator’s interpretation of
+the plan “will not be disturbed if reasonable.” Firestone,
+489 U. S., at 111; see also ibid. (“ ‘Where discretion is
+conferred upon the trustee with respect to the exercise of a
+power, its exercise is not subject to control by the court
+except to prevent an abuse by the trustee of his discre
+tion’ ” (quoting Restatement (Second) of Trusts §187)).
+Thus, far from “impos[ing] [a] rigid and inflexible re
+quirement” that courts must defer to plan administrators,
+post, at 8, we simply hold that the lower courts should
+have applied the standard established in Firestone and
+Glenn.
+III
+The Court of Appeals erred in holding that the District
+Court could refuse to defer to the Plan Administrator’s
+interpretation of the Plan on remand, simply because the
+Court of Appeals had found a previous related interpreta
+tion by the Administrator to be invalid. Because we re
+verse on that ground, we do not reach the question
+whether the Court of Appeals also erred in applying a
+deferential standard of review to the decision of the Dis
+
+
+Cite as: 559 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+trict Court on the merits.2
+The judgment of the Court of Appeals for the Second
+Circuit is reversed, and the case is remanded for further
+proceedings consistent with this opinion.
+It is so ordered.
+JUSTICE SOTOMAYOR took no part in the consideration
+or decision of this case.
+
+——————
+2 The Government raises an additional argument—that the District
+Court should not have deferred to the Plan Administrator’s second
+interpretation of the Plan because that interpretation would have
+violated ERISA’s notice requirements. See Brief for United States as
+Amicus Curiae 25–26. That is an argument about the merits, not the
+proper standard of review, and we leave it to be decided, if necessary,
+on remand.
+
+

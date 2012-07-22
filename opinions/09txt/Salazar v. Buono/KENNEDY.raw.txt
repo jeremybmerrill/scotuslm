@@ -1,0 +1,796 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+Opinion of KENNEDY, J.
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–472
+_________________
+
+KEN L. SALAZAR, SECRETARY OF THE INTERIOR, 
+
+ET AL., PETITIONERS v. FRANK BUONO 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[April 28, 2010] 
+
+
+JUSTICE KENNEDY announced the judgment of the Court
+and delivered an opinion, in which THE CHIEF JUSTICE
+joins and JUSTICE ALITO joins in part.
+In 1934, private citizens placed a Latin cross on a rock
+outcropping in a remote section of the Mojave Desert.
+Their purpose and intent was to honor American soldiers
+who fell in World War I. The original cross deteriorated
+over time, but a reconstructed one now stands at the same
+place. It is on federal land.
+The Court is asked to consider a challenge, not to the
+first placement of the cross or its continued presence on
+federal land, but to a statute that would transfer the cross
+and the land on which it stands to a private party. De
+partment of Defense Appropriations Act, 2004, Pub. L.
+108–87, §8121(a), 117 Stat. 1100. The District Court
+permanently enjoined the Government from implementing
+the statute. The Court of Appeals affirmed. We conclude
+that its judgment was in error.
+I
+A
+The Mojave National Preserve (Preserve) spans ap
+
+
+2
+
+SALAZAR v. BUONO
+Opinion of KENNEDY, J.
+
+proximately 1.6 million acres in southeastern California.
+The Preserve is nestled within the Mojave Desert, whose
+picturesque but rugged territory comprises 25,000 square
+miles, exceeding in size the combined area of the Nation’s
+five smallest States. See Merriam-Webster’s Geographical
+Dictionary 755, 1228–1230 (3d ed. 1997). Just over 90
+percent of the land in the Preserve is federally owned,
+with the rest owned either by the State of California or by
+private parties. The National Park Service, a division of
+the Department of the Interior, administers the Preserve
+as part of the National Park System.
+16 U. S. C.
+§§410aaa–41 and 410aaa–46.
+Sunrise Rock is a granite outcropping located within the
+Preserve. Sunrise Rock and the area in its immediate
+vicinity are federal land, but two private ranches are
+located less than two miles away. The record does not
+indicate whether fencing is used to mark the boundary of
+these ranches. In 1934, members of the Veterans of For
+eign Wars (VFW) mounted a Latin cross on the rock as a
+memorial to soldiers who died in World War I. A Latin
+cross consists of two bars—a vertical one and a shorter,
+horizontal one. The cross has been replaced or repaired at
+various times over the years, most recently in 1998 by
+Henry Sandoz. Sandoz is a private citizen who owns land
+elsewhere in the Preserve, a portion of which he is pre
+pared to transfer to the Government in return for its
+conveyance to the VFW of the land on which the cross
+stands, all pursuant to the statute now under review.
+The cross, as built by Sandoz, consists of 4-inch diame
+ter metal pipes painted white. The vertical bar is less
+than eight feet tall. It cannot be seen from the nearest
+highway, which lies more than 10 miles away. It is visi
+ble, however, from Cima Road, a narrow stretch of black
+top that comes within 100 feet of Sunrise Rock.
+The cross has been a gathering place for Easter services
+since it was first put in place; and Sunrise Rock and its
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of KENNEDY, J.
+
+immediate area continue to be used as a campsite. At one
+time the cross was accompanied by wooden signs stating
+“ ‘The Cross, Erected in Memory of the Dead of All Wars,’
+and ‘Erected 1934 by Members of Veterans of Foregin [sic]
+Wars, Death Valley post 2884.’ ” Buono v. Kempthorne,
+527 F. 3d 758, 769 (CA9 2008). The signs have since
+disappeared, and the cross now stands unmarked.
+B
+Frank Buono, respondent here, is a retired Park Service
+employee who makes regular visits to the Preserve.
+Buono claims to be offended by the presence of a religious
+symbol on federal land. He filed suit in the United States
+District Court for the Central District of California. He
+alleged a violation of the Establishment Clause of the
+First Amendment and sought an injunction requiring the
+Government to remove the cross.
+The litigation proceeded in what can be described as
+four stages. In the first, the District Court ruled in
+Buono’s favor on opposing motions for summary judgment.
+Buono v. Norton, 212 F. Supp. 2d 1202 (CD Cal. 2002)
+(Buono I). As an initial matter, the court found that
+Buono had standing to maintain his Establishment Clause
+challenge. Id., at 1210–1214. On the merits, the parties
+agreed that the dispute should be governed by the so
+called Lemon test, which the District Court formulated as
+follows:
+“A government religious practice or symbol will sur
+vive an Establishment Clause challenge when it
+(1) has a secular purpose, (2) has a primary effect that
+neither advances nor inhibits religion, and (3) does
+not foster excessive state entanglement with religion.”
+Buono I, supra, at 1214–1215 (citing Lemon v. Kurtz
+man, 403 U. S. 602, 612–613 (1971)).
+The court expressly declined to consider whether the
+
+
+4
+
+SALAZAR v. BUONO
+Opinion of KENNEDY, J.
+
+Government’s actions regarding the cross had a secular
+purpose, 212 F. Supp. 2d, at 1214–1215, or whether they
+caused excessive entanglement with religion, id., at 1217,
+n. 9. Instead, the court evaluated the primary effect of the
+cross by asking how it would be viewed by a “reasonable
+observer.” Id., at 1216. Concluding that presence of the
+cross on federal land conveyed an impression of govern
+mental endorsement of religion, the court granted Buono’s
+request for injunctive relief. The court’s order in Buono I
+(2002 injunction) permanently forbade the Government
+“from permitting the display of the Latin cross in the area
+of Sunrise Rock in the Mojave National Preserve.” App. to
+Pet. for Cert. 146a.
+The United States Court of Appeals for the Ninth Cir
+cuit stayed the 2002 injunction to the extent that it re
+quired the cross to be removed or dismantled but did not
+forbid alternative methods of complying with the order.
+The Government covered the cross, first with a tarpaulin
+and later with a plywood box.
+On appeal, the judgment of the District Court was af
+firmed, both as to standing and on the merits of Buono’s
+Establishment Clause challenge. Buono v. Norton, 371
+F. 3d 543 (CA9 2004) (Buono II). Like the District Court,
+the Court of Appeals did not decide whether the Govern
+ment’s action, or nonaction, with respect to the cross had
+been motivated by a secular purpose. Id., at 550. Its
+ruling was based instead on the conclusion that a reason
+able observer would perceive a cross on federal land as
+governmental endorsement of religion. Id., at 549–550.
+The Government did not seek review by this Court, so that
+the judgment of the Court of Appeals in Buono II became
+final.
+C
+During the relevant proceedings, Congress enacted
+certain statutes related to the cross:
+
+
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+Opinion of KENNEDY, J.
+
+(1) Before Buono I was filed, Congress passed an appro
+priations bill that included a provision forbidding the use
+of governmental funds to remove the cross. Consolidated
+Appropriations Act, 2001, Pub. L. 106–554, §133, 114 Stat.
+2763A–230.
+(2) While Buono I was pending before the District Court,
+Congress designated the cross and its adjoining land “as a
+national memorial commemorating United States partici
+pation in World War I and honoring the American veter
+ans of that war.” Department of Defense Appropriations
+Act, 2002, Pub. L. 107–117, §8137(a), 115 Stat. 2278. The
+Secretary of the Interior was directed to expend up to
+$10,000 to acquire a replica of the original cross and its
+memorial plaque and to install the plaque at a suitable
+nearby location. §8137(c).
+(3) Three months after Buono I was decided, Congress
+again prohibited the spending of governmental funds to
+remove the cross. Department of Defense Appropriations
+Act, 2003, Pub. L. 107–248, §8065(b), 116 Stat. 1551.
+(4) While the Government’s appeal in Buono II was
+pending, Congress passed a statute (land-transfer statute)
+directing the Secretary of the Interior to transfer to the
+VFW the Government’s interest in the land that had been
+designated a national memorial. Department of Defense
+Appropriations Act, 2004, Pub. L. 108–87, §8121(a), 117
+Stat. 1100. In exchange, the Government was to receive
+land elsewhere in the preserve from Henry Sandoz and his
+wife. Ibid. Any difference in value between the two par
+cels would be equalized through a cash payment.
+§§8121(c), (d). The land-transfer statute provided that the
+property would revert to the Government if not main
+tained “as a memorial commemorating United States
+participation in World War I and honoring the American
+veterans of that war.” §8121(e), 117 Stat. 1100. The
+statute presents a central issue in this case.
+The Court of Appeals in Buono II did not address the
+
+
+6
+
+SALAZAR v. BUONO
+Opinion of KENNEDY, J.
+
+effect on the suit of a potential land transfer under the
+statute. The court noted that the transfer might “take as
+long as two years to complete,” 371 F. 3d, at 545, and that
+its effect was not yet known, id., at 545–546. The court
+thus “express[ed] no view as to whether a transfer com
+pleted under [the statute] would pass constitutional mus
+ter.” Id., at 546.
+D
+After the Court of Appeals affirmed in Buono II, Buono
+returned to the District Court seeking to prevent the land
+transfer. He sought injunctive relief against the transfer,
+either through enforcement or modification of the 2002
+injunction. In evaluating his request the trial court de
+scribed the relevant question as whether the land transfer
+was a bona fide attempt to comply with the injunction (as
+the Government claimed), or a sham aimed at keeping the
+cross in place (as Buono claimed). Buono v. Norton, 364
+F. Supp. 2d 1175, 1178 (CD Cal. 2005) (Buono III). In
+Buono III, the court did not consider whether the transfer
+itself was an “independent violation of the Establishment
+Clause.” Id., at 1182, n. 8. The court nevertheless con
+cluded that the transfer was an attempt by the Govern
+ment to keep the cross atop Sunrise Rock and so was
+invalid. The court granted Buono’s motion to enforce the
+2002 injunction; denied as moot his motion to amend it;
+and permanently enjoined the Government from imple
+menting the land-transfer statute. Id., at 1182.
+The Court of Appeals again affirmed, largely following
+the reasoning of the District Court. Buono v. Kempthorne,
+502 F. 3d 1069 (CA9 2007). The Government’s motion for
+rehearing en banc was denied over a dissent by Judge
+O’Scannlain, 527 F. 3d 758, and this Court granted certio
+rari, 555 U. S. ___ (2009).
+
+
+Cite as: 559 U. S. ____ (2010)
+
+7
+
+Opinion of KENNEDY, J.
+
+II
+Before considering the District Court’s order on the
+merits, the first inquiry must be with respect to Buono’s
+standing to maintain this action. To demonstrate stand
+ing, a plaintiff must have “alleged such a personal stake in
+the outcome of the controversy as to warrant his invoca
+tion of federal-court jurisdiction.” Horne v. Flores, 557
+U. S. ___, ___ (2009) (slip op., at 8) (internal quotation
+marks omitted). The Government argues that Buono’s
+asserted injury is not personal to him and so does not
+confer Article III standing. As noted above, Buono does
+not find the cross itself objectionable but instead takes
+offense at the presence of a religious symbol on federal
+land. Buono does not claim that, as a personal matter, he
+has been made to feel excluded or coerced, and so, the
+Government contends, he cannot object to the presence of
+the cross. Brief for Petitioners 12–17.
+Whatever the validity of the objection to Buono’s stand
+ing, that argument is not available to the Government at
+this stage of the litigation. When Buono moved the Dis
+trict Court in Buono I for an injunction requiring the
+removal of the cross, the Government raised the same
+standing objections it proffers now. Rejecting the Gov
+ernment’s position, the District Court entered a judgment
+in Buono’s favor, which the Court of Appeals affirmed in
+Buono II. The Government did not seek review in this
+Court. The judgment became final and unreviewable upon
+the expiration of the 90-day deadline under 28 U. S. C.
+§2101(c) for filing a petition for certiorari. Toledo Scale
+Co. v. Computing Scale Co., 261 U. S. 399, 418 (1923); see
+Missouri v. Jenkins, 495 U. S. 33, 45 (1990) (90-day dead
+line is “mandatory and jurisdictional”). The Government
+cannot now contest Buono’s standing to obtain the final
+judgment in Buono I.
+Of course, even though the Court may not reconsider
+whether Buono had standing to seek the 2002 injunction,
+
+
+8
+
+SALAZAR v. BUONO
+Opinion of KENNEDY, J.
+
+it is still necessary to evaluate his standing in Buono III to
+seek application of the injunction against the land
+transfer statute. That measure of relief is embodied in the
+judgment upon which we granted review.
+This was a measure of relief that Buono had standing to
+seek. A party that obtains a judgment in its favor ac
+quires a “judicially cognizable” interest in ensuring com
+pliance with that judgment. See Allen v. Wright, 468 U. S.
+737, 763 (1984) (plaintiffs’ right to enforce a desegregation
+decree to which they were parties is “a personal interest,
+created by law, in having the State refrain from taking
+specific actions”). Having obtained a final judgment
+granting relief on his claims, Buono had standing to seek
+its vindication.
+The Government does not deny this proposition as a
+general matter. Instead, it argues that Buono was not
+seeking to vindicate—but rather to extend—the 2002
+injunction. The first injunction forbade the Government
+from maintaining the cross on Sunrise Rock; yet in Buono
+III he sought to preclude the land transfer, a different
+governmental action. The Government contends that
+Buono lacked standing to seek this additional relief.
+Reply Brief for Petitioners 5.
+The Government’s argument, however, is properly ad
+dressed to the relief granted by the judgment below, not to
+Buono’s standing to seek that relief. The Government has
+challenged whether appropriate relief was granted in
+Buono III in light of the relevant considerations and legal
+principles, and we shall consider these questions. The
+standing inquiry, by contrast, turns on the alleged injury
+that prompted the plaintiff to invoke the court’s jurisdic
+tion in the first place. Buono’s entitlement to an injunc
+tion having been established in Buono I and II, he sought
+in Buono III to prevent the Government from frustrating
+or evading that injunction. Based on the rights he ob
+tained under the earlier decree—against the same party,
+
+
+Cite as: 559 U. S. ____ (2010)
+
+9
+
+Opinion of KENNEDY, J.
+
+regarding the same cross and the same land—his interests
+in doing so were sufficiently personal and concrete to
+support his standing. Although Buono also argued that
+the land transfer should be prohibited as an “independent”
+Establishment Clause violation, the District Court did not
+address or order relief on that claim, which is not before
+us. Buono III, 364 F. Supp. 2d, at 1182, n. 8. This is not a
+case in which a party seeks to import a previous standing
+determination into a wholly different dispute.
+In arguing that Buono sought to extend, rather than to
+enforce, the 2002 injunction, the Government in essence
+contends that the injunction did not provide a basis for
+the District Court to invalidate the land transfer. This is
+not an argument about standing but about the merits of
+the District Court’s order. Those points now must be
+addressed.
+III
+The procedural history of this litigation must be consid
+ered to identify the issues now subject to review. The
+District Court granted the 2002 injunction after conclud
+ing that a cross on federal land violated the Establishment
+Clause. The Government unsuccessfully challenged that
+conclusion on appeal, and the judgment became final upon
+completion of direct review. At that point, the judgment
+“became res judicata to the parties and those in privity
+with them, not only as to every matter which was offered
+and received to sustain or defeat the claim or demand, but
+as to any other admissible matter which might have been
+offered for that purpose.” Travelers Indemnity Co. v.
+Bailey, 557 U. S. ___, ___ (2009) (slip op., at 14) (internal
+quotation marks omitted). The Government therefore
+does not—and could not—ask this Court to reconsider the
+propriety of the 2002 injunction or the District Court’s
+reasons for granting it.
+The question now before the Court is whether the Dis
+
+
+10
+
+SALAZAR v. BUONO
+Opinion of KENNEDY, J.
+
+trict Court properly enjoined the Government from im
+plementing the land-transfer statute. The District Court
+did not consider whether the statute, in isolation, would
+have violated the Establishment Clause, and it did not
+forbid the land transfer as an independent constitutional
+violation. Buono III, supra, at 1182, n. 8. Rather, the
+court enjoined compliance with the statute on the premise
+that the relief was necessary to protect the rights Buono
+had secured through the 2002 injunction.
+An injunction is an exercise of a court’s equitable au
+thority, to be ordered only after taking into account all of
+the circumstances that bear on the need for prospective
+relief. See United States v. Swift & Co., 286 U. S. 106, 114
+(1932). See also Weinberger v. Romero-Barcelo, 456 U. S.
+305, 312 (1982); Hecht Co. v. Bowles, 321 U. S. 321, 329
+(1944); 11A C. Wright, A. Miller, & M. Kane, Federal
+Practice and Procedure §2942, pp. 39–42 (2d ed. 1995)
+(hereinafter Wright & Miller). Equitable relief is not
+granted as a matter of course, see Weinberger, 456 U. S.,
+at 311–312, and a court should be particularly cautious
+when contemplating relief that implicates public interests,
+see id., at 312 (“In exercising their sound discretion, courts
+of equity should pay particular regard for the public con
+sequences in employing the extraordinary remedy of in
+junction”); Harrisonville v. W. S. Dickey Clay Mfg. Co., 289
+U. S. 334, 338 (1933) (“Where an important public interest
+would be prejudiced, the reasons for denying the injunc
+tion may be compelling”). Because injunctive relief “is
+drafted in light of what the court believes will be the
+future course of events, . . . a court must never ignore
+significant changes in the law or circumstances underlying
+an injunction lest the decree be turned into an ‘instrument
+of wrong.’ ” Wright & Miller §2961, at 393–394 (quoting
+Swift & Co., supra, at 115).
+Here, the District Court did not engage in the appropri
+ate inquiry. The land-transfer statute was a substantial
+
+
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+Opinion of KENNEDY, J.
+
+change in circumstances bearing on the propriety of the
+requested relief. The court, however, did not acknowledge
+the statute’s significance. It examined the events that led
+to the statute’s enactment and found an intent to prevent
+removal of the cross. Deeming this intent illegitimate, the
+court concluded that nothing of moment had changed.
+This was error. Even assuming that the land-transfer
+statute was an attempt to prevent removal of the cross, it
+does not follow that an injunction against its implementa
+tion was appropriate.
+By dismissing Congress’s motives as illicit, the District
+Court took insufficient account of the context in which the
+statute was enacted and the reasons for its passage.
+Private citizens put the cross on Sunrise Rock to com
+memorate American servicemen who had died in World
+War I. Although certainly a Christian symbol, the cross
+was not emplaced on Sunrise Rock to promote a Christian
+message. Cf. County of Allegheny v. American Civil Liber
+ties Union, Greater Pittsburgh Chapter, 492 U. S. 573, 661
+(1989) (KENNEDY, J., concurring in judgment in part and
+dissenting in part) (“[T]he [Establishment] Clause forbids
+a city to permit the permanent erection of a large Latin
+cross on the roof of city hall . . . because such an obtrusive
+year-round religious display would place the government’s
+weight behind an obvious effort to proselytize on behalf of
+a particular religion”). Placement of the cross on Govern
+ment-owned land was not an attempt to set the imprima
+tur of the state on a particular creed. Rather, those who
+erected the cross intended simply to honor our Nation’s
+fallen soldiers. See Brief for Veterans of Foreign Wars of
+the United States et al. as Amici Curiae 15 (noting that
+the plaque accompanying the cross “was decorated with
+VFW decals”).
+Time also has played its role. The cross had stood on
+Sunrise Rock for nearly seven decades before the statute
+was enacted. By then, the cross and the cause it com
+
+
+12
+
+SALAZAR v. BUONO
+Opinion of KENNEDY, J.
+
+memorated had become entwined in the public conscious
+ness. See ibid. Members of the public gathered regularly
+at Sunrise Rock to pay their respects. Rather than let the
+cross deteriorate, community members repeatedly took it
+upon themselves to replace it. Congress ultimately desig
+nated the cross as a national memorial, ranking it among
+those monuments honoring the noble sacrifices that con
+stitute our national heritage. See note following 16
+U. S. C. §431 (listing officially designated national memo
+rials, including the National D-Day Memorial and the
+Vietnam Veterans Memorial). Research discloses no other
+national memorial honoring American soldiers—more
+than 300,000 of them—who were killed or wounded in
+World War I. See generally A. Leland & M. Oboroceanu,
+Congressional Research Service Report for Congress,
+American War and Military Operations Casualties: Lists
+and Statistics 2 (2009). It is reasonable to interpret the
+congressional designation as giving recognition to the
+historical meaning that the cross had attained. Cf. Van
+Orden v. Perry, 545 U. S. 677, 702–703 (2005) (BREYER, J.,
+concurring in judgment) (“40 years” without legal chal
+lenge to a Ten Commandments display “suggest that the
+public visiting the [surrounding] grounds has considered
+the religious aspect of the tablets’ message as part of what
+is a broader moral and historical message reflective of a
+cultural heritage”).
+The 2002 injunction thus presented the Government
+with a dilemma. It could not maintain the cross without
+violating the injunction, but it could not remove the cross
+without conveying disrespect for those the cross was seen
+as honoring. Cf. id., at 704 (to invalidate a longstanding
+Ten Commandments display might “create the very kind
+of religiously based divisiveness that the Establishment
+Clause seeks to avoid”). Deeming neither alternative to be
+satisfactory, Congress enacted the statute here at issue.
+Congress, of course, may not use its legislative powers to
+
+
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+Opinion of KENNEDY, J.
+
+reopen final judgments. See Plaut v. Spendthrift Farm,
+Inc., 514 U. S. 211, 225–226 (1995). That principle, how
+ever, was not a bar to this statute. The Government’s
+right to transfer the land was not adjudicated in Buono I
+or compromised by the 2002 injunction.
+In belittling the Government’s efforts as an attempt to
+“evade” the injunction, Buono III, 364 F. Supp. 2d, at
+1182, the District Court had things backwards. Con
+gress’s prerogative to balance opposing interests and its
+institutional competence to do so provide one of the princi
+pal reasons for deference to its policy determinations. See
+Patsy v. Board of Regents of Fla., 457 U. S. 496, 513
+(1982). Here, Congress adopted a policy with respect to
+land it now owns in order to resolve a specific controversy.
+Congress, the Executive, and the Judiciary all have a duty
+to support and defend the Constitution. See United States
+v. Nixon, 418 U. S. 683, 703 (1974) (“In the performance of
+assigned constitutional duties each branch of the Govern
+ment must initially interpret the Constitution, and the
+interpretation of its powers by any branch is due great
+respect from the others”). The land-transfer statute em
+bodies Congress’s legislative judgment that this dispute is
+best resolved through a framework and policy of accom
+modation for a symbol that, while challenged under the
+Establishment Clause, has complex meaning beyond the
+expression of religious views. That judgment should not
+have been dismissed as an evasion, for the statute brought
+about a change of law and a congressional statement of
+policy applicable to the case.
+Buono maintains that any governmental interest in
+keeping the cross up must cede to the constitutional con
+cerns on which the 2002 injunction was based. He argues
+that the land transfer would be “an incomplete remedy” to
+the constitutional violation underlying the injunction and
+that the transfer would make achieving a proper remedy
+more difficult. Brief for Respondent 54.
+
+
+14
+
+SALAZAR v. BUONO
+Opinion of KENNEDY, J.
+
+A court must find prospective relief that fits the remedy
+to the wrong or injury that has been established. See
+Swift & Co., 286 U. S., at 114 (“A continuing decree of
+injunction directed to events to come is subject always to
+adaptation as events may shape the need”). See also
+United States v. United Shoe Machinery Corp., 391 U. S.
+244, 249 (1968). Where legislative action has undermined
+the basis upon which relief has previously been granted, a
+court must consider whether the original finding of
+wrongdoing continues to justify the court’s intervention.
+See Railway Employees v. Wright, 364 U. S. 642, 648–649
+(1961); Pennsylvania v. Wheeling & Belmont Bridge Co.,
+18 How. 421, 430–432 (1856). The relevant question is
+whether an ongoing exercise of the court’s equitable au
+thority is supported by the prior showing of illegality,
+judged against the claim that changed circumstances have
+rendered prospective relief inappropriate.
+The District Court granted the 2002 injunction based
+solely on its conclusion that presence of the cross on fed
+eral land conveyed an impression of governmental en
+dorsement of religion. The court expressly disavowed any
+inquiry into whether the Government’s actions had a
+secular purpose or caused excessive entanglement. Buono
+I, 212 F. Supp. 2d, at 1215, 1217, n. 9. The Court of Ap
+peals affirmed the injunction on the same grounds, simi
+larly eschewing any scrutiny of governmental purpose.
+Buono II, 371 F. 3d, at 550.
+Although, for purposes of the opinion, the propriety of
+the 2002 injunction may be assumed, the following discus
+sion should not be read to suggest this Court’s agreement
+with that judgment, some aspects of which may be ques
+tionable. The goal of avoiding governmental endorsement
+does not require eradication of all religious symbols in the
+public realm. A cross by the side of a public highway
+marking, for instance, the place where a state trooper
+perished need not be taken as a statement of governmen
+
+
+Cite as: 559 U. S. ____ (2010)
+
+15
+
+Opinion of KENNEDY, J.
+
+tal support for sectarian beliefs. The Constitution does
+not oblige government to avoid any public acknowledg
+ment of religion’s role in society. See Lee v. Weisman, 505
+U. S. 577, 598 (1992) (“A relentless and all-pervasive
+attempt to exclude religion from every aspect of public life
+could itself become inconsistent with the Constitution”).
+See also Corporation of Presiding Bishop of Church of
+Jesus Christ of Latter-day Saints v. Amos, 483 U. S. 327,
+334 (1987) (“This Court has long recognized that the gov
+ernment may (and sometimes must) accommodate reli
+gious practices and that it may do so without violating the
+Establishment Clause” (internal quotation marks omit
+ted)). Rather, it leaves room to accommodate divergent
+values within a constitutionally permissible framework.
+Even assuming the propriety of the original relief,
+however, the question before the District Court in Buono
+III was whether to invalidate the land transfer. Given the
+sole reliance on perception as a basis for the 2002 injunc
+tion, one would expect that any relief grounded on that
+decree would have rested on the same basis. But the
+District Court enjoined the land transfer on an entirely
+different basis: its suspicion of an illicit governmental
+purpose. See Buono III, 364 F. Supp. 2d, at 1182. The
+court made no inquiry into the effect that knowledge of the
+transfer of the land to private ownership would have had
+on any perceived governmental endorsement of religion,
+the harm to which the 2002 injunction was addressed.
+The District Court thus used an injunction granted for one
+reason as the basis for enjoining conduct that was alleged
+to be objectionable for a different reason. Ordering relief
+under such circumstances was improper—absent a finding
+that the relief was necessary to address an independent
+wrong. See ibid., n. 8 (noting that the court “need not
+consider [Buono’s] other contention that the land transfer
+itself is an independent violation of the Establishment
+Clause”).
+
+
+16
+
+SALAZAR v. BUONO
+Opinion of KENNEDY, J.
+
+The District Court should have evaluated Buono’s modi
+fication request in light of the objectives of the 2002 in
+junction. The injunction was issued to address the im
+pression conveyed by the cross on federal, not private,
+land. Even if its purpose were characterized more gener
+ally as avoiding the perception of governmental endorse
+ment, that purpose would favor—or at least not oppose—
+ownership of the cross by a private party rather than by
+the Government. Cf. Pleasant Grove City v. Summum,
+555 U. S. ___, ___ (2009) (slip op., at 8) (“[P]ersons who
+observe donated monuments routinely—and reasonably—
+interpret them as conveying some message on the property
+owner’s behalf”).
+Buono argues that the cross would continue to stand on
+Sunrise Rock, which has no visual differentiation from the
+rest of the primarily federally owned Preserve. He also
+points to the reversionary clause in the land-transfer
+statute requiring that the land be returned to the Gov
+ernment if not maintained as a World War I memorial.
+Finally, he notes that the cross remains designated a
+national memorial by an Act of Congress, which arguably
+would prevent the VFW from dismantling the cross even if
+it wanted to do so. Brief for Respondent 37–48.
+The District Court failed to consider whether, in light of
+the change in law and circumstances effected by the land
+transfer statute, the “reasonable observer” standard con
+tinued to be the appropriate framework through which to
+consider the Establishment Clause concerns invoked to
+justify the requested relief. As a general matter, courts
+considering Establishment Clause challenges do not in
+quire into “reasonable observer” perceptions with respect
+to objects on private land. Even if, however, this standard
+were the appropriate one, but see County of Allegheny, 492
+U. S., at 668 (KENNEDY, J., concurring in judgment in part
+and dissenting in part) (criticizing the “reasonable ob
+server” test); Capitol Square Review and Advisory Bd. v.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+17
+
+Opinion of KENNEDY, J.
+
+Pinette, 515 U. S. 753 763–768 (1995) (plurality opinion)
+(criticizing reliance on “perceived endorsement”), it is not
+clear that Buono’s claim is meritorious. That test requires
+the hypothetical construct of an objective observer who
+knows all of the pertinent facts and circumstances sur
+rounding the symbol and its placement. See id., at 780
+(O’Connor, J., concurring in part and concurring in judg
+ment). But see id., at 767–768 (plurality opinion) (doubt
+ing the workability of the reasonable observer test). Ap
+plying this test here, the message conveyed by the cross
+would be assessed in the context of all relevant factors.
+See Van Orden, 545 U. S., at 700 (BREYER, J., concurring
+in judgment) (the Establishment Clause inquiry “must
+take account of context and consequences”); Lee, supra, at
+597 (“Our Establishment Clause jurisprudence remains a
+delicate and fact-sensitive one”).
+The District Court did not attempt to reassess the find
+ings in Buono I in light of the policy of accommodation
+that Congress had embraced. Rather, the District Court
+concentrated solely on the religious aspects of the cross,
+divorced from its background and context. But a Latin
+cross is not merely a reaffirmation of Christian beliefs. It
+is a symbol often used to honor and respect those whose
+heroic acts, noble contributions, and patient striving help
+secure an honored place in history for this Nation and its
+people. Here, one Latin cross in the desert evokes far
+more than religion. It evokes thousands of small crosses
+in foreign fields marking the graves of Americans who fell
+in battles, battles whose tragedies are compounded if the
+fallen are forgotten.
+Respect for a coordinate branch of Government forbids
+striking down an Act of Congress except upon a clear
+showing of unconstitutionality. See United States v. Mor
+rison, 529 U. S. 598, 607 (2000); El Paso & Northeastern
+R. Co. v. Gutierrez, 215 U. S. 87, 96 (1909). The same
+respect requires that a congressional command be given
+
+
+18
+
+SALAZAR v. BUONO
+Opinion of KENNEDY, J.
+
+effect unless no legal alternative exists. Even if, contrary
+to the congressional judgment, the land transfer were
+thought an insufficient accommodation in light of the
+earlier finding of religious endorsement, it was incumbent
+upon the District Court to consider less drastic relief than
+complete invalidation of the land-transfer statute. See
+Ayotte v. Planned Parenthood of Northern New Eng., 546
+U. S. 320, 329 (2006) (in granting relief, “we try not to
+nullify more of a legislature’s work than is necessary, for
+we know that [a] ruling of unconstitutionality frustrates
+the intent of the elected representatives of the people”
+(internal quotation marks omitted; alteration in original));
+Alaska Airlines, Inc. v. Brock, 480 U. S. 678, 684 (1987).
+For instance, if there is to be a conveyance, the question
+might arise regarding the necessity of further action, such
+as signs to indicate the VFW’s ownership of the land. As
+we have noted, Congress directed the Secretary of the
+Interior to install near the cross a replica of its original
+memorial plaque. One of the signs that appears in early
+photographs of the cross specifically identifies the VFW as
+the group that erected it.
+Noting the possibility of specific remedies, however, is
+not an indication of agreement about the continued neces
+sity for injunctive relief. The land-transfer statute’s bear
+ing on this dispute must first be determined. To date, this
+Court’s jurisprudence in this area has refrained from
+making sweeping pronouncements, and this case is ill
+suited for announcing categorical rules. In light of the
+finding of unconstitutionality in Buono I, and the highly
+fact-specific nature of the inquiry, it is best left to the
+District Court to undertake the analysis in the first in
+stance. On remand, if Buono continues to challenge im
+plementation of the statute, the District Court should
+conduct a proper inquiry as described above.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+19
+
+Opinion of KENNEDY, J.
+
+*
+*
+*
+The judgment of the Court of Appeals is reversed, and
+the case is remanded for further proceedings.
+It is so ordered.
+
+

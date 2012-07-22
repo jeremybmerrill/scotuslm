@@ -1,0 +1,46 @@
+2
+
+HAMILTON v. LANNING
+SCALIA, J., dissenting
+
+payments to unsecured creditors under the plan.”
+§1325(b)(1)(B). The Code does not define “projected dis
+posable income,” but it does define “disposable income.”
+The next paragraph of §1325(b) provides that “[f]or pur
+poses of this subsection, the term ‘disposable income’
+means current monthly income received by the debtor,”
+excluding certain payments received for child support,
+“less amounts reasonably necessary to be expended” on
+three categories of expenses. §1325(b)(2). The Code in
+turn defines “current monthly income” as “the average
+monthly income from all sources that the debtor re
+ceives . . . derived during the 6-month period ending on”
+one of two dates.1 §101(10A)(A). Whichever date applies,
+a debtor’s “current monthly income,” and thus the income
+component of his “disposable income,” is a sum certain, a
+rate fixed once for all based on historical figures.
+This definition of “disposable income” applies to the use
+of that term in the longer phrase “projected disposable
+income” in §1325(b)(1)(B), since the definition says that it
+applies to subsection (b). Cf. §1129(a)(15)(B) (referring to
+“the projected disposable income of the debtor (as defined
+in section 1325(b)(2))”). The puzzle is what to make of the
+word “projected.”
+In the Court’s view, this modifier makes all the differ
+ence. Projections, it explains, ordinarily account for later
+developments, not just past data. Ante, at 6–7. Thus, the
+Court concludes, in determining “projected disposable
+income” a bankruptcy court may depart from §1325(b)(2)’s
+——————
+1 If
+
+the debtor files a schedule of current income, as ordinarily re
+quired by §521(a)(1)(B)(ii), then the 6-month period ends on the last
+day of the month preceding the date the case is commenced,
+§101(10A)(A)(i)—that is, when the petition is filed, §§301(a), 302(a),
+303(b). If the debtor does not file such a schedule on time—which the
+bankruptcy court apparently may excuse him from doing,
+§521(a)(1)(B)(ii)—the 6-month period ends on the date the bankruptcy
+court determines the debtor’s current income. §101(10A)(A)(ii).
+
+

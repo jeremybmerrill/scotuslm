@@ -1,0 +1,47 @@
+12
+
+HAMILTON v. LANNING
+SCALIA, J., dissenting
+
+● A debtor who learns after filing that he will be unable
+to repay his full projected disposable income might also be
+able to dismiss his case and refile it later. §1307(b). The
+Court worries that this alternative also might be deemed
+abusive, again with no pertinent authority for the specula
+tion.6 Its concern is based primarily on its belief that this
+“circumvents the statutory limits on a court’s ability to
+shift the look-back period.” Ante, at 16–17. That belief is
+mistaken, both because the Court exaggerates the statu
+tory limitations on adjusting the look-back period, and
+because, just as it does not defeat the disposable-income
+formula’s rigidity to allow adjustments regarding the time
+of determining that figure, it would not undermine the
+limitations on adjustment applicable in a pending case to
+allow the debtor to dismiss and refile.7
+——————
+zation for limited extensions, since that applies to extensions sought up
+to 45 days after the filing deadline, whereas §521(a)(1)(B) seems to
+apply only before the deadline.
+6 The sole authority the Court supplies—a single Bankruptcy Court
+decision predating BAPCPA—provides no support. See In re Glenn,
+288 B. R. 516, 519–521 (Bkrtcy. Ct. ED Tenn. 2002). Although ac
+knowledging that “[m]ultiple filings by a debtor are not, in and of
+themselves, improper,” the court did note that “whether this is the first
+or subsequent filin[g]” by the debtor is one among the “totality of the
+circumstances” to be considered in a good-faith analysis. Id., at 520
+(internal quotation marks omitted). The debtor in the case at hand had
+filed three previous Chapter 13 petitions, “each on the eve of a sched
+uled foreclosure,” and according to the court “never had any intention of
+following through with any of the Chapter 13 cases,” but had used the
+bankruptcy process “to hold [his creditor] hostage, while remaining in
+his residence without paying for it.” Id., at 520–521.
+7 The Court also notes that the Code precludes a debtor who has had
+a case pending in the last 180 days from refiling if his prior case was
+dismissed because he willfully failed to obey the court’s orders or to
+appear before the court, §109(g)(1), or if he voluntarily dismissed the
+prior suit “following the filing of a request for relief from the automatic
+stay” under §362, §109(g)(2). Ante, at 17, n. 7. But the Court does not
+explain why these barriers have any bearing on whether refiling for
+bankruptcy would be abusive when the barriers do not apply.
+
+

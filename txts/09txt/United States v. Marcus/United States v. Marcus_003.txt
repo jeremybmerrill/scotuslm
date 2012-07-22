@@ -1,0 +1,49 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1341
+_________________
+
+UNITED STATES, PETITIONER v. GLENN MARCUS
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SECOND CIRCUIT
+
+[May 24, 2010] 
+
+
+JUSTICE BREYER delivered the opinion of the Court.
+The question before us concerns an appellate court’s
+“plain error” review of a claim not raised at trial. See Fed.
+Rule Crim. Proc. 52(b). The Second Circuit has said that
+it must recognize a “plain error” if there is “any possibil
+ity,” however remote, that a jury convicted a defendant
+exclusively on the basis of actions taken before enactment
+of the statute that made those actions criminal. 538 F. 3d
+97, 102 (2008) (per curiam) (emphasis added). In our view,
+the Second Circuit’s standard is inconsistent with this
+Court’s “plain error” cases. We therefore reverse.
+I
+A federal grand jury indicted respondent Glenn Marcus
+on charges that he engaged in unlawful forced labor and
+sex trafficking between “ ‘January 1999 and October
+2001.’ ” Id., at 100; see also 18 U. S. C. §§1589, 1591(a)(1).
+At trial, the Government presented evidence of his conduct
+during that entire period. 538 F. 3d, at 100. And a jury
+found him guilty of both charges. Ibid.
+On appeal, Marcus pointed out for the first time that the
+statutes he violated were enacted as part of the Traffick
+ing Victims Protection Act of 2000 (TVPA), which did not
+
+

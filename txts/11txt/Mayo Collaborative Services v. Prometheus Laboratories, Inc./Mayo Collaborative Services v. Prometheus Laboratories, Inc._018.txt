@@ -1,0 +1,42 @@
+14
+
+MAYO COLLABORATIVE SERVICES v. PROMETHEUS
+LABORATORIES, INC.
+Opinion of the Court
+
+2
+Other cases offer further support for the view that simp­
+ly appending conventional steps, specified at a high level
+of generality, to laws of nature, natural phenomena, and
+abstract ideas cannot make those laws, phenomena, and
+ideas patentable. This Court has previously discussed in
+detail an English case, Neilson, which involved a patent
+claim that posed a legal problem very similar to the prob­
+lem now before us. The patent applicant there asserted a
+claim
+“for the improved application of air to produce heat in
+fires, forges, and furnaces, where a blowing apparatus
+is required. [The invention] was to be applied as
+follows: The blast or current of air produced by the
+blowing apparatus was to be passed from it into
+an air-vessel or receptacle made sufficiently strong to
+endure the blast; and through or from that vessel or
+receptacle by means of a tube, pipe, or aperture into
+the fire, the receptacle be kept artificially heated to a
+considerable temperature by heat externally applied.”
+Morse, 15 How., at 114–115.
+The English court concluded that the claimed process did
+more than simply instruct users to use the principle that
+hot air promotes ignition better than cold air, since it
+explained how the principle could be implemented in an
+inventive way. Baron Parke wrote (for the court):
+“It is very difficult to distinguish [Neilson’s claim]
+from the specification of a patent for a principle, and
+this at first created in the minds of some of the court
+much difficulty; but after full consideration, we think
+that the plaintiff does not merely claim a principle,
+but a machine embodying a principle, and a very val­
+uable one. We think the case must be considered as if
+the principle being well known, the plaintiff had first
+
+

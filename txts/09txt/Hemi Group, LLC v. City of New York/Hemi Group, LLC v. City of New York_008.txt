@@ -1,0 +1,42 @@
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+nue, was “business or property” under RICO. Id., at 444–
+445. And that injury, the court concluded, came about “by
+reason of” the predicate mail and wire frauds. Id., at 440–
+444. The City thus had stated a viable RICO claim.
+Judge Winter dissented on the ground that the alleged
+RICO violation was not the proximate cause of the City’s
+injury. Id., at 458–461.
+Hemi filed a petition for certiorari, asking this Court to
+determine whether the City had been “directly injured in
+its ‘business or property’ ” by reason of the alleged mail
+and wire frauds. Pet. for Cert. i. We granted that peti­
+tion. 556 U. S. __ (2009).
+II
+Though framed as a single question, Hemi’s petition for
+certiorari raises two distinct issues: First, whether a loss
+in tax revenue is “business or property” under 18 U. S. C.
+§1964(c); and second, whether the City’s asserted injury
+came about “by reason of” the allegedly fraudulent con­
+duct, as required by §1964(c). We determine that the City
+cannot satisfy the causation requirement—that any injury
+the City suffered must be “by reason of” the alleged
+frauds—and therefore do not decide whether the City’s
+allegations of lost tax revenue constitute an injury to its
+“business or property.”
+A
+In Holmes v. Securities Investor Protection Corporation,
+503 U. S. 258 (1992), we set forth the standard of causa­
+tion that applies to civil RICO claims. In that case, we
+addressed a RICO claim brought by Securities Investor
+Protection Corporation (SIPC) against defendants whom
+SIPC alleged had manipulated stock prices. Id., at 262–
+263. SIPC had a duty to reimburse customers of certain
+registered broker-dealers in the event the broker-dealers
+were unable to meet their financial obligations. Id., at
+
+

@@ -1,0 +1,52 @@
+8
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION 
+
+DIST. v. UNITED STATES EX REL. WILSON 
+
+SOTOMAYOR, J., dissenting
+
+
+tam actions. By replacing the Government knowledge bar
+with the current text of §3730(e)(4)(A) and including an
+exception for “original source[s],” Congress “allowed pri
+vate parties to sue even based on information already in
+the Government’s possession.” Cook County v. United
+States ex rel. Chandler, 538 U. S. 119, 133 (2003). The
+1986 amendments also established the right of qui tam
+relators to continue as a party to a suit after the Govern
+ment intervenes, 31 U. S. C. §3730(c)(1) (1988 ed.); in
+creased the percentage of recovery available as an incen
+tive for private suits, §3730(d)(1); and created a cause of
+action against employers who retaliate against qui tam
+relators, §3730(h).7
+——————
+7 See also 1 J. Boese, Civil False Claims and Qui Tam Actions
+§1.04[G], p. 1–22 (Supp. 2007) (“[V]irtually all the changes introduced
+in th[e] section [of the 1986 amendments addressing qui tam actions]
+expanded the rights of qui tam relators”). The amendments also
+contained a number of provisions facilitating enforcement generally,
+e.g., lowering the requisite showing of intent by making clear that
+“knowing” violations require “no proof of specific intent to defraud,” 31
+U. S. C. §3729(b)(1) (1988 ed.); lengthening the statute of limitations,
+§3731(b); and authorizing treble damages, §3729(a).
+The Court fairly observes that the addition of “news media” to the
+jurisdictional bar undercuts attributing to Congress a “single-minded”
+intent to expand the availability of qui tam relief. Ante, at 19. But
+neither does that provision support reading Category 2 to its broadest
+possible extent. Moreover, barring suits based on “news media” disclo
+sures may not have constituted a particularly significant expansion of
+existing law. Courts had applied the pre-1986 Government knowledge
+bar to dismiss actions based on information reported in the news
+media. In United States ex rel. Thompson v. Hays, 432 F. Supp. 253,
+256, 255 (DC 1976), the court dismissed a suit based on evidence
+“gleaned from sources in the news media which received widespread
+public attention [alleging fraud by a Member of Congress],” when the
+Department of Justice “first obtained information regarding the claims
+. . . as a result of [a] Washington Post article.” Similarly, the court in
+United States v. Burmah Oil Co., 558 F. 2d 43, 46, n. 1 (CA2 1977) (per
+curiam) characterized the Government knowledge bar as “dis
+courag[ing] the filing of actions by parties having no information of
+their own to contribute, but who merely plagiarized information in
+
+

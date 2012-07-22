@@ -1,0 +1,45 @@
+Cite as: 558 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+meet their customers’ anticipated demand. For many
+years in New England, the supply of capacity was barely
+sufficient to meet the region’s demand. FERC and New
+England’s generators, electricity providers, and power
+customers made several attempts to address this problem.
+This case stems from the latest effort to design a solution.
+In 2003, a group of generators sought to enter into
+“reliability must-run” agreements with the New England
+Independent System Operator (ISO), which operates the
+region’s transmission system.1 In its orders addressing
+those agreements, FERC directed the ISO to develop a
+new market mechanism that would set prices separately
+for various geographical sub-regions. Devon Power LLC,
+103 FERC ¶61,082, pp. 61,266, 61,271 (2003).
+In March 2004, the ISO proposed a market structure
+responsive to FERC’s directions. See Devon Power LLC,
+107 FERC ¶61,240, p. 62,020 (2004). FERC set the matter
+for hearing before an Administrative Law Judge (ALJ),
+who issued a 177-page order largely accepting the ISO’s
+proposal. Devon Power LLC, 111 FERC ¶63,063, p. 65,205
+(2005). Several parties filed exceptions to the ALJ’s order;
+on September 20, 2005, the full Commission heard argu­
+ments on the proposed market structure, and thereafter
+established settlement procedures. Devon Power LLC, 113
+FERC ¶61,075, p. 61,271 (2005).
+After four months of negotiations, on March 6, 2006, a
+settlement was reached. Of the 115 negotiating parties,
+only 8 opposed the settlement.
+The Settlement Agreement installed a “forward capacity
+market” under which annual auctions would set capacity
+——————
+1 An ISO is an independent company that has operational control, but
+not ownership, of the transmission facilities owned by member utilities.
+ISOs “provide open access to the regional transmission system to all
+electricity generators at rates established in a single, unbundled, grid­
+wide tariff . . . .” Midwest ISO Transmission Owners v. FERC, 373
+F. 3d 1361, 1364 (CADC 2004) (internal quotation marks omitted).
+
+

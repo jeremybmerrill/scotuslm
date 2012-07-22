@@ -1,0 +1,373 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+BREYER, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–1163
+_________________
+
+GLEN SCOTT MILNER, PETITIONER v. DEPARTMENT
+OF THE NAVY
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[March 7, 2011] 
+
+
+JUSTICE BREYER, dissenting.
+Justice Stevens has explained that, once “a statute has
+been construed, either by this Court or by a consistent
+course of decision by other federal judges and agencies,” it
+can acquire a clear meaning that this Court should hesi
+tate to change. See Shearson/American Express Inc. v.
+McMahon, 482 U. S. 220, 268 (1987) (opinion concurring in
+part and dissenting in part) (emphasis added). See also
+Commissioner v. Fink, 483 U. S. 89, 104 (1987) (Stevens,
+J., dissenting); B. Cardozo, The Nature of the Judicial
+Process 149 (1921). I would apply that principle to this
+case and accept the 30-year-old decision by the D. C. Cir
+cuit in Crooker v. Bureau of Alcohol, Tobacco & Firearms,
+670 F. 2d 1051 (1981) (en banc), as properly stating the
+law.
+For one thing, the Crooker decision, joined by 9 of the 10
+sitting Circuit Judges, has been consistently followed, or
+favorably cited, by every Court of Appeals to have consid
+ered the matter during the past 30 years. See ibid. (writ
+ten by Judge Edwards, and joined by Chief Judge Robin
+son and Judges Wright, MacKinnon, Robb, Wald, Mikva,
+and then-Judge Ginsburg, with Judge Tamm concurring
+in the result and Judge Wilkey dissenting); Massey v. FBI,
+3 F. 3d 620, 622 (CA2 1993); Kaganove v. EPA, 856 F. 2d
+884, 889 (CA7 1988), cert. denied, 488 U. S. 1011 (1989);
+
+
+2
+
+MILNER v. DEPARTMENT OF NAVY
+BREYER, J., dissenting
+
+Dirksen v. HHS, 803 F. 2d 1456, 1458 (CA9 1986). Three
+Circuits adopted a different approach in the 1970’s before
+Crooker was decided, see ante, at 3–4, n. 2, but I read
+subsequent decisions in two of those Circuits as not adher
+ing to their early positions. See Abraham & Rose, PLC v.
+United States, 138 F. 3d 1075, 1080–1081 (CA6 1998)
+(finding Crooker’s textual analysis “sound and persuasive,”
+and noting that FBI symbols “used internally to identify
+confidential sources” may be withheld); Sladek v.
+Bensinger, 605 F. 2d 899, 902 (CA5 1979) (expressly re
+serving judgment on the Crooker issue). As for the re
+maining Circuit, its district courts understand Crooker
+now to apply. See, e.g., Gavin v. SEC, No. 04–4522, 2007
+WL 2454156, *5–*6 (D Minn., Aug. 23, 2007); see also
+McQueen v. United States, 264 F. Supp. 2d 502, 528 (SD
+Tex. 2003), aff’d, 100 Fed. Appx. 964 (CA5 2004) (per
+curiam); Tickel v. IRS, No. 1–85–709, 1986 WL 14436, *2–
+*3 (ED Tenn., Aug. 22, 1986). I recognize that there is
+reasonable ground for disagreement over the precise
+status of certain pre-Crooker precedents, but the Crooker
+interpretation of Exemption 2 has guided nearly every
+Freedom of Information Act (FOIA) case decided over the
+last 30 years. See generally Dept. of Justice, Guide to
+Freedom of Information Act, pp. 184–206 (2009) (FOIA
+Guide) (identifying over 100 district court decisions apply
+ing the Crooker approach, and one appearing to reject it).
+Congress, moreover, well aware of Crooker, left Exemp
+tion 2, 5 U. S. C. §552(b)(2), untouched when it amended
+the FOIA five years later. See S. Rep. No. 98–221, p. 25
+(1983) (discussing Crooker); Freedom of Information Re
+form Act of 1986, 100 Stat. 3207–48 (amending Exemption
+7, 5 U. S. C. §552(b)(7)).
+This Court has found that circumstances of this kind
+offer significant support for retaining an interpretation of
+a statute that has been settled by the lower courts. See
+General Dynamics Land Systems, Inc. v. Cline, 540 U. S.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+BREYER, J., dissenting
+
+581, 593–594 (2004); Evans v. United States, 504 U. S.
+255, 268–269 (1992); Newman-Green, Inc. v. AlfonzoLarrain, 490 U. S. 826, 833 (1989); Monessen Southwest
+ern R. Co. v. Morgan, 486 U. S. 330, 338–339 (1988); Lin
+dahl v. Office of Personnel Management, 470 U. S. 768,
+781–783 (1985); Herman & MacLean v. Huddleston, 459
+U. S. 375, 385–386 (1983); Cannon v. University of Chi
+cago, 441 U. S. 677, 702–703 (1979); Blue Chip Stamps
+v. Manor Drug Stores, 421 U. S. 723, 731–732 (1975);
+Gulf Oil Corp. v. Copp Paving Co., 419 U. S. 186, 200–
+201 (1974); Blau v. Lehman, 368 U. S. 403, 412–413
+(1962). See generally W. Eskridge, P. Frickey, & E. Garrett,
+Cases and Materials on Legislation 1048 (4th ed. 2007)
+(“[T]he acquiescence rule can also support implicit con
+gressional ratification of a uniform line of federal appel
+late interpretations . . .”).
+For another thing, even if the majority’s analysis would
+have persuaded me if written on a blank slate, Crooker’s
+analysis was careful and its holding reasonable. The
+Circuit Court examined the statute’s language, the legisla
+tive history, and the precedent. It recognized that the
+exemption’s words (“related solely to the internal person
+nel rules and practices of an agency”) could easily be read,
+as the Court reads them today, to refer only to human
+resources rules and practices. See 670 F. 2d, at 1056–
+1057. But it also thought that those words could be read
+more broadly as referring to internal rules or practices
+that set forth criteria or guidelines for agency personnel to
+follow in respect to purely internal matters (as long as the
+information at issue was “not of legitimate public inter
+est”). Id., at 1056, 1057.
+The D. C. Circuit agreed with today’s Court that the
+Senate Report described the exemption as referring to
+“ ‘internal personnel’ ” matters, giving as examples “ ‘per
+sonnel’s use of parking facilities, . . . sick leave, and the
+like.’ ” Id., at 1058–1059 (quoting S. Rep. No. 813, 89th
+
+
+4
+
+MILNER v. DEPARTMENT OF NAVY
+BREYER, J., dissenting
+
+Cong., 1st Sess., p. 8 (1965)). But it also noted that the
+House Report described the exemption as protecting from
+disclosure “ ‘[o]perating rules, guidelines, and manuals of
+procedure for Government investigators or examiners.’ ”
+670 F. 2d, at 1060 (quoting H. R. Rep. No. 1497, 89th
+Cong., 2d Sess., p. 10 (1966)). “[U]pon reflection,” it
+thought the views of the two Houses “reconcilable” if one
+understood both sets of examples as referring to internal
+staff information (both minor personnel matters and staff
+instruction matters) that the public had no legitimate
+interest in learning about. 670 F. 2d, at 1065. And it
+accepted this view in light of its hesitation to “apply indi
+vidual provisions of the statute woodenly, oblivious to
+Congress’ intention that FOIA not frustrate law enforce
+ment efforts.” Id., at 1066. At the same time it found no
+other exemption that would protect internal documents in
+which there is no legitimate public interest in disclosure—
+a category that includes, say, building plans, safe combi
+nations, computer passwords, evacuation plans, and the
+like.
+After examining in depth the legislative history and
+relevant precedent, the court adopted an approach based
+on a prior opinion by Circuit Judge Leventhal, as well as
+language used by this Court in Department of Air Force v.
+Rose, 425 U. S. 352, 369 (1976). The D. C. Circuit held
+that a document fits within the literal language of Exemp
+tion 2 and is exempt from disclosure if (1) it “meets the
+test of ‘predominant internality,’ ” i.e., the document is
+“not of legitimate public interest,” and (2) “disclosure
+significantly risks circumvention of agency regulations or
+statutes.” Crooker, supra, at 1056, 1074; see also Rose,
+supra, at 369 (suggesting that Exemption 2 might apply
+where “disclosure may risk circumvention of agency regu
+lation”). This test, based upon Congress’ broader FOIA
+objectives and a “common sense” view of what information
+Congress did and did not want to make available, Crooker,
+
+
+Cite as: 562 U. S. ____ (2011)
+
+5
+
+BREYER, J., dissenting
+
+supra, at 1074, takes the “practical approach” that this
+Court has “consistently . . . taken” when interpreting the
+FOIA, John Doe Agency v. John Doe Corp., 493 U. S. 146,
+157 (1989).
+I would not underestimate the importance of this “prac
+tical approach.” It reflects this Court’s longstanding rec
+ognition that it cannot interpret the FOIA (and the Ad
+ministrative Procedure Act (APA) of which it is a part)
+with the linguistic literalism fit for interpretations of the
+tax code. See generally 1 R. Pierce, Administrative Law
+Treatise §7.1, p. 413 (4th ed. 2002) (“Judicial interpreta
+tion of the malleable language of the APA has produced
+changes in the rulemaking procedure that could be charac
+terized as revolutionary if they had been affected in a day
+or a year rather than gradually over a period of decades”);
+cf. Sunstein & Vermeule, Interpretation and Institutions,
+101 Mich. L. Rev. 885, 917–918, and n. 111 (2003) (observ
+ing that Congress “appears to rely on courts for long peri
+ods of time” to give meaning to the APA, which justifies
+interpreting it less formalistically than statutes like “the
+Internal Revenue Code”). That in large part is because
+the FOIA (like the APA but unlike the tax code) must
+govern the affairs of a vast Executive Branch with numer
+ous different agencies, bureaus, and departments, per
+forming numerous tasks of many different kinds. Too
+narrow an interpretation, while working well in the case
+of one agency, may seriously interfere with congressional
+objectives when applied to another. The D. C. Circuit’s
+answer to this legal problem here was to interpret Exemp
+tion 2 in light of Congress’ basic effort to achieve a
+“workable balance between the interests of the public in
+greater access to information and the needs of the Gov
+ernment to protect certain kinds of information from
+disclosure.” John Doe Agency, supra, at 157. See also
+S. Rep. No. 1219, 88th Cong., 2d Sess., 8, 11 (1964) (em
+phasizing this “workable” balance); S. Rep. No. 813, at 3, 5
+
+
+6
+
+MILNER v. DEPARTMENT OF NAVY
+BREYER, J., dissenting
+
+(same); H. R. Rep. No. 1497, at 2, 6 (same).
+Further, 30 years of experience with Crooker’s holding
+suggests that it has not seriously interfered with the
+FOIA’s informational objectives, while at the same time it
+has permitted agencies to withhold much information
+which, in my view, Congress would not have wanted to
+force into the public realm. To focus only on the case law,
+courts have held that that information protected by Ex
+emption 2 includes blueprints for Department of Agricul
+ture buildings that store biological agents, Elliot v. De
+partment of Agriculture, 518 F. Supp. 2d 217 (DC 2007);
+documents that would help hackers access National Aero
+nautics and Space Administration computers, Knight v.
+NASA, No. 2:04–cv–2054–MCE–GGH, 2006 WL 3780901,
+*6 (ED Cal., Dec. 21, 2006); agency credit card numbers,
+Judicial Watch, Inc. v. Department of Commerce, 83
+F. Supp. 2d 105, 110 (DC 1999); Commodity Futures
+Trading Commission guidelines for settling cases, Shu
+maker, Loop & Kendrick, LLP v. Commodity Futures
+Trading Comm’n, No. 3:97 CV 7139, 1997 U. S. Dist.
+LEXIS 23993, *10–*15 (ND Ohio, May 27, 1997); “trigger
+figures” that alert the Department of Education to possible
+mismanagement of federal funds, Wiesenfelder v. Riley,
+959 F. Supp. 532, 536 (DC 1997); security plans for the
+Supreme Court Building and Supreme Court Justices,
+Voinche v. FBI, 940 F. Supp. 323, 328–329 (DC 1996);
+vulnerability assessments of Commerce Department com
+puter security plans, Schreibman v. Department of Com
+merce, 785 F. Supp. 164, 165–166 (DC 1991); Bureau of
+Prisons guidelines for controlling riots and for storing
+hazardous chemicals, Miller v. DOJ, No. 87–0533, 1989
+WL 10598 (DC, Jan. 31, 1989); guidelines for assessing the
+sensitivity of military programs, Institute for Policy Stud
+ies v. Department of Air Force, 676 F. Supp. 3, 4–5 (DC
+1987); and guidelines for processing Medicare reimburse
+ment claims, Dirksen, 803 F. 2d, at 1458–1459.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+7
+
+BREYER, J., dissenting
+
+In other Exemption 2 cases, where withholding may
+seem less reasonable, the courts have ordered disclosure.
+Cf. ante, at 16, n. 9 (citing Audubon Society v. Forest Serv.,
+104 F. 3d 1201, 1203 (CA10 1997), and Maricopa Audubon
+Soc. v. Forest Serv., 108 F. 3d 1082, 1084 (CA9 1997)). See
+generally FOIA Guide 201, and n. 106 (citing nine deci
+sions applying the Crooker approach but nonetheless
+requiring disclosure).
+The majority acknowledges that “our decision today
+upsets three decades of agency practice relying on Crooker,
+and therefore may force considerable adjustments.” Ante,
+at 18. But how are these adjustments to be made? Should
+the Government rely upon other exemptions to provide the
+protection it believes necessary? As JUSTICE ALITO notes,
+Exemption 7 applies where the documents consist of “re
+cords or information compiled for law enforcement pur
+poses” and release would, e.g., “disclose techniques and
+procedures for law enforcement investigations,” or “could
+reasonably be expected to endanger the life or physical
+safety of any individual.” 5 U. S. C. §552(b)(7). But what
+about information that is not compiled for law enforce
+ment purposes, such as building plans, computer pass
+words, credit card numbers, or safe deposit combinations?
+The Government, which has much experience litigating
+FOIA cases, warns us that Exemption 7 “targets only a
+subset of the important agency functions that may be
+circumvented.” Brief for Respondent 52–53. Today’s
+decision only confirms this point, as the Court’s insistence
+on narrow construction might persuade judges to avoid
+reading Exemption 7 broadly enough to provide Crooker
+type protection.
+The majority suggests that the Government can classify
+documents that should remain private. Ante, at 18. See 5
+U. S. C. §552(b)(1) (permitting withholding of material
+“properly classified” as authorized to be “kept secret in the
+interest of national defense or foreign policy”). But classi
+
+
+8
+
+MILNER v. DEPARTMENT OF NAVY
+BREYER, J., dissenting
+
+fication is at best a partial solution. It takes time. It is
+subject to its own rules. As the Government points out, it
+would hinder the sharing of information about Govern
+ment buildings with “first responders,” such as local fire
+and police departments. Brief for Respondent 53–54. And
+both Congress and the President believe the Nation cur
+rently faces a problem of too much, not too little, classified
+material. See Reducing Over-Classification Act, 124 Stat.
+2648; Exec. Order No. 13526, §§1.3(d), 2.1(d), 5.4(d)(10), 3
+CFR 298, 299–300, 304, 321 (2009 Comp.). Indeed, Con
+gress recently found:
+“The 9/11 Commission and others have observed that
+the over-classification of information interferes with
+accurate, actionable, and timely information sharing,
+increases the cost of information security, and need
+lessly limits stakeholder and public access to informa
+tion.
+“Over-classification of information causes consider
+able confusion regarding what information may be
+shared with whom, and negatively affects the dis
+semination of information within the Federal Gov
+ernment and with State, local, and tribal entities, and
+with the private sector.” Reducing Over-Classification
+Act, §§2(2), (3), 124 Stat. 2648.
+These legislative findings suggest that it is “over
+classification,” not Crooker, that poses the more serious
+threat to the FOIA’s public information objectives.
+That leaves congressional action. As the Court points
+out, Congress remains free to correct whatever problems it
+finds in today’s narrowing of Exemption 2. But legislative
+action takes time; Congress has much to do; and other
+matters, when compared with a FOIA revision, may war
+rant higher legislative priority. In my view, it is for the
+courts, through appropriate interpretation, to turn Con
+gress’ public information objectives into workable agency
+
+
+Cite as: 562 U. S. ____ (2011)
+
+9
+
+BREYER, J., dissenting
+
+practice, and to adhere to such interpretations once they
+are settled.
+That is why: Where the courts have already interpreted
+Exemption 2, where that interpretation has been consis
+tently relied upon and followed for 30 years, where Con
+gress has taken note of that interpretation in amending
+other parts of the statute, where that interpretation is
+reasonable, where it has proved practically helpful and
+achieved commonsense results, where it is consistent with
+the FOIA’s overall statutory goals, where a new and dif
+ferent interpretation raises serious problems of its own,
+and where that new interpretation would require Con
+gress to act just to preserve a decades-long status quo,
+I would let sleeping legal dogs lie.
+For these reasons, with respect, I dissent.
+
+

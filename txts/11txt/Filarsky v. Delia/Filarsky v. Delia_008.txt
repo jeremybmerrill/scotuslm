@@ -1,0 +1,35 @@
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+Opinion of the Court
+
+(1864) (internal quotation marks omitted); see also W.
+Prosser, Law of Torts §25, p. 150 (1941) (common law
+protections derived from the need to avoid the “impossible
+burden [that] would fall upon all our agencies of government” if those acting on behalf of the government were
+“unduly hampered and intimidated in the discharge of
+their duties” by a fear of personal liability). Our decisions
+have recognized similar immunities under §1983, reasoning that common law protections “ ‘well grounded in history and reason’ had not been abrogated ‘by covert inclusion
+in the general language’ of §1983.” Imbler v. Pachtman,
+424 U. S. 409, 418 (1976) (quoting Tenney v. Brandhove,
+341 U. S. 367, 376 (1951)).
+In this case, there is no dispute that qualified immunity
+is available for the sort of investigative activities at issue.
+See Pearson v. Callahan, 555 U. S. 223, 243–244 (2009).
+The Court of Appeals granted this protection to Chief
+Wells, Peel, and Bekker, but denied it to Filarsky, because
+he was not a public employee but was instead a private
+individual “retained by the City to participate in internal
+affairs investigations.” 621 F. 3d, at 1079–1080. In determining whether this distinction is valid, we look to the
+“general principles of tort immunities and defenses” applicable at common law, and the reasons we have afforded
+protection from suit under §1983. Imbler, supra, at 418.
+A
+Under our precedent, the inquiry begins with the common law as it existed when Congress passed §1983 in
+1871. Tower v. Glover, 467 U. S. 914, 920 (1984). Understanding the protections the common law afforded to those
+exercising government power in 1871 requires an appreciation of the nature of government at that time. In the
+mid-nineteenth century, government was smaller in both
+size and reach. It had fewer responsibilities, and operated
+primarily at the local level. Local governments faced tight
+
+

@@ -1,0 +1,42 @@
+14
+
+MARTINEZ v. RYAN
+Opinion of the Court
+
+a claim of ineffective assistance at trial, even though that
+initial-review collateral proceeding may be deficient for
+other reasons.
+In addition, the limited nature of the qualification to
+Coleman adopted here reflects the importance of the right
+to the effective assistance of trial counsel and Arizona’s
+decision to bar defendants from raising ineffective­
+assistance claims on direct appeal. Our holding here
+addresses only the constitutional claims presented in this
+case, where the State barred the defendant from raising
+the claims on direct appeal.
+Arizona contends that the Antiterrorism and Effective
+Death Penalty Act of 1996 (AEDPA), 28 U. S. C. §2254,
+bars Martinez from asserting attorney error as cause for
+a procedural default. AEDPA refers to attorney error in
+collateral proceedings, but it does not speak to the ques­
+tion presented in this case. Section 2254(i) provides that
+“the ineffectiveness or incompetence of counsel during
+Federal or State collateral post-conviction proceedings
+shall not be a ground for relief.” “Cause,” however, is not
+synonymous with “a ground for relief.” A finding of cause
+and prejudice does not entitle the prisoner to habeas relief.
+It merely allows a federal court to consider the merits of
+a claim that otherwise would have been procedurally de­
+faulted. In this case, for example, Martinez’s “ground for
+relief ” is his ineffective-assistance-of-trial-counsel claim, a
+claim that AEDPA does not bar. Martinez relies on the
+ineffectiveness of his postconviction attorney to excuse his
+failure to comply with Arizona’s procedural rules, not as
+an independent basis for overturning his conviction. In
+short, while §2254(i) precludes Martinez from relying on
+the ineffectiveness of his postconviction attorney as a
+“ground for relief,” it does not stop Martinez from using it
+to establish “cause.” Holland v. Florida, 560 U. S. ___, ___
+(2010) (slip op., at 18).
+
+

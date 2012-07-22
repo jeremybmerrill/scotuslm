@@ -1,0 +1,506 @@
+Cite as: 567 U. S. ____ (2012)
+
+1
+
+ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 11–45
+_________________
+
+MICHAEL B. ELGIN, ET AL., PETITIONERS v. DEPARTMENT OF THE TREASURY ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FIRST CIRCUIT
+
+[June 11, 2012] 
+
+
+JUSTICE ALITO, with whom JUSTICE GINSBURG and
+JUSTICE KAGAN join, dissenting.
+Petitioners are former federal employees who were
+discharged for failing to register for the military draft as
+required under 5 U. S. C. §3328. They filed a putative
+class-action suit in Federal District Court, arguing that
+the registration requirement is facially unconstitutional
+because it discriminates on the basis of gender and operates as a bill of attainder. Their complaint sought backpay as well as declaratory and injunctive relief reinstating
+their employment and preventing the Government from
+enforcing §3328 against them.
+The Court affirms the dismissal of petitioners’ suit on
+the ground that the Civil Service Reform Act (CSRA)
+provides an exclusive administrative remedy for claims of
+wrongful termination brought by covered federal employees. Because the CSRA provides an avenue for employees
+to pursue their grievances through the Merit Systems
+Protection Board, the majority concludes, Congress must
+have intended to remove petitioners’ claims from the
+ordinary ambit of the federal courts.
+The problem with the majority’s reasoning is that petitioners’ constitutional claims are a far cry from the type of
+claim that Congress intended to channel through the
+Board. The Board’s mission is to adjudicate fact-specific
+
+
+2
+
+ELGIN v. DEPARTMENT OF TREASURY
+ALITO, J., dissenting
+
+employment disputes within the existing statutory framework. By contrast, petitioners argue that one key provision of that framework is facially unconstitutional. Not
+only does the Board lack authority to adjudicate facial
+constitutional challenges, but such challenges are wholly
+collateral to the type of claims that the Board is authorized to hear.
+The majority attempts to defend its holding by noting
+that, although the Board cannot consider petitioners’
+claims, petitioners may appeal from the Board to the
+Federal Circuit, which does have authority to address
+facial constitutional claims. But that does not cure the
+oddity of requiring such claims to be filed initially before
+the Board, which can do nothing but pass them along
+unaddressed, leaving the Federal Circuit to act as a court
+of first review, but with little capacity for factfinding.
+Because I doubt that Congress intended to channel
+petitioners’ constitutional claims into an administrative
+tribunal that is powerless to decide them, I respectfully
+dissent.
+I
+As a general matter, federal district courts have “original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.” 28
+U. S. C. §1331. Under this provision, it has long been
+“established practice for this Court to sustain the jurisdiction of federal courts to issue injunctions to protect rights
+safeguarded by the Constitution.” Bell v. Hood, 327 U. S.
+678, 684 (1946). In light of §1331, the question is not
+whether Congress has specifically conferred jurisdiction,
+but whether it has taken it away. See Whitman v. Department of Transportation, 547 U. S. 512, 514 (2006)
+(per curiam).
+Congress may remove certain claims from the general
+jurisdiction of the federal courts in order to channel these
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+ALITO, J., dissenting
+
+claims into a system of statutory review. For example, in
+Shalala v. Illinois Council on Long Term Care, Inc., 529
+U. S. 1 (2000), we considered a clause providing that “no
+action . . . to recover on any claim” arising under the Medicare laws “shall be brought under section 1331 . . . of title
+28,” id., at 5 (quoting 42 U. S. C. §405(h) (brackets omitted)). When dealing with an express preclusion clause like
+this, we determine the scope of preclusion simply by interpreting the words Congress has chosen.
+We have also recognized that preclusion can be implied.
+When Congress creates an administrative process to handle certain types of claims, it impliedly removes those
+claims from the ordinary jurisdiction of the federal courts.
+Under these circumstances, the test is whether “the ‘statutory scheme’ displays a ‘fairly discernible’ intent to limit jurisdiction and the claims at issue ‘are of the type Congress
+intended to be reviewed within th[e] statutory structure.’ ”
+Free Enterprise Fund v. Public Company Accounting
+Oversight Bd., 561 U. S. ___, ___ (2010) (slip op., at 8)
+(quoting Thunder Basin Coal Co. v. Reich, 510 U. S. 200,
+207, 212 (1994); alteration in Free Enterprise). In making
+this determination, we look to “the statute’s language,
+structure, and purpose, its legislative history, and whether
+the claims can be afforded meaningful review” through
+the alternative administrative process that Congress
+has established. Thunder Basin, supra, at 207 (citation
+omitted).
+We have emphasized two important factors for determining whether Congress intended an agency to have
+exclusive original jurisdiction over a claim. The first is
+whether the claim falls within the agency’s area of expertise, which would give the agency a comparative advantage over the courts in resolving the claim. “Generally,
+when Congress creates procedures ‘designed to permit
+agency expertise to be brought to bear on particular problems,’ those procedures ‘are to be exclusive.’ ” Free Enter-
+
+
+4
+
+ELGIN v. DEPARTMENT OF TREASURY
+ALITO, J., dissenting
+
+prise Fund, supra, at ___(slip op., at 8) (quoting Whitney
+Nat. Bank in Jefferson Parish v. Bank of New Orleans &
+Trust Co., 379 U. S. 411, 420 (1965)).
+Second, even if a claim would not benefit from agency
+expertise, we nonetheless consider whether the claim is legally or factually related to the type of dispute the agency
+is authorized to hear. If so, the claim may be channeled
+through the administrative process to guard against
+claim-splitting, which could involve redundant analysis of
+overlapping issues of law and fact. But for claims that fall
+outside the agency’s expertise and are “wholly collateral”
+to the type of dispute the agency is authorized to hear, the
+interest in requiring unified administrative review is
+considerably reduced. Thunder Basin, supra, at 212 (internal quotation marks omitted); see also Free Enterprise
+Fund, supra, at ___ – ___ (slip op., at 8–10).
+II
+The CSRA was enacted to “provide the people of the
+United States with a competent, honest, and productive
+Federal work force reflective of the Nation’s diversity, and
+to improve the quality of public service.” §3(1), 92 Stat.
+1112. To that end, the Act created an “integrated scheme
+of administrative and judicial review [of personnel actions], designed to balance the legitimate interests of the
+various categories of federal employees with the needs of
+sound and efficient administration.” United States v.
+Fausto, 484 U. S. 439, 445 (1988).
+Chapter 75 of Title 5 sets forth detailed procedures for
+adverse actions taken against certain covered employees
+“for such cause as will promote the efficiency of the service.” 5 U. S. C. §7513(a). When an agency takes such an
+action, it must provide the employee with advance written
+notice of the action and the specific reasons for it, give the
+employee an opportunity to respond, allow the employee to
+be represented by an attorney, and provide the employee
+
+
+Cite as: 567 U. S. ____ (2012)
+
+5
+
+ALITO, J., dissenting
+
+with a final written decision. See §§7513(b)(1)–(4). Following these internal agency procedures, an aggrieved
+employee may appeal to the Merit Systems Protection
+Board. §7513(d).
+The Board’s mission is “to ensure that Federal employees are protected against abuses by agency management,
+that Executive branch agencies make employment decisions in accordance with the merit system principles, and
+that Federal merit systems are kept free of prohibited
+personnel practices.” Merit Systems Protection Board, An
+Introduction to the Merit Systems Protection Board 5
+(1999). The Board adjudicates employment disputes in
+accordance with applicable federal laws and regulations,
+including the “[m]erit system principles” and “[p]rohibited
+personnel principles” identified in §§2301, 2302. After
+the Board renders a decision, the United States Court of
+Appeals for the Federal Circuit has exclusive jurisdiction
+on appeal. See §§7703(a)(1), (b)(1); 28 U. S. C. §1295(a)(9).
+The parties agree that petitioners are covered employees
+who may file an appeal to the Board protesting their removal from federal employment. The parties also agree,
+however, that the Board lacks authority to adjudicate
+claims like those asserted by petitioners, which attack the
+validity of a federal statute as a facial matter. As this
+Court has noted, “[a]djudication of the constitutionality
+of congressional enactments has generally been thought
+beyond the jurisdiction of administrative agencies.” Thunder Basin, supra, at 214 (alteration in original; internal quotation marks omitted). The Board itself has
+consistently taken the position that it lacks “authority to
+determine the constitutionality of statutes.” Malone v.
+Department of Justice, 14 MSPR 403, 406 (1983) (citing
+Montana Ch. of Assn. of Civilian Technicians, Inc. v.
+Young, 514 F. 2d 1165, 1167 (CA9 1975)). Thus, the
+Board’s own self-described role in the administrative
+process is simply to apply the relevant statutes as written,
+
+
+6
+
+ELGIN v. DEPARTMENT OF TREASURY
+ALITO, J., dissenting
+
+without addressing any facial challenges to the validity of
+those statutes.
+III
+There is no basis for the majority’s conclusion that
+petitioners must file their constitutional challenges before the Board instead of a federal district court. Congress
+has not expressly curtailed the jurisdiction of the federal
+courts to consider facial constitutional claims relating to
+federal employment, and no such limitation can be fairly
+discerned from the CSRA. Not only are petitioners’ claims
+“wholly collateral to [the CSRA’s] review provisions and
+outside the agency’s expertise,” Thunder Basin, 510 U. S.,
+at 212 (internal quotation marks omitted), but the Board
+itself admits that it is completely powerless to consider the
+merits of petitioners’ arguments. In short, neither efficiency nor agency expertise can explain why Congress
+would want the Board to have exclusive jurisdiction over
+claims like these. To the contrary, imposing a scheme of
+exclusive administrative review in this context breeds
+inefficiency and creates a procedural framework that is
+needlessly vexing.
+A
+Petitioners argue that registration for the military
+draft violates the Equal Protection and Bill of Attainder
+Clauses. These facial constitutional arguments are entirely
+outside the Board’s power to decide, and they do not remotely implicate the Board’s administrative expertise.
+They have nothing to do with the statutory rules of federal
+employment, and nothing to do with any application of the
+“merit system principles” or the “prohibited personnel
+practices” that the Board administers.
+Petitioners’ constitutional claims also have no relation
+to any of the facts that might be relevant to a proceeding
+before the Board. The Board typically addresses factual
+
+
+Cite as: 567 U. S. ____ (2012)
+
+7
+
+ALITO, J., dissenting
+
+issues pertaining to the specific circumstances in which
+employee grievances arise. For example: Why was a
+particular employee removed from federal employment?
+Does the employer have a sound, nonprohibited basis for
+the employment action in question? See, e.g., Davis v.
+Department of Veterans Affairs, 106 MSPR 654, 657–658
+(2007).
+By contrast, petitioners’ claims involve general factual
+issues pertaining to the facial constitutionality of the
+military draft. The equal protection question is whether
+men and women are sufficiently different to justify disparate treatment under the Selective Service Act. Rostker v.
+Goldberg, 453 U. S. 57, 78 (1981). The factual record that
+petitioners wish to develop would address issues of gender
+difference that might be considered relevant to military
+service. See Brief for Petitioners 48 (alleging that “women’s role in the military has changed dramatically in the
+past thirty years”). Likewise, under the Bill of Attainder
+Clause, the key question is whether requiring draft registration as a condition of federal employment amounts to
+the singling out of a particular person or group for punishment without trial. See Nixon v. Administrator of
+General Services, 433 U. S. 425, 468–469. Whatever the
+relevant facts may be on either claim, it is clear that they
+can have no conceivable bearing on any matter the Board
+is authorized to address.
+B
+Administrative agencies typically do not adjudicate
+facial constitutional challenges to the laws that they administer. Such challenges not only lie outside the realm of
+special agency expertise, but they are also wholly collateral to other types of claims that the agency is empowered
+to consider. When “the administrative appeals process
+does not address the kind of . . . constitutional claims” at
+issue, we cannot infer that Congress intended to “limit[t]
+
+
+8
+
+ELGIN v. DEPARTMENT OF TREASURY
+ALITO, J., dissenting
+
+judicial review of these claims to the procedures set forth
+in [the statutory scheme].” McNary v. Haitian Refugee
+Center, Inc., 498 U. S. 479, 493 (1991).
+Several other cases confirm this basic principle. In Free
+Enterprise Fund, for example, the plaintiffs were not
+required to pursue their constitutional claims through the
+Public Accounting Company Oversight Board, because
+they were challenging the very existence of the Board itself. 561 U. S., at ___ – ___ (slip op., at 8–10). Likewise,
+in Johnson v. Robison, 415 U. S. 361, 373–374 (1974).
+Where petitioners brought claims “challenging the constitutionality of laws providing benefits,” the Court held that
+these claims were not precluded by a statute creating
+exclusive administrative review over how those benefits
+were administered. And in Mathews v. Eldridge, 424 U. S.
+319, 327–332 (1976), we held that although a party challenging the denial of statutory benefits was generally
+required to proceed through the statutory process of administrative review, a constitutional challenge to the administrative process itself could still be brought directly
+in federal court.
+The present case follows the same pattern: Petitioners
+are challenging the facial validity of a law that the Board
+is bound to apply to them, and so it makes little sense for
+them to seek review before the Board.
+The wholly collateral nature of petitioners’ claims
+makes them readily distinguishable from claims that this
+Court has held to be impliedly excluded from the original
+jurisdiction of the federal courts. In Fausto, for example,
+we held that the CSRA precluded a statutory Back Pay
+Act claim involving a dispute over whether an employee
+had engaged in unauthorized use of a Government vehicle.
+484 U. S., at 455. The plaintiff in that case did not challenge the constitutional validity of the applicable legal
+framework, but argued instead that the framework had
+been improperly applied to him. He argued that he had
+
+
+Cite as: 567 U. S. ____ (2012)
+
+9
+
+ALITO, J., dissenting
+
+been wrongfully suspended from work, and that he was
+entitled to backpay as a result. Id., at 440. For that type
+of fact-specific personnel dispute, we determined, Congress had intended for the CSRA’s comprehensive administrative scheme to provide the exclusive avenue of relief.
+Id., at 455.
+Similarly, in Bush v. Lucas, 462 U. S. 367 (1983), we
+declined to allow a claim under Bivens v. Six Unknown
+Fed. Narcotics Agents, 403 U. S. 388 (1971), brought by an
+employee seeking money damages for an alleged “retaliatory demotion or discharge because he ha[d] exercised his
+First Amendment rights.” 462 U. S., at 381. Although
+the claim was constitutional in nature, we noted that it
+“ar[o]se out of an employment relationship that is governed by comprehensive procedural and substantive provisions” that had been enacted by Congress. Id., at 368.
+The employee was pursuing an as-applied challenge that
+depended on the case-specific facts of why he had been
+fired. The gravamen of the employee’s claim was that he
+had been “unfairly disciplined for making critical comments about [his agency].” Id., at 386. Under the statutory scheme that Congress had created, the employee could
+have pursued a very similar statutory claim for wrongful
+removal within the administrative process. Id., at 386–
+388. Under these circumstances, we found that Congress
+did not intend to allow a duplicative nonstatutory claim
+for damages based on the same set of underlying facts.
+Finally, the majority’s reliance on Thunder Basin is
+entirely misplaced. See ante, at 13. In that case, we
+found that a statutory scheme impliedly precluded a
+pre-enforcement challenge brought by a mining company
+seeking to enjoin an order issued by the Mine Safety and
+Health Administration. 510 U. S., at 205. Importantly,
+the plaintiff company was seeking review of purely statutory claims that were reviewable in the first instance by
+the administrative commission that Congress had estab-
+
+
+10
+
+ELGIN v. DEPARTMENT OF TREASURY
+ALITO, J., dissenting
+
+lished. The only constitutional issue was a matter of
+timing: The company argued that it had a due process
+right to immediate judicial review of its statutory claims,
+because it would suffer irreparable harm if it were forced
+to wait until after the agency initiated an enforcement
+action. Ibid. The Court disagreed, holding that the statutory scheme was “consistent with due process” even
+though it provided for only postenforcement review. Id.,
+at 218. Thus, the Court rejected the company’s constitutional claim “not on preclusion grounds but on the merits.”
+Id., at 219 (SCALIA, J., concurring in part and concurring
+in judgment). The heart of the preclusion analysis was
+that the company could not use a preenforcement challenge to obtain judicial review of statutory claims that
+Congress had clearly intended to channel into administrative review.*
+C
+By requiring facial constitutional claims to be filed
+before the Board, the majority’s holding sets up an odd
+sequence of procedural hoops for petitioners to jump
+——————
+* The majority contends that the petitioner in Thunder Basin really
+had two distinct constitutional claims. The primary constitutional
+claim was a “due process challenge to a statute that permitted a regulatory agency, before a hearing, to immediately fine the petitioner for
+noncompliance with the statute.” Ante, at 14, n. 6. On top of this,
+according to the majority, the petitioner also had a separate constitutional claim, which asserted that precluding initial judicial review of
+the first constitutional claim would violate due process. In the majority’s view, only the latter claim was rejected on the merits. But this
+hairsplitting makes no difference. The entire thrust of the petitioner’s
+constitutional argument was simply that proceeding through the statutory scheme would make meaningful judicial review impossible.
+The Court rejected that argument, effectively disposing of any constitutional infirmity that the petitioner alleged. Unlike in the present case,
+there was no freestanding constitutional claim attacking the validity
+of the statutory framework on substantive rather than procedural
+grounds.
+
+
+Cite as: 567 U. S. ____ (2012)
+
+11
+
+ALITO, J., dissenting
+
+through. As the Government concedes, the Board is powerless to adjudicate facial constitutional claims, and so
+these claims cannot be addressed on the merits until they
+reach the Federal Circuit on appeal. As a result, the
+Federal Circuit will be forced to address the claims in the
+first instance, without the benefit of any relevant factfinding at the administrative level. This is a strange result,
+because “statutes that provide for only a single level of
+judicial review in the courts of appeals are traditionally
+viewed as warranted only in circumstances where district
+court factfinding would unnecessarily duplicate an adequate administrative record.” McNary, 498 U. S., at 497
+(internal quotation marks omitted).
+The Government admits that the absence of first-tier
+factfinding might very well result in “the initial record”
+being “insufficient to permit meaningful consideration of
+a constitutional claim,” but suggests that the court could
+always “remand the case to the [Board] for further factual
+development.” Brief for Respondents 41. The majority
+accepts this solution, ante, at 15, but it is hard to see how
+it will work in practice. Without any authority to decide
+merits issues, the Board may find it difficult to adjudicate
+disputes about the relevancy of evidence sought in discovery. Nor will the Board find it easy to figure out which
+facts it must find before sending the case back to the
+Federal Circuit.
+Even if these problems can be overcome, that will not
+resolve the needless complexity of the majority’s approach.
+According to the majority, petitioners should file their
+claims with the Board, which must then kick the claims
+up to the Federal Circuit, which must then remand the
+claims back to the Board, which must then develop the
+record and send the case back to the Federal Circuit,
+which can only then consider the constitutional issues.
+To be sure, this might be sufficient to afford “meaningful
+review” of petitioners’ claims, ante, at 16–17, but that is
+
+
+12
+
+ELGIN v. DEPARTMENT OF TREASURY
+ALITO, J., dissenting
+
+not the only consideration. The question is whether it
+is “fairly discernible” that Congress intended to impose
+these pinball procedural requirements instead of permitting
+petitioners’ claims to be decided in a regular lawsuit in
+federal district court. And why would it? As already
+noted, the benefits of preventing claim-splitting are considerably reduced with respect to facial constitutional
+claims that are wholly collateral to an administrative
+proceeding. Because collateral constitutional claims have
+no overlap with the issues of law and fact that will pertain
+to the administrative proceeding, allowing the constitutional claims to be adjudicated separately before a district
+court does not invite wasteful or duplicative review. It
+simply allows the district court to develop the factual
+record and then provide a first-tier legal analysis, thereby
+enhancing both the quality and efficiency of appellate
+review.
+To the extent that there is some need to prevent claimsplitting, that purpose is already served by ordinary principles of claim preclusion. Plaintiffs generally must bring
+all claims arising out of a common set of facts in a single
+lawsuit, and federal district courts have discretion to
+enforce that requirement as necessary “to avoid duplicative litigation.” Colorado River Water Conservation Dist.
+v. United States, 424 U. S. 800, 817 (1976); Stone v. Department of Aviation, 453 F. 3d 1271, 1278 (CA10 2006)
+(“A plaintiff ’s obligation to bring all related claims together
+in the same action arises under the common-law rule of
+claim preclusion prohibiting the splitting of actions”). See
+also 18 C. Wright et al., Federal Practice and Procedure
+§4406, p. 40 (2d ed. 2002, Supp. 2011) (discussing “principles of ‘claim splitting’ that are similar to claim preclusion,
+but that do not require prior judgment”). Thus, if an
+aggrieved employee goes to a district court with claims
+that would duplicate the factfinding or legal analysis of a
+separate Board proceeding, the district court would be free
+
+
+Cite as: 567 U. S. ____ (2012)
+
+13
+
+ALITO, J., dissenting
+
+to dismiss the case.
+The majority suggests that its approach will allow the
+Board to resolve some cases on nonconstitutional grounds,
+thus avoiding needless adjudication of constitutional issues. See ante, at 18. But achieving that goal does not
+require the blunt instrument of jurisdictional preclusion.
+District courts have broad discretion to manage their
+dockets, including the power to refrain from reviewing a
+constitutional claim pending adjudication of a nonconstitutional claim that might moot the case. See Kerotest Mfg.
+Co. v. C-O-Two Fire Equipment Co., 342 U. S. 180, 183
+(1952) (acknowledging the equitable discretion of courts,
+in furtherance of “[w]ise judicial administration” and
+“conservation of judicial resources,” to stay proceedings to
+prevent “two litigations where one will suffice” (internal
+quotation marks omitted)). In short, the district courts
+are well equipped to guard against piecemeal litigation
+without any help from the majority’s holding.
+Finally, the majority contends that channeling facial
+constitutional claims through the Board is necessary to
+provide “clear guidance about the proper forum for the
+employee’s claims at the outset of the case.” Ante, at 11.
+Because it can be hard to tell the difference between facial
+and as-applied challenges, the majority argues, it is less
+confusing simply to require that all claims must be
+brought before the Board. This is a red herring. Labels
+aside, the most sensible rule would be to allow initial
+judicial review of constitutional claims that attack the
+validity of a statute based on its inherent characteristics,
+not as a result of how the statute has been applied. That
+line is bright enough, and the distinction is already one
+that the Board must draw based on its own determination
+that it can hear some as-applied challenges but lacks
+“authority to determine the constitutionality of statutes.”
+Malone, 14 MSPR, at 406.
+
+
+14
+
+ELGIN v. DEPARTMENT OF TREASURY 
+
+ALITO, J., dissenting
+
+
+IV 
+
+The presumptive power of the federal courts to hear
+constitutional challenges is well established. In this case,
+however, the majority relies on a very weak set of inferences to strip the courts of their original jurisdiction over
+petitioners’ claims. Because I believe Congress would
+have been very surprised to learn that it implied this
+result when it passed the CSRA, I respectfully dissent.
+
+

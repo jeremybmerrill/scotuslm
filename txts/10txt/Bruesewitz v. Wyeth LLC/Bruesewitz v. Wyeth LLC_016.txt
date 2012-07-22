@@ -1,0 +1,48 @@
+Cite as: 562 U. S. ____ (2011)
+
+13
+
+Opinion of the Court
+
+III
+The structure of the NCVIA and of vaccine regulation in
+general reinforces what the text of §300aa–22(b)(1) sug
+gests. A vaccine’s license spells out the manufacturing
+method that must be followed and the directions and
+warnings that must accompany the product.50 Manufac
+turers ordinarily must obtain the Food and Drug Admini
+stration’s (FDA) approval before modifying either.51 De
+viations from the license thus provide objective evidence of
+manufacturing defects or inadequate warnings. Further
+objective evidence comes from the FDA’s regulations—
+more than 90 of them52—that pervasively regulate the
+manufacturing process, down to the requirements for
+plumbing and ventilation systems at each manufacturing
+facility.53 Material noncompliance with any one of them,
+or with any other FDA regulation, could cost the manufac
+turer its regulatory-compliance defense.54
+Design defects, in contrast, do not merit a single men
+tion in the NCVIA or the FDA’s regulations. Indeed, the
+FDA has never even spelled out in regulations the criteria
+it uses to decide whether a vaccine is safe and effective for
+its intended use.55 And the decision is surely not an easy
+one. Drug manufacturers often could trade a little less
+efficacy for a little more safety, but the safest design is not
+always the best one. Striking the right balance between
+safety and efficacy is especially difficult with respect to
+vaccines, which affect public as well as individual health.
+Yet the Act, which in every other respect micromanages
+manufacturers, is silent on how to evaluate competing
+designs. Are manufacturers liable only for failing to em
+——————
+50 See
+
+42 U. S. C. §262(a), ( j); 21 CFR §§601.2(a), 314.105(b) (2010).
+§601.12.
+52 See §§211.1 et seq., 600.10–600.15, 600.21–600.22, 820.1 et seq.
+53 See §§211.46, 211.48.
+54 See 42 U. S. C. §300aa–22(b)(2).
+55 Hutt, Merrill, & Grossman, Food and Drug Law, at 685, 891.
+51 See
+
+

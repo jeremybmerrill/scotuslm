@@ -1,0 +1,44 @@
+Cite as: 566 U. S. ____ (2012)
+
+21
+
+Opinion of the Court
+
+“obvious in light of prior art,” §103, and that it be “full[y],
+clear[ly], concise[ly], and exact[ly]” described, §112—can
+perform this screening function. In particular, it argues
+that these claims likely fail for lack of novelty under §102.
+This approach, however, would make the “law of nature”
+exception to §101 patentability a dead letter. The ap­
+proach is therefore not consistent with prior law. The
+relevant cases rest their holdings upon section 101, not
+later sections. Bilski, 561 U. S. ___; Diehr, supra; Flook,
+supra; Benson, 409 U. S. 63. See also H. R. Rep. No. 1923,
+82d Cong., 2d Sess., 6 (1952) (“A person may have ‘invent­
+ed’ a machine or a manufacture, which may include any­
+thing under the sun that is made by man, but it is not
+necessarily patentable under section 101 unless the condi­
+tions of the title are fulfilled” (emphasis added)).
+We recognize that, in evaluating the significance of
+additional steps, the §101 patent-eligibility inquiry and,
+say, the §102 novelty inquiry might sometimes overlap.
+But that need not always be so. And to shift the patent­
+eligibility inquiry entirely to these later sections risks
+creating significantly greater legal uncertainty, while
+assuming that those sections can do work that they are
+not equipped to do.
+What role would laws of nature, including newly discov­
+ered (and “novel”) laws of nature, play in the Govern­
+ment’s suggested “novelty” inquiry? Intuitively, one would
+suppose that a newly discovered law of nature is novel.
+The Government, however, suggests in effect that the
+novelty of a component law of nature may be disregarded
+when evaluating the novelty of the whole. See Brief for
+United States as Amicus Curiae 27. But §§102 and 103
+say nothing about treating laws of nature as if they were
+part of the prior art when applying those sections. Cf.
+Diehr, 450 U. S., at 188 (patent claims “must be consid­
+ered as a whole”). And studiously ignoring all laws of
+nature when evaluating a patent application under §§102
+
+

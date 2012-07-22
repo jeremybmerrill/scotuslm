@@ -1,0 +1,689 @@
+Cite as: 561 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–964
+_________________
+
+BERNARD L. BILSKI AND RAND A. WARSAW, 
+
+PETITIONERS v. DAVID J. KAPPOS, UNDER 
+
+SECRETARY OF COMMERCE FOR INTEL- 
+
+LECTUAL PROPERTY AND DIRECTOR, 
+
+PATENT AND TRADEMARK OFFICE
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FEDERAL CIRCUIT
+
+[June 28, 2010]
+
+
+JUSTICE KENNEDY delivered the opinion of the Court,
+except as to Parts II–B–2 and II–C–2.*
+The question in this case turns on whether a patent can
+be issued for a claimed invention designed for the business
+world. The patent application claims a procedure for
+instructing buyers and sellers how to protect against the
+risk of price fluctuations in a discrete section of the econ
+omy. Three arguments are advanced for the proposition
+that the claimed invention is outside the scope of patent
+law: (1) it is not tied to a machine and does not transform
+an article; (2) it involves a method of conducting business;
+and (3) it is merely an abstract idea. The Court of Appeals
+ruled that the first mentioned of these, the so-called ma
+chine-or-transformation test, was the sole test to be used
+for determining the patentability of a “process” under the
+Patent Act, 35 U. S. C. §101.
+——————
+* JUSTICE SCALIA does not join Parts II–B–2 and II–C–2.
+
+
+2
+
+BILSKI v. KAPPOS
+Opinion of the Court
+
+I
+Petitioners’ application seeks patent protection for a
+claimed invention that explains how buyers and sellers of
+commodities in the energy market can protect, or hedge,
+against the risk of price changes. The key claims are
+claims 1 and 4. Claim 1 describes a series of steps in
+structing how to hedge risk. Claim 4 puts the concept
+articulated in claim 1 into a simple mathematical formula.
+Claim 1 consists of the following steps:
+“(a) initiating a series of transactions between said
+commodity provider and consumers of said commodity
+wherein said consumers purchase said commodity at a
+fixed rate based upon historical averages, said fixed
+rate corresponding to a risk position of said consum
+ers;
+“(b) identifying market participants for said com
+modity having a counter-risk position to said consum
+ers; and
+“(c) initiating a series of transactions between said
+commodity provider and said market participants at a
+second fixed rate such that said series of market par
+ticipant transactions balances the risk position of said
+series of consumer transactions.” App. 19–20.
+The remaining claims explain how claims 1 and 4 can be
+applied to allow energy suppliers and consumers to mini
+mize the risks resulting from fluctuations in market de
+mand for energy. For example, claim 2 claims “[t]he
+method of claim 1 wherein said commodity is energy and
+said market participants are transmission distributors.”
+Id., at 20. Some of these claims also suggest familiar
+statistical approaches to determine the inputs to use in
+claim 4’s equation. For example, claim 7 advises using
+well-known random analysis techniques to determine how
+much a seller will gain “from each transaction under each
+
+
+Cite as: 561 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+historical weather pattern.” Id., at 21.
+The patent examiner rejected petitioners’ application,
+explaining that it “ ‘is not implemented on a specific appa
+ratus and merely manipulates [an] abstract idea and
+solves a purely mathematical problem without any limita
+tion to a practical application, therefore, the invention is
+not directed to the technological arts.’ ” App. to Pet. for
+Cert. 148a. The Board of Patent Appeals and Interfer
+ences affirmed, concluding that the application involved
+only mental steps that do not transform physical matter
+and was directed to an abstract idea. Id., at 181a–186a.
+The United States Court of Appeals for the Federal
+Circuit heard the case en banc and affirmed. The case
+produced five different opinions. Students of patent law
+would be well advised to study these scholarly opinions.
+Chief Judge Michel wrote the opinion of the court. The
+court rejected its prior test for determining whether a
+claimed invention was a patentable “process” under
+§101—whether it produces a “ ‘useful, concrete, and tangi
+ble result’ ”—as articulated in State Street Bank & Trust
+Co. v. Signature Financial Group, Inc., 149 F. 3d 1368,
+1373 (1998), and AT&T Corp. v. Excel Communications,
+Inc., 172 F. 3d 1352, 1357 (1999). See In re Bilski, 545
+F. 3d 943, 959–960, and n. 19 (CA Fed. 2008) (en banc).
+The court held that “[a] claimed process is surely patent
+eligible under §101 if: (1) it is tied to a particular machine
+or apparatus, or (2) it transforms a particular article into a
+different state or thing.” Id., at 954. The court concluded
+this “machine-or-transformation test” is “the sole test
+governing §101 analyses,” id., at 955, and thus the “test
+for determining patent eligibility of a process under §101,”
+id., at 956. Applying the machine-or-transformation test,
+the court held that petitioners’ application was not patent
+eligible. Id., at 963–966. Judge Dyk wrote a separate
+concurring opinion, providing historical support for the
+
+
+4
+
+BILSKI v. KAPPOS
+Opinion of the Court
+
+court’s approach. Id., at 966–976.
+Three judges wrote dissenting opinions. Judge Mayer
+argued that petitioners’ application was “not eligible for
+patent protection because it is directed to a method of
+conducting business.” Id., at 998. He urged the adoption
+of a “technological standard for patentability.” Id., at
+1010. Judge Rader would have found petitioners’ claims
+were an unpatentable abstract idea. Id., at 1011. Only
+Judge Newman disagreed with the court’s conclusion that
+petitioners’ application was outside of the reach of §101.
+She did not say that the application should have been
+granted but only that the issue should be remanded for
+further proceedings to determine whether the application
+qualified as patentable under other provisions. Id., at 997.
+This Court granted certiorari. 556 U. S. ___ (2009).
+II
+A
+Section 101 defines the subject matter that may be
+patented under the Patent Act:
+“Whoever invents or discovers any new and useful
+process, machine, manufacture, or composition of
+matter, or any new and useful improvement thereof,
+may obtain a patent therefor, subject to the conditions
+and requirements of this title.”
+Section 101 thus specifies four independent categories of
+inventions or discoveries that are eligible for protection:
+processes, machines, manufactures, and compositions of
+matter. “In choosing such expansive terms . . . modified by
+the comprehensive ‘any,’ Congress plainly contemplated
+that the patent laws would be given wide scope.” Dia
+mond v. Chakrabarty, 447 U. S. 303, 308 (1980). Congress
+took this permissive approach to patent eligibility to en
+sure that “ ‘ingenuity should receive a liberal encourage
+ment.’ ” Id., at 308–309 (quoting 5 Writings of Thomas
+
+
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+Jefferson 75–76 (H. Washington ed. 1871)).
+The Court’s precedents provide three specific exceptions
+to §101’s broad patent-eligibility principles: “laws of na
+ture, physical phenomena, and abstract ideas.” Chakra
+barty, supra, at 309. While these exceptions are not re
+quired by the statutory text, they are consistent with the
+notion that a patentable process must be “new and useful.”
+And, in any case, these exceptions have defined the reach
+of the statute as a matter of statutory stare decisis going
+back 150 years. See Le Roy v. Tatham, 14 How. 156, 174–
+175 (1853). The concepts covered by these exceptions are
+“part of the storehouse of knowledge of all men . . . free to
+all men and reserved exclusively to none.” Funk Brothers
+Seed Co. v. Kalo Inoculant Co., 333 U. S. 127, 130 (1948).
+The §101 patent-eligibility inquiry is only a threshold
+test. Even if an invention qualifies as a process, machine,
+manufacture, or composition of matter, in order to receive
+the Patent Act’s protection the claimed invention must
+also satisfy “the conditions and requirements of this title.”
+§101. Those requirements include that the invention be
+novel, see §102, nonobvious, see §103, and fully and par
+ticularly described, see §112.
+The present case involves an invention that is claimed
+to be a “process” under §101. Section 100(b) defines “proc
+ess” as:
+“process, art or method, and includes a new use of a
+known process, machine, manufacture, composition of
+matter, or material.”
+The Court first considers two proposed categorical limita
+tions on “process” patents under §101 that would, if
+adopted, bar petitioners’ application in the present case:
+the machine-or-transformation test and the categorical
+exclusion of business method patents.
+
+
+6
+
+BILSKI v. KAPPOS
+Opinion of the Court
+
+B
+1
+Under the Court of Appeals’ formulation, an invention is
+a “process” only if: “(1) it is tied to a particular machine or
+apparatus, or (2) it transforms a particular article into a
+different state or thing.” 545 F. 3d, at 954. This Court
+has “more than once cautioned that courts ‘should not read
+into the patent laws limitations and conditions which the
+legislature has not expressed.’ ” Diamond v. Diehr, 450
+U. S. 175, 182 (1981) (quoting Chakrabarty, supra, at 308;
+some internal quotation marks omitted). In patent law, as
+in all statutory construction, “[u]nless otherwise defined,
+‘words will be interpreted as taking their ordinary, con
+temporary, common meaning.’ ” Diehr, supra, at 182
+(quoting Perrin v. United States, 444 U. S. 37, 42 (1979)).
+The Court has read the §101 term “manufacture” in accor
+dance with dictionary definitions, see Chakrabarty, supra,
+at 308 (citing American Fruit Growers, Inc. v. Brogdex Co.,
+283 U. S. 1, 11 (1931)), and approved a construction of the
+term “composition of matter” consistent with common
+usage, see Chakrabarty, supra, at 308 (citing Shell Devel
+opment Co. v. Watson, 149 F. Supp. 279, 280 (DC 1957)).
+Any suggestion in this Court’s case law that the Patent
+Act’s terms deviate from their ordinary meaning has only
+been an explanation for the exceptions for laws of nature,
+physical phenomena, and abstract ideas. See Parker v.
+Flook, 437 U. S. 584, 588–589 (1978). This Court has not
+indicated that the existence of these well-established
+exceptions gives the Judiciary carte blanche to impose
+other limitations that are inconsistent with the text and
+the statute’s purpose and design. Concerns about at
+tempts to call any form of human activity a “process” can
+be met by making sure the claim meets the requirements
+of §101.
+Adopting the machine-or-transformation test as the sole
+
+
+Cite as: 561 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+test for what constitutes a “process” (as opposed to just an
+important and useful clue) violates these statutory inter
+pretation principles. Section 100(b) provides that “[t]he
+term ‘process’ means process, art or method, and includes
+a new use of a known process, machine, manufacture,
+composition of matter, or material.” The Court is unaware
+of any “ ‘ordinary, contemporary, common meaning,’ ”
+Diehr, supra, at 182, of the definitional terms “process, art
+or method” that would require these terms to be tied to a
+machine or to transform an article. Respondent urges the
+Court to look to the other patentable categories in §101—
+machines, manufactures, and compositions of matter—to
+confine the meaning of “process” to a machine or trans
+formation, under the doctrine of noscitur a sociis. Under
+this canon, “an ambiguous term may be given more precise
+content by the neighboring words with which it is associ
+ated.” United States v. Stevens, 559 U. S. ___, ___ (2010)
+(slip op., at 12) (internal quotation marks omitted). This
+canon is inapplicable here, for §100(b) already explicitly
+defines the term “process.” See Burgess v. United States,
+553 U. S. 124, 130 (2008) (“When a statute includes an
+explicit definition, we must follow that definition” (inter
+nal quotation marks omitted)).
+The Court of Appeals incorrectly concluded that this
+Court has endorsed the machine-or-transformation test as
+the exclusive test. It is true that Cochrane v. Deener, 94
+U. S. 780, 788 (1877), explained that a “process” is “an act,
+or a series of acts, performed upon the subject-matter to be
+transformed and reduced to a different state or thing.”
+More recent cases, however, have rejected the broad impli
+cations of this dictum; and, in all events, later authority
+shows that it was not intended to be an exhaustive or
+exclusive test. Gottschalk v. Benson, 409 U. S. 63, 70
+(1972), noted that “[t]ransformation and reduction of an
+article ‘to a different state or thing’ is the clue to the pat
+
+
+8
+
+BILSKI v. KAPPOS
+Opinion of ENNEDY, J.
+Opinion of Kthe Court
+
+entability of a process claim that does not include particu
+lar machines.” At the same time, it explicitly declined to
+“hold that no process patent could ever qualify if it did not
+meet [machine or transformation] requirements.” Id., at
+71. Flook took a similar approach, “assum[ing] that a
+valid process patent may issue even if it does not meet
+[the machine-or-transformation test].” 437 U. S., at 588,
+n. 9.
+This Court’s precedents establish that the machine-or
+transformation test is a useful and important clue, an
+investigative tool, for determining whether some claimed
+inventions are processes under §101. The machine-or
+transformation test is not the sole test for deciding
+whether an invention is a patent-eligible “process.”
+2
+It is true that patents for inventions that did not satisfy
+the machine-or-transformation test were rarely granted in
+earlier eras, especially in the Industrial Age, as explained
+by Judge Dyk’s thoughtful historical review. See 545
+F. 3d, at 966–976 (concurring opinion). But times change.
+Technology and other innovations progress in unexpected
+ways. For example, it was once forcefully argued that
+until recent times, “well-established principles of patent
+law probably would have prevented the issuance of a valid
+patent on almost any conceivable computer program.”
+Diehr, 450 U. S., at 195 (STEVENS, J., dissenting). But
+this fact does not mean that unforeseen innovations such
+as computer programs are always unpatentable. See id.,
+at 192–193 (majority opinion) (holding a procedure for
+molding rubber that included a computer program is
+within patentable subject matter). Section 101 is a “dy
+namic provision designed to encompass new and unfore
+seen inventions.” J. E. M. Ag Supply, Inc. v. Pioneer HiBred Int’l, Inc., 534 U. S. 124, 135 (2001). A categorical
+rule denying patent protection for “inventions in areas not
+
+
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+Opinion of ENNEDY, J.
+Opinion of Kthe Court
+
+contemplated by Congress . . . would frustrate the pur
+poses of the patent law.” Chakrabarty, 447 U. S., at 315.
+The machine-or-transformation test may well provide a
+sufficient basis for evaluating processes similar to those in
+the Industrial Age—for example, inventions grounded in a
+physical or other tangible form. But there are reasons to
+doubt whether the test should be the sole criterion for
+determining the patentability of inventions in the Infor
+mation Age. As numerous amicus briefs argue, the ma
+chine-or-transformation test would create uncertainty as
+to the patentability of software, advanced diagnostic medi
+cine techniques, and inventions based on linear program
+ming, data compression, and the manipulation of digital
+signals. See, e.g., Brief for Business Software Alliance 24–
+25; Brief for Biotechnology Industry Organization et al.
+14–27; Brief for Boston Patent Law Association 8–15;
+Brief for Houston Intellectual Property Law Association
+17–22; Brief for Dolby Labs., Inc., et al. 9–10.
+In the course of applying the machine-or-transformation
+test to emerging technologies, courts may pose questions
+of such intricacy and refinement that they risk obscuring
+the larger object of securing patents for valuable inven
+tions without transgressing the public domain. The dis
+sent by Judge Rader refers to some of these difficulties.
+545 F. 3d, at 1015. As a result, in deciding whether previ
+ously unforeseen inventions qualify as patentable “proc
+ess[es],” it may not make sense to require courts to confine
+themselves to asking the questions posed by the machine
+or-transformation test. Section 101’s terms suggest that
+new technologies may call for new inquiries. See Benson,
+supra, at 71 (to “freeze process patents to old technologies,
+leaving no room for the revelations of the new, onrushing
+technology[,] . . . is not our purpose”).
+It is important to emphasize that the Court today is not
+commenting on the patentability of any particular inven
+
+
+10
+
+BILSKI v. KAPPOS
+Opinion of the Court
+
+tion, let alone holding that any of the above-mentioned
+technologies from the Information Age should or should
+not receive patent protection. This Age puts the possibil
+ity of innovation in the hands of more people and raises
+new difficulties for the patent law. With ever more people
+trying to innovate and thus seeking patent protections for
+their inventions, the patent law faces a great challenge in
+striking the balance between protecting inventors and not
+granting monopolies over procedures that others would
+discover by independent, creative application of general
+principles. Nothing in this opinion should be read to take
+a position on where that balance ought to be struck.
+C
+1
+Section 101 similarly precludes the broad contention
+that the term “process” categorically excludes business
+methods. The term “method,” which is within §100(b)’s
+definition of “process,” at least as a textual matter and
+before consulting other limitations in the Patent Act and
+this Court’s precedents, may include at least some meth
+ods of doing business. See, e.g., Webster’s New Interna
+tional Dictionary 1548 (2d ed. 1954) (defining “method” as
+“[a]n orderly procedure or process . . . regular way or
+manner of doing anything; hence, a set form of procedure
+adopted in investigation or instruction”). The Court is
+unaware of any argument that the “ ‘ordinary, contempo
+rary, common meaning,’ ” Diehr, supra, at 182, of “method”
+excludes business methods. Nor is it clear how far a pro
+hibition on business method patents would reach, and
+whether it would exclude technologies for conducting a
+business more efficiently. See, e.g., Hall, Business and
+Financial Method Patents, Innovation, and Policy, 56
+Scottish J. Pol. Econ. 443, 445 (2009) (“There is no precise
+definition of . . . business method patents”).
+The argument that business methods are categorically
+
+
+Cite as: 561 U. S. ____ (2010)
+
+11
+
+Opinion of ENNEDY, J.
+Opinion of Kthe Court
+
+outside of §101’s scope is further undermined by the fact
+that federal law explicitly contemplates the existence of at
+least some business method patents. Under 35 U. S. C.
+§273(b)(1), if a patent-holder claims infringement based on
+“a method in [a] patent,” the alleged infringer can assert a
+defense of prior use. For purposes of this defense alone,
+“method” is defined as “a method of doing or conducting
+business.” §273(a)(3). In other words, by allowing this
+defense the statute itself acknowledges that there may be
+business method patents. Section 273’s definition of
+“method,” to be sure, cannot change the meaning of a
+prior-enacted statute. But what §273 does is clarify the
+understanding that a business method is simply one kind
+of “method” that is, at least in some circumstances, eligible
+for patenting under §101.
+A conclusion that business methods are not patentable
+in any circumstances would render §273 meaningless.
+This would violate the canon against interpreting any
+statutory provision in a manner that would render an
+other provision superfluous. See Corley v. United States,
+556 U. S. ___, ___ (2009) (slip op., at 9). This principle, of
+course, applies to interpreting any two provisions in the
+U. S. Code, even when Congress enacted the provisions at
+different times. See, e.g., Hague v. Committee for Indus
+trial Organization, 307 U. S. 496, 529–530 (1939) (opinion
+of Stone, J.). This established rule of statutory interpreta
+tion cannot be overcome by judicial speculation as to the
+subjective intent of various legislators in enacting the
+subsequent provision. Finally, while §273 appears to
+leave open the possibility of some business method pat
+ents, it does not suggest broad patentability of such
+claimed inventions.
+2
+Interpreting §101 to exclude all business methods sim
+ply because business method patents were rarely issued
+
+
+12
+
+BILSKI v. KAPPOS
+Opinion of ENNEDY, J.
+Opinion of Kthe Court
+
+until modern times revives many of the previously dis
+cussed difficulties. See supra, at 8–9. At the same time,
+some business method patents raise special problems in
+terms of vagueness and suspect validity. See eBay Inc. v.
+MercExchange, L. L. C., 547 U. S. 388, 397 (2006)
+(KENNEDY, J., concurring). The Information Age empow
+ers people with new capacities to perform statistical
+analyses and mathematical calculations with a speed and
+sophistication that enable the design of protocols for more
+efficient performance of a vast number of business tasks.
+If a high enough bar is not set when considering patent
+applications of this sort, patent examiners and courts
+could be flooded with claims that would put a chill on
+creative endeavor and dynamic change.
+In searching for a limiting principle, this Court’s prece
+dents on the unpatentability of abstract ideas provide
+useful tools. See infra, at 12–15. Indeed, if the Court of
+Appeals were to succeed in defining a narrower category
+or class of patent applications that claim to instruct how
+business should be conducted, and then rule that the
+category is unpatentable because, for instance, it repre
+sents an attempt to patent abstract ideas, this conclusion
+might well be in accord with controlling precedent. See
+ibid. But beyond this or some other limitation consistent
+with the statutory text, the Patent Act leaves open the
+possibility that there are at least some processes that can
+be fairly described as business methods that are within
+patentable subject matter under §101.
+Finally, even if a particular business method fits into
+the statutory definition of a “process,” that does not mean
+that the application claiming that method should be
+granted.
+In order to receive patent protection, any
+claimed invention must be novel, §102, nonobvious, §103,
+and fully and particularly described, §112. These limita
+tions serve a critical role in adjusting the tension, ever
+
+
+Cite as: 561 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+present in patent law, between stimulating innovation by
+protecting inventors and impeding progress by granting
+patents when not justified by the statutory design.
+III
+Even though petitioners’ application is not categorically
+outside of §101 under the two broad and atextual ap
+proaches the Court rejects today, that does not mean it is
+a “process” under §101. Petitioners seek to patent both
+the concept of hedging risk and the application of that
+concept to energy markets. App. 19–20. Rather than
+adopting categorical rules that might have wide-ranging
+and unforeseen impacts, the Court resolves this case
+narrowly on the basis of this Court’s decisions in Benson,
+Flook, and Diehr, which show that petitioners’ claims are
+not patentable processes because they are attempts to
+patent abstract ideas. Indeed, all members of the Court
+agree that the patent application at issue here falls out
+side of §101 because it claims an abstract idea.
+In Benson, the Court considered whether a patent appli
+cation for an algorithm to convert binary-coded decimal
+numerals into pure binary code was a “process” under
+§101. 409 U. S., at 64–67. The Court first explained that
+“ ‘[a] principle, in the abstract, is a fundamental truth; an
+original cause; a motive; these cannot be patented, as no
+one can claim in either of them an exclusive right.’ ” Id., at
+67 (quoting Le Roy, 14 How., at 175). The Court then held
+the application at issue was not a “process,” but an unpat
+entable abstract idea. “It is conceded that one may not
+patent an idea. But in practical effect that would be the
+result if the formula for converting . . . numerals to pure
+binary numerals were patented in this case.” 409 U. S., at
+71. A contrary holding “would wholly pre-empt the
+mathematical formula and in practical effect would be a
+patent on the algorithm itself.” Id., at 72.
+In Flook, the Court considered the next logical step after
+
+
+14
+
+BILSKI v. KAPPOS
+Opinion of the Court
+
+Benson. The applicant there attempted to patent a proce
+dure for monitoring the conditions during the catalytic
+conversion process in the petrochemical and oil-refining
+industries. The application’s only innovation was reliance
+on a mathematical algorithm. 437 U. S., at 585–586.
+Flook held the invention was not a patentable “process.”
+The Court conceded the invention at issue, unlike the
+algorithm in Benson, had been limited so that it could still
+be freely used outside the petrochemical and oil-refining
+industries. 437 U. S., at 589–590. Nevertheless, Flook
+rejected “[t]he notion that post-solution activity, no matter
+how conventional or obvious in itself, can transform an
+unpatentable principle into a patentable process.” Id., at
+590. The Court concluded that the process at issue there
+was “unpatentable under §101, not because it contain[ed]
+a mathematical algorithm as one component, but because
+once that algorithm [wa]s assumed to be within the prior
+art, the application, considered as a whole, contain[ed] no
+patentable invention.” Id., at 594. As the Court later
+explained, Flook stands for the proposition that the prohi
+bition against patenting abstract ideas “cannot be circum
+vented by attempting to limit the use of the formula to a
+particular technological environment” or adding “insignifi
+cant postsolution activity.” Diehr, 450 U. S., at 191–192.
+Finally, in Diehr, the Court established a limitation on
+the principles articulated in Benson and Flook. The appli
+cation in Diehr claimed a previously unknown method for
+“molding raw, uncured synthetic rubber into cured preci
+sion products,” using a mathematical formula to complete
+some of its several steps by way of a computer. 450 U. S.,
+at 177. Diehr explained that while an abstract idea, law of
+nature, or mathematical formula could not be patented,
+“an application of a law of nature or mathematical for
+mula to a known structure or process may well be deserv
+ing of patent protection.” Id., at 187. Diehr emphasized
+
+
+Cite as: 561 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+the need to consider the invention as a whole, rather than
+“dissect[ing] the claims into old and new elements and
+then . . . ignor[ing] the presence of the old elements in the
+analysis.” Id., at 188. Finally, the Court concluded that
+because the claim was not “an attempt to patent a
+mathematical formula, but rather [was] an industrial
+process for the molding of rubber products,” it fell within
+§101’s patentable subject matter. Id., at 192–193.
+In light of these precedents, it is clear that petitioners’
+application is not a patentable “process.” Claims 1 and 4
+in petitioners’ application explain the basic concept of
+hedging, or protecting against risk: “Hedging is a funda
+mental economic practice long prevalent in our system of
+commerce and taught in any introductory finance class.”
+545 F. 3d, at 1013 (Rader, J., dissenting); see, e.g., D.
+Chorafas, Introduction to Derivative Financial Instru
+ments 75–94 (2008); C. Stickney, R. Weil, K. Schipper, &
+J. Francis, Financial Accounting: An Introduction to Con
+cepts, Methods, and Uses 581–582 (13th ed. 2010); S.
+Ross, R. Westerfield, & B. Jordan, Fundamentals of Cor
+porate Finance 743–744 (8th ed. 2008). The concept of
+hedging, described in claim 1 and reduced to a mathemati
+cal formula in claim 4, is an unpatentable abstract idea,
+just like the algorithms at issue in Benson and Flook.
+Allowing petitioners to patent risk hedging would pre
+empt use of this approach in all fields, and would effec
+tively grant a monopoly over an abstract idea.
+Petitioners’ remaining claims are broad examples of how
+hedging can be used in commodities and energy markets.
+Flook established that limiting an abstract idea to one
+field of use or adding token postsolution components did
+not make the concept patentable. That is exactly what the
+remaining claims in petitioners’ application do. These
+claims attempt to patent the use of the abstract idea of
+hedging risk in the energy market and then instruct the
+
+
+16
+
+BILSKI v. KAPPOS
+Opinion of the Court
+
+use of well-known random analysis techniques to help
+establish some of the inputs into the equation. Indeed,
+these claims add even less to the underlying abstract
+principle than the invention in Flook did, for the Flook
+invention was at least directed to the narrower domain of
+signaling dangers in operating a catalytic converter.
+*
+*
+*
+Today, the Court once again declines to impose limita
+tions on the Patent Act that are inconsistent with the Act’s
+text. The patent application here can be rejected under
+our precedents on the unpatentability of abstract ideas.
+The Court, therefore, need not define further what consti
+tutes a patentable “process,” beyond pointing to the defini
+tion of that term provided in §100(b) and looking to the
+guideposts in Benson, Flook, and Diehr.
+And nothing in today’s opinion should be read as endors
+ing interpretations of §101 that the Court of Appeals for
+the Federal Circuit has used in the past. See, e.g., State
+Street, 149 F. 3d, at 1373; AT&T Corp., 172 F. 3d, at 1357.
+It may be that the Court of Appeals thought it needed to
+make the machine-or-transformation test exclusive pre
+cisely because its case law had not adequately identified
+less extreme means of restricting business method pat
+ents, including (but not limited to) application of our
+opinions in Benson, Flook, and Diehr. In disapproving an
+exclusive machine-or-transformation test, we by no means
+foreclose the Federal Circuit’s development of other limit
+ing criteria that further the purposes of the Patent Act
+and are not inconsistent with its text.
+The judgment of the Court of Appeals is affirmed.
+It is so ordered.
+
+

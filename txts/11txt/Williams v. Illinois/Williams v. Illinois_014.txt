@@ -1,0 +1,36 @@
+8
+
+WILLIAMS v. ILLINOIS
+Opinion of ALITO, J.
+
+graded before Cellmark analyzed it, Lambatos answered
+that, while degradation was technically possible, she
+strongly doubted it had occurred in this case. She gave
+two reasons. First, the ISP lab likely would have noticed
+the degradation before sending the evidence off to Cellmark. Second, and more important, Lambatos also noted
+that the data making up the DNA profile would exhibit certain telltale signs if it had been deduced from a
+degraded sample: The visual representation of the DNA
+sequence would exhibit “specific patterns” of degradation,
+and she “didn’t see any evidence” of that from looking at
+the profile that Cellmark produced. Id., at 81–82.
+When Lambatos finished testifying, the defense moved
+to exclude her testimony “with regards to testing done by
+[Cellmark]” based on the Confrontation Clause. Id., at 90.
+Defense counsel argued that there was “no evidence with
+regards to . . . any work done by [Cellmark] to justify
+testimony coming into this case with regard to their analysis.” Ibid. Thus, while defense counsel objected to and
+sought the exclusion of Lambatos’ testimony insofar as it
+implicated events at the Cellmark lab, defense counsel did
+not object to or move for the exclusion of any other portion
+of Lambatos’ testimony, including statements regarding
+the contents of the shipment sent to or received back from
+Cellmark. See id., at 55, 56, 90. See also 385 Ill. App. 3d
+359, 367–368, 895 N. E. 2d 961, 968 (2008) (chain-ofcustody argument based on shipping manifests waived).
+The prosecution responded that petitioner’s Confrontation Clause rights were satisfied because he had the opportunity to cross-examine the expert who had testified
+that there was a match between the DNA profiles produced by Cellmark and Abbinanti. App. 91. Invoking
+Illinois Rule of Evidence 703,1 the prosecutor argued that
+——————
+1 Consistent with the Federal Rules, Illinois Rule of Evidence 703
+provides as follows:
+
+

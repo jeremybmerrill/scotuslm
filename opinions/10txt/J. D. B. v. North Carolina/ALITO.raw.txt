@@ -1,0 +1,816 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–11121
+_________________
+
+J. D. B., PETITIONER v. NORTH CAROLINA
+ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+
+NORTH CAROLINA
+
+[June 16, 2011] 
+
+
+JUSTICE ALITO, with whom THE CHIEF JUSTICE, JUSTICE
+SCALIA, and JUSTICE THOMAS join, dissenting.
+The Court’s decision in this case may seem on first
+consideration to be modest and sensible, but in truth it
+is neither. It is fundamentally inconsistent with one of the
+main justifications for the Miranda1 rule: the perceived
+need for a clear rule that can be easily applied in all cases.
+And today’s holding is not needed to protect the constitu­
+tional rights of minors who are questioned by the police.
+Miranda’s prophylactic regime places a high value on
+clarity and certainty. Dissatisfied with the highly fact­
+specific constitutional rule against the admission of involuntary confessions, the Miranda Court set down rigid
+standards that often require courts to ignore personal
+characteristics that may be highly relevant to a particular
+suspect’s actual susceptibility to police pressure. This
+rigidity, however, has brought with it one of Miranda’s
+principal strengths—“the ease and clarity of its applica­
+tion” by law enforcement officials and courts. See Moran
+v. Burbine, 475 U. S. 412, 425–426 (1986). A key contribu­
+tor to this clarity, at least up until now, has been
+Miranda’s objective reasonable-person test for determin­
+ing custody.
+Miranda’s custody requirement is based on the proposi­
+——————
+1 See
+
+Miranda v. Arizona, 384 U. S. 436 (1966).
+
+
+2
+
+J. D. B. v. NORTH CAROLINA
+ALITO, J., dissenting
+
+tion that the risk of unconstitutional coercion is height­
+ened when a suspect is placed under formal arrest or is
+subjected to some functionally equivalent limitation on
+freedom of movement. When this custodial threshold is
+reached, Miranda warnings must precede police question­
+ing. But in the interest of simplicity, the custody analysis
+considers only whether, under the circumstances, a hypo­
+thetical reasonable person would consider himself to be
+confined.
+Many suspects, of course, will differ from this hypotheti­
+cal reasonable person. Some, including those who have
+been hardened by past interrogations, may have no need
+for Miranda warnings at all. And for other suspects—
+those who are unusually sensitive to the pressures of
+police questioning—Miranda warnings may come too late
+to be of any use. That is a necessary consequence of
+Miranda’s rigid standards, but it does not mean that the
+constitutional rights of these especially sensitive suspects
+are left unprotected. A vulnerable defendant can still turn
+to the constitutional rule against actual coercion and
+contend that that his confession was extracted against his
+will.
+Today’s decision shifts the Miranda custody determina­
+tion from a one-size-fits-all reasonable-person test into an
+inquiry that must account for at least one individualized
+characteristic—age—that is thought to correlate with sus­
+ceptibility to coercive pressures. Age, however, is in no
+way the only personal characteristic that may correlate
+with pliability, and in future cases the Court will be forced
+to choose between two unpalatable alternatives. It may
+choose to limit today’s decision by arbitrarily distinguish­
+ing a suspect’s age from other personal characteristics—
+such as intelligence, education, occupation, or prior ex­
+perience with law enforcement—that may also correlate
+with susceptibility to coercive pressures. Or, if the Court
+is unwilling to draw these arbitrary lines, it will be forced
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+ALITO, J., dissenting
+
+to effect a fundamental transformation of the Miranda
+custody test—from a clear, easily applied prophylactic
+rule into a highly fact-intensive standard resembling the
+voluntariness test that the Miranda Court found to be
+unsatisfactory.
+For at least three reasons, there is no need to go down
+this road. First, many minors subjected to police interro­
+gation are near the age of majority, and for these suspects
+the one-size-fits-all Miranda custody rule may not be a
+bad fit. Second, many of the difficulties in applying the
+Miranda custody rule to minors arise because of the
+unique circumstances present when the police conduct
+interrogations at school. The Miranda custody rule has
+always taken into account the setting in which question­
+ing occurs, and accounting for the school setting in such
+cases will address many of these problems. Third, in cases
+like the one now before us, where the suspect is especially
+young, courts applying the constitutional voluntariness
+standard can take special care to ensure that incriminat­
+ing statements were not obtained through coercion.
+Safeguarding the constitutional rights of minors does
+not require the extreme makeover of Miranda that today’s
+decision may portend.
+I
+In the days before Miranda, this Court’s sole metric for
+evaluating the admissibility of confessions was a volun­
+tariness standard rooted in both the Fifth Amendment’s
+Self-Incrimination Clause and the Due Process Clause of
+the Fourteenth Amendment. See Bram v. United States,
+168 U. S. 532, 542 (1897) (Self-Incrimination Clause);
+Brown v. Mississippi, 297 U. S. 278 (1936) (due process).
+The question in these voluntariness cases was whether the
+particular “defendant’s will” had been “overborne.”
+Lynumn v. Illinois, 372 U. S. 528, 534 (1963). Courts took
+into account both “the details of the interrogation” and
+
+
+4
+
+J. D. B. v. NORTH CAROLINA
+ALITO, J., dissenting
+
+“the characteristics of the accused,” Schneckloth v. Busta
+monte, 412 U. S. 218, 226 (1973), and then “weigh[ed] . . .
+the circumstances of pressure against the power of resis­
+tance of the person confessing.” Stein v. New York, 346
+U. S. 156, 185 (1953).
+All manner of individualized, personal characteristics
+were relevant in this voluntariness inquiry. Among the
+most frequently mentioned factors were the defendant’s
+education, physical condition, intelligence, and mental
+health. Withrow v. Williams, 507 U. S. 680, 693 (1993);
+see Clewis v. Texas, 386 U. S. 707, 712 (1967) (“only a
+fifth-grade education”); Greenwald v. Wisconsin, 390 U. S.
+519, 520–521 (1968) (per curiam) (had not taken blood­
+pressure medication); Payne v. Arkansas, 356 U. S. 560,
+562, n. 4, 567 (1958) (“mentally dull” and “ ‘slow to learn’ ”);
+Fikes v. Alabama, 352 U. S. 191, 193, 196, 198 (1957) (“low
+mentality, if not mentally ill”). The suspect’s age also
+received prominent attention in several cases, e.g.,
+Gallegos v. Colorado, 370 U. S. 49, 54 (1962), especially
+when the suspect was a “mere child.” Haley v. Ohio, 332
+U. S. 596, 599 (1948) (plurality opinion). The weight
+assigned to any one consideration varied from case to case.
+But all of these factors, along with anything else that
+might have affected the “individual’s . . . capacity for
+effective choice,” were relevant in determining whether
+the confession was coerced or compelled. See Miranda
+v. Arizona, 384 U. S. 436, 506–507 (1966) (Harlan, J.,
+dissenting).
+The all-encompassing nature of the voluntariness in­
+quiry had its benefits. It allowed courts to accommodate a
+“complex of values,” Schneckloth, supra, at 223, 224, and
+to make a careful, highly individualized determination as
+to whether the police had wrung “a confession out of [the]
+accused against his will.” Blackburn v. Alabama, 361 U. S.
+199, 206–207 (1960). But with this flexibility came a
+decrease in both certainty and predictability, and the
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+ALITO, J., dissenting
+
+voluntariness standard proved difficult “for law enforce­
+ment officers to conform to, and for courts to apply in a
+consistent manner.” Dickerson v. United States, 530 U. S.
+428, 444 (2000).
+In Miranda, the Court supplemented the voluntariness
+inquiry with a “set of prophylactic measures” designed to
+ward off the “ ‘inherently compelling pressures’ of custodial
+interrogation.” See Maryland v. Shatzer, 559 U. S. __, __
+(2010) (slip op., at 4) (quoting Miranda, 384 U. S., at 467).
+Miranda greatly simplified matters by requiring police to
+give suspects standard warnings before commencing any
+custodial interrogation. See id., at 479. Its requirements
+are no doubt “rigid,” see Fare v. Michael C., 439 U. S.
+1310, 1314 (1978) (Rehnquist, J., in chambers), and they
+often require courts to suppress “trustworthy and highly
+probative” statements that may be perfectly “voluntary
+under [a] traditional Fifth Amendment analysis.” Fare v.
+Michael C., 442 U. S. 707, 718 (1979). But with this rigid­
+ity comes increased clarity. Miranda provides “a worka­
+ble rule to guide police officers,” New York v. Quarles, 467
+U. S. 649, 658 (1984) (internal quotation marks omitted),
+and an administrable standard for the courts. As has
+often been recognized, this gain in clarity and administra­
+bility is one of Miranda’s “principal advantages.” Berke
+mer v. McCarty, 468 U. S. 420, 430 (1984); see also Mis
+souri v. Seibert, 542 U. S. 600, 622 (2004) (KENNEDY, J., con­
+curring in judgment).
+No less than other facets of Miranda, the threshold
+requirement that the suspect be in “custody” is “designed
+to give clear guidance to the police.” Yarborough v. Alva
+rado, 541 U. S. 652, 668, 669 (2004). Custody under
+Miranda attaches where there is a “formal arrest” or a
+“restraint on freedom of movement” akin to formal arrest.
+California v. Beheler, 463 U. S. 1121, 1125 (1983) (per
+curiam) (internal quotation marks omitted). This stan­
+dard is “objective” and turns on how a hypothetical “rea­
+
+
+6
+
+J. D. B. v. NORTH CAROLINA
+ALITO, J., dissenting
+
+sonable person in the position of the individual being
+questioned would gauge the breadth of his or her freedom
+of action.” Stansbury v. California, 511 U. S. 318, 322–
+323, 325 (1994) (per curiam) (internal quotation marks
+omitted).
+Until today, the Court’s cases applying this test have
+focused solely on the “objective circumstances of the inter­
+rogation,” id., at 323, not the personal characteristics of
+the interrogated. E.g., Berkemer, supra, at 442, and n. 35;
+but cf. Schneckloth, 412 U. S., at 226 (voluntariness in­
+quiry requires consideration of “the details of the interro­
+gation” and “the characteristics of the accused”). Relevant
+factors have included such things as where the question­
+ing occurred,2 how long it lasted,3 what was said,4
+any physical restraints placed on the suspect’s movement,5
+and whether the suspect was allowed to leave when
+the questioning was through.6 The totality of these
+circumstances—the external circumstances, that is, of the
+interrogation itself—is what has mattered in this Court’s
+cases. Personal characteristics of suspects have consis­
+tently been rejected or ignored as irrelevant under a one­
+size-fits-all reasonable-person standard. Stansbury, supra,
+at 323 (“[C]ustody depends on the objective circumstances
+of the interrogation, not on the subjective views harbored
+by either the interrogating officers or the person being
+questioned”).
+For example, in Berkemer v. McCarty, supra, police
+officers conducting a traffic stop questioned a man who
+had been drinking and smoking marijuana before he was
+pulled over. Id., at 423. Although the suspect’s inebria­
+——————
+2 Maryland
+
+v. Shatzer, 559 U. S. ___, ___ (2010) (slip op., at 13–16).
+v. McCarty, 468 U. S. 420, 437–438 (1984).
+4 Oregon v. Mathiason, 429 U. S. 492, 495 (1977) (per curiam).
+5 New York v. Quarles, 467 U. S. 649, 655 (1984).
+6 California v. Beheler, 463 U. S. 1121, 1122–1123 (1983) (per cu
+riam).
+3 Berkemer
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+ALITO, J., dissenting
+
+tion was readily apparent to the officers at the scene, ibid.,
+the Court’s analysis did not advert to this or any other
+individualized consideration. Instead, the Court focused
+only on the external circumstances of the interrogation
+itself. The opinion concluded that a typical “traffic stop” is
+akin to a “Terry stop”7 and does not qualify as the equiva­
+lent of “formal arrest.” Id., at 439.
+California v. Beheler, supra, is another useful example.
+There, the circumstances of the interrogation were “re­
+markably similar” to the facts of the Court’s earlier deci­
+sion in Oregon v. Mathiason, 429 U. S. 492 (1977) (per
+curiam)—the suspect was “not placed under arrest,” he
+“voluntarily [came] to the police station,” and he was
+“allowed to leave unhindered by police after a brief inter­
+view.” 463 U. S., at 1123, 1121. A California court in
+Beheler had nonetheless distinguished Mathiason because
+the police knew that Beheler “had been drinking earlier in
+the day” and was “emotionally distraught.” 463 U. S., at
+1124–1125. In a summary reversal, this Court explained
+that the fact “[t]hat the police knew more” personal infor­
+mation about Beheler than they did about Mathiason was
+“irrelevant.” Id., at 1125. Neither one of them was in
+custody under the objective reasonable-person standard.
+Ibid.; see also Alvarado, supra, at 668, 669 (experience
+with law enforcement irrelevant to Miranda custody
+analysis “as a de novo matter”).8
+The glaring absence of reliance on personal characteris­
+——————
+7 See
+
+Terry v. Ohio, 392 U. S. 1 (1968).
+Court claims that “[n]ot once” have any of our cases “excluded
+from the custody analysis a circumstance that we determined was
+relevant and objective, simply to make the fault line between custodial
+and noncustodial ‘brighter.’ ” Ante, at 17. Surely this is incorrect. The
+very act of adopting a reasonable-person test necessarily excludes all
+sorts of “relevant and objective” circumstances—for example, all the
+objective circumstances of a suspect’s life history—that might otherwise
+bear on a custody determination.
+8 The
+
+
+8
+
+J. D. B. v. NORTH CAROLINA
+ALITO, J., dissenting
+
+tics in these and other custody cases should come as no
+surprise. To account for such individualized considera­
+tions would be to contradict Miranda’s central premise.
+The Miranda Court’s decision to adopt its inflexible pro­
+phylactic requirements was expressly based on the notion
+that “[a]ssessments of the knowledge the defendant pos­
+sessed, based on information as to his age, education,
+intelligence, or prior contact with authorities, can never be
+more than speculation.” 384 U. S., at 468–469.
+II
+In light of this established practice, there is no denying
+that, by incorporating age into its analysis, the Court is
+embarking on a new expansion of the established custody
+standard. And since Miranda is this Court’s rule, “not a
+constitutional command,” it is up to the Court “to justify
+its expansion.” Cf. Arizona v. Roberson, 486 U. S. 675, 688
+(1988) (KENNEDY, J., dissenting). This the Court fails to
+do.
+In its present form, Miranda’s prophylactic regime
+already imposes “high cost[s]” by requiring suppression of
+confessions that are often “highly probative” and “volun­
+tary” by any traditional standard. Oregon v. Elstad, 470
+U. S. 298, 312 (1985); see Dickerson, 530 U. S., at 444
+(under Miranda “statements which may be by no means
+involuntary, made by a defendant who is aware of his
+‘rights,’ may nonetheless be excluded and a guilty defen­
+dant go free as a result”). Nonetheless, a “core virtue” of
+Miranda has been the clarity and precision of its guidance
+to “police and courts.” Withrow v. Williams, 507 U. S. 680,
+694 (1993) (internal quotation marks omitted); see Moran,
+475 U. S., at 425 (“[O]ne of the principal advantages of
+Miranda is the ease and clarity of its application” (inter­
+nal quotation marks omitted)). This increased clarity “has
+been thought to outweigh the burdens” that Miranda
+imposes. Fare, 442 U. S., at 718. The Court has, however,
+
+
+Cite as: 564 U. S. ____ (2011)
+
+9
+
+ALITO, J., dissenting
+
+repeatedly cautioned against upsetting the careful “bal­
+ance” that Miranda struck, Moran, supra, at 424, and it
+has “refused to sanction attempts to expand [the] Miranda
+holding” in ways that would reduce its “clarity.” See
+Quarles, 467 U. S., at 658 (citing cases). Given this prac­
+tice, there should be a “strong presumption” against the
+Court’s new departure from the established custody test.
+See United States v. Patane, 542 U. S. 630, 640 (2004)
+(plurality opinion). In my judgment, that presumption
+cannot be overcome here.
+A
+The Court’s rationale for importing age into the custody
+standard is that minors tend to lack adults’ “capacity to
+exercise mature judgment” and that failing to account for
+that “reality” will leave some minors unprotected under
+Miranda in situations where they perceive themselves to
+be confined. See ante, at 10, 8. I do not dispute that many
+suspects who are under 18 will be more susceptible to
+police pressure than the average adult. As the Court
+notes, our pre-Miranda cases were particularly attuned to
+this “reality” in applying the constitutional requirement of
+voluntariness in fact. Ante, at 9 (relying on Haley, 332
+U. S., at 599 (plurality opinion), and Gallegos, 370 U. S.,
+at 54). It is no less a “reality,” however, that many per­
+sons over the age of 18 are also more susceptible to police
+pressure than the hypothetical reasonable person. See
+Payne, 356 U. S., at 567 (fact that defendant was a “men­
+tally dull 19-year-old youth” relevant in voluntariness
+inquiry). Yet the Miranda custody standard has never
+accounted for the personal characteristics of these or any
+other individual defendants.
+Indeed, it has always been the case under Miranda that
+the unusually meek or compliant are subject to the same
+fixed rules, including the same custody requirement, as
+those who are unusually resistant to police pressure.
+
+
+10
+
+J. D. B. v. NORTH CAROLINA
+ALITO, J., dissenting
+
+Berkemer, 468 U. S., at 442, and n. 35 (“[O]nly relevant
+inquiry is how a reasonable man in the suspect’s position
+would have understood his situation”). Miranda’s rigid
+standards are both overinclusive and underinclusive.
+They are overinclusive to the extent that they provide a
+windfall to the most hardened and savvy of suspects, who
+often have no need for Miranda’s protections. Compare
+Miranda, supra, at 471–472 (“[N]o amount of circumstan­
+tial evidence that the person may have been aware of ” his
+rights can overcome Miranda’s requirements), with Orozco
+v. Texas, 394 U. S. 324, 329 (1969) (White, J., dissenting)
+(“Where the defendant himself [w]as a lawyer, policeman,
+professional criminal, or otherwise has become aware of
+what his right to silence is, it is sheer fancy to assert that
+his answer to every question asked him is compelled
+unless he is advised of those rights with which he is al­
+ready intimately familiar”). And Miranda’s requirements
+are underinclusive to the extent that they fail to account
+for “frailties,” “idiosyncrasies,” and other individualized
+considerations that might cause a person to bend more
+easily during a confrontation with the police. See Alva
+rado, 541 U. S., at 662 (internal quotation marks omitted).
+Members of this Court have seen this rigidity as a major
+weakness in Miranda’s “code of rules for confessions.” See
+384 U. S., at 504 (Harlan, J., dissenting); Fare, 439 U. S.,
+at 1314 (Rehnquist, J., in chambers) (“[T]he rigidity of
+[Miranda’s] prophylactic rules was a principal weakness
+in the view of dissenters and critics outside the Court”).
+But if it is, then the weakness is an inescapable conse­
+quence of the Miranda Court’s decision to supplement the
+more holistic voluntariness requirement with a one-size­
+fits-all prophylactic rule.
+That is undoubtedly why this Court’s Miranda cases
+have never before mentioned “the suspect’s age” or any
+other individualized consideration in applying the custody
+standard. See Alvarado, supra, at 666. And unless the
+
+
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+ALITO, J., dissenting
+
+Miranda custody rule is now to be radically transformed
+into one that takes into account the wide range of individ­
+ual characteristics that are relevant in determining
+whether a confession is voluntary, the Court must shoul­
+der the burden of explaining why age is different from
+these other personal characteristics.
+Why, for example, is age different from intelligence?
+Suppose that an officer, upon going to a school to question
+a student, is told by the principal that the student has an
+I. Q. of 75 and is in a special-education class. Cf. In re
+J. D. B., 363 N. C. 664, 666, 686 S. E. 2d 135, 136–137
+(2009). Are those facts more or less important than the
+student’s age in determining whether he or she “felt . . . at
+liberty to terminate the interrogation and leave”? See
+Thompson v. Keohane, 516 U. S. 99, 112 (1995). An I. Q.
+score, like age, is more than just a number. Ante, at 8
+(“[A]ge is far ‘more than a chronological fact’ ”). And an
+individual’s intelligence can also yield “conclusions” simi­
+lar to those “we have drawn ourselves” in cases far afield
+of Miranda. Ante, at 12. Compare ibid. (relying on Ed
+dings v. Oklahoma, 455 U. S. 104 (1982), and Roper v.
+Simmons, 543 U. S. 551 (2005)), with Smith v. Texas, 543
+U. S. 37, 44–45 (2004) (per curiam).
+How about the suspect’s cultural background? Suppose
+the police learn (or should have learned, see ante, at 11)
+that a suspect they wish to question is a recent immigrant
+from a country in which dire consequences often befall any
+person who dares to attempt to cut short any meeting with
+the police.9 Is this really less relevant than the fact that a
+suspect is a month or so away from his 18th birthday?
+The defendant’s education is another personal charac­
+——————
+9 Cf.
+
+United States v. Chalan, 812 F. 2d 1302, 1307 (CA10 1987) (re­
+jecting claim that Native American suspect was “in custody” for
+Miranda purposes because, by custom, obedience to tribal authorities
+was “expected of all tribal members”).
+
+
+12
+
+J. D. B. v. NORTH CAROLINA
+ALITO, J., dissenting
+
+teristic that may generate “conclusions about behavior and
+perception.” Ante, at 9 (internal quotation marks omit­
+ted). Under today’s decision, why should police officers
+and courts “blind themselves,” ante, at 1, to the fact that a
+suspect has “only a fifth-grade education”? See Clewis,
+386 U. S., at 712 (voluntariness case). Alternatively, what
+if the police know or should know that the suspect is “a
+college-educated man with law school training”? See
+Crooker v. California, 357 U. S. 433, 440 (1958), overruled
+by Miranda, supra, at 479, and n. 48. How are these
+individual considerations meaningfully different from age
+in their “relationship to a reasonable person’s understand­
+ing of his freedom of action”? Ante, at 11. The Court
+proclaims that “[a] child’s age . . . is different,” ante, at 12,
+but the basis for this ipse dixit is dubious.
+I have little doubt that today’s decision will soon be cited
+by defendants—and perhaps by prosecutors as well—for
+the proposition that all manner of other individual charac­
+teristics should be treated like age and taken into account
+in the Miranda custody calculus. Indeed, there are al­
+ready lower court decisions that take this approach. See
+United States v. Beraun-Panez, 812 F. 2d 578, 581, modi­
+fied 830 F. 2d 127 (CA9 1987) (“reasonable person who
+was an alien”); In re Jorge D., 202 Ariz. 277, 280, 43
+P. 3d 605, 608 (App. 2002) (age, maturity, and experience);
+State v. Doe, 130 Idaho 811, 818, 948 P. 2d 166, 173
+(1997) (same); In re Joshua David C., 116 Md. App. 580,
+594, 698 A. 2d 1155, 1162 (1997) (“education, age, and
+intelligence”).
+In time, the Court will have to confront these issues,
+and it will be faced with a difficult choice. It may choose
+to distinguish today’s decision and adhere to the arbitrary
+proclamation that “age . . . is different.” Ante, at 12. Or it
+may choose to extend today’s holding and, in doing so,
+further undermine the very rationale for the Miranda
+regime.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+13
+
+ALITO, J., dissenting
+
+B
+If the Court chooses the latter course, then a core virtue
+of Miranda—the “ease and clarity of its application”—will
+be lost. Moran, 475 U. S., at 425; see Fare, 442 U. S., at
+718 (noting that the clarity of Miranda’s requirements
+“has been thought to outweigh the burdens that the deci­
+sion . . . imposes”). However, even today’s more limited
+departure from Miranda’s one-size-fits-all reasonable­
+person test will produce the very consequences that
+prompted the Miranda Court to abandon exclusive reli­
+ance on the voluntariness test in the first place: The
+Court’s test will be hard for the police to follow, and it will
+be hard for judges to apply. See Dickerson v. United
+States, 530 U. S. 428, 444 (2000).
+The Court holds that age must be taken into account
+when it “was known to the officer at the time of the inter­
+view,” or when it “would have been objectively apparent”
+to a reasonable officer. Ante, at 11. The first half of this
+test overturns the rule that the “initial determination of
+custody” does not depend on the “subjective views har­
+bored by . . . interrogating officers.” Stansbury, 511 U. S.,
+at 323. The second half will generate time-consuming
+satellite litigation over a reasonable officer’s perceptions.
+When, as here, the interrogation takes place in school, the
+inquiry may be relatively simple. But not all police ques­
+tioning of minors takes place in schools. In many cases,
+courts will presumably have to make findings as to
+whether a particular suspect had a sufficiently youthful
+look to alert a reasonable officer to the possibility that the
+suspect was under 18, or whether a reasonable officer
+would have recognized that a suspect’s I. D. was a fake.
+The inquiry will be both “time-consuming and disruptive”
+for the police and the courts. See Berkemer, 468 U. S., at
+432 (refusing to modify the custody test based on similar
+considerations). It will also be made all the more compli­
+cated by the fact that a suspect’s dress and manner will
+
+
+14
+
+J. D. B. v. NORTH CAROLINA
+ALITO, J., dissenting
+
+often be different when the issue is litigated in court than
+it was at the time of the interrogation.
+Even after courts clear this initial hurdle, further prob­
+lems will likely emerge as judges attempt to put them­
+selves in the shoes of the average 16-year-old, or 15-year­
+old, or 13-year-old, as the case may be. Consider, for
+example, a 60-year-old judge attempting to make a cus­
+tody determination through the eyes of a hypothetical,
+average 15-year-old. Forty-five years of personal experi­
+ence and societal change separate this judge from the days
+when he or she was 15 years old. And this judge may or
+may not have been an average 15-year-old. The Court’s
+answer to these difficulties is to state that “no imaginative
+powers, knowledge of developmental psychology, [or]
+training in cognitive science” will be necessary. Ante, at
+17. Judges “simply need the common sense,” the Court
+assures, “to know that a 7-year-old is not a 13-year-old
+and neither is an adult.” Ante, at 17. It is obvious, how­
+ever, that application of the Court’s new rule demands
+much more than this.
+Take a fairly typical case in which today’s holding may
+make a difference. A 16½-year-old moves to suppress
+incriminating statements made prior to the administra­
+tion of Miranda warnings. The circumstances are such
+that, if the defendant were at least 18, the court would not
+find that he or she was in custody, but the defendant
+argues that a reasonable 16½-year-old would view the
+situation differently. The judge will not have the luxury of
+merely saying: “It is common sense that a 16½-year-old is
+not an 18-year-old. Motion granted.” Rather, the judge
+will be required to determine whether the differences
+between a typical 16½-year-old and a typical 18-year-old
+with respect to susceptibility to the pressures of interroga­
+tion are sufficient to change the outcome of the custody
+determination. Today’s opinion contains not a word of
+actual guidance as to how judges are supposed to go about
+
+
+Cite as: 564 U. S. ____ (2011)
+
+15
+
+ALITO, J., dissenting
+
+making that determination.
+C
+Petitioner and the Court attempt to show that this task
+is not unmanageable by pointing out that age is taken into
+account in other legal contexts. In particular, the Court
+relies on the fact that the age of a defendant is a relevant
+factor under the reasonable-person standard applicable in
+negligence suits. Ante, at 11 (citing Restatement (Third)
+of Torts §10, Comment b, p. 117 (2005)). But negligence is
+generally a question for the jury, the members of which
+can draw on their varied experiences with persons of
+different ages. It also involves a post hoc determination,
+in the reflective atmosphere of a deliberation room, about
+whether the defendant conformed to a standard of care.
+The Miranda custody determination, by contrast, must be
+made in the first instance by police officers in the course of
+an investigation that may require quick decisionmaking.
+See Quarles, 467 U. S., at 658 (noting “the importance”
+under Miranda of providing “a workable rule ‘to guide
+police officers, who have only limited time and expertise to
+reflect on and balance the social and individual interests
+involved in the specific circumstances they confront’ ”);
+Alvarado, 541 U. S., at 668, 669 (“[T]he custody inquiry
+states an objective rule designed to give clear guidance to
+the police”).
+Equally inapposite are the Eighth Amendment cases the
+Court cites in support of its new rule. Ante, at 9, 11, 12
+(citing Eddings, 455 U. S. 104, Roper, 543 U. S. 551, and
+Graham v. Florida, 560 U. S. ___ (2010)). Those decisions
+involve the “judicial exercise of independent judgment”
+about the constitutionality of certain punishments. E.g.,
+id., at ___ (slip op., at 16). Like the negligence standard,
+they do not require on-the-spot judgments by the police.
+Nor do state laws affording extra protection for juveniles
+during custodial interrogation provide any support for
+
+
+16
+
+J. D. B. v. NORTH CAROLINA
+ALITO, J., dissenting
+
+petitioner’s arguments. See Brief for Petitioner 16–17.
+States are free to enact additional restrictions on the
+police over and above those demanded by the Constitution
+or Miranda. In addition, these state statutes generally
+create clear, workable rules to guide police conduct. See
+Brief for Petitioner 16–17 (citing statutes that require or
+permit parents to be present during custodial interroga­
+tion of a minor, that require minors to be advised of a
+statutory right to communicate with a parent or guardian,
+and that require parental consent to custodial interroga­
+tion). Today’s decision, by contrast, injects a new, compli­
+cating factor into what had been a clear, easily applied
+prophylactic rule. See Alvarado, supra, at 668–669.10
+III
+The Court’s decision greatly diminishes the clarity and
+administrability that have long been recognized as “prin­
+cipal advantages” of Miranda’s prophylactic requirements.
+See, e.g., Moran, 475 U. S., at 425. But what is worse, the
+Court takes this step unnecessarily, as there are other,
+less disruptive tools available to ensure that minors are
+not coerced into confessing.
+As an initial matter, the difficulties that the Court’s
+standard introduces will likely yield little added protection
+——————
+10 The
+
+Court also relies on North Carolina’s concession at oral argu­
+ment that a court could take into account a suspect’s blindness as a
+factor relevant to the Miranda custody determination. Ante, at 15, and
+n. 9. This is a far-fetched hypothetical, and neither the parties nor
+their amici cite any case in which such a problem has actually arisen.
+Presumably such a case would involve a situation in which a blind
+defendant was given “a typed document advising him that he [was] free
+to leave.” See Brief for Juvenile Law Center as Amicus Curiae 23. In
+such a case, furnishing this advice in a form calculated to be unintelli­
+gible to the suspect would be tantamount to failing to provide the
+advice at all. And advice by the police that a suspect is or is not free to
+leave at will has always been regarded as a circumstance regarding the
+conditions of the interrogation that must be taken into account in
+making the Miranda custody determination.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+17
+
+ALITO, J., dissenting
+
+for most juvenile defendants. Most juveniles who are
+subjected to police interrogation are teenagers nearing the
+age of majority.11 These defendants’ reactions to police
+pressure are unlikely to be much different from the reac­
+tion of a typical 18-year-old in similar circumstances. A
+one-size-fits-all Miranda custody rule thus provides a
+roughly reasonable fit for these defendants.
+In addition, many of the concerns that petitioner raises
+regarding the application of the Miranda custody rule to
+minors can be accommodated by considering the unique
+circumstances present when minors are questioned in
+school. See Brief for Petitioner 10–11 (reciting at length
+the factors petitioner believes to be relevant to the custody
+determination here, including the fact that petitioner was
+removed from class by a police officer, that the interview
+took place in a school conference room, and that a uni­
+formed officer and a vice principal were present). The
+Miranda custody rule has always taken into account the
+setting in which questioning occurs, restrictions on a
+suspect’s freedom of movement, and the presence of police
+officers or other authority figures. See Alvarado, supra, at
+665; Maryland v. Shatzer, 559 U. S. ___, ___ (2010) (slip
+op., at 14). It can do so here as well.12
+Finally, in cases like the one now before us, where the
+suspect is much younger than the typical juvenile defen­
+dant, courts should be instructed to take particular care to
+——————
+11 See
+
+Dept of Justice, Federal Bureau of Investigation, 2008
+Crime in the United States (Sept. 2009), online at http://www2.fbi.gov/
+ucr/cius2008/data/table_38.html (all Internet materials as visited June
+8, 2011, and available in Clerk of Court’s case file) (indicating that less
+than 30% of juvenile arrests in the United States are of suspects who
+are under 15).
+12 The Court thinks it would be “absur[d]” to consider the school set­
+ting without accounting for age, ante, at 12, but the real absurdity is for
+the Court to require police officers to get inside the head of a reasonable
+minor while making the quick, on-the-spot determinations that
+Miranda demands.
+
+
+18
+
+J. D. B. v. NORTH CAROLINA
+ALITO, J., dissenting
+
+ensure that incriminating statements were not obtained
+involuntarily. The voluntariness inquiry is flexible and
+accommodating by nature, see Schneckloth, 412 U. S., at
+224, and the Court’s precedents already make clear that
+“special care” must be exercised in applying the voluntari­
+ness test where the confession of a “mere child” is at issue.
+Haley, 332 U. S., at 599 (plurality opinion). If Miranda’s
+rigid, one-size-fits-all standards fail to account for the
+unique needs of juveniles, the response should be to rigor­
+ously apply the constitutional rule against coercion to
+ensure that the rights of minors are protected. There is no
+need to run Miranda off the rails.
+*
+*
+*
+The Court rests its decision to inject personal character­
+istics into the Miranda custody inquiry on the principle
+that judges applying Miranda cannot “blind themselves to
+. . . commonsense reality.” Ante, at 1, 8, 10–11, 14. But
+the Court’s shift is fundamentally at odds with the clear
+prophylactic rules that Miranda has long enforced.
+Miranda frequently requires judges to blind themselves to
+the reality that many un-Mirandized custodial confessions
+are “by no means involuntary” or coerced. Dickerson, 530
+U. S., at 444. It also requires police to provide a rote
+recitation of Miranda warnings that many suspects al­
+ready know and could likely recite from memory.13 Under
+today’s new, “reality”-based approach to the doctrine,
+perhaps these and other principles of our Miranda juris­
+prudence will, like the custody standard, now be ripe for
+——————
+13 Surveys have shown that “[l]arge majorities” of the public are aware
+that “individuals arrested for a crime” have a right to “remai[n] silent
+(81%),” a right to “a lawyer (95%),” and a right to have a lawyer “ap­
+pointed” if the arrestee “cannot afford one (88%).” See Belden, Russonello
+& Stewart, Developing a National Message for Indigent Defense: Analy­
+sis of National Survey 4 (Oct. 2001), online at http://www.nlada.org/
+DMS/Documents/1211996548.53/Polling%20results%20report.pdf.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+19
+
+ALITO, J., dissenting
+
+modification. Then, bit by bit, Miranda will lose the clar­
+ity and ease of application that has long been viewed as
+one of its chief justifications.
+I respectfully dissent.
+
+

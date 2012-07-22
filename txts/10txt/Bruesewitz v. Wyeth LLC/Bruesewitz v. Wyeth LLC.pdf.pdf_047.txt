@@ -1,0 +1,46 @@
+18
+
+BRUESEWITZ v. WYETH LLC
+SOTOMAYOR, J., dissenting
+
+the expressio unius, exclusio alterius canon. According to
+the majority, because blackletter products liability law
+generally recognizes three different types of product de
+fects, “[i]f all three were intended to be preserved, it would
+be strange [for Congress] to mention specifically only
+two”—namely, manufacturing and labeling defects in the
+“even though” clause—“and leave the third to implication.”
+Ante, at 8. The majority’s argument, however, ignores
+that the default rule under the Vaccine Act is that state
+law is preserved. As explained above, §22(a) expressly
+provides that the “[g]eneral rule” is that “State law shall
+apply to a civil action brought for damages for a vaccine
+related injury or death.” 42 U. S. C. §300aa–22(a). Be
+cause §22(a) already preserves state-law design defect
+claims (to the extent the exemption in §22(b)(1) does not
+apply), there was no need for Congress separately and
+expressly to preserve design defect claims in §22(b)(1).
+Indeed, Congress’ principal aim in enacting §22(b)(1) was
+not to preserve manufacturing and labeling claims (those,
+too, were already preserved by §22(a)), but rather, to
+federalize comment k-type protection for “unavoidably
+unsafe” vaccines. The “even though” clause simply func
+tions to limit the applicability of that defense. The lack of
+express language in §22(b)(1) specifically preserving de
+sign defect claims thus cannot fairly be understood as
+impliedly (and categorically) pre-empting such traditional
+state tort claims, which had already been preserved by
+§22(a).15
+——————
+15 This
+
+Court, moreover, has long operated on “the assumption that
+the historic police powers of the States are not to be superseded by the
+Federal Act unless that was the clear and manifest purpose of Con
+gress.” Altria Group, Inc. v. Good, 555 U. S. ___, ___ (2008) (slip op., at
+5) (internal quotation marks and alteration omitted). Given the long
+history of state regulation of vaccines, see Brief for Petitioners 3–6, the
+presumption provides an additional reason not to read §22(b)(1) as pre
+empting all design defect claims, especially given Congress’ inclusion of
+
+

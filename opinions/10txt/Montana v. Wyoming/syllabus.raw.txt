@@ -1,0 +1,148 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+MONTANA v. WYOMING ET AL.
+ON EXCEPTION TO REPORT OF SPECIAL MASTER
+No. 137, Orig. Argued January 10, 2011—Decided May 2, 2011
+Article V(A) of the Yellowstone River Compact ratified by Montana,
+Wyoming, and North Dakota provides: “Appropriative rights to the
+beneficial uses of the water of the Yellowstone River System existing
+in each signatory State as of January 1, 1950, shall continue to be en
+joyed in accordance with the laws governing the acquisition and use
+of water under the doctrine of appropriation.” 65 Stat. 666. Montana
+filed a bill of complaint, alleging that Wyoming breached Article V(A)
+by allowing its upstream pre-1950 water users to switch from flood to
+sprinkler irrigation, which increases crop consumption of water and
+decreases the volume of runoff and seepage returning to the river
+system. Thus, even if Wyoming’s pre-1950 users divert the same
+quantity of water as before, less water reaches downstream users in
+Montana. Concluding that the Compact permits more efficient irri
+gation systems so long as the conserved water is used to irrigate the
+same acreage watered in 1950, the Special Master found that Mon
+tana’s increased-efficiency allegation failed to state a claim. Montana
+has filed an exception.
+Held: Because Article V(A) of the Compact incorporates the ordinary
+doctrine of appropriation without significant qualification, and be
+cause in Wyoming and Montana that doctrine allows appropriators to
+improve their irrigation systems, even to the detriment of down
+stream appropriators, Montana’s increased-efficiency allegation fails
+to state a claim for breach of the Compact under Article V(A). Pp. 4–
+19.
+(a) Background appropriation law principles do not support Mon
+tana’s position. The doctrine of appropriation provides that rights to
+water for irrigation are perfected and enforced in order of seniority,
+starting with the first person to divert water from a natural stream
+and apply it to a “beneficial use.” Once perfected, that water right is
+
+
+2
+
+MONTANA v. WYOMING
+Syllabus
+senior to any later appropriators’ rights and may be fulfilled entirely
+before the junior appropriators get any water. However, junior ap
+propriators do acquire rights to the stream basically as it exists when
+they find it. Under this no-injury rule, junior users may, subject to
+the fulfillment of the senior users’ existing rights, prevent senior us
+ers from enlarging their rights to the junior users’ detriment. Here,
+the question is whether a switch to more efficient irrigation with less
+return flow is within Wyoming’s pre-1950 users’ existing appropriat
+ive rights or is an improper enlargement of that right. Although the
+law of return flows is an unclear area of appropriation doctrine, the
+Special Master correctly concluded that Wyoming’s pre-1950 users
+may switch to sprinkler irrigation. Pp. 4–16.
+(1) A change in irrigation methods does not appear to run afoul of
+the no-injury rule in Montana and Wyoming, which generally con
+cerns changes in the location of the diversion and the place or pur
+pose of use. Thus, an appropriator may increase his consumption by
+changing to a more water-intensive crop so long as he makes no
+change in acreage irrigated or amount of water diverted. Ordinary,
+day-to-day operational changes or repairs also do not violate the rule.
+Consumption can even be increased by adding farm acreage, if that
+was part of the plan from the start, and diligently pursued through
+the years. Irrigation system improvements seem to be the same sort
+of changes. This view is consistent with the fact that by 1950 both
+States had statutes regulating certain changes to water rights, but
+neither required farmers to take official action before adjusting irri
+gation methods. Cases in both States frequently describe the no
+injury rule as applying to changes in point of diversion, purpose of
+use, and place of use. The abundance of litigation over such
+changes—and the absence of any litigation over the sort of change at
+issue here—strongly implies that irrigation efficiency improvements
+were considered within the scope of the original appropriative right.
+Pp. 8–10.
+(2) The doctrine of recapture—which permits an appropriator
+who has diverted water for irrigation to recapture and reuse his own
+runoff and seepage before it escapes his control or his property—also
+supports treating irrigation efficiency improvements as within the
+original appropriative right. Montana and Wyoming cases appear to
+apply this basic doctrine without any qualification based on whether
+the return flow would re-enter the original stream or not. By using
+sprinklers instead of flood irrigation, Wyoming’s pre-1950 water us
+ers effectively recapture water. The sprinklers reduce loss from
+seepage and runoff and are simply different mechanisms for increas
+ing the volume of water available to crops without changing the
+amount of diversion. Pp. 10–15.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+(3) This conclusion is consistent with the view of water law
+scholars who have considered the question presented in this case.
+Pp. 15–16.
+(b) Also unpersuasive is Montana’s argument that, if background
+appropriation law principles do not support its position, Article V(A)’s
+“beneficial use” definition nonetheless restricts the scope of pre-1950
+appropriative rights to the net volume of water that was actually be
+ing consumed in 1950. Pp. 16–19.
+(1) “Beneficial use” is “that use by which the water supply of a
+drainage basin is depleted when usefully employed by the activities
+of man.” 65 Stat. 665. Montana contends that the term means the
+amount of depletion, and thus any activity increasing Wyoming’s pre
+1950 depletions beyond pre-1950 levels exceeds Article V(A)’s scope.
+Pp. 16–17.
+(2) Nothing in the Compact’s definition suggests such an inter
+pretation. A plain reading indicates that “beneficial use” is a type of
+use that depletes the water supply. This view is supported by the
+circumstances in the signatory States when the Compact was
+drafted. At that time, Wyoming had a statutory preference for irriga
+tion, a depletive use, over power generation, a nondepletive use. It
+thus it makes sense for the Compact to protect irrigation uses that
+were legislatively favored and represented the predominant use of
+the Yellowstone River system. Montana’s reading, by contrast, would
+drastically redefine the term. The amount of water put to “beneficial
+use” has never been defined by net water consumption. In irrigation,
+that amount has always included a measure of necessary loss, e.g.,
+runoff or evaporation. If the Compact’s definition were meant to
+drastically redefine “beneficial use,” this Court would expect far more
+clarity. Moreover, if the Compact effected a dramatic reframing of
+ordinary appropriation principles, the rest of Article V(A), which ex
+pressly states that “the laws governing the acquisition and use of wa
+ter under the doctrine of appropriation” control, would make little
+sense. Pp. 17–18.
+(3) If Article V(A) were intended to guarantee Montana a set
+quantity of water, it could have done so plainly, as done in other
+compacts, e.g., the Colorado River Compact of 1922. Pp. 18–19.
+Exception overruled.
+THOMAS, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, GINSBURG, BREYER, ALITO, and SOTOMAYOR, JJ.,
+joined. SCALIA, J., filed a dissenting opinion. KAGAN, J., took no part in
+the consideration or decision of the case.
+
+

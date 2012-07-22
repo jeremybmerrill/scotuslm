@@ -1,0 +1,45 @@
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+cannot rely on the fact that the amount the debtor de­
+clares as the “value of [the] claimed exemption” is within
+statutory limits. Instead, the trustee’s duty to object turns
+on whether the interplay of various schedule entries sup­
+ports an inference that the debtor “intended” to exempt a
+dollar value different than the one she wrote on the form.
+534 F. 3d, at 178. This complicated view of the trustee’s
+statutory obligation, and the strained reading of Schedule
+C on which it rests, is inconsistent with the Code.5
+The parties agree that this case is governed by §522(l),
+which states that a Chapter 7 debtor must “file a list of
+property that the debtor claims as exempt under subsec­
+tion (b) of this section,” and further states that “[u]nless a
+party in interest objects, the property claimed as exempt
+on such list is exempt.” The parties further agree that the
+“list” to which §522(l) refers is the “list of property . . .
+claim[ed] as exempt” currently known as “Schedule C.”
+See Schedule C.6 The parties, like the Courts of Appeals,
+disagree about what information on Schedule C defines
+the “property claimed as exempt” for purposes of evaluat­
+ing an exemption’s propriety under §522(l). Reilly asserts
+that the “property claimed as exempt” is defined by refer­
+ence to all the information on Schedule C, including the
+estimated market value of each asset in which the debtor
+claims an exempt interest. Schwab and the United States
+as amicus curiae argue that the Code specifically defines
+the “property claimed as exempt” as an interest, the value
+of which may not exceed a certain dollar amount, in a
+particular asset, not as the asset itself. Accordingly, they
+——————
+5 The forms, rules, treatise excerpts, and policy considerations on
+which the dissent relies, see post, at 4−16, must be read in light of the
+Bankruptcy Code provisions that govern this case, and must yield to
+those provisions in the event of conflict.
+6 Bankruptcy Rule 4003 specifies the time within which the debtor
+must file Schedule C, as well as the time within which interested
+parties must object to the exemptions claimed thereon.
+
+

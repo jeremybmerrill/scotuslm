@@ -1,0 +1,132 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+BRUESEWITZ ET AL. v. WYETH LLC, FKA WYETH, INC.,
+ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE THIRD CIRCUIT
+No. 09–152.
+
+Argued October 12, 2010—Decided February 22, 2011
+
+The National Childhood Vaccine Injury Act of 1986 (NCVIA or Act) cre
+ated a no-fault compensation program to stabilize a vaccine market
+adversely affected by an increase in vaccine-related tort litigation
+and to facilitate compensation to claimants who found pursuing le
+gitimate vaccine-inflicted injuries too costly and difficult. The Act
+provides that a party alleging a vaccine-related injury may file a peti
+tion for compensation in the Court of Federal Claims, naming the
+Health and Human Services Secretary as the respondent; that the
+court must resolve the case by a specified deadline; and that the
+claimant can then decide whether to accept the court’s judgment or
+reject it and seek tort relief from the vaccine manufacturer. Awards
+are paid out of a fund created by an excise tax on each vaccine dose.
+As a quid pro quo, manufacturers enjoy significant tort-liability pro
+tections. Most importantly, the Act eliminates manufacturer liability
+for a vaccine’s unavoidable, adverse side effects.
+Hannah Bruesewitz’s parents filed a vaccine-injury petition in the
+Court of Federal Claims, claiming that Hannah became disabled af
+ter receiving a diphtheria, tetanus, and pertussis (DTP) vaccine
+manufactured by Lederle Laboratories (now owned by respondent
+Wyeth). After that court denied their claim, they elected to reject the
+unfavorable judgment and filed suit in Pennsylvania state court, al
+leging, inter alia, that the defective design of Lederle’s DTP vaccine
+caused Hannah’s disabilities, and that Lederle was subject to strict
+liability and liability for negligent design under Pennsylvania com
+mon law. Wyeth removed the suit to the Federal District Court. It
+granted Wyeth summary judgment, holding that the relevant Penn
+sylvania law was preempted by 42 U. S. C. §300aa–22(b)(1), which
+
+
+2
+
+BRUESEWITZ v. WYETH LLC
+Syllabus
+provides that “[n]o vaccine manufacturer shall be liable in a civil ac
+tion for damages arising from a vaccine-related injury or death asso
+ciated with the administration of a vaccine after October 1, 1988, if
+the injury or death resulted from side-effects that were unavoidable
+even though the vaccine was properly prepared and was accompanied
+by proper directions and warnings.” The Third Circuit affirmed.
+
+Held: The NCVIA preempts all design-defect claims against vaccine
+manufacturers brought by plaintiffs seeking compensation for injury
+or death caused by a vaccine’s side effects. Pp. 7–19.
+(a) Section 300aa–22(b)(1)’s text suggests that a vaccine’s design is
+not open to question in a tort action. If a manufacturer could be held
+liable for failure to use a different design, the “even though” clause
+would do no work. A vaccine side effect could always have been
+avoidable by use of a different vaccine not containing the harmful
+element. The language of the provision thus suggests the design is
+not subject to question in a tort action. What the statute establishes
+as a complete defense must be unavoidability (given safe manufac
+ture and warning) with respect to the particular design. This conclu
+sion is supported by the fact that, although products-liability law es
+tablishes three grounds for liability—defective manufacture,
+inadequate directions or warnings, and defective design—the Act
+mentions only manufacture and warnings. It thus seems that the
+Act’s failure to mention design-defect liability is “by deliberate choice,
+not inadvertence.” Barnhart v. Peabody Coal Co., 537 U. S. 149, 168.
+Pp. 7–8.
+(b) Contrary to petitioners’ argument, there is no reason to believe
+that §300aa–22(b)(1)’s term “unavoidable” is a term of art incorporat
+ing Restatement (Second) of Torts §402A, Comment k, which exempts
+from strict liability rules “unavoidably unsafe products.” “Unavoid
+able” is hardly a rarely used word, and cases interpreting comment k
+attach special significance only to the term “unavoidably unsafe
+products,” not the word “unavoidable” standing alone. Moreover,
+reading the phrase “side effects that were unavoidable” to exempt in
+juries caused by flawed design would require treating “even though”
+as a coordinating conjunction linking independent ideas when it is a
+concessive, subordinating conjunction conveying that one clause
+weakens or qualifies the other. The canon against superfluity does
+not undermine this Court’s interpretation because petitioners’ com
+peting interpretation has superfluity problems of its own. Pp. 8–12.
+(c) The structure of the NCVIA and of vaccine regulation in general
+reinforces what §300aa–22(b)(1)’s text suggests. Design defects do
+not merit a single mention in the Act or in Food and Drug Admini
+stration regulations that pervasively regulate the drug manufactur
+ing process. This lack of guidance for design defects, combined with
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+Syllabus
+the extensive guidance for the two liability grounds specifically men
+tioned in the Act, strongly suggests that design defects were not men
+tioned because they are not a basis for liability. The Act’s mandates
+lead to the same conclusion. It provides for federal agency improve
+ment of vaccine design and for federally prescribed compensation,
+which are other means for achieving the two beneficial effects of de
+sign-defect torts—prompting the development of improved designs,
+and providing compensation for inflicted injuries. The Act’s struc
+tural quid pro quo also leads to the same conclusion. The vaccine
+manufacturers fund an informal, efficient compensation program for
+vaccine injuries in exchange for avoiding costly tort litigation and the
+occasional disproportionate jury verdict. Taxing their product to fund
+the compensation program, while leaving their liability for design de
+fect virtually unaltered, would hardly coax them back into the mar
+ket. Pp. 13–16.
+561 F. 3d 233, affirmed.
+SCALIA, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, THOMAS, BREYER, and ALITO, JJ., joined. BREYER,
+J., filed a concurring opinion. SOTOMAYOR, J., filed a dissenting opinion,
+in which GINSBURG, J., joined. KAGAN, J., took no part in the considera
+tion or decision of the case.
+
+

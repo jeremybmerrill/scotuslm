@@ -1,0 +1,51 @@
+2
+
+LEWIS v. CHICAGO
+Syllabus
+that the suit was untimely because the earliest EEOC charge was
+filed more than 300 days after the only discriminatory act—sorting
+the scores into the “well qualified,” “qualified,” and “not qualified”
+categories. The later hiring decisions, the Seventh Circuit held, were
+an automatic consequence of the test scores, not new discriminatory
+acts.
+
+Held: A plaintiff who does not file a timely charge challenging the adop
+tion of a practice may assert a disparate-impact claim in a timely
+charge challenging the employer’s later application of that practice as
+long as he alleges each of the elements of a disparate-impact claim.
+Pp. 4–11.
+(a) Determining whether petitioners’ charges were timely requires
+“identify[ing] precisely the ‘unlawful employment practice’ of which”
+they complain. Delaware State College v. Ricks, 449 U. S. 250, 257.
+With the exception of the first selection round, all agree that the chal
+lenged practice here—the City’s selection of firefighter hires on the
+basis announced in 1996—occurred within the charging period.
+Thus, the question is not whether a claim predicated on that conduct
+is timely, but whether the practice thus defined can be the basis for a
+disparate-impact claim at all. It can. A Title VII plaintiff establishes
+a prima facie claim by showing that the employer “uses a particular
+employment practice that causes a disparate impact” on one of the
+prohibited bases. §2000e–2(k). The term “employment practice”
+clearly encompasses the conduct at issue: exclusion of passing appli
+cants who scored below 89 when selecting those who would advance.
+The City “use[d]” that practice each time it filled a new class of fire
+fighters, and petitioners allege that doing so caused a disparate im
+pact. It is irrelevant that subsection (k) does not address “accrual” of
+disparate-impact claims, since the issue here is not when the claims
+accrued but whether the claims stated a violation. They did.
+Whether petitioners proved a violation is not before the Court.
+Pp. 4–7.
+(b) The City argues that the only actionable discrimination oc
+curred in 1996 when it used the test results to create the hiring list,
+which it concedes was unlawful. It may be true that the City’s adop
+tion in 1996 of the cutoff score gave rise to a freestanding disparate
+impact claim. If so, because no timely charge was filed, the City is
+now “entitled to treat that past act as lawful,” United Air Lines, Inc.
+v. Evans, 431 U. S. 553, 558. But it does not follow that no new viola
+tion occurred—and no new claims could arise—when the City later
+implemented the 1996 decision. Evans and later cases the City cites
+establish only that a Title VII plaintiff must show a “present viola
+tion” within the limitations period. For disparate-treatment claims—
+which require discriminatory intent—the plaintiff must demonstrate
+
+

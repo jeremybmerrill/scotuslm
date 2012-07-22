@@ -1,0 +1,45 @@
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+Opinion of the Court
+
+As the IRC makes clear, only certain estates are liable
+for federal income taxes. Title 26 U. S. C. §§1398 and
+1399 address taxation in bankruptcy and define the divi­
+sion of responsibilities for the payment of taxes between
+the estate and the debtor on a chapter-by-chapter basis.
+Section 1398 provides that when an individual debtor files
+for Chapter 7 or 11 bankruptcy, the estate shall be liable
+for taxes. In such cases, the trustee files a separate re­
+turn on the estate’s behalf and “[t]he tax” on “the taxable
+income of the estate . . . shall be paid by the trustee.”
+§1398(c)(1); see also §6012(b)(4) (“Returns of . . . an estate
+of an individual under chapter 7 or 11 . . . shall be made
+by the fiduciary thereof ”). Section 1399 provides that
+“[e]xcept in any case to which section 1398 applies, no
+separate taxable entity shall result from the commence­
+ment of a [bankruptcy] case.” In Chapter 12 and 13 cases,
+then, there is no separately taxable estate. The debtor—
+not the trustee—is generally liable for taxes and files the
+only tax return. See In re Lindsey, 142 B. R. 447, 448
+(Bkrtcy. Ct. WD Okla. 1992) (“It is clear that, pursuant
+to 26 U. S. C. §1398 and 1399, the standing Chapter 12
+trustee neither files a return nor pays federal income
+tax”); cf. infra, at 15 (discussing special trustee duties in
+corporate-debtor cases).
+These provisions suffice to resolve this case: Chapter 12
+estates are not taxable entities. Petitioners, not the estate
+itself, are required to file the tax return and are liable for
+the taxes resulting from their postpetition farm sale. The
+postpetition federal income tax liability is not “incurred by
+the estate” and thus is neither collectible nor discharge­
+able in the Chapter 12 plan.2
+——————
+2 Because we hold that the postpetition federal income taxes at issue
+are not collectible in the plan because they are not “incurred by the
+estate,” we need not address the Government’s broader alternative
+argument that Chapter 12 plans are exclusively limited to prepetition
+claims.
+
+

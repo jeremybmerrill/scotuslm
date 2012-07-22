@@ -1,0 +1,45 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+MARTINEZ v. RYAN, DIRECTOR, ARIZONA DEPARTMENT OF CORRECTIONS
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–1001. Argued October 4, 2011—Decided March 20, 2012
+Arizona prisoners may raise claims of ineffective assistance of trial
+counsel only in state collateral proceedings, not on direct review. In
+petitioner Martinez’s first state collateral proceeding, his counsel did
+not raise such a claim. On federal habeas review with new counsel,
+Martinez argued that he received ineffective assistance both at trial
+and in his first state collateral proceeding. He also claimed that he
+had a constitutional right to an effective attorney in the collateral
+proceeding because it was the first place to raise his claim of ineffective assistance at trial. The District Court denied the petition, finding that Arizona’s preclusion rule was an adequate and independent
+state-law ground barring federal review, and that under Coleman v.
+Thompson, 501 U. S. 722, the attorney’s errors in the postconviction
+proceeding did not qualify as cause to excuse the procedural default.
+The Court of Appeals for the Ninth Circuit affirmed.
+Held:
+1. Where, under state law, ineffective-assistance-of-trial-counsel
+claims must be raised in an initial-review collateral proceeding, a
+procedural default will not bar a federal habeas court from hearing
+those claims if, in the initial-review collateral proceeding, there was
+no counsel or counsel in that proceeding was ineffective. Pp. 5–14.
+(a) Given that the precise question here is whether ineffective
+assistance in an initial-review collateral proceeding on an ineffectiveassistance-at-trial claim may provide cause for a procedural default
+in a federal habeas proceeding, this is not the case to resolve the
+question left open in Coleman: whether a prisoner has a constitutional right to effective counsel in initial-review collateral proceedings.
+However, to protect prisoners with potentially legitimate ineffective-
+
+

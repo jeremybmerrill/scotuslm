@@ -1,0 +1,43 @@
+Cite as: 562 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+“Every person who, under color of any [state] stat
+ute, ordinance, regulation, custom, or usage . . . sub
+jects, or causes to be subjected, any . . . other per
+son . . . to the deprivation of any rights . . . secured by
+the Constitution and laws [of the United States], shall
+be liable to the party injured in an action at law, suit
+in equity, or other proper proceeding for redress.”
+(Emphasis added.)
+In 1961, in Monroe v. Pape, 365 U. S. 167, this Court held
+that municipal entities were not “person[s]” under §1983.
+The Court based this conclusion on the history of the Civil
+Rights Act of 1871’s enactment. It noted that Congress
+rejected an amendment (called the Sherman amendment)
+that would have made municipalities liable for damage
+done by private persons “ ‘riotously and tumultuously
+assembled.’ ” Id., at 188–190, and n. 38 (quoting Cong.
+Globe, 42d Cong., 1st Sess., 663 (1871)). This rejection,
+the Court thought, reflected a determination by the 1871
+House of Representatives that “ ‘Congress had no constitu
+tional power to impose any obligation upon county and
+town organizations, the mere instrumentality for the
+administration of state law.’ ” 365 U. S., at 190 (quoting
+Cong. Globe, supra, at 804 (statement of Rep. Poland);
+emphasis added). The Court concluded that Congress
+must have doubted its “constitutional power . . . to impose
+civil liability on municipalities.” 365 U. S., at 190. And
+for that reason, Congress must have intended to exclude
+municipal corporations as §1983 defendants. The statute’s
+key term “person” therefore did not cover municipal enti
+ties. Id., at 191.
+Sixteen years later, in Monell, the Court reconsidered
+the question of municipal liability. After reexamining the
+1871 legislative history in detail, the Court concluded that
+Congress had rejected the Sherman amendment, not
+because it would have imposed liability upon municipali
+
+

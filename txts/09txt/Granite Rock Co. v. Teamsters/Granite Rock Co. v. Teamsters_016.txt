@@ -1,0 +1,47 @@
+Cite as: 561 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+from the contract in which it appears and enforce it ac
+cording to its terms unless the party resisting arbitration
+specifically challenges the enforceability of the arbitration
+clause itself, see id., at 443−445 (citing 9 U. S. C. §2;
+Southland Corp. v. Keating, 465 U. S. 1, 4−5 (1984); Prima
+Paint Corp. v. Flood & Conklin Mfg. Co., 388 U. S. 395,
+402−404 (1967)), or claims that the agreement to arbitrate
+was “[n]ever concluded,” 546 U. S., at 444, n. 1; see also
+Rent-A-Center, ante, at 6−7, and n. 2.
+Our cases invoking the federal “policy favoring arbitra
+tion” of commercial and labor disputes apply the same
+framework. They recognize that, except where “the par
+ties clearly and unmistakably provide otherwise,” AT&T
+Technologies, 475 U. S., at 649, it is “the court’s duty to
+interpret the agreement and to determine whether the
+parties intended to arbitrate grievances concerning” a
+particular matter, id., at 651. They then discharge this
+duty by: (1) applying the presumption of arbitrability only
+where a validly formed and enforceable arbitration agree
+ment is ambiguous about whether it covers the dispute at
+hand; and (2) adhering to the presumption and ordering
+arbitration only where the presumption is not rebutted.
+See id., at 651–652; Prima Paint Corp., supra, at 396–398;
+Gateway Coal Co. v. Mine Workers, 414 U. S. 368, 374–377
+(1974); Drake Bakeries Inc. v. Bakery Workers, 370 U. S.
+254, 256–257 (1962); Atkinson v. Sinclair Refining Co.,
+370 U. S. 238, 241–242 (1962); Steelworkers v. Warrior &
+Gulf Nav. Co., 363 U. S. 574, 576 (1960).8
+——————
+8 That
+
+our labor arbitration precedents apply this rule is hardly sur
+prising. As noted above, see n. 6, supra, the rule is the foundation for
+the arbitrability framework this Court announced in the Steelworkers
+Trilogy. Local’s assertion that Warrior & Gulf suggests otherwise is
+misplaced. Although Warrior & Gulf contains language that might in
+isolation be misconstrued as establishing a presumption that labor
+disputes are arbitrable whenever they are not expressly excluded from
+an arbitration clause, 363 U. S., at 578–582, the opinion elsewhere
+
+

@@ -1,0 +1,43 @@
+Cite as: 567 U. S. ____ (2012)
+
+25
+
+BREYER, J., dissenting
+
+E.g., N. Y. Penal Law Ann. §80.00(3) (West 2009); N. J.
+Stat. Ann. §2C:43–3(e) (West 2005).
+The Federal Government followed suit. In some in­
+stances, such as RCRA, where environmental harm likely
+varies with the length of the violation period, Congress
+advanced its uniformity and deterrence goals by tying a
+dollar-limited fine to the length of time during which that
+violation took place. 42 U. S. C. §6928(d)(2)(A). In other
+instances, it did so through a new general gain-or-loss
+provision, applying to all offenses, including such crimes
+as corporate fraud, antitrust violations, and environmen­
+tal pollution. That provision says:
+“ALTERNATIVE FINE BASED ON GAIN OR LOSS.—If any
+person derives pecuniary gain from the offense, or if
+the offense results in pecuniary loss to a person other
+than the defendant, the defendant may be fined not
+more than the greater of twice the gross gain or twice
+the gross loss, unless imposition of a fine under this
+subsection would unduly complicate or prolong the
+sentencing process.” 18 U. S. C. §3571(d).
+To apply Apprendi’s rule to the fines set forth in such
+statutes, no less than in Ice, would weaken or destroy the
+States’ and Federal Government’s efforts “to rein in the
+discretion judges possessed at common law,” Ice, 555 U. S.,
+at 171, over fines. Congress, in enacting such statutes,
+expected judges, not juries, to determine fine-related sen­
+tencing facts because doing so will often involve highly
+complex determinations. Where, say, major fraud is at
+issue, the full extent of the loss (or gain) may be unknown
+at the time of indictment or at any other time prior to the
+conclusion of the trial. And in an antitrust or an environ­
+mental pollution case, the jury may have particular diffi­
+culty assessing different estimates of resulting losses.
+The consequence of the majority’s holding, insisting that
+juries make such determinations, is likely to diminish the
+
+

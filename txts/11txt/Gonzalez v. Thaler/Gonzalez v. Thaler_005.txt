@@ -1,0 +1,34 @@
+2
+
+GONZALEZ v. THALER
+Opinion of the Court
+
+review or the expiration of the time for seeking such review.” We hold that, for a state prisoner who does not
+seek review in a State’s highest court, the judgment becomes “final” on the date that the time for seeking such
+review expires.
+I
+Petitioner Rafael Gonzalez was convicted of murder in
+Texas state court. The intermediate state appellate court,
+the Texas Court of Appeals, affirmed Gonzalez’s conviction
+on July 12, 2006. Gonzalez then allowed his time for
+seeking discretionary review with the Texas Court of
+Criminal Appeals (Texas CCA)—the State’s highest court
+for criminal appeals—to expire on August 11, 2006. Tex.
+Rule App. Proc. 68.2(a) (2011). The Texas Court of Appeals issued its mandate on September 26, 2006.
+After Gonzalez, proceeding pro se, petitioned unsuccessfully for state habeas relief, he filed a federal habeas
+petition under 28 U. S. C. §2254 on January 24, 2008, in
+the U. S. District Court for the Northern District of Texas.
+His petition alleged, inter alia, that the nearly 10-year
+delay between his indictment and trial violated his Sixth
+Amendment right to a speedy trial. The District Court,
+without discussing Gonzalez’s constitutional claims, dismissed Gonzalez’s petition as time barred by the 1-year
+statute of limitations in §2244(d)(1)(A). Although Gonzalez argued that his judgment had not become final until
+the Texas Court of Appeals issued its mandate, the District Court held that Gonzalez’s judgment had become
+final when his time for seeking discretionary review in the
+Texas CCA expired on August 11, 2006. Counting from
+that date, and tolling the limitations period for the time
+during which Gonzalez’s state habeas petition was pending, Gonzalez’s limitations period elapsed on December 17,
+2007—over a month before he filed his federal habeas
+petition. The District Court denied a COA.
+
+

@@ -1,0 +1,43 @@
+16
+
+TALK AMERICA, INC. v. MICHIGAN BELL 
+
+TELEPHONE CO.
+Opinion of the Court 
+
+
+
+
+
+hauling and interconnection, though AT&T makes much of
+that fact. AT&T argues that the Commission’s holding
+in the Triennial Review Remand Order is broader than
+that in the Triennial Review Order. In AT&T’s view, the
+Commission concluded in the Triennial Review Remand
+Order that competitors are not impaired if they lack cost­
+based access to entrance facilities for backhauling or
+interconnection.
+There are two flaws with AT&T’s reasoning. First, as
+we have discussed, the Triennial Review Remand Order
+reinstated the ultimate conclusion of the Triennial Review
+Order and changed only “the analysis through which [it]
+reached that conclusion.” Triennial Review Remand Order
+¶137. Second, unlike §251(c)(3)’s unbundling obligation,
+§251(c)(2)’s interconnection obligation does not require the
+Commission to consider impairment. As the dissent below
+observed, it would be surprising indeed if the FCC had
+taken the novel step of incorporating impairment into
+interconnection without comment. 597 F. 3d, at 389 (opin­
+ion of Sutton, J.).
+*
+*
+*
+The FCC as amicus curiae has advanced a reasonable
+interpretation of its regulations, and we defer to its views.
+The judgment of the United States Court of Appeals for
+the Sixth Circuit is reversed.
+It is so ordered.
+JUSTICE KAGAN took no part in the consideration or
+decision of these cases.
+
+

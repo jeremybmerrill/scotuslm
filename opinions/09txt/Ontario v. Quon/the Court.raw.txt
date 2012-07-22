@@ -1,0 +1,732 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1332
+_________________
+
+CITY OF ONTARIO, CALIFORNIA, ET AL., 
+
+PETITIONERS v. JEFF QUON ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[June 17, 2010] 
+
+
+JUSTICE KENNEDY delivered the opinion of the Court.
+This case involves the assertion by a government em­
+ployer of the right, in circumstances to be described, to
+read text messages sent and received on a pager the em­
+ployer owned and issued to an employee. The employee
+contends that the privacy of the messages is protected by
+the ban on “unreasonable searches and seizures” found in
+the Fourth Amendment to the United States Constitution,
+made applicable to the States by the Due Process Clause
+of the Fourteenth Amendment.
+Mapp v. Ohio, 367
+U. S. 643 (1961). Though the case touches issues of farreaching significance, the Court concludes it can be re­
+solved by settled principles determining when a search is
+reasonable.
+I
+A
+The City of Ontario (City) is a political subdivision of the
+State of California. The case arose out of incidents in 2001
+and 2002 when respondent Jeff Quon was employed by the
+Ontario Police Department (OPD). He was a police ser­
+
+
+2
+
+ONTARIO v. QUON
+Opinion of the Court
+
+geant and member of OPD’s Special Weapons and Tactics
+(SWAT) Team. The City, OPD, and OPD’s Chief, Lloyd
+Scharf, are petitioners here. As will be discussed, two
+respondents share the last name Quon. In this opinion
+“Quon” refers to Jeff Quon, for the relevant events mostly
+revolve around him.
+In October 2001, the City acquired 20 alphanumeric
+pagers capable of sending and receiving text messages.
+Arch Wireless Operating Company provided wireless
+service for the pagers. Under the City’s service contract
+with Arch Wireless, each pager was allotted a limited
+number of characters sent or received each month. Usage
+in excess of that amount would result in an additional fee.
+The City issued pagers to Quon and other SWAT Team
+members in order to help the SWAT Team mobilize and
+respond to emergency situations.
+Before acquiring the pagers, the City announced a
+“Computer Usage, Internet and E-Mail Policy” (Computer
+Policy) that applied to all employees. Among other provi­
+sions, it specified that the City “reserves the right to moni­
+tor and log all network activity including e-mail and
+Internet use, with or without notice. Users should have no
+expectation of privacy or confidentiality when using these
+resources.” App. to Pet. for Cert. 152a. In March 2000,
+Quon signed a statement acknowledging that he had read
+and understood the Computer Policy.
+The Computer Policy did not apply, on its face, to text
+messaging. Text messages share similarities with e-mails,
+but the two differ in an important way. In this case, for
+instance, an e-mail sent on a City computer was transmit­
+ted through the City’s own data servers, but a text mes­
+sage sent on one of the City’s pagers was transmitted
+using wireless radio frequencies from an individual pager
+to a receiving station owned by Arch Wireless. It was
+routed through Arch Wireless’ computer network, where it
+remained until the recipient’s pager or cellular telephone
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+was ready to receive the message, at which point Arch
+Wireless transmitted the message from the transmitting
+station nearest to the recipient. After delivery, Arch
+Wireless retained a copy on its computer servers. The
+message did not pass through computers owned by the
+City.
+Although the Computer Policy did not cover text mes­
+sages by its explicit terms, the City made clear to employ­
+ees, including Quon, that the City would treat text mes­
+sages the same way as it treated e-mails. At an April 18,
+2002, staff meeting at which Quon was present, Lieuten­
+ant Steven Duke, the OPD officer responsible for the City’s
+contract with Arch Wireless, told officers that messages
+sent on the pagers “are considered e-mail messages. This
+means that [text] messages would fall under the City’s
+policy as public information and [would be] eligible for
+auditing.” App. 30. Duke’s comments were put in writing
+in a memorandum sent on April 29, 2002, by Chief Scharf
+to Quon and other City personnel.
+Within the first or second billing cycle after the pagers
+were distributed, Quon exceeded his monthly text message
+character allotment. Duke told Quon about the overage,
+and reminded him that messages sent on the pagers were
+“considered e-mail and could be audited.” Id., at 40. Duke
+said, however, that “it was not his intent to audit [an]
+employee’s text messages to see if the overage [was] due to
+work related transmissions.” Ibid. Duke suggested that
+Quon could reimburse the City for the overage fee rather
+than have Duke audit the messages. Quon wrote a check
+to the City for the overage. Duke offered the same ar­
+rangement to other employees who incurred overage fees.
+Over the next few months, Quon exceeded his character
+limit three or four times. Each time he reimbursed the
+City. Quon and another officer again incurred overage
+fees for their pager usage in August 2002. At a meeting in
+October, Duke told Scharf that he had become “ ‘tired of
+
+
+4
+
+ONTARIO v. QUON
+Opinion of the Court
+
+being a bill collector.’ ” Id., at 91. Scharf decided to de­
+termine whether the existing character limit was too
+low—that is, whether officers such as Quon were having to
+pay fees for sending work-related messages—or if the
+overages were for personal messages. Scharf told Duke to
+request transcripts of text messages sent in August and
+September by Quon and the other employee who had
+exceeded the character allowance.
+At Duke’s request, an administrative assistant em­
+ployed by OPD contacted Arch Wireless. After verifying
+that the City was the subscriber on the accounts, Arch
+Wireless provided the desired transcripts. Duke reviewed
+the transcripts and discovered that many of the messages
+sent and received on Quon’s pager were not work related,
+and some were sexually explicit. Duke reported his find­
+ings to Scharf, who, along with Quon’s immediate supervi­
+sor, reviewed the transcripts himself. After his review,
+Scharf referred the matter to OPD’s internal affairs divi­
+sion for an investigation into whether Quon was violating
+OPD rules by pursuing personal matters while on duty.
+The officer in charge of the internal affairs review was
+Sergeant Patrick McMahon. Before conducting a review,
+McMahon used Quon’s work schedule to redact the tran­
+scripts in order to eliminate any messages Quon sent
+while off duty. He then reviewed the content of the mes­
+sages Quon sent during work hours. McMahon’s report
+noted that Quon sent or received 456 messages during
+work hours in the month of August 2002, of which no more
+than 57 were work related; he sent as many as 80 mes­
+sages during a single day at work; and on an average
+workday, Quon sent or received 28 messages, of which
+only 3 were related to police business. The report con­
+cluded that Quon had violated OPD rules. Quon was
+allegedly disciplined.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+B
+Raising claims under Rev. Stat. §1979, 42 U. S. C.
+§1983; 18 U. S. C. §2701 et seq., popularly known as the
+Stored Communications Act (SCA); and California law,
+Quon filed suit against petitioners in the United States
+District Court for the Central District of California. Arch
+Wireless and an individual not relevant here were also
+named as defendants. Quon was joined in his suit by
+another plaintiff who is not a party before this Court and
+by the other respondents, each of whom exchanged text
+messages with Quon during August and September 2002:
+Jerilyn Quon, Jeff Quon’s then-wife, from whom he was
+separated; April Florio, an OPD employee with whom Jeff
+Quon was romantically involved; and Steve Trujillo, an­
+other member of the OPD SWAT Team. Among the alle­
+gations in the complaint was that petitioners violated
+respondents’ Fourth Amendment rights and the SCA by
+obtaining and reviewing the transcript of Jeff Quon’s
+pager messages and that Arch Wireless had violated the
+SCA by turning over the transcript to the City.
+The parties filed cross-motions for summary judgment.
+The District Court granted Arch Wireless’ motion for
+summary judgment on the SCA claim but denied petition­
+ers’ motion for summary judgment on the Fourth Amend­
+ment claims. Quon v. Arch Wireless Operating Co., 445
+F. Supp. 2d 1116 (CD Cal. 2006). Relying on the plural­
+ity opinion in O’Connor v. Ortega, 480 U. S. 709, 711
+(1987), the District Court determined that Quon had a
+reasonable expectation of privacy in the content of his text
+messages. Whether the audit of the text messages was
+nonetheless reasonable, the District Court concluded,
+turned on Chief Scharf’s intent: “[I]f the purpose for the
+audit was to determine if Quon was using his pager to
+‘play games’ and ‘waste time,’ then the audit was not
+constitutionally reasonable”; but if the audit’s purpose
+“was to determine the efficacy of the existing character
+
+
+6
+
+ONTARIO v. QUON
+Opinion of the Court
+
+limits to ensure that officers were not paying hidden work­
+related costs, . . . no constitutional violation occurred.”
+445 F. Supp. 2d, at 1146.
+The District Court held a jury trial to determine the
+purpose of the audit. The jury concluded that Scharf
+ordered the audit to determine the efficacy of the charac­
+ter limits. The District Court accordingly held that peti­
+tioners did not violate the Fourth Amendment. It entered
+judgment in their favor.
+The United States Court of Appeals for the Ninth Cir­
+cuit reversed in part. 529 F. 3d 892 (2008). The panel
+agreed with the District Court that Jeff Quon had a rea­
+sonable expectation of privacy in his text messages but
+disagreed with the District Court about whether the
+search was reasonable. Even though the search was
+conducted for “a legitimate work-related rationale,” the
+Court of Appeals concluded, it “was not reasonable in
+scope.” Id., at 908. The panel disagreed with the District
+Court’s observation that “there were no less-intrusive
+means” that Chief Scharf could have used “to verify the
+efficacy of the 25,000 character limit . . . without intruding
+on [respondents’] Fourth Amendment rights.” Id., at 908–
+909. The opinion pointed to a “host of simple ways” that
+the chief could have used instead of the audit, such as
+warning Quon at the beginning of the month that his
+future messages would be audited, or asking Quon himself
+to redact the transcript of his messages. Id., at 909. The
+Court of Appeals further concluded that Arch Wireless had
+violated the SCA by turning over the transcript to the
+City.
+The Ninth Circuit denied a petition for rehearing en
+banc. Quon v. Arch Wireless Operating Co., 554 F. 3d 769
+(2009). Judge Ikuta, joined by six other Circuit Judges,
+dissented. Id., at 774–779. Judge Wardlaw concurred in
+the denial of rehearing, defending the panel’s opinion
+against the dissent. Id., at 769–774.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+This Court granted the petition for certiorari filed by the
+City, OPD, and Chief Scharf challenging the Court of
+Appeals’ holding that they violated the Fourth Amend­
+ment. 558 U. S. ___ (2009). The petition for certiorari
+filed by Arch Wireless challenging the Ninth Circuit’s
+ruling that Arch Wireless violated the SCA was denied.
+USA Mobility Wireless, Inc. v. Quon, 558 U. S. ___ (2009).
+II
+The Fourth Amendment states: “The right of the people
+to be secure in their persons, houses, papers, and effects,
+against unreasonable searches and seizures, shall not be
+violated . . . .” It is well settled that the Fourth Amend­
+ment’s protection extends beyond the sphere of criminal
+investigations. Camara v. Municipal Court of City and
+County of San Francisco, 387 U. S. 523, 530 (1967). “The
+Amendment guarantees the privacy, dignity, and security
+of persons against certain arbitrary and invasive acts by
+officers of the Government,” without regard to whether the
+government actor is investigating crime or performing
+another function. Skinner v. Railway Labor Executives’
+Assn., 489 U. S. 602, 613–614 (1989). The Fourth Amend­
+ment applies as well when the Government acts in its
+capacity as an employer. Treasury Employees v. Von
+Raab, 489 U. S. 656, 665 (1989).
+The Court discussed this principle in O’Connor. There a
+physician employed by a state hospital alleged that hospi­
+tal officials investigating workplace misconduct had vio­
+lated his Fourth Amendment rights by searching his office
+and seizing personal items from his desk and filing cabi­
+net. All Members of the Court agreed with the general
+principle that “[i]ndividuals do not lose Fourth Amend­
+ment rights merely because they work for the government
+instead of a private employer.” 480 U. S., at 717 (plurality
+opinion); see also id., at 731 (SCALIA, J., concurring in
+judgment); id., at 737 (Blackmun, J., dissenting). A major­
+
+
+8
+
+ONTARIO v. QUON
+Opinion of the Court
+
+ity of the Court further agreed that “ ‘special needs, beyond
+the normal need for law enforcement,’ ” make the warrant
+and probable-cause requirement impracticable for gov­
+ernment employers. Id., at 725 (plurality opinion) (quot­
+ing New Jersey v. T. L. O., 469 U. S. 325, 351 (1985)
+(Blackmun, J., concurring in judgment); 480 U. S., at 732
+(opinion of SCALIA, J.) (quoting same).
+The O’Connor Court did disagree on the proper analyti­
+cal framework for Fourth Amendment claims against
+government employers. A four-Justice plurality concluded
+that the correct analysis has two steps. First, because
+“some government offices may be so open to fellow em­
+ployees or the public that no expectation of privacy is
+reasonable,” id., at 718, a court must consider “[t]he opera­
+tional realities of the workplace” in order to determine
+whether an employee’s Fourth Amendment rights are
+implicated, id., at 717. On this view, “the question
+whether an employee has a reasonable expectation of
+privacy must be addressed on a case-by-case basis.” Id., at
+718. Next, where an employee has a legitimate privacy
+expectation, an employer’s intrusion on that expectation
+“for noninvestigatory, work-related purposes, as well as
+for investigations of work-related misconduct, should be
+judged by the standard of reasonableness under all the
+circumstances.” Id., at 725–726.
+JUSTICE SCALIA, concurring in the judgment, outlined a
+different approach. His opinion would have dispensed
+with an inquiry into “operational realities” and would
+conclude “that the offices of government employees . . . are
+covered by Fourth Amendment protections as a general
+matter.” Id., at 731. But he would also have held “that
+government searches to retrieve work-related materials or
+to investigate violations of workplace rules—searches of
+the sort that are regarded as reasonable and normal in the
+private-employer context—do not violate the Fourth
+Amendment.” Id., at 732.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+Later, in the Von Raab decision, the Court explained
+that “operational realities” could diminish an employee’s
+privacy expectations, and that this diminution could be
+taken into consideration when assessing the reasonable­
+ness of a workplace search. 489 U. S., at 671. In the two
+decades since O’Connor, however, the threshold test for
+determining the scope of an employee’s Fourth Amend­
+ment rights has not been clarified further. Here, though
+they disagree on whether Quon had a reasonable expecta­
+tion of privacy, both petitioners and respondents start
+from the premise that the O’Connor plurality controls.
+See Brief for Petitioners 22–28; Brief for Respondents 25–
+32. It is not necessary to resolve whether that premise is
+correct. The case can be decided by determining that the
+search was reasonable even assuming Quon had a reason­
+able expectation of privacy.
+The two O’Connor ap­
+proaches—the plurality’s and JUSTICE SCALIA’s—therefore
+lead to the same result here.
+III 
+
+A
+
+Before turning to the reasonableness of the search, it is
+instructive to note the parties’ disagreement over whether
+Quon had a reasonable expectation of privacy. The record
+does establish that OPD, at the outset, made it clear that
+pager messages were not considered private. The City’s
+Computer Policy stated that “[u]sers should have no ex­
+pectation of privacy or confidentiality when using” City
+computers. App. to Pet. for Cert. 152a. Chief Scharf’s
+memo and Duke’s statements made clear that this official
+policy extended to text messaging. The disagreement, at
+least as respondents see the case, is over whether Duke’s
+later statements overrode the official policy. Respondents
+contend that because Duke told Quon that an audit would
+be unnecessary if Quon paid for the overage, Quon rea­
+sonably could expect that the contents of his messages
+
+
+10
+
+ONTARIO v. QUON
+Opinion of the Court
+
+would remain private.
+At this point, were we to assume that inquiry into “op­
+erational realities” were called for, compare O’Connor, 480
+U. S., at 717 (plurality opinion), with id., at 730–731
+(opinion of SCALIA, J.); see also id., at 737–738 (Blackmun,
+J., dissenting), it would be necessary to ask whether
+Duke’s statements could be taken as announcing a change
+in OPD policy, and if so, whether he had, in fact or ap­
+pearance, the authority to make such a change and to
+guarantee the privacy of text messaging. It would also be
+necessary to consider whether a review of messages sent
+on police pagers, particularly those sent while officers are
+on duty, might be justified for other reasons, including
+performance evaluations, litigation concerning the lawful­
+ness of police actions, and perhaps compliance with state
+open records laws. See Brief for Petitioners 35–40 (citing
+Cal. Public Records Act, Cal. Govt. Code Ann. §6250 et seq.
+(West 2008)). These matters would all bear on the legiti­
+macy of an employee’s privacy expectation.
+The Court must proceed with care when considering the
+whole concept of privacy expectations in communications
+made on electronic equipment owned by a government
+employer. The judiciary risks error by elaborating too
+fully on the Fourth Amendment implications of emerging
+technology before its role in society has become clear. See,
+e.g., Olmstead v. United States, 277 U. S. 438 (1928),
+overruled by Katz v. United States, 389 U. S. 347, 353
+(1967). In Katz, the Court relied on its own knowledge
+and experience to conclude that there is a reasonable
+expectation of privacy in a telephone booth. See id., at
+360–361 (Harlan, J., concurring). It is not so clear that
+courts at present are on so sure a ground. Prudence coun­
+sels caution before the facts in the instant case are used to
+establish far-reaching premises that define the existence,
+and extent, of privacy expectations enjoyed by employees
+when using employer-provided communication devices.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+Rapid changes in the dynamics of communication and
+information transmission are evident not just in the tech­
+nology itself but in what society accepts as proper behav­
+ior. As one amici brief notes, many employers expect or at
+least tolerate personal use of such equipment by employ­
+ees because it often increases worker efficiency. See Brief
+for Electronic Frontier Foundation et al. 16–20. Another
+amicus points out that the law is beginning to respond to
+these developments, as some States have recently passed
+statutes requiring employers to notify employees when
+monitoring their electronic communications. See Brief for
+New York Intellectual Property Law Association 22 (citing
+Del. Code Ann., Tit. 19, §705 (2005); Conn. Gen. Stat. Ann.
+§31–48d (West 2003)). At present, it is uncertain how
+workplace norms, and the law’s treatment of them, will
+evolve.
+Even if the Court were certain that the O’Connor plural­
+ity’s approach were the right one, the Court would have
+difficulty predicting how employees’ privacy expectations
+will be shaped by those changes or the degree to which
+society will be prepared to recognize those expectations as
+reasonable. See 480 U. S., at 715. Cell phone and text
+message communications are so pervasive that some
+persons may consider them to be essential means or nec­
+essary instruments for self-expression, even self­
+identification. That might strengthen the case for an
+expectation of privacy. On the other hand, the ubiquity of
+those devices has made them generally affordable, so one
+could counter that employees who need cell phones or
+similar devices for personal matters can purchase and pay
+for their own. And employer policies concerning commu­
+nications will of course shape the reasonable expectations
+of their employees, especially to the extent that such
+policies are clearly communicated.
+A broad holding concerning employees’ privacy expecta­
+tions vis-à-vis employer-provided technological equipment
+
+
+12
+
+ONTARIO v. QUON
+Opinion of the Court
+
+might have implications for future cases that cannot be
+predicted. It is preferable to dispose of this case on nar­
+rower grounds. For present purposes we assume several
+propositions arguendo: First, Quon had a reasonable
+expectation of privacy in the text messages sent on the
+pager provided to him by the City; second, petitioners’
+review of the transcript constituted a search within the
+meaning of the Fourth Amendment; and third, the princi­
+ples applicable to a government employer’s search of an
+employee’s physical office apply with at least the same
+force when the employer intrudes on the employee’s pri­
+vacy in the electronic sphere.
+B
+Even if Quon had a reasonable expectation of privacy in
+his text messages, petitioners did not necessarily violate
+the Fourth Amendment by obtaining and reviewing the
+transcripts. Although as a general matter, warrantless
+searches “are per se unreasonable under the Fourth
+Amendment,” there are “a few specifically established and
+well-delineated exceptions” to that general rule. Katz,
+supra, at 357. The Court has held that the “ ‘special
+needs’ ” of the workplace justify one such exception.
+O’Connor, 480 U. S., at 725 (plurality opinion); id., at 732
+(SCALIA, J., concurring in judgment); Von Raab, 489 U. S.,
+at 666–667.
+Under the approach of the O’Connor plurality, when
+conducted for a “noninvestigatory, work-related purpos[e]”
+or for the “investigatio[n] of work-related misconduct,” a
+government employer’s warrantless search is reasonable if
+it is “ ‘justified at its inception’ ” and if “ ‘the measures
+adopted are reasonably related to the objectives of the
+search and not excessively intrusive in light of’ ” the cir­
+cumstances giving rise to the search. 480 U. S., at 725–
+726. The search here satisfied the standard of the
+O’Connor plurality and was reasonable under that ap­
+
+
+Cite as: 560 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+proach.
+The search was justified at its inception because there
+were “reasonable grounds for suspecting that the search
+[was] necessary for a noninvestigatory work-related pur­
+pose.” Id., at 726. As a jury found, Chief Scharf ordered
+the search in order to determine whether the character
+limit on the City’s contract with Arch Wireless was suffi­
+cient to meet the City’s needs. This was, as the Ninth
+Circuit noted, a “legitimate work-related rationale.” 529
+F. 3d, at 908. The City and OPD had a legitimate interest
+in ensuring that employees were not being forced to pay
+out of their own pockets for work-related expenses, or on
+the other hand that the City was not paying for extensive
+personal communications.
+As for the scope of the search, reviewing the transcripts
+was reasonable because it was an efficient and expedient
+way to determine whether Quon’s overages were the result
+of work-related messaging or personal use. The review
+was also not “ ‘excessively intrusive.’ ” O’Connor, supra, at
+726 (plurality opinion). Although Quon had gone over his
+monthly allotment a number of times, OPD requested
+transcripts for only the months of August and September
+2002. While it may have been reasonable as well for OPD
+to review transcripts of all the months in which Quon
+exceeded his allowance, it was certainly reasonable for
+OPD to review messages for just two months in order to
+obtain a large enough sample to decide whether the char­
+acter limits were efficacious. And it is worth noting that
+during his internal affairs investigation, McMahon re­
+dacted all messages Quon sent while off duty, a measure
+which reduced the intrusiveness of any further review of
+the transcripts.
+Furthermore, and again on the assumption that Quon
+had a reasonable expectation of privacy in the contents of
+his messages, the extent of an expectation is relevant to
+assessing whether the search was too intrusive. See Von
+
+
+14
+
+ONTARIO v. QUON
+Opinion of the Court
+
+Raab, supra, at 671; cf. Vernonia School Dist. 47J v. Ac
+ton, 515 U. S. 646, 654–657 (1995). Even if he could as­
+sume some level of privacy would inhere in his messages,
+it would not have been reasonable for Quon to conclude
+that his messages were in all circumstances immune from
+scrutiny. Quon was told that his messages were subject to
+auditing. As a law enforcement officer, he would or should
+have known that his actions were likely to come under
+legal scrutiny, and that this might entail an analysis of his
+on-the-job communications. Under the circumstances, a
+reasonable employee would be aware that sound manage­
+ment principles might require the audit of messages to
+determine whether the pager was being appropriately
+used. Given that the City issued the pagers to Quon and
+other SWAT Team members in order to help them more
+quickly respond to crises—and given that Quon had re­
+ceived no assurances of privacy—Quon could have antici­
+pated that it might be necessary for the City to audit
+pager messages to assess the SWAT Team’s performance
+in particular emergency situations.
+From OPD’s perspective, the fact that Quon likely had
+only a limited privacy expectation, with boundaries that
+we need not here explore, lessened the risk that the review
+would intrude on highly private details of Quon’s life.
+OPD’s audit of messages on Quon’s employer-provided
+pager was not nearly as intrusive as a search of his per­
+sonal e-mail account or pager, or a wiretap on his home
+phone line, would have been. That the search did reveal
+intimate details of Quon’s life does not make it unreason­
+able, for under the circumstances a reasonable employer
+would not expect that such a review would intrude on such
+matters. The search was permissible in its scope.
+The Court of Appeals erred in finding the search unrea­
+sonable. It pointed to a “host of simple ways to verify the
+efficacy of the 25,000 character limit . . . without intruding
+on [respondents’] Fourth Amendment rights.” 529 F. 3d,
+
+
+Cite as: 560 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+at 909. The panel suggested that Scharf “could have
+warned Quon that for the month of September he was
+forbidden from using his pager for personal communica­
+tions, and that the contents of all his messages would be
+reviewed to ensure the pager was used only for work­
+related purposes during that time frame. Alternatively, if
+[OPD] wanted to review past usage, it could have asked
+Quon to count the characters himself, or asked him to
+redact personal messages and grant permission to [OPD]
+to review the redacted transcript.” Ibid.
+This approach was inconsistent with controlling prece­
+dents. This Court has “repeatedly refused to declare that
+only the ‘least intrusive’ search practicable can be reason­
+able under the Fourth Amendment.” Vernonia, supra, at
+663; see also, e.g., Board of Ed. of Independent School Dist.
+No. 92 of Pottawatomie Cty. v. Earls, 536 U. S. 822, 837
+(2002); Illinois v. Lafayette, 462 U. S. 640, 647 (1983).
+That rationale “could raise insuperable barriers to the
+exercise of virtually all search-and-seizure powers,”
+United States v. Martinez-Fuerte, 428 U. S. 543, 557, n. 12
+(1976), because “judges engaged in post hoc evaluations of
+government conduct can almost always imagine some
+alternative means by which the objectives of the govern­
+ment might have been accomplished,” Skinner, 489 U. S.,
+at 629, n. 9 (internal quotation marks and brackets omit­
+ted). The analytic errors of the Court of Appeals in this
+case illustrate the necessity of this principle. Even assum­
+ing there were ways that OPD could have performed the
+search that would have been less intrusive, it does not
+follow that the search as conducted was unreasonable.
+Respondents argue that the search was per se unrea­
+sonable in light of the Court of Appeals’ conclusion that
+Arch Wireless violated the SCA by giving the City the
+transcripts of Quon’s text messages. The merits of the
+SCA claim are not before us. But even if the Court of
+Appeals was correct to conclude that the SCA forbade
+
+
+16
+
+ONTARIO v. QUON
+Opinion of the Court
+
+Arch Wireless from turning over the transcripts, it does
+not follow that petitioners’ actions were unreasonable.
+Respondents point to no authority for the proposition that
+the existence of statutory protection renders a search per
+se unreasonable under the Fourth Amendment. And the
+precedents counsel otherwise. See Virginia v. Moore, 553
+U. S. 164, 168 (2008) (search incident to an arrest that
+was illegal under state law was reasonable); California v.
+Greenwood, 486 U. S. 35, 43 (1988) (rejecting argument
+that if state law forbade police search of individual’s gar­
+bage the search would violate the Fourth Amendment).
+Furthermore, respondents do not maintain that any OPD
+employee either violated the law him- or herself or knew
+or should have known that Arch Wireless, by turning over
+the transcript, would have violated the law. The other­
+wise reasonable search by OPD is not rendered unreason­
+able by the assumption that Arch Wireless violated the
+SCA by turning over the transcripts.
+Because the search was motivated by a legitimate work­
+related purpose, and because it was not excessive in scope,
+the search was reasonable under the approach of the
+O’Connor plurality. 480 U. S., at 726. For these same
+reasons—that the employer had a legitimate reason for
+the search, and that the search was not excessively intru­
+sive in light of that justification—the Court also concludes
+that the search would be “regarded as reasonable and
+normal in the private-employer context” and would satisfy
+the approach of JUSTICE SCALIA’s concurrence. Id., at 732.
+The search was reasonable, and the Court of Appeals
+erred by holding to the contrary. Petitioners did not vio­
+late Quon’s Fourth Amendment rights.
+C
+Finally, the Court must consider whether the search
+violated the Fourth Amendment rights of Jerilyn Quon,
+Florio, and Trujillo, the respondents who sent text mes­
+
+
+Cite as: 560 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+sages to Jeff Quon. Petitioners and respondents disagree
+whether a sender of a text message can have a reasonable
+expectation of privacy in a message he knowingly sends to
+someone’s employer-provided pager. It is not necessary to
+resolve this question in order to dispose of the case, how­
+ever. Respondents argue that because “the search was
+unreasonable as to Sergeant Quon, it was also unreason­
+able as to his correspondents.” Brief for Respondents 60
+(some capitalization omitted; boldface deleted). They
+make no corollary argument that the search, if reasonable
+as to Quon, could nonetheless be unreasonable as to
+Quon’s correspondents. See id., at 65–66. In light of this
+litigating position and the Court’s conclusion that the
+search was reasonable as to Jeff Quon, it necessarily
+follows that these other respondents cannot prevail.
+*
+*
+*
+Because the search was reasonable, petitioners did not
+violate respondents’ Fourth Amendment rights, and the
+court below erred by concluding otherwise. The judgment
+of the Court of Appeals for the Ninth Circuit is reversed,
+and the case is remanded for further proceedings consis­
+tent with this opinion.
+It is so ordered.
+
+

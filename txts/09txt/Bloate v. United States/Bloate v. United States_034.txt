@@ -1,0 +1,43 @@
+10
+
+BLOATE v. UNITED STATES
+ALITO, J., dissenting
+
+v. United States, 476 U. S. 321, 324 (1986). Indeed, in
+Henderson we held that 295 days of delay resulting from
+the filing of a pretrial motion were automatically exclud
+able, and we noted that “Congress was aware of the
+breadth of the exclusion it was enacting.” Id., at 327.6
+The Court’s suggestion that its interpretation is necessary
+to protect the Act’s “timeliness guarantee,” ante, at 13, is
+illusory.
+For a similar reason, the Court’s interpretation is not
+supported by the rule of construction that “ ‘[a] specific
+provision’ . . . ‘controls one[s] of more general application.’ ”
+Ante, at 10. This rule applies only when specific and
+general statutory provisions conflict. National Cable &
+Telecommunications Assn., Inc. v. Gulf Power Co., 534
+U. S. 327, 335–336 (2002). Here, there is no conflict be
+cause, even if subparagraph (D) governs “delay resulting
+from any pretrial motion,” there is no basis for concluding
+that subparagraph (D) governs all “pretrial motion-related
+delay.”
+B
+Contrary to the Court’s claim, its decision is not sup
+ported by §3161(h)(7)(A), which excludes “delay resulting
+from a continuance” provided that the trial court “sets
+forth, in the record of the case, . . . its reasons for finding
+that the ends of justice served by the granting of such
+continuance outweigh the best interests of the public and
+the defendant in a speedy trial.” One might argue that a
+trial judge grants a “continuance” whenever the judge
+postpones a trial date, even when the postponement is the
+——————
+6 That the delay in Henderson was delay “resulting from [a] pretrial
+motion,” §3161(h)(1)(D); see 476 U. S., at 322, 330–331, distinguishes
+that case from the scenario here, where no pretrial motion has been
+filed and the delay in question “results from a proceeding” that, in the
+Court’s view, is “governed by subparagraph (D).” Ante, at 9–10. Cf.
+ante, at 15, n. 14.
+
+

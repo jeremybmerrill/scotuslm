@@ -1,0 +1,46 @@
+6
+
+MICROSOFT CORP. v. i4i LTD. PARTNERSHIP
+Opinion of the Court
+
+apply at least when an invalidity defense rests on evidence
+that was never considered by the PTO in the examination
+process. We reject both contentions.3
+A
+Where Congress has prescribed the governing standard
+of proof, its choice controls absent “countervailing consti
+tutional constraints.” Steadman v. SEC, 450 U. S. 91, 95
+(1981). The question, then, is whether Congress has made
+such a choice here.
+As stated, the first paragraph of §282 provides that
+“[a] patent shall be presumed valid” and “[t]he burden of
+establishing invalidity of a patent or any claim thereof
+shall rest on the party asserting such invalidity.” Thus, by
+its express terms, §282 establishes a presumption of pat
+ent validity, and it provides that a challenger must over
+come that presumption to prevail on an invalidity defense.
+But, while the statute explicitly specifies the burden of
+proof, it includes no express articulation of the standard of
+proof.4
+——————
+3 i4i contends that Microsoft forfeited the first argument by failing to
+raise it until its merits brief in this Court. The argument, however, is
+within the scope of the question presented, and because we reject it on
+its merits, we need not decide whether it has been preserved.
+4 A preliminary word on terminology is in order. As we have said,
+“[t]he term ‘burden of proof’ is one of the ‘the slipperiest members of
+the family of legal terms.’ ” Schaffer v. Weast, 546 U. S. 49, 56 (2005)
+(quoting 2 J. Strong, McCormick on Evidence §342, p. 433 (5th ed.
+1999) (alteration omitted)). Historically, the term has encompassed two
+separate burdens: the “burden of persuasion” (specifying which party
+loses if the evidence is balanced), as well as the “burden of production”
+(specifying which party must come forward with evidence at various
+stages in the litigation). Ibid. Adding more confusion, the term “bur
+den of proof” has occasionally been used as a synonym for “standard of
+proof.” E.g., Grogan v. Garner, 498 U. S. 279, 286 (1991).
+Here we use “burden of proof” interchangeably with “burden of per
+suasion” to identify the party who must persuade the jury in its favor to
+prevail. We use the term “standard of proof” to refer to the degree of
+certainty by which the factfinder must be persuaded of a factual conclu
+
+

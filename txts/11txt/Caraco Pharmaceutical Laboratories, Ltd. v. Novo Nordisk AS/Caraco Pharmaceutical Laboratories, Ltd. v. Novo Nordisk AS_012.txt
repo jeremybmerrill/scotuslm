@@ -1,0 +1,38 @@
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+Opinion of the Court
+
+either—
+“(aa) the drug for which the [brand’s NDA] was
+approved; or
+“(bb) an approved method of using the drug.” 21
+U. S. C. §355(j)(5)(C)(ii)(I).
+The counterclaim thus enables a generic competitor to
+obtain a judgment directing a brand to “correct or delete”
+certain patent information that is blocking the FDA’s
+approval of a generic product. This case raises the question whether the counterclaim is available to fix a brand’s
+use code.
+B
+The parties to this case sell or seek to sell the diabetes
+drug repaglinide. Respondents (collectively Novo) manufacture Prandin, the brand-name version of the drug. The
+FDA has approved three uses of Prandin to treat diabetes: repaglinide by itself; repaglinide in combination with
+metformin; and repaglinide in combination with thiazolidinediones (TZDs). Petitioners (collectively Caraco) wish
+to market a generic version of the drug for two of those
+uses.
+Novo originally owned a patent for the repaglinide
+compound, known as the ’035 patent, but it expired in
+2009. In 2004, Novo also acquired a method-of-use patent
+for the drug, called the ’358 patent, which does not expire
+until 2018. That patent—the one at issue here—claims a
+“method for treating [diabetes by] administering . . . repaglinide in combination with metformin.” 601 F. 3d 1359,
+1362 (CA Fed. 2010). Thus, Novo currently holds a patent
+for one of the three FDA-approved uses of repaglinide—its
+use with metformin. But Novo holds no patent for the use
+of repaglinide with TZDs or its use alone.
+In 2005, Caraco filed an ANDA seeking to market a
+generic version of repaglinide. At that time, the Orange
+Book entry for Prandin listed both the ’035 patent (the
+
+

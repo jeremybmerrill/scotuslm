@@ -1,0 +1,43 @@
+4
+
+RADLAX GATEWAY HOTEL, LLC v. AMALGAMATED BANK
+Opinion of the Court
+
+amount of such claims; and (II) that each holder of a
+claim of such class receive on account of such claim
+deferred cash payments totaling at least the allowed
+amount of such claim, of a value, as of the effective
+date of the plan, of at least the value of such holder’s
+interest in the estate’s interest in such property;
+“(ii) for the sale, subject to section 363(k) of this title, of any property that is subject to the liens securing such claims, free and clear of such liens, with such
+liens to attach to the proceeds of such sale, and the
+treatment of such liens on proceeds under clause (i) or
+(iii) of this subparagraph; or
+“(iii) for the realization by such holders of the
+indubitable equivalent of such claims.” 11 U. S. C.
+§1129(b)(2)(A).
+Under clause (i), the secured creditor retains its lien on
+the property and receives deferred cash payments. Under
+clause (ii), the property is sold free and clear of the lien,
+“subject to section 363(k),” and the creditor receives a lien
+on the proceeds of the sale. Section 363(k), in turn, provides that “unless the court for cause orders otherwise
+the holder of such claim may bid at such sale, and, if the
+holder of such claim purchases such property, such holder
+may offset such claim against the purchase price of such
+property”—i.e., the creditor may credit-bid at the sale, up
+to the amount of its claim.2 Finally, under clause (iii), the
+plan provides the secured creditor with the “indubitable
+equivalent” of its claim.
+——————
+2 The
+
+ability to credit-bid helps to protect a creditor against the risk
+that its collateral will be sold at a depressed price. It enables the
+creditor to purchase the collateral for what it considers the fair market
+price (up to the amount of its security interest) without committing
+additional cash to protect the loan. That right is particularly important
+for the Federal Government, which is frequently a secured creditor in
+bankruptcy and which often lacks appropriations authority to throw
+good money after bad in a cash-only bankruptcy auction.
+
+

@@ -1,0 +1,44 @@
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+sion, and look to the vacancy clause to determine whether
+vacancies in excess of that number have any effect on an
+entity’s authority to act.
+The Government argues that the vacancy clause estab
+lishes that a vacancy in the group has no effect. But the
+clause speaks to the effect of a vacancy in the Board on the
+authority to exercise the powers of the Board; it does not
+provide a delegee group authority to act when there is a
+vacancy in the group. It is true that any vacancy in the
+group is necessarily also a vacancy in the Board (although
+the converse is not true), and that a group exercises the
+(delegated) “powers of the Board.” But §3(b) explicitly
+distinguishes between a group and the Board throughout,
+and in light of that distinction we do not think “Board”
+should be read to include “group” when doing so would
+negate for all practical purposes the command that
+a delegation must be made to a group of at least three
+members.
+Some courts have nonetheless interpreted the quorum
+and vacancy provisions of §3(b) by analogizing to an appel
+late panel, which may decide a case even though only two
+of the three initially assigned judges remain on the panel.
+See Photo-Sonics, Inc. v. NLRB, 678 F. 2d 121, 122–123
+(CA9 1982). The governing statute provides that a case
+may be decided “by separate panels, each consisting of
+three judges,” 28 U. S. C. §46(b), but that a “majority of
+the number of judges authorized to constitute a court or
+panel thereof . . . shall constitute a quorum,” §46(d). We
+have interpreted that statute to “requir[e] the inclusion of
+at least three judges in the first instance,” but to allow a
+two-judge “quorum to proceed to judgment when one
+member of the panel dies or is disqualified.” Nguyen v.
+United States, 539 U. S. 69, 82 (2003). But §46, which
+addresses the assignment of particular cases to panels, is
+a world apart from this statute, which authorizes the
+standing delegation of all the Board’s powers to a small
+
+

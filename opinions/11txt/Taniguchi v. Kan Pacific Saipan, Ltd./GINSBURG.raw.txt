@@ -1,0 +1,315 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+GINSBURG, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–1472
+_________________
+
+KOUICHI TANIGUCHI, PETITIONER v. KAN PACIFIC
+SAIPAN, LTD., DBA MARIANAS RESORT AND SPA
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[May 21, 2012]
+
+JUSTICE GINSBURG, with whom JUSTICE BREYER and
+JUSTICE SOTOMAYOR join, dissenting.
+To be comprehended by the parties, the witnesses, and
+the court, expression in foreign languages must be trans­
+lated into English. Congress therefore provided, in 28
+U. S. C. §1920(6), that the prevailing party may recoup
+compensation paid to “interpreters.” The word “interpret­
+ers,” the Court emphasizes, commonly refers to translators
+of oral speech. Ante, at 5–6. But as the Court acknowl­
+edges, ante, at 7, and n. 2, “interpreters” is more than
+occasionally used to encompass those who translate writ­
+ten speech as well. See Webster’s Third New International
+Dictionary of the English Language 1182 (1976) (hereinafter Webster’s) (defining “interpreter” as “one that
+translates; esp: a person who translates orally for parties
+conversing in different tongues”); Black’s Law Dictionary
+895 (9th ed. 2009) (defining “interpreter” as a “person who
+translates, esp. orally, from one language to another”);
+Ballentine’s Law Dictionary 655 (3d ed. 1969) (defining
+“interpreter” as “[o]ne who interprets, particularly one
+who interprets words written or spoken in a foreign
+language”).
+In short, employing the word “interpreters” to include
+translators of written as well as oral speech, if not “the
+most common usage,” ante, at 8, is at least an “acceptable”
+
+
+2
+
+TANIGUCHI v. KAN PACIFIC SAIPAN, LTD.
+GINSBURG, J., dissenting
+
+usage, ibid. Moreover, the word “interpret” is generally
+understood to mean “to explain or tell the meaning of:
+translate into intelligible or familiar language or terms,”
+while “translate” commonly means “to turn into one’s own
+or another language.” Webster’s 1182, 2429. See also
+Random House Dictionary of the English Language 744,
+1505 (1973) (defining the transitive verb “interpret” as,
+inter alia, “to translate,” and “translate” as “to turn (some­
+thing written or spoken) from one language into another”).
+Notably, several federal district court decisions refer to
+translators of written documents as “interpreters.” E.g.,
+United States v. Prado-Cervantez, No. 11–40044–11, 2011
+WL 4691934, *3 (Kan., Oct. 6, 2011) (“Standby counsel
+should also be prepared to arrange for interpreters to
+interpret or translate documents when necessary for
+defendant.”); Mendoza v. Ring, No. 07–3114, 2008 WL
+2959848, *2 (CD Ill., July 30, 2008) (“The interpreter is
+also directed to translate filings by the plaintiff from
+Spanish to English. The original and translated versions
+will be docketed.”). So do a number of state statutes. E.g.,
+Cal. Govt. Code Ann. §26806(a) (West 2008) (“[T]he clerk
+of the court may employ as many foreign language inter­
+preters as may be necessary . . . to translate documents intended for filing in any civil or criminal action . . . .”).
+Most federal courts of appeals confronted with the ques­
+tion have held that costs may be awarded under §1920(6)
+for the translation of documents necessary to, or in prepa­
+ration for, litigation. Compare 633 F. 3d 1218, 1220–1222
+(CA9 2011); BDT Prods., Inc. v. Lexmark Int’l, Inc., 405
+F. 3d 415, 419 (CA6 2005); Slagenweit v. Slagenweit, 63
+F. 3d 719, 721 (CA8 1995) (per curiam); and Chore-Time
+Equip., Inc. v. Cumberland Corp., 713 F. 2d 774, 782 (CA
+Fed. 1983) (all holding that costs for document translation
+are covered by §1920(6)), with Extra Equipamentos E
+Exportação Ltda. v. Case Corp., 541 F. 3d 719, 727–728
+(CA7 2008) (costs for document translation are not covered
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+GINSBURG, J., dissenting
+
+by §1920(6)). See also In re Puerto Rico Elec. Power Auth.,
+687 F. 2d 501, 506, 510 (CA1 1982) (recognizing that
+costs of document translation may be reimbursed, with­
+out specifying the relevant subsection of §1920); Studieng­
+esellschaft Kohle mbH v. Eastman Kodak Co., 713 F. 2d
+128, 133 (CA5 1983) (allowing document translation
+costs under §1920(4)); Quy v. Air Am., Inc., 667 F. 2d 1059,
+1065 (CADC 1981) (allowing “translation costs” under
+§1920(6)).1
+In practice, federal trial courts have awarded document
+translation costs in cases spanning several decades. See,
+e.g., Raffold Process Corp. v. Castanea Paper Co., 25
+F. Supp. 593, 594 (WD Pa. 1938). Before the Court Inter­
+preters Act added §1920(6) to the taxation of costs statute
+in 1978, district courts awarded costs for document trans­
+lation under §1920(4), which allowed taxation of “[f ]ees for
+exemplification and copies of papers,” 28 U. S. C. §1920(4)
+(1976 ed.), or under §1920’s predecessor, 28 U. S. C. §830
+(1925 ed.). See, e.g., Bennett Chemical Co. v. Atlantic
+Commodities, Ltd., 24 F. R. D. 200, 204 (SDNY 1959)
+(§1920(4)); Raffold Process Corp., 25 F. Supp., at 594
+(§830). Pre-1978, district courts also awarded costs for
+oral translation of witness testimony. See, e.g., Kaiser
+Industries Corp. v. McLouth Steel Corp., 50 F. R. D. 5, 11
+(ED Mich. 1970). Nothing in the Court Interpreters Act, a
+measure intended to expand access to interpretation
+services, indicates a design to eliminate the availability of
+costs awards for document translation. See S. Rep. No.
+95–569, p. 4 (1977) (hereinafter S. Rep.) (“The commit­
+tee . . . feels the time has come to provide by statute for
+the provision of and access to qualified certified interpret­
+——————
+1 Translation
+
+costs, like other costs recoverable under §1920, may be
+“denied or limited” if they “were unreasonably incurred or unnecessary
+to the case.” 10 Moore’s Federal Practice §54.101[1][b], p. 54–158 (3d
+ed. 2012).
+
+
+4
+
+TANIGUCHI v. KAN PACIFIC SAIPAN, LTD.
+GINSBURG, J., dissenting
+
+ers, for a broader spectrum of people than the present law
+allows.”). Post-1978, rulings awarding document transla­
+tion costs under §1920(6) indicate the courts’ understand­
+ing both that the term “interpreter” can readily encompass
+oral and written translation, and that Congress did not
+otherwise instruct.2 I agree that context should guide the
+determination whether §1920(b) is most sensibly read to
+encompass persons who translate documents. See ante, at
+8–9. But the context key for me is the practice of federal
+courts both before and after §1920(6)’s enactment.
+The purpose of translation, after all, is to make relevant
+foreign-language communication accessible to the litigants
+and the court. See S. Rep., at 1 (The Court Interpreters
+Act is intended “to insure that all participants in our
+——————
+2 Currently,
+
+some federal district courts make the practice of allowing
+fees for translation of documents explicit in their local rules. See Rule
+54–4.8 (CD Cal. 2012) (allowing “[f]ees for translation of documents . . .
+reasonably necessary to the preparation of the case”); Rule 54.1 (Guam
+2011) (same); Rule 54.1(c)(7) (Idaho 2011) (allowing reasonable fee if
+the “document translated is necessarily filed or admitted in evidence”);
+Rule 54.7 (MD Pa. 2011) (same); Rule 54.1 (Ariz. 2012) (same); Rule
+54.1(b)(4)(e) (SD Cal. 2012) (same); Rule 54.1 (NJ 2011) (same); Rule
+54–5(d) (Nev. 2011) (same); Rule 54.2 (NM 2012) (allowing translator’s
+fee if the translated document is admitted into evidence); Rule
+54.1(c)(4) (SDNY 2012) (allowing reasonable fee if translated document
+“is used or received in evidence”); Rule 54.1(c)(4) (EDNY 2012) (same).
+See also Rule 54.03(F)(1)(c) (SC 2012) (allowing costs of certain docu­
+ment translations under §1920(4)); Rule 54.1(b)(5) (Del. 2011) (same);
+Rule 54(c)(3)(i) (Conn. 2011) (same); Misc. Order ¶7, Allowable Items
+for Taxation of Costs (ND Fla. 2007) (allowing “fee of a competent
+translator of a non-English document that is filed or admitted into
+evidence”); Taxation of Costs Guidelines (PR 2009) (allowing fees for
+translation of documents filed or admitted into evidence), available at
+http://www.prd.uscourts.gov/courtweb/pdf/taxation_of_costs_guidelines_
+2007_with_time_computation_amendments.pdf (All Internet materials
+as visited May 17, 2012, and included in Clerk of Court’s case file);
+Taxation of Costs (Mass. 2000) (allowing fees “for translation of docu­
+ments . . . reasonably necessary for trial preparation”), available at
+http://www.mad.uscourts.gov/resources/pdf/taxation.pdf.
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+GINSBURG, J., dissenting
+
+Federal courts can meaningfully take part.”). Documen­
+tary evidence in a foreign language, no less than oral
+statements, must be translated to equip the parties to
+present their case clearly and the court to decide the
+merits intelligently. See, e.g., United States v. Mosquera,
+816 F. Supp. 168, 175 (EDNY 1993) (“For a non-English
+speaking [party] to stand equal with others before the
+court requires translation [of relevant documents].”);
+Lockett v. Hellenic Sea Transports, Ltd., 60 F. R. D. 469,
+473 (ED Pa. 1973) (“To be understood by counsel for plain­
+tiffs and defendant, as well as for use at trial, the [ship’s]
+deck log had to be translated [from Greek] into the Eng­
+lish language.”).3 And it is not extraordinary that what
+documents say, more than what witnesses testify, may
+make or break a case.
+Distinguishing written from oral translation for cost­
+award purposes, moreover, is an endeavor all the more
+dubious, for, as the Court acknowledges, ante, at 13, some
+translation tasks do not fall neatly into one category or
+the other. An interpreter, for example, may be called upon
+to “sight translate” a written document, i.e., to convey a
+written foreign-language document’s content orally in
+English. R. González, V. Vásquez, & H. Mikkelson, Fun­
+damentals of Court Interpretation: Theory, Policy and
+Practice 401 (1991) (hereinafter González). In-court sight
+translation, Taniguchi concedes, counts as “interpreta­
+tion,” even though it does not involve translating verbal
+expression. Tr. of Oral Arg. 10. Yet an interpreter’s prep­
+aration for in-court sight translation by translating a
+——————
+3 Noteworthy, other paragraphs Congress placed in §1920 cover writ­
+ten documents. See 28 U. S. C. §1920(2) (2006 ed., Supp. IV) (“Fees
+for printed or electronically recorded transcripts”); §1920(3) (2006 ed.)
+(“Fees and disbursements for printing and witnesses”); §1920(4) (“Fees
+for exemplification and the costs of making copies of any [necessary]
+materials”). Nothing indicates that Congress intended paragraph (6),
+unlike paragraphs (2)–(4), to apply exclusively to oral communications.
+
+
+6
+
+TANIGUCHI v. KAN PACIFIC SAIPAN, LTD.
+GINSBURG, J., dissenting
+
+written document in advance, Taniguchi maintains, does
+not count as “interpretation.” Ibid. But if the interpreter
+then reads the prepared written translation aloud in
+court, that task, in Taniguchi’s view, can be charged as
+“interpretation,” id., at 11, even though the reading in­
+volves no translation of foreign-language expression—
+written or oral—at all.
+Similarly hard to categorize is the common court­
+interpreter task of listening to a recording in a foreign
+language, transcribing it, then translating it into English. See González 439. Although this task involves oral
+foreign-language communication, it does not, Taniguchi
+contends, qualify as “interpretation,” because it involves
+“the luxury of multiple playbacks of the tape and the
+leisure to consult extrinsic linguistic sources.” Reply Brief
+for Petitioner 9 (internal quotation marks omitted). But
+sight translation—which Taniguchi concedes may be
+charged as “interpretation”—may sometimes involve sim­
+ilarly careful linguistic analysis of a written document
+in advance of a court proceeding. Davis & Hewitt, Lessons
+in Administering Justice: What Judges Need to Know
+about the Requirements, Role, and Professional Responsi­
+bilities of the Court Interpreter, 1 Harv. Latino L. Rev.
+121, 131 (1994).
+Taniguchi warns that translation costs can be exorbi­
+tant and burdensome to police. Reply Brief 19–22; Tr. of
+Oral Arg. 20–21. The Court expresses a similar concern.
+Ante, at 13–14.4 Current practice in awarding translation
+——————
+4 The
+
+Court also observes that “[t]axable costs are limited to relatively
+minor, incidental expenses.” Ante, at 12. The tab for unquestionably
+allowable costs, however, may run high. See, e.g., In re Ricoh Co., Ltd.
+Patent Litigation, No. C 03–02289, 2012 WL 1499191, *6 (ND Cal., Apr.
+26, 2012) (awarding $440,000 in copying costs); Jones v. Halliburton
+Co., No. 4:07–cv–2719, 2011 WL 4479119, *2 (SD Tex., Sept. 26, 2011)
+(awarding $57,300 in fees for court-appointed expert). Translation
+costs, on the other hand, are not inevitably large. See Brief for Re­
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+GINSBURG, J., dissenting
+
+costs, however, has shown that district judges are up to
+the task of confining awards to translation services neces­
+sary to present or defeat a claim. See Eastman Kodak Co.,
+713 F. 2d, at 133 (district court should not award docu­
+ment translation costs “carte blanche,” but must deter­
+mine whether such costs were necessarily incurred). See
+also, e.g., Conn v. Zakharov, No. 1:09 CV 0760, 2010 WL
+2293133, *3 (ND Ohio, June 4, 2010) (denying translation
+costs where prevailing party did not demonstrate the costs
+were necessary); Maker’s Mark Distillery, Inc. v. Diageo
+North Am., Inc., No. 3:03–CV–93, 2010 WL 2651186, *3
+(WD Ky., June 30, 2010) (same); Competitive Technologies
+v. Fujitsu Ltd., No. C–02–1673, 2006 WL 6338914, *11
+(ND Cal., Aug. 23, 2006) (same); Arboireau v. Adidas
+Salomon AG, No. CV–01–105, 2002 WL 31466564, *6
+(Ore., June 14, 2002) (same); Oetiker v. Jurid Werke,
+GmbH, 104 F. R. D. 389, 393 (DC 1982) (same); Lockett, 60
+F. R. D., at 473 (awarding costs for “necessary” transla­
+tions); Kaiser, 50 F. R. D., at 11–12 (same); Bennett, 24
+F. R. D., at 204 (same); Raffold Process Corp., 25 F. Supp.,
+at 594 (same). Courts of appeals, in turn, are capable of
+reviewing such judgments for abuse of discretion.
+In short, §1920(6)’s prescription on “interpreters” is not
+so clear as to leave no room for interpretation. Given the
+purpose served by translation and the practice prevailing
+in district courts, supra, at 3, there is no good reason to
+exclude from taxable costs payments for placing written
+words within the grasp of parties, jurors, and judges. I
+would therefore affirm the judgment of the Ninth Circuit.
+
+—————— 
+
+spondent 26–27, n. 12 (listing, inter alia, 21 translation cost awards of
+
+less than $13,000, of which at least fourteen were less than $3,000).
+
+
+

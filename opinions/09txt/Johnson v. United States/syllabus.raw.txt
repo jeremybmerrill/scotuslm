@@ -1,0 +1,129 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+JOHNSON v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE ELEVENTH CIRCUIT
+No. 08–6925. Argued October 6, 2009—Decided March 2, 2010
+Petitioner Johnson pleaded guilty to possession of ammunition by a
+convicted felon. 18 U. S. C. §922(g)(1). The Government sought sen
+tencing under the Armed Career Criminal Act, which authorizes an
+enhanced penalty for a person who violates §922(g) and who “has
+three previous convictions” for “a violent felony,” §924(e)(1), defined
+as, inter alia, an offense that “has as an element the use . . . of physi
+cal force against the person of another,” §924(e)(2)(B)(i). Among the
+three prior felony convictions the Government proffered was John
+son’s 2003 Florida conviction for simple battery, which ordinarily is a
+first-degree misdemeanor, Fla. Stat. §784.03(1)(b), but was a felony
+conviction for Johnson because he had previously been convicted of
+another battery, Fla. Stat. §784.03(2). Under Florida law, a battery
+occurs when a person either “[a]ctually and intentionally touches or
+strikes another person against [his] will,” or “[i]ntentionally causes
+bodily harm to another person.” §784.03(1)(a). Nothing in the record
+permitted the District Court to conclude that Johnson’s 2003 convic
+tion rested upon the “strik[ing]” or “[i]ntentionally caus[ing] bodily
+harm” elements of the offense. Accordingly, his conviction was a
+predicate conviction for a “violent felony” under the Armed Career
+Criminal Act only if “[a]ctually and intentionally touch[ing]” another
+constitutes the use of “physical force” under §924(e)(2)(B)(i). Con
+cluding it does, the District Court enhanced Johnson’s sentence un
+der §924(e)(1), sentencing him to a term of 15 years and 5 months.
+The Eleventh Circuit affirmed.
+Held: The Florida felony offense of battery by “[a]ctually and intention
+ally touch[ing]” another person does not have “as an element the use
+. . . of physical force against the person of another,” §924(e)(2)(B)(i),
+and thus does not constitute a “violent felony” under §924(e)(1).
+
+
+2
+
+JOHNSON v. UNITED STATES
+Syllabus
+Pp. 3–12.
+(a) In interpreting the phrase “physical force” in §924(e)(2)(B)(i),
+the Court is not bound by the Florida Supreme Court’s conclusion in
+State v. Hearns, 961 So. 2d 211, 218, that, under Florida’s statutory
+equivalent to the Armed Career Criminal Act, Fla. Stat. §775.084,
+the offense of battery does not “involve the use . . . of physical force or
+violence against any individual,” Fla. Stat. §776.08. The meaning of
+“physical force” in §924(e)(2)(B)(i) is a question of federal law, not
+state law. The Court is bound, however, by the Florida Supreme
+Court’s interpretation of the elements of the state law offense, includ
+ing the Florida Supreme Court’s holding that §784.03(1)(a)’s element
+of “[a]ctually and intentionally touching” another person is satisfied
+by any intentional physical contact, no matter how slight. Pp. 3–4.
+(b) Because §924(e)(2)(B)(i) does not define “physical force,” the
+Court gives the phrase its ordinary meaning. Bailey v. United States,
+516 U. S. 137, 144–145. The adjective “physical” is clear. The noun
+“force,” however, has a number of meanings. Its ordinary meaning
+refers to the application of strength, power, and violence—in this con
+text, against another person. Pp. 4–5.
+(c) The Government suggests that “force” in §924(e)(2)(B)(i)’s defi
+nition of “violent felony” is a legal term of art describing one of the
+elements of the common-law crime of battery. At common law, that
+element was satisfied by even the slightest offensive touching. Al
+though a common-law term of art should be given its established
+common-law meaning, the Court does not ascribe to a statutory term
+a common-law meaning where that meaning does not fit. Here
+“physical force” is used in defining not the crime of battery, but
+rather the statutory category of “violent felony.” §924(e)(2)(B)(i). In
+that context, “physical force” means violent force—i.e., force capable
+of causing physical pain or injury to another person. Cf. Leocal v.
+Ashcroft, 543 U. S. 1, 11. Moreover, it is significant that the meaning
+the Government seeks to impute to the term “force” derives from the
+elements of a common-law misdemeanor. Nothing in the text of
+§924(e)(2)(B)(i) suggests that “force” in the definition of a “violent fel
+ony” should be regarded as a common-law term of art used to define
+the contours of a misdemeanor. Nor can any negative inference
+about the amount of “force” required by §924(e)(2)(B)(i) be drawn
+from §924(e)(2)(B)(ii) and §922(g)(8)(C)(ii). Pp. 5–9.
+(d) There is no force to the Government’s prediction that this deci
+sion will undermine its ability to enforce §922(g)(9)’s firearm disabil
+ity against a person previously convicted of a misdemeanor crime of
+domestic violence that has as an element the “use . . . of physical
+force,” §921(a)(33)(A)(ii). The Court interprets the phrase “physical
+force” only in the context of a statutory definition of “violent felony,”
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Syllabus
+and does not decide whether the same meaning applies in the context
+of defining the scope of misdemeanor offenses. Similarly misplaced is
+the Government’s assertion that it will now be more difficult to ob
+tain sentencing enhancements for individuals convicted under ge
+neric felony-battery statutes that cover both violent force and un
+wanted physical contact, and to remove an alien convicted of a
+nonviolent battery conviction under the statutory provision for an
+alien convicted of a “crime of domestic violence,” 8 U. S. C.
+§1227(a)(2)(E). See, e.g., Chambers v. United States, 555 U. S. ___,
+___; Shepard v. United States, 544 U. S. 13, 26. Pp. 9–11.
+(e) Before the District Court the Government disclaimed any reli
+ance upon the so-called “residual clause” of the definition of “violent
+felony” in §924(e)(2)(B)(ii), which covers an offense that “involves
+conduct that presents a serious potential risk of physical injury to
+another.” Accordingly, the Court declines to remand for considera
+tion whether Johnson’s 2003 battery conviction qualifies as a “violent
+felony” under that provision. Pp. 11–12.
+528 F. 3d 1318, reversed and remanded.
+SCALIA, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and STEVENS, KENNEDY, GINSBURG, BREYER, and SOTOMAYOR, JJ.,
+joined. ALITO, J., filed a dissenting opinion, in which THOMAS, J.,
+joined.
+
+

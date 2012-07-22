@@ -1,0 +1,42 @@
+18
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+SOTOMAYOR, J., dissenting
+
+consistency between Carmack and [the Carriage of Goods
+by Sea Act (COGSA)],” ante, at 17, reflects its fundamental
+misunderstanding of these statutes and the broader legal
+context in which the international shipping industry
+functions. As the mandatory default regime governing the
+relationship between an American receiving rail carrier
+and its direct contracting partner (here an overseas ocean
+carrier), Carmack permits the shippers who contract for a
+through bill of lading with the ocean carrier to receive the
+benefit of Carmack through that once-removed relation­
+ship. Such a legal regime is entirely consistent with
+COGSA and industry practice.
+As noted, the Court’s position as to Carmack rests on its
+erroneous belief that the “receiving carrier” must receive
+the goods at the point of the shipment’s origin. Ante, at
+12–15. Because Carmack provides that suit against the
+receiving rail carrier “may only be brought . . . in the
+judicial district in which the point of origin is located,” 49
+U. S. C. §11706(d)(2)(A)(i), and defines “judicial district” as
+only a federal or state court, §11706(d)(2)(B), the Court
+mistakenly concludes that were Carmack to apply to
+inland transportation of international shipments, “there
+would often be no venue in which to sue the receiving
+carrier” because that carrier would have received the
+goods in a foreign country where no federal or state court
+exists. Ante, at 14–15, 17. Contrary to the Court’s sugges­
+tion, however, the proper venue in which to sue a receiving
+carrier under Carmack is the location in which the first
+domestic rail carrier received the goods for domestic
+transportation. Supra, at 4–5, 9.
+Nor is it true that Carmack’s focus is on providing a
+single through bill of lading for an entire shipment. Ante,
+at 17. Carmack’s purpose in §11706 is to ensure that a
+single bill of lading, with a single protective liability re­
+gime, governs an entire shipment by rail carrier within
+
+

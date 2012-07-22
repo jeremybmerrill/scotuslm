@@ -1,0 +1,44 @@
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+THOMAS, J., dissenting
+
+already uses an “electronic voter registration database” in
+its “verification process.” Id., at 50.
+Washington nevertheless contends that its citizens must
+“have access to public records . . . to independently evalu
+ate whether the Secretary properly determined to certify
+or not to certify a referendum to the ballot.” Brief for
+Respondent Reed 41. “[W]ithout the access to signed
+petitions that the PRA provides,” Washington argues, its
+“citizens could not fulfill their role as the final judge of
+public business.” Ibid. (internal quotation marks omitted).
+But Washington’s Election Code already gives Washing
+ton voters access to referendum petition data. Under
+§29A.72.230, “[t]he verification and canvass of signatures
+on the [referendum] petition may be observed by persons
+representing the advocates and opponents of the proposed
+measure so long as they make no record of the names,
+addresses, or other information on the petitions or related
+records except upon” court order. Each side is entitled to
+at least two such observers, although the secretary may
+increase that number if, in his opinion, doing so would not
+“cause undue delay or disruption of the verification proc
+ess.” Ibid.
+Washington does not explain why this existing access,
+which petitioners do not challenge here, is insufficient to
+permit its citizens to oversee the verification process un
+der §29A.72.230, or to decide intelligently whether to
+pursue a court challenge under §29A.72.240. Moreover, if
+Washington had implemented the more narrowly tailored
+electronic referendum database discussed above, observers
+could see the secretary of state’s employees examine the
+data using exactly the same techniques they would use if
+the data were released to them under the PRA. Obtaining
+a digitized list to navigate on their own computer would
+not allow an observer to learn any additional information.
+Washington law also contains several other measures
+that preserve the integrity of the referendum process.
+
+

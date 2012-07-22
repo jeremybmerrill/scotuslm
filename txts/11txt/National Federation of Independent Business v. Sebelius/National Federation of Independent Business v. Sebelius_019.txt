@@ -1,0 +1,40 @@
+Cite as: 567 U. S. ____ (2012)
+
+13
+
+Opinion of ofOBERTS, C. J.
+Opinion R the Court
+
+ishment a “tax.” See Bailey v. Drexel Furniture Co., 259
+U. S. 20, 36–37 (1922); Department of Revenue of Mont. v.
+Kurth Ranch, 511 U. S. 767, 779 (1994).
+The Anti-Injunction Act and the Affordable Care Act,
+however, are creatures of Congress’s own creation. How
+they relate to each other is up to Congress, and the best
+evidence of Congress’s intent is the statutory text. We
+have thus applied the Anti-Injunction Act to statutorily
+described “taxes” even where that label was inaccurate.
+See Bailey v. George, 259 U. S. 16 (1922) (Anti-Injunction
+Act applies to “Child Labor Tax” struck down as exceeding
+Congress’s taxing power in Drexel Furniture).
+Congress can, of course, describe something as a penalty
+but direct that it nonetheless be treated as a tax for purposes of the Anti-Injunction Act. For example, 26 U. S. C.
+§6671(a) provides that “any reference in this title to ‘tax’
+imposed by this title shall be deemed also to refer to the
+penalties and liabilities provided by” subchapter 68B of
+the Internal Revenue Code. Penalties in subchapter 68B
+are thus treated as taxes under Title 26, which includes
+the Anti-Injunction Act. The individual mandate, however, is not in subchapter 68B of the Code. Nor does any
+other provision state that references to taxes in Title 26
+shall also be “deemed” to apply to the individual mandate.
+Amicus attempts to show that Congress did render the
+Anti-Injunction Act applicable to the individual mandate,
+albeit by a more circuitous route. Section 5000A(g)(1) specifies that the penalty for not complying with the mandate “shall be assessed and collected in the same manner
+as an assessable penalty under subchapter B of chapter
+68.” Assessable penalties in subchapter 68B, in turn,
+“shall be assessed and collected in the same manner as
+taxes.” §6671(a). According to amicus, by directing that
+the penalty be “assessed and collected in the same manner as taxes,” §5000A(g)(1) made the Anti-Injunction Act
+applicable to this penalty.
+
+

@@ -1,0 +1,49 @@
+Cite as: 563 U. S. ____ (2011) 
+
+
+13
+
+Opinion of the Court 
+
+
+B
+
+Pinholster’s contention that our holding renders
+§2254(e)(2) superfluous is incorrect. Section 2254(e)(2)
+imposes a limitation on the discretion of federal habeas
+courts to take new evidence in an evidentiary hearing.
+See Landrigan, supra, at 473 (noting that district courts,
+under AEDPA, generally retain the discretion to grant an
+evidentiary hearing). Like §2254(d)(1), it carries out
+“AEDPA’s goal of promoting comity, finality, and federal­
+ism by giving state courts the first opportunity to review
+[a] claim, and to correct any constitutional violation in the
+first instance.” Jimenez v. Quarterman, 555 U. S. 113, ___
+(2009) (slip op., at 8) (internal quotation marks omitted).8
+Section 2254(e)(2) continues to have force where
+§2254(d)(1) does not bar federal habeas relief. For exam­
+ple, not all federal habeas claims by state prisoners fall
+within the scope of §2254(d), which applies only to claims
+“adjudicated on the merits in State court proceedings.” At
+a minimum, therefore, §2254(e)(2) still restricts the discre­
+tion of federal habeas courts to consider new evidence
+when deciding claims that were not adjudicated on the
+merits in state court. See, e.g., Michael Williams, 529
+U. S., at 427–429.9
+Although state prisoners may sometimes submit new
+——————
+from §2254(d)(1) just as likely reflects Congress’ belief that such lan­
+guage was unnecessary as it does anything else.
+8 JUSTICE SOTOMAYOR’s argument that §2254(d)(1) must be read in a
+way that “accommodates” §2254(e)(2), see post, at 9, rests on a funda­
+mental misunderstanding of §2254(e)(2). The focus of that section is
+not on “preserving the opportunity” for hearings, post, at 9, but rather
+on limiting the discretion of federal district courts in holding hearings.
+We see no need in this case to address the proper application of
+§2254(e)(2). See n. 20, infra. But see post, at 12 (suggesting that we
+have given §2254(e)(2) “an unnaturally cramped reading”).
+9 In all events, of course, the requirements of §§2254(a) through (c)
+remain significant limitations on the power of a federal court to grant
+habeas relief.
+
+

@@ -1,0 +1,44 @@
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+that defendants cannot escape the reach of these statutes by deliber
+ately shielding themselves from clear evidence of critical facts that
+are strongly suggested by the circumstances. The traditional ration
+ale for the doctrine is that defendants who behave in this manner are
+just as culpable as those who have actual knowledge. This Court en
+dorsed a concept similar to willful blindness over a century ago in
+Spurr v. United States, 174 U. S. 728, 735, and every Federal Court
+of Appeals but one has fully embraced willful blindness. Given the
+doctrine's long history and wide acceptance in the Federal Judiciary,
+there is no reason why the doctrine should not apply in civil lawsuits
+for induced patent infringement under §271(b). Pp. 10–13.
+(b) Although the Courts of Appeals articulate the doctrine of will
+ful blindness in slightly different ways, all agree on two basic re
+quirements. First, the defendant must subjectively believe that there
+is a high probability that a fact exists. Second, the defendant must
+take deliberate actions to avoid learning of that fact. These require
+ments give willful blindness an appropriately limited scope that sur
+passes recklessness and negligence. Pp. 13–14.
+(c) Although the Federal Circuit’s test departs from the proper
+willful blindness standard in important respects, the evidence when
+viewed in the light most favorable to the verdict for SEB was suffi
+cient under the correct standard. Pentalpha believed that SEB’s
+fryer embodied advanced technology that would be valuable in the
+U. S. market as evidenced by its decision to copy all but the fryer’s
+cosmetic features. Also revealing is Pentalpha’s decision to copy an
+overseas model of SEB’s fryer, aware that it would not bear U. S.
+patent markings. Even more telling is Pentalpha’s decision not to in
+form its attorney that the product to be evaluated was simply a
+knockoff of SEB’s fryer. Taken together, the evidence was more than
+sufficient for a jury to find that Pentalpha subjectively believed there
+was a high probability that SEB’s fryer was patented and took delib
+erate steps to avoid knowing that fact, and that it therefore willfully
+blinded itself to the infringing nature of Sunbeam’s sales. Pp. 14–16.
+594 F. 3d 1360, affirmed.
+ALITO, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and SCALIA, THOMAS, GINSBURG, BREYER, SOTOMAYOR, and KAGAN, JJ.,
+joined. KENNEDY, J., filed a dissenting opinion.
+
+

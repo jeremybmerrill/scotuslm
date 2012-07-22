@@ -1,0 +1,49 @@
+2
+
+HOLLAND v. FLORIDA
+SCALIA, J., dissenting
+
+But §2244(d) does much more than that, establishing a
+detailed scheme regarding the filing deadline that ad
+dresses an array of contingencies. In an ordinary case, the
+clock starts when the state-court judgment becomes final
+on direct review. §2244(d)(1)(A).1 But the statute delays
+the start date—thus effectively tolling the limitations
+period—in cases where (1) state action unlawfully im
+peded the prisoner from filing his habeas application, (2)
+the prisoner asserts a constitutional right newly recog
+nized by this Court and made retroactive to collateral
+cases, or (3) the factual predicate for the prisoner’s claim
+could not previously have been discovered through due
+diligence. §2244(d)(1)(B)–(D). It also expressly tolls the
+limitations period during the pendency of a properly filed
+application for state collateral relief. §2244(d)(2). Con
+gress, in short, has considered and accounted for specific
+circumstances that in its view excuse an applicant’s delay.
+The question, therefore, is not whether §2244(d)’s time
+——————
+1 Title
+
+28 U. S. C. §2244(d) provides:
+“(1) A 1-year period of limitation shall apply to an application for a
+writ of habeas corpus by a person in custody pursuant to the judgment
+of a State court. The limitation period shall run from the latest of—
+“(A) the date on which the judgment became final by the conclusion
+of direct review or the expiration of the time for seeking such review;
+“(B) the date on which the impediment to filing an application
+created by State action in violation of the Constitution or laws of the
+United States is removed, if the applicant was prevented from filing by
+such State action;
+“(C) the date on which the constitutional right asserted was initially
+recognized by the Supreme Court, if the right has been newly recog
+nized by the Supreme Court and made retroactively applicable to cases
+on collateral review; or
+“(D) the date on which the factual predicate of the claim or claims
+presented could have been discovered through the exercise of due
+diligence.
+“(2) The time during which a properly filed application for State
+post-conviction or other collateral review with respect to the pertinent
+judgment or claim is pending shall not be counted toward any period of
+limitation under this subsection.”
+
+

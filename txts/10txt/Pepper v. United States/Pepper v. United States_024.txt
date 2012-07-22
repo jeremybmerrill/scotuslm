@@ -1,0 +1,47 @@
+20
+
+PEPPER v. UNITED STATES
+Opinion of the Court
+
+to invalidate §3742(g)(2).12
+Amicus contends that any constitutional infirmity in
+§3742(g)(2) can be remedied by invalidating §3742(j)(1)(B)
+rather than §3742(g)(2). Brief for Amicus Curiae in Sup
+port of Judgment Below 21–22. Section 3742(j)(1)(B)
+provides that a “ground of departure” is “permissible” for
+purposes of §3742(g)(2)(B) only if it is, inter alia, “author
+ized under section 3553(b).” In Booker, we noted that
+“statutory cross-references” to the SRA provisions we
+invalidated were also constitutionally infirm. 543 U. S., at
+259. Because §3742(j)(1)(B) incorporates a cross-reference
+to §3553(b)(1), one of the provisions we invalidated in
+Booker, amicus suggests that invalidating §3742(j)(1)(B)
+would cure any constitutional defect in §3742(g)(2)(B). As
+the Government explains, however, even if §3742(j)(1)(B)
+were invalidated and a district court could depart on any
+ground at an initial sentencing, the district court would
+not be able to depart on any new ground at resentencing
+so long as §3742(g)(2) remains in force. Because amicus’
+proposed solution would still result in the Guidelines
+being effectively mandatory at resentencing in an entire
+set of cases, it fails to remedy the fundamental constitu
+tional defect of §3742(g)(2).
+——————
+12 Amicus
+
+National Association of Criminal Defense Lawyers
+(NACDL) argues that, because §3742(g)(2)(B) permits a non-Guidelines
+sentence only with respect to certain “departures,” that provision
+“appears to preclude sentencing courts on remand from granting any
+and all variances under Section 3553(a).” Brief for NACDL as Amicus
+Curiae 11 (emphasis added). In Irizarry v. United States, 553 U. S. 708
+(2008), we held that a “ ‘[d]eparture’ is a term of art under the Guide
+lines and refers only to non-Guidelines sentences imposed under the
+framework set out in the Guidelines”; in contrast, a “variance” refers to
+a non-Guidelines sentence outside the Guidelines framework. Id., at
+714. Irizarry’s holding construed the term “departure” in Rule 32(h) of
+the Federal Rules of Criminal Procedure. Because we conclude that
+§3742(g)(2) is constitutionally infirm and must be invalidated, we need
+not decide whether its reference to “departure[s]” includes variances.
+
+

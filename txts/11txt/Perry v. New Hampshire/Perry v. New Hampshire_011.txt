@@ -1,0 +1,36 @@
+Cite as: 565 U. S. ____ (2012)
+
+7
+
+Opinion of the Court
+
+Apart from these guarantees, we have recognized, state
+and federal statutes and rules ordinarily govern the admissibility of evidence, and juries are assigned the task of
+determining the reliability of the evidence presented at
+trial. See Kansas v. Ventris, 556 U. S. 586, 594, n. (2009)
+(“Our legal system . . . is built on the premise that it is the
+province of the jury to weigh the credibility of competing
+witnesses.”). Only when evidence “is so extremely unfair
+that its admission violates fundamental conceptions of
+justice,” Dowling v. United States, 493 U. S. 342, 352
+(1990) (internal quotation marks omitted), have we imposed a constraint tied to the Due Process Clause. See,
+e.g., Napue v. Illinois, 360 U. S. 264, 269 (1959) (Due
+process prohibits the State’s “knowin[g] use [of] false
+evidence,” because such use violates “any concept of ordered liberty.”).
+Contending that the Due Process Clause is implicated
+here, Perry relies on a series of decisions involving policearranged identification procedures. In Stovall v. Denno,
+388 U. S. 293 (1967), first of those decisions, a witness
+identified the defendant as her assailant after police officers brought the defendant to the witness’ hospital room.
+Id., at 295. At the time the witness made the identification, the defendant—the only African-American in the
+room—was handcuffed and surrounded by police officers.
+Ibid. Although the police-arranged showup was undeniably suggestive, the Court held that no due process violation occurred. Id., at 302. Crucial to the Court’s decision
+was the procedure’s necessity: The witness was the only
+person who could identify or exonerate the defendant; the
+witness could not leave her hospital room; and it was
+uncertain whether she would live to identify the defendant
+in more neutral circumstances. Ibid.
+A year later, in Simmons v. United States, 390 U. S. 377
+(1968), the Court addressed a due process challenge to
+police use of a photographic array. When a witness identi-
+
+

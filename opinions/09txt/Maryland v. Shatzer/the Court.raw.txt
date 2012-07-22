@@ -1,0 +1,795 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–680
+_________________
+
+MARYLAND, PETITIONER v. MICHAEL BLAINE
+
+SHATZER, SR. 
+
+ON WRIT OF CERTIORARI TO THE COURT OF APPEALS OF
+
+MARYLAND
+
+[February 24, 2010] 
+
+
+JUSTICE SCALIA delivered the opinion of the Court.
+We consider whether a break in custody ends the pre­
+sumption of involuntariness established in Edwards v.
+Arizona, 451 U. S. 477 (1981).
+I
+In August 2003, a social worker assigned to the Child
+Advocacy Center in the Criminal Investigation Division of
+the Hagerstown Police Department referred to the de­
+partment allegations that respondent Michael Shatzer,
+Sr., had sexually abused his 3-year-old son. At that time,
+Shatzer was incarcerated at the Maryland Correctional
+Institution-Hagerstown, serving a sentence for an unre­
+lated child-sexual-abuse offense. Detective Shane Blank­
+enship was assigned to the investigation and interviewed
+Shatzer at the correctional institution on August 7, 2003.
+Before asking any questions, Blankenship reviewed
+Shatzer’s Miranda rights with him, and obtained a writ­
+ten waiver of those rights. When Blankenship explained
+that he was there to question Shatzer about sexually
+abusing his son, Shatzer expressed confusion—he had
+thought Blankenship was an attorney there to discuss the
+
+
+2
+
+MARYLAND v. SHATZER
+Opinion of the Court
+
+prior crime for which he was incarcerated. Blankenship
+clarified the purpose of his visit, and Shatzer declined to
+speak without an attorney. Accordingly, Blankenship
+ended the interview, and Shatzer was released back into
+the general prison population.
+Shortly thereafter,
+Blankenship closed the investigation.
+Two years and six months later, the same social worker
+referred more specific allegations to the department about
+the same incident involving Shatzer. Detective Paul
+Hoover, from the same division, was assigned to the inves­
+tigation. He and the social worker interviewed the victim,
+then eight years old, who described the incident in more
+detail. With this new information in hand, on March 2,
+2006, they went to the Roxbury Correctional Institute, to
+which Shatzer had since been transferred, and inter­
+viewed Shatzer in a maintenance room outfitted with a
+desk and three chairs. Hoover explained that he wanted
+to ask Shatzer about the alleged incident involving
+Shatzer’s son. Shatzer was surprised because he thought
+that the investigation had been closed, but Hoover ex­
+plained they had opened a new file. Hoover then read
+Shatzer his Miranda rights and obtained a written waiver
+on a standard department form.
+Hoover interrogated Shatzer about the incident for
+approximately 30 minutes. Shatzer denied ordering his
+son to perform fellatio on him, but admitted to masturbat­
+ing in front of his son from a distance of less than three
+feet. Before the interview ended, Shatzer agreed to Hoo­
+ver’s request that he submit to a polygraph examination.
+At no point during the interrogation did Shatzer request
+to speak with an attorney or refer to his prior refusal to
+answer questions without one.
+Five days later, on March 7, 2006, Hoover and another
+detective met with Shatzer at the correctional facility to
+administer the polygraph examination. After reading
+Shatzer his Miranda rights and obtaining a written
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+waiver, the other detective administered the test and
+concluded that Shatzer had failed. When the detectives
+then questioned Shatzer, he became upset, started to cry,
+and incriminated himself by saying, “ ‘I didn’t force him. I
+didn’t force him.’ ” 405 Md. 585, 590, 954 A. 2d 1118, 1121
+(2008). After making this inculpatory statement, Shatzer
+requested an attorney, and Hoover promptly ended the
+interrogation.
+The State’s Attorney for Washington County charged
+Shatzer with second-degree sexual offense, sexual child
+abuse, second-degree assault, and contributing to condi­
+tions rendering a child in need of assistance. Shatzer
+moved to suppress his March 2006 statements pursuant to
+Edwards. The trial court held a suppression hearing and
+later denied Shatzer’s motion. The Edwards protections
+did not apply, it reasoned, because Shatzer had experi­
+enced a break in custody for Miranda purposes between
+the 2003 and 2006 interrogations. No. 21–K–06–37799
+(Cir. Ct. Washington Cty., Md., Sept. 14, 2006), App. 55.
+Shatzer pleaded not guilty, waived his right to a jury trial,
+and proceeded to a bench trial based on an agreed state­
+ment of facts. In accordance with the agreement, the
+State described the interview with the victim and
+Shatzer’s 2006 statements to the detectives. Based on the
+proffered testimony of the victim and the “admission of the
+defendant as to the act of masturbation,” the trial court
+found Shatzer guilty of sexual child abuse of his son.1 No.
+21–K–06–37799 (Cir. Ct. Washington Cty., Md., Sept. 21,
+2006), id., at 70, 79.
+Over the dissent of two judges, the Court of Appeals of
+Maryland reversed and remanded. The court held that
+“the passage of time alone is insufficient to [end] the pro­
+——————
+1 The State filed a nolle prosequi to the second-degree sexual offense
+charge, and consented to dismissal of the misdemeanor charges as
+barred by the statute of limitations.
+
+
+4
+
+MARYLAND v. SHATZER
+Opinion of the Court
+
+tections afforded by Edwards,” and that, assuming, ar
+guendo, a break-in-custody exception to Edwards existed,
+Shatzer’s release back into the general prison population
+between interrogations did not constitute a break in cus­
+tody. 405 Md., at 606–607, 954 A. 2d, at 1131. We
+granted certiorari, 555 U. S. ___ (2009).
+II
+The Fifth Amendment, which applies to the States by
+virtue of the Fourteenth Amendment, Malloy v. Hogan,
+378 U. S. 1, 6 (1964), provides that “[n]o person . . . shall
+be compelled in any criminal case to be a witness against
+himself.” U. S. Const., Amdt. 5. In Miranda v. Arizona,
+384 U. S. 436 (1966), the Court adopted a set of prophylac­
+tic measures to protect a suspect’s Fifth Amendment right
+from the “inherently compelling pressures” of custodial
+interrogation. Id., at 467. The Court observed that “in­
+communicado interrogation” in an “unfamiliar,” “police­
+dominated atmosphere,” id., at 456–457, involves psycho­
+logical pressures “which work to undermine the individ­
+ual’s will to resist and to compel him to speak where he
+would not otherwise do so freely,” id., at 467. Conse­
+quently, it reasoned, “[u]nless adequate protective devices
+are employed to dispel the compulsion inherent in custo­
+dial surroundings, no statement obtained from the defen­
+dant can truly be the product of his free choice.” Id., at
+458.
+To counteract the coercive pressure, Miranda an­
+nounced that police officers must warn a suspect prior to
+questioning that he has a right to remain silent, and a
+right to the presence of an attorney. Id., at 444. After the
+warnings are given, if the suspect indicates that he wishes
+to remain silent, the interrogation must cease. Id., at
+473–474. Similarly, if the suspect states that he wants an
+attorney, the interrogation must cease until an attorney is
+present. Id., at 474. Critically, however, a suspect can
+
+
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+waive these rights. Id., at 475. To establish a valid
+waiver, the State must show that the waiver was knowing,
+intelligent, and voluntary under the “high standar[d] of
+proof for the waiver of constitutional rights [set forth in]
+Johnson v. Zerbst, 304 U. S. 458 (1938).” Id., at 475.
+In Edwards, the Court determined that Zerbst’s tradi­
+tional standard for waiver was not sufficient to protect a
+suspect’s right to have counsel present at a subsequent
+interrogation if he had previously requested counsel;
+“additional safeguards” were necessary. 451 U. S., at 484.
+The Court therefore superimposed a “second layer of
+prophylaxis,” McNeil v. Wisconsin, 501 U. S. 171, 176
+(1991). Edwards held:
+“[W]hen an accused has invoked his right to have
+counsel present during custodial interrogation, a valid
+waiver of that right cannot be established by showing
+only that he responded to further police-initiated cus­
+todial interrogation even if he has been advised of his
+rights. . . . [He] is not subject to further interrogation
+by the authorities until counsel has been made avail­
+able to him, unless the accused himself initiates fur­
+ther communication, exchanges, or conversations with
+the police.” 451 U. S., at 484–485.
+The rationale of Edwards is that once a suspect indicates
+that “he is not capable of undergoing [custodial] question­
+ing without advice of counsel,” “any subsequent waiver
+that has come at the authorities’ behest, and not at the
+suspect’s own instigation, is itself the product of the ‘in­
+herently compelling pressures’ and not the purely volun­
+tary choice of the suspect.” Arizona v. Roberson, 486 U. S.
+675, 681 (1988). Under this rule, a voluntary Miranda
+waiver is sufficient at the time of an initial attempted
+interrogation to protect a suspect’s right to have counsel
+present, but it is not sufficient at the time of subsequent
+attempts if the suspect initially requested the presence of
+
+
+6
+
+MARYLAND v. SHATZER
+Opinion of the Court
+
+counsel. The implicit assumption, of course, is that the
+subsequent requests for interrogation pose a significantly
+greater risk of coercion. That increased risk results not
+only from the police’s persistence in trying to get the sus­
+pect to talk, but also from the continued pressure that
+begins when the individual is taken into custody as a
+suspect and sought to be interrogated—pressure likely to
+“increase as custody is prolonged,” Minnick v. Mississippi,
+498 U. S. 146, 153 (1990). The Edwards presumption of
+involuntariness ensures that police will not take advan­
+tage of the mounting coercive pressures of “prolonged
+police custody,” Roberson, 486 U. S., at 686, by repeatedly
+attempting to question a suspect who previously requested
+counsel until the suspect is “badgered into submission,”
+id., at 690 (KENNEDY, J., dissenting).
+We have frequently emphasized that the Edwards rule
+is not a constitutional mandate, but judicially prescribed
+prophylaxis. See, e.g., Montejo v. Louisiana, 556 U. S. ___,
+___ (2009) (slip op., at 7–8); Michigan v. Harvey, 494 U. S.
+344, 349 (1990); Solem v. Stumes, 465 U. S. 638, 644, n. 4
+(1984). Because Edwards is “our rule, not a constitutional
+command,” “it is our obligation to justify its expansion.”
+Roberson, supra, at 688 (KENNEDY, J., dissenting). Lower
+courts have uniformly held that a break in custody ends
+the Edwards presumption, see, e.g., People v. Storm, 28
+Cal. 4th 1007, 1023–1024, and n. 6, 52 P. 3d 52, 61–62,
+and n. 6 (2002) (collecting state and federal cases), but we
+have previously addressed the issue only in dicta, see
+McNeil, supra, at 177 (Edwards applies “assuming there
+has been no break in custody”).
+A judicially crafted rule is “justified only by reference to
+its prophylactic purpose,” Davis v. United States, 512 U. S.
+452, 458 (1994) (internal quotation marks omitted), and
+applies only where its benefits outweigh its costs, Montejo,
+supra, at ___ (slip op., at 14). We begin with the benefits.
+Edwards’ presumption of involuntariness has the inciden­
+
+
+Cite as: 559 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+tal effect of “conserv[ing] judicial resources which would
+otherwise be expended in making difficult determinations
+of voluntariness.” Minnick, supra, at 151. Its fundamen­
+tal purpose, however, is to “[p]reserv[e] the integrity of an
+accused’s choice to communicate with police only through
+counsel,” Patterson v. Illinois, 487 U. S. 285, 291 (1988), by
+“prevent[ing] police from badgering a defendant into waiv­
+ing his previously asserted Miranda rights,” Harvey,
+supra, at 350. Thus, the benefits of the rule are measured
+by the number of coerced confessions it suppresses that
+otherwise would have been admitted. See Montejo, supra,
+at ___ (slip op., at 14).
+It is easy to believe that a suspect may be coerced or
+badgered into abandoning his earlier refusal to be ques­
+tioned without counsel in the paradigm Edwards case.
+That is a case in which the suspect has been arrested for a
+particular crime and is held in uninterrupted pretrial
+custody while that crime is being actively investigated.
+After the initial interrogation, and up to and including the
+second one, he remains cut off from his normal life and
+companions, “thrust into” and isolated in an “unfamiliar,”
+“police-dominated atmosphere,” Miranda, 384 U. S., at
+456–457, where his captors “appear to control [his] fate,”
+Illinois v. Perkins, 496 U. S. 292, 297 (1990). That was the
+situation confronted by the suspects in Edwards,
+Roberson, and Minnick, the three cases in which we have
+held the Edwards rule applicable. Edwards was arrested
+pursuant to a warrant and taken to a police station, where
+he was interrogated until he requested counsel. Edwards,
+451 U. S., at 478–479. The officer ended the interrogation
+and took him to the county jail,2 but at 9:15 the next
+——————
+2 Jail
+
+is a “local government’s detention center where persons await­
+ing trial or those convicted of misdemeanors are confined.” Black’s Law
+Dictionary 910 (9th ed. 2009). Prison, by contrast, is a “state or federal
+facility of confinement for convicted criminals, esp. felons.” Id., at 1314.
+
+
+8
+
+MARYLAND v. SHATZER
+Opinion of the Court
+
+morning, two of the officer’s colleagues reinterrogated
+Edwards at the jail. Id., at 479. Roberson was arrested
+“at the scene of a just-completed burglary” and interro­
+gated there until he requested a lawyer. Roberson, 486
+U. S., at 678. A different officer interrogated him three
+days later while he “was still in custody pursuant to the
+arrest.” Ibid. Minnick was arrested by local police and
+taken to the San Diego jail, where two FBI agents interro­
+gated him the next morning until he requested counsel.
+Minnick, 498 U. S., at 148–149. Two days later a Missis­
+sippi Deputy Sheriff reinterrogated him at the jail. Id., at
+149. None of these suspects regained a sense of control or
+normalcy after they were initially taken into custody for
+the crime under investigation.
+When, unlike what happened in these three cases, a
+suspect has been released from his pretrial custody and
+has returned to his normal life for some time before the
+later attempted interrogation, there is little reason to
+think that his change of heart regarding interrogation
+without counsel has been coerced. He has no longer been
+isolated. He has likely been able to seek advice from an
+attorney, family members, and friends.3 And he knows
+from his earlier experience that he need only demand
+counsel to bring the interrogation to a halt; and that in­
+vestigative custody does not last indefinitely. In these
+circumstances, it is far fetched to think that a police offi­
+cer’s asking the suspect whether he would like to waive
+his Miranda rights will any more “wear down the ac­
+——————
+3 JUSTICE
+
+STEVENS points out, post, at 7 (opinion concurring in judg­
+ment), that in Minnick, actual pre-reinterrogation consultation with an
+attorney during continued custody did not suffice to avoid application of
+Edwards. That does not mean that the ability to consult freely with
+attorneys and others does not reduce the level of coercion at all, or that
+it is “only questionably relevant,” post, at 7, to whether termination of
+custody reduces the coercive pressure that is the basis for Edwards’
+super-prophylactic rule.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+cused,” Smith v. Illinois, 469 U. S. 91, 98 (1984) (per cu
+riam), than did the first such request at the original at­
+tempted interrogation—which is of course not deemed
+coercive. His change of heart is less likely attributable to
+“badgering” than it is to the fact that further deliberation
+in familiar surroundings has caused him to believe
+(rightly or wrongly) that cooperating with the investiga­
+tion is in his interest. Uncritical extension of Edwards to
+this situation would not significantly increase the number
+of genuinely coerced confessions excluded. The “justifica­
+tion for a conclusive presumption disappears when appli­
+cation of the presumption will not reach the correct result
+most of the time.” Coleman v. Thompson, 501 U. S. 722,
+737 (1991).
+At the same time that extending the Edwards rule
+yields diminished benefits, extending the rule also in­
+creases its costs: the in-fact voluntary confessions it ex­
+cludes from trial, and the voluntary confessions it deters
+law enforcement officers from even trying to obtain. Vol­
+untary confessions are not merely “a proper element in
+law enforcement,” Miranda, supra, at 478, they are an
+“unmitigated good,” McNeil, 501 U. S., at 181, “ ‘essential
+to society’s compelling interest in finding, convicting, and
+punishing those who violate the law,’ ” ibid. (quoting
+Moran v. Burbine, 475 U. S. 412, 426 (1986)).
+The only logical endpoint of Edwards disability is ter­
+mination of Miranda custody and any of its lingering
+effects. Without that limitation—and barring some purely
+arbitrary time-limit4—every Edwards prohibition of cus­
+todial interrogation of a particular suspect would be eter­
+——————
+4 The
+
+State’s alternative argument in the present case is that the
+substantial lapse in time between the 2003 and 2006 attempts at
+interrogation independently ended the Edwards presumption. Our
+disposition makes it unnecessary to address that argument.
+
+
+10
+
+MARYLAND v. SHATZER
+Opinion of the Court
+
+nal. The prohibition applies, of course, when the subse­
+quent interrogation pertains to a different crime,
+Roberson, supra, when it is conducted by a different law
+enforcement authority, Minnick, 498 U. S. 146, and even
+when the suspect has met with an attorney after the first
+interrogation, ibid. And it not only prevents questioning
+ex ante; it would render invalid ex post, confessions invited
+and obtained from suspects who (unbeknownst to the
+interrogators) have acquired Edwards immunity previ­
+ously in connection with any offense in any jurisdiction.5
+In a country that harbors a large number of repeat offend­
+ers,6 this consequence is disastrous.
+We conclude that such an extension of Edwards is not
+justified; we have opened its “protective umbrella,” Solem,
+465 U. S., at 644, n. 4, far enough. The protections offered
+by Miranda, which we have deemed sufficient to ensure
+that the police respect the suspect’s desire to have an
+attorney present the first time police interrogate him,
+adequately ensure that result when a suspect who initially
+requested counsel is reinterrogated after a break in cus­
+——————
+5 This assumes that Roberson’s extension of Edwards to subsequent
+interrogation for a different crime, and Minnick’s extension of Edwards
+to subsequent interrogation by a different law enforcement agency
+would apply even when the place of custody and the identity of the
+custodial agency are not the same (as they were in Roberson and
+Minnick) as those of the original interrogation. That assumption would
+seem reasonable if the Edwards-suspending effect of a termination of
+custody is rejected. Reinterrogation in different custody or by a differ­
+ent interrogating agency would seem, if anything, less likely than
+termination of custody to reduce coercive pressures. At the original
+site, and with respect to the original interrogating agency, the suspect
+has already experienced cessation of interrogation when he demands
+counsel—which he may have no reason to expect elsewhere.
+6 According to a recent study, 67.5% of prisoners released from 15
+States in 1994 were rearrested within three years. See Dept. of Justice,
+Bureau of Justice Statistics, Special Report, Recidivism of Prisoners
+Released in 1994 (NCJ 193427, 2002).
+
+
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+tody that is of sufficient duration to dissipate its coercive
+effects.
+If Shatzer’s return to the general prison population
+qualified as a break in custody (a question we address in
+Part III, infra), there is no doubt that it lasted long
+enough (2½ years) to meet that durational requirement.
+But what about a break that has lasted only one year? Or
+only one week? It is impractical to leave the answer to
+that question for clarification in future case-by-case adju­
+dication; law enforcement officers need to know, with
+certainty and beforehand, when renewed interrogation is
+lawful. And while it is certainly unusual for this Court to
+set forth precise time limits governing police action, it is
+not unheard-of. In County of Riverside v. McLaughlin,
+500 U. S. 44 (1991), we specified 48 hours as the time
+within which the police must comply with the requirement
+of Gerstein v. Pugh, 420 U. S. 103 (1975), that a person
+arrested without a warrant be brought before a magistrate
+to establish probable cause for continued detention.
+Like McLaughlin, this is a case in which the requisite
+police action (there, presentation to a magistrate; here,
+abstention from further interrogation) has not been pre­
+scribed by statute but has been established by opinion of
+this Court. We think it appropriate to specify a period of
+time to avoid the consequence that continuation of the
+Edwards presumption “will not reach the correct result
+most of the time.” Coleman, supra, at 737. It seems to us
+that period is 14 days. That provides plenty of time for
+the suspect to get reacclimated to his normal life, to con­
+sult with friends and counsel, and to shake off any resid­
+ual coercive effects of his prior custody.
+The 14-day limitation meets Shatzer’s concern that a
+break-in-custody rule lends itself to police abuse. He
+envisions that once a suspect invokes his Miranda right to
+counsel, the police will release the suspect briefly (to end
+the Edwards presumption) and then promptly bring him
+
+
+12
+
+MARYLAND v. SHATZER
+Opinion of the Court
+
+back into custody for reinterrogation. But once the sus­
+pect has been out of custody long enough (14 days) to
+eliminate its coercive effect, there will be nothing to gain
+by such gamesmanship—nothing, that is, except the en­
+tirely appropriate gain of being able to interrogate a sus­
+pect who has made a valid waiver of his Miranda rights.7
+Shatzer argues that ending the Edwards protections at
+a break in custody will undermine Edwards’ purpose to
+conserve judicial resources. To be sure, we have said that
+“[t]he merit of the Edwards decision lies in the clarity of
+its command and the certainty of its application.”
+Minnick, 498 U. S., at 151. But clarity and certainty are
+not goals in themselves. They are valuable only when
+they reasonably further the achievement of some substan­
+tive end—here, the exclusion of compelled confessions.
+Confessions obtained after a 2-week break in custody and
+a waiver of Miranda rights are most unlikely to be com­
+pelled, and hence are unreasonably excluded. In any case,
+a break-in-custody exception will dim only marginally, if
+at all, the bright-line nature of Edwards. In every case
+involving Edwards, the courts must determine whether
+the suspect was in custody when he requested counsel and
+when he later made the statements he seeks to suppress.
+Now, in cases where there is an alleged break in custody,
+they simply have to repeat the inquiry for the time be­
+tween the initial invocation and reinterrogation. In most
+cases that determination will be easy. And when it is
+——————
+7 A defendant who experiences a 14-day break in custody after invok­
+ing the Miranda right to counsel is not left without protection. Ed
+wards establishes a presumption that a suspect’s waiver of Miranda
+rights is involuntary. See Arizona v. Roberson, 486 U. S. 675, 681
+(1988). Even without this “second layer of prophylaxis,” McNeil v.
+Wisconsin, 501 U. S. 171, 176 (1991), a defendant is still free to claim
+the prophylactic protection of Miranda—arguing that his waiver of
+Miranda rights was in fact involuntary under Johnson v. Zerbst, 304
+U. S. 458 (1938). See Miranda, 384 U. S., at 475.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+determined that the defendant pleading Edwards has
+been out of custody for two weeks before the contested
+interrogation, the court is spared the fact-intensive in­
+quiry into whether he ever, anywhere, asserted his
+Miranda right to counsel.
+III
+The facts of this case present an additional issue. No
+one questions that Shatzer was in custody for Miranda
+purposes during the interviews with Detective
+Blankenship in 2003 and Detective Hoover in 2006. Like­
+wise, no one questions that Shatzer triggered the Edwards
+protections when, according to Detective Blankenship’s
+notes of the 2003 interview, he stated that “ ‘he would not
+talk about this case without having an attorney present,’ ”
+405 Md., at 589, 954 A. 2d, at 1120. After the 2003 inter­
+view, Shatzer was released back into the general prison
+population where he was serving an unrelated sentence.
+The issue is whether that constitutes a break in Miranda
+custody.
+We have never decided whether incarceration consti­
+tutes custody for Miranda purposes, and have indeed
+explicitly declined to address the issue. See Perkins, 496
+U. S., at 299. See also Bradley v. Ohio, 497 U. S. 1011,
+1013 (1990) (Marshall, J., dissenting from denial of certio­
+rari). Whether it does depends upon whether it exerts the
+coercive pressure that Miranda was designed to guard
+against—the “danger of coercion [that] results from the
+interaction of custody and official interrogation.” Perkins,
+supra, at 297 (emphasis added). To determine whether a
+suspect was in Miranda custody we have asked whether
+“there is a ‘formal arrest or restraint on freedom of move­
+ment’ of the degree associated with a formal arrest.” New
+York v. Quarles, 467 U. S. 649, 655 (1984); see also Stans
+bury v. California, 511 U. S. 318, 322 (1994) (per curiam).
+This test, no doubt, is satisfied by all forms of incarcera­
+
+
+14
+
+MARYLAND v. SHATZER
+Opinion of the Court
+
+tion. Our cases make clear, however, that the freedom-of­
+movement test identifies only a necessary and not a suffi­
+cient condition for Miranda custody. We have declined to
+accord it “talismanic power,” because Miranda is to be
+enforced “only in those types of situations in which the
+concerns that powered the decision are implicated.”
+Berkemer v. McCarty, 468 U. S. 420, 437 (1984). Thus, the
+temporary and relatively nonthreatening detention in­
+volved in a traffic stop or Terry stop, see Terry v. Ohio, 392
+U. S. 1 (1968), does not constitute Miranda custody.
+McCarty, supra, at 439–440. See also Perkins, supra, at
+296.
+Here, we are addressing the interim period during
+which a suspect was not interrogated, but was subject to a
+baseline set of restraints imposed pursuant to a prior
+conviction. Without minimizing the harsh realities of
+incarceration, we think lawful imprisonment imposed
+upon conviction of a crime does not create the coercive
+pressures identified in Miranda.
+Interrogated suspects who have previously been con­
+victed of crime live in prison. When they are released
+back into the general prison population, they return to
+their accustomed surroundings and daily routine—they
+regain the degree of control they had over their lives prior
+to the interrogation. Sentenced prisoners, in contrast to
+the Miranda paradigm, are not isolated with their accus­
+ers. They live among other inmates, guards, and workers,
+and often can receive visitors and communicate with
+people on the outside by mail or telephone.
+Their detention, moreover, is relatively disconnected
+from their prior unwillingness to cooperate in an investi­
+gation. The former interrogator has no power to increase
+the duration of incarceration, which was determined at
+sentencing.8 And even where the possibility of parole
+——————
+8 We
+
+distinguish the duration of incarceration from the duration of
+
+
+Cite as: 559 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+exists, the former interrogator has no apparent power to
+decrease the time served. This is in stark contrast to the
+circumstances faced by the defendants in Edwards,
+Roberson, and Minnick, whose continued detention as
+suspects rested with those controlling their interrogation,
+and who confronted the uncertainties of what final
+charges they would face, whether they would be convicted,
+and what sentence they would receive.
+Shatzer’s experience illustrates the vast differences
+between Miranda custody and incarceration pursuant to
+conviction. At the time of the 2003 attempted interroga­
+tion, Shatzer was already serving a sentence for a prior
+conviction. After that, he returned to the general prison
+population in the Maryland Correctional InstitutionHagerstown and was later transferred, for unrelated
+reasons, down the street to the Roxbury Correctional
+Institute. Both are medium-security state correctional
+facilities. See Maryland Div. of Correction Inmate Hand­
+book 7 (2007), online at http://dpscs.md.gov/rehabservs/
+doc/pdfs/2007_Inmate_Handbook.pdf (all Internet materi­
+als as visited Feb. 22, 2010, and available in Clerk of
+Court’s case file). Inmates in these facilities generally can
+visit the library each week, id., at 28; have regular exer­
+cise and recreation periods, id., at 17; can participate
+in basic adult education and occupational training, id.,
+at 26, 7; are able to send and receive mail, id., at 21–22,
+16; and are allowed to receive visitors twice a week,
+see http://dpscs.md.gov/locations/mcih.shtml; http://www.
+dpscs.state.md.us/locations/rci.shtml. His continued de­
+——————
+what might be termed interrogative custody. When a prisoner is
+removed from the general prison population and taken to a separate
+location for questioning, the duration of that separation is assuredly
+dependent upon his interrogators. For which reason once he has
+asserted a refusal to speak without assistance of counsel Edwards
+prevents any efforts to get him to change his mind during that inter­
+rogative custody.
+
+
+16
+
+MARYLAND v. SHATZER
+Opinion of the Court
+
+tention after the 2003 interrogation did not depend on
+what he said (or did not say) to Detective Blankenship,
+and he has not alleged that he was placed in a higher level
+of security or faced any continuing restraints as a result of
+the 2003 interrogation. The “inherently compelling pres­
+sures” of custodial interrogation ended when he returned
+to his normal life.
+IV
+A few words in response to JUSTICE STEVENS’ concur­
+rence: It claims we ignore that “[w]hen police tell an indi­
+gent suspect that he has the right to an attorney” and
+then “reinterrogate” him without providing a lawyer, “the
+suspect is likely to feel that the police lied to him and that
+he really does not have any right to a lawyer.” Post, at 2
+(opinion concurring in judgment) (hereinafter concur­
+rence). See also post, at 4, 7, n. 11, 11, n. 16. The fallacy
+here is that we are not talking about “reinterrogating” the
+suspect; we are talking about asking his permission to be
+interrogated. An officer has in no sense lied to a suspect
+when, after advising, as Miranda requires, “You have the
+right to remain silent, and if you choose to speak you have
+the right to the presence of an attorney,” he promptly ends
+the attempted interrogation because the suspect declines
+to speak without counsel present, and then, two weeks
+later, reapproaches the suspect and asks, “Are you now
+willing to speak without a lawyer present?”
+The “concer[n] that motivated the Edwards line of
+cases,” post, at 2–3, n. 2, is that the suspect will be coerced
+into saying yes. That concern guides our decision today.
+Contrary to the concurrence’s conclusion, post, at 3, 5–6,
+there is no reason to believe a suspect will view confession
+as “ ‘the only way to end his interrogation’ ” when, before
+the interrogation begins, he is told that he can avoid it by
+simply requesting that he not be interrogated without
+counsel present—an option that worked before. If, as the
+
+
+Cite as: 559 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+concurrence argues will often be the case, post, at 5, a
+break in custody does not change the suspect’s mind, he
+need only say so.
+The concurrence also accuses the Court of “ignor[ing]
+that when a suspect asks for counsel, until his request is
+answered, there are still the same ‘inherently compelling’
+pressures of custodial interrogation on which the Miranda
+line of cases is based.” Post, at 4. We do not ignore these
+pressures; nor do we suggest that they disappear when
+custody is recommenced after a break, see post, at 5. But
+if those pressures are merely “the same” as before, then
+Miranda provides sufficient protection—as it did before.
+The Edwards presumption of involuntariness is justified
+only in circumstances where the coercive pressures have
+increased so much that suspects’ waivers of Miranda
+rights are likely to be involuntary most of the time. Con­
+trary to the concurrence’s suggestion, post, at 3, it is only
+in those narrow circumstances—when custody is unbro­
+ken—that the Court has concluded a “fresh se[t] of
+Miranda warnings” is not sufficient. See Roberson, 486
+U. S., at 686.
+In the last analysis, it turns out that the concurrence
+accepts our principal points. It agrees that Edwards
+prophylaxis is not perpetual; it agrees that a break in
+custody reduces the inherently compelling pressure upon
+which Edwards was based; it agrees that Shatzer’s release
+back into the general prison population constituted a
+break in custody; and it agrees that in this case the break
+was long enough to render Edwards inapplicable. Post, at
+10–12. We differ in two respects: Instead of terminating
+Edwards protection when the custodial pressures that
+were the basis for that protection dissipate, the concur­
+rence would terminate it when the suspect would no
+longer “feel that he has ‘been denied the counsel he has
+clearly requested,’ ” post, at 11. This is entirely unrelated
+to the rationale of Edwards. If confidence in the police’s
+
+
+18
+
+MARYLAND v. SHATZER
+Opinion of the Court
+
+promise to provide counsel were the touchstone, Edwards
+would not have applied in Minnick, where the suspect in
+continuing custody actually met with appointed counsel.
+The concurrence’s rule is also entirely unrelated to the
+existence of a break in custody. While that may relieve
+the accumulated coercive pressures of custody that are the
+foundation for Edwards, it is hard to see how it bolsters
+the suspect’s confidence that if he asks for counsel he will
+get one.
+And secondly, the concurrence differs from us in declin­
+ing to say how long after a break in custody the termina­
+tion of Edwards protection occurs. Two and one-half
+years, it says, is clearly enough—but it gives law enforce­
+ment authorities no further guidance. The concurrence
+criticizes our use of 14 days as arbitrary and unexplained,
+post, at 5, and n. 7. But in fact that rests upon the same
+basis as the concurrence’s own approval of a 21⁄2-year
+break in custody: how much time will justify “treating the
+second interrogation as no more coercive than the first,”
+post, at 10. Failure to say where the line falls short of 21⁄2
+years, and leaving that for future case-by-case determina­
+tion, is certainly less helpful, but not at all less arbitrary.
+*
+*
+*
+Because Shatzer experienced a break in Miranda cus­
+tody lasting more than two weeks between the first and
+second attempts at interrogation, Edwards does not man­
+date suppression of his March 2006 statements. Accord­
+ingly, we reverse the judgment of the Court of Appeals of
+Maryland, and remand the case for further proceedings
+not inconsistent with this opinion.
+It is so ordered.
+
+

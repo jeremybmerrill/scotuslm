@@ -1,0 +1,43 @@
+10
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+announced a general standard for causation in FELA
+cases, not one addressed exclusively to injuries involving multiple potentially cognizable causes. The very day
+Rogers was announced, we applied its “any part” instruc­
+tion in a case in which the sole causation issue was the
+directness or foreseeability of the connection between the
+carrier’s negligence and the plaintiff’s injury. See Fergu
+son v. Moore-McCormack Lines, Inc., 352 U. S. 521, 523–
+524 (1957) (plurality opinion).
+A few years later, in Gallick v. Baltimore & Ohio R. Co.,
+372 U. S. 108 (1963), we held jury findings for the plaintiff
+proper in a case presenting the following facts: For years,
+the railroad had allowed a fetid pool, containing “dead and
+decayed rats and pigeons,” to accumulate near its right-of­
+way; while standing near the pool, the plaintiff-employee
+suffered an insect bite that became infected and required
+amputation of his legs. Id., at 109. The appellate court
+had concluded there was insufficient evidence of causation
+to warrant submission of the case to the jury. Id., at
+112. We reversed, reciting the causation standard Rogers
+announced. Id., at 116–117, 120–121. See also Crane v.
+Cedar Rapids & Iowa City R. Co., 395 U. S. 164, 166–167
+(1969) (contrasting suit by railroad employee, who “is not
+required to prove common-law proximate causation but
+only that his injury resulted ‘in whole or in part’ from the
+railroad’s violation,” with suit by nonemployee, where
+“definition of causation . . . [is] left to state law”); Gott
+shall, 512 U. S., at 543 (“relaxed standard of causation
+applies under FELA”).4
+——————
+4 CSX and the dissent observe, correctly, that some of our pre-Rogers
+decisions invoked common-law formulations of proximate cause. See,
+e.g., Brady v. Southern R. Co., 320 U. S. 476, 483 (1943) (injury must
+be “the natural and probable consequence of the negligence” (internal
+quotation marks omitted)). Indeed, the “natural or probable” charge
+that CSX requested was drawn from Brady, which in turn relied on a
+pre-FELA case, Milwaukee & St. Paul R. Co. v. Kellogg, 94 U. S. 469,
+
+

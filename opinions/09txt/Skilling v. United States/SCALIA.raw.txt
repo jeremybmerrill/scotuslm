@@ -1,0 +1,491 @@
+Cite as: 561 U. S. ____ (2010)
+
+1
+
+Opinion of SCALIA, J.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1394
+_________________
+
+JEFFREY K. SKILLING, PETITIONER v. UNITED 
+
+STATES 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FIFTH CIRCUIT
+
+[June 24, 2010] 
+
+
+JUSTICE SCALIA, with whom JUSTICE THOMAS joins, and
+with whom JUSTICE KENNEDY joins except as to Part III,
+concurring in part and concurring in the judgment.
+I agree with the Court that petitioner Jeffrey Skilling’s
+challenge to the impartiality of his jury and to the District
+Court’s conduct of the voir dire fails. I therefore join Parts
+I and II of the Court’s opinion. I also agree that the deci­
+sion upholding Skilling’s conviction for so-called “honest­
+services fraud” must be reversed, but for a different rea­
+son. In my view, the specification in 18 U. S. C. §1346
+(2006 ed., Supp. II) that “scheme or artifice to defraud” in
+the mail-fraud and wire-fraud statutes, §§1341 and 1343
+(2006 ed.), includes “a scheme or artifice to deprive an­
+other of the intangible right of honest services,” is vague,
+and therefore violates the Due Process Clause of the Fifth
+Amendment. The Court strikes a pose of judicial humility
+in proclaiming that our task is “not to destroy the Act . . .
+but to construe it,” ante, at 42 (internal quotation marks
+omitted). But in transforming the prohibition of “honest­
+services fraud” into a prohibition of “bribery and kick­
+backs” it is wielding a power we long ago abjured: the
+power to define new federal crimes. See United States v.
+Hudson, 7 Cranch 32, 34 (1812).
+
+
+2
+
+SKILLING v. UNITED STATES 
+
+Opinion of SCALIA, J. 
+
+
+I
+
+A criminal statute must clearly define the conduct it
+proscribes, see Grayned v. City of Rockford, 408 U. S. 104,
+108 (1972). A statute that is unconstitutionally vague
+cannot be saved by a more precise indictment, see Lan
+zetta v. New Jersey, 306 U. S. 451, 453 (1939), nor by
+judicial construction that writes in specific criteria that its
+text does not contain, see United States v. Reese, 92 U. S.
+214, 219–221 (1876). Our cases have described vague
+statutes as failing “to provide a person of ordinary intelli­
+gence fair notice of what is prohibited, or [as being] so
+standardless that [they] authoriz[e] or encourag[e] seri­
+ously discriminatory enforcement.” United States v. Wil
+liams, 553 U. S. 285, 304 (2008). Here, Skilling argues
+that §1346 fails to provide fair notice and encourages
+arbitrary enforcement because it provides no definition of
+the right of honest services whose deprivation it prohibits.
+Brief for Petitioner 38–39, 42–44. In my view Skilling is
+correct.
+The Court maintains that “the intangible right of honest
+services ” means the right not to have one’s fiduciaries
+accept “bribes or kickbacks.” Its first step in reaching
+that conclusion is the assertion that the phrase refers to
+“the doctrine developed” in cases decided by lower federal
+courts prior to our decision in McNally v. United States,
+483 U. S. 350 (1987). Ante, at 39. I do not contest that. I
+agree that Congress used the novel phrase to adopt the
+lower-court case law that had been disapproved by
+McNally—what the Court calls “the pre-McNally honest­
+services doctrine,” ante, at 42. The problem is that that
+doctrine provides no “ascertainable standard of guilt,”
+United States v. L. Cohen Grocery Co., 255 U. S. 81, 89
+(1921), and certainly is not limited to “bribes or kick­
+backs.”
+Investigation into the meaning of “the pre-McNally
+honest-services doctrine” might logically begin with
+
+
+Cite as: 561 U. S. ____ (2010)
+
+3
+
+Opinion of SCALIA, J.
+
+McNally itself, which rejected it. That case repudiated the
+many Court of Appeals holdings that had expanded the
+meaning of “fraud” in the mail-fraud and wire-fraud stat­
+utes beyond deceptive schemes to obtain property. 483
+U. S., at 360. If the repudiated cases stood for a prohibi­
+tion of “bribery and kickbacks,” one would have expected
+those words to appear in the opinion’s description of the
+cases. In fact, they do not. Not at all. Nor did McNally
+even provide a consistent definition of the pre-existing
+theory of fraud it rejected. It referred variously to a right
+of citizens “to have the [State]’s affairs conducted hon­
+estly,” id., at 353, to “honest and impartial government,”
+id., at 355, to “good government,” id., at 356, and “to have
+public officials perform their duties honestly,” id., at 358.
+It described prior case law as holding that “a public official
+owes a fiduciary duty to the public, and misuse of his office
+for private gain is a fraud,” id., at 355.
+But the pre-McNally Court of Appeals opinions were not
+limited to fraud by public officials. Some courts had held
+that those fiduciaries subject to the “honest services”
+obligation included private individuals who merely par­
+ticipated in public decisions, see, e.g., United States v.
+Gray, 790 F. 2d 1290, 1295–1296 (CA6 1986) (citing
+United States v. Margiotta, 688 F. 2d 108, 122 (CA2
+1982)), and even private employees who had no role in
+public decisions, see, e.g., United States v. Lemire, 720
+F. 2d 1327, 1335–1336 (CADC 1983); United States v. Von
+Barta, 635 F. 2d 999, 1007 (CA2 1980). Moreover, “to say
+that a man is a fiduciary only begins [the] analysis; it
+gives direction to further inquiry. . . . What obligations
+does he owe as a fiduciary?” SEC v. Chenery Corp., 318
+U. S. 80, 85–86 (1943). None of the “honest services”
+cases, neither those pertaining to public officials nor those
+pertaining to private employees, defined the nature and
+content of the fiduciary duty central to the “fraud” offense.
+There was not even universal agreement concerning the
+
+
+4
+
+SKILLING v. UNITED STATES
+Opinion of SCALIA, J.
+
+source of the fiduciary obligation—whether it must be
+positive state or federal law, see, e.g., United States v.
+Rabbitt, 583 F. 2d 1014, 1026 (CA8 1978), or merely gen­
+eral principles, such as the “obligations of loyalty and
+fidelity” that inhere in the “employment relationship,”
+Lemire, supra, at 1336. The decision McNally reversed
+had grounded the duty in general (not jurisdiction-specific)
+trust law, see Gray, supra, at 1294, a corpus juris fes­
+tooned with various duties. See, e.g., Restatement (Sec­
+ond) of Trusts §§169–185 (1976). Another pre-McNally
+case referred to the general law of agency, United States v.
+Ballard, 663 F. 2d 534, 543, n. 22 (CA5 1981), modified on
+other grounds by 680 F. 2d 352 (1982), which imposes
+duties quite different from those of a trustee.1 See Re­
+statement (Second) of Agency §§377–398 (1957).
+This indeterminacy does not disappear if one assumes
+that the pre-McNally cases developed a federal, common­
+law fiduciary duty; the duty remained hopelessly unde­
+fined. Some courts described it in astoundingly broad
+language. Blachly v. United States, 380 F. 2d 665 (CA5
+1967), loftily declared that “[l]aw puts its imprimatur on
+the accepted moral standards and condemns conduct
+which fails to match the ‘reflection of moral uprightness,
+of fundamental honesty, fair play and right dealing in the
+general and business life of members of society.’ ” Id., at
+671 (quoting Gregory v. United States, 253 F. 2d 104, 109
+(CA5 1958)). Other courts unhelpfully added that any
+scheme “contrary to public policy” was also condemned by
+——————
+1 The
+
+Court is untroubled by these divisions because “these debates
+were rare in bribe and kickback cases,” in which “[t]he existence of a
+fiduciary relationship, under any definition of that term, was usually
+beyond dispute,” ante, at 43, n. 41. This misses the point. The Courts
+of Appeals may have consistently found unlawful the acceptance of a
+bribe or kickback by one or another sort of fiduciary, but they have not
+consistently described (as the statute does not) any test for who is a
+fiduciary.
+
+
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+Opinion of SCALIA, J.
+
+the statute, United States v. Bohonus, 628 F. 2d 1167,
+1171 (CA9 1980). See also United States v. Mandel, 591
+F. 2d 1347, 1361 (CA4 1979) (any scheme that is “contrary
+to public policy and conflicts with accepted standards of
+moral uprightness, fundamental honesty, fair play and
+right dealing”). Even opinions that did not indulge in such
+grandiloquence did not specify the duty at issue beyond
+loyalty or honesty, see, e.g., Von Barta, supra, at 1005–
+1006. Moreover, the demands of the duty were said to be
+greater for public officials than for private employees, see,
+e.g., Lemire, supra, at 1337, n. 13; Ballard, supra, at 541,
+n. 17, but in what respects (or by how much) was never
+made clear.
+The indefiniteness of the fiduciary duty is not all. Many
+courts held that some je-ne-sais-quoi beyond a mere
+breach of fiduciary duty was needed to establish honest­
+services fraud. See, e.g., Von Barta, supra, at 1006 (col­
+lecting cases); United States v. George, 477 F. 2d 508, 512
+(CA7 1973). There was, unsurprisingly, some dispute
+about that, at least in the context of acts by persons owing
+duties to the public. See United States v. Price, 788 F. 2d
+234, 237 (CA4 1986). And even among those courts that
+did require something additional where a public official
+was involved, there was disagreement as to what the
+addition should be. For example, in United States v. Bush,
+522 F. 2d 641 (1975), the Seventh Circuit held that mate­
+rial misrepresentations and active concealment were
+enough, id., at 647–648. But in Rabbitt, 583 F. 2d 1014,
+the Eighth Circuit held that actual harm to the State was
+needed, id., at 1026.
+Similar disagreements occurred with respect to private
+employees. Courts disputed whether the defendant must
+use his fiduciary position for his own gain. Compare
+Lemire, supra, at 1335 (yes), with United States v. Bron
+ston, 658 F. 2d 920, 926 (CA2 1981) (no). One opinion
+upheld a mail-fraud conviction on the ground that the
+
+
+6
+
+SKILLING v. UNITED STATES
+Opinion of SCALIA, J.
+
+defendant’s “failure to disclose his receipt of kickbacks and
+consulting fees from [his employer’s] suppliers resulted in
+a breach of his fiduciary duties depriving his employer of
+his loyal and honest services.” United States v. Bryza, 522
+F. 2d 414, 422 (CA7 1975). Another opinion, however,
+demanded more than an intentional failure to disclose:
+“There must be a failure to disclose something which in
+the knowledge or contemplation of the employee poses an
+independent business risk to the employer.” Lemire, 720
+F. 2d, at 1337. Other courts required that the victim
+suffer some loss, see, e.g., Ballard, supra, at 541–542—a
+proposition that, of course, other courts rejected, see, e.g.,
+United States v. Newman, 664 F. 2d 12, 20 (CA2 1981);
+United States v. O’Malley, 535 F. 2d 589, 592 (CA10 1976).
+The Court’s statement today that there was a deprivation
+of honest services even if “the scheme occasioned a money
+or property gain for the betrayed party,” ante, at 35, is
+therefore true, except to the extent it is not.
+In short, the first step in the Court’s analysis—holding
+that “the intangible right of honest services” refers to “the
+honest-services doctrine recognized in Court of Appeals’
+decisions before McNally,” ante, at 39—is a step out of the
+frying pan into the fire. The pre-McNally cases provide no
+clear indication of what constitutes a denial of the right of
+honest services. The possibilities range from any action
+that is contrary to public policy or otherwise immoral, to
+only the disloyalty of a public official or employee to his
+principal, to only the secret use of a perpetrator’s position
+of trust in order to harm whomever he is beholden to. The
+duty probably did not have to be rooted in state law, but
+maybe it did. It might have been more demanding in the
+case of public officials, but perhaps not. At the time §1346
+was enacted there was no settled criterion for choosing
+among these options, for conclusively settling what was in
+
+
+Cite as: 561 U. S. ____ (2010)
+
+7
+
+Opinion of SCALIA, J.
+
+and what was out.2
+II
+The Court is aware of all this. It knows that adopting
+by reference “the pre-McNally honest-services doctrine,”
+ante, at 42, is adopting by reference nothing more precise
+than the referring term itself (“the intangible right of
+honest services”). Hence the deus ex machina: “[W]e pare
+that body of precedent down to its core,” ante, at 39. Since
+the honest-services doctrine “had its genesis” in bribery
+prosecutions, and since several cases and counsel for
+Skilling referred to bribery and kickback schemes as “core”
+or “paradigm” or “typical” examples, or “[t]he most obvious
+form,” of honest-services fraud, ante, at 43 (internal quota­
+tion marks omitted), and since two cases and counsel for
+the Government say that they formed the “vast majority,”
+or “most” or at least “[t]he bulk” of honest-services cases,
+ante, at 42–44 (internal quotation marks omitted),
+THEREFORE it must be the case that they are all
+Congress meant by its reference to the honest-services
+doctrine.
+Even if that conclusion followed from its premises, it
+would not suffice to eliminate the vagueness of the stat­
+ute. It would solve (perhaps) the indeterminacy of what
+acts constitute a breach of the “honest services” obligation
+under the pre-McNally law. But it would not solve the
+most fundamental indeterminacy: the character of the
+“fiduciary capacity” to which the bribery and kickback
+——————
+2 Courts since §1346’s enactment have fared no better, reproducing
+some of the same disputes that predated McNally. See, e.g., Sorich v.
+United States, 555 U. S. ___, ___–___ (2009) (SCALIA, J., dissenting from
+denial of certiorari) (slip op., at 3–4) (collecting cases). We have previ­
+ously found important to our vagueness analysis “the conflicting results
+which have arisen from the painstaking attempts of enlightened judges
+in seeking to carry out [a] statute in cases brought before them.”
+United States v. L. Cohen Grocery Co., 255 U. S. 81, 89 (1921). I am at
+a loss to explain why the Court barely mentions those conflicts today.
+
+
+8
+
+SKILLING v. UNITED STATES
+Opinion of SCALIA, J.
+
+restriction applies. Does it apply only to public officials?
+Or in addition to private individuals who contract with the
+public? Or to everyone, including the corporate officer
+here? The pre-McNally case law does not provide an
+answer. Thus, even with the bribery and kickback limita­
+tion the statute does not answer the question “What is the
+criterion of guilt?”
+But that is perhaps beside the point, because it is obvi­
+ous that mere prohibition of bribery and kickbacks was
+not the intent of the statute. To say that bribery and
+kickbacks represented “the core” of the doctrine, or that
+most cases applying the doctrine involved those offenses,
+is not to say that they are the doctrine. All it proves is
+that the multifarious versions of the doctrine overlap with
+regard to those offenses. But the doctrine itself is much
+more. Among all the pre-McNally smörgåsbord-offerings
+of varieties of honest-services fraud, not one is limited to
+bribery and kickbacks. That is a dish the Court has
+cooked up all on its own.
+Thus, the Court’s claim to “respec[t] the legislature,”
+ante, at 44, n. 43 (emphasis deleted), is false. It is entirely
+clear (as the Court and I agree) that Congress meant to
+reinstate the body of pre-McNally honest-services law; and
+entirely clear that that prohibited much more (though
+precisely what more is uncertain) than bribery and kick­
+backs. Perhaps it is true that “Congress intended §1346 to
+reach at least bribes and kickbacks,” ante, at 44. That
+simply does not mean, as the Court now holds, that “§1346
+criminalizes only” bribery and kickbacks, ibid.
+Arriving at that conclusion requires not interpretation
+but invention. The Court replaces a vague criminal stan­
+dard that Congress adopted with a more narrow one (in­
+cluded within the vague one) that can pass constitutional
+muster. I know of no precedent for such “paring down,”3
+——————
+3 The
+
+only alleged precedent the Court dares to describe is Civil Ser
+
+
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+Opinion of SCALIA, J.
+
+and it seems to me clearly beyond judicial power. This is
+not, as the Court claims, ante, at 41, simply a matter of
+adopting a “limiting construction” in the face of potential
+unconstitutionality. To do that, our cases have been care­
+ful to note, the narrowing construction must be “fairly
+possible,” Boos v. Barry, 485 U. S. 312, 331 (1988), “rea­
+sonable,” Hooper v. California, 155 U. S. 648, 657 (1895),
+or not “plainly contrary to the intent of Congress,” Edward
+J. DeBartolo Corp. v. Florida Gulf Coast Building &
+Constr. Trades Council, 485 U. S. 568, 575 (1988). As we
+have seen (and the Court does not contest), no court before
+McNally concluded that the “deprivation of honest ser­
+vices” meant only the acceptance of bribes or kickbacks. If
+it were a “fairly possible” or “reasonable” construction, not
+“contrary to the intent of Congress,” one would think that
+some court would have adopted it. The Court does not
+even point to a post-McNally case that reads §1346 to
+cover only bribery and kickbacks, and I am aware of none.
+The canon of constitutional avoidance, on which the
+Court so heavily relies, see ante, at 41–42, states that
+“when the constitutionality of a statute is assailed, if the
+——————
+vice Comm’n v. Letter Carriers, 413 U. S. 548 (1973). That case in­
+volved a provision of the Hatch Act incorporating prior adjudications of
+the Civil Service Commission. We upheld the provision against a
+vagueness challenge—not, however, by “paring down” the adjudications
+to a more narrow rule that we invented, but by concluding that what
+they held was not vague. See id., at 571–574. The string of cases the
+Court lists, see ante, at 41, n. 40, (almost none of which addressed
+claims of vagueness), have nothing to do with “paring down.” The one
+that comes closest, United States v. Thirty-seven Photographs, 402 U. S.
+363 (1971), specified a time limit within which proceedings authorized
+by statute for the forfeiture of obscene imported materials had to be
+commenced and completed. That is not much different from “reading
+in” a reasonable-time requirement for obligations undertaken in con­
+tracts, and can hardly be described as a rewriting or “paring down” of
+the statute. The Court relied on legislative history anticipating that
+the proceedings would be prompt, id., at 370–371, and noted that
+(unlike here) it was not “decid[ing] issues of policy,” id., at 372.
+
+
+10
+
+SKILLING v. UNITED STATES
+Opinion of SCALIA, J.
+
+statute be reasonably susceptible of two interpretations,
+by one of which it would be unconstitutional and by the
+other valid, it is our plain duty to adopt that construction
+which will save the statute from constitutional infirmity.”
+United States ex rel. Attorney General v. Delaware &
+Hudson Co., 213 U. S. 366, 407 (1909); see also United
+States v. Rumely, 345 U. S. 41, 45 (1953) (describing the
+canon as decisive “in the choice of fair alternatives”). Here
+there is no choice to be made between two “fair alterna­
+tives.” Until today, no one has thought (and there is no
+basis for thinking) that the honest-services statute prohib­
+ited only bribery and kickbacks.
+I certainly agree with the Court that we must, “if we
+can,” uphold, rather than “condemn,” Congress’s enact­
+ments, ante, at 38. But I do not believe we have the
+power, in order to uphold an enactment, to rewrite it.
+Congress enacted the entirety of the pre-McNally honest­
+services law, the content of which is (to put it mildly)
+unclear. In prior vagueness cases, we have resisted the
+temptation to make all things right with the stroke of our
+pen. See, e.g., Smith v. Goguen, 415 U. S. 566, 575 (1974).
+I would show the same restraint today, and reverse Skill­
+ing’s conviction on the basis that §1346 provides no “ascer­
+tainable standard” for the conduct it condemns, L. Cohen,
+255 U. S., at 89. Instead, the Court today adds to our
+functions the prescription of criminal law.
+III
+A brief word about the appropriate remedy. As I noted
+supra, at 2, Skilling has argued that §1346 cannot be
+constitutionally applied to him because it affords no defi­
+nition of the right whose deprivation it prohibits. Though
+this reasoning is categorical, it does not make Skilling’s
+challenge a “facial” one, in the sense that it seeks invalida­
+tion of the statute in all its applications, as opposed to
+preventing its enforcement against him. I continue to
+
+
+Cite as: 561 U. S. ____ (2010)
+
+11
+
+Opinion of SCALIA, J.
+
+doubt whether “striking down” a statute is ever an appro­
+priate exercise of our Article III power. See Chicago v.
+Morales, 527 U. S. 41, 77 (1999) (SCALIA, J., dissenting).
+In the present case, the universality of the infirmity Skill­
+ing identifies in §1346 may mean that if he wins, anyone
+else prosecuted under the statute will win as well, see
+Smith, supra, at 576–578. But Skilling only asks that his
+conviction be reversed, Brief for Petitioner 57–58, so the
+remedy he seeks is not facial invalidation.
+I would therefore reverse Skilling’s conviction under
+§1346 on the ground that it fails to define the conduct it
+prohibits. The fate of the statute in future prosecutions—
+obvious from my reasoning in the case—would be a matter
+for stare decisis.
+*
+*
+*
+It is hard to imagine a case that more clearly fits the
+description of what Chief Justice Waite said could not be
+done, in a colorful passage oft-cited in our vagueness
+opinions, United States v. Reese, 92 U. S., at 221:
+“The question, then, to be determined, is, whether
+we can introduce words of limitation into a penal
+statute so as to make it specific, when, as expressed, it
+is general only.
+“It would certainly be dangerous if the legislature
+could set a net large enough to catch all possible of­
+fenders, and leave it to the courts to step inside and
+say who could be rightfully detained, and who should
+be set at large. This would, to some extent, substitute
+the judicial for the legislative department of the gov­
+ernment. . . .
+“To limit this statute in the manner now asked
+for would be to make a new law, not to enforce an old
+one. This is no part of our duty.”
+
+

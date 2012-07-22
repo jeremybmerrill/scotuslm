@@ -1,0 +1,42 @@
+10
+
+STERN v. MARSHALL
+Opinion of the Court
+
+bankruptcy courts are to do with respect to the category of
+matters that Pierce posits—core proceedings that do not
+arise under Title 11 or in a Title 11 case. To the contrary,
+§157(b)(3) only instructs a bankruptcy judge to “deter­
+mine, on the judge’s own motion or on timely motion of a
+party, whether a proceeding is a core proceeding under
+this subsection or is a proceeding that is otherwise related
+to a case under title 11.” Two options. The statute does
+not suggest that any other distinctions need be made.
+Under our reading of the statute, core proceedings are
+those that arise in a bankruptcy case or under Title 11.
+The detailed list of core proceedings in §157(b)(2) provides courts with ready examples of such matters. Pierce’s
+reading of §157, in contrast, supposes that some core pro­
+ceedings will arise in a Title 11 case or under Title 11
+and some will not. Under that reading, the statute pro­
+vides no guidance on how to tell which are which.
+We think it significant that Congress failed to provide
+any framework for identifying or adjudicating the asserted
+category of core but not “arising” proceedings, given the
+otherwise detailed provisions governing bankruptcy court
+authority. It is hard to believe that Congress would go to
+the trouble of cataloging 16 different types of proceedings
+that should receive “core” treatment, but then fail to spec­
+ify how to determine whether those matters arise under
+Title 11 or in a bankruptcy case if—as Pierce asserts—the
+latter inquiry is determinative of the bankruptcy court’s
+authority.
+Pierce argues that we should treat core matters that
+arise neither under Title 11 nor in a Title 11 case as pro­
+ceedings “related to” a Title 11 case. Brief for Respondent
+60 (internal quotation marks omitted). We think that a
+contradiction in terms. It does not make sense to describe
+a “core” bankruptcy proceeding as merely “related to” the
+bankruptcy case; oxymoron is not a typical feature of
+congressional drafting. See Northern Pipeline, 458 U. S.,
+
+

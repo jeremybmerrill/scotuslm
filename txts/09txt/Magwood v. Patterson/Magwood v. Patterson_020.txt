@@ -1,0 +1,44 @@
+Cite as: 561 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+the current text to determine when the phrase applies,
+rather than pre-AEDPA precedents or superseded statu
+tory formulations.12
+C
+Nor do our post-AEDPA cases contradict our approach.
+Only one, Burton v. Stewart, 549 U. S. 147 (2007) (per
+curiam), comes close to addressing the threshold question
+whether an application is “second or successive” if it chal
+lenges a new judgment. And that case confirms that the
+existence of a new judgment is dispositive. In Burton, the
+petitioner had been convicted and sentenced in state court
+in 1994. See id., at 149. He successfully moved for resen
+tencing based on vacatur of an unrelated prior conviction.
+Id., at 150. The state appellate court affirmed the convic
+tion but remanded for a second resentencing. Ibid. In
+March 1998, the trial court entered an amended judgment
+and new sentence. Id., at 151. In December 1998, with
+state review of his new sentence still pending, the peti
+tioner filed a §2254 application challenging his 1994 con
+viction. The District Court denied it on the merits, the
+Court of Appeals affirmed, and we denied certiorari. Ibid.
+In 2002, after exhausting his state sentencing appeal,
+the petitioner filed a §2254 petition challenging only his
+1998 sentence. The District Court denied relief on the
+merits and the Court of Appeals affirmed. We reversed,
+holding that the petition challenging the sentence should
+have been dismissed as an unauthorized “second or suc
+cessive” application. Id., at 153; see §2244(b)(3)(A). We
+——————
+12 The dissent speculates about issues far beyond the question before
+the Court. See, e.g., post, at 8–9 (suggesting that our judgment-based
+reading of §2244(b) calls into question precedents recognizing habeas
+petitions challenging the denial of good-time credits or parole). We
+address only an application challenging a new state-court judgment for
+the first time. We do not purport to constrain the scope of §2254 as we
+have previously defined it.
+
+

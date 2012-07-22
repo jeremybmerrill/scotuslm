@@ -1,0 +1,48 @@
+Cite as: 559 U. S. ____ (2010)
+
+21
+
+Opinion of STEVENS, J.
+
+The difference of degree is relevant to the forum shop
+ping considerations that are part of the Rules of Decision
+Act or Erie inquiry. If the applicable federal rule did not
+govern the particular question at issue (or could be fairly
+read not to do so), then those considerations would matter,
+for precisely the reasons given by the dissent. See post, at
+17–24. But that is not this case. As the Court explained
+in Hanna, it is an “incorrect assumption that the rule of
+Erie R. Co. v. Thompkins constitutes the appropriate test
+of . . . the applicability of a Federal Rule of Civil Proce
+dure.” 380 U. S., at 469–470. “It is true that both the
+Enabling Act and the Erie rule say, roughly, that federal
+courts are to apply state ‘substantive’ law and federal
+‘procedural’ law,” but the tests are different and reflect the
+fact that “they were designed to control very different
+sorts of decisions.” Id., at 471.
+Because Rule 23 governs class certification, the only
+decision is whether certifying a class in this diversity case
+would “abridge, enlarge or modify” New York’s substantive
+rights or remedies. §2072(b). Although one can argue
+that class certification would enlarge New York’s “limited”
+damages remedy, see post, at 7, n. 2, 8, 9, 12, 25, such
+arguments rest on extensive speculation about what the
+New York Legislature had in mind when it created
+§901(b). But given that there are two plausible competing
+narratives, it seems obvious to me that we should respect
+the plain textual reading of §901(b), a rule in New York’s
+procedural code about when to certify class actions
+brought under any source of law, and respect Congress’
+decision that Rule 23 governs class certification in federal
+courts. In order to displace a federal rule, there must be
+more than just a possibility that the state rule is different
+—————— 
+
+procedural vehicle; without a lower filing fee, a conveniently located
+
+courthouse, easy-to-use federal procedural rules, or many other fea
+
+tures of the federal courts, many plaintiffs would not sue. 
+
+
+

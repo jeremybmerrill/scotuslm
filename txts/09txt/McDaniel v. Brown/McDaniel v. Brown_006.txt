@@ -1,0 +1,43 @@
+6
+
+MCDANIEL v. BROWN
+Per Curiam
+
+if trial counsel had objected, the evidence would have been
+excluded or at least its importance diminished. He noted
+that because trial counsel “totally failed to challenge the
+DNA evidence in the case,” counsel “failed to preserve
+valid issues for appeal.” App. 1101. The state postconvic
+tion court denied relief, id., at 1489–1499, and the Nevada
+Supreme Court affirmed, id., at 1500–1506.
+Respondent thereafter filed this federal habeas petition,
+claiming there was insufficient evidence to convict him on
+the sexual assault charges and that the Nevada Supreme
+Court’s rejection of his claim was both contrary to, and an
+unreasonable application of, Jackson. He did not bring a
+typical Jackson claim, however. Rather than argue that
+the totality of the evidence admitted against him at trial
+was constitutionally insufficient, he argued that some of
+the evidence should be excluded from the Jackson analy
+sis. In particular, he argued that Romero’s testimony
+related to the DNA evidence was inaccurate and unreli
+able in two primary respects: Romero mischaracterized
+the random match probability and misstated the probabil
+ity of a DNA match among his brothers. Absent that
+testimony, he contended, there was insufficient evidence
+to convict him.
+In support of his claim regarding the accuracy of Ro
+mero’s testimony, respondent submitted a report prepared
+by Laurence Mueller, a professor in ecology and evolution
+ary biology (Mueller Report). The District Court supple
+mented the record with the Mueller Report, even though it
+was not presented to any state court, because “the thesis
+of the report was argued during post-conviction.” Brown
+v. Farwell, No. 3:03–cv–00712–PMP–VPC, 2006 WL
+6181129, *5, n. 2 (Nev., Dec. 14, 2006).
+Relying upon the Mueller Report, the District Court set
+aside the “unreliable DNA testimony” and held that with
+out the DNA evidence “a reasonable doubt would exist in
+the mind of any rational trier of fact.” Id., at *7. The
+
+

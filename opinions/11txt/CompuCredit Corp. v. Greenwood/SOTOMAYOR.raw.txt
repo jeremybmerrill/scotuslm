@@ -1,0 +1,93 @@
+Cite as: 565 U. S. ____ (2012)
+
+1
+
+SOTOMAYOR, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–948
+_________________
+
+COMPUCREDIT CORPORATION, ET AL., PETITIONERS
+v. WANDA GREENWOOD ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[January 10, 2012]
+
+
+JUSTICE SOTOMAYOR, with whom JUSTICE KAGAN joins,
+concurring in the judgment.
+Claims alleging the violation of a statute, such as the
+Credit Repair Organizations Act (Act), 15 U. S. C. §1679
+et seq., are generally subject to valid arbitration agreements unless Congress evinces a contrary intent in the
+text, history, or purpose of the statute. See Gilmer v.
+Interstate/Johnson Lane Corp., 500 U. S. 20, 26 (1991). I
+agree with the Court that Congress has not shown that
+intent here. But for the reasons stated by the dissent, I
+find this to be a much closer case than the majority opinion suggests.
+The Act creates a cause of action in its liability provision, see §1679g(a), denominates the cause of action a
+“right to sue” in the mandatory disclosure statement,
+§1679c(a), and then provides that “right[s]” may not be
+waived, §1679f(a). Those for whom Congress wrote the
+Act—lay readers “of limited economic means and . . .
+inexperienced in credit matters,” §1679(a)(2)—reasonably
+may interpret the phrase “right to sue” as promising a
+right to sue in court. And it is plausible to think that
+Congress, aware of the impact of its words, intended such
+a construction of the liability provision.
+But while this interpretation of the Act is plausible, it is
+in my view no more compelling than the contrary con-
+
+
+2
+
+COMPUCREDIT CORP. v. GREENWOOD
+SOTOMAYOR, J., concurring in judgment
+
+struction that petitioners urge. As the majority opinion
+notes, the disclosure provision does not itself confer a
+cause of action, and the liability provision that does is
+materially indistinguishable from other statutes that we
+have held not to preclude arbitration. In my mind this
+leaves the parties’ arguments in equipoise, and our precedents require that petitioners prevail in this circumstance.
+This is because respondents, as the opponents of arbitration, bear the burden of showing that Congress disallowed
+arbitration of their claims, and because we resolve doubts
+in favor of arbitration. See id., at 26. Of course, if we
+have misread Congress’ intent, then Congress can correct
+our error by amending the statute.
+I add one more point. The majority opinion contrasts
+the liability provision of the Act with other, more recently
+enacted statutes that expressly disallow arbitration. I do
+not understand the majority opinion to hold that Congress
+must speak so explicitly in order to convey its intent to
+preclude arbitration of statutory claims. We have never
+said as much, and on numerous occasions have held that
+proof of Congress’ intent may also be discovered in the
+history or purpose of the statute in question. See ibid. (“If
+such an intention exists, it will be discoverable in the text
+of the [statute], its legislative history, or an ‘inherent
+conflict’ between arbitration and the [statute’s] underlying
+purposes”); Shearson/American Express Inc. v. McMahon,
+482 U. S. 220, 227 (1987) (“If Congress did intend to limit
+or prohibit waiver of a judicial forum for a particular
+claim, such an intent ‘will be deducible from [the statute’s]
+text or legislative history,’ or from an inherent conflict
+between arbitration and the statute’s underlying purposes” (quoting Mitsubishi Motors Corp. v. Soler ChryslerPlymouth, Inc., 473 U. S. 614, 628 (1985); citation omitted)). I agree with the dissent that the statutes the
+majority opinion cites shed little light on the thoughts of
+the Congress that passed the Act. But the Act’s text is not
+
+
+Cite as: 565 U. S. ____ (2012)
+
+3
+
+SOTOMAYOR, J., concurring in judgment
+
+dispositive, and respondents identify nothing in the legislative history or purpose of the Act that would tip the
+balance of the scale in favor of their interpretation.
+
+

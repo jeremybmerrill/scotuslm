@@ -1,0 +1,43 @@
+4
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+Schedule C and the attached inventory. Instead, he al­
+lowed the limitations period to lapse and then moved,
+unsuccessfully, for permission to sell the equipment at
+auction. Id., at 141a–143a.3
+From Reilly’s filings, the Bankruptcy Judge found it
+evident that Reilly had claimed the property itself, not its
+dollar value, as exempt. Id., at 168a–169a (“I know there’s
+an argument . . . that . . . the property identified as exempt
+is really the [valuation] column, [i.e., $10,718,] but that’s
+not what the forms say. The forms say property declared
+as exempt and to see attached list. So, they’re exempting
+all the property. . . . If the Trustee believes that . . . all the
+property cannot be exempt, [he] should object to it.”).
+The District Court and Court of Appeals similarly con­
+cluded that, by listing the identical amount, $10,718, as
+the property’s market value and the value of the claimed
+exemptions, Reilly had signaled her intention to safeguard
+all of her kitchen equipment from inclusion in the bank­
+ruptcy estate. In re Reilly, 403 B. R. 336, 338–339 (MD
+Pa. 2006); In re Reilly, 534 F. 3d 173, 178 (CA3 2008).
+Both courts looked to §522(l) and Federal Rule of Bank­
+ruptcy Procedure 4003(b), which state, respectively:
+“The debtor shall file a list of property that the
+debtor claims as exempt . . . . Unless a party in inter­
+est objects, the property claimed as exempt on such
+list is exempt.” §522(l).
+——————
+3 Schwab informed Reilly at the meeting of creditors that he planned
+to sell all of her business equipment. App. 137a. She promptly moved
+to dismiss her bankruptcy petition, stating that her “business equip­
+ment . . . is necessary to her livelihood and art, and was a gift to her
+from her parents.” Id., at 138a. She “d[id] not desire to continue with
+the bankruptcy,” she added, because “she wishe[d] to continue in
+restaurant and catering as her occupation.” Ibid. The Bankruptcy
+Court denied Reilly’s dismissal motion simultaneously with Schwab’s
+motion to sell Reilly’s equipment. Id., at 149a–170a.
+
+

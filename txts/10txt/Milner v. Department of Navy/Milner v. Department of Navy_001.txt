@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+MILNER v. DEPARTMENT OF THE NAVY
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 09–1163. Argued December 1, 2010—Decided March 7, 2011
+The Freedom of Information Act (FOIA) requires federal agencies to
+make Government records available to the public, subject to nine ex
+emptions. This case concerns Exemption 2, which protects from dis
+closure material “related solely to the internal personnel rules and
+practices of an agency.” 5 U. S. C.§552(b)(2). This provision replaced
+an Administrative Procedure Act (APA) exemption for “any matter
+relating solely to the internal management of an agency,” 5 U. S. C.
+§1002 (1964 ed.). Congress believed that the “sweep” of the phrase
+“internal management” had led to excessive withholding, and drafted
+Exemption 2 “to have a narrower reach.” Department of Air Force v.
+Rose, 425 U. S. 352, 362–363.
+In Rose, the Court found that Exemption 2 could not be invoked to
+withhold Air Force Academy honor and ethics hearing summaries.
+The exemption, the Court suggested, primarily targets material con
+cerning employee relations or human resources. But the Court stated
+a possible caveat: That understanding of the provision’s coverage
+governed “at least where the situation is not one where disclosure
+may risk circumvention of agency regulation.” Id., at 369. The D. C.
+Circuit subsequently converted this caveat into a new definition of
+Exemption 2’s scope, finding that the exemption also covered any
+“predominantly internal” materials whose disclosure would “signifi
+cantly ris[k] circumvention of agency regulation or statutes.” Crooker
+v. Bureau of Alcohol, Tobacco & Firearms, 670 F. 2d 1051, 1056–
+1057, 1074. Courts now use the term “Low 2” for human resources
+and employee relations records and “High 2” for records whose disclo
+sure would risk circumvention of the law.
+Petitioner Milner submitted FOIA requests for explosives data and
+maps used by respondent Department of the Navy (Navy or Govern
+
+

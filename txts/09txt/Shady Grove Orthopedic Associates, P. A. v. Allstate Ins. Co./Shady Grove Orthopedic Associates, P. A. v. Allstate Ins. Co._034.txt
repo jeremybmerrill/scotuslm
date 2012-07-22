@@ -1,0 +1,50 @@
+Cite as: 559 U. S. ____ (2010)
+
+9
+
+Opinion of STEVENS, J.
+
+ordinarily “prescribe general rules of practice and proce
+dure,” §2072(a), do “not abridge, enlarge or modify any
+substantive right,” §2072(b).
+JUSTICE SCALIA believes that the sole Enabling Act
+question is whether the federal rule “really regulates
+procedure,” ante, at 12, 16, 17, 20, n. 13 (plurality opinion)
+(internal quotation marks omitted), which means, appar
+ently, whether it regulates “the manner and the means by
+which the litigants’ rights are enforced,” ante, at 13 (inter
+nal quotation marks omitted). I respectfully disagree.7
+This interpretation of the Enabling Act is consonant with
+the Act’s first limitation to “general rules of practice and
+procedure,” §2072(a). But it ignores the second limitation
+that such rules also “not abridge, enlarge or modify any
+substantive right,” §2072(b) (emphasis added),8 and in so
+——————
+7 This
+
+understanding of the Enabling Act has been the subject of sub
+stantial academic criticism, and rightfully so. See, e.g., Wright §4509,
+at 264, 269–270, 272; Ely, The Irrepressible Myth of Erie, 87 Harv.
+L. Rev. 693, 719 (1974) (hereinafter Ely); see also R. Fallon, J. Man
+ning, D. Meltzer, & D. Shapiro, Hart and Wechsler’s, The Federal
+Courts and the Federal System 593, n. 6 (6th ed. 2009) (discussing Ely).
+8 JUSTICE SCALIA concedes as much, see ante, at 18–19, but argues
+that insofar as I allow for the possibility that a federal rule might
+violate the Enabling Act when it displaces a seemingly procedural state
+rule, my approach is itself “unfaithful to the statute’s terms,” which
+cover “substantive rights” but not “procedural rules,” ante, at 19, n. 11
+(internal quotation marks omitted). This is not an objection to my
+interpretation of the Enabling Act—that courts must look to whether a
+federal rule alters substantive rights in a given case—but simply to the
+way I would apply it, allowing for the possibility that a state rule that
+regulates something traditionally considered to be procedural might
+actually define a substantive right. JUSTICE SCALIA’s objection, more
+over, misses the key point: In some instances, a state rule that appears
+procedural really is not. A rule about how damages are reviewed on
+appeal may really be a damages cap. See Gasperini, 518 U. S., at 427.
+A rule that a plaintiff can bring a claim for only three years may really
+be a limit on the existence of the right to seek redress. A rule that a
+claim must be proved beyond a reasonable doubt may really be a
+definition of the scope of the claim. These are the sorts of rules that
+
+

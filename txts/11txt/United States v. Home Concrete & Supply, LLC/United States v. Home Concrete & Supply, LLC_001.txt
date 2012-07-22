@@ -1,0 +1,49 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+UNITED STATES v. HOME CONCRETE & SUPPLY, 
+
+LLC, ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FOURTH CIRCUIT
+No. 11–139.
+
+Argued January 17, 2012—Decided April 25, 2012
+
+Ordinarily, the Government must assess a deficiency against a taxpayer within “3 years after the return was filed,” 26 U. S. C. §6501(a),
+but that period is extended to 6 years when a taxpayer “omits from
+gross income an amount properly includible therein which is in excess of 25 percent of the amount of gross income stated in the return,”
+§6501(e)(1)(A). Respondent taxpayers overstated the basis of certain
+property that they had sold. As a result, their returns understated
+the gross income they received from the sale by an amount in excess
+of 25%. The Commissioner asserted the deficiency outside the 3-year
+limitations period but within the 6-year period. The Fourth Circuit
+concluded that the taxpayers’ overstatements of basis, and resulting
+understatements of gross income, did not trigger the extended limitations period.
+Held: The judgment is affirmed.
+634 F. 3d 249, affirmed.
+JUSTICE BREYER delivered the opinion of the Court, except as to
+Part IV–C, concluding that §6501(e)(1)(A) does not apply to an overstatement of basis. Pp. 2–8.
+(a) In Colony, Inc. v. Commissioner, 357 U. S. 28, the Court interpreted a provision of the Internal Revenue Code of 1939 containing
+language materially indistinguishable from the language at issue
+here, holding that taxpayer misstatements that overstate the basis in
+property do not fall within the statute’s scope. The Court recognized
+that such an overstatement wrongly understates a taxpayer’s income,
+but concluded that the phrase “omits . . . an amount” limited the
+statute’s scope to situations in which specific receipts are left out of
+
+

@@ -1,0 +1,44 @@
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+B
+Raising claims under Rev. Stat. §1979, 42 U. S. C.
+§1983; 18 U. S. C. §2701 et seq., popularly known as the
+Stored Communications Act (SCA); and California law,
+Quon filed suit against petitioners in the United States
+District Court for the Central District of California. Arch
+Wireless and an individual not relevant here were also
+named as defendants. Quon was joined in his suit by
+another plaintiff who is not a party before this Court and
+by the other respondents, each of whom exchanged text
+messages with Quon during August and September 2002:
+Jerilyn Quon, Jeff Quon’s then-wife, from whom he was
+separated; April Florio, an OPD employee with whom Jeff
+Quon was romantically involved; and Steve Trujillo, an­
+other member of the OPD SWAT Team. Among the alle­
+gations in the complaint was that petitioners violated
+respondents’ Fourth Amendment rights and the SCA by
+obtaining and reviewing the transcript of Jeff Quon’s
+pager messages and that Arch Wireless had violated the
+SCA by turning over the transcript to the City.
+The parties filed cross-motions for summary judgment.
+The District Court granted Arch Wireless’ motion for
+summary judgment on the SCA claim but denied petition­
+ers’ motion for summary judgment on the Fourth Amend­
+ment claims. Quon v. Arch Wireless Operating Co., 445
+F. Supp. 2d 1116 (CD Cal. 2006). Relying on the plural­
+ity opinion in O’Connor v. Ortega, 480 U. S. 709, 711
+(1987), the District Court determined that Quon had a
+reasonable expectation of privacy in the content of his text
+messages. Whether the audit of the text messages was
+nonetheless reasonable, the District Court concluded,
+turned on Chief Scharf’s intent: “[I]f the purpose for the
+audit was to determine if Quon was using his pager to
+‘play games’ and ‘waste time,’ then the audit was not
+constitutionally reasonable”; but if the audit’s purpose
+“was to determine the efficacy of the existing character
+
+

@@ -1,0 +1,137 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+KENTUCKY v. KING
+CERTIORARI TO THE SUPREME COURT OF KENTUCKY
+No. 09–1272. Argued January 12, 2011—Decided May 16, 2011
+Police officers in Lexington, Kentucky, followed a suspected drug dealer
+to an apartment complex. They smelled marijuana outside an
+apartment door, knocked loudly, and announced their presence. As
+soon as the officers began knocking, they heard noises coming from
+the apartment; the officers believed that these noises were consistent
+with the destruction of evidence. The officers announced their intent
+to enter the apartment, kicked in the door, and found respondent and
+others. They saw drugs in plain view during a protective sweep of
+the apartment and found additional evidence during a subsequent
+search. The Circuit Court denied respondent’s motion to suppress
+the evidence, holding that exigent circumstances—the need to pre
+vent destruction of evidence—justified the warrantless entry. Re
+spondent entered a conditional guilty plea, reserving his right to ap
+peal the suppression ruling, and the Kentucky Court of Appeals
+affirmed. The Supreme Court of Kentucky reversed. The court as
+sumed that exigent circumstances existed, but it nonetheless invali
+dated the search. The exigent circumstances rule did not apply, the
+court held, because the police should have foreseen that their conduct
+would prompt the occupants to attempt to destroy evidence.
+Held:
+1. The exigent circumstances rule applies when the police do not
+create the exigency by engaging or threatening to engage in conduct
+that violates the Fourth Amendment. Pp. 5–16.
+(a) The Fourth Amendment expressly imposes two requirements:
+All searches and seizures must be reasonable; and a warrant may not
+be issued unless probable cause is properly established and the scope
+of the authorized search is set out with particularity. Although
+“ ‘searches and seizures inside a home without a warrant are pre
+sumptively unreasonable,’ ” Brigham City v. Stuart, 547 U. S. 398,
+
+
+2
+
+KENTUCKY v. KING
+Syllabus
+403, this presumption may be overcome when “ ‘the exigencies of the
+situation’ make the needs of law enforcement so compelling that [a]
+warrantless search is objectively reasonable under the Fourth
+Amendment,” Mincey v. Arizona, 437 U. S. 385, 394. One such exi
+gency is the need “to prevent the imminent destruction of evidence.”
+Brigham City, supra, at 403. Pp. 5–6.
+(b) Under the “police-created exigency” doctrine, which lower
+courts have developed as an exception to the exigent circumstances
+rule, exigent circumstances do not justify a warrantless search when
+the exigency was “created” or “manufactured” by the conduct of the
+police. The lower courts have not agreed, however, on the test for de
+termining when police impermissibly create an exigency. Pp. 7–8.
+(c) The proper test follows from the principle that permits war
+rantless searches: warrantless searches are allowed when the cir
+cumstances make it reasonable, within the meaning of the Fourth
+Amendment, to dispense with the warrant requirement. Thus, a
+warrantless entry based on exigent circumstances is reasonable when
+the police did not create the exigency by engaging or threatening to
+engage in conduct violating the Fourth Amendment. A similar ap
+proach has been taken in other cases involving warrantless searches.
+For example, officers may seize evidence in plain view if they have
+not violated the Fourth Amendment in arriving at the spot from
+which the observation of the evidence is made, see Horton v. Califor
+nia, 496 U. S. 128, 136–140; and they may seek consent-based en
+counters if they are lawfully present in the place where the consen
+sual encounter occurs, see INS v. Delgado, 466 U. S. 210, 217, n. 5.
+Pp. 8–10.
+(d) Some courts, including the Kentucky Supreme Court, have
+imposed additional requirements—asking whether officers “ ‘deliber
+ately created the exigent circumstances with the bad faith intent to
+avoid the warrant requirement,’ ” 302 S. W. 3d 649, 656 (case below);
+reasoning that police may not rely on an exigency if “ ‘it was reasona
+bly foreseeable that [their] investigative tactics . . . would create the
+exigent circumstances,’ ”ibid.; faulting officers for knocking on a door
+when they had sufficient evidence to seek a warrant but did not do
+so; and finding that officers created or manufactured an exigency
+when their investigation was contrary to standard or good law en
+forcement practices. Such requirements are unsound and are thus
+rejected. Pp. 10–14.
+(e) Respondent contends that an exigency is impermissibly cre
+ated when officers engage in conduct that would cause a reasonable
+person to believe that entry was imminent and inevitable, but that
+approach is also flawed. The ability of officers to respond to an exi
+gency cannot turn on such subtleties as the officers’ tone of voice in
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+announcing their presence and the forcefulness of their knocks. A
+forceful knock may be necessary to alert the occupants that someone
+is at the door, and unless officers identify themselves loudly enough,
+occupants may not know who is at their doorstep. Respondent’s test
+would make it extremely difficult for officers to know how loudly they
+may announce their presence or how forcefully they may knock with
+out running afoul of the police-created exigency rule. And in most
+cases, it would be nearly impossible for a court to determine whether
+that threshold had been passed. Pp. 14–15.
+2. Assuming that an exigency existed here, there is no evidence
+that the officers either violated the Fourth Amendment or threatened
+to do so prior to the point when they entered the apartment. Pp. 16–
+19.
+(a) Any question about whether an exigency existed here is bet
+ter addressed by the Kentucky Supreme Court on remand. P. 17.
+(b) Assuming an exigency did exist, the officers’ conduct—
+banging on the door and announcing their presence—was entirely
+consistent with the Fourth Amendment. Respondent has pointed to
+no evidence supporting his argument that the officers made any sort
+of “demand” to enter the apartment, much less a demand that
+amounts to a threat to violate the Fourth Amendment. If there is
+contradictory evidence that has not been brought to this Court’s at
+tention, the state court may elect to address that matter on remand.
+Finally, the record makes clear that the officers’ announcement that
+they were going to enter the apartment was made after the exigency
+arose. Pp. 17–19.
+302 S. W. 3d 649, reversed and remanded.
+ALITO, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and SCALIA, KENNEDY, THOMAS, BREYER, SOTOMAYOR, and KAGAN, JJ.,
+joined. GINSBURG, J., filed a dissenting opinion.
+
+

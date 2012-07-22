@@ -1,0 +1,282 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+SOTOMAYOR, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1322
+_________________
+
+MICHAEL J. ASTRUE, COMMISSIONER OF SOCIAL
+SECURITY, PETITIONER v. CATHERINE G. RATLIFF
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE EIGHTH CIRCUIT
+[June 14, 2010]
+
+JUSTICE SOTOMAYOR, with whom JUSTICE STEVENS and
+JUSTICE GINSBURG join, concurring.
+I join the Court’s opinion because I agree that the text of
+the Equal Access to Justice Act (EAJA) and our precedents
+compel the conclusion that an attorney’s fee award under
+28 U. S. C. §2412(d) is payable to the prevailing litigant
+rather than the attorney. The EAJA does not legally
+obligate the Government to pay a prevailing litigant’s
+attorney, and the litigant’s obligation to pay her attorney
+is controlled not by the EAJA but by contract and the law
+governing that contract. That conclusion, however, does
+not answer the question whether Congress intended the
+Government to deduct moneys from EAJA fee awards to
+offset a litigant’s pre-existing and unrelated debt, as the
+Treasury Department began to do only in 2005 pursuant
+to its authority under the Debt Collection Improvement
+Act of 1996 (DCIA). In my view, it is likely both that
+Congress did not consider that question and that, had it
+done so, it would not have wanted EAJA fee awards to be
+subject to offset. Because such offsets undercut the effec
+tiveness of the EAJA and cannot be justified by reference
+to the DCIA’s text or purpose, it seems probable that
+Congress would have made, and perhaps will in the future
+make, the opposite choice if clearly presented with it.
+In enacting the EAJA, Congress found “that certain
+
+
+2
+
+ASTRUE v. RATLIFF
+SOTOMAYOR, J., concurring
+
+individuals, partnerships, corporations, and labor and
+other organizations may be deterred from seeking review
+of, or defending against, unreasonable governmental
+action because of the expense involved in securing the
+vindication of their rights in civil actions and in adminis
+trative proceedings.” §202(a), 94 Stat. 2325, note following
+5 U. S. C. §504, p. 684 (Congressional Findings). As we
+have often recognized, “the specific purpose of the EAJA is
+to eliminate for the average person the financial disincen
+tive to challenge unreasonable governmental actions.”
+Commissioner v. Jean, 496 U. S. 154, 163 (1990); see also
+Scarborough v. Principi, 541 U. S. 401, 406 (2004) (by
+“expressly authoriz[ing] attorney’s fee awards against the
+Federal Government,” Congress sought “ ‘to eliminate the
+barriers that prohibit small businesses and individuals
+from securing vindication of their rights in civil actions
+and administrative proceedings brought by or against the
+Federal Government’ ” (quoting H. R. Rep. No. 96–1005, p.
+9 (1979))); Sullivan v. Hudson, 490 U. S. 877, 883 (1989)
+(the EAJA was designed to address the problem that
+“ ‘[f]or many citizens, the costs of securing vindication of
+their rights and the inability to recover attorney fees
+preclude resort to the adjudicatory process’ ” (quoting
+S. Rep. No. 96–253, p. 5 (1979))). EAJA fee awards, which
+average only $3,000 to $4,000 per case, have proved to be
+a remarkably efficient way of improving access to the
+courts for the statute’s intended beneficiaries, including
+thousands of recipients of Social Security and veteran’s
+benefits each year.1 Brief for Respondent 4–5; see also
+Jean, 496 U. S., at 164, nn. 12–13.
+——————
+1 The EAJA makes fee awards available to challenge Government
+action under a wide range of statutes, but, as respondent notes, the
+vast majority of EAJA awards are made in these two contexts, with
+Social Security cases representing the lion’s share. Brief for Respon
+dent 4–5; Brief for National Organization of Social Security Claimants’
+Representatives et al. as Amici Curiae 22–23.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+SOTOMAYOR, J., concurring
+
+The EAJA’s admirable purpose will be undercut if law
+yers fear that they will never actually receive attorney’s
+fees to which a court has determined the prevailing party
+is entitled. The point of an award of attorney’s fees, after
+all, is to enable a prevailing litigant to pay her attorney.
+See, e.g., Missouri v. Jenkins, 491 U. S. 274, 285 (1989)
+(“We . . . take as our starting point the self-evident propo
+sition that the ‘reasonable attorney’s fee’ provided by [42
+U. S. C. §1988] should compensate” for “the work product
+of an attorney”); Hensley v. Eckerhart, 461 U. S. 424, 435
+(1983) (“Where a plaintiff has obtained excellent results,
+his attorney should recover a fully compensatory fee”). We
+have accordingly acknowledged that in litigants’ motions
+for attorney’s fees, “the real parties in interest are their
+attorneys.” Gisbrecht v. Barnhart, 535 U. S. 789, 798, n. 6
+(2002). Subjecting EAJA fee awards to administrative
+offset for a litigant’s debts will unquestionably make it
+more difficult for persons of limited means to find attor
+neys to represent them. See, e.g., Brief for National Or
+ganization of Social Security Claimants’ Representatives
+et al. as Amici Curiae 25 (hereinafter NOSSCR Brief).
+In its arguments before this Court, the Government
+resists this self-evident conclusion, but each of the three
+reasons it proffers is unpersuasive. First, the Government
+suggests that because EAJA fee awards are limited to
+those circumstances in which the Government’s position is
+not “substantially justified,” 28 U. S. C. §2412(d)(1)(A), no
+lawyer can rely on an EAJA fee award when deciding to
+take a case, so the possibility of an offset eliminating the
+award will play no additional role in the lawyer’s deci
+sion.2 Reply Brief for Petitioner 16–17. But it is common
+——————
+2 In its brief, the Government downplays the frequency with which fee
+awards under the EAJA are made. At oral argument, respondent’s
+counsel represented that EAJA fee awards are made in 42% of Social
+Security cases in which the claimant prevails and in 70% of all vet
+eran’s benefits cases filed. Tr. of Oral Arg. 42–43. The Government did
+
+
+4
+
+ASTRUE v. RATLIFF
+SOTOMAYOR, J., concurring
+
+sense that increasing the risk that an attorney will not
+receive a fee award will inevitably decrease the willing
+ness of attorneys to undertake representation in these
+kinds of cases.
+Second, the Government contends that any disincentive
+the fear of administrative offset may create is mitigated in
+the Social Security context by the Social Security Act’s
+independent provision authorizing a fee award payable
+directly to the attorney. See id., at 17–18 (citing 42
+U. S. C. §406(b)(1)(A)). But as the Government acknowl
+edges, the “EAJA’s fee-shifting provisions are potentially
+more generous than [the Social Security Act’s] in at least
+three respects”: (1) A court may not award attorney’s fees
+under the Social Security Act, but may under the EAJA,
+when the claimant wins only a procedural victory and does
+not obtain any past-due benefits; (2) fees under the Social
+Security Act are limited to a percentage of benefits
+awarded, while EAJA fees are calculated under the lode
+star method by examining the attorney’s reasonable hours
+expended and her reasonable hourly rate; and (3) in con
+trast to the Social Security Act, fees may be awarded
+under the EAJA in addition to, rather than out of, the
+benefits awarded. Brief for Petitioner 6–7. EAJA awards
+thus provide an important additional incentive for attor
+neys to undertake Social Security cases.
+Finally, the Government argues that lawyers can easily
+determine at the outset whether a potential client owes
+the Government a debt and can then assist the client in
+establishing a written repayment plan that would prevent
+an offset. Reply Brief for Petitioner 18. At oral argument,
+however, the Government acknowledged that it was not
+——————
+not contest the number for Social Security cases but suggested that the
+percentage of veteran’s benefits cases resulting in EAJA awards is
+closer to 50% or 60%. Id., at 52. Under either estimate, these are
+hardly vanishing odds of success for an attorney deciding whether to
+take a client’s case.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+SOTOMAYOR, J., concurring
+
+aware of any instance in which this has happened in the
+five years since it began subjecting EAJA fee awards to
+administrative offset. Tr. of Oral Arg. 12–13. It is not
+difficult to understand why. Helping a client establish a
+repayment plan would be a time-consuming endeavor
+uncompensated by any fee-shifting provision, and a client
+who needs such assistance is unlikely to have the funds to
+pay the attorney for that service. If the Government is
+instead suggesting that a lawyer can simply decline to
+represent a prospective client once she knows of the cli
+ent’s debtor status, that suggestion only proves my point.
+Cf. NOSSCR Brief 25 (describing deterrent effect of offsets
+on representation).
+In the end, the Government has no compelling response
+to the fact that today’s decision will make it more difficult
+for the neediest litigants to find attorneys to represent
+them in cases against the Government. I “find it difficult
+to ascribe to Congress an intent to throw” an EAJA liti
+gant “a lifeline that it knew was a foot short. . . . Given the
+anomalous nature of this result, and its frustration of the
+very purposes behind the EAJA itself, Congress cannot
+lightly be assumed to have intended it.” Sullivan, 490
+U. S., at 890.
+The Government suggests that it is possible to glean
+such intent from the fact that Congress did not expressly
+exempt EAJA awards from administrative offset under the
+DCIA. Reply Brief for Petitioner 19–20; 31 U. S. C.
+§3716(c)(1)(C) (specifying certain federal payments that
+are not subject to administrative offset); see also 31 CFR
+§285.5(e)(2) (2009) (identifying payments that are not
+subject to administrative offset because of a statutory
+exemption). If “application of the offset program to such
+awards will make it more difficult for Social Security
+claimants or other litigants to find attorneys,” the Gov
+ernment contends, the “provisions that govern the offset
+program indicate that Congress is willing to bear that
+
+
+6
+
+ASTRUE v. RATLIFF
+SOTOMAYOR, J., concurring
+
+cost.” Reply Brief for Petitioner 20. The history of these
+provisions indicates otherwise. For more than two dec
+ades after the EAJA was enacted in 1980, the Commis
+sioner of Social Security “consistently paid” EAJA fee
+awards directly to the attorney, not the prevailing party.
+Stephens ex rel. R. E. v. Astrue, 565 F. 3d 131, 135 (CA4
+2009); see also Bryant v. Commissioner of Social Security,
+578 F. 3d 443, 446 (CA6 2009); cf. ante, at 3, n. 3, 9–10.
+“In fact, the Commissioner created a direct deposit system
+for attorneys and issued [Internal Revenue Service] 1099
+forms directly to the attorneys who received awards, not
+ing the awards as taxable attorney income.” Stephens, 565
+F. 3d, at 135. Not until 2005, when the Treasury Depart
+ment extended the offset program to cover “miscellaneous”
+federal payments, including “fees,” did the Commissioner
+cease paying EAJA fee awards directly to attorneys and
+adopt the position that the awards were appropriately
+considered the property of the prevailing party. Id., at 136
+(internal quotation marks omitted); see also Bryant, 578
+F. 3d, at 446; ante, at 2, 10. Congress therefore had no
+reason to include a specific exemption of EAJA fee awards
+(in the Social Security context or otherwise) from the offset
+program when it enacted the DCIA in 1996.
+I am further reluctant to conclude that Congress would
+want EAJA fee awards to be offset for a prevailing liti
+gant’s unrelated debts because it is not likely to effectuate
+the DCIA’s purpose of “maximiz[ing] collections of delin
+quent debts owed to the Government by ensuring quick
+action to enforce recovery of debts and the use of all ap
+propriate collection tools.” §31001(b)(1), 110 Stat. 1321–
+358. This purpose would be better served if claimants are
+able to find attorneys to help them secure the benefits
+they are rightfully owed in the first place, thereby making
+available a source of funds to permit repayment of the
+claimants’ Government debts at all. See NOSSCR Brief
+32; see also 31 U. S. C. §3716(c)(3)(A) (after initial $9,000
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+SOTOMAYOR, J., concurring
+
+annual exemption, Social Security benefits are subject to
+administrative offset).
+While I join the Court’s opinion and agree with its tex
+tual analysis, the foregoing persuades me that the practi
+cal effect of our decision “severely undermines the
+[EAJA’s] estimable aim. . . . The Legislature has just cause
+to clarify beyond debate” whether this effect is one it
+actually intends. Bartlett v. Strickland, 556 U. S. 1, __
+(2009) (GINSBURG, J., dissenting) (slip op., at 1).
+
+

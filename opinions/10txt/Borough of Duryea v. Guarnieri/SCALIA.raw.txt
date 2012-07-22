@@ -1,0 +1,358 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+Opinion of SCALIA, J.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–1476
+_________________
+
+BOROUGH OF DURYEA, PENNSYLVANIA, ET AL., 
+
+PETITIONERS v. CHARLES J. GUARNIERI 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE THIRD CIRCUIT
+
+[June 20, 2011] 
+
+
+JUSTICE SCALIA, concurring in the judgment in part and
+dissenting in part.
+I disagree with two aspects of the Court’s reasoning.
+First, the Court is incorrect to state that our “precedents
+confirm that the Petition Clause protects the right of
+individuals to appeal to courts and other forums estab
+lished by the government for resolution of legal disputes.”
+Ante, at 6. Our first opinion clearly saying that lawsuits
+are “Petitions” under the Petition Clause came less than
+40 years ago. In California Motor Transport Co. v. Truck
+ing Unlimited, 404 U. S. 508 (1972),1 an opinion by Justice
+Douglas, the Court asserted that “[t]he right of access to
+the courts is indeed but one aspect of the right of petition.”
+Id., at 510. As authority it cited two habeas corpus cases,
+Johnson v. Avery, 393 U. S. 483 (1969), and Ex parte Hull,
+312 U. S. 546 (1941), neither of which even mentioned the
+Petition Clause. The assertion, moreover, was pure dic
+tum. The holding of California Motor Transport was that
+the Noerr-Pennington doctrine, a judicial gloss on the
+——————
+1 Respondent would agree, since he cited this case in argument as the
+earliest. Tr. of Oral Arg. 36. There were, however, three cases in the
+1960’s which adverted vaguely to lawsuits as involving the right to
+petition. See Mine Workers v. Illinois Bar Assn., 389 U. S. 217, 222–
+224 (1967); Trainmen v. Virginia ex rel. Virginia State Bar, 377 U. S. 1,
+7 (1964); NAACP v. Button, 371 U. S. 415, 430 (1963).
+
+
+2
+
+BOROUGH OF DURYEA v. GUARNIERI
+Opinion of SCALIA, J.
+
+Sherman Act that had been held to immunize certain
+lobbying (legislature-petitioning) activity, did not apply to
+sham litigation that “sought to bar . . . competitors from
+meaningful access to adjudicatory tribunals,” 404 U. S., at
+510–512. The three other cases cited by the Court as
+holding that lawsuits are petitions, ante, at 6, are all
+statutory interpretation decisions construing the National
+Labor Relations Act, albeit against the backdrop of the
+Petition Clause. See BE&K Constr. Co. v. NLRB, 536
+U. S. 516, 534–536 (2002); Sure-Tan, Inc. v. NLRB, 467
+U. S. 883, 896–897 (1984) Bill Johnson’s Restaurants, Inc.
+v. NLRB, 461 U. S. 731, 741–743 (1983). The Court has
+never actually held that a lawsuit is a constitutionally
+protected “Petition,” nor does today’s opinion hold that.
+The Court merely observes that “[t]he parties litigated the
+case on the premise that Guarnieri’s grievances and law
+suit are petitions protected by the Petition Clause,” ante,
+at 6, and concludes that Guarnieri’s 42 U. S. C. §1983
+claim would fail even if that premise were correct.
+I find the proposition that a lawsuit is a constitutionally
+protected “Petition” quite doubtful. The First Amend
+ment’s Petition Clause states that “Congress shall make
+no law . . . abridging . . . the right of the people . . . to
+petition the Government for a redress of grievances.” The
+reference to “the right of the people” indicates that the
+Petition Clause was intended to codify a pre-existing
+individual right, which means that we must look to
+historical practice to determine its scope. See District of
+Columbia v. Heller, 554 U. S. 570, 579, 592 (2008).
+There is abundant historical evidence that “Petitions”
+were directed to the executive and legislative branches of
+government, not to the courts. In 1765, the Stamp Act
+Congress stated “[t]hat it is the right of the British sub
+jects in these colonies to petition the King or either House
+of Parliament.” Declaration of Rights and Grievances,
+Art. 13, reprinted in 1 B. Schwartz, The Bill of Rights: A
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Opinion of SCALIA, J.
+
+Documentary History 195, 198 (1971); it made no mention
+of petitions directed to the courts. As of 1781, seven state
+constitutions protected citizens’ right to apply or petition
+for redress of grievances; all seven referred only to legisla
+tive petitions. See Andrews, A Right of Access to Court
+Under the Petition Clause of the First Amendment: De
+fining the Right, 60 Ohio St. L. J. 557, 604–605, n. 159
+(1999). The Judiciary Act of 1789 did not grant federal
+trial courts jurisdiction to hear lawsuits arising under
+federal law; there is no indication anyone ever thought
+that this restriction infringed on the right of citizens to
+petition the Federal Government for redress of grievances.
+The fact that the Court never affirmed a First Amendment
+right to litigate until its unsupported dictum in 1972—
+after having heard almost 200 years’ worth of lawsuits,
+untold numbers of which might have been affected by a
+First Amendment right to litigate—should give rise to a
+strong suspicion that no such right exists. “[A] universal
+and long-established tradition of prohibiting certain con
+duct creates a strong presumption that the prohibition is
+constitutional: Principles of liberty fundamental enough to
+have been embodied within constitutional guarantees are
+not readily erased from the Nation’s consciousness.”
+Nevada Comm’n on Ethics v. Carrigan, ante, at 4 (internal
+quotation marks omitted).
+I acknowledge, however, that scholars have made de
+tailed historical arguments to the contrary. See, e.g.,
+Andrews, supra, at 595–625; Pfander, Sovereign Immu
+nity and the Right to Petition: Toward a First Amendment
+Right to Pursue Judicial Claims Against the Government,
+91 Nw. U. L. Rev. 899, 903–962 (1997). As the Court’s
+opinion observes, the parties have not litigated the issue,
+and so I agree we should leave its resolution to another
+day.
+Second, and of greater practical consequence, I disagree
+with the Court’s decision to apply the “public concern”
+
+
+4
+
+BOROUGH OF DURYEA v. GUARNIERI
+Opinion of SCALIA, J.
+
+framework of Connick v. Myers, 461 U. S. 138 (1983), to
+retaliation claims brought under the Petition Clause. The
+Court correctly holds that the Speech Clause and Petition
+Clause are not co-extensive, ante, at 7–8. It acknowledges,
+moreover, that the Petition Clause protects personal
+grievances addressed to the government, ante, at 13. But
+that is an understatement—rather like acknowledging
+that the Speech Clause protects verbal expression. “[T]he
+primary responsibility of colonial assemblies was the
+settlement of private disputes raised by petitions.” Hig
+ginson, A Short History of the Right to Petition Govern
+ment for the Redress of Grievances, 96 Yale L. J. 142, 145
+(1986). “[T]he overwhelming majority of First Congress
+petitions presented private claims.” 8 Documentary His
+tory of the First Federal Congress 1789–1791, p. xviii (K.
+Bowling, W. DiGiacomantonio, & C. Bickford eds. 1998).
+The Court nonetheless holds that, at least in public em
+ployment cases, the Petition Clause and Speech Clause
+should be treated identically, so that since the Speech
+Clause does not prohibit retaliation against public em
+ployees for speaking on matters of private concern, neither
+does the Petition Clause. The Court gives two reasons for
+this: First, “[a] different rule for each First Amendment
+claim would . . . add to the complexity and expense of
+compliance with the Constitution” and “would provide a
+ready means for public employees to circumvent the test’s
+protections,” and second, “[p]etitions to the government
+. . . assume an added dimension when they seek to ad
+vance political, social, or other ideas of interest to the
+community as a whole.” Ante, at 12–14.
+Neither reason is persuasive. As to the former: The
+complexity of treating the Petition Clause and Speech
+Clause separately is attributable to the inconsiderate
+disregard for judicial convenience displayed by those who
+ratified a First Amendment that included both provisions
+as separate constitutional rights. A plaintiff does not
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Opinion of SCALIA, J.
+
+engage in pernicious “circumvention” of our Speech
+Clause precedents when he brings a claim premised on a
+separate enumerated right to which those precedents are
+inapplicable.
+As to the latter: Perhaps petitions on matters of public
+concern do in some sense involve an “added dimension,”
+but that “added dimension” does not obliterate what has
+traditionally been the principal dimension of the Petition
+Clause. The public-concern limitation makes sense in the
+context of the Speech Clause, because it is speech on mat
+ters of public concern that lies “within the core of First
+Amendment protection.” Engquist v. Oregon Dept. of Agri
+culture, 553 U. S. 591, 600 (2008). The Speech Clause
+“has its fullest and most urgent application to speech
+uttered during a campaign for political office.” Citizens
+United v. Federal Election Comm’n, 558 U. S. ___, ___
+(2010) (slip op., at 23) (internal quotation marks omitted).
+The unique protection granted to political speech is
+grounded in the history of the Speech Clause, which “was
+fashioned to assure unfettered interchange of ideas for the
+bringing about of political and social changes desired by
+the people.” Connick, supra, at 145 (internal quotation
+marks omitted).
+But the mere fact that we have a longstanding tradition
+of granting heightened protection to speech of public con
+cern does not suggest that a “public concern” requirement
+should be written into other constitutional provisions. We
+would not say that religious proselytizing is entitled to
+more protection under the Free Exercise Clause than
+private religious worship because public proclamations are
+“core free exercise activity.” Nor would we say that the
+due process right to a neutral adjudicator is heightened in
+the context of litigation of national importance because
+such litigation is somehow at the “core of the due process
+guarantee.” Likewise, given that petitions to redress
+private grievances were such a high proportion of petitions
+
+
+6
+
+BOROUGH OF DURYEA v. GUARNIERI
+Opinion of SCALIA, J.
+
+at the founding—a proportion that is infinitely higher if
+lawsuits are considered to be petitions—it is ahistorical to
+say that petitions on matters of public concern constitute
+“core petitioning activity.” In the Court’s view, if Guar
+nieri had submitted a letter to one of the borough of
+Duryea’s council members protesting a tax assessment
+that he claimed was mistaken; and if the borough had
+fired him in retaliation for that petition; Guarnieri would
+have no claim for a Petition Clause violation. That has to
+be wrong. It takes no account of, and thus frustrates, the
+principal purpose of the Petition Clause.
+The Court responds that “[t]he proper scope and appli
+cation of the Petition Clause . . . cannot be determined
+merely by tallying up petitions to the colonial legisla
+tures,” ante, at 14, but that misses the point. The text of
+the Petition Clause does not distinguish petitions of public
+concern from petitions of private concern. Accordingly,
+there should be no doctrinal distinction between them
+unless the history or tradition of the Petition Clause justi
+fies it. The mere fact that the Court can enumerate sev
+eral historical petitions of public importance, ante, at 14–
+16, does not establish such a tradition, given that peti
+tions for redress of private grievances vastly outnumbered
+them. Indeed, the Court’s holding is contrary to this
+Court’s historical treatment of the Petition Clause, assum
+ing (as the Court believes) that the Clause embraces liti
+gation: We have decided innumerable cases establishing
+constitutional rights with respect to litigation, and until
+today not a one of them has so much as hinted that litiga
+tion of public concern enjoys more of those rights than
+litigation of private concern. The Court’s belief in the
+social importance of public petitions, and its reminiscences
+of some of the public-petition greats of yesteryear, ibid., do
+not justify the proclamation of special constitutional rights
+for public petitions. It is the Constitution that establishes
+constitutional rights, not the Justices’ notions of what is
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+Opinion of SCALIA, J.
+
+important, or the top numbers on their Petition Hit Pa
+rade. And there is no basis for believing that the Petition
+Clause gives special protection to public petitions.
+Rather than shoehorning the “public concern” doctrine
+into a Clause where it does not fit, we should hold that
+the Petition Clause protects public employees against re
+taliation for filing petitions unless those petitions are ad
+dressed to the government in its capacity as the petition
+ers’ employer, rather than its capacity as their sovereign.
+As the Court states, we have long held that “government
+has significantly greater leeway in its dealings with citi
+zen employees than it does when it brings its sovereign
+power to bear on citizens at large.” Ante, at 11–12 (quot
+ing Engquist, supra, at 599; internal quotation marks
+omitted). To apply to the Petition Clause context what we
+have said regarding the Speech Clause: When an em
+ployee files a petition with the government in its capacity
+as his employer, he is not acting “as [a] citize[n] for First
+Amendment purposes,” because “there is no relevant
+analogue to [petitions] by citizens who are not government
+employees.” Garcetti v. Ceballos, 547 U. S. 410, 421, 423–
+424 (2006). To be sure, the line between a petition ad
+dressed to government as the petitioner’s employer and
+one addressed to it as sovereign is not always clear, but it
+is no more fuzzy than the line between matters of private
+and matters of public concern.2 The criterion I suggest
+——————
+2 Compare,
+
+e.g., Alpha Energy Savers, Inc. v. Hansen, 381 F. 3d 917,
+927 (CA9 2004) (testimony concerning claim of employment discrimina
+tion by government contractor constituted matter of public concern
+because “[l]itigation seeking to expose . . . wrongful governmental
+activity is, by its very nature, a matter of public concern”), with Padilla
+v. South Harrison R-II School Dist., 181 F. 3d 992, 997 (CA8 1999)
+(teacher’s testimony approving sexual relationship between teacher and
+minor was matter of private concern because it “does not relate to the
+teacher’s legitimate disagreement with a school board’s policies”). And
+compare, e.g., Voigt v. Savell, 70 F. 3d 1552, 1560 (CA9 1995) (speech
+regarding how judge handled two internal personnel matters was
+
+
+8
+
+BOROUGH OF DURYEA v. GUARNIERI
+Opinion of SCALIA, J.
+
+would largely resolve the legitimate practical concerns
+identified by the Court, ante, at 10–12, while recognizing
+and giving effect to the difference between the Speech and
+Petition Clauses.
+Under what I think to be the proper test, the Third
+Circuit judgment before us here should be reversed in part
+and affirmed in part. The portion of it upholding Guarni
+eri’s claim of retaliation for having filed his union griev
+ance must be reversed. A union grievance is the epitome
+of a petition addressed to the government in its capacity
+as the petitioner’s employer. No analogous petitions to the
+government could have been filed by private citizens, who
+are not even permitted to avail themselves of Guarnieri’s
+union grievance procedure. Contrariwise, the portion of
+the judgment upholding Guarnieri’s claim of retaliation
+for having filed his §1983 claim must be affirmed. Given
+that Guarnieri was not an employee of the Federal Gov
+ernment, it is impossible to say that the §1983 claim was
+addressed to government in its capacity as his employer. I
+think it clear that retaliating against a state employee for
+writing a letter to his Congressman about his state job
+would run afoul of the Petition Clause. Assuming that the
+§1983 lawsuit should be treated like a letter to a Con
+gressman for Petition Clause purposes—a proposition
+which, I again emphasize, is doubtful, but which the par
+ties do not dispute in this case—retaliation for having filed
+his lawsuit also violates the Clause.
+
+——————
+matter of public concern because “[t]he public has an interest in know
+ing whether the court treats its job applicants fairly”), with Maggio v.
+Sipple, 211 F. 3d 1346, 1353 (CA11 2000) (testimony at hearing con
+cerning employee grievance was matter of private concern because it
+did “not allege . . . fraud or corruption in [defendant’s] implementation
+of its personnel policies and appeal procedures”).
+
+

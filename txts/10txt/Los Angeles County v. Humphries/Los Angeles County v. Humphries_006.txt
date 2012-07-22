@@ -1,0 +1,45 @@
+4
+
+LOS ANGELES COUNTY v. HUMPHRIES
+Opinion of the Court
+
+spect to the county’s obligation to pay $60,000 in attor
+ney’s fees. That, it wrote, is because “in our circuit . . . the
+limitations to liability established in Monell do not apply
+to claims for prospective relief,” such as the declaratory
+judgment that the Circuit had ordered entered. First Fee
+Order 3–4 (citing Chaloux v. Killeen, 886 F. 2d 247, 250
+(CA9 1989); Truth v. Kent School Dist., 542 F. 3d 634, 644
+(CA9 2008); emphasis added).
+The county then asked us to review this last-mentioned
+Ninth Circuit holding, namely, the holding that Monell’s
+“policy or custom” requirement applies only to claims for
+damages but not to claims for prospective relief. Because
+the Courts of Appeals are divided on this question, we
+granted the county’s petition for certiorari. Compare
+Reynolds v. Giuliani, 506 F. 3d 183, 191 (CA2 2007) (hold
+ing that Monell’s “policy or custom” requirement applies to
+claims for prospective relief as well as claims for dam
+ages); Dirrane v. Brookline Police Dept., 315 F. 3d 65, 71
+(CA1 2002) (same); Greensboro Professional Fire Fighters
+Assn., Local 3157 v. Greensboro, 64 F. 3d 962, 967, n. 6
+(CA4 1995) (applying the Monell requirement to a prospec
+tive relief claim); Church v. Huntsville, 30 F. 3d 1332,
+1347 (CA11 1994) (same), with Chaloux, supra, at 251
+(holding that Monell does not apply to prospective relief
+claims). See also Gernetzke v. Kenosha Unified School
+Dist. No. 1, 274 F. 3d 464, 468 (CA7 2001) (reserving the
+question but noting the “predominant” view that “Monell’s
+holding applies regardless of the nature of the relief
+sought”).
+We conclude that Monell’s holding applies to §1983
+claims against municipalities for prospective relief as well
+as to claims for damages.
+II 
+
+A
+
+We begin with §1983 itself, which provides: 
+
+
+

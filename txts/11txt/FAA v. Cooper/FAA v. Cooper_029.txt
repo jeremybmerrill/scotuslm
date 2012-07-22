@@ -1,0 +1,40 @@
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+SOTOMAYOR, J., dissenting
+
+(1997) (statutory interpretation must consider “the
+broader context of the statute as a whole”).4
+The majority draws a different conclusion from the substantive provisions of the Privacy Act. It (correctly) infers from them that the Act “serves interests similar to
+those protected by defamation and privacy torts.” Ante,
+at 9. It then points to our observation in Doe v. Chao, 540
+U. S. 614, 625 (2004), that the Act’s civil-remedies provision “parallels” the remedial scheme for the common-law
+torts of defamation per quod, which permitted recovery
+of “general damages” (i.e., presumed damages) only if a
+plaintiff first establishes “special damages” (i.e., monetary
+loss).5 Ante, at 10. That “parallel,” the majority concludes, “suggests the possibility that Congress intended
+the term ‘actual damages’ in the Act to mean special damages.” Ante, at 11.
+The majority reads too much into Doe. At issue in that
+——————
+4 It bears noting that the Privacy Act does not authorize injunctive
+relief when a suit is maintained under 5 U. S. C. §§552a(g)(1)(C) and
+(D). Rather, injunctive relief is available under the Act only for a
+limited category of suits: suits to amend a record and suits for access to
+a record. See §§552a(g)(2), (g)(3). Thus an individual who, like petitioner, brings suit under subparagraph (g)(1)(C) or (D) for an intentional or willful violation of the Act will be without a remedy under
+the majority’s reading of “actual damages.”
+5 As the majority notes, “general damages” at common law refers to
+damages “presumed” to accrue from the violation of the legally protected right. No proof of actual injury was required. See D. Dobbs,
+Law of Remedies §7.2, p. 513 (1973) (hereinafter Dobbs); Doe, 540 U. S.,
+at 621. “Special damages,” in contrast, “meant monetary loss.” Dobbs §7.2,
+at 512; Doe, 540 U. S., at 625. Common-law defamation actions falling
+within the rubric of defamation per se allowed successful plaintiffs to
+recover “general damages.” See Dobbs §7.2, at 513; Doe, 540 U. S., at
+621. This stood in contrast to actions sounding in defamation per quod,
+which permitted recovery only if the plaintiff established “special
+damages.” See Dobbs, §7.2 at 512; Doe, 540 U. S., at 625. Even in
+defamation per quod cases, a plaintiff could recover nonpecuniary
+injuries upon establishing some pecuniary loss. See Dobbs §7.2, at 521;
+Doe, 540 U. S., at 625. See also ante, at 10.
+
+

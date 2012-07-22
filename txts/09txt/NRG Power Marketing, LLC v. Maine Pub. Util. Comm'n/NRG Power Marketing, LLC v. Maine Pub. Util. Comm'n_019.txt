@@ -1,0 +1,54 @@
+6
+
+NRG POWER MARKETING, LLC v. MAINE PUB. 
+
+UTIL. COMM’N
+STEVENS, J., dissenting 
+
+
+
+
+
+the public.4 Otherwise, it would hardly serve to protect
+contract stability better than the plain vanilla just-and
+reasonable standard and the Court’s decision in Morgan
+Stanley would have little effect. Furthermore, the Court
+today reiterates that the doctrine poses a high bar. See
+ante, at 7–8.
+It was sensible to require a contracting party to show
+something more than its own desire to get out of what
+proved to be a bad bargain before FERC could abrogate
+the parties’ bargain. It is not sensible, nor authorized by
+the statute, for the Court to change the de facto standard
+of review whenever a rate is set by private contract, based
+solely on the Court’s view that contract stability should be
+——————
+4 In my view, “whether a rate is ‘just and reasonable’ is measured
+against the public interest, not the private interests of regulated
+[parties].” Id., at ___ (slip op., at 7). But I note the Court’s assertion
+that the Mobile-Sierra doctrine protects “third-party interests,” ante, at
+9, is a new twist on the “public interest standard” as traditionally
+understood. As the Court recognized in Morgan Stanley, one conse
+quence of applying Mobile-Sierra is that “ ‘the sole concern of the
+Commission’ ” is the public interest, and FERC cannot consider, for
+example, whether a rate guarantees a sufficient rate of return to a
+regulated entity. 554 U. S., at ___ (slip op., at 4) (quoting FPC v. Sierra
+Pacific Power Co., 350 U. S. 348, 355 (1956)); see also Morgan Stanley,
+554 U. S., at ___ (slip op., at 17, n. 3). In addition to requiring that
+FERC find some greater degree of harm to the public than would be
+required under the ordinary just-and-reasonable standard, therefore,
+the Mobile-Sierra doctrine leaves little room for respondents—at least
+one of which did not negotiate the rate but must nonetheless purchase
+electricity at that price in the forward capacity market unless it self
+supplies its capacity—to assert their private interest in making a rate
+challenge. The Court suggests that FERC could set aside a rate under
+the public interest standard if the contract established favorable rates
+between allied businesses to the detriment of other wholesale custom
+ers, ante, at 9, but has not spelled out whether a challenger would still
+have to show that circumstance harmed the public interest. It remains
+unclear whether a noncontracting party that must purchase or sell
+electricity at a rate it did not negotiate could argue that a rate fails the
+“public interest standard” because the rate is detrimental to that
+entity’s private interest.
+
+

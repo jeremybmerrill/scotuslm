@@ -1,0 +1,43 @@
+4
+
+WILSON v. CORCORAN
+Per Curiam
+
+On remand—and without any opportunity for briefing
+by the parties—the Court of Appeals changed course and
+granted habeas relief. Corcoran v. Levenhagen, 593 F. 3d
+547, 555 (2010). After determining that respondent’s
+sentencing challenge had been waived by his failure to
+include it in his original cross-appeal, the Seventh Circuit
+concluded that the claim satisfied plain-error review. Id.,
+at 551. The panel explained that, “unlike the Indiana
+Supreme Court,” it was unsatisfied with the trial court’s
+representation that it relied only on aggravating factors
+authorized by Indiana law. Ibid. Because the trial court’s
+revised sentencing order said that it used the nonstatutory
+factors of heinousness, victims’ innocence, and future
+dangerousness to determine the weight given to the ag
+gravator of multiple murders, the Seventh Circuit con
+cluded that the Indiana Supreme Court had made an
+“ ‘unreasonable determination of the facts’ ” when it ac
+cepted the trial court’s representation that it did not rely
+on those factors as aggravating circumstances. Ibid.
+(quoting 28 U. S. C. §2254(d)(2)). The panel therefore
+required the Indiana trial court to reconsider its sentenc
+ing determination in order to “prevent non-compliance
+with Indiana law.” 593 F. 3d, at 552–553.
+But it is only noncompliance with federal law that ren
+ders a State’s criminal judgment susceptible to collateral
+attack in the federal courts. The habeas statute unambi
+guously provides that a federal court may issue the writ to
+a state prisoner “only on the ground that he is in custody
+in violation of the Constitution or laws or treaties of the
+United States.” 28 U. S. C. §2254(a). And we have re
+peatedly held that “ ‘federal habeas corpus relief does not
+lie for errors of state law.’ ” Estelle v. McGuire, 502 U. S.
+62, 67 (1991) (quoting Lewis v. Jeffers, 497 U. S. 764, 780
+(1990)). “[I]t is not the province of a federal habeas court
+to reexamine state-court determinations on state-law
+questions.” 502 U. S., at 67–68. But here, the panel’s
+
+

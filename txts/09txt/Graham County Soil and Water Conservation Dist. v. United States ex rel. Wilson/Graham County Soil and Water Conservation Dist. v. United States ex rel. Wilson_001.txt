@@ -1,0 +1,55 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+GRAHAM COUNTY SOIL AND WATER CONSERVA-
+
+TION DISTRICT ET AL. v. UNITED STATES EX REL.
+
+WILSON 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FOURTH CIRCUIT
+No. 08–304.
+
+Argued November 30, 2009—Decided March 30, 2010
+
+The False Claims Act (FCA) authorizes both the Attorney General and
+private qui tam relators to recover from persons who make false or
+fraudulent payment claims to the United States, but it bars qui tam
+actions based upon the public disclosure of allegations or transactions
+in, inter alia, “a congressional, administrative, or Government Ac
+counting Office [(GAO)] report, hearing, audit, or investigation.” 31
+U. S. C. §3730(e)(4)(A). Here, federal contracts provided that two
+North Carolina counties would remediate areas damaged by flooding
+and that the Federal Government would shoulder most of the costs.
+Respondent Wilson, then an employee of a local government body in
+volved in this effort, alerted local and federal officials about possible
+fraud. Both the county and the State issued reports identifying po
+tential irregularities in the contracts’ administration. Subsequently,
+Wilson filed a qui tam action, alleging, as relevant here, that peti
+tioners, county conservation districts and local and federal officials,
+knowingly submitted false payment claims in violation of the FCA.
+The District Court ultimately dismissed for lack of jurisdiction be
+cause Wilson had not refuted that her action was based upon allega
+tions publicly disclosed in the county and state reports, which it held
+were “administrative” reports under the FCA’s public disclosure bar.
+In reversing, the Fourth Circuit concluded that only federal adminis
+trative reports may trigger the public disclosure bar.
+Held: The reference to “administrative” reports, audits, and investiga
+tions in §3730(e)(4)(A) encompasses disclosures made in state and lo
+cal sources as well as federal sources. Pp. 4–21.
+
+

@@ -1,0 +1,117 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+ORTIZ v. JORDAN ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SIXTH CIRCUIT
+No. 09–737.
+
+Argued November 1, 2010—Decided January 24, 2011
+
+Petitioner Ortiz, a former inmate in an Ohio reformatory, brought a
+civil rights action under 42 U. S. C. §1983 seeking a judgment for
+damages against superintending prison officers. On two consecutive
+nights during her incarceration, Ortiz stated, she was sexually as
+saulted by a corrections officer. Although she promptly reported the
+first assault, she further alleged, respondent Jordan, a case manager
+in her living unit, did nothing to ward off the second sexual assault,
+despite Jordan’s awareness of the substantial risk of that occurrence.
+Ortiz further charged that respondent Bright, a prison investigator,
+retaliated against Ortiz for her accusations by placing her, shackled
+and handcuffed, in solitary confinement in a cell without adequate
+heat, clothing, bedding, or blankets. The responses of both officers,
+she said, violated her right, safeguarded by the Eighth and Four
+teenth Amendments, to reasonable protection from violence while in
+custody.
+Jordan and Bright moved for summary judgment on pleas of
+“qualified immunity.” The District Court, noting factual disputes
+material to Ortiz’s claims and the officers’ qualified immunity de
+fenses, denied the summary judgment motion. The officers did not
+appeal that ruling. The case proceeded to trial, and the jury returned
+a verdict against Jordan and Bright. They sought judgment as a
+matter of law, pursuant to Federal Rule of Civil Procedure 50(a), both
+at the close of Ortiz’s evidence and at the close of their own presenta
+tion. But they did not contest the jury’s liability finding by renewing,
+under Rule 50(b), their request for judgment as a matter of law. Nor
+did they request a new trial under Rule 59(a). The District Court en
+tered judgment for Ortiz. On appeal, Jordan and Bright urged, inter
+alia, that the District Court should have granted their motion for
+
+
+2
+
+ORTIZ v. JORDAN
+Syllabus
+summary judgment based on their qualified immunity defense. The
+Sixth Circuit agreed and reversed the judgment entered on the jury’s
+verdict, holding that both defendants were sheltered from Ortiz’s suit
+by qualified immunity.
+
+Held: A party may not appeal a denial of summary judgment after a
+district court has conducted a full trial on the merits. A qualified
+immunity plea, not upheld at the summary judgment stage, may be
+pursued at trial, but at that stage, the plea must be evaluated in
+light of the character and quality of the evidence received in court.
+Ordinarily, orders denying summary judgment are interlocutory and
+do not qualify as “final decisions” subject to appeal under 28 U. S. C.
+§1291. Because a qualified immunity plea can spare an official not
+only from liability but from trial, this Court has recognized a limited
+exception to the categorization of summary judgment denials as non
+appealable orders. Mitchell v. Forsyth, 472 U. S. 511, 525–526. The
+exception permits an immediate appeal when summary judgment is
+denied to a defendant who urges that qualified immunity shelters her
+from suit. Id., at 527. Such an immediate appeal is not available,
+however, when the district court determines that factual issues genu
+inely in dispute preclude summary adjudication. Johnson v. Jones,
+515 U. S. 304, 313. Here, Jordan and Bright sought no immediate
+appeal from the denial of their summary judgment motion. Nor did
+they avail themselves of Rule 50(b), which permits the entry of judg
+ment, postverdict, for the verdict loser if the court finds the evidence
+legally insufficient to sustain the verdict. Absent such a motion, an
+appellate court is “powerless” to review the sufficiency of the evidence
+after trial. Unitherm Food Systems, Inc. v. Swift-Eckrich, Inc., 546
+U. S. 394, 405. This Court need not address the officers’ argument
+that a qualified immunity plea raising a “purely legal” issue is pre
+served for appeal by an unsuccessful summary judgment motion even
+if the plea is not reiterated in a Rule 50(b) motion. Cases fitting that
+bill typically involve disputes about the substance and clarity of pre
+existing law. In this case, however, what was controverted was not
+the pre-existing law, but the facts that could render Jordan and
+Bright answerable under §1983, e.g., whether Jordan was adequately
+informed, after the first assault, of the assailant’s identity and of
+Ortiz’s fear of a further assault. Because the dispositive facts were
+disputed, the officers’ qualified immunity defenses did not present
+“ ‘neat abstract issues of law.’ ” Johnson, 515 U. S., at 317. To the ex
+tent that Jordan and Bright urge Ortiz has not proved her case, they
+were, by their own account, obliged to raise that sufficiency-of-the
+evidence issue by postverdict motion for judgment as a matter of law
+under Rule 50(b). They did not do so. The Sixth Circuit, therefore,
+had no warrant to upset the jury’s decision on their liability. Pp. 6–
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+Syllabus
+11.
+316 Fed. Appx. 449, reversed and remanded.
+GINSBURG, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and BREYER, ALITO, SOTOMAYOR, and KAGAN, JJ., joined. THOMAS,
+J., filed an opinion concurring in the judgment, in which SCALIA and
+KENNEDY, JJ., joined.
+
+

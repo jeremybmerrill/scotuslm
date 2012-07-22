@@ -1,0 +1,55 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+TALK AMERICA, INC. v. MICHIGAN BELL TELE-
+
+PHONE CO. DBA AT&T MICHIGAN 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SIXTH CIRCUIT
+No. 10–313.
+
+Argued March 30, 2011—Decided June 9, 2011*
+
+The Telecommunications Act of 1996 requires incumbent local ex
+change carriers (LECs)—i.e., providers of local telephone service—to
+share their physical networks with competitive LECs at cost-based
+rates in two ways relevant here. First, 47 U. S. C. §251(c)(3) requires
+an incumbent LEC to lease “on an unbundled basis”—i.e., a la carte—
+network elements specified by the Federal Communications Commis
+sion (FCC) to allow a competitor to create its own network without
+having to build every element from scratch. In identifying those ele
+ments, the FCC must consider whether access is “necessary” and
+whether failing to provide it would “impair” the competitor’s provi
+sion of service. §251(d)(2). Second, §251(c)(2) mandates that incum
+bent LECs “provide . . . interconnection” between their networks and
+competitive LECs’ to ensure that a competitor’s customers can call
+the incumbent’s customers, and vice versa. The interconnection duty
+is independent of the unbundling rules and not subject to impairment
+analysis.
+In 2003, the FCC issued its Triennial Review Order deciding, con
+trary to previous orders, that §251(c)(3) did not require an incumbent
+LEC to provide a competitive LEC with cost-based unbundled access
+to existing “entrance facilities”—i.e., transmission facilities (typically
+wires or cables) that connect the two LECs’ networks—because such
+facilities are not network elements at all. The FCC noted, however,
+that entrance facilities are used for both interconnection and back
+hauling, and it emphasized that its order did not alter incumbent
+——————
+* Together with No. 10–329, Isiogu et al. v. Michigan Bell Telephone
+Co. dba AT&T Michigan, also on certiorari to the same court.
+
+

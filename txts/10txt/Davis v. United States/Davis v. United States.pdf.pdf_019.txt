@@ -1,0 +1,46 @@
+16
+
+DAVIS v. UNITED STATES
+Opinion of the Court
+
+line of cases.6
+B
+Davis also contends that applying the good-faith ex
+ception to searches conducted in reliance on binding pre
+cedent will stunt the development of Fourth Amendment
+law. With no possibility of suppression, criminal defen
+dants will have no incentive, Davis maintains, to request
+that courts overrule precedent.7
+1
+This argument is difficult to reconcile with our modern
+understanding of the role of the exclusionary rule. We
+have never held that facilitating the overruling of prece
+dent is a relevant consideration in an exclusionary-rule
+case. Rather, we have said time and again that the sole
+purpose of the exclusionary rule is to deter misconduct by
+law enforcement. See, e.g., Sheppard, 468 U. S., at 990
+(“ ‘adopted to deter unlawful searches by police’ ”); Evans,
+supra, at 14 (“historically designed as a means of deterring
+police misconduct”).
+We have also repeatedly rejected efforts to expand the
+focus of the exclusionary rule beyond deterrence of culpa
+ble police conduct. In Leon, for example, we made clear
+——————
+6 Nor
+
+does United States v. Johnson, 457 U. S. 537 (1982), foreclose
+application of the good-faith exception in cases involving changing law.
+Johnson distinguished Peltier and held that all Fourth Amendment
+cases should be retroactive on direct review so long as the new decision
+is not a “clear break” from prior precedent. 457 U. S., at 562. Johnson
+had no occasion to opine on the good-faith exception to the exclusionary
+rule, which we adopted two years later in Leon.
+7 Davis also asserts that a good-faith rule would permit “new Fourth
+Amendment decisions to be applied only prospectively,” thus amounting
+to “a regime of rule-creation by advisory opinion.” Brief for Petitioner
+23, 25. For reasons discussed in connection with Davis’s argument that
+application of the good-faith exception here would revive the Linkletter
+regime, this argument conflates the question of retroactivity with the
+question of remedy.
+
+

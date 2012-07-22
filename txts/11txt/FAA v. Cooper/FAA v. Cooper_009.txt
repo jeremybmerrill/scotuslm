@@ -1,0 +1,42 @@
+6
+
+FAA v. COOPER
+Opinion of the Court
+
+required that Congress use magic words. To the contrary,
+we have observed that the sovereign immunity canon “is
+a tool for interpreting the law” and that it does not “dis­
+plac[e] the other traditional tools of statutory construc­
+tion.” Richlin Security Service Co. v. Chertoff, 553 U. S.
+571, 589 (2008). What we thus require is that the scope of
+Congress’ waiver be clearly discernable from the statutory
+text in light of traditional interpretive tools. If it is not,
+then we take the interpretation most favorable to the
+Government.
+B
+The civil remedies provision of the Privacy Act provides
+that, for any “intentional or willful” refusal or failure to
+comply with the Act, the United States shall be liable for
+“actual damages sustained by the individual as a result of
+the refusal or failure, but in no case shall a person entitled
+to recovery receive less than the sum of $1,000.” 5 U. S. C.
+§552a(g)(4)(A). Because Congress did not define “actual
+damages,” respondent urges us to rely on the ordinary
+meaning of the word “actual” as it is defined in standard
+general-purpose dictionaries. But as the Court of Appeals
+explained, “actual damages” is a legal term of art, 622
+F. 3d, at 1028, and it is a “cardinal rule of statutory con­
+struction” that, when Congress employs a term of art, “ ‘it
+presumably knows and adopts the cluster of ideas that
+were attached to each borrowed word in the body of learn­
+ing from which it was taken,’ ” Molzof v. United States, 502
+U. S. 301, 307 (1992) (quoting Morissette v. United States,
+342 U. S. 246, 263 (1952)).
+Even as a legal term, however, the meaning of “actual
+damages” is far from clear. The latest edition of Black’s
+Law Dictionary available when Congress enacted the
+Privacy Act defined “actual damages” as “[r]eal, substan­
+tial and just damages, or the amount awarded to a com­
+plainant in compensation for his actual and real loss or
+
+

@@ -1,0 +1,48 @@
+Cite as: 561 U. S. ____ (2010)
+
+11
+
+STEVENS, J., concurring in judgment
+
+141, 151 (1989).3
+The text of the Patent Act does not on its face give much
+guidance about what constitutes a patentable process.
+The statute defines the term “process” as a “process, art or
+method [that] includes a new use of a known process,
+machine, manufacture, composition of matter, or mate
+rial.” §100(b). But, this definition is not especially help
+ful, given that it also uses the term “process” and is there
+fore somewhat circular.
+As lay speakers use the word “process,” it constitutes
+any series of steps. But it has always been clear that, as
+used in §101, the term does not refer to a “ ‘process’ in the
+ordinary sense of the word,” Flook, 437 U. S., at 588; see
+also Corning v. Burden, 15 How. 252, 268 (1854) (“[T]he
+term process is often used in a more vague sense, in which
+it cannot be the subject of a patent”). Rather, as discussed
+in some detail in Part IV, infra, the term “process” (along
+with the definitions given to that term) has long accumu
+lated a distinctive meaning in patent law. When the term
+was used in the 1952 Patent Act, it was neither intended
+nor understood to encompass any series of steps or any
+way to do any thing.
+With that understanding in mind, the Government has
+——————
+3 The
+
+Court quotes our decision in Diamond v. Chakrabarty, 447 U. S.
+303 (1980), for the proposition that, “ ‘[i]n choosing such expansive
+terms . . . modified by the comprehensive “any,” Congress plainly
+contemplated that the patent laws would be given wide scope.’ ” Ante,
+at 4. But the Court fails to mention which terms we were discussing in
+Chakrabarty: the terms “manufacture” and “composition of matter.”
+See 447 U. S., at 308 (“In choosing such expansive terms as ‘manufac
+ture’ and ‘composition of matter,’ modified by the comprehensive ‘any,’
+Congress plainly contemplated that the patent laws would be given
+wide scope”). As discussed herein, Congress’ choice of the term “proc
+ess” reflected a background understanding of what sorts of series of
+steps could be patented, and likely reflected an intentional design to
+codify that settled, judicial understanding. This may not have been the
+case with the terms at issue in Chakrabarty.
+
+

@@ -1,0 +1,301 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+Per Curiam
+
+SUPREME COURT OF THE UNITED STATES
+UNITED STATES v. JUVENILE MALE
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED 
+
+STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 09–940
+
+Decided June 27, 2011
+
+
+PER CURIAM.
+The Court of Appeals in this case held that the require
+ments of the Sex Offender Registration and Notification
+Act (SORNA), 42 U. S. C. §16901 et seq., violate the Ex
+Post Facto Clause of the Constitution, Art. I, §9, cl. 3,
+when applied to juveniles adjudicated as delinquent before
+SORNA’s enactment. We conclude that the Court of Ap
+peals had no authority to enter that judgment because it
+had no live controversy before it.
+I
+Respondent Juvenile Male was 13 years old when he
+began sexually abusing a 10-year-old boy on the Fort
+Belknap Indian Reservation in Montana. The abuse
+continued for approximately two years, until respondent
+was 15 and his victim 12. In 2005, respondent was
+charged in the District of Montana with delinquency
+under the Federal Juvenile Delinquency Act, 18 U. S. C.
+§5031 et seq. Respondent pleaded “true” to charges that
+he knowingly engaged in sexual acts with a child under
+12, which would have been a federal crime had respondent
+been an adult. See §§2241(c), 1153(a). The court sen
+tenced respondent to two years of juvenile detention,
+followed by juvenile supervision until his 21st birthday.
+Respondent was to spend the first six months of his post
+confinement supervision in a prerelease center. See
+United States v. Juvenile Male, 560 U. S. ___, ___ (2010)
+(per curiam) (slip op., at 1).
+In 2006, while respondent remained in juvenile deten
+
+
+2
+
+UNITED STATES v. JUVENILE MALE
+Per Curiam
+
+tion, Congress enacted SORNA. 120 Stat. 590. Under
+SORNA, a sex offender must “register, and keep the re
+gistration current, in each jurisdiction” where the offen
+der resides, is employed, or attends school. 42 U. S. C.
+§16913(a). This registration requirement extends to cer
+tain juveniles adjudicated as delinquent for serious sex
+offenses. §16911(8). In addition, an interim rule issued by
+the Attorney General mandates that SORNA’s require
+ments apply retroactively to sex offenders convicted before
+the statute’s enactment. 72 Fed. Reg. 8897 (2007) (codi
+fied at 28 CFR pt. 72 (2010)); see 42 U. S. C. §16913(d).1
+In July 2007, the District Court determined that re
+spondent had failed to comply with the requirements of
+his prerelease program. The court revoked respondent’s
+juvenile supervision, imposed an additional 6-month term
+of detention, and ordered that the detention be followed by
+supervision until respondent’s 21st birthday. 560 U. S., at
+___ (slip op., at 1–2). At the Government’s urging, and
+over respondent’s objection, the court also imposed a
+“special conditio[n]” of supervision requiring respondent to
+register and keep current as a sex offender. Id., at ___
+(slip op., at 2) (internal quotation marks omitted); see Pet.
+for Cert. 9 (noting the Government’s argument in the
+District Court that respondent should be required to regis
+ter under SORNA “ ‘at least until’ ” his release from juve
+nile supervision on his 21st birthday).
+On appeal to the Ninth Circuit, respondent challenged
+this “special conditio[n]” of supervision. He requested that
+the Court of Appeals “reverse th[e] portion of his sentence
+——————
+1 On December 29, 2010, the Attorney General finalized the interim
+rule. See 75 Fed. Reg. 81849. In Reynolds v. United States, No. 10–
+6549, this Court granted certiorari on the question whether sex offend
+ers convicted before the enactment of SORNA have standing to chal
+lenge the validity of the Attorney General’s interim rule. 562 U. S. ___
+(2011); Pet. for Cert. in Reynolds, p. i. Reynolds is slated to be heard
+next Term.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Per Curiam
+
+requiring Sex Offender Registration and remand with
+instructions that the district court . . . strik[e] Sex Of
+fender Registration as a condition of juvenile supervision.”
+Opening Brief for Defendant-Appellant in No. 07–30290
+(CA9), p. 25. Then, in May 2008, with his appeal still
+pending in the Ninth Circuit, respondent turned 21, and
+the juvenile-supervision order requiring him to register as
+a sex offender expired. 560 U. S., at ___ (slip op., at 2).
+Over a year after respondent’s 21st birthday, the Court
+of Appeals handed down its decision. 581 F. 3d 977 (CA9
+2009), amended, 590 F. 3d 924 (2010). No party had
+raised any issue of mootness in the Ninth Circuit, and the
+Court of Appeals did not address the issue sua sponte.
+The court’s opinion discussed only the merits and con
+cluded that applying SORNA to juvenile delinquents who
+committed their offenses “before SORNA’s passage vio
+lates the Ex Post Facto Clause.” Id., at 927. On that
+basis, the court vacated the District Court’s condition of
+supervision requiring sex-offender registration and report
+ing. Id., at 942. The United States petitioned for a writ of
+certiorari.
+While that petition was pending, this Court entered a
+per curiam opinion in this case certifying a preliminary
+question of Montana law to the Montana Supreme Court.
+560 U. S. ___ (2010). The opinion noted that a “threshold
+issue of mootness” might prevent us from reviewing the
+decision below on the merits. Id., at ___ (slip op., at 2).
+We explained that, because respondent is “no longer . . .
+subject” to the District Court’s “sex-offender-registration
+conditions,” respondent must “show that a decision invali
+dating” those conditions “would be sufficiently likely to
+redress ‘collateral consequences adequate to meet Article
+III’s injury-in-fact requirement.’ ” Id., at ___ (slip op., at
+2–3) (quoting Spencer v. Kemna, 523 U. S. 1, 14 (1998)).
+We noted that by the time of the Ninth Circuit’s decision,
+“respondent had become registered as a sex offender in
+
+
+4
+
+UNITED STATES v. JUVENILE MALE
+Per Curiam
+
+Montana.” 560 U. S., at ___ (slip op., at 3) (internal quota
+tion marks omitted). Thus, “[p]erhaps the most likely
+potential ‘collateral consequenc[e]’ that might be remedied
+by a judgment in respondent’s favor is the requirement
+that respondent remain registered as a sex offender under
+Montana law.” Ibid. In order to ascertain whether a
+decision invalidating the District Court’s registration
+conditions would enable respondent to remove his name
+from the Montana sex-offender registry, the Court certi
+fied the following question to the Montana Supreme
+Court:
+“Is respondent’s duty to remain registered as a sex
+offender under Montana law contingent upon the
+validity of the conditions of his now-expired federal
+juvenile-supervision order that required him to regis
+ter as a sex offender, or is the duty an independent
+requirement of Montana law that is unaffected by
+the validity or invalidity of the federal juvenile
+supervision conditions?” Id., at ___ (slip op., at 3)
+(citations omitted).
+The Montana Supreme Court has now responded to our
+certified question. See United States v. Juvenile Male, ___
+P. 3d ___, 2011 WL 2162807 (2011). Its answer is that
+respondent’s “state law duty to remain registered as a sex
+offender is not contingent upon the validity of the condi
+tions of his federal supervision order, but is an independ
+ent requirement of Montana law.” Id., at ___, 2011 WL
+2162807,*1.
+II
+It is a basic principle of Article III that a justiciable case
+or controversy must remain “extant at all stages of review,
+not merely at the time the complaint is filed.” Arizonans
+for Official English v. Arizona, 520 U. S. 43, 67 (1997)
+(internal quotation marks omitted). “[T]hroughout the
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Per Curiam
+
+litigation,” the party seeking relief “ ‘must have suffered,
+or be threatened with, an actual injury traceable to the de
+fendant and likely to be redressed by a favorable judicial
+decision.’ ” Spencer, supra, at 7 (quoting Lewis v. Conti
+nental Bank Corp., 494 U. S. 472, 477 (1990)).
+In criminal cases, this requirement means that a defen
+dant wishing to continue his appeals after the expiration
+of his sentence must suffer some “continuing injury” or
+“collateral consequence” sufficient to satisfy Article III.
+See Spencer, 523 U. S., at 7–8. When the defendant chal
+lenges his underlying conviction, this Court’s cases have
+long presumed the existence of collateral consequences.
+Id., at 8; see Sibron v. New York, 392 U. S. 40, 55–56
+(1968). But when a defendant challenges only an expired
+sentence, no such presumption applies, and the defendant
+must bear the burden of identifying some ongoing “collat
+eral consequenc[e]” that is “traceable” to the challenged
+portion of the sentence and “likely to be redressed by a
+favorable judicial decision.” See Spencer, supra, at 7, 14.
+At the time of the Ninth Circuit’s decision in this case,
+the District Court’s order of juvenile supervision had
+expired, and respondent was no longer subject to the sex
+offender-registration conditions that he sought to chal
+lenge on appeal. 560 U. S., at ___ (slip op., at 2). As a
+result, respondent’s challenge was moot before the Ninth
+Circuit unless he could “show that a decision invalidating”
+the District Court’s order would likely redress some collat
+eral consequence of the registration conditions. Id., at ___
+(slip op., at 2–3) (citing Spencer, supra, at 14).
+As we noted in our prior opinion, one “potential collat
+eral consequence that might be remedied” by an order
+invalidating the registration conditions “is the require
+ment that respondent remain registered” under Montana
+law. 560 U. S., at ___ (slip op., at 3) (internal quotation
+marks and brackets omitted). But as the Montana Su
+preme Court has now clarified, respondent’s “state law
+
+
+6
+
+UNITED STATES v. JUVENILE MALE
+Per Curiam
+
+duty to remain registered as a sex offender is not contin
+gent upon the validity of the conditions of his federal
+supervision order,” 2011 WL 2162807, *1, and continues to
+apply regardless of the outcome in this case. True, a
+favorable decision in this case might serve as a useful
+precedent for respondent in a hypothetical lawsuit chal
+lenging Montana’s registration requirement on ex post
+facto grounds. But this possible, indirect benefit in a
+future lawsuit cannot save this case from mootness. See
+Camreta v. Greene, 563 U. S. ___, ___ (2011) (slip op., at
+16); Commodity Futures Trading Comm’n v. Board of
+Trade of Chicago, 701 F. 2d 653, 656 (CA7 1989) (Posner,
+J.) (“[O]ne can never be certain that findings made in a
+decision concluding one lawsuit will not some day . . .
+control the outcome of another suit. But if that were
+enough to avoid mootness, no case would ever be moot”).
+Respondent also argues that this case “cannot be con
+sidered moot in any practical sense” because, under cur
+rent law, respondent may have “an independent duty to
+register as a sex offender” under SORNA itself. Brief in
+Opposition 6.2 But the duty to register under SORNA is
+not a consequence—collateral or otherwise—of the District
+Court’s special conditions of supervision. The statutory
+duty to register is, as respondent notes, an obligation that
+exists “independent” of those conditions. That continuing
+obligation might provide grounds for a pre-enforcement
+challenge to SORNA’s registration requirements. It does
+not, however, render the current controversy regarding
+the validity of respondent’s sentence any less moot.
+Respondent further argues that this case falls within
+——————
+2 See 42 U. S. C. §16911(8) (SORNA applicable if the juvenile was “14
+years of age or older at the time of the offense and the offense adjudi
+cated was comparable to or more severe than aggravated sexual abuse
+(as described in section 2241 of title 18)”); 72 Fed. Reg. 8897 (codified at
+28 CFR pt. 72) (SORNA’s requirements extend to sex offenders con
+victed before the statute’s enactment).
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+Per Curiam
+
+the established exception to mootness for disputes that are
+“ ‘capable of repetition, yet evading review.’ ” Id., at 8
+(quoting Weinstein v. Bradford, 423 U. S. 147, 148–149
+(1975) (per curiam)). This exception, however, applies
+only where “(1) the challenged action [is] in its duration
+too short to be fully litigated prior to cessation or expira
+tion, and (2) there [is] a reasonable expectation that the
+same complaining party [will] be subject to the same
+action again.” Spencer, supra, at 17 (internal quotation
+marks omitted). At the very least, respondent cannot
+satisfy the second of these requirements. He has now
+turned 21, and he will never again be subject to an order
+imposing special conditions of juvenile supervision. See,
+e.g., DeFunis v. Odegaard, 416 U. S. 312 (1974) (per cu
+riam). The capable-of-repetition exception to mootness
+thus does not apply, and the Ninth Circuit lacked
+the authority under Article III to decide this case on the
+merits.
+The petition for a writ of certiorari and respondent’s
+motion to proceed in forma pauperis are granted. The
+judgment of the Court of Appeals is vacated, and the case
+is remanded with instructions to dismiss the appeal.
+It is so ordered.
+JUSTICE GINSBURG, JUSTICE BREYER, and JUSTICE
+SOTOMAYOR would remand the case to the Ninth Circuit
+for that court’s consideration of mootness in the first
+instance.
+JUSTICE KAGAN took no part in the consideration or
+decision of this case.
+
+

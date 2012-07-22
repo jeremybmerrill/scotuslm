@@ -1,0 +1,48 @@
+14
+
+MILAVETZ, GALLOP & MILAVETZ, P. A. v. UNITED 
+
+STATES
+
+Opinion of the Court 
+
+
+advice to incur more debt because of bankruptcy, as pro
+hibited by §526(a)(4), will generally consist of advice to
+“load up” on debt with the expectation of obtaining its
+discharge—i.e., conduct that is abusive per se.
+The statutory context supports the conclusion that
+§526(a)(4)’s prohibition primarily targets this type of
+abuse. Code provisions predating the BAPCPA already
+sought to prevent the practice of loading up on debt prior
+to filing. Section 523(a)(2), for instance, addressed the
+attendant risk of manipulation by preventing the dis
+charge of debts obtained by false pretenses and making
+debts for purchases of luxury goods or services presump
+tively nondischargeable. See §§523(a)(2)(A) and (C) (2000
+ed.). The BAPCPA increased the risk of such abuse, how
+ever, by providing a new mechanism for determining a
+debtor’s ability to repay. Pursuant to the “means tes[t],”
+§707(b)(2)(D) (2006 ed.), a debtor’s petition for Chapter 7
+relief is presumed abusive (and may therefore be dis
+missed or converted to a structured repayment plan under
+Chapter 13) if the debtor’s current monthly income ex
+ceeds his statutorily allowed expenses, including pay
+ments for secured debt, by more than a prescribed
+amount. See §§707(b)(2)(A)(i)–(iv). The test promotes
+debtor accountability but also enhances incentives to incur
+additional debt prior to filing, as payments on secured
+debts offset a debtor’s monthly income under the formula.
+Other amendments effected by the BAPCPA reflect a
+concern with this practice.
+For instance, Congress
+amended §523(a)(2) to expand the exceptions to discharge
+by lowering the threshold amount of new debt a debtor
+must assume to trigger the presumption of abuse under
+§523(a)(2)(C), and it extended the relevant prefiling win
+dow. See §310, 119 Stat. 84. In context, §526(a)(4) is best
+understood to provide an additional safeguard against the
+practice of loading up on debt prior to filing.
+The Government’s contextual arguments provide addi
+
+

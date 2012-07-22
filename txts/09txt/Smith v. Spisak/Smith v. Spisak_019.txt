@@ -1,0 +1,39 @@
+16
+
+SMITH v. SPISAK
+Opinion of the Court
+
+under §2254(d)(1) should not apply to this claim because
+the Ohio Supreme Court may not have reached the ques
+tion whether counsel’s closing argument caused Spisak
+prejudice. That is, the Ohio Supreme Court’s summary
+rejection of this claim did not indicate whether that court
+rested its conclusion upon a finding (1) that counsel was
+not ineffective, or (2) that a better argument would not
+have made a difference, or (3) both. See State v. Spisak,
+36 Ohio St. 3d, at 82, 521 N. E. 2d, at 802. Spisak argues
+that, under these circumstances, a federal court should
+not defer to a state court that may not have decided a
+question, but instead should decide the matter afresh.
+Lower federal courts have rejected arguments similar to
+Spisak’s. See, e.g., Hennon v. Cooper, 109 F. 3d 330, 334–
+335 (CA7 1997); see also Weeks v. Angelone, 528 U. S. 225,
+231, 237 (2000) (applying the §2254(d) standard in case
+involving a state court’s summary denial of a claim,
+though not a Strickland claim, and without full briefing
+regarding whether or how §2254(d) applied to a summary
+decision); Chadwick v. Janecka, 312 F. 3d 597, 605–606
+(CA3 2002) (Alito, J.) (relying on Weeks in holding that
+§2254(d) applies where a state court denies a claim on the
+merits without giving any indication how it reached its
+decision); see generally 2 R. Hertz & J. Liebman, Federal
+Habeas Corpus Practice and Procedure §32.2, pp. 1574–
+1579 (5th ed. 2005 and 2008 Supp.). However, we need
+not decide whether deference under §2254(d)(1) is re
+quired here. With or without such deference, our conclu
+sion is the same.
+For these reasons, the judgment of the Court of Appeals
+for the Sixth Circuit is reversed.
+It is so ordered.
+
+

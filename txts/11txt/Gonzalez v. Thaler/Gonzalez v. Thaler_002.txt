@@ -1,0 +1,41 @@
+2
+
+GONZALEZ v. THALER
+Syllabus
+further direct review in the state court expires. The Fifth Circuit did
+not mention, and the State did not raise, the §2253(c)(3) defect.
+When Gonzalez petitioned this Court for review, the State argued for
+the first time that the Fifth Circuit lacked jurisdiction to adjudicate
+Gonzalez’s appeal based on the §2253(c)(3) defect.
+
+Held:
+1. Section 2253(c)(3) is a mandatory but nonjurisdictional rule. A
+COA’s failure to “indicate” a constitutional issue does not deprive a
+Court of Appeals of jurisdiction to adjudicate the appeal. Pp. 4−13.
+(a) A rule is jurisdictional “[i]f the Legislature clearly states that
+a threshold limitation on a statute’s scope shall count as jurisdictional,” Arbaugh v. Y & H Corp., 546 U. S. 500, 515. Here, the only clear
+jurisdictional language in §2253(c) appears in §2253(c)(1). The parties agree that §2253(c)(1)’s plain terms make the issuance of a COA
+a jurisdictional prerequisite. The parties also agree that §2253(c)(2),
+which speaks only to when a COA may issue and does not contain
+§2253(c)(1)’s jurisdictional terms, is nonjurisdictional. It follows that
+§2253(c)(3) is also nonjurisdictional. Like §2253(c)(2), it reflects a
+threshold condition for issuing a COA, and “does not speak in jurisdictional terms or refer . . . to the jurisdiction of the [appeals] courts.”
+Arbaugh, 546 U. S., at 515. Jurisdictional treatment also would
+thwart Congress’s intent in AEDPA “to eliminate delays in the federal habeas review process.” Holland v. Florida, 560 U. S. ___, ___.
+Once a judge has determined that a COA is warranted and resources
+are deployed in briefing and argument, the COA has fulfilled its
+gatekeeping function. Pp. 4−9.
+(b) The State’s contrary arguments are unpersuasive. Section
+2253(c)(3)’s cross-reference to §2253(c)(1) does not mean §2253(c)(3)
+can be read as part of §2253(c)(1), as Congress set off the requirements in distinct paragraphs with distinct terms. The word “shall” in
+§2253(c)(3), meanwhile, underscores the rule’s mandatory nature, but
+not all mandatory rules are jurisdictional. Nor does §2253(c)(3)’s
+mere proximity to other jurisdictional provisions turn a rule that
+speaks in nonjurisdictional terms into a jurisdictional hurdle. Finally, the Court rejects the State’s attempt to analogize a COA to a notice of appeal. Pp. 10−13.
+2. For a state prisoner who does not seek review in a State’s highest court, the judgment becomes “final” for purposes of §2244(d)(1)(A)
+on the date that the time for seeking such review expires. Pp. 13−19.
+(a) In Clay v. United States, 537 U. S. 522, the Court held that a
+federal conviction becomes final “when this Court affirms a conviction
+on the merits on direct review or denies a petition for a writ of certiorari,” or, if a petitioner does not seek certiorari, “when the time for filing a certiorari petition expires.” Id., at 527. In Jimenez v. Quarter-
+
+

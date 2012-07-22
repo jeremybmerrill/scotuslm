@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+SMITH ET AL. v. BAYER CORP.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE EIGHTH CIRCUIT
+No. 09–1205. Argued January 18, 2011—Decided June 16, 2011
+Respondent (Bayer) moved in Federal District Court for an injunction
+ordering a West Virginia state court not to consider a motion for class
+certification filed by petitioners (Smith), who were plaintiffs in the
+state-court action. Bayer thought such an injunction warranted be
+cause, in a separate case, Bayer had persuaded the same Federal
+District Court to deny a similar class-certification motion that had
+been filed against Bayer by a different plaintiff, George McCollins.
+The District Court had denied McCollins’ certification motion under
+Fed. Rule Civ. Proc. 23.
+The court granted Bayer’s requested injunction against the state
+court proceedings, holding that its denial of certification in McCollins’
+case precluded litigation of the certification issue in Smith’s case.
+The Court of Appeals for the Eighth Circuit affirmed. It first noted
+that the Anti-Injunction Act (Act) generally prohibits federal courts
+from enjoining state court proceedings. But it found that the Act’s re
+litigation exception authorized this injunction because ordinary rules
+of issue preclusion barred Smith from seeking certification of his pro
+posed class. In so doing, the court concluded that Smith was invok
+ing a State Rule, W. Va. Rule Civ. Proc. 23, that was sufficiently
+similar to the Federal Rule McCollins had invoked, such that the cer
+tification issues presented in the two cases were the same. The court
+further held that Smith, as an unnamed member of McCollins’ puta
+tive class action, could be bound by the judgment in McCollins’ case.
+Held: In enjoining the state court from considering Smith’s class certifi
+cation request, the federal court exceeded its authority under the “re
+litigation exception” to the Act. Pp. 5–18.
+(a) Under that Act, a federal court “may not grant an injunction to
+stay proceedings in a State court except” in rare cases, when neces
+
+

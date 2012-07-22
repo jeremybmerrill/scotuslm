@@ -1,0 +1,50 @@
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+GINSBURG, J., dissenting
+
+necessary. Mindful of the history behind §901(b)’s enact
+ment, the thrust of our precedent, and the substantive
+rights limitation in the Rules Enabling Act, I conclude, as
+did the Second Circuit and every District Court to have
+considered the question in any detail,4 that Rule 23 does
+not collide with §901(b). As the Second Circuit well un
+derstood, Rule 23 prescribes the considerations relevant to
+class certification and postcertification proceedings—but it
+does not command that a particular remedy be available
+when a party sues in a representative capacity. See 549
+F. 3d 137, 143 (2008).5 Section 901(b), in contrast, trains
+on that latter issue. Sensibly read, Rule 23 governs proce
+dural aspects of class litigation, but allows state law to
+control the size of a monetary award a class plaintiff may
+pursue.
+——————
+4 See,
+
+e.g., In re Automotive Refinishing Paint Antitrust Litigation,
+515 F. Supp. 2d 544, 549–551 (ED Pa. 2007); Leider v. Ralfe, 387 F.
+Supp. 2d 283, 289–292 (SDNY 2005); Dornberger v. Metropolitan Life
+Insurance Co., 182 F. R. D. 72, 84 (SDNY 1999). See also Weber v. U. S.
+Sterling Securities, Inc., 282 Conn. 722, 738–739, 914 A. 2d 816, 827–
+828 (2007) (section 901(b) applied in Connecticut state court to action
+governed by New York substantive law).
+5 Shady Grove projects that a dispensation in favor of Allstate would
+require “courts in all diversity class actions . . . [to] look to state rules
+and decisional law rather than to Rule 23 . . . in making their class
+certification decisions.” Brief for Petitioner 55. This slippery-slope
+projection is both familiar and false. Cf. R. Bork, The Tempting of
+America 169 (1990) (“Judges and lawyers live on the slippery slope of
+analogies; they are not supposed to ski it to the bottom.”). In this case,
+CPLR §901(a) lists the state-law prerequisites for class certification,
+but Allstate does not contend that §901(a) overrides Rule 23. Brief for
+Respondent 18 (“There is no dispute that the criteria for class certifica
+tion under state law do not apply in federal court; that is the ground
+squarely occupied by Rule 23.”). Federal courts sitting in diversity have
+routinely applied Rule 23’s certification standards, rather than compa
+rable state provisions. See, e.g., In re New Motor Vehicles Canadian
+Export Antitrust Litigation, 522 F. 3d 6, 18–24 (CA1 2008); Order and
+Reasons in In re Katrina Canal Breaches Consolidated Litigation, Civ.
+Action No. 05–4182 (ED La., Aug. 6, 2009).
+
+

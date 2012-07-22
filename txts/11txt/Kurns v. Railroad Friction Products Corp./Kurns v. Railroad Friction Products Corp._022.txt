@@ -1,0 +1,43 @@
+Cite as: 565 U. S. ____ (2012)
+
+5
+
+Opinion of SOTOMAYOR, J.
+
+Comment l). That may be true at a high level of generality, but “[d]esign and failure-to-warn claims . . . rest on
+different factual allegations and distinct legal concepts.”
+Restatement §2, at 35, Comment n. For example, a manu­
+facturer or seller cannot escape liability for an unreasona­
+bly unsafe design merely by issuing a warning. See id., at
+33, Comment l (“Warnings are not . . . a substitute for the
+provision of a reasonably safe design”). In a fundamental
+sense, therefore, a failure-to-warn claim proceeds by tak­
+ing a product’s physical design as a given. A failure-to­
+warn claim alleges a “defect” by asserting that a product,
+as designed, is safe for use only when accompanied by a
+warning—not that a product must be designed differently.
+The majority further conflates defective-design and
+failure-to-warn claims by noting that each is “directed at”
+locomotive equipment. Ante, at 9. That is insufficient.
+Not every state law that “could be said to affect tangen­
+tially” matters within the regulated field is pre-empted.
+English v. General Elec. Co., 496 U. S. 72, 85 (1990).
+Rather, “for a state law to fall within the pre-empted zone,
+it must have some direct and substantial effect” on the
+primary conduct of entities subject to federal regulation.
+Ibid. As explained above, the LIA regulates the physical
+equipment of locomotives. But petitioners’ failure-to-warn
+claims, if successful, would have no necessary effect on the
+physical equipment of locomotives at all, as respondents
+themselves acknowledge. See Brief for Respondents 55
+(petitioners’ failure-to-warn claims “may not themselves
+literally mandate physical alteration of the locomotive’s
+design or construction”).
+In the majority’s view, a “duty to warn and the accom­
+panying threat of liability will inevitably influence” a
+manufacturer’s design choices. Ante, at 9, n. 4. But an
+“influence” is not the same as an “effect,” and not every
+state law with some imaginable impact on matters within
+a federally regulated field is, for that reason alone, pre­
+
+

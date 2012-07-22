@@ -1,0 +1,43 @@
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+this mechanical approach, petitioner calculated that credi­
+tors would be paid in full if respondent made monthly
+payments of $756 for a period of 60 months. Id., at 108.
+There is no dispute that respondent’s actual income was
+insufficient to make payments in that amount. Tr. of Oral
+Arg. 3–4.
+B
+The Bankruptcy Court endorsed respondent’s proposed
+monthly payment of $144 but required a 60-month plan
+period. No. 06–41037 etc., 2007 WL 1451999, *8 (Bkrtcy.
+Ct. Kan. 2007). The court agreed with the majority view
+that the word “projected” in §1325(b)(1)(B) requires courts
+“to consider at confirmation the debtor’s actual income as
+it was reported on Schedule I.” Id., at *5 (emphasis
+added). This conclusion was warranted by the text of
+§1325(b)(1), the Bankruptcy Court reasoned, and was
+necessary to avoid the absurd result of denying bank­
+ruptcy protection to individuals with deteriorating fi­
+nances in the six months before filing. Ibid.
+Petitioner appealed to the Tenth Circuit Bankruptcy
+Appellate Panel, which affirmed. 380 B. R. 17, 19 (2007).
+The Panel noted that, although Congress redefined “dis­
+posable income” in 2005, it chose not to alter the pre­
+existing term “projected disposable income.” Id., at 24.
+Thus, the Panel concluded, there was no reason to believe
+that Congress intended to alter the pre-BAPCPA practice
+under which bankruptcy courts determined projected
+disposable income by reference to Schedules I and J but
+considered other evidence when there was reason to be­
+lieve that the schedules did not reflect a debtor’s actual
+ability to pay. Ibid.
+The Tenth Circuit affirmed. 545 F. 3d 1269, 1270
+(2008). According to the Tenth Circuit, a court, in calcu­
+lating “projected disposable income,” should begin with the
+“presumption” that the figure yielded by the mechanical
+
+

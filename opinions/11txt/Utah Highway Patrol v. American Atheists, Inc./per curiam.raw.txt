@@ -1,0 +1,883 @@
+Cite as: 565 U. S. ____ (2011)
+
+1
+
+THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+UTAH HIGHWAY PATROL ASSOCIATION
+10–1276
+v.
+AMERICAN ATHEISTS, INC., ET AL.
+
+10–1297
+
+LANCE DAVENPORT ET AL.
+v.
+AMERICAN ATHEISTS, INC., ET AL.
+
+ON PETITIONS FOR WRITS OF CERTIORARI TO THE UNITED 
+
+STATES COURT OF APPEALS FOR THE TENTH CIRCUIT
+
+Nos. 10–1276 and 10–1297. Decided October 31, 2011
+
+
+The petitions for writs of certiorari are denied.
+JUSTICE THOMAS, dissenting from the denial of certiorari.
+Today the Court rejects an opportunity to provide clarity
+to an Establishment Clause jurisprudence in shambles. A
+sharply divided Court of Appeals for the Tenth Circuit has
+declared unconstitutional a private association’s efforts
+to memorialize slain police officers with white roadside
+crosses, holding that the crosses convey to a reasonable
+observer that the State of Utah is endorsing Christianity.
+The Tenth Circuit’s opinion is one of the latest in a long
+line of “ ‘religious display’ ” decisions that, because of this
+Court’s nebulous Establishment Clause analyses, turn on
+little more than “judicial predilections.” See Van Orden v.
+Perry, 545 U. S. 677, 696, 697 (2005) (THOMAS, J., concur­
+ring). Because our jurisprudence has confounded the
+lower courts and rendered the constitutionality of displays
+of religious imagery on government property anyone’s
+guess, I would grant certiorari.
+I
+The Utah Highway Patrol Association (Association) is a
+private organization dedicated to supporting Utah High­
+
+
+2
+
+UTAH HIGHWAY PATROL ASSN. v. AMERICAN
+ATHEISTS, INC.
+THOMAS, J., dissenting
+
+
+
+
+
+way Patrol officers and their families.1 In 1998, the Asso­
+ciation began commemorating officers who died in the line
+of duty by placing memorials, in the form of 12- by 6-foot
+white crosses, at or near locations where the officers were
+killed. The fallen officer’s name, rank, and badge number
+are emblazoned across the full length of the horizontal
+beam of each memorial. The vertical beam bears the
+symbol of the Utah Highway Patrol, the year of the of­
+ficer’s death, and a plaque displaying the officer’s picture,
+his biographical information, and details of his death. To
+date, the Association has erected 13 cross memorials.
+The Association chose the cross because it believed that
+crosses are used both generally in cemeteries to commem­
+orate the dead and specifically by uniformed services to
+memorialize those who died in the line of duty. The Asso­
+ciation also believed that only the cross effectively and
+simultaneously conveyed the messages of death, honor,
+remembrance, gratitude, sacrifice, and safety that the Asso­
+ciation wished to communicate to the public. Surviving
+family members of the fallen officers approved each
+memorial, and no family ever requested that the Associa­
+tion use a symbol other than the cross.
+The private Association designed, funded, owns, and
+maintains the memorials. To ensure that the memorials
+would be visible to the public, safe to view, and near the
+spot of the officers’ deaths, the Association requested and
+received permission from the State of Utah to erect some
+of the memorials on roadside public rights-of-way, at rest
+areas, and on the lawn of the Utah Highway Patrol office.
+In the permit, the State expressed that it “neither ap­
+proves or disapproves the memorial marker.” Brief in
+Opposition 3, n. 3 (internal quotation marks omitted).
+Respondents, American Atheists, Inc., and some of its
+——————
+1 These cases were decided on a motion for summary judgment.
+These facts are undisputed.
+
+
+Cite as: 565 U. S. ____ (2011)
+
+3
+
+THOMAS, J., dissenting
+
+members, sued several state officials, alleging that the
+State violated the Establishment Clause of the First
+Amendment, as incorporated by the Fourteenth Amend­
+ment, because most of the crosses were on state property
+and all of the crosses bore the Utah Highway Patrol’s
+symbol. The Association, a petitioner along with the state
+officials in this Court, intervened to defend the memorials.
+The District Court granted summary judgment in favor of
+petitioners.
+A panel of the Tenth Circuit reversed. As an initial
+matter, the panel noted that this Court remains “sharply
+divided on the standard governing Establishment Clause
+cases.” American Atheists, Inc. v. Duncan, 616 F. 3d 1145,
+1156 (2010). The panel therefore looked to Circuit prece­
+dent to determine the applicable standard and then ap­
+plied the so-called “Lemon/endorsement test,” which asks
+whether the challenged governmental practice has the
+actual purpose of endorsing religion or whether it has that
+effect from the perspective of a “reasonable observer.” Id.,
+at 1157; see County of Allegheny v. American Civil Liberties Union, Greater Pittsburgh Chapter, 492 U. S.
+573, 592–594 (1989) (modifying the three-pronged test of
+Lemon v. Kurtzman, 403 U. S. 602 (1971), which considered
+whether a government action has a secular purpose, has
+the primary effect of advancing or inhibiting religion, or
+fosters an excessive entanglement between government
+and religion). The court concluded that, even though the
+cross memorials had a secular purpose, they would none­
+theless “convey to a reasonable observer that the state of
+Utah is endorsing Christianity.” 616 F. 3d, at 1160. This
+was so, the court concluded, because a cross is “the
+preeminent symbol of Christianity,” and the crosses stood
+alone, on public land, bearing the Utah Highway Patrol’s
+emblem. Ibid. According to the panel, none of the other
+“contextualizing facts” sufficiently reduced the memorials’
+message of religious endorsement. Id., at 1161.
+
+
+4
+
+UTAH HIGHWAY PATROL ASSN. v. AMERICAN
+ATHEISTS, INC.
+THOMAS, J., dissenting
+
+
+
+
+
+The Tenth Circuit denied rehearing en banc, with four
+judges dissenting. The dissenters criticized the panel for
+presuming that the crosses were unconstitutional and
+then asking whether contextual factors were sufficient to
+rebut that presumption. Instead, the dissenters argued,
+the panel should have considered whether the crosses
+amounted to an endorsement of religion in the first place
+in light of their physical characteristics, location near the
+site of the officer’s death, commemorative purpose, selec­
+tion by surviving family members, and disavowal by the
+State. 637 F. 3d 1095, 1103–1105 (2010) (opinion of Kelly,
+J.). The dissenters also criticized the panel’s “unreasona­
+ble ‘reasonable observer,’ ” id., at 1104, describing him as
+“biased, replete with foibles, and prone to mistake,” id.,
+at 1108 (opinion of Gorsuch, J.). Noting that the court
+“continue[d] to apply (or misapply) a reasonable observer/
+endorsement test that has come under much recent
+scrutiny,” the dissenters emphasized that the panel’s
+decision was “worthy of review.” Id., at 1109–1110 (same).
+II
+Unsurprisingly, the Tenth Circuit relied on its own
+precedent, rather than on any of this Court’s cases, when
+it selected the Lemon/endorsement test as its governing
+analysis. Our jurisprudence provides no principled basis by which a lower court could discern whether
+Lemon/endorsement, or some other test, should apply in
+Establishment Clause cases. Some of our cases have simply
+ignored the Lemon or Lemon/endorsement formulations.
+See, e.g., Zelman v. Simmons-Harris, 536 U. S. 639 (2002);
+Good News Club v. Milford Central School, 533 U. S. 98
+(2001); Marsh v. Chambers, 463 U. S. 783 (1983). Other
+decisions have indicated that the Lemon/endorsement test
+is useful, but not binding. Lynch v. Donnelly, 465 U. S.
+668, 679 (1984) (despite Lemon’s usefulness, we are “un­
+willin[g] to be confined to any single test or criterion in
+
+
+Cite as: 565 U. S. ____ (2011)
+
+5
+
+THOMAS, J., dissenting
+
+this sensitive area”); Hunt v. McNair, 413 U. S. 734, 741
+(1973) (Lemon provides “no more than helpful signposts”).
+Most recently, in Van Orden, 545 U. S. 677, a majority of
+the Court declined to apply the Lemon/endorsement test in
+upholding a Ten Commandments monument located on
+the grounds of a state capitol.2 Yet in another case decid­
+ed the same day, McCreary County v. American Civil
+Liberties Union of Ky., 545 U. S. 844, 859–866 (2005), the
+Court selected the Lemon/endorsement test with nary a
+word of explanation and then declared a display of the Ten
+Commandments in a courthouse to be unconstitutional.
+See also Van Orden, supra, at 692 (SCALIA, J., concurring)
+(“I join the opinion of THE CHIEF JUSTICE because I think
+it accurately reflects our current Establishment Clause
+jurisprudence—or at least the Establishment Clause
+jurisprudence we currently apply some of the time”).
+Thus, the Lemon/endorsement test continues to “stal[k]
+our Establishment Clause jurisprudence” like “some ghoul
+in a late-night horror movie that repeatedly sits up in its
+grave and shuffles abroad, after being repeatedly killed
+and buried.” Lamb’s Chapel v. Center Moriches Union
+Free School Dist., 508 U. S. 384, 398 (1993) (SCALIA, J.,
+concurring in judgment).
+Since Van Orden and McCreary, lower courts have
+understandably expressed confusion. See American Civil
+Liberties Union of Ky. v. Mercer Cty., 432 F. 3d 624, 636
+——————
+2 In
+
+Van Orden, a plurality determined that the nature of a govern­
+ment display and our Nation’s historical traditions should control. 545
+U. S., at 686; see also ibid. (“Whatever may be the fate of the Lemon
+test in the larger scheme of Establishment Clause jurisprudence, we
+think it not useful in dealing with the sort of passive monument that
+Texas has erected”). In a concurring opinion, JUSTICE BREYER consid­
+ered the “basic purposes of the First Amendment’s Religion Clauses
+themselves” rather than “a literal application of any particular test.”
+Id., at 703–704 (opinion concurring in judgment); see also id., at 700
+(“[I]n [difficult borderline] cases, I see no test-related substitute for the
+exercise of legal judgment”).
+
+
+6
+
+UTAH HIGHWAY PATROL ASSN. v. AMERICAN
+ATHEISTS, INC.
+THOMAS, J., dissenting
+
+
+
+
+
+(CA6 2005) (after McCreary and Van Orden, “we remain in
+Establishment Clause purgatory”).3 This confusion has
+caused the Circuits to apply different tests to displays of
+religious imagery challenged under the Establishment
+Clause. Some lower courts have continued to apply the
+Lemon/endorsement test.4 Others have followed Van
+——————
+3 See
+
+also Green v. Haskell Cty. Bd. of Comm’rs, 574 F. 3d 1235, 1235
+n. 1 (CA10 2009) (Kelly, J., dissenting from denial of rehearing en banc)
+(noting that “[w]hether Lemon . . . and its progeny actually create
+discernable ‘tests,’ rather than a mere ad hoc patchwork, is debatable”
+and describing the “judicial morass resulting from the Supreme Court’s
+opinions”); Card v. Everett, 520 F. 3d 1009, 1016 (CA9 2008) (“Con­
+founded by the ten individual opinions in [McCreary and Van Orden]
+. . . courts have described the current state of the law as both ‘Estab­
+lishment Clause purgatory’ and ‘Limbo’ ” (citation omitted)); id., at
+1023–1024 (Fernandez, J., concurring) (applauding the majority’s
+“heroic attempt to create a new world of useful principle out of the
+Supreme Court’s dark materials” and lamenting the “still stalking
+Lemon test and the other tests and factors, which have floated to the
+top of this chaotic ocean from time to time,” as “so indefinite and
+unhelpful that Establishment Clause jurisprudence has not become
+more fathomable” (footnote omitted)); Skoros v. New York, 437 F. 3d 1,
+13 (CA2 2006) (“[W]e confront the challenge of frequently splintered
+Supreme Court decisions” and Justices who “have rarely agreed—in
+either analysis or outcome—in distinguishing the permissible from the
+impermissible public display of symbols having some religious signifi­
+cance”); Staley v. Harris Cty., 461 F. 3d 504, 515 (2006), (Smith, J.,
+dissenting) (admonishing the majority for failing to “integrate
+McCreary and Van Orden into as coherent a framework as possible”),
+dism’d as moot on rehearing en banc, 485 F. 3d 305 (CA5 2007).
+4 See American Civil Liberties Union of Ohio Foundation, Inc. v.
+DeWeese, 633 F. 3d 424, 431 (CA6 2011) (applying Lemon); Green v.
+Haskell Cty. Bd. of Comm’rs, 568 F. 3d 784, 797–798, and n. 8 (CA10
+2009) (“While the Supreme Court may be free to ignore Lemon, this
+court is not. Therefore, we cannot . . . be guided in our analysis by
+the Van Orden plurality’s disregard of the Lemon test” (citations and
+internal quotation marks omitted)); Skoros, supra, at 17, and n. 13
+(“The Lemon test has been much criticized over its twenty-five year
+history. Nevertheless, the Supreme Court has never specifically
+disavowed Lemon’s analytic framework. . . . Accordingly, we apply
+Lemon” (citations omitted)); American Civil Liberties Union of Ky. v.
+
+
+Cite as: 565 U. S. ____ (2011)
+
+7
+
+THOMAS, J., dissenting
+
+Orden.5 One Circuit, in a case later dismissed as moot,
+applied both tests.6
+Respondents assure us that any perceived conflict is
+“artificial,” Brief in Opposition 8, because the lower courts
+have quite properly applied Van Orden to “the distinct
+class of Ten Commandments cases” indistinguishable from
+Van Orden and have applied the Lemon/endorsement test
+to other religious displays. Id., at 12, 16. But respond­
+ents’ “Ten Commandments” rule is nothing more than a
+thinly veiled attempt to attribute reason and order where
+none exists. Respondents offer no principled basis for
+applying one test to the Ten Commandments and another
+test to other religious displays that may have similar
+relevance to our legal and historical traditions. Indeed,
+that respondents defend the purportedly uniform applica­
+tion of one Establishment Clause standard to the “Ten
+Commandments’ realm” and another standard to displays
+of other religious imagery, id., at 16, speaks volumes
+about the superficiality and irrationality of a jurispru­
+dence meant to assess whether government has made a
+——————
+Mercer Cty., 432 F. 3d 624, 636 (CA6 2005) (“Because McCreary County
+and Van Orden do not instruct otherwise, we must continue to” apply
+“Lemon, including the endorsement test”).
+5 See Card, supra, at 1018 (applying JUSTICE BREYER’s concurring
+opinion in Van Orden, which “carv[ed] out an exception” from Lemon
+for certain displays); ACLU Neb. Foundation v. Plattsmouth, 419 F. 3d
+772, 778, n. 8 (CA8 2005) (en banc) (“Taking our cue from Chief Justice
+Rehnquist’s opinion for the Court and Justice Breyer’s concurring
+opinion in Van Orden, we do not apply the Lemon test”); see also Trunk
+v. San Diego, 629 F. 3d 1099, 1107 (CA9 2011) (JUSTICE BREYER’s
+controlling opinion in Van Orden “establishes an ‘exception’ to the
+Lemon test in certain borderline cases,” but “we need not resolve the
+issue of whether Lemon or Van Orden control” because “both cases
+guide us to the same result”).
+6 See Staley, supra, at 508–509, and n. 6 (applying Lemon/
+endorsement and JUSTICE BREYER’s concurrence in Van Orden after
+concluding that the objective observer standard of the endorsement test
+was “implicit” in JUSTICE BREYER’s opinion).
+
+
+8
+
+UTAH HIGHWAY PATROL ASSN. v. AMERICAN
+ATHEISTS, INC.
+THOMAS, J., dissenting
+
+
+
+
+
+law “respecting an establishment of religion.” See Card v.
+Everett, 520 F. 3d 1009, 1016 (CA9 2008) (describing
+“Recent Developments in Ten Commandments Law”). But
+even assuming that the lower courts uniformly under­
+stand Van Orden to apply only to those religious displays
+“factually indistinguishable” from the display in Van
+Orden, Brief in Opposition 16, that understanding con­
+flicts with JUSTICE BREYER’s controlling opinion. JUSTICE
+BREYER’s concurrence concluded that there is “no test­
+related substitute for the exercise of legal judgment” or
+“exact formula” in “fact-intensive,” “difficult borderline
+cases.” 545 U. S., at 700 (opinion concurring in judgment).
+Nothing in his opinion indicated that only Ten Com­
+mandments displays identical to the one in Van Orden call
+for a departure from the Lemon/endorsement test.
+Moreover, the lower courts have not neatly confined Van
+Orden to similar Ten Commandments displays. In Myers
+v. Loudoun Cty. Public Schools, 418 F. 3d 395, 402, and
+n. 8 (2005), the Fourth Circuit applied the Van Orden
+plurality opinion and JUSTICE BREYER’s concurring analy­
+sis to resolve an Establishment Clause challenge to a
+statute mandating recitation of the Pledge of Allegiance.
+In Staley v. Harris Cty., 461 F. 3d 504, 511–512 (2006),
+dism’d as moot on rehearing en banc, 485 F. 3d 305 (2007),
+the Fifth Circuit applied Van Orden to a monument dis­
+playing an open bible. And, in Green v. Haskell Cty. Bd. of
+Comm’rs, 568 F. 3d 784, 796–797 (2009), the Tenth Circuit
+applied the Lemon/endorsement test to hold unconstitu­
+tional a Ten Commandments monument located on the
+grounds of a public building and surrounded by other
+secular monuments, facts materially indistinguishable
+from those in Van Orden.
+Respondents further suggest that any variation among
+the Circuits concerning the Establishment Clause stand­
+ard for displays of religious imagery is merely academic,
+for much like the traditional Lemon/endorsement inquiry,
+
+
+Cite as: 565 U. S. ____ (2011)
+
+9
+
+THOMAS, J., dissenting
+
+JUSTICE BREYER’s opinion in Van Orden considered the
+“context of the display” and the “message” it communicat­
+ed. Brief in Opposition 8–12, and n. 5 (internal quotation
+marks omitted); see Van Orden, 545 U. S., at 701–702
+(BREYER, J., concurring in judgment); id., at 703 (“For
+these reasons, I believe that the Texas display . . . might
+satisfy this Court’s more formal Establishment Clause
+tests”). I do not doubt that a given court could reach the
+same result under either test. See ACLU Neb. Foundation
+v. Plattsmouth, 419 F. 3d 772, 778, n. 8 (CA8 2005) (en
+banc) (upholding the constitutionality of a display of the
+Ten Commandments under either standard); Trunk v. San
+Diego, 629 F. 3d 1099, 1107, 1125 (CA9 2011) (concluding
+that the display of a cross was unconstitutional under
+either standard). The problem is that both tests are so
+utterly indeterminate that they permit different courts to
+reach inconsistent results. Compare Harris v. Zion, 927
+F. 2d 1401 (CA7 1991) (applying Lemon/endorsement to
+strike down a city seal bearing a depiction of a cross), with
+Murray v. Austin, 947 F. 2d 147 (CA5 1991) (applying
+Lemon/endorsement to uphold a city seal bearing a depic­
+tion of a cross); compare also Plattsmouth, supra (applying
+Van Orden to uphold a display of the Ten Command­
+ments), with Staley, supra (applying Van Orden to strike
+down a display of a Bible). As explained below, it is “the
+very ‘flexibility’ of this Court’s Establishment Clause
+precedent” that “leaves it incapable of consistent applica­
+tion.” Van Orden, supra, at 697 (THOMAS, J., concurring).
+III
+In Allegheny, a majority of the Court took the view that
+the endorsement test provides a “sound analytical frame­
+work for evaluating governmental use of religious sym­
+bols.” 492 U. S., at 595 (opinion of Blackmun, J.); id., at
+629 (O’Connor, J., concurring in part and concurring in
+judgment) (“I . . . remain convinced that the endorsement
+
+
+10
+
+UTAH HIGHWAY PATROL ASSN. v. AMERICAN
+ATHEISTS, INC.
+THOMAS, J., dissenting
+
+
+
+
+
+test is capable of consistent application”). That confidence
+was misplaced. Indeed, JUSTICE KENNEDY proved presci­
+ent when he observed that the endorsement test amounted
+to “unguided examination of marginalia,” “using little
+more than intuition and a tape measure.” Id., at 675–676
+(opinion concurring in judgment in part and dissenting
+in part).
+Since the inception of the endorsement test, we have
+learned that a creche displayed on government property
+violates the Establishment Clause, except when it doesn’t.
+Compare id., at 579–581 (opinion of Blackmun, J.) (hold­
+ing unconstitutional a solitary creche, surrounded by a
+“fence-and-floral frame,” bearing a plaque stating “This
+Display Donated by the Holy Name Society,” and located
+in the “main,” “most beautiful,” and “most public” part of a
+county courthouse (internal quotation marks omitted), and
+Smith v. County of Albemarle, 895 F. 2d 953, 955, and n. 2
+(CA4 1990) (holding unconstitutional a creche consisting
+of “large figures, easily visible, and illuminated at night,”
+bearing a disclaimer reading “ ‘Sponsored and maintained
+by Charlottesville-Albemarle Jaycees not by Albemarle
+County,’ ” and located on the lawn of a county office build­
+ing), with Lynch, 465 U. S., at 671 (upholding a creche
+displaying 5-inch to 5-foot tall figures of Jesus, Mary,
+Joseph, angels, shepherds, kings, and animals, surround­
+ed by “a Santa Claus house, reindeer pulling Santa’s
+sleigh, candy-striped poles, a Christmas tree, carolers,
+cutout figures representing such characters as a clown,
+an elephant, and a teddy bear, hundreds of colored
+lights, [and] a large banner that rea[d] ‘SEASONS
+GREETINGS,’ ” situated in a park in the “heart of the
+shopping district”), American Civil Liberties Union of Ky.
+v. Wilkinson, 895 F. 2d 1098, 1099, 1104 (CA6 1990) (up­
+holding a 15-foot stable “furnished with a manger, two
+large pottery jugs, a ladder, railings, and some straw, but
+not with the figurines or statues commonly found in a
+
+
+Cite as: 565 U. S. ____ (2011)
+
+11
+
+THOMAS, J., dissenting
+
+crèche,” bearing a disclaimer stating that “ ‘This display
+. . . does not constitute an endorsement by the Common­
+wealth of any religion,’ ” and located on the grounds of the
+state capitol, 100 yards from a Christmas tree), and Elewski v. Syracuse, 123 F. 3d 51, 52 (CA2 1997) (upholding a
+solitary creche, raised on a platform “two feet above side­
+walk level,” containing “statues representing Jesus, Mary,
+and Joseph, a shepherd, a donkey, a lamb, and an angel”
+holding a banner reading “ ‘Gloria in Excelsis Deo,’ ” “illu­
+minated at night by two forty-watt spotlights” located in a
+park on a “major downtown thoroughfare,” 300 feet from
+a menorah and down the street from secular holiday
+symbols).
+Likewise, a menorah displayed on government property
+violates the Establishment Clause, except when it doesn’t.
+Compare Kaplan v. Burlington, 891 F. 2d 1024, 1026, 1030
+(CA2 1989) (holding unconstitutional a solitary 16- by 12­
+foot menorah, bearing a sign stating “ ‘Happy Chanukah’ ”
+and “ ‘Sponsored by: Lubavitch of Vermont,’ ” located 60
+feet away from City Hall, and “appear[ing] superimposed
+upon City Hall” when viewed from “the general direction
+of the westerly public street”), with Allegheny, supra, at
+587, 582 (opinion of Blackmun, J.) (upholding an “18-foot
+Chanukah menorah of an abstract tree-and-branch de­
+sign,” placed next to a 45-foot Christmas tree, bearing a
+sign entitled “ ‘Salute to Liberty,’ ” and located outside of a
+city-county building), and Skoros v. New York, 437 F. 3d 1
+(CA2 2006) (upholding school policy permitting display of
+menorah along with the Islamic star and crescent, the
+Kwanzaa kinara, the Hebrew dreidel, and a Christmas
+tree, but prohibiting a creche).
+A display of the Ten Commandments on government
+property also violates the Establishment Clause, except
+when it doesn’t. Compare Green, 568 F. 3d, at 790 (hold­
+ing unconstitutional a monument depicting the Ten Com­
+mandments and the Mayflower Compact on the lawn of a
+
+
+12
+
+UTAH HIGHWAY PATROL ASSN. v. AMERICAN
+ATHEISTS, INC.
+THOMAS, J., dissenting
+
+
+
+
+
+county courthouse, among various secular monuments and
+personal message bricks, with a sign stating “ ‘Erected by
+Citizens of Haskell County’ ”), and American Civil Liberties Union of Ohio Foundation, Inc. v. DeWeese, 633 F. 3d
+424, 435 (CA6 2011) (holding unconstitutional a poster of
+the Ten Commandments and “seven secular ‘Humanist
+Precepts’ ” in a courtroom, with “editorial comments” that
+link religion and secular government), with Van Orden,
+545 U. S., at 681–682 (plurality opinion) (upholding a
+monument depicting the Ten Commandments, the Eye of
+Providence, an eagle, and the American flag and bearing a
+sign stating that it was “ ‘Presented . . . by the Fraternal
+Order of Eagles,’ ” among various secular monuments, on
+the grounds of a state capitol (some capitalization omit­
+ted)), Card, 520 F. 3d 1009 (same, on the grounds of old
+city hall), Plattsmouth, 419 F. 3d, at 778, n. 8 (same, in a
+city park), and Mercer Cty., 432 F. 3d, at 633 (upholding a
+poster of the Ten Commandments, along with eight other
+equally sized “American legal documents” and an explana­
+tion of the Commandments’ historical significance, in a
+courthouse).
+Finally, a cross displayed on government property vio­
+lates the Establishment Clause, as the Tenth Circuit held
+here, except when it doesn’t. Compare Friedman v. Board
+of Cty., Comm’rs of Bernalillo Cty., 781 F. 2d 777, 779
+(CA10 1985) (holding unconstitutional a county seal dis­
+playing a Latin cross, “highlighted by white edging and a
+blaze of golden light,” under the motto “ ‘With This We
+Conquer’ ” written in Spanish), Harris, 927 F. 2d, at 1404
+(holding unconstitutional one city seal displaying a cross
+on a shield, surrounded by a dove, crown, scepter, and a
+banner proclaiming “ ‘God Reigns,’ ” and another city seal
+displaying a cross surrounded by a one-story building, a
+water tower, two industrial buildings, and a leaf), and
+Trunk, 629 F. 3d 1099 (holding unconstitutional a 29- by
+12-foot cross atop a 14-foot high base on the top of a hill,
+
+
+Cite as: 565 U. S. ____ (2011)
+
+13
+
+THOMAS, J., dissenting
+
+surrounded by thousands of stone plaques honoring mili­
+tary personnel and the American flag), with Murray, 947
+F. 2d 147 (upholding a Latin cross, surrounded by a pair of
+wings, in a city insignia), and Weinbaum v. Las Cruces,
+541 F. 3d 1017, 1025 (CA10 2008) (upholding “three inter­
+locking crosses,” with a white, slightly taller center cross,
+surrounded by a sun symbol, in a city insignia, as well as
+a cross sculpture outside of a city sports complex and a
+mural of crosses on an elementary school wall). See also
+Salazar v. Buono, 559 U. S. ___, ___ (2010) (plurality
+opinion) (slip op., at 14–15) (“A cross by the side of a public
+highway marking, for instance, the place where a state
+trooper perished need not be taken as a statement of
+governmental support for sectarian beliefs”).
+One might be forgiven for failing to discern a workable
+principle that explains these wildly divergent outcomes.
+Such arbitrariness is the product of an Establishment
+Clause jurisprudence that does nothing to constrain judi­
+cial discretion, but instead asks, based on terms like “con­
+text” and “message,” whether a hypothetical reasonable
+observer of a religious display could think that the gov­
+ernment has made a law “respecting an establishment of
+religion.”7 Whether a given court’s hypothetical observer
+will be “any beholder (no matter how unknowledgeable), or
+the average beholder, or . . . the ‘ultra-reasonable’ behold­
+er,” Capitol Square Review and Advisory Bd. v. Pinette,
+515 U. S. 753, 769, n. 3 (1995) (plurality opinion), is en­
+——————
+7 That a violation of the Establishment Clause turns on an observer’s
+potentially mistaken belief that the government has violated the Con­
+stitution, rather than on whether the government has in fact done
+so, is perhaps the best evidence that our Establishment Clause juris­
+prudence has gone hopelessly awry. See McCreary County v. American
+Civil Liberties Union of Ky., 545 U. S. 844, 901 (2005) (SCALIA, J.,
+dissenting) (describing the “oddity” that “the legitimacy of a govern­
+ment action with a wholly secular effect would turn on the misperception of an imaginary observer”).
+
+
+14
+
+UTAH HIGHWAY PATROL ASSN. v. AMERICAN
+ATHEISTS, INC.
+THOMAS, J., dissenting
+
+
+
+
+
+tirely unpredictable. Indeed, the Tenth Circuit stated
+below that its observer, although not “omniscient,” would
+“know far more than most actual members of a given
+community,” and then unhelpfully concluded that “[h]ow
+much information we will impute to a reasonable observer
+is unclear.” 616 F. 3d, at 1159 (internal quotation marks
+omitted). But even assuming that courts could employ
+observers of similar insight and eyesight, it is “unrealistic
+to expect different judges . . . to reach consistent answers
+as to what any beholder, the average beholder, or the
+ultrareasonable beholder (as the case may be) would
+think.” Pinette, supra, at 769, n. 3.
+IV
+It comes as no surprise, then, that despite other cases
+holding that the combination of a Latin cross and a public
+insignia on public property does not convey a message of
+religious endorsement, see Murray, supra; Weinbaum,
+supra, the Tenth Circuit held otherwise. And, of course,
+the Tenth Circuit divided over what, exactly, a reasonable
+observer would think about the Association’s memorial
+cross program.
+First, the members of the court disagreed as to what a
+reasonable observer would see. According to the panel,
+because the observer would be “driving by one of the me­
+morial crosses at 55-plus miles per hour,” he would not see
+the fallen officer’s biographical information, but he would
+see that the “cross conspicuously bears the imprimatur of
+a state entity . . . and is found primarily on public land.”
+616 F. 3d, at 1160. According to the dissenters, on the
+other hand, if the traveling observer could see the police
+insignia on the cross, he should also see the much larger
+name, rank, and badge number of the fallen officer embla­
+zoned above it. 637 F. 3d, at 1108–1109 (opinion of Gor­
+such, J.); id., at 1104 (opinion of Kelly, J.). The dissenters
+would also have employed an observer who was able to
+
+
+Cite as: 565 U. S. ____ (2011)
+
+15
+
+THOMAS, J., dissenting
+
+pull over and view the crosses more thoroughly and would
+have allowed their observer to view four of the memorials
+located on side-streets with lower speed limits. Id., at
+1109 (opinion of Gorsuch, J.).
+Next, the members of the court disagreed about what a
+reasonable observer would feel. The panel worried that
+the use of a Christian symbol to memorialize fallen officers
+would cause the observer to think the Utah Highway
+Patrol and Christianity had “some connection,” leading
+him to “fear that Christians are likely to receive preferen­
+tial treatment from the [patrol]—both in their hiring
+practices and, more generally, in the treatment that peo­
+ple may expect to receive on Utah’s highways.” 616 F. 3d,
+at 1160. The dissenters’ reasonable observer, however,
+would not take such a “paranoid,” “conspiratorial view of
+life,” “conjur[ing] up fears of religious discrimination” by a
+“ ‘Christian police,’ ” especially in light of the more plausi­
+ble explanation that the crosses were simply memorials.
+637 F. 3d, at 1105 (opinion of Kelly, J.). The panel also
+emphasized that the “massive size” of these crosses would
+heighten the reasonable observer’s fear of discrimination
+and proselytization, unlike the “more humble spirit of
+small roadside crosses.” 616 F. 3d, at 1161–1162. The
+dissenters, by contrast, insisted that the size of the crosses
+was necessary to ensure that the reasonable observer
+would “take notice of the display and absorb its message”
+of remembrance and to ensure that the crosses could
+contain all of the secular facts necessary to assuage the
+reasonable observer’s fears. 637 F. 3d, at 1105–1106
+(opinion of Kelly, J.).
+Finally, the members of the court disputed what the
+reasonable observer would know. The panel acknowledged
+that the reasonable observer would recognize that the
+crosses commemorated death, but he would see only that
+the symbol “memorializes the death of a Christian.” 616
+F. 3d, at 1161. That the designers of the cross memorials
+
+
+16
+
+UTAH HIGHWAY PATROL ASSN. v. AMERICAN
+ATHEISTS, INC.
+THOMAS, J., dissenting
+
+
+
+
+
+were Mormons, or that Christians who revere the cross are
+a minority in Utah, would have no effect on him. Id.,
+at 1163–1164. Conversely, the dissenters’ reasonable
+observer would have known that the crosses were chosen
+by the fallen officer’s family and erected by a private group
+without design approval from the State, and that most
+Utahns do not revere the cross.8 637 F. 3d, at 1110 (opin­
+ion of Gorsuch, J.); id., at 1105 (opinion of Kelly, J.).
+To any truly “reasonable observer,” these lines of disa­
+greement may seem arbitrary at best. But to be fair to the
+Tenth Circuit, it is our Establishment Clause jurispru­
+dence that invites this type of erratic, selective analysis of
+the constitutionality of religious imagery on government
+property. These cases thus illustrate why “[t]he outcome
+of constitutional cases ought to rest on firmer grounds
+than the personal preferences of judges.” Van Orden, 545
+U. S., at 697 (THOMAS, J., concurring).
+V
+Even if the Court does not share my view that the Es­
+tablishment Clause restrains only the Federal Govern­
+ment, and that, even if incorporated, the Clause only
+prohibits “ ‘actual legal coercion,’ ” see id., at 693, the
+Court should be deeply troubled by what its Establish­
+ment Clause jurisprudence has wrought. Indeed, five
+sitting Justices have questioned or decried the Lemon/
+endorsement test’s continued use. Salazar, 559 U. S.,
+at ___–___ (plurality opinion of KENNEDY, J., joined in full
+by ROBERTS, C. J., and in part by ALITO, J.) (slip op., at
+15–18) (emphasizing criticism of the endorsement test and
+——————
+8 According to the statement of undisputed facts before the District
+Court, approximately 57 percent of Utahns are members of the Church
+of Jesus Christ of Latter-day Saints. Neither the Church nor its
+members use the cross as a symbol of their religion or in their religious
+practices. American Atheists, Inc. v. Duncan, 528 F. Supp. 2d 1245,
+1249 (Utah 2007).
+
+
+Cite as: 565 U. S. ____ (2011)
+
+17
+
+THOMAS, J., dissenting
+
+its workability); id., at ___ (ALITO, J., concurring in part
+and concurring in judgment) (slip op., at 6) (“Assuming
+that it is appropriate to apply the so-called ‘endorsement
+test,’ this test would not be violated [here]”); Pinette, 515
+U. S., at 768, n. 3 (plurality opinion of SCALIA, J.) (The
+endorsement test “supplies no standard whatsoever”); Van
+Orden, supra, at 692–693 (THOMAS, J., concurring) (“This
+case would be easy if the Court were willing to abandon
+the inconsistent guideposts it has adopted for addressing
+Establishment Clause challenges,” citing, inter alia, the
+Lemon and endorsement tests); Allegheny, 492 U. S., at
+669 (KENNEDY, J., concurring in judgment in part and
+dissenting in part) (“[T]he endorsement test is flawed in
+its fundamentals and unworkable in practice”); see also
+McCreary County, 545 U. S., at 890 (2005) (SCALIA, J.,
+joined in full by Rehnquist, C. J., and THOMAS, J., and in
+part by KENNEDY, J., dissenting) (“[A] majority of the
+Justices on the current Court . . . have, in separate opin­
+ions, repudiated the brain-spun ‘Lemon test’ ”).
+And yet, six years after Van Orden, our Establishment
+Clause precedents remain impenetrable, and the lower
+courts’ decisions—including the Tenth Circuit’s decision
+below—remain incapable of coherent explanation. It is
+difficult to imagine an area of the law more in need of
+clarity, as the 46 amici curiae who filed briefs in support
+of certiorari confirm. Respondents tell us there is no
+reason to think that a case with facts similar to this one
+will recur, Brief in Opposition 17, but if that counsels
+against certiorari here, this Court will never again hear
+another case involving an Establishment Clause challenge
+to a religious display. It is this Court’s precedent that has
+rendered even the most minute aesthetic details of a
+religious display relevant to the constitutional question.
+We should not now abdicate our responsibility to clean up
+our mess because these disputes, by our own making, are
+
+
+18
+
+UTAH HIGHWAY PATROL ASSN. v. AMERICAN
+ATHEISTS, INC.
+THOMAS, J., dissenting
+
+
+
+
+
+“factbound.”9 This suit, which squarely implicates the
+viability and application of the Lemon/endorsement test,10
+is as ripe a suit for certiorari as any.11
+——————
+9 In
+
+any event, respondents’ incredible assertion is belied by the fact
+that, two days after respondents filed their brief in opposition to certio­
+rari in our Court, respondents sued the Port Authority of New York
+City and demanded removal of a cross located at Ground Zero. See
+Complaint in American Atheists, Inc. v. Port Auth. of New York, No.
+108670–2011 (N. Y. Sup. Ct.); Notice of Removal in American Atheists,
+Inc. v. Port Auth. of New York, No. 1:11–cv–06026 (SDNY).
+10 That the petition of the Association presents the question whether
+the cross memorials in this suit are government speech is no obstacle to
+certiorari. The Court need not grant certiorari on that question, and
+the state petitioners only ask this Court to resolve the viability and
+application of the endorsement test.
+11 Respondents argue that this suit would be a poor vehicle to explore
+the contours of a coercion-based Establishment Clause test because the
+State has raised the specter of a preference for one religion over others.
+In this regard, respondents point out that the State took the position
+before the lower courts that it would not be able to approve the Associa­
+tion’s memorials “ ‘in the same manner’ ” if the Association, as it indi­
+cated it would, allowed an officer’s family to request a symbol other
+than a cross. Brief in Opposition 3–4, 31.
+Because no such situation has ever arisen, and because the State has
+only indicated it could not approve a different marker in the same
+manner as the roadside crosses, respondents distort the record by
+claiming that the State has put families to the choice of “a Latin cross
+or no roadside memorial at all.” Id., at 4. Moreover, it is undisputed
+that the State’s position stemmed from its belief that “if [the Associa­
+tion] were to change the shape of the memorial to reflect the religious
+symbol of the fallen trooper, rather than the shape of the cross, the
+memorial would no longer be a secular shape recognized as a symbol of
+death.” App. to Brief in Opposition 9a–15a (emphasis added). That
+position is entirely consistent with the Tenth Circuit’s conclusion that
+the purposes of the State and Association in permitting and implement­
+ing the memorial program were secular. In any event, that the State
+and Association, both defending the memorial program’s constitutional­
+ity, took conflicting positions about whether it was impermissibly
+religious to use only crosses, or impermissibly religious to use other
+symbols reflective of the deceased’s religious preference, only highlights
+the confusion surrounding the Establishment Clause’s requirements.
+
+
+Cite as: 565 U. S. ____ (2011) 
+
+
+19
+
+THOMAS, J., dissenting
+
+
+*
+*
+* 
+
+Concurring in Allegheny, JUSTICE O’CONNOR wrote that
+“the courts have made case-specific examinations” of
+government actions in order to avoid “sweep[ing] away all
+government recognition and acknowledgment of the role of
+religion in the lives of our citizens.” 492 U. S., at 623
+(opinion concurring in part and concurring in judgment).
+But that is precisely the effect of this Court’s repeated
+failure to apply the correct standard—or at least a clear,
+workable standard—for adjudicating challenges to gov­
+ernment action under the Establishment Clause. Gov­
+ernment officials, not to mention everyday people who
+wish to celebrate or commemorate an occasion with a
+public display that contains religious elements, cannot
+afford to guess whether a federal court, applying our
+“jurisprudence of minutiae,” id., at 674 (KENNEDY, J.,
+concurring in judgment in part and dissenting in part),
+will conclude that a given display is sufficiently secular.
+The safer course will be to “purge from the public sphere
+all that in any way partakes of the religious.” Van Orden,
+545 U. S., at 699 (BREYER, J., concurring in judgment).
+Because “the Establishment Clause does not compel” that
+result, ibid., I would grant certiorari.
+
+

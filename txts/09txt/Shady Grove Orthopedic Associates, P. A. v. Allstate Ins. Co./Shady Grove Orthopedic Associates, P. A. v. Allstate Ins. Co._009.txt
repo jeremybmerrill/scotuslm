@@ -1,0 +1,45 @@
+6
+
+SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A.
+v. ALLSTATE INS. CO.
+Opinion of SCALIA, J.
+the Court
+
+rather leaves room for laws like §901(b). But Congress,
+unlike New York, has ultimate authority over the Federal
+Rules of Civil Procedure; it can create exceptions to an
+individual rule as it sees fit—either by directly amending
+the rule or by enacting a separate statute overriding it in
+certain instances. Cf. Henderson v. United States, 517
+U. S. 654, 668 (1996). The fact that Congress has created
+specific exceptions to Rule 23 hardly proves that the Rule
+does not apply generally. In fact, it proves the opposite. If
+Rule 23 did not authorize class actions across the board,
+the statutory exceptions would be unnecessary.
+Allstate next suggests that the structure of §901 shows
+that Rule 23 addresses only certifiability. Section 901(a),
+it notes, establishes class-certification criteria roughly
+analogous to those in Rule 23 (wherefore it agrees that
+subsection is pre-empted). But §901(b)’s rule barring class
+actions for certain claims is set off as its own subsection,
+and where it applies §901(a) does not. This shows, accord­
+ing to Allstate, that §901(b) concerns a separate subject.
+Perhaps it does concern a subject separate from the sub­
+ject of §901(a). But the question before us is whether it
+concerns a subject separate from the subject of Rule 23—
+and for purposes of answering that question the way New
+York has structured its statute is immaterial. Rule 23
+permits all class actions that meet its requirements, and a
+State cannot limit that permission by structuring one part
+of its statute to track Rule 23 and enacting another part
+that imposes additional requirements. Both of §901’s
+subsections undeniably answer the same question as Rule
+23: whether a class action may proceed for a given suit.
+Cf. Burlington, 480 U. S., at 7–8.
+The dissent argues that §901(b) has nothing to do with
+whether Shady Grove may maintain its suit as a class
+action, but affects only the remedy it may obtain if it wins.
+See post, at 8–17 (opinion of GINSBURG, J.). Whereas
+“Rule 23 governs procedural aspects of class litigation” by
+
+

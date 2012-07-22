@@ -1,0 +1,51 @@
+2
+
+BILSKI v. KAPPOS
+Syllabus
+
+545 F. 3d 943, affirmed.
+JUSTICE KENNEDY delivered the opinion of the Court, except as to
+Parts II–B–2 and II–C–2, concluding that petitioners’ claimed inven
+tion is not patent eligible. Pp. 4–8, 10–11, 12–16.
+(a) Section 101 specifies four independent categories of inventions
+or discoveries that are patent eligible: “process[es],” “machin[es],”
+“manufactur[es],” and “composition[s] of matter.” “In choosing such
+expansive terms, . . . Congress plainly contemplated that the patent
+laws would be given wide scope,” Diamond v. Chakrabarty, 447 U. S.
+303, 308, in order to ensure that “ ‘ingenuity should receive a liberal
+encouragement,’ ” id., at 308–309. This Court’s precedents provide
+three specific exceptions to §101’s broad principles: “laws of nature,
+physical phenomena, and abstract ideas.” Id., at 309. While not re
+quired by the statutory text, these exceptions are consistent with the
+notion that a patentable process must be “new and useful.” And, in
+any case, the exceptions have defined the statute’s reach as a matter
+of statutory stare decisis going back 150 years. See Le Roy v.
+Tatham, 14 How. 156, 174. The §101 eligibility inquiry is only a
+threshold test. Even if a claimed invention qualifies in one of the
+four categories, it must also satisfy “the conditions and requirements
+of this title,” §101(a), including novelty, see §102, nonobviousness, see
+§103, and a full and particular description, see §112. The invention
+at issue is claimed to be a “process,” which §100(b) defines as a “proc
+ess, art or method, and includes a new use of a known process, ma
+chine, manufacture, composition of matter, or material.” Pp. 4–5.
+(b) The machine-or-transformation test is not the sole test for pat
+ent eligibility under §101. The Court’s precedents establish that al
+though that test may be a useful and important clue or investigative
+tool, it is not the sole test for deciding whether an invention is a pat
+ent-eligible “process” under §101. In holding to the contrary, the
+Federal Circuit violated two principles of statutory interpretation:
+Courts “ ‘should not read into the patent laws limitations and condi
+tions which the legislature has not expressed,’ ” Diamond v. Diehr,
+450 U. S. 175, 182, and, “[u]nless otherwise defined, ‘words will be in
+terpreted as taking their ordinary, contemporary, common mean
+ing,’ ” ibid. The Court is unaware of any ordinary, contemporary,
+common meaning of “process” that would require it to be tied to a
+machine or the transformation of an article. Respondent Patent Di
+rector urges the Court to read §101’s other three patentable catego
+ries as confining “process” to a machine or transformation. However,
+the doctrine of noscitur a sociis is inapplicable here, for §100(b) al
+ready explicitly defines “process,” see Burgess v. United States, 553
+U. S. 124, 130, and nothing about the section’s inclusion of those
+other categories suggests that a “process” must be tied to one of them.
+
+

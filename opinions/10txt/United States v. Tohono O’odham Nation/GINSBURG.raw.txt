@@ -1,0 +1,137 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+GINSBURG, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–846
+_________________
+
+UNITED STATES, PETITIONER v. TOHONO O’ODHAM
+NATION
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FEDERAL CIRCUIT
+
+[April 26, 2011] 
+
+
+JUSTICE GINSBURG, dissenting. 
+
+I dissent from the Court’s immoderate reading of 28
+
+U. S. C. §1500 and would affirm the Federal Circuit’s
+judgment.
+According to the Court, the Court of Federal Claims
+(CFC) lacks subject-matter jurisdiction over the Tohono
+O’odham Nation’s (Nation) claim because the Tribe was
+simultaneously pursuing in the D. C. District Court an
+action with “a common factual basis.” Ante, at 1. It mat
+ters not, the Court holds, that to gain complete relief, the
+Nation had to launch two suits, for neither of the two
+courts whose jurisdiction the Tribe invoked could alone
+provide full redress. See ante, at 8–9.
+The Court concludes that “claim” or “cause of action,”
+terms the Court considers synonymous as used in §1500,*
+——————
+* “ ‘Cause of action,’ ” the Court simultaneously states, “is the more
+technical term.” Ante, at 5. If “more technical” means more precise,
+clear or certain, the Court is incorrect. See United States v. Memphis
+Cotton Oil Co., 288 U. S. 62, 67–68 (1933) (“A ‘cause of action’ may
+mean one thing for one purpose and something different for another.”).
+In its discourse on the term, the Court has fallen into an old error; the
+drafters of the Federal Rules endeavored to “eliminate the unfortunate
+rigidity and confusion surrounding the words ‘cause of action.’ ” 5 C.
+Wright & A. Miller, Federal Practice and Procedure §1216, p. 207 (3d
+ed. 2004). Today’s invocation of a supposed particular or exact meaning
+for the phrase risks reviving that confusion.
+
+
+2
+
+UNITED STATES v. TOHONO O’ODHAM NATION
+GINSBURG, J., dissenting
+
+see ante, at 5, refers to “operative facts,” and not to the
+remedies a plaintiff seeks. See ante, at 4. Section 1500
+speaks of “the time when the cause of action . . . arose,” a
+time antedating the commencement of suit. The Court
+infers, therefore, that a “claim” or “cause of action” is
+discrete from a pleading’s request for relief. See ante, at 4.
+In fact, however, entitlement to relief is essential to the
+existence of a claim or cause of action, which arises when a
+person suffers a harm capable of judicial redress. See 2 J.
+Story, Equity Jurisprudence §1521a, p. 741 (8th ed. 1861)
+(“[T]he cause of action . . . arises when . . . the party has a
+right to apply to a court . . . for relief.”).
+A plaintiff may not, §1500 instructs, petition both the
+CFC and a district court, invoking in each a distinct legal
+theory appropriate to the forum, but seeking redress for a
+single injury. When Congress bars a plaintiff from obtain
+ing complete relief in one suit, however, and does not call
+for an election of remedies, Congress is most sensibly read
+to have comprehended that the operative facts give rise to
+two discrete claims. Casman v. United States, 135 Ct. Cl.
+647 (1956), as JUSTICE SOTOMAYOR spells out, see ante, at
+5, is the paradigm case. There, a discharged federal em
+ployee, complaining of wrongful termination, sought rein
+statement in a district-court action and backpay in the
+Court of Claims. Section 1500 does not stand in the way,
+the Court of Claims held in Casman, when the plaintiff
+suffered two distinct injuries, for which she seeks discrete
+forms of relief within the exclusive competence of different
+courts. See 135 Ct. Cl., at 649–650 (claim for backpay
+“entirely different” from claim for reinstatement). The
+Federal Circuit, in my view, rightly adhered to Casman in
+Loveladies Harbor, Inc. v. United States, 27 F. 3d 1545
+(1994) (en banc), and rightly did so in this case.
+While I agree with much of JUSTICE SOTOMAYOR’s opin
+ion concurring in the judgment, I do not agree with her
+conclusion that §1500 bars the Nation’s CFC action.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+GINSBURG, J., dissenting
+
+JUSTICE SOTOMAYOR joins the Court’s judgment (although
+not the Court’s reasoning) because the “Tohono O’odham
+Nation seeks in the [CFC] . . . some of the same relief on
+the same facts as it does in its pending District Court
+action.” Ante, at 1 (emphasis added). But to the extent
+that “the Nation’s two actions seek overlapping relief,”
+ibid., a disposition less harsh would be in order. Ordinar
+ily, when a plaintiff’s allegations and demands for relief
+are excessive, her complaint is not instantly dismissed on
+that account. Instead, she may seek leave to trim her
+pleading, permission a court “should freely give . . . when
+justice so requires.” Rule 15(a)(2) (CFC 2010). Cf. Rule
+54(c) (CFC 2010) (judgment, other than default, need not
+conform to demand for relief, but “should grant the relief
+to which each party is entitled”).
+As JUSTICE SOTOMAYOR and the Nation recognize, to
+avoid both duplication and the running of the statute of
+limitations, the CFC suit could be stayed while the com
+panion District Court action proceeds. See ante, at 11;
+Brief for Respondent 35. That is a common practice when
+a prior action is pending. See Pennsylvania R. Co. v.
+United States, 363 U. S. 202, 204–206 (1960) (instructing
+Court of Claims to stay pending proceedings to enable
+litigant to obtain District Court review of relevant agency
+order); Creppel v. United States, 41 F. 3d 627, 633 (CA
+Fed. 1994) (“[T]he Court of Federal Claims may stay a
+takings action pending completion of a related action in a
+district court.”).
+Why is this Court not positioned to direct the CFC to
+disregard requests for relief simultaneously sought in a
+district-court action, or at least to recognize that an
+amended CFC complaint could save the case? I see no
+impediment to either course, in §1500 or any other law or
+rule.
+
+

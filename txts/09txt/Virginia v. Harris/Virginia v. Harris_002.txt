@@ -1,0 +1,43 @@
+2
+
+VIRGINIA v. HARRIS
+ROBERTS, C. J., dissenting
+
+late any traffic laws. When Harris was pulled over, how
+ever, he reeked of alcohol, his speech was slurred, he
+almost fell over in attempting to exit his car, and he failed
+the sobriety tests the officer administered on the scene.
+Harris was convicted of driving while intoxicated, but the
+Virginia Supreme Court overturned the conviction. It
+concluded that because the officer had failed to independ
+ently verify that Harris was driving dangerously, the stop
+violated the Fourth Amendment’s prohibition on unrea
+sonable searches and seizures. 276 Va. 689, 696–698, 668
+S. E. 2d 141, 146–147 (2008); see Pet. for Cert. 4 (citing
+record).
+I am not sure that the Fourth Amendment requires such
+independent corroboration before the police can act, at
+least in the special context of anonymous tips reporting
+drunk driving. This is an important question that is not
+answered by our past decisions, and that has deeply di
+vided federal and state courts. The Court should grant the
+petition for certiorari to answer the question and resolve
+the conflict.
+On the one hand, our cases allow police to conduct in
+vestigative stops based on reasonable suspicion, viewed
+under the totality of the circumstances. Terry v. Ohio, 392
+U. S. 1, 22 (1968); Alabama v. White, 496 U. S. 325, 328–
+331 (1990). In Florida v. J. L., 529 U. S. 266, 270 (2000),
+however, we explained that anonymous tips, in the ab
+sence of additional corroboration, typically lack the “indi
+cia of reliability” needed to justify a stop under the rea
+sonable suspicion standard. In J. L., the Court suppressed
+evidence seized by police after receiving an anonymous tip
+alleging that a young man, wearing a plaid shirt and
+waiting at a particular bus stop, was carrying a gun. The
+majority below relied extensively on J. L. in reversing
+Harris’s conviction.
+But it is not clear that J. L. applies to anonymous tips
+reporting drunk or erratic driving. J. L. itself suggested
+
+

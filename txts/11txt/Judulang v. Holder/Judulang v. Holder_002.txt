@@ -1,0 +1,42 @@
+2
+
+JUDULANG v. HOLDER
+Syllabus
+This case concerns the BIA’s method for applying §212(c) in the
+deportation context. The BIA’s approach, known as the “comparablegrounds” rule, evaluates whether the charged deportation ground has
+a close analogue in the statute’s list of exclusion grounds. If the deportation ground consists of a set of crimes “substantially equivalent”
+to the set making up an exclusion ground, the alien can seek §212(c)
+relief. But if the deportation ground covers different or more or fewer
+offenses than any exclusion ground, the alien is ineligible for relief,
+even if the alien’s particular offense falls within an exclusion ground.
+Petitioner Judulang, who has lived continuously in the United
+States as a lawful permanent resident since 1974, pleaded guilty to
+voluntary manslaughter in 1988. After he pleaded guilty to another
+crime in 2005, DHS commenced a deportation action, charging him
+with having committed an “aggravated felony” involving “a crime of
+violence” based on his manslaughter conviction. The Immigration
+Judge ordered Judulang’s deportation, and the BIA affirmed, finding
+Judulang ineligible for §212(c) relief because the “crime of violence”
+deportation ground is not comparable to any exclusion ground. The
+Ninth Circuit, having previously upheld the BIA’s comparablegrounds rule, denied Judulang’s petition for review.
+
+Held: The BIA’s policy for applying §212(c) in deportation cases is “arbitrary and capricious” under the Administrative Procedure Act, 5
+U. S. C. §706(2)(A). Pp. 9–21.
+(a) While agencies have expertise and experience in administering
+their statutes that no court may properly ignore, courts retain a narrow but important role in ensuring that agencies have engaged in
+reasoned decisionmaking. Thus, in reviewing the BIA’s action, this
+Court must assess, among other matters, “whether the decision was
+based on a consideration of the relevant factors and whether there
+has been a clear error of judgment.” Motor Vehicle Mfrs. Assn. of
+United States, Inc. v. State Farm Mut. Automobile Ins. Co., 463 U. S.
+29, 43. That task involves examining the reasons for agency decisions, or the absence of such reasons.
+The comparable-grounds approach cannot survive scrutiny under
+this standard. By hinging a deportable alien’s eligibility for discretionary relief on the chance correspondence between statutory categories—a matter irrelevant to the alien’s fitness to reside in this
+country—the BIA has failed to exercise its discretion in a reasoned
+manner. Pp. 9–10.
+(b) Even if the BIA has legitimate reasons for limiting §212(c)’s
+scope in deportation cases, it must do so in some rational way. In
+other words, the BIA must use an approach that is tied to the purposes of the immigration laws or the appropriate operation of the
+immigration system. The comparable-grounds rule has no connection
+
+

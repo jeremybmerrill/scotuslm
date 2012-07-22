@@ -1,0 +1,43 @@
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+and useful end”).
+Still, as the Court has also made clear, to transform an
+unpatentable law of nature into a patent-eligible application of such a law, one must do more than simply state the
+law of nature while adding the words “apply it.” See, e.g.,
+Benson, supra, at 71–72.
+The case before us lies at the intersection of these basic
+principles. It concerns patent claims covering processes
+that help doctors who use thiopurine drugs to treat pa­
+tients with autoimmune diseases determine whether a
+given dosage level is too low or too high. The claims pur­
+port to apply natural laws describing the relationships
+between the concentration in the blood of certain thiopu­
+rine metabolites and the likelihood that the drug dosage
+will be ineffective or induce harmful side-effects. We must
+determine whether the claimed processes have trans­
+formed these unpatentable natural laws into patent­
+eligible applications of those laws. We conclude that they
+have not done so and that therefore the processes are not
+patentable.
+Our conclusion rests upon an examination of the partic­
+ular claims before us in light of the Court’s precedents.
+Those cases warn us against interpreting patent statutes
+in ways that make patent eligibility “depend simply on the
+draftsman’s art” without reference to the “principles un­
+derlying the prohibition against patents for [natural
+laws].” Flook, supra, at 593. They warn us against up­
+holding patents that claim processes that too broadly
+preempt the use of a natural law. Morse, supra, at 112–
+120; Benson, supra, at 71–72. And they insist that a
+process that focuses upon the use of a natural law also
+contain other elements or a combination of elements,
+sometimes referred to as an “inventive concept,” sufficient
+to ensure that the patent in practice amounts to signifi­
+cantly more than a patent upon the natural law itself.
+Flook, supra, at 594; see also Bilski, supra, at ___ (slip op.,
+
+

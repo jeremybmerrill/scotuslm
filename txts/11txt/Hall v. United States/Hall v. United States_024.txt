@@ -1,0 +1,38 @@
+4
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+claim shall be treated as an unsecured claim that is
+not entitled to priority under section 507, but the debt
+shall be treated in such manner only if the debtor receives a discharge; or
+“(B) the holder of a particular claim agrees to a different treatment of that claim.” §1222(a) (emphasis
+added).
+The Amendment consists of subparagraph (A).
+At first blush, the Amendment seems to relegate the
+capital gains tax collector to the status of an ordinary
+unsecured creditor. See ibid. (exception applies to claims
+“owed to a governmental unit that arises as a result of the
+sale . . . of any farm asset”). If, as petitioners claim, that
+is so, then it is unlikely that such a debt could stop a
+farmer from proceeding under Chapter 12, since its treatment as an ordinary unsecured claim means that the
+farmer will not necessarily have to pay the debt in full.
+But if the Government and the majority are right, then
+the capital gains tax falls outside the category of §507
+priority claims—and therefore falls outside the scope of
+the Amendment; in fact, it falls outside the bankruptcy
+proceeding altogether. And the Government then might
+well be able to collect the debt in full outside the bankruptcy proceeding—even if doing so would reduce the
+farmer’s assets and future income to the point where the
+farmer would not be able to proceed under Chapter 12.
+The question before us is whether we must interpret the
+Amendment in a way that could bring about this result.
+C
+1
+Congress did not intend this result. In a significant
+number of instances a Chapter 12 farmer, in order to
+have enough money to pay his creditors, might have to sell
+farmland or other farm assets at a price that would give
+rise to considerable capital gains taxes (particularly if the
+
+

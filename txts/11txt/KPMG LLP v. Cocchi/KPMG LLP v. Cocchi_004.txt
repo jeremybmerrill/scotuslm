@@ -1,0 +1,38 @@
+4
+
+KPMG LLP v. COCCHI
+Per Curiam
+
+direct or derivative under Delaware law. That question of
+state law is not at issue here. What is at issue is the
+Court of Appeal’s apparent refusal to compel arbitration
+on any of the four claims based solely on a finding that two
+of them, the claim of negligent misrepresentation and the
+alleged violation of the FDUTPA, were nonarbitrable.
+In Dean Witter, the Court noted that the Act “provides
+that written agreements to arbitrate controversies arising
+out of an existing contract ‘shall be valid, irrevocable, and
+enforceable, save upon such grounds as exist at law or in
+equity for the revocation of any contract.’ ” 470 U. S., at
+218 (quoting 9 U. S. C. §2). The Court found that by its
+terms, “the Act leaves no place for the exercise of discretion by a district court, but instead mandates that district
+courts shall direct the parties to proceed to arbitration on
+issues as to which an arbitration agreement has been
+signed.” 470 U. S., at 218 (emphasis in original). Thus,
+when a complaint contains both arbitrable and nonarbitrable claims, the Act requires courts to “compel arbitration of pendent arbitrable claims when one of the parties
+files a motion to compel, even where the result would be
+the possibly inefficient maintenance of separate proceedings in different forums.” Id., at 217. To implement this
+holding, courts must examine a complaint with care to
+assess whether any individual claim must be arbitrated.
+The failure to do so is subject to immediate review. See
+Southland Corp. v. Keating, 465 U. S. 1, 6–7 (1984).
+The Court of Appeal listed all four claims, found that
+two were direct, and then refused to compel arbitration on
+the complaint as a whole because the arbitral agreement
+“would not apply to the direct claims.” 51 So. 3d, at 1167.
+By not addressing the other two claims in the complaint,
+the Court of Appeal failed to give effect to the plain meaning of the Act and to the holding of Dean Witter. The
+petition for certiorari is granted. The judgment of the
+Court of Appeal is vacated, and the case is remanded. On
+
+

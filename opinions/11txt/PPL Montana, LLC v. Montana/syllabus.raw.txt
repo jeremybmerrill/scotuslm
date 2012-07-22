@@ -1,0 +1,160 @@
+OCTOBER TERM, 2011
+
+(Slip Opinion)
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+PPL MONTANA, LLC v. MONTANA
+CERTIORARI TO THE SUPREME COURT OF MONTANA
+No. 10–218.
+
+Argued December 7, 2011—Decided February 22, 2012
+
+Petitioner PPL Montana, LLC (PPL), owns and operates hydroelectric
+facilities in Montana. Ten of its facilities are located on riverbeds
+underlying segments of the Missouri, Madison, and Clark Fork Rivers. Five hydroelectric dams on the Upper Missouri River are along
+the Great Falls reach, including on the three tallest waterfalls; and
+PPL’s two other dams on that river are in canyons on the Stubbs Ferry stretch. These, together with two dams located in steep canyons
+on the Madison River, are called the Missouri-Madison project. The
+Thompson Falls project is a facility on the Clark Fork River. Both
+projects are licensed by the Federal Energy Regulatory Commission.
+PPL’s facilities have existed for many decades, some for over a century. Until recently, Montana, though aware of the projects’ existence,
+sought no rent for use of the riverbeds. Instead, the understanding of
+PPL and the United States is that PPL has paid rents to the United
+States. In 2003, parents of Montana schoolchildren filed a federal
+suit, claiming that PPL’s facilities were on riverbeds that were state
+owned and part of Montana’s school trust lands. The State joined the
+suit and, for the first time, sought rents from PPL for its use of the
+riverbeds. That case was dismissed, and PPL and other power companies filed a state-court suit, claiming that Montana was barred
+from seeking compensation for PPL’s riverbed use. Montana counterclaimed, contending that under the equal-footing doctrine it owns
+the riverbeds and can charge rent for their use. The trial court
+granted Montana summary judgment as to navigability for purposes
+of determining riverbed title and ordered PPL to pay Montana $41
+million in rent for riverbed use between 2000 and 2007. The Montana Supreme Court affirmed. Adopting a liberal construction of the
+navigability test, it discounted this Court’s approach of considering
+the navigability of particular river segments for purposes of deter-
+
+
+2
+
+PPL MONTANA, LLC v. MONTANA
+Syllabus
+mining whether a State acquired title to the riverbeds underlying
+those segments at the time of statehood. Instead, the Montana court
+declared the river stretches in question to be short interruptions of
+navigability that were insufficient as a matter of law to find nonnavigability, since traffic had circumvented those stretches by portage.
+Based on evidence of present-day, recreational use of the Madison
+River, the court found that river navigable as a matter of law at the
+time of statehood.
+
+Held: The Montana Supreme Court’s ruling that Montana owns and
+may charge for use of the riverbeds at issue was based on an infirm
+legal understanding of this Court’s rules of navigability for title under the equal-footing doctrine. Pp. 10–26.
+(a) The rule that the States, in their capacity as sovereigns, hold
+“title in the soil of rivers really navigable,” Shively v. Bowlby, 152
+U. S. 1, 31, has federal constitutional significance under the equalfooting doctrine. Pursuant to that doctrine, upon its date of statehood, a State gains title within its borders to the beds of waters then
+navigable. It may allocate and govern those lands according to state
+law subject only to the United States’ power “to control such waters
+for purposes of navigation in interstate and foreign commerce.” United States v. Oregon, 295 U. S. 1, 14. The United States retains title
+vested in it before statehood to land beneath waters not then navigable. To be navigable for purposes of title under the equal-footing doctrine, rivers must be “navigable in fact,” meaning “they are used, or
+are susceptible of being used, . . . as highways for commerce, over
+which trade and travel are or may be conducted in the customary
+modes of trade and travel on water.” The Daniel Ball, 10 Wall. 557,
+563. This formulation has been used to determine questions of waterbed title under the equal-footing doctrine. See United States v.
+Utah, 283 U. S. 64, 76. Pp. 10–14.
+(b) The Montana Supreme Court erred in its treatment of the question of river segments and portage. To determine riverbed title under
+the equal-footing doctrine, this Court considers the river on a segment-by-segment basis to assess whether the segment of the river,
+under which the riverbed in dispute lies, is navigable or not. See,
+e.g., Utah, supra, at 77. The State Supreme Court erred in discounting this well-settled approach. A key justification for sovereign ownership of navigable riverbeds is that a contrary rule would allow private riverbed owners to erect improvements on the riverbeds that
+could interfere with the public’s right to use the waters as a highway
+for commerce. Because commerce could not have occurred on segments nonnavigable at the time of statehood, there is no reason to
+deem those segments owned by the State under the equal-footing
+doctrine. Practical considerations also support segmentation. Physi-
+
+
+Cite as: 565 U. S. ____ (2012)
+
+3
+
+Syllabus
+cal conditions affecting navigability vary over the length of a river
+and provide a means to determine appropriate start points and end
+points for disputed segments. A segment approach is also consistent
+with the manner in which private parties seek to establish riverbed
+title. Montana cannot suggest that segmentation is inadministrable
+when the state courts managed to apportion the underlying riverbeds
+for purposes of determining their value and PPL’s corresponding
+rents. The State Supreme Court’s view that the segment-by-segment
+approach does not apply to short interruptions of navigability is not
+supported by this Court’s Utah decision. Even if the law might find
+some nonnavigable segments so minimal that they merit treatment
+as part of a longer, navigable reach, it is doubtful that the segments
+in this case would meet that standard. Applying its “short interruptions” approach, the State Supreme Court found the Great Falls
+reach navigable because it could be managed by way of land route
+portage, as done by Lewis and Clark. But a portage of even one day
+would demonstrate the need to bypass a nonnavigable river segment.
+Thus, the State Supreme Court was wrong to conclude, with respect
+to the Great Falls reach and other disputed stretches, that portages
+were insufficient to defeat a navigability finding. In most cases, they
+are, because they require transportation over land rather than over
+the water. This is the case at least as to the Great Falls reach. In
+reaching a contrary conclusion, the State Supreme Court misapplied
+The Montello, 20 Wall. 430. There, portage was considered in determining whether a river was part of a channel of interstate commerce
+for federal regulatory purposes. The Montello does not control the
+outcome where the quite different concerns of the riverbed title context apply. Portages may defeat navigability for title purposes, and
+do so with respect to the Great Falls reach. Montana does not dispute that overland portage was necessary to traverse that reach, and
+the trial court noted the waterfalls had never been navigated. The
+Great Falls reach, at least from the head of the first waterfall to the
+foot of the last, is not navigable for purposes of riverbed title under
+the equal-footing doctrine. There is also a significant likelihood that
+some of the other river stretches in dispute fail this federal navigability test. The ultimate decision as to these other disputed river
+stretches is to be determined, in the first instance, by the Montana
+courts on remand, which should assess the relevant evidence in light
+of the principles discussed here. Pp. 14–21.
+(c) The Montana Supreme Court further erred as a matter of law in
+relying on evidence of present-day, primarily recreational use of the
+Madison River. Navigability must be assessed as of the time of
+statehood, and it concerns a river’s usefulness for “ ‘trade and travel.’ ” Utah, 283 U. S., at 75–76. River segments are navigable if they
+
+
+4
+
+PPL MONTANA, LLC v. MONTANA
+Syllabus
+“ ‘[were]’ ” used and if they “ ‘[were] susceptible of being used’ ” as
+highways of commerce at the time of statehood. Id., at 76. Evidence
+of recreational use and poststatehood evidence may bear on susceptibility of commercial use at the time of statehood. See id., at 82–83.
+In order for present-day use to have a bearing on navigability at
+statehood, (1) the watercraft must be meaningfully similar to those in
+customary use for trade and travel at the time of statehood, and
+(2) the river’s poststatehood condition may not be materially different
+from its physical condition at statehood. The State Supreme Court
+offered no indication that it made these necessary findings. Pp. 21–
+24.
+(d) Because this analysis is sufficient to require reversal here, the
+Court declines to decide whether the State Supreme Court also erred
+as to the burden of proof regarding navigability. P. 24.
+(e) Montana’s suggestion that denying the State title to the disputed riverbeds will undermine the public trust doctrine—which concerns public access to the waters above those beds for navigation,
+fishing, and other recreational uses—underscores its misapprehension of the equal-footing and public trust doctrines. Unlike the equalfooting doctrine, which is the constitutional foundation for the navigability rule of riverbed title, the scope of the public trust over waters
+within the State’s borders is a matter of state law, subject to federal
+regulatory power. Pp. 24–25.
+(f) This Court does not reach the question whether, by virtue of
+Montana’s sovereignty, neither laches nor estoppel could apply to bar
+the State’s claim. Still, the reliance by PPL and its predecessors in title on the State’s long failure to assert title to the riverbeds is some
+evidence supporting the conclusion that the river segments over
+those beds were nonnavigable for purposes of the equal-footing doctrine. Pp. 25–26.
+
+2010 MT 64, 355 Mont. 402, 229 P. 3d 421, reversed and remanded.
+KENNEDY, J., delivered the opinion for a unanimous Court.
+
+

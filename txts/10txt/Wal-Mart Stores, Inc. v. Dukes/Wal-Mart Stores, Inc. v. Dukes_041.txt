@@ -1,0 +1,45 @@
+10
+
+WAL-MART STORES, INC. v. DUKES
+Opinion of GINSBURG, J.
+
+larities” inquiry the Court endorses, developed his position
+in the context of Rule 23(b)(3). See 84 N. Y. U. L. Rev.,
+at 131 (Rule 23(b)(3) requires “some decisive degree of
+similarity across the proposed class” because it “speaks
+of common ‘questions’ that ‘predominate’ over individual
+ones”).9 “The Rule 23(b)(3) predominance inquiry” is
+meant to “tes[t] whether proposed classes are sufficiently
+cohesive to warrant adjudication by representation.”
+Amchem Products, Inc. v. Windsor, 521 U. S. 591, 623
+(1997). If courts must conduct a “dissimilarities” analysis
+at the Rule 23(a)(2) stage, no mission remains for Rule
+23(b)(3).
+Because Rule 23(a) is also a prerequisite for Rule
+23(b)(1) and Rule 23(b)(2) classes, the Court’s “dissimilari
+ties” position is far reaching.
+Individual differences
+should not bar a Rule 23(b)(1) or Rule 23(b)(2) class, so
+long as the Rule 23(a) threshold is met. See Amchem
+Products, 521 U. S., at 623, n. 19 (Rule 23(b)(1)(B) “does
+not have a predominance requirement”); Yamasaki, 442
+U. S., at 701 (Rule 23(b)(2) action in which the Court noted
+that “[i]t is unlikely that differences in the factual back
+ground of each claim will affect the outcome of the legal
+issue”). For example, in Franks v. Bowman Transp. Co.,
+424 U. S. 747 (1976), a Rule 23(b)(2) class of AfricanAmerican truckdrivers complained that the defendant had
+discriminatorily refused to hire black applicants. We
+recognized that the “qualification[s] and performance” of
+individual class members might vary. Id., at 772 (internal
+quotation marks omitted). “Generalizations concerning
+such individually applicable evidence,” we cautioned,
+“cannot serve as a justification for the denial of [injunc
+——————
+9 Cf.
+
+supra, at 2 (Rule 23(a) commonality prerequisite satisfied by
+“[e]ven a single question . . . common to the members of the class”
+(quoting Nagareda, The Preexistence Principle and the Structure of the
+Class Action, 103 Colum. L. Rev. 149, 176, n. 110 (2003)).
+
+

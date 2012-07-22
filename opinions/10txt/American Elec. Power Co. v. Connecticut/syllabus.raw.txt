@@ -1,0 +1,179 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+AMERICAN ELECTRIC POWER CO., INC., ET AL. v. 
+
+CONNECTICUT ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SECOND CIRCUIT
+No. 10–174.
+
+Argued April 19, 2011—Decided June 20, 2011
+
+In Massachusetts v. EPA, 549 U. S. 497, this Court held that the Clean
+Air Act authorizes federal regulation of emissions of carbon dioxide
+and other greenhouse gases, and that the Environmental Protection
+Agency (EPA) had misread that Act when it denied a rulemaking pe
+tition seeking controls on greenhouse gas emissions from new motor
+vehicles. In response, EPA commenced a rulemaking under §111 of
+the Act, 42 U. S. C. §7411, to set limits on greenhouse gas emissions
+from new, modified, and existing fossil-fuel fired power plants. Pur
+suant to a settlement finalized in March 2011, EPA has committed to
+issuing a final rule by May 2012.
+The lawsuits considered here began well before EPA initiated ef
+forts to regulate greenhouse gases. Two groups of plaintiffs, respon
+dents here, filed separate complaints in a Federal District Court
+against the same five major electric power companies, petitioners
+here. One group of plaintiffs included eight States and New York
+City; the second joined three nonprofit land trusts. According to the
+complaint, the defendants are the largest emitters of carbon dioxide
+in the Nation. By contributing to global warming, the plaintiffs as
+serted, the defendants’ emissions substantially and unreasonably in
+terfered with public rights, in violation of the federal common law of
+interstate nuisance, or, in the alternative, of state tort law. All plain
+tiffs ask for a decree setting carbon-dioxide emissions for each defen
+dant at an initial cap, to be further reduced annually.
+The District Court dismissed both suits as presenting nonjusticia
+ble political questions, but the Second Circuit reversed. On the
+threshold questions, the Circuit held that the suits were not barred
+by the political question doctrine and that the plaintiffs had ade
+
+
+2
+
+AMERICAN ELEC. POWER CO. v. CONNECTICUT
+Syllabus
+quately alleged Article III standing. On the merits, the court held
+that the plaintiffs had stated a claim under the “federal common law
+of nuisance,” relying on this Court’s decisions holding that States
+may maintain suits to abate air and water pollution produced by
+other States or by out-of-state industry, see, e.g., Illinois v. Milwau
+kee, 406 U. S. 91, 93 (Milwaukee I). The court further determined
+that the Clean Air Act did not “displace” federal common law.
+
+Held:
+1. The Second Circuit’s exercise of jurisdiction is affirmed by an
+equally divided Court. P. 6.
+2. The Clean Air Act and the EPA action the Act authorizes dis
+place any federal common-law right to seek abatement of carbon
+dioxide emissions from fossil-fuel fired power plants. Pp. 6–16.
+(a) Since Erie R. Co. v. Tompkins, 304 U. S. 64, 78, recognized
+that there “is no federal general common law,” a new federal common
+law has emerged for subjects of national concern. When dealing
+“with air and water in their ambient or interstate aspects, there is a
+federal common law.” Milwaukee I, 406 U. S., at 103. Decisions of
+this Court predating Erie, but compatible with the emerging distinc
+tion between general common law and the new federal common law,
+have approved federal common-law suits brought by one State to
+abate pollution emanating from another State. See, e.g., Missouri v.
+Illinois, 180 U. S. 208, 241–243. The plaintiffs contend that their
+right to maintain this suit follows from such cases. But recognition
+that a subject is meet for federal law governance does not necessarily
+mean that federal courts should create the controlling law. The
+Court need not address the question whether, absent the Clean Air
+Act and the EPA actions it authorizes, the plaintiffs could state a
+federal common-law claim for curtailment of greenhouse gas emis
+sions because of their contribution to global warming. Any such
+claim would be displaced by the federal legislation authorizing EPA
+to regulate carbon-dioxide emissions. Pp. 6–9.
+(b) “[W]hen Congress addresses a question previously governed
+by a decision rested on federal common law the need for such an un
+usual exercise of law-making by federal courts disappears.” Milwau
+kee v. Illinois, 451 U. S. 304, 314 (Milwaukee II). Legislative dis
+placement of federal common law does not require the “same sort of
+evidence of a clear and manifest [congressional] purpose” demanded
+for preemption of state law. Id., at 317. Rather, the test is simply
+whether the statute “speak[s] directly to [the] question” at issue.
+Mobil Oil Corp. v. Higginbotham, 436 U. S. 618, 625. Here, Massa
+chusetts made plain that emissions of carbon dioxide qualify as air
+pollution subject to regulation under the Clean Air Act. 549 U. S., at
+528–529. And it is equally plain that the Act “speaks directly” to
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Syllabus
+emissions of carbon dioxide from the defendants’ plants. The Act di
+rects EPA to establish emissions standards for categories of station
+ary sources that, “in [the Administrator’s] judgment,” “caus[e], or
+contribut[e] significantly to, air pollution which may reasonably be
+anticipated to endanger public health or welfare.” §7411(b)(1)(A).
+Once EPA lists a category, it must establish performance standards
+for emission of pollutants from new or modified sources within that
+category, §7411(b)(1)(B), and, most relevant here, must regulate ex
+isting sources within the same category, §7411(d). The Act also pro
+vides multiple avenues for enforcement. If EPA does not set emis
+sions limits for a particular pollutant or source of pollution, States
+and private parties may petition for a rulemaking on the matter, and
+EPA’s response will be reviewable in federal court. See §7607(b)(1).
+The Act itself thus provides a means to seek limits on emissions of
+carbon dioxide from domestic power plants—the same relief the
+plaintiffs seek by invoking federal common law. There is no room for
+a parallel track. Pp. 9–11.
+(c) The Court rejects the plaintiffs’ argument, and the Second
+Circuit’s holding, that federal common law is not displaced until EPA
+actually exercises its regulatory authority by setting emissions stan
+dards for the defendants’ plants. The relevant question for displace
+ment purposes is “whether the field has been occupied, not whether it
+has been occupied in a particular manner.” Milwaukee II, 451 U. S.,
+at 324. The Clean Air Act is no less an exercise of the Legislature’s
+“considered judgment” concerning air pollution regulation because it
+permits emissions until EPA acts. The critical point is that Congress
+delegated to EPA the decision whether and how to regulate carbon
+dioxide emissions from power plants; the delegation displaces federal
+common law. If the plaintiffs in this case are dissatisfied with the
+outcome of EPA’s forthcoming rulemaking, their recourse is to seek
+Court of Appeals review, and, ultimately, to petition for certiorari.
+The Act’s prescribed order of decisionmaking—first by the expert
+agency, and then by federal judges—is yet another reason to resist
+setting emissions standards by judicial decree under federal tort law.
+The appropriate amount of regulation in a particular greenhouse gas
+producing sector requires informed assessment of competing inter
+ests. The Clean Air Act entrusts such complex balancing to EPA in
+the first instance, in combination with state regulators. The expert
+agency is surely better equipped to do the job than federal judges,
+who lack the scientific, economic, and technological resources an
+agency can utilize in coping with issues of this order. The plaintiffs’
+proposal to have federal judges determine, in the first instance, what
+amount of carbon-dioxide emissions is “unreasonable” and what level
+of reduction is necessary cannot be reconciled with Congress’ scheme.
+
+
+4
+
+AMERICAN ELEC. POWER CO. v. CONNECTICUT
+Syllabus
+Pp. 12–15.
+(d) The plaintiffs also sought relief under state nuisance law.
+The Second Circuit did not reach those claims because it held that
+federal common law governed. In light of the holding here that the
+Clean Air Act displaces federal common law, the availability vel non
+of a state lawsuit depends, inter alia, on the preemptive effect of the
+federal Act. Because none of the parties have briefed preemption or
+otherwise addressed the availability of a claim under state nuisance
+law, the matter is left for consideration on remand. Pp. 15–16.
+
+582 F. 3d 309, reversed and remanded.
+GINSBURG, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and SCALIA, KENNEDY, BREYER, and KAGAN, JJ., joined. ALITO, J.,
+filed an opinion concurring in part and concurring in the judgment, in
+which THOMAS, J., joined. SOTOMAYOR, J., took no part in the considera
+tion or decision of the case.
+
+

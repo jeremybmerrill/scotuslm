@@ -1,0 +1,44 @@
+Cite as: 565 U. S. ____ (2011)
+
+7
+
+Per Curiam
+
+The Ohio Supreme Court recognized that Dixon’s first interrogation involved “an intentional Miranda violation.”
+The court concluded, however, that “as in Elstad, the
+breach of the Miranda procedures here involved no actual
+compulsion” and thus there was no reason to suppress
+Dixon’s later, warned confession. 101 Ohio St. 3d, at 334,
+805 N. E. 2d, at 1052 (citing Elstad, supra, at 318).
+The Sixth Circuit disagreed, believing that Dixon’s
+confession was inadmissible under Elstad because it was
+the product of a “deliberate question-first, warn-later
+strategy.” 627 F. 3d, at 557. In so holding, the Sixth
+Circuit relied heavily on this Court’s decision in Missouri
+v. Seibert, 542 U. S. 600 (2004).3 In Seibert, police em­
+ployed a two-step strategy to reduce the effect of Miranda
+warnings: A detective exhaustively questioned Seibert
+until she confessed to murder and then, after a 15- to 20­
+minute break, gave Seibert Miranda warnings and led her
+to repeat her prior confession. 542 U. S., at 604–606, 616
+(plurality opinion). The Court held that Seibert’s second
+confession was inadmissible as evidence against her even
+though it was preceded by a Miranda warning. A plurali­
+ty of the Court reasoned that “[u]pon hearing warnings
+only in the aftermath of interrogation and just after mak­
+——————
+3 Seibert was not decided until after the Ohio Supreme Court’s opin­
+ion in this case, but was issued before this Court denied Dixon’s peti­
+tion for certiorari seeking review of the Ohio Supreme Court’s decision.
+It is thus an open question whether Seibert was “clearly established
+Federal law” for purposes of §2254(d). See Smith v. Spisak¸ 558 U. S.
+___, ___ (2010) (slip op., at 3). It is not necessary to decide that ques­
+tion here because Seibert is entirely consistent with the Ohio Supreme
+Court’s decision. Thus, if Seibert was clearly established law, the Ohio
+Supreme Court’s decision was not “contrary to” or “an unreasonable
+application of” Seibert. §2254(d). And if Seibert was not clearly estab­
+lished law, Seibert’s explication of Elstad further demonstrates that the
+Ohio Supreme Court’s decision was not contrary to or an unreasonable
+application of Elstad.
+
+

@@ -1,0 +1,44 @@
+Cite as: 564 U. S. ____ (2011)
+
+37
+
+Opinion of the Court
+
+that, “to be effective, a single tribunal must have broad
+authority to restructure [debtor-creditor] relations.” Post,
+at 14, 15 (emphasis deleted). But the framework Congress
+adopted in the 1984 Act already contemplates that certain
+state law matters in bankruptcy cases will be resolved by
+judges other than those of the bankruptcy courts. Section
+1334(c)(2), for example, requires that bankruptcy courts
+abstain from hearing specified non-core, state law claims
+that “can be timely adjudicated[ ] in a State forum of ap­
+propriate jurisdiction.” Section 1334(c)(1) similarly pro­
+vides that bankruptcy courts may abstain from hearing
+any proceeding, including core matters, “in the interest of
+comity with State courts or respect for State law.”
+As described above, the current bankruptcy system also
+requires the district court to review de novo and enter
+final judgment on any matters that are “related to” the
+bankruptcy proceedings, §157(c)(1), and permits the dis­
+trict court to withdraw from the bankruptcy court any
+referred case, proceeding, or part thereof, §157(d). Pierce
+has not argued that the bankruptcy courts “are barred
+from ‘hearing’ all counterclaims” or proposing findings of
+fact and conclusions of law on those matters, but rather
+that it must be the district court that “finally decide[s]”
+them. Brief for Respondent 61. We do not think the re­
+moval of counterclaims such as Vickie’s from core bank­
+ruptcy jurisdiction meaningfully changes the division of
+labor in the current statute; we agree with the United
+States that the question presented here is a “narrow” one.
+Brief for United States as Amicus Curiae 23.
+If our decision today does not change all that much, then
+why the fuss? Is there really a threat to the separation of
+powers where Congress has conferred the judicial power
+outside Article III only over certain counterclaims in
+bankruptcy? The short but emphatic answer is yes. A
+statute may no more lawfully chip away at the authority
+of the Judicial Branch than it may eliminate it entirely.
+
+

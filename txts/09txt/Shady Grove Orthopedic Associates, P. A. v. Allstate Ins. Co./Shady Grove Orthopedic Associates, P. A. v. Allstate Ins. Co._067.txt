@@ -1,0 +1,44 @@
+20
+
+SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A.
+v. ALLSTATE INS. CO.
+GINSBURG, J., dissenting
+
+Shady Grove also observes that a New York court has
+applied §901(b) to a federal claim for relief under the
+Telephone Consumer Protection Act of 1991 (TCPA), 47
+U. S. C. §227, see Rudgayzer & Gratt v. Cape Canaveral
+Tour & Travel, Inc., 22 App. Div. 3d 148, 799 N. Y. S. 2d
+795 (2005), thus revealing §901(b)’s “procedural” cast.
+Brief for Petitioner 36. We note first that the TCPA itself
+calls for the application of state law. See Rudgayzer, 22
+App. Div. 3d, at 149–150, 799 N. Y. S. 2d, at 796–797
+(federal action authorized in state court “if otherwise
+permitted by the laws or rules of the court of [the] State”
+(quoting 47 U. S. C. §227(b)(3))). See also Gottlieb v.
+Carnival Corp., 436 F. 3d 335, 342 (CA2 2006) (Sotomayor,
+J.) (“Congress sought, via the TCPA, to enact the func
+tional equivalent of a state law.”). The TCPA, the Su
+preme Court of Connecticut has recognized, thus “carves
+out an exception to th[e] general rule” that “when Erie . . .
+is reversed . . . , a state court hearing a federal case is
+normally required to apply federal substantive law”: “Un
+der §227(b)(3) . . . it is state substantive law that deter
+mines, as a preliminary matter, whether a federal action
+under the act may be brought in state court.” Weber v.
+U. S. Sterling Securities, Inc., 282 Conn. 722, 736, 924
+A. 2d 816, 826 (2007) (in TCPA action governed by New
+York substantive law, §901(b) applied even though the
+claim was pursued in Connecticut state court).
+——————
+added)). See also, e.g., Walker, 446 U. S., at 742–743, and n. 4 (Okla
+homa statute deemed “[a]n action” commenced for purposes of the
+statute of limitations upon service of the summons (quoting Okla. Stat.,
+Tit. 12, §97 (1971)). Our characterization of a state statute as substan
+tive for Erie purposes has never hinged on whether the law applied only
+to domestic causes of action. To the contrary, we have ranked as
+substantive a variety of state laws that the state courts apply to federal
+and out-of-state claims, including statutes of limitations and burden-of
+proof prescriptions. See infra, at 21.
+
+

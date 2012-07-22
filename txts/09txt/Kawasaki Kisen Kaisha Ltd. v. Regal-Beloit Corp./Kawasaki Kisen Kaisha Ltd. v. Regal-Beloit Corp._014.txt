@@ -1,0 +1,43 @@
+10
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+domestic rail transport. Carmack thus requires the re
+ceiving rail carrier—but not the delivering or connecting
+rail carrier—to issue a bill of lading. As explained below,
+ascertaining the shipment’s point of origin is critical to
+deciding whether the shipment includes a receiving rail
+carrier.
+The conclusion that Carmack’s bill of lading require
+ment only applies to the receiving rail carrier is dictated
+by the text and is consistent with this Court’s precedent.
+See St. Louis, I. M. & S. R. Co. v. Starbird, 243 U. S. 592,
+604 (1917) (explaining that Carmack “requires the receiv
+ing carrier to issue a through bill of lading”). A receiving
+rail carrier is the initial carrier, which “receives” the
+property for domestic rail transportation at the journey’s
+point of origin. §11706(a). If Carmack’s bill of lading
+requirement did not refer to the initial carrier, but rather
+to any rail carrier that in the colloquial sense “received”
+the property from another carrier, then every carrier
+during the shipment would have to issue its own separate
+bill. This would be altogether contrary to Carmack’s
+purpose of making the receiving and delivering carriers
+liable under a single, initial bill of lading for damage
+caused by any carrier within a single course of shipment.
+This Court’s decision in Mexican Light & Power Co. v.
+Texas Mexican R. Co., 331 U. S. 731 (1947), supports the
+conclusion that only the receiving rail carrier must issue a
+Carmack bill of lading. There, a subsequent rail carrier in
+an export shipment from the United States to Mexico
+issued its own separate bill of lading at the U. S.-Mexico
+border. The second bill differed from the through bill
+issued by the “initial carrier,” id., at 733, (that is, the
+receiving carrier) at the inland point of origin. The Court
+held that Carmack, far from requiring nonreceiving carri
+ers to issue their separate bills of lading, makes any sub
+sequent bill “void” unless the “so-called second bill of
+lading represents the initiation of a new shipment.” Id., at
+
+

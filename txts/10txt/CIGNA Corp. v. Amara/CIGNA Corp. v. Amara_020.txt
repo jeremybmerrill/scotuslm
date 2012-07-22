@@ -1,0 +1,46 @@
+16
+
+CIGNA CORP. v. AMARA 
+
+Opinion of the Court 
+
+
+B
+
+If §502(a)(1)(B) does not authorize entry of the relief
+here at issue, what about nearby §502(a)(3)? That provi
+sion allows a participant, beneficiary, or fiduciary “to
+obtain other appropriate equitable relief ” to redress viola
+tions of (here relevant) parts of ERISA “or the terms of the
+plan.” 29 U. S. C. §1132(a)(3) (emphasis added). The
+District Court strongly implied, but did not directly hold,
+that it would base its relief upon this subsection were it
+not for (1) the fact that the preceding “plan benefits due”
+provision, §502(a)(1)(B), provided sufficient authority; and
+(2) certain cases from this Court that narrowed the appli
+cation of the term “appropriate equitable relief,” see, e.g.,
+Mertens, 508 U. S. 248; Great-West, 534 U. S. 204. Our
+holding in Part II–A, supra, removes the District Court’s
+first obstacle. And given the likelihood that, on remand,
+the District Court will turn to and rely upon this alterna
+tive subsection, we consider the court’s second concern.
+We find that concern misplaced.
+We have interpreted the term “appropriate equitable
+relief ” in §502(a)(3) as referring to “ ‘those categories of
+relief ’ ” that, traditionally speaking (i.e., prior to the
+merger of law and equity) “ ‘were typically available in
+equity.’ ” Sereboff, 547 U. S., at 361 (quoting Mertens, 508
+U. S., at 256). In Mertens, we applied this principle to a
+claim seeking money damages brought by a beneficiary
+against a private firm that provided a trustee with actuar
+ial services. We found that the plaintiff sought “nothing
+other than compensatory damages” against a nonfiduci
+ary. Id., at 253, 255 (emphasis deleted). And we held that
+such a claim, traditionally speaking, was legal, not equi
+table, in nature. Id., at 255.
+In Great-West, we considered a claim brought by a fidu
+ciary against a tort-award-winning beneficiary seeking
+monetary reimbursement for medical outlays that the plan
+had previously made on the beneficiary’s behalf. We noted
+
+

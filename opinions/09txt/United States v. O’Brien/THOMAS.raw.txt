@@ -1,0 +1,89 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+THOMAS, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1569
+_________________
+
+UNITED STATES, PETITIONER v. MARTIN O’BRIEN 
+
+AND ARTHUR BURGESS 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FIRST CIRCUIT
+
+[May 24, 2010] 
+
+
+JUSTICE THOMAS, concurring in the judgment.
+In Harris v. United States, 536 U. S. 545 (2002), this
+Court held that “ ‘[o]ther than the fact of a prior conviction,
+any fact that increases the penalty for a crime beyond the
+prescribed statutory maximum,’ whether the statute calls
+it an element or a sentencing factor, ‘must be submitted to
+a jury, and proved beyond a reasonable doubt,’ ” id., at 550
+(quoting Apprendi v. New Jersey, 530 U. S. 466, 490
+(2000)). I continue to believe that this constitutional
+requirement applies to sentencing facts that, like the
+machinegun enhancement at issue here, 18 U. S. C.
+§924(c)(1)(B)(ii), “alte[r] the [defendant’s] statutorily
+mandated sentencing range, by increasing the mandatory
+minimum sentence,” regardless of whether they alter the
+statutory maximum penalty, Harris, 536 U. S., at 577
+(THOMAS, J., dissenting); see id., at 577–578 (“As a matter
+of common sense, an increased mandatory minimum
+heightens the loss of liberty and represents the increased
+stigma society attaches to the offense. Consequently, facts
+that trigger an increased mandatory minimum sentence
+warrant constitutional safeguards”).
+In my view, it makes no difference whether the sentenc
+ing fact “vaults a defendant’s mandatory minimum sen
+tence” by many years, ante, at 10, or only “ ‘incremental[ly]
+changes’ ” it by a few, ibid. (quoting Harris, supra, at 554).
+
+
+2
+
+UNITED STATES v. O’BRIEN
+THOMAS, J., concurring in judgment
+
+Nor does it make a difference whether the sentencing fact
+“involve[s]
+characteristics
+of
+the
+offender”
+or
+“[c]haracteristics of the offense,” ante, at 8, or which direc
+tion the other factors in the Court’s five-factor test may
+tilt. One question decides the matter: If a sentencing fact
+either “raises the floor or raises the ceiling” of the range of
+punishments to which a defendant is exposed, it is, “ ‘by
+definition [an] “elemen[t].” ’ ” Harris, supra, at 579
+(THOMAS, J., dissenting) (quoting Apprendi, supra, at 483,
+n. 10).
+Without a finding that a defendant used a machinegun,
+the penalty range for a conviction under §924(c)(1)(A)(i) is
+five years to life imprisonment. But once that finding is
+added, the penalty range becomes harsher—30 years to
+life imprisonment, §924(c)(1)(B)(ii)—thus “expos[ing] a
+defendant to greater punishment than what is otherwise
+legally prescribed,” Harris, 536 U. S., at 579 (THOMAS, J.,
+dissenting). As a consequence, “it is ultimately beside the
+point whether as a matter of statutory interpretation [the
+machinegun enhancement] is a sentencing factor.” Id., at
+576. “[A]s a constitutional matter,” because it establishes
+a harsher range of punishments, it must be treated as an
+element of a separate, aggravated offense that is submit
+ted to a jury and proved beyond a reasonable doubt. Ibid.
+Because the Court reaches this same conclusion based
+on its analysis of a five-factor test, see ante, at 6–16, I
+concur in the judgment.
+
+

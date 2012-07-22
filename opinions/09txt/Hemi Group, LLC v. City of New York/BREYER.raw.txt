@@ -1,0 +1,569 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+BREYER, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–969
+_________________
+
+HEMI GROUP, LLC AND KAI GACHUPIN, 
+
+PETITIONERS v. CITY OF NEW YORK, 
+
+NEW YORK
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE SECOND CIRCUIT
+
+[January 25, 2010] 
+
+
+JUSTICE BREYER, with whom JUSTICE STEVENS and
+JUSTICE KENNEDY join, dissenting.
+In my view, the Hemi Group’s failure to provide New
+York State with the names and addresses of its New York
+City cigarette customers proximately caused New York
+City to lose tobacco tax revenue. I dissent from the
+Court’s contrary holding.
+I
+
+A
+
+Although the ultimate legal issue is a simple one, the
+statutory framework within which it arises is complex. As
+the majority points out, ante, at 3, the Racketeer Influ­
+enced and Corrupt Organizations Act (RICO), 18 U. S. C.
+§§1961–1968, provides a private cause of action (and
+treble damages) to “[a]ny person injured in” that person’s
+“business or property by reason of” conduct that involves a
+“pattern of racketeering activity.” §§1964(c) (emphasis
+added), 1962. RICO defines “racketeering activity” to
+include violations of various predicate criminal statutes
+including mail and wire fraud. §1961(1). The “pattern of
+racketeering” at issue here consists of repeated instances
+of mail fraud, which in turn consist largely of violations of
+the federal Jenkins Act, 15 U. S. C. §§375–378. That Act
+
+
+2
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+BREYER, J., dissenting
+
+seeks to help States collect tobacco taxes by requiring out­
+of-state cigarette sellers, such as Hemi, to file reports with
+state tobacco tax administrators identifying the names
+and addresses of in-state customers and the amounts they
+purchased. The violations consist of Hemi’s intentional
+failure to do so.
+As the majority points out, we must assume for present
+purposes that an intentional failure to file Jenkins Act
+reports counts as mail fraud (at least where the failure is
+part of a scheme that includes use of the mails). Ante, at
+4. Lower courts have sometimes so held. See United
+States v. Melvin, 544 F. 2d 767, 773–777 (CA5 1977);
+United States v. Brewer, 528 F. 2d 492, 497–498 (CA4
+1975). The Court of Appeals here so held. City of New
+York v. Smokes-Spirits.com, Inc., 541 F. 3d 425, 446 (CA2
+2008). And no one has challenged that holding.
+We must also assume that Hemi’s “intentiona[l] con­
+ceal[ment]” of the name/address/purchase information,
+Second Am. Compl. ¶¶103, 104, is the legal equivalent of
+an affirmative representation that Hemi had no New York
+City customers. See Restatement (Second) of Torts §551,
+p. 119 (1976) (a person “who fails to disclose . . . a fact”
+may be “subject to . . . liability” as if “he had represented
+the nonexistence of the matter that he has failed to dis­
+close”); cf. Stewart v. Wyoming Cattle Ranche Co., 128
+U. S. 383, 388 (1888) (concealment or suppression of mate­
+rial fact equivalent to a false representation). On these
+assumptions, the question before us is whether New York
+City’s loss of tax revenues constitutes an injury to its
+“business or property by reason of” Hemi’s Jenkins Act
+misrepresentations.
+B
+The case arises as a result of the District Court’s dis­
+missal of New York City’s RICO complaint. Fed. Rule Civ.
+Proc. 12(b)(6). Hence we must answer the question in
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+BREYER, J., dissenting
+
+light of the facts alleged, taking as true the facts pleaded
+in the complaint (along with the “RICO statement” sub­
+mitted pursuant to the District Court’s rule). Bridge v.
+Phoenix Bond & Indemnity Co., 553 U. S. ___, ___, n. 1
+(2008) (slip op., at 1, n. 1). Those facts (as I interpret
+them) include the following:
+1. New York State (or State) and New York City (or City)
+both impose tobacco taxes on New York cigarette buy­
+ers. Second Am. Compl. ¶37.
+2. Both City and State normally collect the taxes from
+in-state cigarette sellers, who, in turn, charge retail
+customers. Id., ¶¶4, 6.
+3. Hemi, an out-of-state company, sells cigarettes over
+the Internet to in-state buyers at prices that are lower
+than in-state cigarette prices. The difference in price
+is almost entirely attributable to the fact that Hemi’s
+prices do not include any charge for New York taxes.
+Hemi advertises its cigarettes as “tax free” and often
+adds that it “does not report any sales activity to any
+State taxing authority.” Id., ¶¶2, 6, 108b (internal
+quotation marks omitted; emphasis deleted).
+4. New York State normally receives Jenkins Act reports
+from out-of-state sellers. It is contractually obliged to
+pass the information on to New York City (and I as­
+sume it normally does so). Id., ¶¶8–9, 11, 54–57.
+5. When it receives Jenkins-Act-type information, New
+York City writes letters to resident customers asking
+them to pay the tobacco tax they owe. As a result,
+New York City collects about 40% of the tax due. (By
+doing so, in 2005 the City obtained $400,000 out of $1
+million owed.) Id., ¶¶58–59.
+6. Hemi has consistently and intentionally failed to file
+Jenkins Act reports in order to prevent both State and
+City from collecting the tobacco taxes that Hemi’s in­
+state customers owe and which otherwise many of
+those customers would pay. Id., ¶¶13, 24, 58.
+
+
+4
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+BREYER, J., dissenting
+
+II 
+
+A
+
+The majority asks whether New York City stated a valid
+cause of action in alleging that it lost tobacco tax revenue
+“by reason of” Hemi’s unlawful misrepresentations. The
+facts just set forth make clear that we must answer that
+question affirmatively. For one thing, no one denies that
+Hemi’s misrepresentation was a “but-for” condition of New
+York City’s loss. In the absence of the misrepresentation,
+i.e., had Hemi told New York State the truth about its
+New York City customers, New York City would have
+written letters to the purchasers and obtained a signifi­
+cant share of the tobacco taxes buyers owed.
+For another thing, New York City’s losses are “reasona­
+bly foreseeable” results of the misrepresentation. It is
+foreseeable that, without the name/address/purchase
+information, New York City would not be able to write
+successful dunning letters, and it is foreseeable that, with
+that information, it would be able to write successful
+dunning letters. Indeed, that is a natural inference from,
+among other things, the complaint’s assertion that Hemi
+advertised that it did not “report” sales information to
+“State taxing authorit[ies].” See, e.g., Smith v. Bolles, 132
+U. S. 125, 130 (1889) (for causation purposes, “ ‘those
+results are proximate which the wrong-doer from his
+position must have contemplated as the probable conse­
+quence of his fraud or breach of contract’ ” (quoting Crater
+v. Binninger, 33 N. J. L. 513, 518 (Ct. Errors and Appeals
+1869)); see also W. Keeton, D. Dobbs, R. Keeton, & D.
+Owen, Prosser and Keeton on Law of Torts §110, p. 767
+(5th ed. 1984) (hereinafter Prosser and Keeton); 3 S.
+Speiser, C. Krause, & A. Gans, The American Law of Torts
+§11:3, p. 68 (2003) (“By far the most treated and most
+discussed aspect of the law of proximate or legal cause is
+the so-called doctrine of foreseeability”). But cf. ante, at 9
+(“The dissent would have RICO’s proximate cause re­
+
+
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+BREYER, J., dissenting
+
+quirement turn on foreseeability . . .”).
+Further, Hemi misrepresented the relevant facts in
+order to bring about New York City’s relevant loss. It
+knew the loss would occur; it intended the loss to occur;
+one might even say it desired the loss to occur. It is diffi­
+cult to find common-law cases denying liability for a
+wrongdoer’s intended consequences, particularly where
+those consequences are also foreseeable. Cf. Bridge, su
+pra, at ___–___ (slip op., at 9–10) (“[S]uppose an enterprise
+that wants to get rid of rival businesses mails representa­
+tions about them to their customers and suppliers, but not
+to the rivals themselves. If the rival businesses lose
+money as a result of the misrepresentations, it would
+certainly seem that they were injured in their business ‘by
+reason of’ a pattern of mail fraud . . .”); N. M. ex rel. Caleb
+v. Daniel E., 2008 UT 1, ¶7, n. 3, 175 P. 3d 566, 569, n. 3
+(“[I]f an unskilled marksman were to shoot a single bullet
+at a distant individual with the intent of killing her, that
+individual’s injury or death may not be the natural and
+probable consequence of the [shooter’s] act[,] . . . [but] the
+harm would not be an accident because the shooter in­
+tended the harm, even though the likelihood of success
+was improbable”); 1 F. Harper & F. James, The Law
+of Torts, §7.13, p. 584 (1956) (explaining that, ordinarily,
+“all intended consequences” of an intentional act “are
+proximate”).
+In addition, New York City’s revenue loss falls squarely
+within the bounds of the kinds of harms that the Jenkins
+Act (essentially the predicate statute) seeks to prevent.
+The statute is entitled “An Act To assist States in collect­
+ing sales and use taxes on cigarettes.” 63 Stat. 884. I
+have no reason to believe the Act intends any different
+result with respect to collection of a city’s tobacco tax
+assessed under the authority of state law. See N. Y. Un­
+consol. Law Ann. §9436(1) (West Supp. 2009) (authorizing
+cities with over one million inhabitants to impose their
+
+
+6
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+BREYER, J., dissenting
+
+own cigarette taxes). The Restatement (Second) of Torts
+explains that where
+“a statute requires information to be furnished . . . for
+the protection of a particular class of persons, one who
+makes a fraudulent misrepresentation . . . is subject to
+liability to the persons for pecuniary loss . . . in a
+transaction of the kind in which the statute is in­
+tended to protect them.” §536, at 77 (1976).
+See also §536, Appendix (citing supporting cases in the
+Reporter’s Note).
+Finally, we have acknowledged that “Congress modeled
+§1964(c) on the civil-action provision of the federal anti­
+trust laws,” and we have therefore looked to those laws as
+an interpretive aid in RICO cases. Holmes v. Securities
+Investor Protection Corporation, 503 U. S. 258, 267, 268
+(1992). I can find no antitrust analogy that suggests any
+lack of causation here, nor has the majority referred to
+any such analogical antitrust circumstance.
+The upshot is that the harm is foreseeable; it is a conse­
+quence that Hemi intended, indeed desired; and it falls
+well within the set of risks that Congress sought to pre­
+vent. Neither antitrust analogy nor any statutory policy of
+which I am aware precludes a finding of “proximate
+cause.” I recognize that some of our opinions may be read
+to suggest that the words “by reason of” in RICO do not
+perfectly track common-law notions of proximate cause.
+See, e.g., Bridge, 553 U. S., at ___–___ (slip op., at 14–16).
+But where so much basic common law argues in favor of
+such a finding, how can the Court avoid that conclusion
+here?
+B
+The majority bases its contrary conclusion upon three
+special circumstances and its reading of two of this Court’s
+prior cases. In my view, none of the three circumstances
+
+
+Cite as: 559 U. S. ____ (2010)
+
+7
+
+BREYER, J., dissenting
+
+precludes finding causation (indeed two are not even
+relevant to the causation issue). Nor can I find the two
+prior cases controlling.
+The three circumstances are the following: First, the
+majority seems to argue that the intervening voluntary
+acts of third parties, namely, the customers’ own inde­
+pendent failures to pay the tax, cuts the causal chain.
+Ante, at 8 (“[T]he City’s harm was directly caused by the
+customers, not Hemi”); see Saugerties Bank v. Delaware &
+Hudson Co., 236 N. Y. 425, 430, 141 N. E. 904, 905 (1923)
+(third party’s forgery of a bill of lading an intervening
+cause); Prosser and Keeton §44, at 313–314 (collecting
+cases on intervening intentional or criminal acts). But an
+intervening third-party act, even if criminal, does not cut a
+causal chain where the intervening act is foreseeable and
+the defendant’s conduct increases the risk of its occur­
+rence. See Lillie v. Thompson, 332 U. S. 459, 462 (1947)
+(per curiam); Horan v. Watertown, 217 Mass. 185, 186, 104
+N. E. 464, 465 (1914); see also Restatement (Second) of
+Torts §435A, at 454 (1963–1964) (intentional tortfeasor
+liable for intended harm “except where the harm results
+from an outside force the risk of which is not increased by
+the defendant’s act”). Hemi’s act here did increase the
+risk that New York City would not be paid; and not only
+was the risk foreseeable, but Hemi’s advertising strongly
+suggests that Hemi actually knew nonreporting would
+likely bring about this very harm.
+The majority claims that “directness,” rather than fore­
+seeability, should be our guide in assessing proximate
+cause, and that the lack of a “direct” relationship in this
+case precludes a finding of proximate causation. Ante, at
+9–10. But courts used this concept of directness in tort
+law to expand liability (for direct consequences) beyond
+what was foreseeable, not to eliminate liability for what
+was foreseeable. Thus, under the “directness” theory of
+proximate causation, there is liability for both “all ‘direct’
+
+
+8
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+BREYER, J., dissenting
+
+(or ‘directly traceable’) consequences and those indirect
+consequences that are foreseeable.” Prosser and Keeton
+§42, at 273 (emphasis added); see also id., §43, at 294, and
+n. 17 (citing Nunan v. Bennett, 184 Ky. 591, 212 S. W.
+570 (1919)). I do not read this Court’s opinions in
+Holmes or Anza v. Ideal Steel Supply Corp., 547 U. S. 451
+(2006), to invoke anything other than this traditional
+understanding.
+Second, the majority correctly points out that Hemi
+misrepresented the situation to the State, not to the
+City—a circumstance which, the majority believes, signifi­
+cantly separates misrepresentation from harm. Ante, at 8.
+But how could that be so? New York State signed a con­
+tract promising to relay relevant information to the City.
+In respect to that relevant information, the State is a
+conduit, indeed roughly analogous to a postal employee.
+This Court has recognized specifically that “under the
+common law a fraud may be established when the defen­
+dant has made use of a third party to reach the target of
+the fraud.” Tanner v. United States, 483 U. S. 107, 129
+(1987). The treatises say the same. See, e.g., Prosser and
+Keeton §107, at 743–745; 26 C. J. S., Fraud §47, p. 1121
+(1921) (collecting cases); see also Prosser, Misrepresenta­
+tion and Third Parties, 19 Vand. L. Rev. 231, 240–241,
+and nn. 56–59, 62–64 (1966) (collecting cases). This Court
+has never suggested the contrary, namely, that a defen­
+dant is not liable for (foreseeable) harm (intentionally)
+caused to the target of a scheme to defraud simply because
+the misrepresentation was transmitted via a third (or even
+a fourth or fifth) party. Cf. Terry, Intent to Defraud, 25
+Yale L. J. 87, 93 (1915) (“When a representation is com­
+municated through one person to another in such circum­
+stances that it can be deemed to be directed to the latter,
+it makes no difference through how many persons or by
+how circuitous a route it reaches the latter . . .”).
+Third, the majority places great weight upon its view
+
+
+Cite as: 559 U. S. ____ (2010)
+
+9
+
+BREYER, J., dissenting
+
+that Hemi tried to defraud the State, not the City. Ante,
+at 8–9. Hemi, however, sought to defraud both. Third
+Amended RICO Statement ¶d (explaining that “[e]very
+other State or local government that imposes a use tax on
+cigarettes and whose residents purchase cigarettes” from
+Hemi is a victim of its scheme to defraud). Hemi sought to
+prevent the State from collecting state taxes; and it sought
+to prevent the City from collecting city taxes. Here we are
+concerned only with the latter. In respect to the latter, the
+State was an information conduit. The fact that state
+taxes were also involved is beside the point.
+The two Supreme Court cases to which the majority
+refers involve significantly different causal circumstances.
+Ante, at 5–8. The predicate acts in Holmes—the defen­
+dant’s acts that led to the plaintiff’s harm—consisted of
+securities frauds. The defendant misrepresented the
+prospects of one company and misled the investing public
+into falsely believing that it could readily buy and sell the
+stock of another. When the truth came out, stock prices
+fell, investors (specifically, stockbrokers) lost money, and
+since the stockbrokers could not pay certain creditors,
+those creditors also lost money. 503 U. S., at 262–263.
+Claiming subrogation to stand in the shoes of the credi­
+tors, the Securities Investor Protection Corporation sued.
+Id., at 270–271.
+Since the creditors had not bought the securities, there
+was little reason to believe the defendant intended their
+harm. And the securities statutes seek, first and foremost,
+to protect investors, not creditors of those who sell stock to
+those investors. The latter harm (a broker’s creditor’s
+loss) differs in kind from the harm that the “predicate act”
+statute primarily seeks to avoid and that its violation
+would ordinarily cause (namely, investors’ stock-related
+monetary losses). As Part II–A, supra, points out, neither
+of these circumstances is present here.
+In Anza, the plaintiff was a business competitor of the
+
+
+10
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+BREYER, J., dissenting
+
+defendants. The plaintiff claimed that the defendants
+falsely told state officials that they did not owe sales tax.
+The plaintiff added that, had the defendants paid the tax
+they owed, the defendants would have had less money
+available to run their business, and the plaintiff conse­
+quently would have been able to compete against them
+more effectively. 547 U. S., at 454, 457–458.
+Again, in Anza the kind of harm that the plaintiff al­
+leged is not the kind of harm that the tax statutes primar­
+ily seek to prevent. Rather, it alleged a kind of harm
+(competitive injury) that tax violations do not ordinarily
+cause and which ordinarily flows from the regular opera­
+tion of a competitive marketplace. Thus, in both Holmes
+and Anza, unlike the present case, plaintiffs alleged spe­
+cial harm, neither squarely within the class of harms at
+which the relevant statutes were directed, nor of a kind
+that typical violators would intend or even foresee.
+Bridge, which the majority seeks to distinguish, ante, at
+11–12, is a more closely analogous case. The defendants
+in that case directed agents to misrepresent to a county
+that they qualified as independent bidders at a county-run
+property auction. They consequently participated in the
+auction. And the plaintiffs, facing additional bidders, lost
+some of the property that they otherwise would have
+won—all to their financial disadvantage. 553 U. S., at
+___–___ (slip op., at 3–4). The harm was foreseeable; it
+was intended; and it was precisely the kind of harm that
+the county’s bidding rules sought to prevent. Thus this
+Court held that the harm was “a foreseeable and natural
+consequence of [the defendants’] scheme.” Id., at ___ (slip
+op., at 18).
+In sum, the majority recognizes that “[p]roximate cause
+for RICO purposes . . . should be evaluated in light of its
+common law foundations,” ante, at 6, but those founda­
+tions do not support the majority’s view. Moreover, the
+majority’s rationale would free from RICO liability defen­
+
+
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+BREYER, J., dissenting
+
+dants who would appear to fall within its intended scope.
+Consider, for example, a group of defendants who use a
+marketing firm (in RICO terms, an “enterprise”) to perpe­
+trate a variation on a “pump and dump” scheme. See, e.g.,
+United States v. Salmonese, 352 F. 3d 608, 612 (CA2
+2003). They deliberately and repeatedly make egregiously
+fraudulent misrepresentations to inflate the price of secu­
+rities that, unbeknownst to investors, they own. After the
+stock price rises, the defendants sell at an artificial profit.
+When the fraud is revealed, the price crashes, to the inves­
+tors’ detriment. Suppose the defendants have intention­
+ally spoken directly only to intermediaries who simply
+repeated the information to potential investors, and have
+not had any contact with the investors themselves. Under
+the majority’s reasoning, these defendants apparently did
+not proximately cause the investors’ losses and are not
+liable under RICO.
+III
+If there is causation, we must decide whether, for RICO
+purposes, the City’s loss of tax revenue is “ ‘business or
+property’ under 18 U. S. C. §1964(c).” Ante, at 5 (acknowl­
+edging, but not reaching, this second issue). The question
+has led to concern among the lower courts. Some fear that
+an affirmative answer would turn RICO into a tax collec­
+tion statute, permitting States to bring RICO actions and
+recover treble damages for behavior that amounts to no
+more than a failure to pay taxes due. See, e.g., Michigan,
+Dept. of Treasury, Revenue Div. v. Fawaz, No. 86–1809,
+1988 WL 44736, *2 (CA6 1988) (holding that tax revenue
+is not RICO “property” lest district courts become “collec­
+tion agencies for unpaid state taxes”); Illinois Dept. of
+Revenue v. Phillips, 771 F. 2d 312, 316, 312 (CA7 1985)
+(holding, “reluctantly,” that “a state’s Department of
+Revenue may file suit in federal court for treble damages
+under [RICO] against a retailer who files fraudulent state
+
+
+12
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+BREYER, J., dissenting
+
+sales tax returns”).
+In a related context, however, the Department of Justice
+has taken steps to avoid the “tax collection agency” prob­
+lem without reading all tax-related frauds out of similar
+federal criminal statutes. The Department’s prosecution
+guidelines require prosecutors considering a tax-related
+mail fraud or wire fraud or bank fraud prosecution (or a
+related RICO prosecution) to obtain approval from high­
+level Department officials. And those guidelines specify
+that the Department will grant that approval only where
+there is at issue “a large fraud loss or a substantial
+pattern of conduct” and will not do so, absent “unusual
+circumstances,” in cases involving simply “one person’s
+tax liability.” Dept. of Justice, United States Attorneys’
+Manual §6–4.210(A) (2007), online at http://www.justice.
+gov/usao/eousa/foia_reading_room/usam/title6/4mtax.htm
+(as visited Jan. 20, 2010, and available in Clerk of Court’s
+case file); see also §6–4.210(B) (explaining that the De­
+partment “will not authorize the use of mail, wire or bank
+fraud charges to convert routine tax prosecutions into
+RICO . . . cases”).
+This case involves an extensive pattern of fraudulent
+conduct, large revenue losses, and many different unre­
+lated potential taxpayers. The Department’s guidelines
+would appear to authorize prosecution in these circum­
+stances. And limiting my consideration to these circum­
+stances, I would find that this RICO complaint asserts a
+valid harm to “business or property.” I need not and do
+not express a view as to how or whether RICO’s civil
+action provisions apply to simpler instances of individual
+tax liability.
+This conclusion is virtually compelled by Pasquantino v.
+United States, 544 U. S. 349 (2005), a case that we decided
+only five years ago. We there pointed out that the right to
+uncollected taxes is an “entitlement to collect money . . . ,
+the possession of which is ‘something of value.’ ” Id., at
+
+
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+BREYER, J., dissenting
+
+355 (quoting McNally v. United States, 483 U. S. 350, 358
+(1987)). Such an entitlement “has long been thought to be
+a species of property.” 544 U. S., at 356 (citing 3 W. Black­
+stone, Commentaries on the Laws of England 153–155
+(1768)). And “fraud at common law included a scheme to
+deprive a victim of his entitlement to money.” 544 U. S.,
+at 356. We observed that tax evasion “inflict[s] an eco­
+nomic injury no less than” the “embezzle[ment] [of] funds
+from the . . . treasury.” Ibid. And we consequently held
+that “Canada’s right to uncollected excise taxes on the
+liquor petitioners imported into Canada” is “ ‘property’ ”
+within the terms of the mail fraud statute. Id., at 355.
+Hemi points in reply to our decision in Hawaii v. Stan
+dard Oil Co. of Cal., 405 U. S. 251 (1972). But that case
+involved not a loss of tax revenues, but “injury to the
+general economy of a State”—insofar as it was threatened
+by violations of antitrust law. Id., at 260. Hawaii’s inter­
+est, both more general and derivative of harm to individ­
+ual businesses, differs significantly from the particular tax
+loss at issue in Pasquantino and directly at issue here.
+We have previously made clear that the compensable
+injury for RICO purposes is the harm caused by the predi­
+cate acts. See generally Sedima, S. P. R. L. v. Imrex Co.,
+473 U. S. 479, 495–496 (1985); cf. Cleveland v. United
+States, 531 U. S. 12, 25 (2000). I can find no convincing
+reason in the context of this case to distinguish in the
+circumstances present here between “property” as used in
+the mail fraud statute and “property” as used in RICO.
+Hence, I would postpone for another day the question
+whether RICO covers instances where little more than the
+liability of an individual taxpayer is at issue. And I would
+find in the respondent’s favor here.
+With respect, I dissent.
+
+

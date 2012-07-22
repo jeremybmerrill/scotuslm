@@ -1,0 +1,49 @@
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+(Bkrtcy. App. Panel CA9 1995); In re Richardson, 283
+B. R. 783, 799 (Bkrtcy. Ct. Kan. 2002); Tr. of Oral Arg. 7.
+Accord, 1 Lundin §35.10, at 35–14 (2000 ed.) (“The debtor
+should take some care to project estimated future income
+on Schedule I to include anticipated increases or decreases
+[in income] so that the schedule will be consistent with
+any evidence of income the debtor would offer at a con­
+tested confirmation hearing”).
+BAPCPA left the term “projected disposable income”
+undefined but specified in some detail how “disposable
+income” is to be calculated. “Disposable income” is now
+defined as “current monthly income received by the
+debtor” less “amounts reasonably necessary to be ex­
+pended” for the debtor’s maintenance and support, for
+qualifying charitable contributions, and for business ex­
+penditures. §1325(b)(2)(A)(i) and (ii) (2006 ed.). “Current
+monthly income,” in turn, is calculated by averaging the
+debtor’s monthly income during what the parties refer to
+as the 6-month look-back period, which generally consists
+of the six full months preceding the filing of the bank­
+The phrase
+ruptcy petition.
+See §101(10A)(A)(i).1
+“amounts reasonably necessary to be expended” in
+§1325(b)(2) is also newly defined. For a debtor whose
+income is below the median for his or her State, the
+phrase includes the full amount needed for “maintenance
+or support,” see §1325(b)(2)(A)(i), but for a debtor with
+income that exceeds the state median, only certain speci­
+fied expenses are included,2 see §§707(b)(2), 1325(b)(3)(A).
+——————
+1 However,
+
+if a debtor does not file the required schedule (Schedule I),
+the bankruptcy court may select a different 6-month period. See
+§101(10A)(A)(ii).
+2 The formula for above-median-income debtors is known as the
+“means test” and is reflected in a schedule (Form 22C) that a Chapter
+13 debtor must file. See Fed. Rule Bkrtcy. Proc. Official Form 22C
+(2009); In re Liverman, 383 B. R. 604, 606, n. 1, 608–609 (Bkrtcy. Ct.
+NJ 2008).
+
+

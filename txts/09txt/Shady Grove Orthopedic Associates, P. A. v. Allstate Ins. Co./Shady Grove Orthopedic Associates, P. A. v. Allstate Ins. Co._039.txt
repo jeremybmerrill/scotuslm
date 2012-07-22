@@ -1,0 +1,47 @@
+14
+
+SHADY GROVE ORTHOPEDIC ASSOCIATES, P. A.
+v. ALLSTATE INS. CO.
+Opinion of STEVENS, J.
+
+III
+JUSTICE GINSBURG views the basic issue in this case as
+whether and how to apply a federal rule that dictates an
+answer to a traditionally procedural question (whether to
+join plaintiffs together as a class), when a state law that
+“defines the dimensions” of a state-created claim dictates
+the opposite answer. Post, at 12. As explained above, I
+readily acknowledge that if a federal rule displaces a state
+rule that is “ ‘procedural’ in the ordinary sense of the
+term,” S. A. Healy Co., 60 F. 3d, at 310, but sufficiently
+interwoven with the scope of a substantive right or rem
+edy, there would be an Enabling Act problem, and the
+federal rule would have to give way. In my view, however,
+——————
+little significance. Hanna did not hold that any seemingly procedural
+federal rule will always govern, even when it alters a substantive state
+right; nor, as in Sibbach, was the argument that I now make before the
+Court. Indeed, in Hanna we cited Sibbach’s statement that the Ena
+bling Act prohibits federal rules that alter the rights to be adjudicated
+by the litigants, 312 U. S., at 13–14, for the proposition that “a court, in
+measuring a Federal Rule against the standards contained in the
+Enabling Act . . . need not wholly blind itself to the degree to which the
+Rule makes the character and result of the federal litigation stray from
+the course it would follow in state courts,” 380 U. S., at 473. And most
+of our subsequent decisions that have squarely addressed the frame
+work for applying federal rules in diversity cases have not mentioned
+Sibbach at all but cited only Hanna. See, e.g., Burlington Northern R.
+Co. v. Woods, 480 U. S. 1, 5 (1987).
+JUSTICE SCALIA notes that in Mississippi Publishing Corp. v.
+Murphree, 326 U. S. 438 (1946), we used language that supported his
+view. See ante, at 13. But in that case, we contemplated only that the
+Federal Rule in question might have “incidental effects . . . upon the
+rights of litigants,” explaining that “[t]he fact that the application of
+Rule 4(f) will operate to subject petitioner’s rights to adjudication by
+the district court for northern Mississippi” rather than southern Mis
+sissippi “will undoubtedly affect those rights.” 326 U. S., at 445–446.
+There was no suggestion that by affecting the method of enforcing the
+rights in that case, the federal rules could plausibly abridge, enlarge, or
+modify the rights themselves.
+
+

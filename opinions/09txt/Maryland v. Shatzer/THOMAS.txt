@@ -1,0 +1,36 @@
+No. 08–680 [February 24, 2010]  JUSTICE THOMAS, concurring in part and concurring in the judgment. I join Part III of the Court’s opinion, which holds that release into the general prison population constitutes a break in custody. I do not join the Court’s decision to extend the presumption of involuntariness established in custody ends. It is not apparent to me that the presumption of in voluntariness the Court recognized in Edwards is justifi able even in the custodial setting to which Edwards ap 160 (1990) (SCALIA, J., dissenting). Accordingly, I would not extend the Edwards rule “beyond the circumstances present in Edwards itself.” Id., at 162. But even if one believes that the Court is obliged to apply Edwards to any case involving continuing custody, the Court’s opinion today goes well beyond that. It extends the presumption of involuntariness Edwards applies in custodial settings to interrogations that occur after custody ends. The Court concedes that this extension, like the Ed wards presumption itself, is not constitutionally required. The Court nevertheless defends the extension as a judi cially created prophylaxis against compelled confessions. Even if one accepts that such prophylaxis is both permis
+sible generally and advisable for some period following a break in custody,1 the Court’s 14-day rule fails to satisfy the criteria our precedents establish for the judicial crea tion of such a safeguard. Our precedents insist that judicially created prophylac 384 U. S. 436 (1966), maintain “the closest possible fit” between the rule and the Fifth Amendment interests they 640–641 (2004) (plurality opinion); see generally Montejo opinion). The Court’s 14-day rule does not satisfy this test. The Court relates its 14-day rule to the Fifth Amendment simply by asserting that 14 days between release and recapture should provide “plenty of time for the suspect . . . to shake off any residual coercive effects of his prior custody,” ante, at 11.
+This ipse dixit does not explain why extending the Ed wards presumption for 14 days following a break in cus tody—as opposed to 0, 10, or 100 days—provides the “clos est possible fit” with the Self-Incrimination Clause, Patane, supra, at 640–641; see ante, at 11 (merely stating that “[i]t seems to us that” the appropriate “period is 14 days”). Nor does it explain how the benefits of a prophy lactic 14-day rule (either on its own terms or compared with other possible rules) “outweigh its costs” (which would include the loss of law enforcement information as well as the exclusion of confessions that are in fact volun tary). Ante, at 6 (citing Montejo, supra, at __ (slip op., at 14)). To be sure, the Court’s rule has the benefit of providing a bright line. Ante, at 12. But bright-line rules are not necessary to prevent Fifth Amendment violations, as the Court has made clear when refusing to adopt such rules in cases involving other Miranda rights. See, e.g., Michigan arbitrary rule is not justifiable merely because it gives clear instruction to law enforcement officers.2 As the Court concedes, “clarity and certainty are not goals in themselves. They are valuable only when they reasonably further the achievement of some substantive end—here, the exclusion of compelled confessions” that the Fifth Amendment prohibits. Ante, at 12. The Court’s arbitrary 14-day rule fails this test, even under the rela tively permissive criteria set forth in our precedents. Accordingly, I do not join that portion of the Court’s opinion.
+——————
+1 At a minimum the latter proposition is questionable. I concede that
+some police officers might badger a suspect during a subsequent inter
+rogation after a break in custody, or might use catch-and-release tactics
+to suggest they will not take no for an answer. But if a suspect reenters
+custody after being questioned and released, he need only invoke his
+right to counsel to ensure Edwards’ protection for the duration of the
+subsequent detention. And, if law enforcement officers repeatedly
+release and recapture a suspect to wear down his will—such that his
+participation in a subsequent interrogation is no longer truly volun
+tary—the “high standar[d] of proof for the waiver of constitutional
+rights [set forth in] Johnson v. Zerbst, 304 U. S. 458 (1938),” will
+protect against the admission of the suspect’s statements in court.
+Miranda v. Arizona, 384 U. S. 436, 475 (1966). The Zerbst inquiry
+takes into account the totality of the circumstances surrounding the
+waiver—including any improper pressures by police. See id., at 464; cf.
+ante, at 11–12, n. 6 (stating that “[e]ven without [Edwards’] second
+layer of prophylaxis, a defendant is still free to claim the prophylactic
+protection of Miranda—arguing that his waiver of Miranda rights was
+in fact involuntary under Johnson v. Zerbst” (internal quotation marks
+and citation omitted)).
+
+
+——————
+2 Though the Court asserts that its 14-day rule will tell “law enforce
+ment officers . . . with certainty and beforehand, when renewed interro
+gation is lawful,” ante, at 10, that is not so clear. Determining whether
+a suspect was previously in custody, and when the suspect was re
+leased, may be difficult without questioning the suspect, especially if
+state and federal authorities are conducting simultaneous investiga
+tions.
+
+

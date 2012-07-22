@@ -1,0 +1,38 @@
+8
+
+RADLAX GATEWAY HOTEL, LLC v. AMALGAMATED BANK 
+
+Opinion of the Court 
+
+
+gests, to the contrary, that (i) is the rule for plans under
+which the creditor’s lien remains on the property, (ii) is
+the rule for plans under which the property is sold free
+and clear of the creditor’s lien, and (iii) is a residual provision covering dispositions under all other plans—for example, one under which the creditor receives the property
+itself, the “indubitable equivalent” of its secured claim.
+Thus, debtors may not sell their property free of liens
+under §1129(b)(2)(A) without allowing lienholders to
+credit-bid, as required by clause (ii).
+B
+None of the debtors’ objections to this approach is valid.
+The debtors’ principal textual argument is that
+§1129(b)(2)(A) “unambiguously provides three distinct
+options for confirming a Chapter 11 plan over the objection of a secured creditor.” Brief for Petitioners 15 (capitalization and bold typeface removed). With that much we
+agree; the three clauses of §1129(b)(2)(A) are connected by
+the disjunctive “or.” The debtors contend that our interpretation of §1129(b)(2)(A) “transforms ‘or’ into ‘and.’ ”
+Reply Brief for Petitioners 3. But that is not so. The
+question here is not whether debtors must comply with
+more than one clause, but rather which one of the three
+they must satisfy. Debtors seeking to sell their property
+free of liens under §1129(b)(2)(A) must satisfy the requirements of clause (ii), not the requirements of both
+clauses (ii) and (iii).
+The debtors make several arguments against applying
+the general/specific canon. They contend that clause (ii)
+is no more specific than clause (iii), because the former
+provides a procedural protection to secured creditors
+(credit-bidding) while the latter provides a substantive
+protection (indubitable equivalence). As a result, they say,
+clause (ii) is not “a limiting subset” of clause (iii), which
+(according to their view) application of the general/specific
+
+

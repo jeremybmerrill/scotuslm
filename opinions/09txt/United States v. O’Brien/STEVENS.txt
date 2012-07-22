@@ -1,0 +1,48 @@
+No. 08–1569 [May 24, 2010]  JUSTICE STEVENS, concurring. A “sentencing factor” may serve two very different func tions. As a historical matter, the term has described a fact that a trial judge might rely upon when choosing a specific sentence within the range authorized by the legislature. In that setting, the judge has broad discretion in deter mining both the significance of the factor and whether it has been established by reliable evidence. In the 1970’s and 1980’s, as part of a national effort to enact tougher sentences,1 a new type of “sentencing factor” emerged. Since then the term has been used to describe facts, found by the judge by a preponderance of the evi dence, that have the effect of imposing mandatory limits on a sentencing judge’s discretion. When used as an ele ment of a mandatory sentencing scheme, a sentencing factor is the functional equivalent of an element of the
+criminal offense itself. In these circumstances, I continue to believe the Constitution requires proof beyond a rea sonable doubt of this “factor.” We first encountered the use of a “sentencing factor” in vania, 477 U. S. 79 (1986), when we examined the consti tutionality of Pennsylvania’s 1982 Mandatory Minimum Sentencing Act (Act).2 The Pennsylvania statute subjected anyone convicted of a specified felony to a mandatory minimum 5-year sentence if the trial judge found, by a preponderance of the evidence, that the defendant “visibly possessed a firearm” during the commission of the offense. See id., at 81–82. In four prosecutions under the Act, the trial judges had each held that the statute was unconstitu tional and imposed sentences lower than the 5-year man datory minimum, presumably because they recognized that the statute treated the visible possession of a firearm as the functional equivalent of an offense element. Id., at 82. On appeal, the Pennsylvania Supreme Court consoli dated the four cases and reversed.3 Id., at 83. It reasoned that because visible possession of a firearm was a mere “sentencing factor,” rather than an element of any of the specified offenses defined by the legislature, the protec tions afforded by cases like In re Winship, 397 U. S. 358 (1970),4 did not apply. A bare majority of the McMillan Court endorsed this
+novel use of the sentencing factor concept. Five Justices concluded that the prerequisite for a mandatory sentence is just a “sentencing factor,” rather than an “element of the offense,” because the factor does not “alte[r] the maxi mum penalty for the crime” and merely “limit[s] the sen tencing court’s discretion in selecting a penalty within the range already available to it.” 477 U. S., at 87–88. Yet, although the Pennsylvania Act’s 5-year mandatory sen tence for visible possession of a firearm during the com mission of an offense did not exceed the statutory maxi mum that otherwise applied for the crimes of conviction, a positive finding on the so-called sentencing factor man dated the imposition of a sentence that exceeded the pun ishment the defendant would have otherwise received. See id., at 103–104 (STEVENS, J., dissenting). The majority opinion in McMillan can fairly be de scribed as pathmarking, but unlike one of its predecessors, Winship, it pointed in the wrong direction. For reasons set forth in the opinions joined by the four dissenting Justices in McMillan, I continue to believe that McMillan was incorrectly decided. See id., at 93–94 (Marshall, J., dis senting); id., at 95–104 (STEVENS, J., dissenting). Not only was McMillan wrong the day it was decided, but its reasoning has been substantially undermined—if not eviscerated—by the development of our Sixth Amend ment jurisprudence in more recent years. We now under stand that “ ‘[i]t is unconstitutional [under the Sixth Amendment] for a legislature to remove from the jury the assessment of facts that increase the prescribed range of penalties to which a criminal defendant is exposed.’ ” (STEVENS, J., concurring)). Harmonizing Apprendi with our existing Sixth Amendment jurisprudence, we ex
+plained that “any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.” 530 U. S., at 490 (emphasis added). In other words, we narrowed our holding to those facts that effec tively raised the ceiling on the offense, but did not then consider whether the logic of our holding applied also to those facts necessary to set the floor of a particular sentence. As JUSTICE THOMAS eloquently explained in his dissent reasoning in our decision in Apprendi applies with equal force in the context of mandatory minimums. There is, quite simply, no reason to distinguish between facts that trigger punishment in excess of the statutory maximum and facts that trigger a mandatory minimum. This case vividly illustrates the point. It is quite plain that there is a world of difference between the 81⁄2-year sentence and the 7-year sentence the judge imposed on the defendants in this case and the 30-year sentence mandated by the machinegun finding under 18 U. S. C. §924(c)(1)(B). Mandatory minimums may have a particularly acute practical effect in this type of statutory scheme which contains an implied statutory maximum of life, see ante, at 10. There is, in this type of case, no ceiling; there is only a floor below which a sentence cannot fall. Further more, absent a positive finding on one of §924(c)(1)’s enu merated factors, it is quite clear that no judge would impose a sentence as great as the sentences commanded by the provision at issue in this case. Indeed, it appears that, but for those subject to the 30-year mandatory mini mum, no defendant has ever been sentenced to a sentence anywhere near 30 years for a §924(c) offense. See Brief for Respondent O’Brien 46–47, and n. 15. Apprendi should have signaled the end of McMillan, just as it signaled the unconstitutionality of state and
+Booker, 543 U. S. 220 (2005). But thanks to an unpersua sive attempt to distinguish Apprendi,5 and a reluctant Apprendi dissenter, McMillan survived over the protest of four Members of the Court. See Harris, 536 U. S., at 569– 570 (BREYER, J., concurring in part and concurring in judgment) (“I cannot easily distinguish Apprendi . . . from this case in terms of logic. For that reason, I cannot agree with the plurality’s opinion insofar as it finds such a dis tinction. At the same time . . . I cannot yet accept [Ap prendi’s] rule”). It appears, however, that the reluctant Apprendi dissenter may no longer be reluctant.6 I am therefore in full agreement with JUSTICE THOMAS’ separate writing today, post, at 1–2, as I was with his Harris dissent. McMillan and Harris should be overruled, at least to the extent that they authorize judicial factfind ing on a preponderance of the evidence standard of facts that “expos[e] a defendant to [a] greater punishment than what is otherwise legally prescribed . . .” Harris, 536 U. S., at 579 (THOMAS, J., dissenting). Any such fact is the functional equivalent of an element of the offense.
+In my view, the simplest, and most correct, solution to the case before us would be to recognize that any fact mandating the imposition of a sentence more severe than a judge would otherwise have discretion to impose should be treated as an element of the offense. The unanimity of our decision today does not imply that McMillan is safe from a direct challenge to its foundation.
+——————
+1 “By 1990, forty-six states had enacted mandatory sentence en
+hancement laws, and most states had a wide variety of these provi
+sions.” Lowenthal, Mandatory Sentencing Laws: Undermining the
+Effectiveness of Determinate Sentencing Reform, 81 Cal. L. Rev. 61,
+64–65 (1993) (footnote omitted); see also id., at 69 (“[M]ost of the
+current mandatory enhancement laws did not appear until the 1970s”);
+Schulhofer, Rethinking Mandatory Minimums, 28 Wake Forest L. Rev.
+199, 200–201 (1993) (discussing history of federal mandatory minimum
+sentencing regime).
+
+
+——————
+2 See Apprendi v. New Jersey, 530 U. S. 466, 485 (2000) (“It was in
+McMillan . . . that this Court, for the first time, coined the term ‘sen
+tencing factor’ to refer to a fact that was not found by a jury but that
+could affect the sentence imposed by the judge”).
+3 Commonwealth v. Wright, 508 Pa. 25, 494 A. 2d 354 (1985).
+4 In Winship, the Court “explicitly” held that “the Due Process Clause
+protects the accused against conviction except upon proof beyond a
+reasonable doubt of every fact necessary to constitute the crime with
+which he is charged.” 397 U. S., at 364.
+
+
+——————
+5 Consistent with the attempt in Harris v. United States, 536 U. S.
+545 (2002), to distinguish Apprendi, JUSTICE KENNEDY’s fine opinion for
+the Court today employs some of the same acrobatics to distinguish
+Harris from the present case. Harris also involved §924(c)(1), though a
+different subsection; its reading of the mandatory minimum for “bran
+dishing” a firearm contained in 18 U. S. C. §924(c)(1)(A) as a sentencing
+factor is not so easily distinguished from the nearly identical manda
+tory minimum for possessing a “machinegun” under §924(c)(1)(B).
+6 “But in Harris, I said that I thought Apprendi does cover mandatory
+minimums, but I don’t accept Apprendi. Well, at some point I guess I
+have to accept Apprendi, because it’s the law and has been for some
+time. So if . . . if that should become an issue about whether mandatory
+minimums are treated like the maximums for Apprendi purposes,
+should we reset the case for argument?” Tr. of Oral Arg. 20 (question
+by BREYER, J.).
+
+

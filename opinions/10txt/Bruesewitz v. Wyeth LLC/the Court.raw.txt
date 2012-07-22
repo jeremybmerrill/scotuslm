@@ -1,0 +1,885 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–152
+_________________
+
+RUSSELL BRUESEWITZ, ET AL., PETITIONERS v. 
+
+WYETH LLC, FKA WYETH, INC., FKA WYETH
+
+LABORATORIES, ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE THIRD CIRCUIT
+
+[February 22, 2011] 
+
+
+JUSTICE SCALIA delivered the opinion of the Court.
+We consider whether a preemption provision enacted in
+the National Childhood Vaccine Injury Act of 1986
+(NCVIA)1 bars state-law design-defect claims against
+vaccine manufacturers.
+I
+
+A
+
+For the last 66 years, vaccines have been subject to the
+same federal premarket approval process as prescription
+drugs, and compensation for vaccine-related injuries has
+been left largely to the States.2 Under that regime, the
+elimination of communicable diseases through vaccination
+became “one of the greatest achievements” of public health
+in the 20th century.3 But in the 1970’s and 1980’s vac
+——————
+1 42
+
+U. S. C. §300aa–22(b)(1).
+P. Hutt, R. Merrill, & L. Grossman, Food and Drug Law 912–
+913, 1458 (3d ed. 2007).
+3 Centers for Disease Control, Achievements in Public Health, 1900–
+1999: Impact of Vaccines Universally Recommended for Children, 48
+Morbidity and Mortality Weekly Report 243, 247 (Apr. 2, 1999).
+2 See
+
+
+2
+
+BRUESEWITZ v. WYETH LLC
+Opinion of the Court
+
+cines became, one might say, victims of their own success.
+They had been so effective in preventing infectious dis
+eases that the public became much less alarmed at the
+threat of those diseases,4 and much more concerned with
+the risk of injury from the vaccines themselves.5
+Much of the concern centered around vaccines against
+diphtheria, tetanus, and pertussis (DTP), which were
+blamed for children’s disabilities and developmental de
+lays. This led to a massive increase in vaccine-related tort
+litigation. Whereas between 1978 and 1981 only nine
+product-liability suits were filed against DTP manufactur
+ers, by the mid-1980’s the suits numbered more than 200
+each year.6 This destabilized the DTP vaccine market,
+causing two of the three domestic manufacturers to with
+draw; and the remaining manufacturer, Lederle Laborato
+ries, estimated that its potential tort liability exceeded its
+annual sales by a factor of 200.7 Vaccine shortages arose
+when Lederle had production problems in 1984.8
+Despite the large number of suits, there were many
+complaints that obtaining compensation for legitimate
+vaccine-inflicted injuries was too costly and difficult.9 A
+——————
+4 See Mortimer, Immunization Against Infectious Disease, 200 Sci
+ence 902, 906 (1978).
+5 See National Vaccine Advisory Committee, A Comprehensive Re
+view of Federal Vaccine Safety Programs and Public Health Activities
+2–3 (Dec. 2008) (hereinafter NVAC), http://www.hhs.gov/nvpo/nvac/
+documents/vaccine-safety-review.pdf (as visited Feb. 18, 2011, and
+available in Clerk of Court’s case file).
+6 See Sing & Willian, Supplying Vaccines: An Overview of the Market
+and Regulatory Context, in Supplying Vaccines: An Economic Analysis
+of Critical Issues 45, 51–52 (M. Pauly, C. Robinson, S. Sepe, M. Sing, &
+M. William eds. 1996).
+7 See id., at 52.
+8 See Centers for Disease Control, Diptheria-Tetanus-Pertussis Vac
+cine Shortage, 33 Morbidity and Mortality Weekly Report 695–696
+(Dec. 14, 1984).
+9 See Apolinsky & Van Detta, Rethinking Liability for Vaccine Injury,
+19 Cornell J. L. & Pub. Pol’y 537, 550–551 (2010); T. Burke, Lawyers,
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+significant number of parents were already declining
+vaccination for their children,10 and concerns about com
+pensation threatened to depress vaccination rates even
+further.11 This was a source of concern to public health
+officials, since vaccines are effective in preventing out
+breaks of disease only if a large percentage of the popula
+tion is vaccinated.12
+To stabilize the vaccine market and facilitate compensa
+tion, Congress enacted the NCVIA in 1986. The Act estab
+lishes a no-fault compensation program “designed to work
+faster and with greater ease than the civil tort system.”
+Shalala v. Whitecotton, 514 U. S. 268, 269 (1995). A per
+son injured by a vaccine, or his legal guardian, may file a
+petition for compensation in the United States Court of
+Federal Claims, naming the Secretary of Health and
+Human Services as the respondent.13 A special master
+then makes an informal adjudication of the petition within
+(except for two limited exceptions) 240 days.14 The Court
+of Federal Claims must review objections to the special
+master’s decision and enter final judgment under a simi
+larly tight statutory deadline.15 At that point, a claimant
+has two options: to accept the court’s judgment and forgo a
+traditional tort suit for damages, or to reject the judgment
+and seek tort relief from the vaccine manufacturer.16
+Fast, informal adjudication is made possible by the Act’s
+Vaccine Injury Table, which lists the vaccines covered
+under the Act; describes each vaccine’s compensable,
+——————
+Lawsuits, and Legal Rights: The Battle over Litigation in American
+Society 146 (2002).
+10 Mortimer, supra, at 906.
+11 See Hagan, 45 Food Drug Cosm. L. J. 477, 479 (1990).
+12 See R. Merrill, Introduction to Epidemiology 65–68 (2010).
+13 See 42 U. S. C. §300aa–11(a)(1).
+14 See §300aa–12(d)(3).
+15 See §300aa–12(e), (g).
+16 See §300aa–21(a).
+
+
+4
+
+BRUESEWITZ v. WYETH LLC
+Opinion of the Court
+
+adverse side effects; and indicates how soon after vaccina
+tion those side effects should first manifest themselves.17
+Claimants who show that a listed injury first manifested
+itself at the appropriate time are prima facie entitled to
+compensation.18 No showing of causation is necessary; the
+Secretary bears the burden of disproving causation.19 A
+claimant may also recover for unlisted side effects, and for
+listed side effects that occur at times other than those
+specified in the Table, but for those the claimant must
+prove causation.20 Unlike in tort suits, claimants under
+the Act are not required to show that the administered
+vaccine was defectively manufactured, labeled, or de
+signed.
+Successful claimants receive compensation for medical,
+rehabilitation, counseling, special education, and voca
+tional training expenses; diminished earning capacity;
+pain and suffering; and $250,000 for vaccine-related
+deaths.21 Attorney’s fees are provided, not only for suc
+cessful cases, but even for unsuccessful claims that are not
+frivolous.22 These awards are paid out of a fund created by
+an excise tax on each vaccine dose.23
+The quid pro quo for this, designed to stabilize the
+vaccine market, was the provision of significant tort
+liability protections for vaccine manufacturers. The Act
+requires claimants to seek relief through the compensation
+program before filing suit for more than $1,000.24 Manu
+facturers are generally immunized from liability for fail
+——————
+17 See §300aa–14(a); 42 CFR §100.3 (2009) (current Vaccine Injury
+Table).
+18 See 42 U. S. C. §§300aa–11(c)(1), 300aa–13(a)(1)(A).
+19 See §300aa–13(a)(1)(B).
+20 See §300aa–11(c)(1)(C)(ii).
+21 See §300aa–15(a).
+22 See §300aa–15(e).
+23 See §300aa–15(i)(2); 26 U. S. C. §§4131, 9510.
+24 See 42 U. S. C. §300aa–11(a)(2).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+ure to warn if they have complied with all regulatory
+requirements (including but not limited to warning re
+quirements) and have given the warning either to the
+claimant or the claimant’s physician.25 They are immu
+nized from liability for punitive damages absent failure to
+comply with regulatory requirements, “fraud,” “intentional
+and wrongful withholding of information,” or other “crimi
+nal or illegal activity.”26 And most relevant to the present
+case, the Act expressly eliminates liability for a vaccine’s
+unavoidable, adverse side effects:
+“No vaccine manufacturer shall be liable in a civil ac
+tion for damages arising from a vaccine-related injury
+or death associated with the administration of a vac
+cine after October 1, 1988, if the injury or death re
+sulted from side effects that were unavoidable even
+though the vaccine was properly prepared and was ac
+companied by proper directions and warnings.”27
+B
+The vaccine at issue here is a DTP vaccine manufac
+tured by Lederle Laboratories. It first received federal
+approval in 1948 and received supplemental approvals in
+1953 and 1970. Respondent Wyeth purchased Lederle in
+1994 and stopped manufacturing the vaccine in 1998.
+Hannah Bruesewitz was born on October 20, 1991. Her
+pediatrician administered doses of the DTP vaccine ac
+cording to the Center for Disease Control’s recommended
+childhood immunization schedule. Within 24 hours of her
+April 1992 vaccination, Hannah started to experience
+——————
+25 See §300aa–22(b)(2), (c). The immunity does not apply if the plain
+tiff establishes by clear and convincing evidence that the manufacturer
+was negligent, or was guilty of fraud, intentional and wrongful with
+holding of information, or other unlawful activity. See §§300aa–
+22(b)(2), 300aa–23(d)(2).
+26 §300aa–23(d)(2).
+27 §300aa–22(b)(1).
+
+
+6
+
+BRUESEWITZ v. WYETH LLC
+Opinion of the Court
+
+seizures.28 She suffered over 100 seizures during the next
+month, and her doctors eventually diagnosed her with
+“residual seizure disorder” and “developmental delay.”29
+Hannah, now a teenager, is still diagnosed with both
+conditions.
+In April 1995, Hannah’s parents, Russell and Robalee
+Bruesewitz, filed a vaccine injury petition in the United
+States Court of Federal Claims, alleging that Hannah
+suffered from on-Table residual seizure disorder and
+encephalopathy injuries.30 A Special Master denied their
+claims on various grounds, though they were awarded
+$126,800 in attorney’s fees and costs. The Bruesewitzes
+elected to reject the unfavorable judgment, and in October
+2005 filed this lawsuit in Pennsylvania state court. Their
+complaint alleged (as relevant here) that defective design
+of Lederle’s DTP vaccine caused Hannah’s disabilities, and
+that Lederle was subject to strict liability, and liability for
+negligent design, under Pennsylvania common law.31
+Wyeth removed the suit to the United States District
+Court for the Eastern District of Pennsylvania, which
+granted Wyeth summary judgment on the strict-liability
+and negligence design-defect claims, holding that the
+Pennsylvania law providing those causes of action was
+preempted by 42 U. S. C. §300aa–22(b)(1).32 The United
+States Court of Appeals for the Third Circuit affirmed.33
+We granted certiorari. 559 U. S. ___ (2010).
+——————
+28 See Bruesewitz v. Secretary of Health and Human Servs., No. 95–
+0266V, 2002 WL 31965744, *3 (Ct. Cl., Dec. 20, 2002).
+29 561 F. 3d 233, 236 (CA3 2009).
+30 See id., at *1.
+31 See 561 F. 3d at 237. The complaint also made claims based upon
+failure to warn and defective manufacture. These are no longer at
+issue.
+32 See id., at 237–238.
+33 Id., at 235.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+II 
+
+A
+
+We set forth again the statutory text at issue:
+“No vaccine manufacturer shall be liable in a civil ac
+tion for damages arising from a vaccine-related injury
+or death associated with the administration of a vac
+cine after October 1, 1988, if the injury or death re
+sulted from side effects that were unavoidable even
+though the vaccine was properly prepared and was ac
+companied by proper directions and warnings.”34
+The “even though” clause clarifies the word that precedes
+it. It delineates the preventative measures that a vaccine
+manufacturer must have taken for a side-effect to be con
+sidered “unavoidable” under the statute. Provided that
+there was proper manufacture and warning, any remain
+ing side effects, including those resulting from design
+defects, are deemed to have been unavoidable. State-law
+design-defect claims are therefore preempted.
+If a manufacturer could be held liable for failure to use a
+different design, the word “unavoidable” would do no
+work. A side effect of a vaccine could always have been
+avoidable by use of a differently designed vaccine not
+containing the harmful element. The language of the
+provision thus suggests that the design of the vaccine is a
+given, not subject to question in the tort action. What the
+statute establishes as a complete defense must be un
+avoidability (given safe manufacture and warning) with
+respect to the particular design. Which plainly implies
+that the design itself is not open to question.35
+——————
+34 42
+
+U. S. C. §300aa–22(b)(1).
+dissent advocates for another possibility: “[A] side effect is
+‘unavoidable’ . . . where there is no feasible alternative design that
+would eliminate the side effect of the vaccine without compromising its
+cost and utility.” Post, at 15 (opinion of SOTOMAYOR, J.). The dissent
+makes no effort to ground that position in the text of §300aa–22(b)(1).
+35 The
+
+
+8
+
+BRUESEWITZ v. WYETH LLC
+Opinion of the Court
+
+A further textual indication leads to the same conclu
+sion. Products-liability law establishes a classic and well
+known triumvirate of grounds for liability: defective
+manufacture, inadequate directions or warnings, and
+defective design.36 If all three were intended to be pre
+served, it would be strange to mention specifically only
+two, and leave the third to implication. It would have
+been much easier (and much more natural) to provide that
+manufacturers would be liable for “defective manufacture,
+defective directions or warning, and defective design.” It
+seems that the statute fails to mention design-defect
+liability “by deliberate choice, not inadvertence.” Barn
+hart v. Peabody Coal Co., 537 U. S. 149, 168 (2003). Ex
+pressio unius, exclusio alterius.
+B
+The dissent’s principal textual argument is mistaken.
+We agree with its premise that “ ‘side effects that were
+unavoidable’ must refer to side effects caused by a vac
+cine’s design.”37 We do not comprehend, however, the
+second step of its reasoning, which is that the use of
+the conditional term “if” in the introductory phrase “if the
+injury or death resulted from side effects that were un
+avoidable” “plainly implies that some side effects stem
+ming from a vaccine’s design are ‘unavoidable,’ while
+——————
+We doubt that Congress would introduce such an amorphous test by
+implication when it otherwise micromanages vaccine manufacturers.
+See infra, at 13–14. We have no idea how much more expensive an
+alternative design can be before it “compromis[es]” a vaccine’s cost or
+how much efficacy an alternative design can sacrifice to improve safety.
+Neither does the dissent. And neither will the judges who must rule on
+motions to dismiss, motions for summary judgment, and motions for
+judgment as a matter of law. Which means that the test would proba
+bly have no real-world effect.
+36 W. Keeton, D. Dobbs, R. Keeton, & D. Owen, Prosser and Keeton on
+Law of Torts 695 (5th ed. 1984); Restatement (Third) of Torts §2 (1999).
+37 Post, at 3.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+others are avoidable.”38 That is not so. The “if ” clause
+makes total sense whether the design to which “unavoid
+able” refers is (as the dissent believes) any feasible design
+(making the side effects of the design used for the vaccine
+at issue avoidable), or (as we believe) the particular design
+used for the vaccine at issue (making its side effects un
+avoidable). Under the latter view, the condition estab
+lished by the “if” clause is that the vaccine have been
+properly labeled and manufactured; and under the former,
+that it have been properly designed, labeled, and manufac
+tured. Neither view renders the “if ” clause a nullity.
+Which of the two variants must be preferred is addressed
+by our textual analysis, and is in no way determined by
+the “if ” clause.
+Petitioners’ and the dissent’s textual argument also
+rests upon the proposition that the word “unavoidable” in
+§300aa–22(b)(1) is a term of art that incorporates com
+ment k to Restatement (Second) of Torts §402A (1963–
+1964).39 The Restatement generally holds a manufacturer
+strictly liable for harm to person or property caused by
+“any product in a defective condition unreasonably dan
+gerous to the user.”40 Comment k exempts from this
+strict-liability rule “unavoidably unsafe products.” An
+unavoidably unsafe product is defined by a hodge-podge of
+criteria and a few examples, such as the Pasteur rabies
+vaccine and experimental pharmaceuticals. Despite this
+lack of clarity, petitioners seize upon one phrase in the
+comment k analysis, and assert that by 1986 a majority of
+courts had made this a sine qua non requirement for an
+“unavoidably unsafe product”: a case-specific showing that
+the product was “quite incapable of being made safer for
+——————
+38 Ibid.
+39 See
+
+Brief for Petitioners 29.
+
+§402A, p. 347. 
+
+
+40 Restatement
+
+
+10
+
+BRUESEWITZ v. WYETH LLC
+Opinion of the Court
+
+[its] intended . . . use.”41
+We have no need to consider the finer points of comment
+k. Whatever consistent judicial gloss that comment may
+have been given in 1986, there is no reason to believe that
+§300aa–22(b)(1) was invoking it. The comment creates a
+special category of “unavoidably unsafe products,” while
+the statute refers to “side effects that were unavoidable.”
+That the latter uses the adjective “unavoidable” and the
+former the adverb “unavoidably” does not establish that
+Congress had comment k in mind. “Unavoidable” is
+hardly a rarely used word. Even the cases petitioners cite
+as putting a definitive gloss on comment k use the precise
+phrase “unavoidably unsafe product”;42 none attaches
+special significance to the term “unavoidable” standing
+alone.
+The textual problems with petitioners’ interpretation do
+——————
+41 Id., Comment k, p. 353; Petitioners cite, inter alia, Kearl v. Lederle
+Labs., 172 Cal. App. 3d 812, 828–830, 218 Cal. Rptr. 453, 463–464
+(1985); Belle Bonfils Memorial Blood Bank v. Hansen, 665 P. 2d 118,
+122 (Colo. 1983).
+Though it is not pertinent to our analysis, we point out that a large
+number of courts disagreed with that reading of comment k, and took it
+to say that manufacturers did not face strict liability for side effects of
+properly manufactured prescription drugs that were accompanied by
+adequate warnings. See, e.g., Brown v. Superior Court, 227 Cal. Rptr.
+768, 772–775 (Cal. App. 1986), (officially depublished), aff’d 44 Cal. 3d
+1049, 751 P. 2d 470 (1988); McKee v. Moore, 648 P. 2d 21, 23 (Okla.
+1982); Stone v. Smith, Kline & French Labs., 447 So. 2d 1301, 1303–
+1304 (Ala. 1984); Lindsay v. Ortho Pharm. Corp., 637 F. 2d 87, 90–91
+(CA2 1980) (applying N. Y. law); Wolfgruber v. Upjohn Co., 72 App. Div.
+2d 59, 61, 423 N. Y. S. 2d 95, 96 (1979); Chambers v. G. D. Searle & Co.,
+441 F. Supp. 377, 380–381 (D Md. 1975); Basko v. Sterling Drug, Inc.,
+416 F. 2d 417, 425 (CA2 1969) (applying Conn. law).
+42 See, e.g., Johnson v. American Cyanamid Co., 239 Kan. 279, 285,
+718 P. 2d 1318, 1323 (1986); Feldman v. Lederle Labs., 97 N. J. 429,
+440, 446–447, 479 A. 2d 374, 380, 383–384 (1984); Belle Bonfils Memo
+rial Blood Bank supra, at 121–123; Cassisi v. Maytag Co., 396 So. 2d
+1140, 1144, n. 4, 1146 (Fla. App. 1981); Racer v. Utterman, 629 S. W. 2d
+387, 393 (Mo. App. 1981).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+not end there. The phrase “even though” in the clause
+“even though the vaccine was properly prepared and
+[labeled]” is meant to signal the unexpected: unavoidable
+side effects persist despite best manufacturing and label
+ing practices.43 But petitioners’ reading eliminates any
+opposition between the “even though” clause—called a
+concessive subordinate clause by grammarians—and the
+word “unavoidable.”44 Their reading makes preemption
+turn equally on unavoidability, proper preparation, and
+proper labeling. Thus, the dissent twice refers to the
+requirements of proper preparation and proper labeling as
+“two additional prerequisites” for preemption independent
+of unavoidability.45 The primary textual justification for
+the dissent’s position depends on that independence.46
+But linking independent ideas is the job of a coordinating
+junction like “and,” not a subordinating junction like “even
+though.”47
+——————
+43 The dissent’s assertion that we treat “even though” as a synonym
+for “because” misses the subtle distinction between “because” and
+“despite.” See post, at 17, n. 14. “Even though” is a close cousin of the
+latter. See Webster’s New International Dictionary 709, 2631 (2d ed.
+1957). The statement “the car accident was unavoidable despite his
+quick reflexes” indicates that quick reflexes could not avoid the acci
+dent, and leaves open two unstated possibilities: (1) that other, un
+stated means of avoiding the accident besides quick reflexes existed,
+but came up short as well; or (2) that quick reflexes were the only
+possible way to avoid the accident. Our interpretation of §300aa–
+22(b)(1) explains why we think Congress meant the latter in this
+context. (Incidentally, the statement “the car accident was unavoidable
+because of his quick reflexes” makes no sense.)
+44 See W. Follett, Modern American Usage: A Guide 61 (1966).
+45 Post, at 9, 17.
+46 Post, at 3–5.
+47 The dissent responds that these “additional prerequisites” act “in a
+concessive, subordinating fashion,” post, at 17, n. 14 (internal quotation
+marks and brackets omitted). But that is no more true of the dissent’s
+conjunctive interpretation of the present text than it is of all provisions
+that set forth additional requirements—meaning that we could elimi
+nate “even though” from our English lexicon, its function being entirely
+
+
+12
+
+BRUESEWITZ v. WYETH LLC
+Opinion of the Court
+
+Petitioners and the dissent contend that the interpreta
+tion we propose would render part of §300aa–22(b)(1)
+superfluous: Congress could have more tersely and more
+clearly preempted design-defect claims by barring liability
+“if . . . the vaccine was properly prepared and was accom
+panied by proper directions and warnings.” The interven
+ing passage (“the injury or death resulted from side effects
+that were unavoidable even though”) is unnecessary. True
+enough. But the rule against giving a portion of text an
+interpretation which renders it superfluous does not pre
+scribe that a passage which could have been more terse
+does not mean what it says. The rule applies only if ver
+bosity and prolixity can be eliminated by giving the offend
+ing passage, or the remainder of the text, a competing
+interpretation. That is not the case here.48 To be sure,
+petitioners’ and the dissent’s interpretation gives inde
+pendent meaning to the intervening passage (the supposed
+meaning of comment k); but it does so only at the expense
+of rendering the remainder of the provision superfluous.
+Since a vaccine is not “quite incapable of being made safer
+for [its] intended use” if manufacturing defects could have
+been eliminated or better warnings provided, the entire
+“even though” clause is a useless appendage.49 It would
+suffice to say “if the injury or death resulted from side
+effects that were unavoidable”—full stop.
+——————
+performed by “and.” No, we think “even though” has a distinctive
+concessive, subordinating role to play.
+48 Because the dissent has a superfluity problem of its own, its reli
+ance on Bates v. Dow Agrosciences LLC, 544 U. S. 431 (2005), is mis
+placed. See id., at 449 (adopting an interpretation that was “the only
+one that makes sense of each phrase” in the relevant statute).
+49 That is true regardless of whether §300aa–22(b)(1) incorporates
+comment k. See Restatement §402A, Comment k, pp. 353, 354 (noting
+that “unavoidably unsafe products” are exempt from strict liability
+“with the qualification that they are properly prepared and marketed,
+and proper warning is given”).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+13
+
+Opinion of the Court
+
+III
+The structure of the NCVIA and of vaccine regulation in
+general reinforces what the text of §300aa–22(b)(1) sug
+gests. A vaccine’s license spells out the manufacturing
+method that must be followed and the directions and
+warnings that must accompany the product.50 Manufac
+turers ordinarily must obtain the Food and Drug Admini
+stration’s (FDA) approval before modifying either.51 De
+viations from the license thus provide objective evidence of
+manufacturing defects or inadequate warnings. Further
+objective evidence comes from the FDA’s regulations—
+more than 90 of them52—that pervasively regulate the
+manufacturing process, down to the requirements for
+plumbing and ventilation systems at each manufacturing
+facility.53 Material noncompliance with any one of them,
+or with any other FDA regulation, could cost the manufac
+turer its regulatory-compliance defense.54
+Design defects, in contrast, do not merit a single men
+tion in the NCVIA or the FDA’s regulations. Indeed, the
+FDA has never even spelled out in regulations the criteria
+it uses to decide whether a vaccine is safe and effective for
+its intended use.55 And the decision is surely not an easy
+one. Drug manufacturers often could trade a little less
+efficacy for a little more safety, but the safest design is not
+always the best one. Striking the right balance between
+safety and efficacy is especially difficult with respect to
+vaccines, which affect public as well as individual health.
+Yet the Act, which in every other respect micromanages
+manufacturers, is silent on how to evaluate competing
+designs. Are manufacturers liable only for failing to em
+——————
+50 See
+
+42 U. S. C. §262(a), ( j); 21 CFR §§601.2(a), 314.105(b) (2010).
+§601.12.
+52 See §§211.1 et seq., 600.10–600.15, 600.21–600.22, 820.1 et seq.
+53 See §§211.46, 211.48.
+54 See 42 U. S. C. §300aa–22(b)(2).
+55 Hutt, Merrill, & Grossman, Food and Drug Law, at 685, 891.
+51 See
+
+
+14
+
+BRUESEWITZ v. WYETH LLC
+Opinion of the Court
+
+ploy an alternative design that the FDA has approved for
+distribution (an approval it takes years to obtain56)? Or
+does it suffice that a vaccine design has been approved in
+other countries? Or could there be liability for failure to
+use a design that exists only in a lab? Neither the Act nor
+the FDA regulations provide an answer, leaving the uni
+verse of alternative designs to be limited only by an ex
+pert’s imagination.
+Jurors, of course, often decide similar questions with
+little guidance, and we do not suggest that the absence
+of guidance alone suggests preemption. But the lack of
+guidance for design defects combined with the extensive guidance for the two grounds of liability specifically
+mentioned in the Act strongly suggests that design defects
+were not mentioned because they are not a basis for
+liability.
+The mandates contained in the Act lead to the same
+conclusion. Design-defect torts, broadly speaking, have
+two beneficial effects: (1) prompting the development of
+improved designs, and (2) providing compensation for
+inflicted injuries. The NCVIA provides other means for
+achieving both effects. We have already discussed the
+Act’s generous compensation scheme. And the Act pro
+vides many means of improving vaccine design. It directs
+the Secretary of Health and Human Services to promote
+“the development of childhood vaccines that result in
+fewer and less serious adverse reactions.”57 It establishes
+a National Vaccine Program, whose Director is “to achieve
+optimal prevention of human infectious diseases . . . and to
+achieve optimal prevention against adverse reactions.”58
+The Program is to set priorities for federal vaccine re
+search, and to coordinate federal vaccine safety and effi
+——————
+56 See
+
+Sing & William, Supplying Vaccines, at 66–67.
+U. S. C. §300aa–27(a)(1).
+58 §300aa–1.
+57 42
+
+
+Cite as: 562 U. S. ____ (2011)
+
+15
+
+Opinion of the Court
+
+cacy testing.59 The Act requires vaccine manufacturers
+and health-care providers to report adverse side effects,60
+and provides for monitoring of vaccine safety through a
+collaboration with eight managed-care organizations.61
+And of course whenever the FDA concludes that a vaccine
+is unsafe, it may revoke the license.62
+These provisions for federal agency improvement of
+vaccine design, and for federally prescribed compensation,
+once again suggest that §300aa–22(b)(1)’s silence regard
+ing design-defect liability was not inadvertent. It instead
+reflects a sensible choice to leave complex epidemiological
+judgments about vaccine design to the FDA and the Na
+tional Vaccine Program rather than juries.63
+And finally, the Act’s structural quid pro quo leads to
+the same conclusion: The vaccine manufacturers fund
+from their sales an informal, efficient compensation pro
+gram for vaccine injuries;64 in exchange they avoid costly
+tort litigation and the occasional disproportionate jury
+verdict.65 But design-defect allegations are the most
+speculative and difficult type of products liability claim to
+——————
+59 See
+
+§§300aa–2(a)(1)–(3), 300aa–3.
+§300aa–25(b).
+61 See NVAC 18–19.
+62 See 21 CFR §601.5(b)(1)(vi) (2010).
+63 The dissent quotes just part of this sentence, to make it appear that
+we believe complex epidemiological judgments ought to be assigned in
+that fashion. See post, at 26. We do not state our preference, but
+merely note that it is Congress’s expressed preference—and in order to
+preclude the argument that it is absurd to think Congress enacted such
+a thing, we assert that the choice is reasonable and express some of the
+reasons why. Leaving it to the jury may (or may not) be reasonable as
+well; we express no view.
+64 See 42 U. S. C. §300aa–15(i)(2); Pub. L. 99–660, §323(a), 100 Stat.
+3784. The dissent’s unsupported speculation that demand in the
+vaccine market is inelastic, see post, at 24, n. 22, sheds no light on
+whether Congress regarded the tax as a quid pro quo, most Members of
+Congress being neither professional economists nor law-and-economics
+scholars.
+65 See 42 U. S. C. §§300aa–11(a)(2), 300aa–22.
+60 See
+
+
+16
+
+BRUESEWITZ v. WYETH LLC
+Opinion of the Court
+
+litigate. Taxing vaccine manufacturers’ product to fund
+the compensation program, while leaving their liability for
+design defect virtually unaltered, would hardly coax
+manufacturers back into the market.
+The dissent believes the Act’s mandates are irrelevant
+because they do not spur innovation in precisely the same
+way as state-law tort systems.66 That is a novel sugges
+tion. Although we previously have expressed doubt that
+Congress would quietly preempt product-liability claims
+without providing a federal substitute, see Medtronic, Inc.
+v. Lohr, 518 U. S. 470, 486–488 (1996) (plurality opinion),
+we have never suggested we would be skeptical of preemp
+tion unless the congressional substitute operated like the
+tort system. We decline to adopt that stance today. The
+dissent’s belief that the FDA and the National Vaccine
+Program cannot alone spur adequate vaccine innovation is
+probably questionable, but surely beside the point.
+IV
+Since our interpretation of §300aa–22(b)(1) is the only
+interpretation supported by the text and structure of the
+NCVIA, even those of us who believe legislative history is
+a legitimate tool of statutory interpretation have no need
+to resort to it. In any case, the dissent’s contention that it
+would contradict our conclusion is mistaken.
+The dissent’s legislative history relies on the following
+syllogism: A 1986 House Committee Report states that
+§300aa–22(b)(1) “sets forth the principle contained in
+Comment k of Section 402A of the Restatement of Torts
+(Second);”67 in 1986 comment k was “commonly under
+stood” to require a case-specific showing that “no feasible
+alternative design” existed; Congress therefore must have
+intended §300aa–22(b)(1) to require that showing.68 The
+——————
+66 See
+
+post, at 21–24. 
+
+R. Rep. No. 99–908, pt. 1, p. 25 (1986) (hereinafter 1986 Report). 
+
+68 Post, at 7–8. 
+
+67 H.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+17
+
+Opinion of the Court
+
+syllogism ignores unhelpful statements in the Report and
+relies upon a term of art that did not exist in 1986.
+Immediately after the language quoted by the dissent,
+the 1986 Report notes the difficulty a jury would have in
+faithfully assessing whether a feasible alternative design
+exists when an innocent “young child, often badly injured
+or killed” is the plaintiff.69 Eliminating that concern is
+why the Report’s authors “strongly believ[e] that Com
+ment k is appropriate and necessary as the policy for civil
+actions seeking damages in tort.”70 The dissent’s interpre
+tation of §300aa–22(b)(1) and its version of “the principle
+in Comment K” adopted by the 1986 Report leave that
+concern unaddressed.
+The dissent buries another unfavorable piece of legisla
+tive history. Because the Report believes that §300aa–
+22(b)(1) should incorporate “the principle in Comment K”
+and because the Act provides a generous no-fault compen
+sation scheme, the Report counsels injured parties who
+cannot prove a manufacturing or labeling defect to “pursue
+recompense in the compensation system, not the tort
+system.”71 That counsel echoes our interpretation of
+§300aa–22(b)(1).
+Not to worry, the dissent retorts, a Committee Report by
+a later Congress “authoritative[ly]” vindicates its interpre
+tation.72 Post-enactment legislative history (a contradic
+tion in terms) is not a legitimate tool of statutory interpre
+tation. See Jones v. United States, 526 U. S. 227, 238
+——————
+69 1986
+
+Report, at 26; see ibid. (“[E]ven if the defendant manufacturer
+may have made as safe a vaccine as anyone reasonably could expect, a
+court or jury undoubtedly will find it difficult to rule in favor of the
+‘innocent’ manufacturer if the equally ‘innocent’ child has to bear the
+risk of loss with no other possibility of recompense”).
+70 Ibid.
+71 Ibid.
+72 Post, at 12. This is a courageous adverb since we have previously
+held that the only authoritative source of statutory meaning is the text
+that has passed through the Article I process. See Exxon Mobil Corp. v.
+Allapattah Services, Inc., 545 U. S. 546, 568 (2005).
+
+
+18
+
+BRUESEWITZ v. WYETH LLC
+Opinion of the Court
+
+(1999); United States v. Mine Workers, 330 U. S. 258, 281–
+282 (1947). Real (pre-enactment) legislative history is
+persuasive to some because it is thought to shed light on
+what legislators understood an ambiguous statutory text
+to mean when they voted to enact it into law. See Exxon
+Mobil Corp. v. Allapattah Services, Inc., 545 U. S. 546, 568
+(2005). But post-enactment legislative history by defini
+tion “could have had no effect on the congressional vote,”
+District of Columbia v. Heller, 554 U. S. 570, 605 (2008).
+It does not matter that §300aa–22(b)(1) did not take
+effect until the later Congress passed the excise tax that
+funds the compensation scheme,73 and that the supposedly
+dispositive Committee Report is attached to that funding
+legislation.74 Those who voted on the relevant statutory
+language were not necessarily the same persons who
+crafted the statements in the later Committee Report; or if
+they were did not necessarily have the same views at that
+earlier time; and no one voting at that earlier time could
+possibly have been informed by those later statements.
+Permitting the legislative history of subsequent funding
+legislation to alter the meaning of a statute would set a
+dangerous precedent. Many provisions of federal law
+depend on appropriations or include sunset provisions;75
+they cannot be made the device for unenacted statutory
+revision.
+That brings us to the second flaw in the dissent’s syllo
+gism: Comment k did not have a “commonly understood
+meaning”76 in the mid-1980’s. Some courts thought it
+required a case-specific showing that a product was “un
+avoidably unsafe”; many others thought it categorically
+exempted certain types of products from strict liability.77
+——————
+73 Pub.
+
+L. 99–960, §323(a), 100 Stat. 3784.
+R. Rep. No. 100–391, pt. 1, p. 701 (1987).
+75 See, e.g., Pub. L. 104–208, §§401, 403(a), 110 Stat. 3009–655 to
+3009–656, 3009–659 to 3009–662, as amended, note following 8 U. S. C.
+§1324a (2006 ed., Supp. III) (E-Verify program expires Sept. 30, 2012).
+76 Post, at 8.
+77 See n. 39, supra; post, at 7–8, n. 5.
+74 H.
+
+
+Cite as: 562 U. S. ____ (2011)
+
+19
+
+Opinion of the Court
+
+When “all (or nearly all) of the” relevant judicial decisions
+have given a term or concept a consistent judicial gloss, we
+presume Congress intended the term or concept to have
+that meaning when it incorporated it into a later-enacted
+statute. Merck & Co. v. Reynolds, 559 U. S. ___, ___ (2010)
+(SCALIA, J., concurring in part and concurring in judg
+ment) (slip op., at 5). The consistent gloss represents
+the public understanding of the term. We cannot make the
+same assumption when widespread disagreement exists
+among the lower courts. We must make do with giving the
+term its most plausible meaning using the traditional
+tools of statutory interpretation. That is what we have
+done today.
+*
+*
+*
+For the foregoing reasons, we hold that the National
+Childhood Vaccine Injury Act preempts all design-defect
+claims against vaccine manufacturers brought by plain
+tiffs who seek compensation for injury or death caused by
+vaccine side effects. The judgment of the Court of Appeals
+is affirmed.
+It is so ordered.
+JUSTICE KAGAN took no part in the consideration or
+decision of this case.
+
+

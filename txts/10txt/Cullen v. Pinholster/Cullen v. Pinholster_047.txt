@@ -1,0 +1,47 @@
+8
+
+CULLEN v. PINHOLSTER
+SOTOMAYOR, J., dissenting
+
+enacting AEDPA, Congress generally barred evidentiary
+hearings for petitioners who did not “exercise diligence in
+pursuing their claims” in state court. Michael Williams,
+529 U. S., at 436; see also §2254(e)(2). Importantly, it did
+not impose any express limit on evidentiary hearings for
+petitioners who had been diligent in state court. See id.,
+at 436 (“[T]he statute does not equate prisoners who exer
+cise diligence in pursuing their claims with those who do
+not”). For those petitioners, Congress left the decision to
+hold a hearing “to the sound discretion of district courts.”
+Landrigan, 550 U. S., at 473.
+Faced with situations in which a diligent petitioner
+offers additional evidence in federal court, the courts of
+appeals have taken two approaches to applying
+§2254(d)(1). Some courts have held that when a federal
+court admits new evidence supporting a claim adjudicated
+on the merits in state court, §2254(d)(1) does not apply at
+all and the federal court may review the claim de novo.
+See ante, at 12; Holland v. Jackson, 542 U. S. 649, 653
+(2004) (per curiam); see, e.g., Winston v. Kelly, 592 F. 3d
+535, 555–556 (CA4 2010). I agree with the majority’s
+rejection of this approach. See ante, at 12. It would un
+dermine the comity principles motivating AEDPA to de
+cline to defer to a state-court adjudication of a claim
+because the state court, through no fault of its own,
+lacked all the relevant evidence.5
+——————
+5 Of
+
+course, §2254(d)(1) only applies when a state court has adjudi
+cated a claim on the merits. There may be situations in which new
+evidence supporting a claim adjudicated on the merits gives rise to an
+altogether different claim. See, e.g., Reply Brief for Petitioner 10–11
+(evidence withheld by the prosecutor relating to one claim may give rise
+to a separate claim under Brady v. Maryland, 373 U. S. 83 (1963)). The
+majority opinion does not foreclose this possibility.
+I assume that the majority does not intend to suggest that review is
+limited to the state-court record when a petitioner’s inability to develop
+the facts supporting his claim was the fault of the state court itself. See
+generally Tr. of Oral Arg. in Bell v. Kelly, O. T. 2008, No. 07–1223.
+
+

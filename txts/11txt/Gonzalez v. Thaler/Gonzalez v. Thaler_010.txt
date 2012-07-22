@@ -1,0 +1,40 @@
+Cite as: 565 U. S. ____ (2012)
+
+7
+
+Opinion of the Court
+
+peals and §2253(b)’s clear limit on that grant—the extent
+to which Congress intended the COA process outlined in
+§2253(c) to further limit the courts of appeals’ jurisdiction
+over habeas appeals.
+Here, the only “clear” jurisdictional language in §2253(c)
+appears in §2253(c)(1). As we explained in Miller-El v.
+Cockrell, 537 U. S. 322 (2003), §2253(c)(1)’s plain terms—
+“Unless a circuit justice or judge issues a certificate of
+appealability, an appeal may not be taken to the court of
+appeals”—establish that “until a COA has been issued
+federal courts of appeals lack jurisdiction to rule on the
+merits of appeals from habeas petitioners.” Id., at 336.
+The parties thus agree that §2253(c)(1) is jurisdictional.
+The parties also agree that §2253(c)(2) is nonjurisdictional.4 That is for good reason. Section 2253(c)(2) speaks
+only to when a COA may issue—upon “a substantial showing of the denial of a constitutional right.” It does not
+contain §2253(c)(1)’s jurisdictional terms. See Russello v.
+United States, 464 U. S. 16, 23 (1983) (“[W]here Congress
+includes particular language in one section of a statute but
+omits it in another section of the same Act, it is generally
+presumed that Congress acts intentionally . . .”). And it
+would be passing strange if, after a COA has issued, each
+court of appeals adjudicating an appeal were dutybound to
+revisit the threshold showing and gauge its “substantial[ity]” to verify its jurisdiction. That inquiry would be
+largely duplicative of the merits question before the court.
+It follows that §2253(c)(3) is nonjurisdictional as well.
+Like §2253(c)(2), it too reflects a threshold condition for
+the issuance of a COA—the COA’s indication of “which
+specific issue or issues satisfy the showing required by
+paragraph (2).” It too “does not speak in jurisdictional
+terms or refer in any way to the jurisdiction of the [ap——————
+4 The United States as amicus curiae contends that §2253(c)(2) is
+jurisdictional, but the State concedes that it is not. Tr. of Oral Arg. 31.
+
+

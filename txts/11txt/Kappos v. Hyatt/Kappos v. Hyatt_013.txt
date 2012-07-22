@@ -1,0 +1,38 @@
+10
+
+KAPPOS v. HYATT
+Opinion of the Court
+
+cases, which similarly described R. S. 4915 proceedings
+as “altogether independent” from the hearings before the
+Patent Office and made clear that the parties were “at
+liberty to introduce additional evidence” under “the rules
+and practice of a court of equity.” In re Squire, 22 F. Cas.
+1015, 1016 (No. 13,269) (CC ED Mo. 1877); see also Whipple v. Miner, 15 F. 117, 118 (CC Mass. 1883) (describing
+the federal court’s jurisdiction in an R. S. 4915 proceeding
+as “an independent, original jurisdiction”); Butler v. Shaw,
+21 F. 321, 327 (CC Mass. 1884) (holding that “the court
+may receive new evidence, and has the same powers as in
+other cases in equity”).
+Ten years later, in Morgan, this Court again confronted
+a case involving proceedings under R. S. 4915. 153 U. S.
+120. There, a party challenged a factual finding by the
+Patent Office, but neither side presented additional evidence in the District Court. Id., at 122–123. This Court
+described the parties’ dispute as one over a question of
+fact that had already “been settled by a special tribunal
+[e]ntrusted with full power in the premises” and characterized the resulting District Court proceeding not as an
+independent civil action, but as “something in the nature
+of a suit to set aside a judgment.” Id., at 124. Consistent
+with that view, the Court held that the agency’s findings
+should not be overturned by “a mere preponderance of
+evidence.” Ibid.
+Viewing Butterworth and Morgan together, one might
+perceive some tension between the two cases. Butterworth
+appears to describe an R. S. 4915 proceeding as an original
+civil action, seeking de novo adjudication of the merits of
+a patent application. Morgan, on the other hand, appears
+to describe an R. S. 4915 proceeding as a suit for judicial
+review of agency action, governed by a deferential standard of review. To resolve that apparent tension, the Director urges us to disregard the language in Butterworth as
+mere dicta and to follow Morgan. He argues that Butter-
+
+

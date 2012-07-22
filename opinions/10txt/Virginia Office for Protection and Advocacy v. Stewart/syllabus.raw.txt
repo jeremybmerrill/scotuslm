@@ -1,0 +1,138 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVO-
+
+CACY v. STEWART, COMMISSIONER, VIRGINIA 
+
+DEPARTMENT OF BEHAVIORAL HEALTH
+
+AND DEVELOPMENTAL SERVICES, ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FOURTH CIRCUIT
+No. 09–529.
+
+Argued December 1, 2010—Decided April 19, 2011
+
+Together, the Developmental Disabilities Assistance and Bill of Rights
+Act of 2000 (DD Act) and the Protection and Advocacy for Individuals
+with Mental Illness Act (PAIMI Act) offer States federal money to
+improve, inter alia, medical care for persons with developmental dis
+abilities or mental illness. As a condition of funding, a State must es
+tablish a protection and advocacy (P&A) system “to protect and advo
+cate [those individuals’] rights.”
+42 U. S. C. §15043(a)(1).
+A
+participating State may appoint either a state agency or a private
+nonprofit entity as its P&A system, but if a state agency it must have
+authority to litigate and freedom from the control of other state agen
+cies or officers. Virginia has appointed an independent state agency,
+petitioner Virginia Office for Protection and Advocacy (VOPA), au
+thorizing it to litigate to secure disabled individuals’ rights, free of
+executive-branch oversight; to operate independently of Virginia’s at
+torney general; and to employ its own lawyers to sue on its behalf.
+While investigating patient deaths and injuries at state mental
+hospitals, VOPA asked respondents—state officials in charge of those
+hospitals—to produce relevant patient records. Respondents refused,
+asserting that a state-law privilege shielded the records from disclo
+sure. VOPA then filed suit in Federal District Court, seeking a dec
+laration that respondents’ refusal to produce the records violated the
+DD and PAIMI Acts and an injunction requiring respondents to pro
+duce the records and refrain in the future from interfering with
+VOPA’s right of access. Respondents moved to dismiss on the ground
+
+
+2
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY
+v. STEWART
+Syllabus
+that they are immune from suit under the Eleventh Amendment, but
+the court held that the suit was permitted by the doctrine of Ex parte
+Young, 209 U. S. 123, which normally allows federal courts to award
+prospective relief against state officials for violations of federal law.
+The Fourth Circuit reversed, finding that Ex parte Young did not ap
+ply because the suit was brought by a state agency.
+
+Held: Ex parte Young allows a federal court to hear a lawsuit for pro
+spective relief against state officials brought by another agency of the
+same State. Pp. 4–13.
+(a) Absent a waiver of sovereign immunity by a State itself or a
+valid abrogation by Congress, federal courts may not entertain a pri
+vate person’s suit against a State. Pp. 4–5.
+(b) The doctrine of Ex parte Young, which establishes an important
+limitation on the sovereign-immunity principle, is accepted as neces
+sary to “permit the federal courts to vindicate federal rights.” Penn
+hurst State School and Hospital v. Halderman, 465 U. S. 89. It rests
+on the premise that when a federal court commands a state official to
+do nothing more than refrain from violating federal law, he is not the
+State for sovereign-immunity purposes. It does not apply “when ‘the
+state is the . . . party in interest.’ ” Id., at 101. Pp. 5–6.
+(c) Entertaining VOPA’s action is consistent with precedent and
+does not offend the distinctive interests protected by sovereign im
+munity. Pp. 6–13.
+(1) Verizon Md. Inc. v. Public Serv. Comm’n of Md., 535 U. S.
+635, held that, in determining the Ex parte Young doctrine’s applica
+bility, “a court need only conduct a ‘straightforward inquiry into
+whether [the] complaint alleges an ongoing violation of federal law
+and seeks relief properly characterized as prospective.’ ” Id., at 645.
+VOPA’s suit satisfies that inquiry. Respondents concede that the ac
+tion would be proper were VOPA a private organization rather than a
+state agency. The “general criterion for determining when a suit is in
+fact against the sovereign is the effect of the relief sought,” Penn
+hurst, supra, at 107, not who is bringing the lawsuit. This Court ap
+plied that criterion in Idaho v. Coeur d’Alene Tribe of Idaho, 521 U. S.
+261, which held that an Indian Tribe could not invoke Ex parte Young
+to bring what was essentially a quiet title suit that would “extinguish
+[Idaho’s] control over . . . lands and waters long deemed . . . an inte
+gral part of its territory.” Id., at 282. Respondents have advanced no
+argument that the relief sought here threatens a similar invasion of
+Virginia’s sovereignty. Pp. 7–9.
+(2) Respondents claim that a State’s dignity is diminished when
+a federal court adjudicates a dispute between its components. But a
+State’s stature is not diminished to any greater degree when its own
+agency sues to enforce its officers’ compliance with federal law than
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+when a private person does so. Moreover, VOPA’s power to sue state
+officials is a consequence of Virginia’s own decision to establish a
+public P&A system. Not every offense to a State’s dignity constitutes
+a denial of sovereign immunity. The specific indignity against which
+sovereign immunity protects is the insult to a State of being haled
+into court without its consent; that does not occur just because a suit
+happens to be brought by another state agency. Pp. 9–11.
+(3) The apparent novelty of this suit is not likely a consequence
+of past constitutional doubts. In order to invoke the Ex parte Young
+exception, a state agency needs both a federal right that it possesses
+against its parent State and authority to sue state officials to enforce
+that right, free from any internal state-government veto; such condi
+tions rarely coincide. In any event, the principles undergirding the
+Ex parte Young doctrine support its extension to actions of this kind.
+Pp. 12–13.
+568 F. 3d 110, reversed and remanded.
+SCALIA, J., delivered the opinion of the Court, in which KENNEDY,
+THOMAS, GINSBURG, BREYER, and SOTOMAYOR, JJ., joined. KENNEDY, J.,
+filed a concurring opinion, in which THOMAS, J., joined. ROBERTS, C. J.,
+filed a dissenting opinion, in which ALITO, J., joined. KAGAN, J., took no
+part in the consideration or decision of the case.
+
+

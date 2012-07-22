@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+RADLAX GATEWAY HOTEL, LLC, ET AL. v. 
+
+AMALGAMATED BANK
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SEVENTH CIRCUIT
+No. 11–166.
+
+Argued April 23, 2012—Decided May 29, 2012
+
+To finance the purchase of a commercial property and associated renovation and construction costs, petitioners (debtors) obtained a secured loan from an investment fund, for which respondent (Bank)
+serves as trustee. The debtors ultimately became insolvent, and
+sought relief under Chapter 11 of the Bankruptcy Code. Pursuant
+to 11 U. S. C. §1129(b)(2)(A), the debtors sought to confirm a
+“cramdown” bankruptcy plan over the Bank’s objection. That plan
+proposed selling substantially all of the debtors’ property at an auction, and using the sale proceeds to repay the Bank. Under the debtors’ proposed auction procedures, the Bank would not be permitted to
+bid for the property using the debt it is owed to offset the purchase
+price, a practice known as “credit-bidding.” The Bankruptcy Court
+denied the debtors’ request, concluding that the auction procedures
+did not comply with §1129(b)(2)(A)’s requirements for cramdown
+plans. The Seventh Circuit affirmed, holding that §1129(b)(2)(A)
+does not permit debtors to sell an encumbered asset free and clear of
+a lien without permitting the lienholder to credit-bid.
+Held: The debtors may not obtain confirmation of a Chapter 11
+cramdown plan that provides for the sale of collateral free and clear
+of the Bank’s lien, but does not permit the Bank to credit-bid at the
+sale. Pp. 3–10.
+(a) A Chapter 11 plan proposed over the objection of a “class of secured claims” must meet one of three requirements in order to be
+deemed “fair and equitable,” and therefore confirmable. The secured
+creditor may retain its lien on the property and receive deferred cash
+payments, §1129(b)(2)(A)(i); the debtors may sell the property free
+and clear of the lien, “subject to section 363(k)”—which permits the
+
+

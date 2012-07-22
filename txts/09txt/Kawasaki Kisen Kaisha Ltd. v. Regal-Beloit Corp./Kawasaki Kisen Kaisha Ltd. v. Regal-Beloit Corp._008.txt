@@ -1,0 +1,44 @@
+4
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+of lading. 462 F. Supp. 2d 1098, 1102–1103 (2006).
+The United States Court of Appeals for the Ninth Cir
+cuit reversed and remanded. 557 F. 3d 985 (2009). The
+court concluded that the Carmack Amendment applied to
+the inland portion of an international shipment under a
+through bill of lading and thus trumped the parties’ fo
+rum-selection clause. Id., at 994–995. The court noted
+that this view was consistent with the position taken by
+the Court of Appeals for the Second Circuit, see id., at 994
+(citing Sompo Japan Ins. Co. of Am. v. Union Pacific R.
+Co., 456 F. 3d 54 (2006)), but inconsistent with the views
+of the Courts of Appeals for the Fourth, Sixth, Seventh,
+and Eleventh Circuits, see 557 F. 3d, at 994 (citing Shao v.
+Link Cargo (Taiwan) Ltd., 986 F. 2d 700 (CA4 1993);
+American Road Serv. Co. v. Consolidated Rail Corp., 348
+F. 3d 565 (CA6 2003); Capitol Converting Equip., Inc. v.
+LEP Transp., Inc., 965 F. 2d 391 (CA7 1992); Altadis USA,
+Inc. ex rel. Fireman’s Fund Ins. Co. v. Sea Star Line, LLC,
+458 F. 3d 1288 (CA11 2006)). This Court granted certio
+rari to address whether Carmack applies to the inland
+segment of an overseas import shipment under a through
+bill of lading. 558 U. S. ___ (2009).
+II 
+
+A
+
+Before turning to Carmack, a brief description of
+COGSA is in order; for “K” Line’s and Union Pacific’s
+primary contention is that COGSA, not Carmack, controls.
+COGSA governs the terms of bills of lading issued by
+ocean carriers engaged in foreign trade. 49 Stat. 1207, as
+amended, note following 46 U. S. C. §30701, p. 1178. It
+requires each carrier to issue to the cargo owner a bill that
+contains certain terms. §3(3)–(8), at 1178–1179. Although
+COGSA imposes some limitations on the parties’ authority
+to adjust liability, it does not limit the parties’ ability to
+adopt forum-selection clauses. See Vimar Seguros y
+
+

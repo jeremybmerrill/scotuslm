@@ -1,0 +1,92 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+SOTOMAYOR, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–98
+_________________
+
+JOHN D. ASHCROFT, PETITIONER v. ABDULLAH 
+
+AL-KIDD 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[May 31, 2011] 
+
+
+JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG
+and JUSTICE BREYER join, concurring in the judgment.
+I concur in the Court’s judgment reversing the Court of
+Appeals because I agree with the majority’s conclusion
+that Ashcroft did not violate clearly established law. I
+cannot join the majority’s opinion, however, because it
+unnecessarily “resolve[s] [a] difficult and novel questio[n]
+of constitutional . . . interpretation that will ‘have no effect
+on the outcome of the case.’ ” Ante, at 3 (quoting Pearson
+v. Callahan, 555 U. S. 223, 237 (2009)).
+Whether the Fourth Amendment permits the pretextual
+use of a material witness warrant for preventive detention
+of an individual whom the Government has no intention
+of using at trial is, in my view, a closer question than
+the majority’s opinion suggests. Although the majority
+is correct that a government official’s subjective intent is
+generally “irrelevant in determining whether that officer’s
+actions violate the Fourth Amendment,” Bond v. United
+States, 529 U. S. 334, 338, n. 2 (2000), none of our prior
+cases recognizing that principle involved prolonged deten­
+tion of an individual without probable cause to believe he
+had committed any criminal offense. We have never
+considered whether an official’s subjective intent matters
+for purposes of the Fourth Amendment in that novel con­
+text, and we need not and should not resolve that question
+
+
+2
+
+ASHCROFT v. AL-KIDD
+SOTOMAYOR, J., concurring in judgment
+
+in this case. All Members of the Court agree that, what­
+ever the merits of the underlying Fourth Amendment
+question, Ashcroft did not violate clearly established law.
+The majority’s constitutional ruling is a narrow one pre­
+mised on the existence of a “valid material-witness war­
+ran[t],” ante, at 1—a premise that, at the very least, is
+questionable in light of the allegations set forth in alKidd’s complaint. Based on those allegations, it is not at
+all clear that it would have been “impracticable to secure
+[al-Kidd’s] presence . . . by subpoena” or that his testimony
+could not “adequately be secured by deposition.” 18
+U. S. C. §3144; see First Amended Complaint in No. 05–
+093–EJL, ¶55, App. 26 (“Mr. al-Kidd would have complied
+with a subpoena had he been issued one or agreed to a
+deposition”). Nor is it clear that the affidavit supporting
+the warrant was sufficient; its failure to disclose that the
+Government had no intention of using al-Kidd as a wit­
+ness at trial may very well have rendered the affidavit
+deliberately false and misleading. Cf. Franks v. Delaware,
+438 U. S. 154, 155–156 (1978). The majority assumes
+away these factual difficulties, but in my view, they point
+to the artificiality of the way the Fourth Amendment
+question has been presented to this Court and provide
+further reason to avoid rendering an unnecessary holding
+on the constitutional question.
+I also join Part I of JUSTICE KENNEDY’s concurring
+opinion. As that opinion makes clear, this case does not
+present an occasion to address the proper scope of the
+material witness statute or its constitutionality as applied
+in this case. Indeed, nothing in the majority’s opinion
+today should be read as placing this Court’s imprimatur
+on the actions taken by the Government against al-Kidd.
+Ante, at 1 (KENNEDY, J., concurring) (“The Court’s holding
+is limited to the arguments presented by the parties and
+leaves unresolved whether the Government’s use of the
+Material Witness Statute in this case was lawful”).
+
+

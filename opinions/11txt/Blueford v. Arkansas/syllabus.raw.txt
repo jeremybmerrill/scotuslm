@@ -1,0 +1,83 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+BLUEFORD v. ARKANSAS
+CERTIORARI TO THE SUPREME COURT OF ARKANSAS
+No. 10–1320. Argued February 22, 2012—Decided May 24, 2012
+The State of Arkansas charged petitioner Alex Blueford with capital
+murder for the death of a one-year-old child. That charge included
+the lesser offenses of first-degree murder, manslaughter, and negligent homicide. Before the start of deliberations, the trial court instructed the jury to consider the offenses as follows: “If you have a
+reasonable doubt of the defendant’s guilt on the charge of capital
+murder, you will consider the charge of murder in the first degree. . . .
+If you have a reasonable doubt of the defendant’s guilt on the charge
+of murder in the first degree, you will then consider the charge of
+manslaughter. . . . If you have a reasonable doubt of the defendant’s
+guilt on the charge of manslaughter, you will then consider the
+charge of negligent homicide.” The court also presented the jury with
+a set of verdict forms, which allowed the jury either to convict
+Blueford of one of the charged offenses, or to acquit him of all of
+them. Acquitting on some but not others was not an option.
+After deliberating for a few hours, the jury reported that it could
+not reach a verdict. The court inquired about the jury’s progress on
+each offense. The foreperson disclosed that the jury was unanimous
+against guilt on the charges of capital murder and first-degree murder, was deadlocked on manslaughter, and had not voted on negligent homicide. The court told the jury to continue to deliberate. The
+jury did so but still could not reach a verdict, and the court declared a
+mistrial. When the State subsequently sought to retry Blueford, he
+moved to dismiss the capital and first-degree murder charges on double jeopardy grounds. The trial court denied the motion, and the Supreme Court of Arkansas affirmed on interlocutory appeal.
+Held: The Double Jeopardy Clause does not bar retrying Blueford on
+charges of capital murder and first-degree murder. Pp. 5−10.
+(a) The jury did not acquit Blueford of capital or first-degree mur-
+
+
+2
+
+BLUEFORD v. ARKANSAS
+Syllabus
+der. Blueford contends that the foreperson’s report that the jury was
+unanimous against guilt on the murder offenses represented a resolution of some or all of the elements of those offenses in his favor.
+But the report was not a final resolution of anything. When the foreperson told the court how the jury had voted on each offense, the jury’s
+deliberations had not yet concluded. The jurors in fact went back to
+the jury room to deliberate further, and nothing in the court’s instructions prohibited them from reconsidering their votes on capital
+and first-degree murder as deliberations continued. The foreperson’s
+report prior to the end of deliberations therefore lacked the finality
+necessary to amount to an acquittal on those offenses. That same
+lack of finality undermines Blueford’s reliance on Green v. United
+States, 355 U. S. 184, and Price v. Georgia, 398 U. S. 323. In both of
+those cases, the verdict of the jury was a final decision; here, the report of the foreperson was not. Pp. 5−8.
+(b) The trial court’s declaration of a mistrial was not improper. A
+trial can be discontinued without barring a subsequent one for the
+same offense when “particular circumstances manifest a necessity” to
+declare a mistrial. Wade v. Hunter, 336 U. S. 684, 690. Blueford contends that there was no necessity for a mistrial on capital and firstdegree murder, given the foreperson’s report that the jury had voted
+unanimously against guilt on those charges. According to Blueford,
+the court at that time should have taken some action, whether
+through new partial verdict forms or other means, to allow the jury to
+give effect to those votes, and then considered a mistrial only as to
+the remaining charges. Blueford acknowledges, however, that the
+trial court’s reason for declaring a mistrial here—that the jury was
+unable to reach a verdict—has long been considered the “classic basis” establishing necessity for doing so. Arizona v. Washington, 434
+U. S. 497, 509. And this Court has never required a trial court, before declaring a mistrial because of a hung jury, to consider any particular means of breaking the impasse―let alone to consider giving
+the jury new options for a verdict. See Renico v. Lett, 559 U. S. ___,
+___. As permitted under Arkansas law, the jury’s options in this case
+were limited to two: either convict on one of the offenses, or acquit on
+all. The trial court did not abuse its discretion by refusing to add another option—that of acquitting on some offenses but not others.
+Pp. 9−10.
+
+2011 Ark. 8, ___ S. W. 3d ___, affirmed.
+ROBERTS, C. J., delivered the opinion of the Court, in which SCALIA,
+KENNEDY, THOMAS, BREYER, and ALITO, JJ., joined. SOTOMAYOR, J.,
+filed a dissenting opinion, in which GINSBURG and KAGAN, JJ., joined.
+
+

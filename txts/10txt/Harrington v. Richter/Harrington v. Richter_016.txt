@@ -1,0 +1,45 @@
+Cite as: 562 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+ceptions to §2254(d)’s relitigation bar, the exception in
+§2254(d)(1) permitting relitigation where the earlier state
+decision resulted from an “unreasonable application of”
+clearly established federal law. In the view of the Court of
+Appeals, the California Supreme Court’s decision on Rich
+ter’s ineffective-assistance claim unreasonably applied the
+holding in Strickland. The Court of Appeals’ lengthy
+opinion, however, discloses an improper understanding of
+§2254(d)’s unreasonableness standard and of its operation
+in the context of a Strickland claim.
+The pivotal question is whether the state court’s appli
+cation of the Strickland standard was unreasonable. This
+is different from asking whether defense counsel’s per
+formance fell below Strickland’s standard. Were that the
+inquiry, the analysis would be no different than if, for
+example, this Court were adjudicating a Strickland claim
+on direct review of a criminal conviction in a United States
+district court. Under AEDPA, though, it is a necessary
+premise that the two questions are different. For purposes
+of §2254(d)(1), “an unreasonable application of federal law
+is different from an incorrect application of federal law.”
+Williams, supra, at 410. A state court must be granted a
+deference and latitude that are not in operation when the
+case involves review under the Strickland standard itself.
+A state court’s determination that a claim lacks merit
+precludes federal habeas relief so long as “fairminded
+jurists could disagree” on the correctness of the state
+court’s decision. Yarborough v. Alvarado, 541 U. S. 652,
+664 (2004).
+And as this Court has explained,
+“[E]valuating whether a rule application was unreason
+able requires considering the rule’s specificity. The more
+general the rule, the more leeway courts have in reaching
+outcomes in case-by-case determinations.” Ibid. “[I]t is
+not an unreasonable application of clearly established
+Federal law for a state court to decline to apply a specific
+legal rule that has not been squarely established by this
+
+

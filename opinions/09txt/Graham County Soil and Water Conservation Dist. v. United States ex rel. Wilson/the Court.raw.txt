@@ -1,0 +1,968 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–304
+_________________
+
+GRAHAM COUNTY SOIL AND WATER CONSERVA-
+
+TION DISTRICT, ET AL., PETITIONERS v. UNITED 
+
+STATES EX REL. KAREN T. WILSON 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FOURTH CIRCUIT
+
+[March 30, 2010] 
+
+
+JUSTICE STEVENS delivered the opinion of the Court.
+Since its enactment during the Civil War, the False
+Claims Act, 31 U. S. C. §§3729–3733, has authorized both
+the Attorney General and private qui tam relators to
+recover from persons who make false or fraudulent claims
+for payment to the United States. The Act now contains a
+provision barring qui tam actions based upon the public
+disclosure of allegations or transactions in certain speci
+fied sources. §3730(e)(4)(A). The question before us is
+whether the reference to “administrative” reports, audits,
+and investigations in that provision encompasses disclo
+sures made in state and local sources as well as federal
+sources. We hold that it does.1
+——————
+1 On
+
+March 23, 2010, the President signed into law the Patient Pro
+tection and Affordable Care Act, Pub. L. 111–148, 124 Stat. 119.
+Section 10104(j)(2) of this legislation replaces the prior version of 31
+U. S. C. §3730(e)(4) with new language. The legislation makes no
+mention of retroactivity, which would be necessary for its application to
+pending cases given that it eliminates petitioners’ claimed defense to a
+qui tam suit. See Hughes Aircraft Co. v. United States ex rel. Schumer,
+520 U. S. 939, 948 (1997). Throughout this opinion, we use the present
+
+
+2
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION 
+
+DIST. v. UNITED STATES EX REL. WILSON 
+
+Opinion of the Court 
+
+
+I
+In 1995 the United States Department of Agriculture
+(USDA) entered into contracts with two counties in North
+Carolina authorizing them to perform, or to hire others to
+perform, cleanup and repair work in areas that had suf
+fered extensive flooding. The Federal Government agreed
+to shoulder 75 percent of the contract costs. Respondent
+Karen T. Wilson was at that time an employee of the
+Graham County Soil and Conservation District, a special
+purpose government body that had been delegated partial
+responsibility for coordinating and performing the reme
+diation effort. Suspecting possible fraud in connection
+with this effort, Wilson voiced her concerns to local offi
+cials in the summer of 1995. She also sent a letter to, and
+had a meeting with, agents of the USDA.
+Graham County officials began an investigation. An
+accounting firm hired by the county performed an audit
+and, in 1996, issued a report (Audit Report) that identified
+several potential irregularities in the county’s administra
+tion of the contracts. Shortly thereafter, the North Caro
+lina Department of Environment, Health, and Natural
+Resources issued a report (DEHNR Report) identifying
+similar problems. The USDA’s Office of Inspector General
+eventually issued a third report that contained additional
+findings.
+In 2001 Wilson filed this action, alleging that petition
+ers, the Graham County and Cherokee County Soil and
+Water Conservation Districts and a number of local and
+federal officials, violated the False Claims Act (FCA) by
+knowingly submitting false claims for payment pursuant
+to the 1995 contracts. She further alleged that petitioners
+retaliated against her for aiding the federal investigation
+of those false claims. Following this Court’s review of the
+—————— 
+
+tense in discussing the statute as it existed at the time this case was
+
+argued. 
+
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+statute of limitations applicable to Wilson’s retaliation
+claim, Graham County Soil & Water Conservation Dist. v.
+United States ex rel. Wilson, 545 U. S. 409 (2005), the
+Court of Appeals ordered that that claim be dismissed as
+time barred. 424 F. 3d 437 (CA4 2005). On remand, the
+District Court subsequently dismissed Wilson’s qui tam
+action for lack of jurisdiction. App. to Pet. for Cert. 95a–
+105a. The court found that Wilson had failed to refute
+that her action was based upon allegations publicly dis
+closed in the Audit Report and the DEHNR Report. Id., at
+95a–98a. Those reports, the District Court determined,
+constituted “administrative . . . report[s], . . . audit[s], or
+investigation[s]” within the meaning of the FCA’s public
+disclosure bar, 31 U. S. C. §3730(e)(4)(A).
+The Court of Appeals reversed the judgment of the
+District Court because the reports had been generated by
+state and local entities. “[O]nly federal administrative
+reports, audits or investigations,” the Fourth Circuit
+concluded, “qualify as public disclosures under the FCA.”
+528 F. 3d 292, 301 (2008) (emphasis added). The Circuits
+having divided over this issue,2 we granted certiorari to
+resolve the conflict. 557 U. S. __ (2009).
+——————
+2 Compare
+
+528 F. 3d, at 301–307 (limiting this portion of the public
+disclosure bar to federal sources), and United States ex rel. Dunleavy v.
+County of Delaware, 123 F. 3d 734, 745–746 (CA3 1997) (same), with
+United States ex rel. Bly-Magee v. Premo, 470 F. 3d 914, 918–919 (CA9
+2006) (concluding that state and local sources may qualify), cert.
+denied, 552 U. S. 1165 (2008), and Battle v. Board of Regents for State
+of Ga., 468 F. 3d 755, 762 (CA11 2006) (per curiam) (assuming without
+analysis that state audits may qualify). The Eighth Circuit appears to
+have taken a “middle road” on this issue, 528 F. 3d, at 301, holding that
+disclosures made in nonfederal forums may count as “ ‘administrative
+. . . report[s]’ ” or “ ‘audit[s]’ ” under §3730(e)(4)(A) in some instances, as
+when they relate to “a cooperative federal-state program through which
+the federal government provides financial assistance.” Hays v. Hoff
+man, 325 F. 3d 982, 989, cert. denied, 540 U. S. 877 (2003).
+
+
+4
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION 
+
+DIST. v. UNITED STATES EX REL. WILSON 
+
+Opinion of the Court 
+
+
+II
+We have examined the FCA’s qui tam provisions in
+several recent opinions.3 At issue in this case is the FCA’s
+public disclosure bar, which deprives courts of jurisdiction
+over qui tam suits when the relevant information has
+already entered the public domain through certain chan
+nels. The statute contains three categories of jurisdiction
+stripping disclosures. Following the example of the Court
+of Appeals, see 528 F. 3d, at 300–301, we have inserted
+Arabic numerals to identify these categories:
+“No court shall have jurisdiction over an action under
+this section based upon the public disclosure of allega
+tions or transactions [1] in a criminal, civil, or admin
+istrative hearing, [2] in a congressional, administra
+tive, or Government Accounting Office [(GAO)] report,
+hearing, audit, or investigation, or [3] from the news
+media, unless the action is brought by the Attorney
+General or the person bringing the action is an origi
+nal source[4] of the information.” §3730(e)(4)(A) (foot
+note omitted).
+This dispute turns on the meaning of the adjective “ad
+ministrative” in the second category (Category 2): whether
+it embraces only forums that are federal in nature, as
+respondent alleges, or whether it extends to disclosures
+made in state and local sources such as the DEHNR Re
+——————
+3 See,
+
+e.g., Rockwell Int’l Corp. v. United States, 549 U. S. 457 (2007)
+(construing §3730(e)(4)(A)’s original source exception); Cook County v.
+United States ex rel. Chandler, 538 U. S. 119 (2003) (holding that local
+governments are subject to qui tam liability); Vermont Agency of
+Natural Resources v. United States ex rel. Stevens, 529 U. S. 765 (2000)
+(holding that States are not subject to private FCA actions).
+4 A separate statutory provision defines an “original source” as “an
+individual who has direct and independent knowledge of the informa
+tion on which the allegations are based and has voluntarily provided
+the information to the Government before filing an action under this
+section which is based on the information.” 31 U. S. C. §3730(e)(4)(B).
+
+
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+port and the Audit Report, as petitioners allege.
+In debating this question, petitioners have relied pri
+marily on the statute’s text whereas respondent and the
+Solicitor General, as her amicus, have relied heavily on
+considerations of history and policy. Although there is
+some overlap among the three types of argument, it is
+useful to discuss them separately. We begin with the text.
+III
+The term “administrative” “may, in various contexts,
+bear a range of related meanings,” Chandler v. Judicial
+Council of Tenth Circuit, 398 U. S. 74, 103, n. 8 (1970)
+(Harlan, J., concurring in denial of writ), pertaining to
+private bodies as well as to governmental bodies. When
+used to modify the nouns “report, hearing, audit, or inves
+tigation,” in the context of a statutory provision about “the
+public disclosure” of fraud on the United States, the term
+is most naturally read to describe the activities of govern
+mental agencies. See Black’s Law Dictionary 49 (9th ed.
+2009) (hereinafter Black’s) (defining “administration,” “[i]n
+public law, [as] the practical management and direction of
+the executive department and its agencies”). Given that
+“administrative” is not itself modified by “federal,” there is
+no immediately apparent textual basis for excluding the
+activities of state and local agencies (or their contractors)
+from its ambit. As the Court of Appeals recognized, “the
+statute by its express terms does not limit its reach to
+federal administrative reports or investigations.” 528
+F. 3d, at 301. “[T]here is nothing inherently federal about
+the word ‘administrative,’ and Congress did not define the
+term in the FCA.” Id., at 302.
+The Court of Appeals’ conclusion that “administrative”
+nevertheless reaches only federal sources rested on its
+application of the interpretive maxim noscitur a sociis.
+See id., at 302–305. This maxim, literally translated as
+“ ‘it is known by its associates,’ ” Black’s 1160, counsels
+
+
+6
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION 
+
+DIST. v. UNITED STATES EX REL. WILSON 
+
+Opinion of the Court 
+
+
+lawyers reading statutes that “a word may be known by
+the company it keeps,” Russell Motor Car Co. v. United
+States, 261 U. S. 514, 519 (1923). All participants in this
+litigation acknowledge that the terms “congressional” and
+“[GAO]” are federal in nature; Congress is the Legislative
+Branch of the Federal Government,5 and the GAO is a
+federal agency.6 Relying on our opinions in S. D. Warren
+Co. v. Maine Bd. of Environmental Protection, 547 U. S.
+370 (2006), and Beecham v. United States, 511 U. S. 368
+(1994), the Court of Appeals reasoned that “the placement
+of ‘administrative’ squarely in the middle of a list of obvi
+ously federal sources strongly suggests that ‘administra
+tive’ should likewise be restricted to federal administrative
+reports, hearings, audits, or investigations.” 528 F. 3d, at
+302. In so holding, the Court of Appeals embraced what
+we might call the Sandwich Theory of the Third Circuit.
+Both courts “ ‘f[ou]nd it hard to believe that the drafters of
+this provision intended the word “administrative” to refer
+to both state and federal reports when it lies sandwiched
+between modifiers which are unquestionably federal in
+character.’ ” Ibid. (quoting United States ex rel. Dunleavy
+v. County of Delaware, 123 F. 3d 734, 745 (CA3 1997)).
+We find this use of noscitur a sociis unpersuasive. A list
+——————
+5 See
+
+U. S. Const., Art. I, §1; id., §4, cl. 1 (distinguishing “State . . .
+Legislature[s]” from “the Congress”).
+6 The statute refers to the GAO, mistakenly, as the “Government
+Accounting Office.” It is undisputed that the intended referent was the
+General Accounting Office, now renamed the Government Accountabil
+ity Office. See 31 U. S. C. §3730, p. 254, n. 2 (compiler’s note); 528 F. 3d
+292, 300, n. 4 (CA4 2008); United States ex rel. Mistick PBT v. Housing
+Authority of Pittsburgh, 186 F. 3d 376, 387 (CA3 1999) (Alito, J.), cert.
+denied, 529 U. S. 1018 (2000); see also Mistick, 186 F. 3d, at 398
+(Becker, C. J., dissenting) (noting that courts have “frequently” made
+the same scrivener’s error). We have described the GAO as “an inde
+pendent agency within the Legislative Branch that exists in large part
+to serve the needs of Congress.” Bowsher v. Merck & Co., 460 U. S. 824,
+844 (1983).
+
+
+Cite as: 559 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+of three items, each quite distinct from the other no mat
+ter how construed, is too short to be particularly illuminat
+ing. Although this list may not be “completely disjunc
+tive,” 528 F. 3d, at 302—it refers to “congressional,
+administrative, or [GAO]” sources, §3730(e)(4)(A), rather
+than “congressional, or administrative, or [GAO]”
+sources—neither is it completely harmonious. The sub
+stantive connection, or fit, between the terms “congres
+sional,” “administrative,” and “GAO” is not so tight or so
+self-evident as to demand that we “rob” any one of them
+“of its independent and ordinary significance.” Reiter v.
+Sonotone Corp., 442 U. S. 330, 338–339 (1979); see also
+Russell, 261 U. S., at 519 (“That a word may be known by
+the company it keeps is . . . not an invariable rule, for the
+word may have a character of its own not to be submerged
+by its association”). The adjectives in Category 2 are too
+few and too disparate to qualify as “a string of statutory
+terms,” S. D. Warren Co., 547 U. S., at 378, or “items in a
+list,” Beecham, 511 U. S., at 371, in the sense that we used
+those phrases in the cited cases.7
+——————
+7 In
+
+Jarecki v. G. D. Searle & Co., 367 U. S. 303 (1961), the Court
+applied the noscitur a sociis maxim in construing a statutory provision
+that referred to “ ‘[i]ncome resulting from exploration, discovery, or
+prospecting,’ ” id., at 305 (quoting §456(a)(2)(B) of the Internal Revenue
+Code of 1939). JUSTICE SOTOMAYOR contends that “the three terms in
+Category 2 are no more ‘distinct’ or ‘disparate’ than the phrase at issue
+in Jarecki.” Post, at 4 (dissenting opinion) (citation omitted). We
+disagree. Whether taken in isolation or in context, the phrase “con
+gressional, administrative, or GAO” is not as cohesive as the phrase
+“exploration, discovery, or prospecting.” That is one reason why nosci
+tur a sociis proved illuminating in Jarecki, and why it is less helpful in
+this case. On their “face,” the terms “exploration,” “discovery,” and
+“prospecting” all describe processes of searching, seeking, speculating;
+the centrality of such activities to “the oil and gas and mining indus
+tries” gave a clue that it was those industries Congress had in mind
+when it drafted the provision. 367 U. S., at 307 (internal quotation
+marks omitted). The terms “congressional,” “administrative,” and
+“GAO” do not share any comparable core of meaning—or indeed any
+
+
+8
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION 
+
+DIST. v. UNITED STATES EX REL. WILSON 
+
+Opinion of the Court 
+
+
+More important, we need to evaluate “administrative”
+within the larger scheme of the public disclosure bar.
+Both parties acknowledge, as they must, that “[s]tatutory
+language has meaning only in context,” Graham County
+Soil, 545 U. S., at 415; where they differ is in determining
+the relevant context. The Sandwich Theory presupposes
+that Category 2 is the only piece of §3730(e)(4)(A) that
+matters. We agree with petitioners, however, that all of
+the sources listed in §3730(e)(4)(A) provide interpretive
+guidance. All of these sources drive at the same end:
+specifying the types of disclosures that can foreclose qui
+tam actions. In light of the public disclosure bar’s gram
+matical structure, it may be convenient and even clarify
+ing to parse the list of sources into three categories. But it
+does not follow that we should treat these categories as
+islands unto themselves. Courts have a “duty to construe
+statutes, not isolated provisions.” Gustafson v. Alloyd Co.,
+513 U. S. 561, 568 (1995).
+When we consider the entire text of the public disclosure
+bar, the case for limiting “administrative” to federal
+sources becomes significantly weaker. The “news media”
+referenced in Category 3 plainly have a broader sweep.
+The Federal Government funds certain media outlets, and
+certain private outlets have a national focus; but no one
+contends that Category 3 is limited to these sources.
+There is likewise no textual basis for assuming that the
+“criminal, civil, or administrative hearing[s]” listed in
+Category 1 must be federal hearings.8 Of the numerous
+——————
+“common feature” at all, post, at 4—apart from a governmental conno
+tation. It takes the Sandwich Theory to graft a federal limitation onto
+“administrative.”
+8 A number of lower courts have concluded that, as used in Category
+1, “ ‘hearing’ is roughly synonymous with ‘proceeding.’ ” United States
+ex rel. Springfield Terminal R. Co. v. Quinn, 14 F. 3d 645, 652 (CADC
+1994); see also 1 J. Boese, Civil False Claims and Qui Tam Actions
+§4.02[B], p. 4–59, and n. 231 (3d ed. 2006) (hereinafter Boese); C.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+types of sources that serve a common function in
+§3730(e)(4)(A), then, only two are distinctly federal in
+nature, while one (the news media) is distinctly nonfederal
+in nature.
+If the Court of Appeals was correct that the term “ad
+ministrative” encompasses state and local sources in
+Category 1, see 528 F. 3d, at 303, it becomes even harder
+to see why the term would not do the same in Category 2.
+See Erlenbaugh v. United States, 409 U. S. 239, 243 (1972)
+(“[A] legislative body generally uses a particular word with
+a consistent meaning in a given context”). Respondent
+and the Solicitor General assert that §3730(e)(4)(A)’s two
+references to “administrative” can be distinguished be
+cause Category 1 is best understood to refer to adjudica
+tive proceedings, whereas Category 2 is best understood to
+refer to legislative or quasi-legislative activities such as
+rulemaking, oversight, and investigations. See Brief for
+Respondent 16–18; Brief for United States as Amicus
+Curiae 25–26 (hereinafter Brief for United States). Yet
+even if this reading were correct, state and local adminis
+trative reports, hearings, audits, and investigations of a
+legislative-type character are presumably just as public,
+and just as likely to put the Federal Government on notice
+of a potential fraud, as state and local administrative
+hearings of an adjudicatory character.9
+—————— 
+
+Sylvia, The False Claims Act: Fraud Against the Government §11:35, 
+
+p. 642 (2004) (hereinafter Sylvia).
+9 See Bly-Magee, 470 F. 3d, at 918 (“Indeed, the statute would seem to
+be inconsistent if it included state and local administrative hearings as
+sources of public disclosures [in Category 1] and then, in the next
+breath, excluded state administrative reports as sources”); In re Natu
+ral Gas Royalties Qui Tam Litigation, 467 F. Supp. 2d 1117, 1143–1144
+(Wyo. 2006) (“There is no reason to conclude that Congress intended to
+limit administrative reports, audits, and investigations to federal
+actions, while simultaneously allowing all state and local civil litiga
+tion, state and local administrative hearings, and state and local news
+media to be treated as public disclosures. To interpret the statute so
+
+
+10
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION
+DIST. v. UNITED STATES EX REL. WILSON
+Opinion of the Court
+
+Respondent and the Solicitor General try to avoid this
+inference, and to turn a weakness into a strength, by
+further averring that the sources listed in Category 1 are
+themselves only federal. See Brief for Respondent 23–24;
+Brief for United States 25–26. No court has ever taken
+such a view of these sources. See 528 F. 3d, at 303 (citing
+cases from the Third, Fourth, Fifth, Ninth, and Eleventh
+Circuits and stating that “[t]he courts have easily con
+cluded that [Category 1] applies to state-level hearings”);
+Sylvia §11:37, at 643, n. 1 (citing additional cases).10 The
+arguments in favor of reading a federal limitation into
+Category 1 are supported, if at all, by legislative history
+and policy; they find no support in the statute’s text.
+Moving from the narrow lens of the Sandwich Theory to
+a bird’s eye view, respondent and the Solicitor General
+also maintain that the “exclusively federal focus” of the
+FCA counsels against reading the public disclosure bar to
+encompass nonfederal sources. Brief for Respondent 10,
+18; Brief for United States 13. The FCA undoubtedly has
+a federal focus. But so does every other federal statute.
+——————
+narrowly would have the anomalous result of allowing public disclosure
+status to the most obscure local news report and the most obscure state
+and local civil lawsuit or administrative hearing, but denying public
+disclosure status to a formal public report of a state government
+agency”).
+10 Following the Court of Appeals, see 528 F. 3d, at 303, respondent
+asserts that only the Ninth Circuit, in A-1 Ambulance Serv., Inc. v.
+California, 202 F. 3d 1238, 1244 (2000), has explicitly considered and
+rejected the argument that Category 1 is limited to federal sources.
+Brief for Respondent 23–24. At least one other Circuit, however, has
+done the same, see United States ex rel. Hafter v. Spectrum Emergency
+Care, Inc., 190 F. 3d 1156, 1161, n. 6 (CA10 1999), and no lower court,
+as far as we are aware, has so much as suggested that an alternative
+construction might be viable. Moreover, the Third, Fifth, and Eleventh
+Circuit cases cited by the Court of Appeals postdate A-1 Ambulance and
+Dunleavy, 123 F. 3d 734, both of which put litigants and courts on
+notice of the possibility that §3730(e)(4)(A) might be limited to federal
+sources.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+And as respondent and the Solicitor General elsewhere
+acknowledge, quite a few aspects of the FCA, including a
+reference to “administrative” proceedings in §3733(l)
+(7)(A)11 and the reference to “news media” in
+§3730(e)(4)(A) itself, are not just federal. In any event, the
+“federal focus” of the statute, as a whole, does not shine
+light on the specific question whether the public disclosure
+bar extends to certain nonfederal contexts. It is the fact of
+“public disclosure”—not Federal Government creation or
+receipt—that is the touchstone of §3730(e)(4)(A).
+Respondent and the Solicitor General make one last
+argument grounded in the statutory text: It would be
+anomalous, they say, for state and local administrative
+reports to count as public disclosures, when state legisla
+tive reports do not. See Brief for Respondent 15; Brief for
+United States 15–16. Yet neither respondent nor the
+Solicitor General disputes the contention of petitioners
+and their amici that, at the time the public disclosure bar
+was enacted in 1986, Congress rarely gave state legisla
+tures a meaningful role in administering or overseeing
+federally funded programs. See Brief for Petitioners 36–
+39; Brief for National League of Cities et al. as Amici
+Curiae 8–13. As in the instant case, the Federal Govern
+ment was far more likely to enter into contracts with, and
+to provide moneys to, state and local executive agencies.
+Whether or not state legislative sources should have been
+included in §3730(e)(4)(A), their exclusion therefore car
+ries no clear implications for the status of state adminis
+trative sources.
+In sum, although the term “administrative” may be
+sandwiched in Category 2 between terms that are federal
+——————
+11 On its face, §3733(l)(7)(A) is silent as to whether it includes nonfed
+eral proceedings. Respondent and the Solicitor General suggest that it
+does, though they fairly argue that this provision, relating to civil
+investigative demands, has little if any relevance to the case at hand.
+See Brief for Respondent 21, n. 8; Brief for United States 31–32.
+
+
+12
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION
+DIST. v. UNITED STATES EX REL. WILSON
+Opinion of the Court
+
+in nature, those terms are themselves sandwiched be
+tween phrases that have been generally understood to
+include nonfederal sources; and one of those phrases, in
+Category 1, contains the exact term that is the subject of
+our inquiry. These textual clues negate the force of the
+noscitur a sociis canon, as it was applied by the Court of
+Appeals.12 We are not persuaded that the associates with
+which “administrative” keeps company in §3730(e)(4)(A)
+endow it with an exclusively federal character.
+IV
+As originally enacted, the FCA did not limit the sources
+from which a relator could acquire the information to
+bring a qui tam action. In United States ex rel. Marcus v.
+Hess, 317 U. S. 537 (1943), we upheld the relator’s recov
+ery even though he had discovered the fraud by reading a
+federal criminal indictment—a quintessential “parasitic”
+suit. Id., at 545–548; see id., at 545 (“Even if, as the gov
+ernment suggests, the petitioner has contributed nothing
+to the discovery of this crime, he has contributed much to
+accomplishing one of the purposes for which the Act was
+passed”). Congress promptly reacted to that decision by
+amending the statute to preclude qui tam actions “based
+upon evidence or information in the possession of the
+United States, or any agency, officer or employee thereof,
+——————
+12 The Court of Appeals repeatedly referred to the three categories in
+§3730(e)(4)(A) as “clauses.” See 528 F. 3d, at 300–305. Were they in
+fact clauses rather than prepositional phrases, reliance on noscitur a
+sociis might have been supported by one of our earliest cases using
+that term, Watson v. Mercer, 8 Pet. 88, 105 (1834) (Reporter’s statement
+of the case), which suggested that “different clauses of the same sen
+tence” should be presumed “to embrace the subject matter of the
+sentence.” The Court of Appeals’ mistaken reference to “clauses” is of
+course less significant than its failure to treat the public disclosure bar
+as an integrated whole. Cf. Stevens, The Shakespeare Canon of Statu
+tory Construction, 140 U. Pa. L. Rev. 1373, 1376 (1992) (emphasizing
+importance of reading provisions in their broader statutory context).
+
+
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+at the time such suit was brought.” Act of Dec. 23, 1943,
+57 Stat. 609 (codified at 31 U. S. C. §232(C) (1946 ed.)).
+This amendment erected what came to be known as a
+Government knowledge bar: “[O]nce the United States
+learned of a false claim, only the Government could assert
+its rights under the FCA against the false claimant.”
+Hughes Aircraft Co. v. United States ex rel. Schumer, 520
+U. S. 939, 949 (1997) (internal quotation marks omitted).
+In the years that followed the 1943 amendment, the vol
+ume and efficacy of qui tam litigation dwindled. “Seeking
+the golden mean between adequate incentives for whistle
+blowing insiders with genuinely valuable information and
+discouragement of opportunistic plaintiffs who have no
+significant information to contribute of their own,” United
+States ex rel. Springfield Terminal R. Co. v. Quinn, 14
+F. 3d 645, 649 (CADC 1994), Congress overhauled the
+statute once again in 1986 “to make the FCA a ‘more
+useful tool against fraud in modern times,’ ” Cook County
+v. United States ex rel. Chandler, 538 U. S. 119, 133 (2003)
+(quoting S. Rep. No. 99–345, p. 2 (1986) (hereinafter S.
+Rep.)).
+The present text of §3730(e)(4) was enacted in 1986 as
+part of this larger reform. Congress apparently concluded
+that a total bar on qui tam actions based on information
+already in the Government’s possession thwarted a sig
+nificant number of potentially valuable claims. Rather
+than simply repeal the Government knowledge bar, how
+ever, Congress replaced it with the public disclosure bar in
+an effort to strike a balance between encouraging private
+persons to root out fraud and stifling parasitic lawsuits
+such as the one in Hess. How exactly §3730(e)(4) came to
+strike this balance in the way it did is a matter of consid
+erable uncertainty. The House and Senate Judiciary
+Committees each reported bills that contained very differ
+ent public disclosure bars from the one that emerged in
+the Statutes at Large; the Senate bill, for example, did not
+
+
+14
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION
+DIST. v. UNITED STATES EX REL. WILSON
+Opinion of the Court
+
+include the words “administrative,” “audit,” or “investiga
+tion” in its version of Category 2, nor did it contain an
+original source exception. See S. Rep., at 42–43 (text of
+proposed §3730(e)(4)).13
+In respondent and her amici’s view, this background
+counsels in favor of an exclusively federal interpretation of
+“administrative” for three separate reasons. First, the
+drafting history of the public disclosure bar suggests that
+Congress intended such a result. Second, a major aim of
+the 1986 amendments was to limit the scope of the Gov
+ernment knowledge bar, and “[c]onstruing [§3730(e)(4)(A)]
+as limited to disclosures in federal proceedings furthers
+Congress’s purpose ‘to encourage more private enforce
+ment suits.’ ” Brief for United States 21 (quoting S. Rep.,
+at 23–24). Third, whereas federal administrative proceed
+ings can be presumed to provide the Attorney General
+with a fair opportunity to decide whether to bring an FCA
+action based on revelations made therein, the Attorney
+General is much less likely to learn of fraud disclosed in
+state proceedings. Respondent and her amici further
+maintain that it would be perverse to include nonfederal
+sources in Category 2, as local governments would then be
+able to shield themselves from qui tam liability by dis
+cretely disclosing evidence of fraud in “public” reports.14
+These arguments are reasonable so far as they go, but
+they do not go very far. As many have observed, the draft
+ing history of the public disclosure bar raises more ques
+tions than it answers.15 Significant substantive changes—
+——————
+13 See
+
+also H. R. Rep. No. 99–660, pp. 2–3 (1986) (text of proposed
+§3730(b)(5)). The public disclosure bar that was enacted more closely
+resembles the version in the Senate bill.
+14 State governments are already shielded from qui tam liability un
+der our precedent. Stevens, 529 U. S. 765.
+15 See, e.g., Dunleavy, 123 F. 3d, at 745 (“Congress gave us little spe
+cific guidance to determine the scope of public disclosure sources”);
+United States ex rel. Stinson, Lyons, Gerlin & Bustamante, P. A. v.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+including the introduction of the term we are construing in
+this case—were inserted without floor debate, as “techni
+cal” amendments. That the original Senate bill mentioned
+only congressional and GAO sources in Category 2 is
+therefore of little moment. Neither the House nor the
+Senate Committee Report explained why a federal limita
+tion would be appropriate, and the subsequent addition of
+“administrative” sources to this Category might be taken
+as a sign that such a limitation was rejected by the full
+Chambers.16
+——————
+Prudential Ins. Co., 944 F. 2d 1149, 1154 (CA3 1991) (“The bill that
+eventuated in the 1986 amendments underwent substantial revisions
+during its legislative path. This provides ample opportunity to search
+the legislative history and find some support somewhere for almost any
+construction of the many ambiguous terms in the final version”); id., at
+1163 (Scirica, J., dissenting) (“One difficulty in interpreting the 1986
+amendments is that Congress was never completely clear about what
+kind of ‘parasitic’ suits it was attempting to avoid”); Boese §4.02[A], at
+4–46 (“The present Section 3730(e)(4) was enacted . . . without explana
+tion by Congress”); id., §4.02[A], at 4–47 to 4–48 (“[A]pplicable legisla
+tive history explaining versions [of §3730(e)(4)] not adopted is of little
+help in deciphering this provision. Because Section 3730(e)(4) was
+drafted subsequent to the completion of the House and Senate Commit
+tee reports on the proposed False Claims Act Amendments, those
+reports, which contained discussion of altogether different bars, cannot
+be used in interpreting it. And the sponsors’ interpretations of the
+provision ultimately enacted . . . are spare, often incorrect, and wide
+ranging enough to provide some support for almost any construction of
+its many ambiguities”).
+16 JUSTICE SOTOMAYOR makes a valiant effort to unearth from the
+legislative history “the balance Congress evidently sought to achieve
+through the 1986 amendments.” Post, at 10. But her reconstruction of
+the history assigns little weight to the side of this balance preserved by
+the public disclosure bar: the desire to minimize “the potential for
+parasitic lawsuits by those who learn of the fraud through public
+channels and seek remuneration although they contributed nothing to
+the exposure of the fraud,” United States ex rel. Doe v. John Doe Corp.,
+960 F. 2d 318, 319 (CA2 1992). And her narrative contains no account
+of why Category 2 emerged in the form that it did. Any such account
+would necessarily be an exercise in speculation, as the record is silent
+
+
+16
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION
+DIST. v. UNITED STATES EX REL. WILSON
+Opinion of the Court
+
+Respondent and her amici place particular emphasis on
+a remark made by the lead sponsor of the Senate bill,
+Senator Grassley. See Brief for Respondent 29; Brief for
+United States 20; Brief for American Center for Law and
+Justice as Amicus Curiae 13–14; Brief for Taxpayers
+Against Fraud Education Fund as Amicus Curiae 30–31.
+In a floor statement, Grassley said that “the term ‘Gov
+ernment’ in the definition of original source is meant to
+include any Government source of disclosures cited in [the
+public disclosure bar]; that is[,] Government includes
+Congress, the General Accounting Office, any executive or
+independent agency as well as all other governmental
+bodies that may have publicly disclosed the allegations.”
+132 Cong. Rec. 20536 (1986). Yet even if a single sentence
+by a single legislator were entitled to any meaningful
+weight, Senator Grassley’s remark merely begs the ques
+tion before us. His formulation fails to indicate whether
+the “other governmental bodies” may be state or local
+bodies. It also turns on a term, “Government” with a
+capital “G,” that does not appear in the codified version of
+the public disclosure bar, which Congress subsequently
+revised in numerous respects prior to passage.
+There is, in fact, only one item in the legislative record
+that squarely corroborates respondent’s reading of the
+statute: a letter sent by the primary sponsors of the 1986
+amendments to the Attorney General in 1999. See 145
+Cong. Rec. 16032 (1999) (reproducing text of letter in
+which Rep. Berman and Sen. Grassley state: “We did
+intend, and any fair reading of the statute will confirm,
+that the disclosure must be in a federal criminal, civil or
+administrative hearing. Disclosure in a state proceeding
+——————
+on the matter. In our view, neither the general trajectory of 20th
+century FCA reform nor the specific statements made during the 1986
+legislative process clearly point one way or the other on the question
+before us.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+of any kind should not be a bar to a subsequent qui tam
+suit”). Needless to say, this letter does not qualify as
+legislative “history,” given that it was written 13 years
+after the amendments were enacted. It is consequently of
+scant or no value for our purposes.17
+We do not doubt that Congress passed the 1986
+amendments to the FCA “to strengthen the Government’s
+hand in fighting false claims,” Cook County, 538 U. S., at
+133–134, and “to encourage more private enforcement
+suits,” S. Rep., at 23–24. It is equally beyond cavil, how
+ever, that Congress passed the public disclosure bar to bar
+a subset of those suits that it deemed unmeritorious or
+downright harmful. The question before us concerns the
+precise scope of that subset; and on this matter, the record
+is all but opaque. While “the absence of specific legislative
+history in no way modifies the conventional judicial duty
+to give faithful meaning to the language Congress adopted
+in the light of the evident legislative purpose in enacting
+the law in question,” United States v. Bornstein, 423 U. S.
+——————
+17 See Consumer Product Safety Comm’n v. GTE Sylvania, Inc., 447
+U. S. 102, 118 (1980); Hamdan v. Rumsfeld, 548 U. S. 557, 580, n. 10
+(2006); see also Hafter, 190 F. 3d, at 1161, n. 6 (refusing to credit the
+Berman-Grassley letter in interpreting the public disclosure bar).
+Respondent and her amici additionally contend that the enactment of
+the Program Fraud Civil Remedies Act of 1986 (PFCRA), 100 Stat.
+1934 (codified at 31 U. S. C. §3801 et seq.), shortly before the enactment
+of the FCA amendments supports their reading of the latter. See Brief
+for Respondent 30–33; Brief for United States 14–15; Brief for Taxpay
+ers Against Fraud Education Fund as Amicus Curiae 28–29. Yet while
+“there is no question that the PFCRA was designed to operate in
+tandem with the FCA,” Stevens, 529 U. S., at 786, n. 17, or that the
+PFCRA is addressed to federal administrative agencies, there is also no
+explicit evidence to suggest that Congress intended to limit Category
+2’s reference to “administrative” sources to the same set of agencies.
+The FCA’s public disclosure bar serves a distinct function not replicated
+in the PFCRA; the text of the public disclosure bar contains no refer
+ence to the PFCRA; and no Member of Congress, so far as we are
+aware, articulated any such intent.
+
+
+18
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION
+DIST. v. UNITED STATES EX REL. WILSON
+Opinion of the Court
+
+303, 310 (1976), there is no “evident legislative purpose” to
+guide our resolution of the discrete issue that confronts us.
+V
+Respondent and her amici likewise fail to prove their
+case that petitioners’ reading of the statute will lead to
+results that Congress could not have intended. Their
+argument rests on an empirical proposition: “While federal
+inquiries and their outcomes are readily available to De
+partment of Justice [(DOJ)] attorneys, many state and
+local reports and investigations never come to the atten
+tion of federal authorities.” Brief for United States 22; see
+also 528 F. 3d, at 306 (“Because the federal government is
+unlikely to learn about state and local investigations, a
+large number of fraudulent claims against the government
+would go unremedied without the financial incentives
+offered by the qui tam provisions of the FCA”). This
+proposition is not implausible, but it is sheer conjecture.
+Numerous federal investigations may be occurring at any
+given time, and DOJ attorneys may not reliably learn
+about their findings. DOJ attorneys may learn about
+quite a few state and local inquiries, especially when the
+inquiries are conducted pursuant to a joint federal-state
+program financed in part by federal dollars, such as the
+program at issue in this case.18 Just how accessible to the
+Attorney General a typical state or local source will be, as
+compared to a federal source, is an open question. And it
+——————
+18 In some instances, federal law dictates that state and local govern
+ments receiving federal funds perform an audit of their programs. See
+31 U. S. C. §7502(a)(1)(B) (requiring nonfederal entities that expend
+federal awards above a certain amount to “undergo a single audit” in
+accordance with specified conditions); Brief for State of Pennsylvania et
+al. as Amici Curiae 7–10 (discussing the Single Audit Act of 1984). It
+bears mention that, to the extent one is worried about Federal Gov
+ernment ignorance of state and local antifraud efforts, see post, at 10–
+11, today’s ruling may induce federal authorities to pay closer attention
+to such efforts going forward.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+is not even the right question. The statutory touchstone,
+once again, is whether the allegations of fraud have been
+“public[ly] disclos[ed],” §3730(e)(4)(A), not whether they
+have landed on the desk of a DOJ lawyer.
+Respondent’s argument also gives insufficient weight to
+Congress’ decision to bar qui tam actions based on disclo
+sures “from the news media.” Ibid. Because there was no
+such bar prior to 1986, the addition of the news media as a
+jurisdiction-stripping category forecloses the suggestion
+that the 1986 amendments implemented a single-minded
+intent to increase the availability of qui tam litigation.
+And since the “news media” include a large number of
+local newspapers and radio stations, this category likely
+describes a multitude of sources that would seldom come
+to the attention of the Attorney General.
+As for respondent and her amici’s concern that local
+governments will insulate themselves from qui tam liabil
+ity “through careful, low key ‘disclosures’ ” of potential
+fraud, Brief for American Center for Law and Justice as
+Amicus Curiae 17, this argument rests not just on specu
+lation but indeed on rather strained speculation. Any
+such disclosure would not immunize the local government
+from FCA liability in an action brought by the United
+States, see Rockwell Int’l Corp. v. United States, 549 U. S.
+457, 478 (2007)—and to the contrary it could tip off the
+Attorney General that such an action might be fruitful. It
+seems to us that petitioners have the more clear-eyed view
+when they assert that, “[g]iven the fact that the submis
+sion of a false claim to the United States subjects a defen
+dant to criminal liability, fines, debarment, treble dam
+ages and attorneys’ fees, no rational entity would prepare
+a report that self-discloses fraud with the sole purpose of
+cutting off qui tam actions.” Reply Brief for Petitioners 19;
+see also United States ex rel. Bly-Magee v. Premo, 470
+F. 3d 914, 919 (CA9 2006) (“The fear [of self-insulating
+disclosures] is unfounded in general because it is unlikely
+
+
+20
+
+GRAHAM COUNTY SOIL AND WATER CONSERVATION
+DIST. v. UNITED STATES EX REL. WILSON
+Opinion of the Court
+
+that an agency trying to cover up its fraud would reveal
+the requisite ‘allegations or transactions’ underlying the
+fraud in a public document”).19
+Our conclusion is buttressed by the fact that Congress
+carefully preserved the rights of the most deserving qui
+tam plaintiffs: those whistle-blowers who qualify as origi
+nal sources. Notwithstanding public disclosure of the
+allegations made by a qui tam plaintiff, her case may go
+forward if she is “an original source of the information.”
+§3730(e)(4)(A). It is therefore flat wrong to suggest that a
+finding for petitioners will “ ‘in effect return us to the
+unduly restrictive “government knowledge” standard’ ”
+that prevailed prior to 1986. Brief for United States 31
+(quoting Dunleavy, 123 F. 3d, at 746); see Brief for Re
+spondent 34 (asserting that “petitioners’ construction
+would reimpose a form of the ‘government knowledge’ bar”
+(capitalization omitted)). Today’s ruling merely confirms
+that disclosures made in one type of context—a state or
+local report, audit, or investigation—may trigger the
+public disclosure bar. It has no bearing on disclosures
+made in other contexts, and it leaves intact the ability of
+original sources to prosecute qui tam actions irrespective
+of the state of Government knowledge. Whether respon
+dent can qualify as an “original source,” as that term is
+defined in §3730(e)(4), is one of many issues that remain
+open on remand.
+——————
+19 Petitioners and their amici also counter with public policy argu
+ments of their own. Under the Court of Appeals’ reading of the statute,
+they allege, there is an increased likelihood that parasitic relators will
+beat more deserving relators to the courthouse, Brief for Petitioners 31,
+and that state and local governments will find their antifraud investi
+gations impeded, or will decline to conduct such investigations in the
+first place, on account of “opportunistic potential relators trolling state
+records and reports, available to the public,” in search of a qui tam
+claim, Brief for State of Pennsylvania et al. as Amici Curiae 11.
+
+
+Cite as: 559 U. S. ____ (2010) 
+
+
+21
+
+Opinion of the Court 
+
+
+VI 
+
+Respondent and the Solicitor General have given nu
+merous reasons why they believe their reading of the FCA
+moves it closer to the golden mean between an inadequate
+and an excessive scope for private enforcement. Congress
+may well have endorsed those views in its recent amend
+ment to the public disclosure bar. See n. 1, supra. With
+respect to the version of §3730(e)(4)(A) that is before us,
+however, we conclude that the term “administrative” in
+Category 2 is not limited to federal sources.
+The judgment of the Court of Appeals is reversed, and
+the case is remanded for further proceedings consistent
+with this opinion.
+It is so ordered.
+
+

@@ -1,0 +1,51 @@
+2
+
+HARDT v. RELIANCE STANDARD LIFE INS. CO.
+Syllabus
+and Human Resources, 532 U. S. 598, 604, that a fee claimant is a
+“prevailing party” only if he has obtained an “enforceable judgmen[t]
+on the merits ” or a “court-ordered consent decre[e]. ” The court rea
+soned that because the remand order did not require Reliance to
+award Hardt benefits, it did not constitute an enforceable judgment
+on the merits.
+
+Held:
+1. A fee claimant need not be a “prevailing party” to be eligible for
+an attorney’s fees award under §1132(g)(1). Interpreting the section
+to require a party to attain that status is contrary to §1132(g)(1)’s
+plain text. The words “prevailing party” do not appear in the provi
+sion. Nor does anything else in §1132(g)(1)’s text purport to limit the
+availability of attorney’s fees to a “prevailing party.” Instead,
+§1132(g)(1) expressly grants district courts “discretion” to award at
+torney’s fees “to either party.” (Emphasis added.) That language
+contrasts sharply with §1132(g)(2), which governs the availability of
+attorney’s fees in ERISA actions to recover delinquent employer con
+tributions to a multiemployer plan. In such cases, only plaintiffs who
+obtain “a judgment in favor of the plan” may seek attorney’s fees.
+§1132(g)(2)(D). The contrast between these two paragraphs makes
+clear that Congress knows how to impose express limits on the avail
+ability of attorney’s fees in ERISA cases. Because Congress failed to
+include in §1132(g)(1) an express “prevailing party” requirement, the
+Fourth Circuit’s decision adding that term of art to the statute more
+closely resembles “invent[ing] a statute rather than interpret[ing]
+one.” Pasquantino v. United States, 544 U. S. 349, 359. Pp. 8–9.
+2. A court may award fees and costs under §1132(g)(1), as long as
+the fee claimant has achieved “some degree of success on the merits.”
+Ruckelshaus v. Sierra Club, 463 U. S. 680, 694. The bedrock princi
+ple known as the American Rule provides the relevant point of refer
+ence: Each litigant pays his own attorney’s fees, win or lose, unless a
+statute or contract provides otherwise. E.g., id., at 683–686. This
+Court’s “prevailing party” precedents do not govern here because that
+term of art does not appear in §1132(g)(1). Instead, the Court inter
+prets §1132(g)(1) in light of its precedents addressing statutes that
+deviate from the American Rule by authorizing attorney’s fees based
+on other criteria. Ruckelshaus, which considered a statute authoriz
+ing a fees award if the court “determines that such an award is ap
+propriate,” 42 U. S. C. §7607(f), is the principal case in that category.
+Applying that decision’s interpretive approach to 29 U. S. C.
+§1132(g)(1), the Court first looks to “the language of the section,” 463
+U. S., at 682, which unambiguously allows a court to award attor
+ney’s fees “in its discretion . . . to either party.” Ruckelshaus also lays
+down the proper markers to guide a court in exercising that discre
+
+

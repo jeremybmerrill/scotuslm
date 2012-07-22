@@ -1,0 +1,53 @@
+Cite as: 561 U. S. ____ (2010)
+
+1
+
+STEVENS, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–964
+_________________
+
+BERNARD L. BILSKI AND RAND A. WARSAW, 
+
+PETITIONERS v. DAVID J. KAPPOS, UNDER 
+
+SECRETARY OF COMMERCE FOR INTEL- 
+
+LECTUAL PROPERTY AND DIRECTOR, 
+
+PATENT AND TRADEMARK OFFICE
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FEDERAL CIRCUIT
+
+[June 28, 2010] 
+
+
+JUSTICE STEVENS, with whom JUSTICE GINSBURG,
+JUSTICE BREYER, and JUSTICE SOTOMAYOR join, concur
+ring in the judgment.
+In the area of patents, it is especially important that the
+law remain stable and clear. The only question presented
+in this case is whether the so-called machine-or
+transformation test is the exclusive test for what consti
+tutes a patentable “process” under 35 U. S. C. §101. It
+would be possible to answer that question simply by hold
+ing, as the entire Court agrees, that although the ma
+chine-or-transformation test is reliable in most cases, it is
+not the exclusive test.
+I agree with the Court that, in light of the uncertainty
+that currently pervades this field, it is prudent to provide
+further guidance. But I would take a different approach.
+Rather than making any broad statements about how to
+define the term “process” in §101 or tinkering with the
+bounds of the category of unpatentable, abstract ideas, I
+would restore patent law to its historical and constitu
+tional moorings.
+For centuries, it was considered well established that a
+series of steps for conducting business was not, in itself,
+
+

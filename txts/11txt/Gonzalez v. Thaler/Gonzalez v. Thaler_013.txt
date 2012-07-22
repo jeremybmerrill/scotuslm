@@ -1,0 +1,42 @@
+10
+
+GONZALEZ v. THALER
+Opinion of the Court 
+
+
+B
+
+The State, aided by the United States as amicus curiae,
+makes several arguments in support of jurisdictional
+treatment of §2253(c)(3). None is persuasive.
+First, the State notes that although §2253(c)(3) does not
+speak in jurisdictional terms, it refers back to §2253(c)(1),
+which does. The State argues that it is as if §2253(c)(1)
+provided: “Unless a circuit justice or judge issues a certificate of appealability that shall indicate the specific issue or
+issues that satisfy the showing required by paragraph (2),
+an appeal may not be taken to the court of appeals.” The
+problem is that the statute provides no such thing. Instead, Congress set off the requirements in distinct paragraphs and, rather than mirroring their terms, excluded
+the jurisdictional terms in one from the other. Notably,
+the State concedes that §2253(c)(2) is nonjurisdictional,
+even though it too cross-references §2253(c)(1) and is
+cross-referenced by §2253(c)(3).
+Second, the State seizes on the word “shall” in
+§2253(c)(3), arguing that an omitted indication renders the
+COA no COA at all. But calling a rule nonjurisdictional
+does not mean that it is not mandatory or that a timely
+objection can be ignored. If a party timely raises the
+COA’s failure to indicate a constitutional issue, the court
+of appeals panel must address the defect by considering an
+amendment to the COA or remanding to the district judge
+for specification of the issues.7 This Court, moreover, has
+——————
+7 The dissent’s insistence that there is “no practical, real-world effect”
+to treating this rule as mandatory, post, at 4, ignores the real world.
+Courts of appeals regularly amend COAs or remand for specification of
+issues, notwithstanding the supposed potential to “embarras[s] a
+colleague.” Post, at 5; see, e.g., Saunders v. Senkowski, 587 F. 3d 543,
+545 (CA2 2009) (per curiam) (amending COA to add issue); United
+States v. Weaver, 195 F. 3d 52, 53 (CADC 1999) (remanding for specification of issues). The government frequently alleges COA defects as
+grounds for dismissal (as the State did here, at this late stage), appar-
+
+

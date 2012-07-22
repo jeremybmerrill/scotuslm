@@ -1,0 +1,42 @@
+8
+
+CARACO PHARMACEUTICAL LABORATORIES, LTD. v.
+NOVO NORDISK A/S
+Opinion of the Court
+
+drug compound) and the ’358 patent (the use of the drug
+with metformin). Caraco assured the FDA that it would
+not market its generic drug until the ’035 patent expired,
+thus making that patent irrelevant to the FDA’s review of
+the ANDA. Caraco filed a paragraph IV certification for
+the remaining, ’358 patent, stating that it was “invalid or
+[would] not be infringed.” §355(j)(2)(A)(vii)(IV); see supra,
+at 5. In accord with the patent statute, Novo treated this
+filing as an act of infringement and brought suit.
+When Caraco filed its ANDA, Novo’s use code for the
+’358 patent represented that the patent covered “ ‘[u]se of
+repaglinide in combination with metformin to lower blood
+glucose.’ ” 601 F. 3d, at 1362–1363. The FDA therefore
+advised Caraco that if it did not seek to market repaglinide for use with metformin, it could submit a section
+viii statement. That would allow Caraco, assuming its
+ANDA was otherwise in order, to market its generic drug
+for the other two uses. Caraco took the FDA’s cue and in
+2008 submitted a section viii statement, with proposed
+labeling carving out Novo’s patented metformin therapy.
+See App. 166–176.
+Before the FDA took further action, however, Novo
+changed its use code for the ’358 patent. The new use code
+describes “ ‘[a] method for improving glycemic control in
+adults with type 2 diabetes.’ ”3 601 F. 3d, at 1363. Because that code indicates that the ’358 patent protects all
+three approved methods of using repaglinide to treat
+diabetes, Caraco’s proposed carve-out of metformin therapy was no longer sufficient; even with that exclusion,
+——————
+3 Novo asserts that it made the change so that its use code would
+mirror its label, which the FDA had just asked it to alter. See Brief for
+Respondents 14. But the FDA, in calling for new labeling, neither
+requested nor required Novo to amend its use code. And indeed, Novo’s
+counsel conceded before the Federal Circuit that Novo modified its use
+code in part as “ ‘a response to the [FDA’s] section viii’ ” suggestion. 601
+F. 3d, at 1380–1381.
+
+

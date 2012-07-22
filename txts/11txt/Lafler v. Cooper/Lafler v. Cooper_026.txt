@@ -1,0 +1,44 @@
+6
+
+LAFLER v. COOPER
+SCALIA, J., dissenting
+
+imprisonment instead. The objection was fully supported
+by then-extant Circuit law, so that the sentencing court
+would have been compelled to sustain it, producing a life
+sentence that principles of double jeopardy would likely
+make final. See id., at 383–385 (Stevens, J., dissenting);
+Bullington v. Missouri, 451 U. S. 430 (1981). By the time
+Fretwell’s claim came before us, however, the Circuit law
+had been overruled in light of one of our cases. We deter­
+mined that a prejudice analysis “focusing solely on mere
+outcome determination, without attention to whether the
+result of the proceeding was fundamentally unfair or
+unreliable,” would be defective. Fretwell, 506 U. S., at
+369. Because counsel’s error did not “deprive the defend­
+ant of any substantive or procedural right to which the
+law entitles him,” the defendant’s sentencing proceeding
+was fair and its result was reliable, even though counsel’s
+error may have affected its outcome. Id., at 372. In Williams v. Taylor, 529 U. S. 362, 391–393 (2000), we ex­
+plained that even though Fretwell did not mechanically
+apply an outcome-based test for prejudice, its reasoning
+was perfectly consistent with Strickland. “Fretwell’s
+counsel had not deprived him of any substantive or pro­
+cedural right to which the law entitled him.” 529 U. S.
+at 392.2
+——————
+2 Kimmelman v. Morrison, 477 U. S. 365 (1986), cited by the Court,
+ante, at 10–11, does not contradict this principle. That case, which
+predated Fretwell and Williams, considered whether our holding that
+Fourth Amendment claims fully litigated in state court cannot be
+raised in federal habeas “should be extended to Sixth Amendment
+claims of ineffective assistance of counsel where the principal allegation
+and manifestation of inadequate representation is counsel’s failure to
+file a timely motion to suppress evidence allegedly obtained in violation
+of the Fourth Amendment.” 477 U. S., at 368. Our negative answer to
+that question had nothing to do with the issue here. The parties in
+Kimmelman had not raised the question “whether the admission of
+illegally seized but reliable evidence can ever constitute ‘prejudice’
+under Strickland”—a question similar to the one presented here—and
+
+

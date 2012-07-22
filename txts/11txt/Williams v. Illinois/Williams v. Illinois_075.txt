@@ -1,0 +1,31 @@
+2
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+Our Constitution contains a mechanism for catching
+such errors—the Sixth Amendment’s Confrontation
+Clause. That Clause, and the Court’s recent cases interpreting it, require that testimony against a criminal defendant be subject to cross-examination. And that command applies with full force to forensic evidence of the
+kind involved in both the Kocak case and this one. In two
+decisions issued in the last three years, this Court held
+that if a prosecutor wants to introduce the results of forensic testing into evidence, he must afford the defendant
+an opportunity to cross-examine an analyst responsible for
+the test. Forensic evidence is reliable only when properly
+produced, and the Confrontation Clause prescribes a particular method for determining whether that has happened. The Kocak incident illustrates how the Clause is
+designed to work: Once confronted, the analyst discovered
+and disclosed the error she had made. That error would
+probably not have come to light if the prosecutor had
+merely admitted the report into evidence or asked a third
+party to present its findings. Hence the genius of an 18thcentury device as applied to 21st-century evidence: Crossexamination of the analyst is especially likely to reveal
+whether vials have been switched, samples contaminated,
+tests incompetently run, or results inaccurately recorded.
+Under our Confrontation Clause precedents, this is
+an open-and-shut case. The State of Illinois prosecuted
+Sandy Williams for rape based in part on a DNA profile
+created in Cellmark’s laboratory. Yet the State did not
+give Williams a chance to question the analyst who produced that evidence. Instead, the prosecution introduced
+the results of Cellmark’s testing through an expert witness who had no idea how they were generated. That
+approach—no less (perhaps more) than the confrontationfree methods of presenting forensic evidence we have
+formerly banned—deprived Williams of his Sixth Amendment right to “confron[t] . . . the witnesses against him.”
+
+

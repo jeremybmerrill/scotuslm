@@ -1,0 +1,44 @@
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+ous formulations the one in 15 U. S. C. §77m, on which the
+concurrence relies. See post, at 2–4 (SCALIA, J., concurring
+in part and concurring in judgment); Lampf, supra, at 360,
+and n. 7 (quoting §77m).)
+Subsequently, every Court of Appeals to decide the
+matter held that “discovery of the facts constituting the
+violation” occurs not only once a plaintiff actually discov
+ers the facts, but also when a hypothetical reasonably
+diligent plaintiff would have discovered them. See, e.g.,
+Law v. Medco Research, Inc., 113 F. 3d 781, 785–786 (CA7
+1997); Dodds v. Cigna Securities, Inc., 12 F. 3d 346, 350,
+353 (CA2 1993); see In re NAHC, Inc. Securities Litigation,
+306 F. 3d 1314, 1325, n. 4 (CA3 2002) (collecting cases).
+Some of those courts noted that other limitations provi
+sions in the federal securities laws explicitly provide that
+the period begins to run “ ‘after the discovery of the untrue
+statement . . . or after such discovery should have been
+made by [the] exercise of reasonable diligence,’ ” whereas
+the formulation adopted by the Court in Lampf from 15
+U. S. C. §78i(e) does not. Tregenza, supra, at 721 (quoting
+§77m; emphasis added in Tregenza); see Lampf, supra, at
+364, n. 9. But, courts reasoned, because the term “discov
+ery” in respect to statutes of limitations for fraud has long
+been understood to include discoveries a reasonably dili
+gent plaintiff would make, the omission of an explicit
+provision to that effect did not matter. Tregenza, supra, at
+721; accord, New England Health Care, 336 F. 3d, at 499–
+500.
+In 2002, when Congress enacted the present limitations
+statute, it repeated Lampf’s critical language. The statute
+says that an action based on fraud “may be brought not
+later than the earlier of . . . 2 years after the discovery of
+the facts constituting the violation” (or “5 years after such
+violation”). §804 of the Sarbanes-Oxley Act, 116 Stat. 801,
+codified at 28 U. S. C. §1658(b) (emphasis added). (This
+statutory provision does not make the linguistic distinc
+
+

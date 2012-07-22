@@ -1,0 +1,46 @@
+Cite as: 560 U. S. ____ (2010) 
+
+
+5
+
+Opinion of the Court 
+
+
+II 
+
+Elements of a crime must be charged in an indictment
+and proved to a jury beyond a reasonable doubt. Hamling
+v. United States, 418 U. S. 87, 117 (1974); Jones v. United
+States, 526 U. S. 227, 232 (1999). Sentencing factors, on
+the other hand, can be proved to a judge at sentencing by
+a preponderance of the evidence. See McMillan v. Penn
+sylvania, 477 U. S. 79, 91−92 (1986). Though one excep
+tion has been established, see Almendarez-Torres v.
+United States, 523 U. S. 224, 228 (1998), “ ‘[i]t is unconsti
+tutional for a legislature to remove from the jury the
+assessment of facts that increase the prescribed range of
+penalties to which a criminal defendant is exposed.’ ”
+Apprendi v. New Jersey, 530 U. S. 466, 490 (2000) (quoting
+Jones, supra, at 252−253 (STEVENS, J., concurring)). In
+other words, while sentencing factors may guide or confine
+a judge’s discretion in sentencing an offender “within the
+range prescribed by statute,” Apprendi, supra, at 481,
+judge-found sentencing factors cannot increase the maxi
+mum sentence a defendant might otherwise receive based
+purely on the facts found by the jury.
+Subject to this constitutional constraint, whether a
+given fact is an element of the crime itself or a sentencing
+factor is a question for Congress. When Congress is not
+explicit, as is often the case because it seldom directly
+addresses the distinction between sentencing factors and
+elements, courts look to the provisions and the framework
+of the statute to determine whether a fact is an element or
+a sentencing factor. Almendarez-Torres, supra, at 228. In
+examining whether the machinegun provision in §924 is
+an element or a sentencing factor, the analysis must begin
+with this Court’s previous examination of the question in
+Castillo.
+In Castillo, the Court considered a prior version of §924,
+which provided:
+
+

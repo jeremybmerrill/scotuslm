@@ -1,0 +1,38 @@
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+Syllabus
+DNA profile was “found in semen from the vaginal swabs.” Rather,
+that fact was a mere premise of the prosecutor’s question, and Lambatos simply assumed it to be true in giving her answer. Because
+this was a bench trial, the Court assumes that the trial judge understood that the testimony was not admissible to prove the truth of the
+matter asserted. It is also unlikely that the judge took the testimony
+as providing chain-of-custody evidence. The record does not support
+such an understanding; no trial judge is likely to be so confused; and
+the admissible evidence left little room for argument that Cellmark’s
+sample came from any source but L. J.’s swabs, since the profile
+matched the very man she identified in a lineup and at trial as her
+attacker. Pp. 16–21.
+(2) Nor did the substance of Cellmark’s report need to be introduced in order to show that Cellmark’s profile was based on the semen in L. J.’s swabs or that its procedures were reliable. The issue
+here is whether petitioner’s confrontation right was violated, not
+whether the State offered sufficient foundational evidence to support
+the admission of Lambatos’ opinion. If there were no proof that
+Cellmark’s profile was accurate, Lambatos’ testimony would be irrelevant, but the Confrontation Clause bars not the admission of irrelevant evidence, but the admission of testimonial statements by declarants who are not subject to cross-examination. Here, the trial
+record does not lack admissible evidence with respect to the source of
+the sample tested by Cellmark or the reliability of its profile. The
+State offered conventional chain-of-custody evidence, and the match
+between Cellmark’s profile and petitioner’s was telling confirmation
+that Cellmark’s profile was deduced from the semen on L. J.’s swabs.
+The match also provided strong circumstantial evidence about the reliability of Cellmark’s work. Pp. 21–25.
+(3) This conclusion is consistent with Bullcoming and MelendezDiaz, where forensic reports were introduced for the purpose of proving the truth of what they asserted. In contrast, Cellmark’s report
+was considered for the limited purpose of seeing whether it matched
+something else, and the relevance of that match was established by
+independent circumstantial evidence showing that the report was
+based on a sample from the crime scene. There are at least four safeguards to prevent abuses in such situations. First, trial courts can
+screen out experts who would act as conduits for hearsay by strictly
+enforcing the requirement that experts display genuine “scientific,
+technical, or other specialized knowledge” to help the trier of fact understand the evidence or determine a fact at issue. Fed. Rule Evid.
+702(a). Second, experts are generally precluded from disclosing inadmissible evidence to a jury. Third, if such evidence is disclosed, a
+trial judge may instruct the jury that the statements cannot be ac-
+
+

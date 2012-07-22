@@ -1,0 +1,42 @@
+14
+
+HAMILTON v. LANNING
+Opinion of the Court
+
+Petitioner also notes that §707 allows courts to take
+“special circumstances” into consideration, but that
+§1325(b)(3) incorporates §707 only with respect to calcu­
+lating expenses. See In re Wilson, 397 B. R. 299, 314–315
+(Bkrtcy. Ct. MDNC 2008). Thus, he argues, a “special
+circumstances” exception should not be inferred with
+respect to the debtor’s income. We decline to infer from
+§1325’s incorporation of §707 that Congress intended to
+eliminate, sub silentio, the discretion that courts previ­
+ously exercised when projecting disposable income to
+account for known or virtually certain changes. Accord,
+In re Liverman, 383 B. R. 604, 613, and n. 15 (Bkrtcy. Ct.
+NJ 2008).
+D
+In cases in which a debtor’s disposable income during
+the 6-month look-back period is either substantially lower
+or higher than the debtor’s disposable income during the
+plan period, the mechanical approach would produce
+senseless results that we do not think Congress intended.
+In cases in which the debtor’s disposable income is higher
+during the plan period, the mechanical approach would
+deny creditors payments that the debtor could easily
+make. And where, as in the present case, the debtor’s
+disposable income during the plan period is substantially
+lower, the mechanical approach would deny the protection
+of Chapter 13 to debtors who meet the chapter’s main
+eligibility requirements. Here, for example, respondent is
+an “individual whose income is sufficiently stable and
+regular” to allow her “to make payments under a plan,”
+§101(30), and her debts fall below the limits set out in
+§109(e). But if the mechanical approach were used, she
+could not file a confirmable plan. Under §1325(a)(6), a
+plan cannot be confirmed unless “the debtor will be able to
+make all payments under the plan and comply with the
+plan.” And as petitioner concedes, respondent could not
+
+

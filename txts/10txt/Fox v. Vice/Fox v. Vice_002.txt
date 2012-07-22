@@ -1,0 +1,51 @@
+2
+
+FOX v. VICE
+Syllabus
+
+Held:
+1. When a plaintiff’s suit involves both frivolous and non-frivolous
+claims, a court may grant reasonable fees to the defendant, but only
+for costs that the defendant would not have incurred but for the frivo
+lous claims. Pp. 5–11.
+(a) Section 1988 allows the award of “a reasonable attorney’s fee”
+to “the prevailing party” in certain civil rights cases, including §1983
+suits. While most of this Court’s §1988 decisions have concerned fees
+to prevailing plaintiffs, §1988 also authorizes a fee award to a pre
+vailing defendant “upon a finding that the plaintiff’s action was frivo
+lous, unreasonable, or without foundation.” Christiansburg Garment
+Co. v. EEOC, 434 U. S. 412, 421. Just as plaintiffs may receive fees
+under §1988 even if they are not victorious on every claim, Hensley v.
+Eckerhart, 461 U. S. 424, 435, so too may a defendant be reimbursed
+for costs under §1988 even if the plaintiff’s suit is not wholly frivo
+lous, ibid., n. 10. The defendant is not entitled to fees arising from
+these non-frivolous charges, see Christiansburg, 434 U. S., at 420–
+421, but the presence of reasonable allegations does not immunize
+the plaintiff against paying for the fees that his frivolous claims im
+posed. Pp. 5–7.
+(b) The question then becomes how to allocate fees in a lawsuit
+having both frivolous and non-frivolous claims. Congress’s purpose
+in enacting §1988—to relieve defendants of the burdens associated
+with fending off frivolous litigation—points to the proper standard:
+Section 1988 allows a defendant to recover reasonable attorney’s fees
+incurred because of, but only because of, a frivolous claim; i.e., §1988
+permits the defendant to receive only the portion of his fees that he
+would not have paid but for the frivolous claim. A standard allowing
+more expansive fee-shifting would furnish windfalls to some defen
+dants, who would be relieved of normal litigation costs merely be
+cause the plaintiff’s suit also included frivolous claims. This “but-for”
+standard may, in some instances, allow compensation to a defendant
+for attorney work relating to both frivolous and non-frivolous claims,
+for instance, if the frivolous claim requires a lawyer to do more work
+because of the defendant’s greater financial exposure on that claim.
+The dispositive question is not whether attorney costs at all relate to
+a non-frivolous claim, but whether the costs would have been in
+curred in the absence of the frivolous allegation. The answers to
+those inquiries will usually track each other, but when they diverge,
+it is the second one that matters. The determination of fees “should
+not result in a second major litigation.” Hensley, 461 U. S., at 437.
+The essential goal in shifting fees is to do rough justice, not to
+achieve auditing perfection. The trial court has wide discretion, but
+must apply the correct but-for standard. And the appeals court must
+
+

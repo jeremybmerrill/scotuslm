@@ -1,0 +1,44 @@
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+Opinion of SCALIA, J.
+
+process for enforcing rights and duties recognized by
+substantive law and for justly administering remedy and
+redress for disregard or infraction of them,” Sibbach, 312
+U. S., at 14; see Hanna, supra, at 464; Burlington, 480
+U. S., at 8. The test is not whether the rule affects a
+litigant’s substantive rights; most procedural rules do.
+Mississippi Publishing Corp. v. Murphree, 326 U. S. 438,
+445 (1946). What matters is what the rule itself regulates:
+If it governs only “the manner and the means” by which
+the litigants’ rights are “enforced,” it is valid; if it alters
+“the rules of decision by which [the] court will adjudicate
+[those] rights,” it is not. Id., at 446 (internal quotation
+marks omitted).
+Applying that test, we have rejected every statutory
+challenge to a Federal Rule that has come before us. We
+have found to be in compliance with §2072(b) rules pre­
+scribing methods for serving process, see id., at 445–446
+(Fed. Rule Civ. Proc. 4(f)); Hanna, supra, at 463–465 (Fed.
+Rule Civ. Proc. 4(d)(1)), and requiring litigants whose
+mental or physical condition is in dispute to submit to
+examinations, see Sibbach, supra, at 14–16 (Fed. Rule
+Civ. Proc. 35); Schlagenhauf v. Holder, 379 U. S. 104, 113–
+114 (1964) (same). Likewise, we have upheld rules au­
+thorizing imposition of sanctions upon those who file
+frivolous appeals, see Burlington, supra, at 8 (Fed. Rule
+App. Proc. 38), or who sign court papers without a reason­
+able inquiry into the facts asserted, see Business Guides,
+Inc. v. Chromatic Communications Enterprises, Inc., 498
+U. S. 533, 551–554 (1991) (Fed. Rule Civ. Proc. 11). Each
+of these rules had some practical effect on the parties’
+rights, but each undeniably regulated only the process for
+enforcing those rights; none altered the rights themselves,
+the available remedies, or the rules of decision by which
+the court adjudicated either.
+Applying that criterion, we think it obvious that rules
+allowing multiple claims (and claims by or against multi­
+
+

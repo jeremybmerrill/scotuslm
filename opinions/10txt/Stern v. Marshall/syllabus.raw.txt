@@ -1,0 +1,293 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+STERN, EXECUTOR OF THE ESTATE OF MARSHALL
+v. MARSHALL, EXECUTRIX OF THE ESTATE OF
+MARSHALL
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–179.
+
+Argued January 18, 2011—Decided June 23, 2011
+
+Article III, §1, of the Constitution mandates that “[t]he judicial Power
+of the United States, shall be vested in one supreme Court, and in
+such inferior Courts as the Congress may from time to time ordain
+and establish,” and provides that the judges of those constitutional
+courts “shall hold their Offices during good Behaviour” and “receive
+for their Services[ ] a Compensation[ ] [that] shall not be diminished”
+during their tenure. The questions presented in this case are
+whether a bankruptcy court judge who did not enjoy such tenure and
+salary protections had the authority under 28 U. S. C. §157 and Arti
+cle III to enter final judgment on a counterclaim filed by Vickie Lynn
+Marshall (whose estate is the petitioner) against Pierce Marshall
+(whose estate is the respondent) in Vickie’s bankruptcy proceedings.
+Vickie married J. Howard Marshall II, Pierce’s father, approxi
+mately a year before his death. Shortly before J. Howard died, Vickie
+filed a suit against Pierce in Texas state court, asserting that J.
+Howard meant to provide for Vickie through a trust, and Pierce tor
+tiously interfered with that gift. After J. Howard died, Vickie filed
+for bankruptcy in federal court. Pierce filed a proof of claim in that
+proceeding, asserting that he should be able to recover damages from
+Vickie’s bankruptcy estate because Vickie had defamed him by induc
+ing her lawyers to tell the press that he had engaged in fraud in con
+trolling his father’s assets. Vickie responded by filing a counterclaim
+for tortious interference with the gift she expected from J. Howard.
+The Bankruptcy Court granted Vickie summary judgment on the
+defamation claim and eventually awarded her hundreds of millions of
+dollars in damages on her counterclaim. Pierce objected that the
+
+
+2
+
+STERN v. MARSHALL
+Syllabus
+Bankruptcy Court lacked jurisdiction to enter a final judgment on
+that counterclaim because it was not a “core proceeding” as defined
+by 28 U. S. C. §157(b)(2)(C). As set forth in §157(a), Congress has di
+vided bankruptcy proceedings into three categories: those that
+“aris[e] under title 11”; those that “aris[e] in” a Title 11 case; and
+those that are “related to a case under title 11.” District courts may
+refer all such proceedings to the bankruptcy judges of their district,
+and bankruptcy courts may enter final judgments in “all core pro
+ceedings arising under title 11, or arising in a case under title 11.”
+§§157(a), (b)(1). In non-core proceedings, by contrast, a bankruptcy
+judge may only “submit proposed findings of fact and conclusions of
+law to the district court.” §157(c)(1). Section 157(b)(2) lists 16 cate
+gories of core proceedings, including “counterclaims by the estate
+against persons filing claims against the estate.” §157(b)(2)(C).
+The Bankruptcy Court concluded that Vickie’s counterclaim was a
+core proceeding. The District Court reversed, reading this Court’s
+precedent in Northern Pipeline Constr. Co. v. Marathon Pipe Line
+Co., 458 U. S. 50, to “suggest[ ] that it would be unconstitutional to
+hold that any and all counterclaims are core.” The court held that
+Vickie’s counterclaim was not core because it was only somewhat re
+lated to Pierce’s claim, and it accordingly treated the Bankruptcy
+Court’s judgment as proposed, not final. Although the Texas state
+court had by that time conducted a jury trial on the merits of the par
+ties’ dispute and entered a judgment in Pierce’s favor, the District
+Court went on to decide the matter itself, in Vickie’s favor. The
+Court of Appeals ultimately reversed. It held that the Bankruptcy
+Court lacked authority to enter final judgment on Vickie’s counter
+claim because the claim was not “so closely related to [Pierce’s] proof
+of claim that the resolution of the counterclaim is necessary to re
+solve the allowance or disallowance of the claim itself.” Because that
+holding made the Texas probate court’s judgment the earliest final
+judgment on matters relevant to the case, the Court of Appeals held
+that the District Court should have given the state judgment preclu
+sive effect.
+
+Held: Although the Bankruptcy Court had the statutory authority to
+enter judgment on Vickie’s counterclaim, it lacked the constitutional
+authority to do so. Pp. 6–38.
+1. Section 157(b) authorized the Bankruptcy Court to enter final
+judgment on Vickie’s counterclaim. Pp. 8–16.
+(a) The Bankruptcy Court had the statutory authority to enter
+final judgment on Vickie’s counterclaim as a core proceeding under
+§157(b)(2)(C). Pierce argues that §157(b) authorizes bankruptcy
+courts to enter final judgments only in those proceedings that are
+both core and either arise in a Title 11 case or arise under Title 11 it
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Syllabus
+self. But that reading necessarily assumes that there is a category of
+core proceedings that do not arise in a bankruptcy case or under
+bankruptcy law, and the structure of §157 makes clear that no such
+category exists. Pp. 8–11.
+(b) In the alternative, Pierce argues that the Bankruptcy Court
+lacked jurisdiction to resolve Vickie’s counterclaim because his defa
+mation claim is a “personal injury tort” that the Bankruptcy Court
+lacked jurisdiction to hear under §157(b)(5). The Court agrees with
+Vickie that §157(b)(5) is not jurisdictional, and Pierce consented to
+the Bankruptcy Court’s resolution of the defamation claim. The
+Court is not inclined to interpret statutes as creating a jurisdictional
+bar when they are not framed as such. See generally Henderson v.
+Shinseki, 562 U. S. ___; Arbaugh v. Y & H Corp., 546 U. S. 500. Sec
+tion 157(b)(5) does not have the hallmarks of a jurisdictional decree,
+and the statutory context belies Pierce’s claim that it is jurisdictional.
+Pierce consented to the Bankruptcy Court’s resolution of the defama
+tion claim by repeatedly advising that court that he was happy to
+litigate his claim there. Pp. 12–16.
+2. Although §157 allowed the Bankruptcy Court to enter final judg
+ment on Vickie’s counterclaim, Article III of the Constitution did not.
+Pp. 16–38.
+(a) Article III is “an inseparable element of the constitutional
+system of checks and balances” that “both defines the power and pro
+tects the independence of the Judicial Branch.” Northern Pipeline,
+458 U. S., at 58 (plurality opinion). Article III protects liberty not
+only through its role in implementing the separation of powers, but
+also by specifying the defining characteristics of Article III judges to
+protect the integrity of judicial decisionmaking.
+This is not the first time the Court has faced an Article III chal
+lenge to a bankruptcy court’s resolution of a debtor’s suit. In North
+ern Pipeline, the Court considered whether bankruptcy judges serv
+ing under the Bankruptcy Act of 1978—who also lacked the tenure
+and salary guarantees of Article III—could “constitutionally be
+vested with jurisdiction to decide [a] state-law contract claim” against
+an entity that was not otherwise part of the bankruptcy proceedings.
+Id., at 53, 87, n. 40 (plurality opinion). The plurality in Northern
+Pipeline recognized that there was a category of cases involving “pub
+lic rights” that Congress could constitutionally assign to “legislative”
+courts for resolution. A full majority of the Court, while not agreeing
+on the scope of that exception, concluded that the doctrine did not en
+compass adjudication of the state law claim at issue in that case, and
+rejected the debtor’s argument that the Bankruptcy Court’s exercise
+of jurisdiction was constitutional because the bankruptcy judge was
+acting merely as an adjunct of the district court or court of appeals.
+
+
+4
+
+STERN v. MARSHALL
+Syllabus
+Id., at 69–72; see id., at 90–91 (Rehnquist, J., concurring in judg
+ment). After the decision in Northern Pipeline, Congress revised the
+statutes governing bankruptcy jurisdiction and bankruptcy judges.
+With respect to the “core” proceedings listed in §157(b)(2), however,
+the bankruptcy courts under the Bankruptcy Amendments and Fed
+eral Judgeship Act of 1984 exercise the same powers they wielded
+under the 1978 Act. The authority exercised by the newly consti
+tuted courts over a counterclaim such as Vickie’s exceeds the bounds
+of Article III. Pp. 16–22.
+(b) Vickie’s counterclaim does not fall within the public rights ex
+ception, however defined. The Court has long recognized that, in
+general, Congress may not “withdraw from judicial cognizance any
+matter which, from its nature, is the subject of a suit at the common
+law, or in equity, or admiralty.” Murray’s Lessee v. Hoboken Land &
+Improvement Co., 18 How. 272, 284. The Court has also recognized
+that “[a]t the same time there are matters, involving public rights,
+. . . which are susceptible of judicial determination, but which con
+gress may or may not bring within the cognizance of the courts of the
+United States, as it may deem proper.” Ibid. Several previous deci
+sions have contrasted cases within the reach of the public rights ex
+ception—those arising “between the Government and persons subject
+to its authority in connection with the performance of the constitu
+tional functions of the executive or legislative departments”—and
+those that are instead matters “of private right, that is, of the liabil
+ity of one individual to another under the law as defined.” Crowell v.
+Benson, 285 U. S. 22, 50, 51.
+Shortly after Northern Pipeline, the Court rejected the limitation of
+the public rights exception to actions involving the Government as a
+party. The Court has continued, however, to limit the exception to
+cases in which the claim at issue derives from a federal regulatory
+scheme, or in which resolution of the claim by an expert Government
+agency is deemed essential to a limited regulatory objective within
+the agency’s authority. In other words, it is still the case that what
+makes a right “public” rather than private is that the right is inte
+grally related to particular Federal Government action. See United
+States v. Jicarilla Apache Nation, 564 U. S. ___, ___–___ (slip op., at
+10–11); Thomas v. Union Carbide Agricultural Products Co., 473
+U. S. 568, 584; Commodity Futures Trading Commission v. Schor,
+478 U. S. 833, 844, 856.
+In Granfinanciera, S. A. v. Nordberg, 492 U. S. 33, the most recent
+case considering the public rights exception, the Court rejected a
+bankruptcy trustee’s argument that a fraudulent conveyance action
+filed on behalf of a bankruptcy estate against a noncreditor in a
+bankruptcy proceeding fell within the exception. Vickie’s counter
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Syllabus
+claim is similar. It is not a matter that can be pursued only by grace
+of the other branches, as in Murray’s Lessee, 18 How., at 284; it does
+not flow from a federal statutory scheme, as in Thomas, 473 U. S., at
+584–585; and it is not “completely dependent upon” adjudication of a
+claim created by federal law, as in Schor, 478 U. S., at 856. This case
+involves the most prototypical exercise of judicial power: the entry of
+a final, binding judgment by a court with broad substantive jurisdic
+tion, on a common law cause of action, when the action neither de
+rives from nor depends upon any agency regulatory regime. If such
+an exercise of judicial power may nonetheless be taken from the Arti
+cle III Judiciary simply by deeming it part of some amorphous “public
+right,” then Article III would be transformed from the guardian of in
+dividual liberty and separation of powers the Court has long recog
+nized into mere wishful thinking. Pp. 22–29.
+(c) The fact that Pierce filed a proof of claim in the bankruptcy
+proceedings did not give the Bankruptcy Court the authority to adju
+dicate Vickie’s counterclaim. Initially, Pierce’s defamation claim does
+not affect the nature of Vickie’s tortious interference counterclaim as
+one at common law that simply attempts to augment the bankruptcy
+estate—the type of claim that, under Northern Pipeline and Granfi
+nanciera, must be decided by an Article III court. The cases on which
+Vickie relies, Katchen v. Landy, 382 U. S. 323, and Langenkamp v.
+Culp, 498 U. S. 42 (per curiam), are inapposite. Katchen permitted a
+bankruptcy referee to exercise jurisdiction over a trustee’s voidable
+preference claim against a creditor only where there was no question
+that the referee was required to decide whether there had been a
+voidable preference in determining whether and to what extent to al
+low the creditor’s claim. The Katchen Court “intimate[d] no opinion
+concerning whether” the bankruptcy referee would have had “sum
+mary jurisdiction to adjudicate a demand by the [bankruptcy] trustee
+for affirmative relief, all of the substantial factual and legal bases for
+which ha[d] not been disposed of in passing on objections to the
+[creditor’s proof of ] claim.” 382 U. S., at 333, n. 9. The per curiam
+opinion in Langenkamp is to the same effect. In this case, by con
+trast, the Bankruptcy Court—in order to resolve Vickie’s counter
+claim—was required to and did make several factual and legal de
+terminations that were not “disposed of in passing on objections” to
+Pierce’s proof of claim. In both Katchen and Langenkamp, moreover,
+the trustee bringing the preference action was asserting a right of re
+covery created by federal bankruptcy law. Vickie’s claim is instead a
+state tort action that exists without regard to any bankruptcy pro
+ceeding. Pp. 29–34.
+(d) The bankruptcy courts under the 1984 Act are not “adjuncts”
+of the district courts. The new bankruptcy courts, like the courts
+
+
+6
+
+STERN v. MARSHALL
+Syllabus
+considered in Northern Pipeline, do not “ma[k]e only specialized, nar
+rowly confined factual determinations regarding a particularized
+area of law” or engage in “statutorily channeled factfinding func
+tions.” 458 U. S., at 85 (plurality opinion). Whereas the adjunct
+agency in Crowell v. Benson “possessed only a limited power to issue
+compensation orders . . . [that] could be enforced only by order of the
+district court,” ibid., a bankruptcy court resolving a counterclaim un
+der §157(b)(2)(C) has the power to enter “appropriate orders and
+judgments”—including final judgments—subject to review only if a
+party chooses to appeal, see §§157(b)(1), 158(a)–(b). Such a court is
+an adjunct of no one. Pp. 34–36.
+(e) Finally, Vickie and her amici predict that restrictions on a
+bankruptcy court’s ability to hear and finally resolve compulsory
+counterclaims will create significant delays and impose additional
+costs on the bankruptcy process. It goes without saying that “the fact
+that a given law or procedure is efficient, convenient, and useful in
+facilitating functions of government, standing alone, will not save it if
+it is contrary to the Constitution.” INS v. Chadha, 462 U. S. 919,
+944. In addition, the Court is not convinced that the practical conse
+quences of such limitations are as significant as Vickie suggests. The
+framework Congress adopted in the 1984 Act already contemplates
+that certain state law matters in bankruptcy cases will be resolved by
+state courts and district courts, see §§157(c), 1334(c), and the Court
+does not think the removal of counterclaims such as Vickie’s from
+core bankruptcy jurisdiction meaningfully changes the division of la
+bor in the statute. Pp. 36–38.
+
+600 F. 3d 1037, affirmed.
+ROBERTS, C. J., delivered the opinion of the Court, in which SCALIA,
+KENNEDY, THOMAS, and ALITO, JJ., joined. SCALIA, J., filed a concurring
+opinion. BREYER, J., filed a dissenting opinion, in which GINSBURG, SOTOMAYOR, and KAGAN, JJ., joined.
+
+

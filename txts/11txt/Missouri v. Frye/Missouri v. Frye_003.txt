@@ -1,0 +1,39 @@
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Syllabus
+breach of duty. Pp. 8–11.
+3. To show prejudice where a plea offer has lapsed or been rejected
+because of counsel’s deficient performance, defendants must demonstrate a reasonable probability both that they would have accepted
+the more favorable plea offer had they been afforded effective assistance of counsel and that the plea would have been entered without
+the prosecution’s canceling it or the trial court’s refusing to accept it,
+if they had the authority to exercise that discretion under state law.
+This application of Strickland to uncommunicated, lapsed pleas does
+not alter Hill’s standard, which requires a defendant complaining
+that ineffective assistance led him to accept a plea offer instead of going to trial to show “a reasonable probability that, but for counsel’s
+errors, he would not have pleaded guilty and would have insisted on
+going to trial.” 474 U. S., at 59. Hill correctly applies in the context
+in which it arose, but it does not provide the sole means for demonstrating prejudice arising from counsel’s deficient performance during plea negotiations. Because Frye argues that with effective assistance he would have accepted an earlier plea offer as opposed to
+entering an open plea, Strickland’s inquiry into whether “the result
+of the proceeding would have been different,” 466 U. S., at 694, requires looking not at whether the defendant would have proceeded to
+trial but at whether he would have accepted the earlier plea offer.
+He must also show that, if the prosecution had the discretion to cancel the plea agreement or the trial court had the discretion to refuse
+to accept it, there is a reasonable probability neither the prosecution
+nor the trial court would have prevented the offer from being accepted or implemented. This further showing is particularly important
+because a defendant has no right to be offered a plea, see Weatherford
+v. Bursey, 429 U. S. 545, 561, nor a federal right that the judge accept
+it, Santobello v. New York, 404 U. S. 257, 262. Missouri, among other
+States, appears to give the prosecution some discretion to cancel a
+plea agreement; and the Federal Rules of Criminal Procedure, some
+state rules, including Missouri’s, and this Court’s precedents give trial courts some leeway to accept or reject plea agreements. Pp. 11–13.
+4. Applying these standards here, the Missouri court correctly concluded that counsel’s failure to inform Frye of the written plea offer
+before it expired fell below an objective reasonableness standard, but
+it failed to require Frye to show that the plea offer would have been
+adhered to by the prosecution and accepted by the trial court. These
+matters should be addressed by the Missouri appellate court in the
+first instance. Given that Frye’s new offense for driving without a license occurred a week before his preliminary hearing, there is reason
+to doubt that the prosecution would have adhered to the agreement
+or that the trial court would have accepted it unless they were re-
+
+

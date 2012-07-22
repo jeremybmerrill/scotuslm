@@ -1,0 +1,41 @@
+Cite as: 564 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+network facilities.” In re Implementation of Local Compe
+tition Provisions in the Telecommunications Act of 1996,
+11 FCC Rcd. 15499, 15605, ¶202 (1996) (Local Competition
+Order). Since then, as AT&T and its amici concede, in­
+cumbent LECs have commonly leased certain facilities at
+cost-based prices to accommodate interconnection. See
+Brief for Respondent 28–29; Brief for United States Tele­
+com Association et al. as Amici Curiae 33–35.
+As additional support for its assertion that incumbent
+LECs are obligated to lease facilities, the FCC highlights
+the examples in §51.321(b) of “[t]echnically feasible meth­
+ods of obtaining interconnection,” which include “[m]eet
+point interconnection arrangements.” In a meet-point
+arrangement, an incumbent LEC “accommodat[es]” inter­
+connection by building a transmission facility from its
+network to a designated point, where it connects with the
+competitor’s corresponding transmission facility. Local
+Competition Order ¶553. Compared to that requirement,
+the Commission argues, the obligation to lease existing
+facilities for interconnection is quite modest.
+2
+Next, the Commission contends that existing entrance
+facilities are among the facilities that an incumbent LEC
+must lease for interconnection. According to the FCC, the
+Triennial Review Remand Order adopted a regulatory def­
+inition that reestablished that entrance facilities are
+part of an incumbent LEC’s network. See ¶137; see also
+47 CFR §51.319(e) (2005). The end of every entrance
+facility is therefore a “point within [an incumbent] car­
+rier’s network” at which a competing LEC could request
+interconnection, 47 U. S. C. §251(c)(2), and each entrance
+facility potentially provides a “technically feasible method
+of obtaining interconnection,” 47 CFR §51.321(a) (2010).
+
+

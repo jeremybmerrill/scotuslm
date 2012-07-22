@@ -1,0 +1,53 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+AT&T MOBILITY LLC v. CONCEPCION ET UX.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 09–893.
+
+Argued November 9, 2010—Decided April 27, 2011
+
+The cellular telephone contract between respondents (Concepcions) and
+petitioner (AT&T) provided for arbitration of all disputes, but did not
+permit classwide arbitration. After the Concepcions were charged
+sales tax on the retail value of phones provided free under their ser
+vice contract, they sued AT&T in a California Federal District Court.
+Their suit was consolidated with a class action alleging, inter alia,
+that AT&T had engaged in false advertising and fraud by charging
+sales tax on “free” phones. The District Court denied AT&T’s motion
+to compel arbitration under the Concepcions’ contract. Relying on
+the California Supreme Court’s Discover Bank decision, it found the
+arbitration provision unconscionable because it disallowed classwide
+proceedings. The Ninth Circuit agreed that the provision was uncon
+scionable under California law and held that the Federal Arbitration
+Act (FAA), which makes arbitration agreements “valid, irrevocable,
+and enforceable, save upon such grounds as exist at law or in equity
+for the revocation of any contract,” 9 U. S. C. §2, did not preempt its
+ruling.
+Held: Because it “stands as an obstacle to the accomplishment and exe
+cution of the full purposes and objectives of Congress,” Hines v.
+Davidowitz, 312 U. S. 52, 67, California’s Discover Bank rule is pre
+empted by the FAA. Pp. 4–18.
+(a) Section 2 reflects a “liberal federal policy favoring arbitration,”
+Moses H. Cone Memorial Hospital v. Mercury Constr. Corp., 460 U. S.
+1, 24, and the “fundamental principle that arbitration is a matter of
+contract,” Rent-A-Center, West, Inc. v. Jackson, 561 U. S. ____, ____.
+Thus, courts must place arbitration agreements on an equal footing
+with other contracts, Buckeye Check Cashing, Inc. v. Cardegna, 546
+U. S. 440, 443, and enforce them according to their terms, Volt In
+
+

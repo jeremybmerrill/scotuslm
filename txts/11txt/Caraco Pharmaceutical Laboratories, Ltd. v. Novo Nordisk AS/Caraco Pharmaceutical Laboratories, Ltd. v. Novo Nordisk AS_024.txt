@@ -1,0 +1,37 @@
+Cite as: 566 U. S. ____ (2012)
+
+19
+
+Opinion of the Court
+
+claim, it proposes, can correct erroneous patent numbers.
+Imagine, for example, that Novo mistakenly entered the
+number ’359, instead of ’358, when submitting information
+about its repaglinide patent for publication in the Orange
+Book. Then, Novo suggests, Caraco could bring a counterclaim to challenge the inaccurate listing (on the ground
+that ’359 does not claim any method of use), and the remedy would be “correct[ion]” (substituting an 8 for a 9). But
+we think Novo’s admission that this scenario would be
+“unusual,” Tr. of Oral Arg. 41, considerably understates
+the matter. As Novo concedes, brands have every incentive to provide the right patent number in the first place,
+and to immediately rectify any error brought to their
+attention. See id., at 40–41. By doing so, they place both
+generic companies and the FDA on notice of their patents
+and thereby prevent infringement. And conversely, generics have little or no incentive to bring a counterclaim that
+will merely replace one digit in the Orange Book with
+another. So we doubt Congress created a legal action to
+“correct” patent information just to fix such scrivener’s
+errors. See, e.g., TRW Inc. v. Andrews, 534 U. S. 19, 31
+(2001) (refusing to adopt an interpretation of a statute
+that would render a piece of it “insignificant, if not wholly
+superfluous” (internal quotation marks omitted)). That
+would have been, in the most literal sense, to make a
+federal case out of nothing.
+The same problem afflicts Novo’s alternative contention—that “patent information submitted . . . under subsection (b) or (c)” includes only numbers and expiration
+dates (and not use codes). Once again, we cannot think
+Congress included the remedy of “correct[ion]” so that
+courts could expunge typos in patent numbers. And not
+even Novo has proffered a way for the counterclaim to
+“correct” an erroneous expiration date. Suppose, for example, that a brand incorrectly lists the expiration date of
+a valid patent as 2018 rather than 2015. The counter-
+
+

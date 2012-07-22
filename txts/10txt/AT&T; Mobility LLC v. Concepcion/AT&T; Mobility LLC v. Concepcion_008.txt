@@ -1,0 +1,43 @@
+Cite as: 563 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+agreements on an equal footing with other contracts,
+Buckeye Check Cashing, Inc. v. Cardegna, 546 U. S. 440,
+443 (2006), and enforce them according to their terms, Volt
+Information Sciences, Inc. v. Board of Trustees of Leland
+Stanford Junior Univ., 489 U. S. 468, 478 (1989).
+The final phrase of §2, however, permits arbitration
+agreements to be declared unenforceable “upon such
+grounds as exist at law or in equity for the revocation of
+any contract.” This saving clause permits agreements to
+arbitrate to be invalidated by “generally applicable con
+tract defenses, such as fraud, duress, or unconscionabil
+ity,” but not by defenses that apply only to arbitration or
+that derive their meaning from the fact that an agreement
+to arbitrate is at issue. Doctor’s Associates, Inc. v.
+Casarotto, 517 U. S. 681, 687 (1996); see also Perry v.
+Thomas, 482 U. S. 483, 492–493, n. 9 (1987). The question
+in this case is whether §2 preempts California’s rule clas
+sifying most collective-arbitration waivers in consumer
+contracts as unconscionable. We refer to this rule as the
+Discover Bank rule.
+Under California law, courts may refuse to enforce any
+contract found “to have been unconscionable at the time it
+was made,” or may “limit the application of any uncon
+scionable clause.” Cal. Civ. Code Ann. §1670.5(a) (West
+1985). A finding of unconscionability requires “a ‘proce
+dural’ and a ‘substantive’ element, the former focusing on
+‘oppression’ or ‘surprise’ due to unequal bargaining power,
+the latter on ‘overly harsh’ or ‘one-sided’ results.” Armen
+dariz v. Foundation Health Pyschcare Servs., Inc., 24 Cal.
+4th 83, 114, 6 P. 3d 669, 690 (2000); accord, Discover
+Bank, 36 Cal. 4th, at 159–161, 113 P. 3d, at 1108.
+In Discover Bank, the California Supreme Court applied
+this framework to class-action waivers in arbitration
+agreements and held as follows:
+“[W]hen the waiver is found in a consumer contract of
+
+

@@ -1,0 +1,44 @@
+4
+
+BULLCOMING v. NEW MEXICO
+SOTOMAYOR, J., concurring in part
+
+I agree with the Court’s assessment that the certificate at
+issue here is a formal statement, despite the absence of
+notarization. Ante, at 14–15; Crawford, 541 U. S., at 52
+(“[T]he absence of [an] oath [is] not dispositive”). The
+formality derives from the fact that the analyst is asked to
+sign his name and “certify” to both the result and the
+statements on the form. A “certification” requires one
+“[t]o attest” that the accompanying statements are true.
+Black’s Law Dictionary 258 (9th ed. 2009) (definition of
+“certify”); see also id., at 147 (defining “attest” as “[t]o bear
+witness; testify,” or “[t]o affirm to be true or genuine; to
+authenticate by signing as a witness”).
+In sum, I am compelled to conclude that the report has a
+“primary purpose of creating an out-of-court substitute for
+trial testimony,” Bryant, 562 U. S., at ___ (slip op., at 11),
+which renders it testimonial.
+B
+After holding that the report was testimonial, the New
+Mexico Supreme Court nevertheless held that its admis­
+sion was permissible under the Confrontation Clause for
+two reasons: because Caylor was a “mere scrivener,” and
+because Razatos could be cross-examined on the workings
+of the gas chromatograph and laboratory procedures. 226
+P. 3d, at 8–10. The Court convincingly explains why those
+——————
+monial purpose. Formality is not the sole indicator of the testimonial
+nature of a statement because it is too easily evaded. See Davis v.
+Washington, 547 U. S. 813, 838 (2006) (THOMAS, J., concurring in
+judgment in part and dissenting in part). Nonetheless formality has
+long been a hallmark of testimonial statements because formality
+suggests that the statement is intended for use at trial. As we ex­
+plained in Bryant, informality, on the other hand, “does not necessarily
+indicate . . . lack of testimonial intent.” 562 U. S., at ___ (slip op., at
+19). The dissent itself recognizes the relevance of formality to the
+testimonial inquiry when it notes the formality of the problematic
+unconfronted statements in Sir Walter Raleigh’s trial. Post, at 7–8
+(opinion of KENNEDY, J.).
+
+

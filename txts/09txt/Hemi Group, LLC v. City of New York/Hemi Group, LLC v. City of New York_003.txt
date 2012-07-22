@@ -1,0 +1,43 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Syllabus
+reports with the State, not the City, and the City’s harm was directly
+caused by the customers, not Hemi. The Court has never before
+stretched the causal chain of a RICO violation so far, and declines to
+do so today. See, e.g., id., at 460–461. Pp. 5–9.
+(b) The City attempts to avoid this conclusion by characterizing the
+violation not merely as Hemi’s failure to file Jenkins Act reports with
+the State, but as a more general systematic scheme to defraud the
+City of tax revenue. But if the City could escape the proximate-cause
+requirement merely by alleging that the fraudulent scheme embraced
+all those indirectly harmed by the alleged conduct, the Court’s RICO
+proximate cause precedent would become a mere pleading rule. That
+precedent makes clear that “the compensable injury flowing from a
+[RICO] violation . . . ‘necessarily is the harm caused by [the] predi
+cate acts.’ ” Anza, supra, at 457. Because the only fraudulent con
+duct alleged here is a violation of the Jenkins Act, the City must, but
+cannot, show that Hemi’s failure to file the Jenkins Act reports led
+directly to its injuries.
+The City also errs in relying on Bridge v. Phoenix Bond & Indem
+nity Co., 553 U. S. ___. There, the plaintiffs’ causation theory was
+“straightforward”: The causal link in Bridge involved a direct and
+easily identifiable connection between the fraud at issue and the
+plaintiffs’ injury, id., at ___; the plaintiffs there “were the only parties
+injured by petitioners’ misrepresentations,” id., at ___; and there
+were “no independent factors that account[ed] for [the] injury,” id., at
+___. The City’s theory in this case is anything but straightfor
+ward: Multiple steps separate the alleged fraud from the asserted in
+jury. And in contrast to Bridge, where there were “no independent
+factors that account[ed] for [the plaintiffs’] injury,” id., at ___, here
+there certainly were: The City’s theory of liability rests on the inde
+pendent actions of third and even fourth parties. Pp. 10–14.
+ROBERTS, C. J., delivered the opinion of the Court in part, in which
+SCALIA, THOMAS, and ALITO, JJ., joined, and in which GINSBURG, J.,
+joined in part. GINSBURG, J., filed an opinion concurring in part and
+concurring in the judgment. BREYER, J., filed a dissenting opinion, in
+which STEVENS and KENNEDY, JJ., joined. SOTOMAYOR, J., took no part
+in the consideration or decision of the case.
+
+

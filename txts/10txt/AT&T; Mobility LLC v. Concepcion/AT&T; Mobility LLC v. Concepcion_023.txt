@@ -1,0 +1,42 @@
+2
+
+AT&T MOBILITY LLC v. CONCEPCION
+THOMAS, J., concurring
+
+agreement, such as by proving fraud or duress. 9 U. S. C.
+§§2, 4. Under this reading, I would reverse the Court of
+Appeals because a district court cannot follow both the
+FAA and the Discover Bank rule, which does not relate to
+defects in the making of an agreement.
+This reading of the text, however, has not been fully
+developed by any party, cf. Brief for Petitioner 41, n. 12,
+and could benefit from briefing and argument in an ap
+propriate case. Moreover, I think that the Court’s test will
+often lead to the same outcome as my textual interpreta
+tion and that, when possible, it is important in interpret
+ing statutes to give lower courts guidance from a majority
+of the Court. See US Airways, Inc. v. Barnett, 535
+U. S. 391, 411 (2002) (O’Connor, J., concurring). Therefore,
+although I adhere to my views on purposes-and-objectives
+pre-emption, see Wyeth v. Levine, 555 U. S. 555, ___ (2009)
+(opinion concurring in judgment), I reluctantly join the
+Court’s opinion.
+I
+The FAA generally requires courts to enforce arbitration
+agreements as written. Section 2 provides that “[a] writ
+ten provision in . . . a contract . . . to settle by arbitration a
+controversy thereafter arising out of such contract . . .
+shall be valid, irrevocable, and enforceable, save upon
+such grounds as exist at law or in equity for the revocation
+of any contract.” Significantly, the statute does not paral
+lel the words “valid, irrevocable, and enforceable” by refer
+encing the grounds as exist for the “invalidation, revoca
+tion, or nonenforcement” of any contract. Nor does the
+statute use a different word or phrase entirely that might
+arguably encompass validity, revocability, and enforce
+ability. The use of only “revocation” and the conspicuous
+omission of “invalidation” and “nonenforcement” suggest
+that the exception does not include all defenses applicable
+to any contract but rather some subset of those defenses.
+
+

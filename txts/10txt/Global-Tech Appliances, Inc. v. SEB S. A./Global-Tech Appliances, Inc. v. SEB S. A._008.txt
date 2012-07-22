@@ -1,0 +1,44 @@
+Cite as: 563 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+§271(a).2 On the other hand, the reference to a party
+that “induces infringement” may also be read to mean that
+the inducer must persuade another to engage in conduct
+that the inducer knows is infringement. Both readings are
+possible.
+B
+Finding no definitive answer in the statutory text, we
+turn to the case law that predates the enactment of §271
+as part the Patent Act of 1952. As we recognized in Aro
+Mfg. Co. v. Convertible Top Replacement Co., 377 U. S. 476
+(1964) (Aro II), “[t]he section was designed to ‘codify in
+statutory form principles of contributory infringement’
+which had been ‘part of our law for about 80 years.’ ” Id.,
+at 485–486, n. 6 (quoting H. R. Rep. No. 1923, 82d Cong.,
+2d Sess., 9 (1952)).
+Unfortunately, the relevant pre-1952 cases are less clear
+than one might hope with respect to the question pre­
+sented here. Before 1952, both the conduct now covered
+by §271(b) (induced infringement) and the conduct now
+addressed by §271(c) (sale of a component of a patented
+invention) were viewed as falling within the overarching
+concept of “contributory infringement.” Cases in the latter
+category—i.e., cases in which a party sold an item that
+was not itself covered by the claims of a patent but that
+enabled another party to make or use a patented machine,
+process, or combination—were more common.
+The pre-1952 case law provides conflicting signals re­
+garding the intent needed in such cases. In an oft-cited
+decision, then-Judge Taft suggested that it was sufficient
+if the seller of the component part intended that the part
+——————
+2 Direct infringement has long been understood to require no more
+than the unauthorized use of a patented invention. See Aro Mfg. Co. v.
+Convertible Top Replacement Co., 377 U. S. 476, 484 (1964); 3 A. Deller,
+Walker on Patents §453, p. 1684 (1937) (hereinafter Deller). Thus, a
+direct infringer’s knowledge or intent is irrelevant.
+
+

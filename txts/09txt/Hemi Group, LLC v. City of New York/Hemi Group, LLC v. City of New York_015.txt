@@ -1,0 +1,43 @@
+12
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+Opinion of the Court
+
+prohibited bidders from using such agents. Ibid.
+A losing bidder alleged that a competitor had defrauded
+the county by employing shadow bidders to secure a
+greater proportion of liens than it was due. We held that
+the bidder-plaintiff had met RICO’s causation require­
+ment. Distinguishing that claim from the one at issue in
+Anza, we noted that the plaintiff’s theory of causation in
+Bridge was “straightforward”: Because of the zero-sum
+nature of the auction, and because the county awarded
+bids on a rotational basis, each time a fraud-induced bid
+was awarded, a particular legitimate bidder was necessar­
+ily passed over. 553 U. S., at ___ (slip op., at 18). The
+losing bidders, moreover, “were the only parties injured by
+petitioners’ misrepresentations.” Ibid. The county was
+not; it received the same revenue regardless of which
+bidder prevailed.
+The City’s theory in this case is anything but straight­
+forward: Multiple steps, as we have detailed, separate the
+alleged fraud from the asserted injury. And in contrast to
+Bridge, where there were “no independent factors that
+account[ed] for [the plaintiff’s] injury,” ibid., here there
+certainly were: The City’s theory of liability rests on the
+independent actions of third and even fourth parties.
+The City at various points during the proceedings below
+described its injury as the lost “opportunity to tax” rather
+than “lost tax revenue.” It is not clear that there is a
+substantive distinction between the two descriptions. In
+any event, before this Court, the City’s argument turned
+on lost revenue, not a lost opportunity to collect it. See,
+e.g., Brief for Respondent i (“Counter-Question Pre­
+sented[:] Does the City of New York have standing under
+RICO because lost tax revenue constitutes a direct injury
+to the City’s ‘business or property’ in accord with the
+statute, 18 U. S. C. §1964(c), and this Court’s authority?”);
+id., at 40 (“[T]he City alleges that it has been injured (the
+loss of tax revenues) by defendants’ RICO violations”).
+
+

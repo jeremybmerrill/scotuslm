@@ -1,0 +1,55 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+CIGNA CORP. ET AL. v. AMARA ET AL., INDIVIDUALLY 
+
+AND ON BEHALF OF ALL OTHERS SIMILARLY SITUATED
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SECOND CIRCUIT
+No. 09–804.
+
+Argued November 30, 2010—Decided May 16, 2011
+
+Until 1998, petitioner CIGNA Corporation’s pension plan provided a
+retiring employee with an annuity based on preretirement salary and
+length of service. Its new plan replaced that annuity with a cash
+balance based on a defined annual contribution from CIGNA, in
+creased by compound interest. The new plan translated already
+earned benefits under the old plan into an opening amount in the
+cash balance account. Respondents, on behalf of beneficiaries of the
+CIGNA Pension Plan (also a petitioner), challenged the new plan’s
+adoption, claiming, as relevant here, that CIGNA’s notice of the
+changes was improper, particularly because the new plan in certain
+respects provided them with less generous benefits. The District
+Court found that CIGNA’s disclosures violated its obligations under
+§§102(a), 104(b), and 204(h) of the Employee Retirement Income Se
+curity Act of 1974 (ERISA). In determining relief, it found that
+CIGNA’s notice defects had caused the employees “likely harm.” It
+then reformed the new plan and ordered CIGNA to pay benefits ac
+cordingly, finding its authority in ERISA §502(a)(1)(B), which author
+izes a plan “participant or beneficiary” to bring a “civil action” to “re
+cover benefits due . . . under the terms of his plan.” The Second
+Circuit affirmed.
+Held:
+1. Although §502(a)(1)(B) did not give the District Court authority
+to reform CIGNA’s plan, relief is authorized by §502(a)(3), which al
+lows a participant, beneficiary, or fiduciary “to obtain other appropri
+ate equitable relief” to redress violations of ERISA “or the [plan’s]
+terms.” Pp. 12–20.
+(a) The court ordered relief in two steps. Step 1: It ordered the
+
+

@@ -1,0 +1,43 @@
+2
+
+HAMILTON v. LANNING
+Opinion of the Court
+
+We granted certiorari to decide how a bankruptcy court
+should calculate a debtor’s “projected disposable income.”
+Some lower courts have taken what the parties term the
+“mechanical approach,” while most have adopted what has
+been called the “forward-looking approach.” We hold that
+the “forward-looking approach” is correct.
+I
+As previously noted, §1325 provides that if a trustee or
+an unsecured creditor objects to a Chapter 13 debtor’s
+plan, a bankruptcy court may not approve the plan unless
+it provides for the full repayment of unsecured claims or
+“provides that all of the debtor’s projected disposable
+income to be received” over the duration of the plan “will
+be applied to make payments” in accordance with the
+terms of the plan. 11 U. S. C. §1325(b)(1); see also
+§1325(b)(1) (2000 ed.). Before the enactment of the Bank­
+ruptcy Abuse Prevention and Consumer Protection Act of
+2005 (BAPCPA), 119 Stat. 23, the Bankruptcy Code (Code)
+loosely defined “disposable income” as “income which is
+received by the debtor and which is not reasonably neces­
+sary to be expended” for the “maintenance or support of
+the debtor,” for qualifying charitable contributions, or for
+business expenditures. §1325(b)(2)(A), (B).
+The Code did not define the term “projected disposable
+income,” and in most cases, bankruptcy courts used a
+mechanical approach in calculating projected disposable
+income. That is, they first multiplied monthly income by
+the number of months in the plan and then determined
+what portion of the result was “excess” or “disposable.”
+See 2 K. Lundin, Chapter 13 Bankruptcy §164.1, p. 164–1,
+and n. 4 (3d ed. 2000) (hereinafter Lundin (2000 ed.))
+(citing cases).
+In exceptional cases, however, bankruptcy courts took
+into account foreseeable changes in a debtor’s income or
+expenses.
+See In re Heath, 182 B. R. 557, 559–561
+
+

@@ -1,0 +1,51 @@
+2
+
+ABBOTT v. UNITED STATES
+Syllabus
+
+Held: A defendant is subject to the highest mandatory minimum speci
+fied for his conduct in §924(c), unless another provision of law di
+rected to conduct proscribed by §924(c) imposes an even greater
+mandatory minimum. Pp. 5–18.
+(a) Section 924(c) was enacted as part of the Gun Control Act of
+1968, but the “except” clause was not added until 1998. Under the
+pre-1998 text, it is undisputed, separate counts of conviction did not
+preempt §924(c) sentences, and Abbott and Gould would have been
+correctly sentenced under §924(c). The question here is whether
+Congress’ 1998 reformulation of §924(c) rendered their sentences ex
+cessive. The 1998 alteration responded primarily to Bailey v. United
+States, 516 U. S. 137, which held that §924(c)(1)’s ban on “use” of a
+firearm did not reach “mere possession” of a weapon, id., at 144. In
+addition to bringing possession within the statute’s compass, Con
+gress increased the severity of §924(c) sentences by changing “once
+mandatory sentences into mandatory minimum sentences,” United
+States v. O’Brien, 560 U. S. ___, ___, and by elevating the sentences
+for brandishing and discharging a firearm and for repeat offenses.
+Congress also restructured the provision, “divid[ing] what was once a
+lengthy principal sentence into separate subparagraphs,” id., at ___,
+and it added the “except” clause at issue. Pp. 5–8.
+(b) The leading portion of the “except” clause now prefacing
+§924(c)(1)(A) refers to a “greater minimum sentence . . . otherwise
+provided by [§924(c) itself]”; the second segment of the clause refers
+to a greater minimum provided outside §924(c) “by any other provi
+sion of law.” To determine whether a greater minimum sentence is
+“otherwise provided . . . by any other provision of law,” the key ques
+tion is: otherwise provided for what? Most courts have answered: for
+the conduct §924(c) proscribes, i.e., possessing a firearm in connection
+with a predicate crime.
+Abbott and Gould disagree. Gould would apply the “except” clause
+whenever any count of conviction at sentencing requires a greater
+minimum sentence. Abbott argues that the minimum sentence “oth
+erwise provided” must be one imposed for the criminal transaction
+that triggered §924(c) or, in the alternative, for a firearm offense in
+volving the same firearm that triggered §924(c). These three inter
+pretations share a common, but implausible, premise: that Congress
+in 1998 adopted a less aggressive mode of applying §924(c), one that
+significantly reduced the severity of the provision’s impact on defen
+dants. The pre-1998 version of §924(c) prescribed a discrete sentence
+to be imposed on top of the sentence received for the predicate crime
+or any separate firearm conviction. It is unlikely that Congress
+meant a prefatory clause, added in a bill dubbed “An Act [t]o throttle
+criminal use of guns,” to effect a departure so great from §924(c)’s
+
+

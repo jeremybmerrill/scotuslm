@@ -1,0 +1,44 @@
+Cite as: 562 U. S. ____ (2011)
+
+7
+
+BREYER, J., dissenting
+
+In other Exemption 2 cases, where withholding may
+seem less reasonable, the courts have ordered disclosure.
+Cf. ante, at 16, n. 9 (citing Audubon Society v. Forest Serv.,
+104 F. 3d 1201, 1203 (CA10 1997), and Maricopa Audubon
+Soc. v. Forest Serv., 108 F. 3d 1082, 1084 (CA9 1997)). See
+generally FOIA Guide 201, and n. 106 (citing nine deci
+sions applying the Crooker approach but nonetheless
+requiring disclosure).
+The majority acknowledges that “our decision today
+upsets three decades of agency practice relying on Crooker,
+and therefore may force considerable adjustments.” Ante,
+at 18. But how are these adjustments to be made? Should
+the Government rely upon other exemptions to provide the
+protection it believes necessary? As JUSTICE ALITO notes,
+Exemption 7 applies where the documents consist of “re
+cords or information compiled for law enforcement pur
+poses” and release would, e.g., “disclose techniques and
+procedures for law enforcement investigations,” or “could
+reasonably be expected to endanger the life or physical
+safety of any individual.” 5 U. S. C. §552(b)(7). But what
+about information that is not compiled for law enforce
+ment purposes, such as building plans, computer pass
+words, credit card numbers, or safe deposit combinations?
+The Government, which has much experience litigating
+FOIA cases, warns us that Exemption 7 “targets only a
+subset of the important agency functions that may be
+circumvented.” Brief for Respondent 52–53. Today’s
+decision only confirms this point, as the Court’s insistence
+on narrow construction might persuade judges to avoid
+reading Exemption 7 broadly enough to provide Crooker
+type protection.
+The majority suggests that the Government can classify
+documents that should remain private. Ante, at 18. See 5
+U. S. C. §552(b)(1) (permitting withholding of material
+“properly classified” as authorized to be “kept secret in the
+interest of national defense or foreign policy”). But classi
+
+

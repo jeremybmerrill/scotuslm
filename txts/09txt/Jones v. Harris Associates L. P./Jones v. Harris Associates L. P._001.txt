@@ -1,0 +1,53 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+JONES ET AL. v. HARRIS ASSOCIATES L. P.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SEVENTH CIRCUIT
+No. 08–586.
+
+Argued November 2, 2009—Decided March 30, 2010
+
+Petitioners, shareholders in mutual funds managed by respondent in
+vestment adviser, filed this suit alleging that respondent violated
+§36(b)(1) of the Investment Company Act of 1940, which imposes a
+“fiduciary duty [on investment advisers] with respect to the receipt of
+compensation for services,” 15 U. S. C. §80a–35(b). Granting respon
+dent summary judgment, the District Court concluded that petition
+ers had not raised a triable issue of fact under the applicable stan
+dard set forth in Gartenberg v. Merrill Lynch Asset Management, Inc.,
+694 F. 2d 923, 928 (CA2): “[T]he test is essentially whether the fee
+schedule represents a charge within the range of what would have
+been negotiated at arm’s-length in light of all of the surrounding cir
+cumstances. . . . To be guilty of a violation of §36(b), . . . the adviser
+must charge a fee that is so disproportionately large it bears no rea
+sonable relationship to the services rendered and could not have been
+the product of arm’s length bargaining.” Rejecting the Gartenberg
+standard, the Seventh Circuit panel affirmed based on different rea
+soning.
+Held: Based on §36(b)’s terms and the role that a shareholder action for
+breach of the investment adviser’s fiduciary duty plays in the Act’s
+overall structure, Gartenberg applied the correct standard. Pp. 7–17.
+(a) A consensus has developed regarding the standard Gartenberg
+set forth over 25 years ago: The standard has been adopted by other
+federal courts, and the Securities and Exchange Commission’s regu
+lations have recognized, and formalized, Gartenberg-like factors. Both
+petitioners and respondents generally endorse the Gartenberg ap
+proach but disagree in some respects about its meaning. Pp. 7–9.
+(b) Section 36(b)’s “fiduciary duty” phrase finds its meaning in Pep
+per v. Linton, 308 U. S. 295, 306–307, where the Court discussed the
+
+

@@ -1,0 +1,114 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+ASHCROFT v. AL-KIDD
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–98. Argued March 2, 2011—Decided May 31, 2011
+Respondent al-Kidd alleges that, after the September 11th terrorist
+attacks, then-Attorney General Ashcroft authorized federal officials
+to detain terrorism suspects using the federal material-witness stat
+ute, 18 U. S. C. §3144. He claims that this pretextual detention pol
+icy led to his material-witness arrest as he was boarding a plane to
+Saudi Arabia. To secure the warrant, federal officials had told a
+Magistrate Judge that information “crucial” to Sami Omar alHussayen’s prosecution would be lost if al-Kidd boarded his flight.
+Prosecutors never called al-Kidd as a witness, and (as he alleges)
+never meant to do so. Al-Kidd filed suit pursuant to Bivens v. Six
+Unknown Fed. Narcotics Agents, 403 U. S. 388, challenging the con
+stitutionality of Ashcroft’s alleged policy. The District Court denied
+Ashcroft’s motion to dismiss on absolute and qualified immunity
+grounds. The Ninth Circuit affirmed, holding that the Fourth
+Amendment prohibits pretextual arrests absent probable cause of
+criminal wrongdoing, and that Ashcroft could not claim qualified or
+absolute immunity.
+Held:
+1. The objectively reasonable arrest and detention of a material
+witness pursuant to a validly obtained warrant cannot be challenged
+as unconstitutional on the basis of allegations that the arresting au
+thority had an improper motive. Pp. 3–9.
+(a) Qualified immunity shields a government official from money
+damages unless (1) the official violated a statutory or constitutional
+right, and (2) that right was “clearly established” at the time of the
+challenged conduct. Harlow v. Fitzgerald, 457 U. S. 800, 818.
+Where, as here, a court considers both prongs of this inquiry, this
+
+
+2
+
+ASHCROFT v. AL-KIDD
+Syllabus
+Court has the discretion to correct the lower court’s errors at each
+step. P. 3.
+(b) Whether a detention is reasonable under the Fourth Amend
+ment “is predominantly an objective inquiry.” Indianapolis v. Ed
+mond, 531 U. S. 32, 47. Courts ask whether “the circumstances,
+viewed objectively, justify [the challenged] action.” Scott v. United
+States, 436 U. S. 128, 138. Except for cases that involve special
+needs, e.g., Vernonia School Dist. 47J v. Acton, 515 U. S. 646, 653, or
+administrative searches, e.g., Michigan v. Clifford, 464 U. S. 287,
+294, this Court has almost uniformly rejected invitations to probe
+subjective intent. The Court of Appeals was mistaken in believing
+that Edmond established that “ ‘programmatic purpose’ is relevant to
+Fourth Amendment analysis of programs of seizures without prob
+able cause.” 580 F. 3d 949, 968. It was not the absence of probable
+cause that triggered Edmond’s invalidating-purpose inquiry, but the
+checkpoints’ failure to be based on “individualized suspicion.” 531
+U. S., at 47. Here a neutral Magistrate Judge issued a warrant au
+thorizing al-Kidd’s arrest, and the affidavit accompanying the war
+rant application gave individualized reasons to believe that he was a
+material witness who would soon disappear. A warrant based on in
+dividualized suspicion grants more protection than existed in most of
+this Court’s cases eschewing inquiries into intent, e.g., Whren v.
+United States, 517 U. S. 806, 813, and Terry v. Ohio, 392 U. S. 1, 21–
+22. Al-Kidd’s contrary, narrow reading of those cases is rejected. Be
+cause he concedes that individualized suspicion supported the issu
+ance of the material-witness arrest warrant; and does not assert that
+his arrest would have been unconstitutional absent the alleged pre
+text; there is no Fourth Amendment violation here. Pp. 3–9.
+2. Ashcroft did not violate clearly established law and thus is enti
+tled to qualified immunity. A Government official’s conduct violates
+clearly established law when, at the time of the challenged conduct,
+“[t]he contours of [a] right [are] sufficiently clear” that every “reason
+able official would have understood that what he is doing violates
+that right.” Anderson v. Creighton, 483 U. S. 635, 640. Here, the as
+serted constitutional right falls far short of that threshold. At the
+time of al-Kidd’s arrest, not a single judicial opinion had held that
+pretext could render an objectively reasonable arrest pursuant to a
+material-witness warrant unconstitutional. The Ninth Circuit’s reli
+ance on a District Court’s footnoted dictum, irrelevant cases from this
+Court, and the Fourth Amendment’s broad purposes and history is
+rejected. Because Ashcroft did not violate clearly established law, the
+question whether he enjoys absolute immunity need not be ad
+dressed. Pp. 9–12.
+
+580 F. 3d 949, reversed and remanded.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Syllabus
+SCALIA, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and KENNEDY, THOMAS, and ALITO, JJ., joined. KENNEDY, J., filed
+a concurring opinion, in which GINSBURG, BREYER, and SOTOMAYOR, JJ.,
+joined as to Part I. GINSBURG, J., filed an opinion concurring in the
+judgment, in which BREYER and SOTOMAYOR, JJ., joined. SOTOMAYOR,
+J., filed an opinion concurring in the judgment, in which GINSBURG and
+BREYER, JJ., joined. KAGAN, J., took no part in the consideration or de
+cision of the case.
+
+

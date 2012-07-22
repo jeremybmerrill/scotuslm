@@ -1,0 +1,643 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–1001
+_________________
+
+LUIS MARIANO MARTINEZ, PETITIONER v.
+
+CHARLES L. RYAN, DIRECTOR, ARIZONA
+
+DEPARTMENT OF CORRECTIONS 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[March 20, 2012]
+
+
+JUSTICE KENNEDY delivered the opinion of the Court.
+The State of Arizona does not permit a convicted person
+alleging ineffective assistance of trial counsel to raise that
+claim on direct review. Instead, the prisoner must bring
+the claim in state collateral proceedings. In the instant
+case, however, petitioner’s postconviction counsel did not
+raise the ineffective-assistance claim in the first collateral
+proceeding, and, indeed, filed a statement that, after
+reviewing the case, she found no meritorious claims help­
+ful to petitioner. On federal habeas review, and with new
+counsel, petitioner sought to argue he had received ineffec­
+tive assistance of counsel at trial and in the first phase of
+his state collateral proceeding. Because the state collat­
+eral proceeding was the first place to challenge his conviction on grounds of ineffective assistance, petitioner
+maintained he had a constitutional right to an effective
+attorney in the collateral proceeding. While petitioner
+frames the question in this case as a constitutional one, a
+more narrow, but still dispositive, formulation is whether
+a federal habeas court may excuse a procedural default of
+
+
+2
+
+MARTINEZ v. RYAN
+Opinion of the Court
+
+an ineffective-assistance claim when the claim was not
+properly presented in state court due to an attorney’s
+errors in an initial-review collateral proceeding.
+I
+A jury convicted petitioner, Luis Mariano Martinez, of
+two counts of sexual conduct with a minor under the age
+of 15. The prosecution introduced a videotaped forensic
+interview with the victim, Martinez’s 11-year-old step­
+daughter. It also put in evidence the victim’s nightgown,
+with traces of Martinez’s DNA. As part of his defense,
+Martinez introduced evidence of the victim’s recantations,
+including testimony from the victim’s grandmother and
+mother and a second videotaped interview in which the
+victim denied any abuse. The victim also denied any
+abuse when she testified at trial. App. to Pet. for Cert.
+38a–39a. To explain the inconsistencies, a prosecution
+expert testified that recantations of child-abuse accusa­
+tions are caused often by reluctance on the part of the
+victim’s mother to lend support to the child’s claims. Pet.
+for Cert. 3. After considering the conflicting evidence, the
+jury convicted Martinez. He was sentenced to two consec­
+utive terms of life imprisonment with no possibility of
+parole for 35 years. App. to Pet. for Cert. 39a.
+The State appointed a new attorney to represent Mar­
+tinez in his direct appeal. Ibid.; Pet. for Cert. 4. She
+made numerous arguments on Martinez’s behalf, includ­
+ing a claim that the evidence was insufficient and that
+newly discovered evidence warranted a new trial. App. to
+Pet. for Cert. 39a. Arizona law, however, did not permit
+her to argue on direct appeal that trial counsel was inef­
+fective. State v. Spreitz, 202 Ariz. 1, 3, 39 P. 3d 525, 527
+(2002). Arizona instead requires claims of ineffective
+assistance at trial to be reserved for state collateral
+proceedings.
+While Martinez’s direct appeal was pending, the attor­
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+ney began a state collateral proceeding by filing a “Notice
+of Post-Conviction Relief.” Martinez v. Schriro, 623 F. 3d
+731, 733–734 (CA9 2010); Ariz. Rule Crim. Proc. 32.4(a)
+(2011). Despite initiating this proceeding, counsel made
+no claim trial counsel was ineffective and later filed a
+statement asserting she could find no colorable claims at
+all. 623 F. 3d, at 734. Cf. State v. Smith, 184 Ariz. 456,
+459, 910 P. 2d 1, 4 (1996).
+The state trial court hearing the collateral proceeding
+gave Martinez 45 days to file a pro se petition in support of
+postconviction relief and to raise any claims he believed
+his counsel overlooked. 623 F. 3d, at 734; see Smith,
+supra, at 459, 910 P. 2d, at 4. Martinez did not respond.
+He later alleged that he was unaware of the ongoing col­
+lateral proceedings and that counsel failed to advise him
+of the need to file a pro se petition to preserve his rights.
+The state trial court dismissed the action for postconvic­
+tion relief, in effect affirming counsel’s determination that
+Martinez had no meritorious claims. 623 F. 3d, at 734.
+The Arizona Court of Appeals affirmed Martinez’s convic­
+tion, and the Arizona Supreme Court denied review. Id.,
+at 733.
+About a year and a half later, Martinez, now represent­
+ed by new counsel, filed a second notice of postconviction
+relief in the Arizona trial court. Id., at 734. Martinez
+claimed his trial counsel had been ineffective for failing to
+challenge the prosecution’s evidence. He argued, for ex­
+ample, that his trial counsel should have objected to the
+expert testimony explaining the victim’s recantations or
+should have called an expert witness in rebuttal. Mar­
+tinez also faulted trial counsel for not pursuing an excul­
+patory explanation for the DNA on the nightgown. App. to
+Brief in Opposition B–6 to B–12. Martinez’s petition was
+dismissed, in part in reliance on an Arizona Rule barring
+relief on a claim that could have been raised in a previous
+collateral proceeding. Id., at B–27; see Ariz. Rule Crim.
+
+
+4
+
+MARTINEZ v. RYAN
+Opinion of the Court
+
+Proc. 32.2(a)(3). Martinez, the theory went, should have
+asserted the claims of ineffective assistance of trial coun­
+sel in his first notice for postconviction relief. The Arizona
+Court of Appeals agreed. It denied Martinez relief be­
+cause he failed to raise his claims in the first collateral
+proceeding. 623 F. 3d, at 734. The Arizona Supreme
+Court declined to review Martinez’s appeal.
+Martinez then sought relief in United States District
+Court for the District of Arizona, where he filed a petition
+for a writ of habeas corpus, again raising the ineffective­
+assistance-of-trial-counsel claims. Martinez acknowledged
+the state courts denied his claims by relying on a well­
+established state procedural rule, which, under the doc­
+trine of procedural default, would prohibit a federal court
+from reaching the merits of the claims. See, e.g., Wainwright v. Sykes, 433 U. S. 72, 84–85, 90–91 (1977). He
+could overcome this hurdle to federal review, Martinez
+argued, because he had cause for the default: His first
+postconviction counsel was ineffective in failing to raise
+any claims in the first notice of postconviction relief and in
+failing to notify Martinez of her actions. See id., at 84–85.
+On the Magistrate Judge’s recommendation, the District
+Court denied the petition, ruling that Arizona’s preclusion
+rule was an adequate and independent state-law ground
+to bar federal review. App. to Pet. for Cert. 36a. Martinez
+had not shown cause to excuse the procedural default,
+the District Court reasoned, because under Coleman v.
+Thompson, 501 U. S. 722, 753–754 (1991), an attorney’s
+errors in a postconviction proceeding do not qualify as
+cause for a default. See id., at 754–755.
+The Court of Appeals for the Ninth Circuit affirmed.
+The Court of Appeals relied on general statements in
+Coleman that, absent a right to counsel in a collateral
+proceeding, an attorney’s errors in the proceeding do not
+establish cause for a procedural default. Expanding on
+the District Court’s opinion, the Court of Appeals, citing
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+Opinion of the Court
+
+Coleman, noted the general rule that there is no constitu­
+tional right to counsel in collateral proceedings. 623 F. 3d,
+at 736. The Court of Appeals recognized that Coleman
+reserved ruling on whether there is “an exception” to this
+rule in those cases “where ‘state collateral review is the
+first place a prisoner can present a challenge to his convic­
+tion.’ ” 623 F. 3d, at 736 (quoting Coleman, supra, at 755).
+It concluded, nevertheless, that the controlling cases
+established no basis for the exception. Certiorari was
+granted. 563 U. S. ___ (2011).
+II
+Coleman v. Thompson, supra, left open, and the Court of
+Appeals in this case addressed, a question of constitution­
+al law: whether a prisoner has a right to effective counsel
+in collateral proceedings which provide the first occasion
+to raise a claim of ineffective assistance at trial. These
+proceedings can be called, for purposes of this opinion,
+“initial-review collateral proceedings.” Coleman had suggested, though without holding, that the Constitution
+may require States to provide counsel in initial-review
+collateral proceedings because “in [these] cases . . . state
+collateral review is the first place a prisoner can present a
+challenge to his conviction.” Id., at 755. As Coleman
+noted, this makes the initial-review collateral proceeding a
+prisoner’s “one and only appeal” as to an ineffective­
+assistance claim, id., at 756 (emphasis deleted; internal
+quotation marks omitted), and this may justify an excep­
+tion to the constitutional rule that there is no right to
+counsel in collateral proceedings. See id., at 755; Douglas
+v. California, 372 U. S. 353, 357 (1963) (holding States
+must appoint counsel on a prisoner’s first appeal).
+This is not the case, however, to resolve whether that
+exception exists as a constitutional matter. The precise question here is whether ineffective assistance in an
+initial-review collateral proceeding on a claim of ineffective
+
+
+6
+
+MARTINEZ v. RYAN
+Opinion of the Court
+
+assistance at trial may provide cause for a procedural
+default in a federal habeas proceeding. To protect prison­
+ers with a potentially legitimate claim of ineffective assis­
+tance of trial counsel, it is necessary to modify the unqual­
+ified statement in Coleman that an attorney’s ignorance
+or inadvertence in a postconviction proceeding does not
+qualify as cause to excuse a procedural default. This
+opinion qualifies Coleman by recognizing a narrow excep­
+tion: Inadequate assistance of counsel at initial-review
+collateral proceedings may establish cause for a prisoner’s
+procedural default of a claim of ineffective assistance at
+trial.
+A
+Federal habeas courts reviewing the constitutionality of
+a state prisoner’s conviction and sentence are guided by
+rules designed to ensure that state-court judgments are
+accorded the finality and respect necessary to preserve the
+integrity of legal proceedings within our system of federal­
+ism. These rules include the doctrine of procedural de­
+fault, under which a federal court will not review the
+merits of claims, including constitutional claims, that a
+state court declined to hear because the prisoner failed to
+abide by a state procedural rule. See, e.g., Coleman, supra, at 747–748; Sykes, supra, at 84–85. A state court’s
+invocation of a procedural rule to deny a prisoner’s claims
+precludes federal review of the claims if, among other
+requisites, the state procedural rule is a nonfederal
+ground adequate to support the judgment and the rule is
+firmly established and consistently followed. See, e.g.,
+Walker v. Martin, 562 U. S. ___, ___ (2011) (slip op., at 7–
+8); Beard v. Kindler, 558 U. S. ___, ___ (2009) (slip op., at
+7). The doctrine barring procedurally defaulted claims
+from being heard is not without exceptions. A prisoner
+may obtain federal review of a defaulted claim by showing
+cause for the default and prejudice from a violation of
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+Opinion of the Court
+
+federal law. See Coleman, 501 U. S., at 750. There is no
+dispute that Arizona’s procedural bar on successive peti­
+tions is an independent and adequate state ground. Thus,
+a federal court can hear Martinez’s ineffective-assistance
+claim only if he can establish cause to excuse the proce­
+dural default.
+Coleman held that “[n]egligence on the part of a prison­
+er’s postconviction attorney does not qualify as ‘cause.’ ”
+Maples v. Thomas, 565 U. S ___, ___ (2011) (slip op., at
+12). Coleman reasoned that “because the attorney is the
+prisoner’s agent . . . under ‘well-settled principles of agen­
+cy law,’ the principal bears the risk of negligent conduct on
+the part of his agent.” Maples, supra, at ___ (slip op., at
+12).
+Coleman, however, did not present the occasion to apply
+this principle to determine whether attorney errors in
+initial-review collateral proceedings may qualify as cause
+for a procedural default. The alleged failure of counsel in
+Coleman was on appeal from an initial-review collateral
+proceeding, and in that proceeding the prisoner’s claims
+had been addressed by the state habeas trial court. See
+501 U. S., at 755.
+As Coleman recognized, this marks a key difference
+between initial-review collateral proceedings and other
+kinds of collateral proceedings. When an attorney errs in
+initial-review collateral proceedings, it is likely that no
+state court at any level will hear the prisoner’s claim.
+This Court on direct review of the state proceeding could
+not consider or adjudicate the claim. See, e.g., Fox Film
+Corp. v. Muller, 296 U. S. 207 (1935); Murdock v. Memphis, 20 Wall. 590 (1875); cf. Coleman, supra, at 730–731.
+And if counsel’s errors in an initial-review collateral pro­
+ceeding do not establish cause to excuse the procedural
+default in a federal habeas proceeding, no court will re­
+view the prisoner’s claims.
+The same is not true when counsel errs in other kinds of
+
+
+8
+
+MARTINEZ v. RYAN
+Opinion of the Court
+
+postconviction proceedings. While counsel’s errors in
+these proceedings preclude any further review of the
+prisoner’s claim, the claim will have been addressed by
+one court, whether it be the trial court, the appellate court
+on direct review, or the trial court in an initial-review
+collateral proceeding. See, e.g., Coleman, supra, at 756.
+Where, as here, the initial-review collateral proceeding
+is the first designated proceeding for a prisoner to raise a
+claim of ineffective assistance at trial, the collateral pro­
+ceeding is in many ways the equivalent of a prisoner’s
+direct appeal as to the ineffective-assistance claim. This
+is because the state habeas court “looks to the merits of
+the clai[m]” of ineffective assistance, no other court has
+addressed the claim, and “defendants pursuing first-tier
+review . . . are generally ill equipped to represent them­
+selves” because they do not have a brief from counsel or an
+opinion of the court addressing their claim of error. Halbert v. Michigan, 545 U. S. 605, 617 (2005); see Douglas,
+372 U. S., at 357–358.
+As Coleman recognized, an attorney’s errors during an
+appeal on direct review may provide cause to excuse a
+procedural default; for if the attorney appointed by the
+State to pursue the direct appeal is ineffective, the prison­
+er has been denied fair process and the opportunity to
+comply with the State’s procedures and obtain an adjudi­
+cation on the merits of his claims. See 501 U. S., at 754;
+Evitts v. Lucey, 469 U. S. 387, 396 (1985); Douglas, supra,
+at 357–358. Without the help of an adequate attorney,
+a prisoner will have similar difficulties vindicating a
+substantial ineffective-assistance-of-trial-counsel claim.
+Claims of ineffective assistance at trial often require
+investigative work and an understanding of trial strategy.
+When the issue cannot be raised on direct review, moreover, a prisoner asserting an ineffective-assistance-of-trial­
+counsel claim in an initial-review collateral proceeding
+cannot rely on a court opinion or the prior work of an
+
+
+Cite as: 566 U. S. ____ (2012)
+
+9
+
+Opinion of the Court
+
+attorney addressing that claim. Halbert, 545 U. S., at 619.
+To present a claim of ineffective assistance at trial in
+accordance with the State’s procedures, then, a prisoner
+likely needs an effective attorney.
+The same would be true if the State did not appoint an
+attorney to assist the prisoner in the initial-review collat­
+eral proceeding. The prisoner, unlearned in the law, may
+not comply with the State’s procedural rules or may mis­
+apprehend the substantive details of federal constitutional
+law. Cf., e.g., id., at 620–621 (describing the educational
+background of the prison population). While confined to
+prison, the prisoner is in no position to develop the eviden­
+tiary basis for a claim of ineffective assistance, which often
+turns on evidence outside the trial record.
+A prisoner’s inability to present a claim of trial error is
+of particular concern when the claim is one of ineffective
+assistance of counsel. The right to the effective assistance
+of counsel at trial is a bedrock principle in our justice
+system. It is deemed as an “obvious truth” the idea that
+“any person haled into court, who is too poor to hire a
+lawyer, cannot be assured a fair trial unless counsel is
+provided for him.” Gideon v. Wainwright, 372 U. S. 335,
+344 (1963). Indeed, the right to counsel is the foundation
+for our adversary system. Defense counsel tests the pros­
+ecution’s case to ensure that the proceedings serve the
+function of adjudicating guilt or innocence, while protect­
+ing the rights of the person charged. See, e.g., Powell v.
+Alabama, 287 U. S. 45, 68–69 (1932) (“[The defendant]
+requires the guiding hand of counsel at every step in the
+proceedings against him. Without it, though he be not
+guilty, he faces the danger of conviction because he does
+not know how to establish his innocence”). Effective trial
+counsel preserves claims to be considered on appeal, see,
+e.g., Fed. Rule Crim. Proc. 52(b), and in federal habeas
+proceedings, Edwards v. Carpenter, 529 U. S. 446 (2000).
+This is not to imply the State acted with any impropri­
+
+
+10
+
+MARTINEZ v. RYAN
+Opinion of the Court
+
+ety by reserving the claim of ineffective assistance for a
+collateral proceeding. See Massaro v. United States, 538
+U. S. 500, 505 (2003). Ineffective-assistance claims often
+depend on evidence outside the trial record. Direct ap­
+peals, without evidentiary hearings, may not be as effec­
+tive as other proceedings for developing the factual basis
+for the claim. Ibid. Abbreviated deadlines to expand the
+record on direct appeal may not allow adequate time for
+an attorney to investigate the ineffective-assistance claim.
+See Primus, Structural Reform in Criminal Defense, 92
+Cornell L. Rev. 679, 689, and n. 57 (2004) (most rules give
+between 5 and 30 days from the time of conviction to file a
+request to expand the record on appeal). Thus, there are
+sound reasons for deferring consideration of ineffective­
+assistance-of-trial-counsel claims until the collateral­
+review stage, but this decision is not without consequences
+for the State’s ability to assert a procedural default in
+later proceedings. By deliberately choosing to move trial­
+ineffectiveness claims outside of the direct-appeal process,
+where counsel is constitutionally guaranteed, the State
+significantly diminishes prisoners’ ability to file such
+claims. It is within the context of this state procedural
+framework that counsel’s ineffectiveness in an initial­
+review collateral proceeding qualifies as cause for a proce­
+dural default.
+The rules for when a prisoner may establish cause to
+excuse a procedural default are elaborated in the exercise
+of the Court’s discretion. McCleskey v. Zant, 499 U. S.
+467, 490 (1991); see also Coleman, supra, at 730–731;
+Sykes, 433 U. S., at 83; Reed v. Ross, 468 U. S. 1, 9 (1984);
+Fay v. Noia, 372 U. S. 391, 430 (1963), overruled in part
+by Sykes, supra. These rules reflect an equitable judg­
+ment that only where a prisoner is impeded or obstructed
+in complying with the State’s established procedures will a
+federal habeas court excuse the prisoner from the usual
+sanction of default. See, e.g., Strickler v. Greene, 527 U. S.
+
+
+Cite as: 566 U. S. ____ (2012)
+
+11
+
+Opinion of the Court
+
+263, 289 (1999); Reed, supra, at 16. Allowing a federal
+habeas court to hear a claim of ineffective assistance of
+trial counsel when an attorney’s errors (or the absence of
+an attorney) caused a procedural default in an initial­
+review collateral proceeding acknowledges, as an equitable
+matter, that the initial-review collateral proceeding, if
+undertaken without counsel or with ineffective counsel,
+may not have been sufficient to ensure that proper consid­
+eration was given to a substantial claim. From this it
+follows that, when a State requires a prisoner to raise an
+ineffective-assistance-of-trial-counsel claim in a collateral
+proceeding, a prisoner may establish cause for a default of
+an ineffective-assistance claim in two circumstances. The
+first is where the state courts did not appoint counsel in
+the initial-review collateral proceeding for a claim of inef­
+fective assistance at trial. The second is where appointed
+counsel in the initial-review collateral proceeding, where
+the claim should have been raised, was ineffective under
+the standards of Strickland v. Washington, 466 U. S. 668
+(1984). To overcome the default, a prisoner must also
+demonstrate that the underlying ineffective-assistance-of­
+trial-counsel claim is a substantial one, which is to say
+that the prisoner must demonstrate that the claim has
+some merit. Cf. Miller-El v. Cockrell, 537 U. S. 322 (2003)
+(describing standards for certificates of appealability to
+issue).
+Most jurisdictions have in place procedures to ensure
+counsel is appointed for substantial ineffective-assistance
+claims. Some States, including Arizona, appoint counsel
+in every first collateral proceeding. See, e.g., Alaska Stat.
+18.85.100(c) (2010); Ariz. Rule Crim. Proc. 32.4(c)(2)
+(2011); Conn. Gen. Stat. §51–296(a) (2011); Me. Rules
+Crim. Proc. 69, 70(c) (2010); N. C. Gen. Stat. Ann. §7A–
+451(a)(2) (2009); N. J. Ct. Rule 3:22–6(b) (2012); R. I. Gen.
+Laws §10–9.1–5 (Lexis 1997); Tenn. Code Ann. §8–14–205
+(2011). Some States appoint counsel if the claims require
+
+
+12
+
+MARTINEZ v. RYAN
+Opinion of the Court
+
+an evidentiary hearing, as claims of ineffective assistance
+often do. See, e.g., Ky. Rule Crim. Proc. 11.42(5) (2011);
+La. Code Crim. Proc. Ann., Art. 930.7(C) (West 2008);
+Mich. Rule Crim. Proc. 6.505(A) (2011); S. C. Rule Civ.
+Proc. 71.1(d) (2011). Other States appoint counsel if the
+claims have some merit to them or the state habeas trial
+court deems the record worthy of further development.
+See, e.g., Ark. Rule Crim. Proc. 37.3(b) (2011); Colo. Rule
+Crim. Proc. 35(b) (2011); Del. Super. Ct. Rule Crim. Proc.
+61(e)(1) (2011); Indiana Rule Post-Conviction Remedies
+Proc. 1, §9(a) (rev. 2011); Kan. Stat. Ann. §22–4506 (2007);
+N. M. Dist. Ct. Rule Crim. Proc. 5–802 (2011); Hust v.
+State, 147 Idaho 682, 683–684, 214 P. 3d 668, 669–670
+(2009); Hardin v. Arkansas, 350 Ark. 299, 301, 86 S. W. 3d
+384, 385 (2007) (per curiam); Jensen v. State, 2004 ND
+200, ¶13, 688 N. W. 2d 374, 378; Wu v. United States, 798
+A. 2d 1083, 1089 (D. C. 2002); Kostal v. People, 167 Colo.
+317, 447 P. 2d 536 (1968). It is likely that most of the
+attorneys appointed by the courts are qualified to perform, and do perform, according to prevailing professional
+norms; and, where that is so, the States may enforce a
+procedural default in federal habeas proceedings.
+B
+This limited qualification to Coleman does not implicate
+the usual concerns with upsetting reliance interests pro­
+tected by stare decisis principles. Cf., e.g., Montejo v.
+Louisiana, 556 U. S. 778, 792–793 (2009). Coleman held
+that an attorney’s negligence in a postconviction proceed­
+ing does not establish cause, and this remains true except
+as to initial-review collateral proceedings for claims of
+ineffective assistance of counsel at trial. Coleman itself
+did not involve an occasion when an attorney erred in an
+initial-review collateral proceeding with respect to a claim
+of ineffective trial counsel; and in the 20 years since Coleman was decided, we have not held Coleman applies in
+
+
+Cite as: 566 U. S. ____ (2012)
+
+13
+
+Opinion of the Court
+
+circumstances like this one.
+The holding here ought not to put a significant strain on
+state resources. When faced with the question whether
+there is cause for an apparent default, a State may answer
+that the ineffective-assistance-of-trial-counsel claim is in­
+substantial, i.e., it does not have any merit or that it is
+wholly without factual support, or that the attorney in the
+initial-review collateral proceeding did not perform below
+constitutional standards.
+This is but one of the differences between a constitu­
+tional ruling and the equitable ruling of this case. A
+constitutional ruling would provide defendants a free­
+standing constitutional claim to raise; it would require the
+appointment of counsel in initial-review collateral proceed­
+ings; it would impose the same system of appointing coun­
+sel in every State; and it would require a reversal in all
+state collateral cases on direct review from state courts if
+the States’ system of appointing counsel did not conform to
+the constitutional rule. An equitable ruling, by contrast,
+permits States a variety of systems for appointing counsel
+in initial-review collateral proceedings. And it permits a
+State to elect between appointing counsel in initial-review
+collateral proceedings or not asserting a procedural de­
+fault and raising a defense on the merits in federal habeas
+proceedings. In addition, state collateral cases on direct
+review from state courts are unaffected by the ruling in
+this case.
+The rule of Coleman governs in all but the limited cir­
+cumstances recognized here. The holding in this case does
+not concern attorney errors in other kinds of proceedings,
+including appeals from initial-review collateral proceed­
+ings, second or successive collateral proceedings, and
+petitions for discretionary review in a State’s appellate
+courts. See 501 U. S., at 754; Carrier, 477 U. S., at 488. It
+does not extend to attorney errors in any proceeding be­
+yond the first occasion the State allows a prisoner to raise
+
+
+14
+
+MARTINEZ v. RYAN
+Opinion of the Court
+
+a claim of ineffective assistance at trial, even though that
+initial-review collateral proceeding may be deficient for
+other reasons.
+In addition, the limited nature of the qualification to
+Coleman adopted here reflects the importance of the right
+to the effective assistance of trial counsel and Arizona’s
+decision to bar defendants from raising ineffective­
+assistance claims on direct appeal. Our holding here
+addresses only the constitutional claims presented in this
+case, where the State barred the defendant from raising
+the claims on direct appeal.
+Arizona contends that the Antiterrorism and Effective
+Death Penalty Act of 1996 (AEDPA), 28 U. S. C. §2254,
+bars Martinez from asserting attorney error as cause for
+a procedural default. AEDPA refers to attorney error in
+collateral proceedings, but it does not speak to the ques­
+tion presented in this case. Section 2254(i) provides that
+“the ineffectiveness or incompetence of counsel during
+Federal or State collateral post-conviction proceedings
+shall not be a ground for relief.” “Cause,” however, is not
+synonymous with “a ground for relief.” A finding of cause
+and prejudice does not entitle the prisoner to habeas relief.
+It merely allows a federal court to consider the merits of
+a claim that otherwise would have been procedurally de­
+faulted. In this case, for example, Martinez’s “ground for
+relief ” is his ineffective-assistance-of-trial-counsel claim, a
+claim that AEDPA does not bar. Martinez relies on the
+ineffectiveness of his postconviction attorney to excuse his
+failure to comply with Arizona’s procedural rules, not as
+an independent basis for overturning his conviction. In
+short, while §2254(i) precludes Martinez from relying on
+the ineffectiveness of his postconviction attorney as a
+“ground for relief,” it does not stop Martinez from using it
+to establish “cause.” Holland v. Florida, 560 U. S. ___, ___
+(2010) (slip op., at 18).
+
+
+Cite as: 566 U. S. ____ (2012)
+
+15
+
+Opinion of the Court
+
+III
+Where, under state law, claims of ineffective assistance
+of trial counsel must be raised in an initial-review collat­
+eral proceeding, a procedural default will not bar a federal
+habeas court from hearing a substantial claim of ineffec­
+tive assistance at trial if, in the initial-review collateral
+proceeding, there was no counsel or counsel in that pro­
+ceeding was ineffective.
+In this case Martinez’s attorney in the initial-review
+collateral proceeding filed a notice akin to an Anders brief,
+in effect conceding that Martinez lacked any meritorious
+claim, including his claim of ineffective assistance at trial.
+See Anders v. California, 386 U. S. 738 (1967). Martinez
+argued before the federal habeas court that filing the
+Anders brief constituted ineffective assistance. The Court
+of Appeals did not decide whether that was so. Rather, it
+held that because Martinez did not have a right to an
+attorney in the initial-review collateral proceeding, the
+attorney’s errors in the initial-review collateral proceeding
+could not establish cause for the failure to comply with the
+State’s rules. Thus, the Court of Appeals did not deter­
+mine whether Martinez’s attorney in his first collateral
+proceeding was ineffective or whether his claim of ineffec­
+tive assistance of trial counsel is substantial. And the
+court did not address the question of prejudice. These
+issues remain open for a decision on remand.
+*
+*
+*
+The judgment of the Court of Appeals is reversed, and
+the case is remanded for further proceedings consistent
+with this opinion.
+It is so ordered.
+
+

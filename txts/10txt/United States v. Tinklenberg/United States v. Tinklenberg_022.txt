@@ -1,0 +1,44 @@
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+Opinion of SCALIA, J.
+
+tion . . . except that any time consumed in excess of ten
+days from . . . an order directing such transportation, and
+the defendant’s arrival at the destination shall be pre
+sumed to be unreasonable.” If “delay” means trial delay, it
+makes little sense for Congress to have placed a limit upon
+the “time consumed” in transporting a defendant rather
+than upon the permissible postponement of trial date.
+The Speedy Trial Act’s structure also suggests that
+§3161(h)(1)(D) is meant to apply automatically and is not
+dependent on predicate findings of postponement. Section
+3161(h) lists various types of delay that may be excluded,
+the first six of which (including §3161(h)(1)(D)) make no
+reference to any required findings. But the seventh, which
+excludes “delay resulting from a continuance granted by
+any judge,” conditions that exclusion upon certain find
+ings, §3161(h)(7)(A). In light of this difference in formula
+tion, we have held that the first six exclusions are “ ‘auto
+matic,’ ” apply “regardless of the specifics of the case,” and
+require no district-court findings. Bloate v. United States,
+559 U. S. ___, ___, n. 1, ___ (2010) (slip op., at 1, n. 1, 6);
+see also Henderson v. United States, 476 U. S. 321, 327
+(1986). Tinklenberg’s incorporation of a threshold inquiry
+into §3161(h)(1)(D) would make it none of these things.
+Delay of trial is also ruled out by the fact that the text
+is forward looking. It says that the “following periods of
+delay shall be excluded in computing . . . the time within
+which the trial . . . must commence.” §3161(h) (emphasis
+added). This is designed to enable the determination in
+advance of the date by which the trial “must commence.”
+Quite obviously, if the specified delays did not count
+unless and until they delayed the trial, one could not know
+whether they counted until after the fact. And on that
+interpretation the provision should have read, not “the
+time within which the trial . . . must commence,” but
+rather “the time within which the trial . . . should have
+commenced.”
+
+

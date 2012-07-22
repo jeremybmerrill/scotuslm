@@ -1,0 +1,878 @@
+Cite as: 561 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+Nos. 08–1553 and 08–1554
+_________________
+
+KAWASAKI KISEN KAISHA LTD., ET AL.,
+PETITIONERS
+08–1553
+v.
+REGAL-BELOIT CORPORATION ET AL.
+UNION PACIFIC RAILROAD COMPANY, PETITIONER
+08–1554
+v.
+REGAL-BELOIT CORPORATION ET AL.
+ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[June 21, 2010]
+
+JUSTICE KENNEDY delivered the opinion of the Court.
+These cases concern through bills of lading covering
+cargo for the entire course of shipment, beginning in a
+foreign, overseas country and continuing to a final, inland
+destination in the United States. The voyage here in
+cluded ocean transit followed by transfer to a rail carrier
+in this country. The Court addressed similar factual
+circumstances in Norfolk Southern R. Co. v. James N.
+Kirby, Pty Ltd., 543 U. S. 14 (2004). In that case the
+terms of a through bill were controlled by federal maritime
+law and by a federal statute known as the Carriage of
+Goods by Sea Act (COGSA), note following 46 U. S. C.
+§30701. Kirby held that bill of lading provisions permissi
+ble under COGSA can be invoked by a domestic rail car
+rier, despite contrary state law.
+
+
+2
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+The instant cases present a question neither raised nor
+addressed in Kirby. It is whether the terms of a through
+bill of lading issued abroad by an ocean carrier can apply
+to the domestic part of the import’s journey by a rail car
+rier, despite prohibitions or limitations in another federal
+statute. That statute is known as the Carmack Amend
+ment and it governs the terms of bills of lading issued by
+domestic rail carriers. 49 U. S. C. §11706(a).
+I
+Respondents Regal-Beloit Corporation, Victory Fire
+works, Inc., PICC Property & Casualty Company Ltd., and
+Royal & Sun Alliance Insurance Company Ltd. are cargo
+owners or insurance firms that paid losses to cargo owners
+and succeeded to their rights, all referred to as “cargo
+owners.” To ship their goods from China to inland desti
+nations in the Midwestern United States, the cargo own
+ers delivered the goods in China to petitioners in No. 08–
+1553, Kawasaki Kisen Kaisha, Ltd., and its agent “K” Line
+America, Inc., both referred to as “K” Line. All agree the
+relevant contract terms governing the shipment are con
+tained in four through bills of lading “K” Line issued to the
+cargo owners. The bills of lading covered the entire course
+of shipment.
+The bills required “K” Line to arrange delivery of the
+goods from China to their final destinations in the United
+States, by any mode of transportation of “K” Line’s choos
+ing. A bill of lading “records that a carrier has received
+goods from the party that wishes to ship them, states the
+terms of carriage, and serves as evidence of the contract
+for carriage.” Kirby, 543 U. S., at 18–19. A through bill
+of lading covers both the ocean and inland portions of the
+transport in a single document. Id., at 25–26.
+“K” Line’s through bills contain five relevant provisions.
+First, they include a so-called “Himalaya Clause,” which
+extends the bills’ defenses and limitations on liability to
+
+
+Cite as: 561 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+parties that sign subcontracts to perform services contem
+plated by the bills. See id., at 20, and n. 2. Second, the
+bills permit “K” Line “to sub-contract on any terms what
+soever” for the completion of the journey. App. 145.
+Third, the bills provide that COGSA’s terms govern the
+entire journey. Fourth, the bills require that any dispute
+will be governed by Japanese law. Fifth, the bills state
+that any action relating to the carriage must be brought in
+“Tokyo District Court in Japan.” Id., at 144. The forum
+selection provision in the last clause gives rise to the
+dispute here.
+“K” Line, pursuant to the bills of lading, arranged for
+the entire journey. It subcontracted with petitioner in No.
+08–1554, Union Pacific Railroad Company, for rail ship
+ment in the United States. The goods were to be shipped
+in a “K” Line vessel to a port in Long Beach, California,
+and then transferred to Union Pacific for rail carriage to
+the final destinations.
+In March and April 2005, the cargo owners brought four
+different container shipments to “K” Line vessels in Chi
+nese ports. All parties seem to assume that “K” Line
+safely transported the cargo across the Pacific Ocean to
+California. The containers were then loaded onto a Union
+Pacific train and that train, or some other train operated
+by Union Pacific, derailed in Tyrone, Oklahoma, allegedly
+destroying the cargo.
+The cargo owners filed four separate lawsuits in the
+Superior Court of California, County of Los Angeles. The
+suit named “K” Line and Union Pacific as defendants.
+Union Pacific removed the suits to the United States
+District Court for the Central District of California. Union
+Pacific and “K” Line then moved to dismiss based on the
+parties’ Tokyo forum-selection clause. The District Court
+granted the motion to dismiss. It decided that the forum
+selection clause was reasonable and applied to Union
+Pacific pursuant to the Himalaya Clause in “K” Line’s bills
+
+
+4
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+of lading. 462 F. Supp. 2d 1098, 1102–1103 (2006).
+The United States Court of Appeals for the Ninth Cir
+cuit reversed and remanded. 557 F. 3d 985 (2009). The
+court concluded that the Carmack Amendment applied to
+the inland portion of an international shipment under a
+through bill of lading and thus trumped the parties’ fo
+rum-selection clause. Id., at 994–995. The court noted
+that this view was consistent with the position taken by
+the Court of Appeals for the Second Circuit, see id., at 994
+(citing Sompo Japan Ins. Co. of Am. v. Union Pacific R.
+Co., 456 F. 3d 54 (2006)), but inconsistent with the views
+of the Courts of Appeals for the Fourth, Sixth, Seventh,
+and Eleventh Circuits, see 557 F. 3d, at 994 (citing Shao v.
+Link Cargo (Taiwan) Ltd., 986 F. 2d 700 (CA4 1993);
+American Road Serv. Co. v. Consolidated Rail Corp., 348
+F. 3d 565 (CA6 2003); Capitol Converting Equip., Inc. v.
+LEP Transp., Inc., 965 F. 2d 391 (CA7 1992); Altadis USA,
+Inc. ex rel. Fireman’s Fund Ins. Co. v. Sea Star Line, LLC,
+458 F. 3d 1288 (CA11 2006)). This Court granted certio
+rari to address whether Carmack applies to the inland
+segment of an overseas import shipment under a through
+bill of lading. 558 U. S. ___ (2009).
+II 
+
+A
+
+Before turning to Carmack, a brief description of
+COGSA is in order; for “K” Line’s and Union Pacific’s
+primary contention is that COGSA, not Carmack, controls.
+COGSA governs the terms of bills of lading issued by
+ocean carriers engaged in foreign trade. 49 Stat. 1207, as
+amended, note following 46 U. S. C. §30701, p. 1178. It
+requires each carrier to issue to the cargo owner a bill that
+contains certain terms. §3(3)–(8), at 1178–1179. Although
+COGSA imposes some limitations on the parties’ authority
+to adjust liability, it does not limit the parties’ ability to
+adopt forum-selection clauses. See Vimar Seguros y
+
+
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+Reaseguros, S. A. v. M/V Sky Reefer, 515 U. S. 528, 537–
+539 (1995). By its terms, COGSA only applies to ship
+ments from United States ports to ports of foreign coun
+tries and vice versa. §§1(e), 13, at 1178, 1180. The stat
+ute, however, allows parties “the option of extending
+[certain COGSA terms] by contract” to cover “the entire
+period in which [the goods] would be under [a carrier’s]
+responsibility, including [a] period of . . . inland transport.”
+Kirby, 543 U. S., at 29 (citing COGSA §7, at 1180). Ocean
+carriers, who often must issue COGSA bills of lading, are
+regulated by the Federal Maritime Commission (Maritime
+Commission), which is responsible for oversight over
+“common carriage of goods by water in . . . foreign com
+merce.” 46 U. S. C. §40101(1).
+B
+The next statute to consider is the Carmack Amend
+ment, §7, 34 Stat. 595, which governs the terms of bills of
+lading issued by domestic rail carriers. Carmack was first
+enacted in 1906 as an amendment to the Interstate Com
+merce Act, 24 Stat. 379. The Carmack Amendment has
+been altered and recodified over the last century. It now
+provides, in relevant part, as follows:
+“(a) A rail carrier providing transportation or service
+subject to the jurisdiction of the [Surface Transporta
+tion Board (STB)] under this part shall issue a receipt
+or bill of lading for property it receives for transporta
+tion under this part. That rail carrier and any other
+carrier that delivers the property and is providing
+transportation or service subject to the jurisdiction of
+the [STB] under this part are liable to the person enti
+tled to recover under the receipt or bill of lading. The
+liability imposed under this subsection is for the ac
+tual loss or injury to the property caused by—
+“(1) the receiving rail carrier;
+
+
+6
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+“(2) the delivering rail carrier; or
+“(3) another rail carrier over whose line or route
+the property is transported in the United States or
+from a place in the United States to a place in an
+adjacent foreign country when transported under a
+through bill of lading.
+“Failure to issue a receipt or bill of lading does not af
+fect the liability of a rail carrier.” 49 U. S. C. §11706;
+see also §14706(a) (motor carriers).
+The Carmack Amendment thus requires a rail carrier
+that “receives [property] for transportation under this
+part” to issue a bill of lading. §11706(a). The provision
+“this part” refers to is the STB’s jurisdiction over rail
+transportation within the United States. See §10501
+(2006 ed. and Supp. II). The STB is the successor to the
+Interstate Commerce Commission (ICC). The STB has
+“exclusive” jurisdiction to regulate “transportation by rail
+carriers” between places in the United States as well as
+between a place “in the United States and a place in a
+foreign country.” §10501(a)(2)(F), (b) (2006 ed.). Regu
+lated rail carriers must provide transportation subject to
+STB rail carrier jurisdiction “on reasonable request,”
+§11101(a), at reasonable rates,
+§§10702, 10707(b),
+11101(a), (e).
+In cases where it applies, Carmack imposes upon “re
+ceiving rail carrier[s]” and “delivering rail carrier[s]”
+liability for damage caused during the rail route under the
+bill of lading, regardless of which carrier caused the dam
+age. §11706(a). Carmack’s purpose is to relieve cargo
+owners “of the burden of searching out a particular negli
+gent carrier from among the often numerous carriers
+handling an interstate shipment of goods.” Reider v.
+Thompson, 339 U. S. 113, 119 (1950). To help achieve this
+goal, Carmack constrains carriers’ ability to limit liability
+by contract. §11706(c).
+
+
+Cite as: 561 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+Carmack also limits the parties’ ability to choose the
+venue of their suit:
+“(d)(1) A civil action under this section may be
+brought in a district court of the United States or in a
+State court.
+“(2)(A) A civil action under this section may only be
+brought—
+“(i) against the originating rail carrier, in the judi
+cial district in which the point of origin is located;
+“(ii) against the delivering rail carrier, in the judi
+cial district in which the principal place of business
+of the person bringing the action is located if the de
+livering carrier operates a railroad or a route
+through such judicial district, or in the judicial dis
+trict in which the point of destination is located; and
+“(iii) against the carrier alleged to have caused the
+loss or damage, in the judicial district in which such
+loss or damage is alleged to have occurred.” §11706.
+For purposes of these cases, it can be assumed that if
+Carmack’s terms apply to the bills of lading here, the
+cargo owners would have a substantial argument that the
+Tokyo forum-selection clause in the bills is pre-empted by
+Carmack’s venue provisions. The parties argue about
+whether they may contract out of Carmack’s venue provi
+sions and other requirements, see §§10502, 10709; but in
+light of the disposition and ruling to follow, those matters
+need not be discussed or further explored.
+III
+In Kirby, an ocean shipping company issued a through
+bill of lading, agreeing to deliver cargo from Australia to
+Alabama. Like the through bills in the present cases, the
+Kirby bill extended COGSA’s terms to the inland segment
+under a Himalaya Clause. There, as here, the property
+
+
+8
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+was damaged by a domestic rail carrier during the inland
+rail portion. 543 U. S., at 19–20.
+Kirby held that the through bill’s terms governed under
+federal maritime law, notwithstanding contrary state
+laws. Id., at 23–27. Kirby explained that “so long as a bill
+of lading requires substantial carriage of goods by sea, its
+purpose is to effectuate maritime commerce.” Id., at 27.
+The Court added that “[a]pplying state law to cases like
+this one would undermine the uniformity of general mari
+time law.” Id., at 28. “Confusion and inefficiency will
+inevitably result if more than one body of law governs a
+given contract’s meaning.” Id., at 29. The Court noted
+that its conclusion “reinforce[d] the liability regime Con
+gress established in COGSA,” and explained that COGSA
+allows parties to extend its terms to an inland portion of a
+journey under a through bill of lading. Ibid. Finally, the
+Court concluded that a contrary holding would defeat “the
+apparent purpose of COGSA, to facilitate efficient con
+tracting in contracts for carriage by sea.” Ibid.
+Much of what the Court said in Kirby applies to the
+present cases. “K” Line issued the through bills under
+COGSA, in maritime commerce. Congress considered
+such international through bills and decided to permit
+parties to extend COGSA’s terms to the inland domestic
+segment of the journey. The cargo owners and “K” Line
+did exactly that in these cases, agreeing in the through
+bills to require that any suit be brought in Tokyo.
+IV
+The cargo owners argue that the Carmack Amendment,
+which has its own venue provisions and was not discussed
+in Kirby, requires a different result. In particular they
+argue that Carmack applies to the domestic inland seg
+ment of the carriage here, so the Tokyo forum-selection
+clause is inapplicable. For the reasons set forth below,
+this contention must be rejected. Instructed by the text,
+
+
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+history, and purposes of Carmack, the Court now holds
+that the amendment does not apply to a shipment origi
+nating overseas under a single through bill of lading. As
+in Kirby, the terms of the bill govern the parties’ rights.
+A
+The text of the statute charts the analytic course. Car
+mack divides the realm of rail carriers into three parts:
+(1) receiving rail carriers; (2) delivering rail carriers; and
+(3) connecting rail carriers. A “receiving rail carrier” is
+one that “provid[es] transportation or service . . . for prop
+erty it receives for transportation under this part.”
+§11706(a); see §11706(a)(1). The provision “this part”
+refers to is the STB’s jurisdiction over rail transportation
+within the United States. See §10501. A “delivering rail
+carrier” “delivers the property and is providing transporta
+tion or service subject to the jurisdiction of the [STB]
+under this part.” §11706(a); see §11706(a)(2). A connect
+ing rail carrier is “another rail carrier over whose line or
+route the property is transported in the United States or
+from a place in the United States to a place in an adjacent
+foreign country when transported under a through bill of
+lading.” §11706(a)(3).
+A rail carrier’s obligation to issue a Carmack-compliant
+bill of lading is determined by Carmack’s first sentence:
+“A rail carrier providing transportation or service sub
+ject to the jurisdiction of the [STB] under this part
+shall issue a receipt or bill of lading for property it re
+ceives for transportation under this part.” §11706(a).
+This critical first sentence requires a Carmack-compliant
+bill of lading if two conditions are satisfied. First, the rail
+carrier must “provid[e] transportation or service subject to
+the jurisdiction of the [STB].” Second, that carrier must
+“receiv[e]” the property “for transportation under this
+part,” where “this part” is the STB’s jurisdiction over
+
+
+10
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+domestic rail transport. Carmack thus requires the re
+ceiving rail carrier—but not the delivering or connecting
+rail carrier—to issue a bill of lading. As explained below,
+ascertaining the shipment’s point of origin is critical to
+deciding whether the shipment includes a receiving rail
+carrier.
+The conclusion that Carmack’s bill of lading require
+ment only applies to the receiving rail carrier is dictated
+by the text and is consistent with this Court’s precedent.
+See St. Louis, I. M. & S. R. Co. v. Starbird, 243 U. S. 592,
+604 (1917) (explaining that Carmack “requires the receiv
+ing carrier to issue a through bill of lading”). A receiving
+rail carrier is the initial carrier, which “receives” the
+property for domestic rail transportation at the journey’s
+point of origin. §11706(a). If Carmack’s bill of lading
+requirement did not refer to the initial carrier, but rather
+to any rail carrier that in the colloquial sense “received”
+the property from another carrier, then every carrier
+during the shipment would have to issue its own separate
+bill. This would be altogether contrary to Carmack’s
+purpose of making the receiving and delivering carriers
+liable under a single, initial bill of lading for damage
+caused by any carrier within a single course of shipment.
+This Court’s decision in Mexican Light & Power Co. v.
+Texas Mexican R. Co., 331 U. S. 731 (1947), supports the
+conclusion that only the receiving rail carrier must issue a
+Carmack bill of lading. There, a subsequent rail carrier in
+an export shipment from the United States to Mexico
+issued its own separate bill of lading at the U. S.-Mexico
+border. The second bill differed from the through bill
+issued by the “initial carrier,” id., at 733, (that is, the
+receiving carrier) at the inland point of origin. The Court
+held that Carmack, far from requiring nonreceiving carri
+ers to issue their separate bills of lading, makes any sub
+sequent bill “void” unless the “so-called second bill of
+lading represents the initiation of a new shipment.” Id., at
+
+
+Cite as: 561 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+734.
+The Court’s decision in Reider v. Thompson, 339 U. S.
+113, is not to the contrary. That case involved goods
+originating in Argentina, bound for an inland location in
+the United States. The Court in Reider determined that
+because there was no through bill of lading, the original
+journey from Argentina terminated at the port of New
+Orleans. Thus, the first rail carrier in the United States
+was the receiving rail carrier and had to issue a Carmack
+bill of lading. Id., at 117. And because that carrier had to
+issue a separate bill of lading, it was not liable for damage
+done during the ocean-based portion of the shipment. Id.,
+at 118–119. Notably, neither Mexican Light nor Reider
+addressed the situation in the present cases, where the
+shipment originates overseas under a through bill of lad
+ing. And, for this reason, neither case discussed COGSA.
+The Carmack Amendment’s second sentence establishes
+when Carmack liability applies:
+“[The receiving rail carrier referred to in the first sen
+tence] and any other carrier that delivers the property
+and is providing transportation or service subject to
+the jurisdiction of the [STB] under this part are liable
+to the person entitled to recover under the receipt or
+bill of lading.” §11706(a)
+Thus, the receiving and delivering rail carriers are subject
+to liability only when damage is done to this “property,”
+that is to say, to property for which Carmack’s first sen
+tence requires the receiving rail carrier to issue a bill of
+lading. Ibid. Put another way, Carmack applies only to
+transport of property for which Carmack requires a receiv
+ing carrier to issue a bill of lading, regardless of whether
+that carrier erroneously fails to issue such a bill. See ibid.
+(“Failure to issue a receipt or bill of lading does not affect
+the liability of a rail carrier”). The language in some of the
+Courts of Appeals’ decisions, which were rejected by the
+
+
+12
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+Court of Appeals in the opinion now under review, could
+be read to imply that Carmack applies only if a rail carrier
+actually issued a separate domestic bill of lading. See,
+e.g., Atladis, 458 F. 3d, at 1291–1294; American Road, 348
+F. 3d, at 568; Shao, 986 F. 2d, at 703; Capitol Converting,
+965 F. 2d, at 394. This may have led to some confusion.
+The decisive question is not whether the rail carrier in fact
+issued a Carmack bill but rather whether that carrier was
+required to issue a bill by Carmack’s first sentence.
+The above principles establish that for Carmack’s provi
+sions to apply the journey must begin with a receiving rail
+carrier, which would have to issue a Carmack-compliant
+bill of lading. It follows that Carmack does not apply if
+the property is received at an overseas location under a
+through bill that covers the transport into an inland loca
+tion in the United States. In such a case, there is no
+receiving rail carrier that “receives” the property “for
+[domestic rail] transportation,” §11706(a), and thus no
+carrier that must issue a Carmack-compliant bill of lading.
+The initial carrier in that instance receives the property at
+the shipment’s point of origin for overseas multimodal
+import transport, not for domestic rail transport. (Today’s
+decision need not address the instance where goods are
+received at a point in the United States for export. Nor is
+it necessary to decide if Carmack applies to goods initially
+received in Canada or Mexico, for import into the United
+States. See infra, at 16.)
+The present cases illustrate the operation of these prin
+ciples. Carmack did not require “K” Line to issue bills of
+lading because “K” Line was not a receiving rail carrier.
+“K” Line obtained the cargo in China for overseas trans
+port across an ocean and then to inland destinations in the
+United States. “K” Line shipped this property under
+COGSA-authorized through bills of lading. See supra, at
+4–5. That “K” Line chose to use rail transport to complete
+one segment of the journey under these “essentially mari
+
+
+Cite as: 561 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+time” contracts, Kirby, 543 U. S., at 24, does not put “K”
+Line within Carmack’s reach and thus does not require it
+to issue Carmack bills of lading.
+As for Union Pacific, it was also not a receiving rail
+carrier under Carmack. The cargo owners conceded at
+oral argument that, even under their theory, Union Pacific
+was a mere delivering carrier, which did not have to issue
+its own Carmack bill of lading. See Tr. of Oral Arg. 29, 39.
+This was a necessary concession. A carrier does not be
+come a receiving carrier simply by accepting goods for
+further transport from another carrier in the middle of an
+international shipment under a through bill. After all,
+Union Pacific was not the “initial carrier” for the carriage.
+Mexican Light, 331 U. S., at 733.
+If a carrier like Union Pacific, which acts as a connect
+ing or delivering carrier during an international through
+shipment, was, counterintuitively, a receiving carrier
+under Carmack, this would in effect outlaw through ship
+ments under a single bill of lading. This is because a
+carriage like the one in the present case would require two
+bills of lading: one that the overseas carrier (here, “K”
+Line) issues to the cargo owners under COGSA, and a
+second one that the first domestic rail carrier (here, Union
+Pacific) issues to the overseas carrier under Carmack.
+Kirby noted “the popularity of ‘through’ bills of lading, in
+which cargo owners can contract for transportation across
+oceans and to inland destinations in a single transaction.”
+543 U. S., at 25–26. The Court sees no reason to read
+COGSA and Carmack to outlaw this efficient mode of
+international shipping by requiring these journeys to have
+multiple bills of lading. In addition, if Union Pacific had
+to issue a Carmack bill of lading to “K” Line, it is unclear
+whether the cargo owners (the parties Carmack is de
+signed to protect) would be able to sue under the terms
+governing that bill, especially in light of their different
+through bill with “K” Line. These difficulties are reason
+
+
+14
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+enough to reject this novel interpretation of Carmack,
+which was neither urged by any party nor adopted by any
+authority that has been called to this Court’s attention.
+This would be a quite different case if, as in Reider, the
+bills of lading for the overseas transport ended at this
+country’s ports and the cargo owners then contracted with
+Union Pacific to complete a new journey to an inland
+destination in the United States. Under those circum
+stances, Union Pacific would have been the receiving rail
+carrier and would have been required to issue a separate
+Carmack-compliant bill of lading to the cargo owners. See
+Reider, 339 U. S., at 117 (“If the various parties dealing
+with this shipment separated the carriage into distinct
+portions by their contracts, it is not for courts judicially to
+meld the portions into something they are not”).
+The Court of Appeals interpreted Carmack as applying
+to any domestic rail segment of an overseas shipment,
+regardless of whether Carmack required a bill of lading.
+The court rested on the assumption that “[STB]’s jurisdic
+tion . . . is coextensive with Carmack’s coverage.” 557
+F. 3d, at 992. Yet, as explained above, Carmack applies
+only to shipments for which Carmack requires a bill of
+lading; that is to say, to shipments that start with a car
+rier that is both subject to the STB’s jurisdiction and
+“receives [the property] for [domestic rail] transportation.”
+The Court of Appeals ignored this “receive[d] . . . for trans
+portation” limitation and so reached the wrong conclusion.
+See, e.g., Reiter v. Sonotone Corp., 442 U. S. 330, 339
+(1979) (courts are “obliged to give effect, if possible, to
+every word Congress used”).
+The Court of Appeals’ conclusion is also an awkward fit
+with Carmack’s venue provisions. Under Carmack, a suit
+against the “originating” (that is, receiving) rail carrier
+that has not actually caused the damage to the goods “may
+only be brought . . . in the judicial district in which the
+point of origin is located.” §11706(d)(2)(A), (A)(i). Suit
+
+
+Cite as: 561 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+against either a delivering carrier or any carrier that
+caused the damage, by contrast, may be brought in vari
+ous other districts. See §11706(d)(2)(B), (C). “[J]udicial
+district” refers to “district court of the United States or in
+a State Court.” §11706(d)(1). Carmack’s venue provisions
+presume that the receiving carrier obtains the property in
+a judicial district within the United States. Here, the
+journey’s “point of origin” was China, so Carmack’s venue
+provisions reinforce the interpretation that Carmack does
+not apply to this carriage.
+Indeed, if “K” Line were a receiving carrier in a case
+where the journey’s “point of origin” was China, there
+would be no place under Carmack to sue “K” Line, since
+China is not within a judicial district “of the United States
+or in a State court.” Ibid. Carmack’s original premise is
+that the receiving carrier is liable for damage caused by
+the other carriers in the delivery chain. This premise
+would be defeated if there were no venue in which to sue
+the receiving rail carrier, as opposed to suing a different
+carrier under one of Carmack’s other venue provisions and
+then naming the receiving carrier as a codefendant. The
+far more likely conclusion is that “K” Line is not a receiv
+ing rail carrier at all under Carmack, and thus Carmack,
+including its venue provisions, does not apply to property
+shipped under “K” Line’s through bills. True, if the sole
+question were one of venue, suit could still be brought
+against the carrier that caused the damage or the deliver
+ing carrier. But the issue need not be explored here, for,
+as the Court holds, Carmack is inapplicable in these cases.
+B
+Carmack’s statutory history supports the conclusion
+that it does not apply to a shipment originating overseas
+under a through bill. None of Carmack’s legislative ver
+sions have applied to the inland domestic rail segment of
+an import shipment from overseas under a through bill.
+
+
+16
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+Congress enacted Carmack in 1906, as an amendment
+to the Interstate Commerce Act. At that time, the amend
+ment’s provisions applied only to “property for transporta
+tion from a point in one State to a point in another State.”
+§7, 34 Stat. 595. Congress amended Carmack in 1915, §1,
+38 Stat. 1197, and the relevant language remained un
+changed until Carmack was recodified in 1978. Under the
+pre-1978 language, Carmack’s bill of lading provisions
+applied not only to wholly domestic rail transport but also
+to cargo “receive[d] . . . for transportation” “from any point
+in the United States to a point in an adjacent foreign
+country.” 49 U. S. C. §20(11) (1976 ed.).
+Even if there could be some argument that the Carmack
+Amendment before 1978 applied to imports from Canada
+and Mexico because the phrase “from . . . to” could also
+mean “between,” cf. Reider, supra, at 118 (explicitly not
+deciding this issue), the Court is unaware of any authority
+holding that the Carmack Amendment before 1978 applied
+to cargo originating from nonadjacent overseas countries
+under a through bill. See, e.g., In re The Cummins
+Amendment, 33 I. C. C. 682, 693 (1915); Brief for Respon
+dents 8 (effectively conceding this point).
+In 1978, Congress adopted the Carmack Amendment in
+largely its current form. §1, 92 Stat. 1337. Congress in
+the statute itself stated that it was recodifying Carmack
+and instructed that this recodification “may not be con
+strued as making a substantive change in the la[w].”
+§3(a), id., at 1466; see Burlington Northern R. Co. v. Okla
+homa Tax Comm’n, 481 U. S. 454, 457, n. 1 (1987). By
+interpreting the current version of the Carmack Amend
+ment to cover cargo originating overseas, the Court of
+Appeals disregarded this direction and dramatically ex
+panded Carmack’s scope beyond its historical coverage.
+Finally, in 1995, Congress reenacted Carmack. But that
+reenactment evidenced no intent to affect the substantive
+change that Court of Appeals’ decision would entail. See
+
+
+Cite as: 561 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+§102(a), 109 Stat. 847–849. There is no claim that the
+1995 statute altered Carmack’s text in any manner rele
+vant here, as that reenactment merely indented subsec
+tions of Carmack for readability. Cf. United States v.
+O’Brien, 560 U. S. ___, ___ (2010) (slip op., at 14)
+(“[C]urrent legislative drafting guidelines . . . advise draft
+ers to break lengthy statutory provisions into separate
+subsections that can be read more easily”).
+C
+Where the text permits, congressional enactments
+should be construed to be consistent with one another.
+And the interpretation of Carmack the Court now adopts
+attains the most consistency between Carmack and
+COGSA. First, applying Carmack to the inland segment
+of an international carriage originating overseas under a
+through bill would undermine Carmack’s purposes. Car
+mack is premised on the view that the shipment has a
+single bill of lading and any damage during the journey is
+the responsibility of both the receiving and the delivering
+carrier. See supra, at 6. Yet, under the Court of Appeals’
+interpretation of Carmack, there would often be no venue
+in which to sue the receiving carrier. See supra, at 14–15.
+Applying two different bill of lading regimes to the same
+through shipment would undermine COGSA and interna
+tional, container-based multimodal transport. As Kirby
+explained, “[t]he international transportation industry
+‘clearly has moved into a new era—the age of multimo
+dalism, door-to-door transport based on efficient use of all
+available modes of transportation by air, water, and
+land.’ ” 543 U. S., at 25 (quoting 1 T. Schoenbaum, Admi
+ralty and Maritime Law 589 (4th ed. 2004)). If Carmack
+applied to an inland segment of a shipment from overseas
+under a through bill, then one set of liability and venue
+rules would apply when cargo is damaged at sea (COGSA)
+and another almost always would apply when the damage
+
+
+18
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+occurs on land (Carmack). Rather than making claims by
+cargo owners easier to resolve, a court would have to
+decide where the damage occurred to determine which law
+applied. As a practical matter, this requirement often
+could not be met; for damage to the content of containers
+can occur when the contents are damaged by rough han
+dling, seepage, or theft, at some unknown point. See H.
+Kindred & M. Brooks, Multimodal Transport Rules 143
+(1997). Indeed, adopting the Court of Appeals’ approach
+would seem to require rail carriers to open containers at
+the port to check if damage has been done during the sea
+voyage. This disruption would undermine international
+container-based transport. The Court will not read Con
+gress’ nonsubstantive recodification of Carmack in 1978 to
+create such a drastic sea change in practice in this area.
+Applying Carmack’s provisions to international import
+shipping transport would also undermine the “purpose of
+COGSA, to facilitate efficient contracting in contracts for
+carriage by sea.” Kirby, supra, at 29. These cases provide
+an apt illustration. The sophisticated cargo owners here
+agreed to maritime bills of lading that applied to the
+inland segment through the Himalaya Clause and author
+ized “K” Line to subcontract for that inland segment “on
+any terms whatsoever.” The cargo owners thus made the
+decision to select “K” Line as a single company for their
+through transportation needs, rather than contracting for
+rail services themselves. The through bills provided the
+liability and venue rules for the foreseeable event that the
+cargo was damaged during carriage. Indeed, the cargo
+owners obtained separate insurance to protect against any
+excess loss. The forum-selection clause the parties agreed
+upon is “an indispensable element in international trade,
+commerce, and contracting” because it allows parties to
+“agre[e] in advance on a forum acceptable” to them. The
+Bremen v. Zapata Off-Shore Co., 407 U. S. 1, 13–14 (1972).
+A clause of this kind is enforced unless it imposes a venue
+
+
+Cite as: 561 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+“so gravely difficult and inconvenient that [the plaintiff]
+will for all practical purposes be deprived of his day in
+court.” Id., at 18. The parties sensibly agreed that be
+cause their bills were governed by Japanese law, Tokyo
+would be the best venue for any suit relating to the cargo.
+The cargo owners’ contrary policy arguments are un
+availing. They assert that if Carmack does not apply, the
+inland segment of international shipments will be “un
+regulated.” Brief for Respondents 2, 21, 24, 64, 91. First,
+any speculation that not applying Carmack to inland
+segments of overseas shipments will cause severe prob
+lems is refuted by that fact that Carmack even arguably
+did not govern the inland portion of such shipments from
+its enactment in 1906 until its nonsubstantive recodifica
+tion in 1978. See supra, at 15–17. It is true that if the
+cargo owners’ position were to prevail, the terms of
+through bills of lading made in maritime commerce would
+be more restricted in some circumstances. But that does
+not mean that the Court’s holding leaves the field unregu
+lated. Ocean-based through bills are governed by COGSA,
+and ocean vessels like those operated by “K” Line are
+overseen by the Federal Maritime Commission. Supra, at
+4–5. Rail carriers like Union Pacific, furthermore, remain
+subject to the STB’s regulation to the extent they operate
+within the United States. See supra, at 13–14. It is nota
+ble that although the STB has jurisdiction to regulate the
+rates of such carriers, even when the carriage is not gov
+erned by the Carmack Amendment, STB has exercised its
+authority to exempt from certain regulations service pro
+vided by a rail carrier “as part of a continuous intermodal
+freight movement,” 49 CFR §1090.2 (2009), like the jour
+ney at issue in these cases, see ibid. (exercising STB’s
+deregulation authority under 49 U. S. C. §10502(f)).
+Finally, the cargo owners miss the mark in relying on
+the recent United Nations Convention on Contracts for the
+International Carriage of Goods Wholly or Partly by Sea,
+
+
+20
+
+KAWASAKI KISEN KAISHA LTD. v. REGAL-BELOIT CORP.
+Opinion of the Court
+
+which has yet to be “ratified by the President with the
+advice and consent of the Senate.” Brief for United States
+as Amicus Curiae 11. These so-called “Rotterdam Rules”
+would explicitly allow the inland leg of an international
+shipment to be governed by a different legal regime than
+the ocean leg, under some circumstances. See G. A. Res.
+63/122, art. 26, U. N. Doc. A/RES/63/122 (Dec. 11, 2008).
+
+Nothing in the Rotterdam Rules, however, requires every
+country to mandate a different regime to govern the inland
+rail leg of an international through shipment; and, as ex
+plained above, Congress, by enacting COGSA, has opted for
+allowing shipments governed by a single through bill. And
+if the objection is that today’s decision will undermine the
+results of these international negotiations in some way,
+that concern is met by the fact that the United States
+Government has urged the result the Court adopts today.
+See Brief for United States as Amicus Curiae 13–29.
+Congress has decided to allow parties engaged in inter
+national maritime commerce to structure their contracts,
+to a large extent, as they see fit. It has not imposed Car
+mack’s regime, textually and historically limited to the
+carriage of goods received for domestic rail transport, onto
+what are “essentially maritime” contracts. Kirby, 543
+U. S., at 24.
+V
+“K” Line received the goods in China, under through
+bills for shipment into the United States. “K” Line was
+thus not a receiving rail carrier under Carmack and was
+not required to issue bills of lading under that Amend
+ment. Union Pacific is also not a receiving carrier for this
+carriage and was thus not required to issue Carmack
+compliant bills. Because the journey included no receiving
+rail carrier that had to issue bills of lading under Car
+mack, Carmack does not apply. The parties’ agreement to
+litigate these cases in Tokyo is binding. The cargo owners
+
+
+Cite as: 561 U. S. ____ (2010)
+
+21
+
+Opinion of the Court
+
+must abide by the contracts they made.
+*
+*
+*
+The judgment of the Court of Appeals for the Ninth
+Circuit is reversed, and the cases are remanded for further
+proceedings consistent with this opinion.
+It is so ordered.
+
+

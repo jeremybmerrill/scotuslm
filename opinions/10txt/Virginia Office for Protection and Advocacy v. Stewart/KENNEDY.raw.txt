@@ -1,0 +1,223 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+KENNEDY, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–529
+_________________
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVO- 
+
+CACY, PETITIONER v. JAMES W. STEWART, III, 
+
+COMMISSIONER, VIRGINIA DEPARTMENT 
+
+OF BEHAVIORAL HEALTH AND DE- 
+
+VELOPMENTAL SERVICES, ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE FOURTH CIRCUIT
+
+[April 19, 2011] 
+
+
+JUSTICE KENNEDY, with whom JUSTICE THOMAS joins,
+concurring.
+Ex parte Young, 209 U. S. 123 (1908), recognized a
+narrow limitation on state sovereign immunity, permitting
+railroad stockholders to enjoin enforcement of unconsti
+tutional rate regulations. That negative injunction was
+nothing more than the pre-emptive assertion in equity of a
+defense that would otherwise have been available in the
+State’s enforcement proceedings at law. Id., at 165–166;
+see also Harrison, Ex Parte Young, 60 Stan. L. Rev. 989,
+997–999 (2008).
+The Court has expanded the Young exception far beyond
+its original office in order “to vindicate the federal interest
+in assuring the supremacy of [federal] law,” Green v.
+Mansour, 474 U. S. 64, 68 (1985), but not without careful
+attention in each case to the sovereign interests of the
+State. See Verizon Md. Inc. v. Public Serv. Comm’n of
+Md., 535 U. S. 635, 649 (2002) (KENNEDY, J., concurring).
+In Edelman v. Jordan, 415 U. S. 651 (1974), for example,
+the Court applied the exception to an affirmative prospec
+tive order but not to equitable restitution, for the latter
+was too similar to an award of damages against the State.
+
+
+2
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY
+v. STEWART
+KENNEDY, J., concurring
+
+Id., at 668; see Pennhurst State School and Hospital v.
+Halderman, 465 U. S. 89, 103 (1984) (“Under the theory
+of Young, such a suit [for restitution] would not be one
+against the State since the federal-law allegation would
+strip the state officer of his official authority. Neverthe
+less, retroactive relief was barred by the Eleventh
+Amendment”). And Pennhurst declined to extend Young
+to suits alleging a state-law violation, for without the need
+to ensure the supremacy of federal law there was no justi
+fication for restricting state sovereignty. 465 U. S., at
+105–106.
+The “straightforward inquiry” of Verizon Md. derives
+from Edelman and Pennhurst, both of which defined im
+portant limits on Young in order to respect state sover
+eignty while still adhering to principles necessary to im
+plement the Supremacy Clause. As a result, Verizon Md.
+incorporates the very balancing it might at first seem to
+reject. Verizon Md. itself was an easy case, for it involved
+the same kind of preenforcement assertion of a defense
+that was at issue in Young. But when Young’s application
+is explored in novel contexts, as in Idaho v. Coeur d’Alene
+Tribe of Idaho, 521 U. S. 261 (1997), and also in this case,
+the inquiry “proves more complex,” Verizon Md., supra, at
+648 (KENNEDY, J., concurring).
+In this case, in my view, the Virginia Office for Protec
+tion and Advocacy may rely on Young, despite the some
+what striking novelty of permitting a state agency to sue
+officials of the same State in federal court. In the posture
+of the case as it comes before the Court, it must be as
+sumed that VOPA has a federal right to the records it
+seeks, and so the extension of Young would vindicate the
+Supremacy Clause. To be balanced against this important
+interest is the need to preserve “the dignity and respect
+afforded a State, which the immunity is designed to pro
+tect.” Coeur d’Alene, supra, at 268. Permitting a state
+agency like VOPA to sue officials of the same State does
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+KENNEDY, J., concurring
+
+implicate the State’s important sovereign interest in using
+its own courts to control the distribution of power among
+its own agents. But the affront to the State’s dignity is
+diminished to some extent when it is noted that if the
+State had elected the alternate course of designating a
+private protection and advocacy system it then would have
+avoided any risk of internal conflict while still participat
+ing in the federal program. The availability of that alter
+nate course does not, in my view, weigh much in favor of
+the validity of the underlying federal scheme, but the only
+question here is the reach of the Young exception.
+Virginia’s concern that the holding here upsets the
+federal balance is further mitigated by the various protec
+tions built into the structure of federal litigation to ensure
+that state officials do not too often call upon the federal
+courts to resolve their intramural disputes.
+First, and most important, state law must authorize an
+agency or official to sue another arm of the State. If
+States do not wish to see their internal conflicts aired in
+federal court, they need not empower their officers or
+agencies to sue one another in a federal forum. And if
+state officers are not by state law empowered to sue, they
+may invoke federal jurisdiction only in their personal
+capacities.
+Second, to the extent there is some doubt under state
+law as to an officer’s or agency’s power to sue, or any other
+state-law issue that may be dispositive, federal courts
+should abstain under Railroad Comm’n of Tex. v. Pullman
+Co., 312 U. S. 496 (1941). Pullman recognizes the impor
+tance of state sovereignty by limiting federal judicial
+intervention in state affairs to cases where intervention is
+necessary. If an open question of state-law would resolve
+a dispute, then federal courts may wait for the resolution
+of the state-law issue before adjudicating the merits.
+Likewise, certification of questions of state law to the state
+courts may pretermit an otherwise sensitive federal con
+
+
+4
+
+VIRGINIA OFFICE FOR PROTECTION AND ADVOCACY
+v. STEWART
+KENNEDY, J., concurring
+
+troversy. Lehman Brothers v. Schein, 416 U. S. 386, 391
+(1974) (Certification “helps build a cooperative judicial
+federalism”).
+Finally, federal law does not often create rights for state
+officials or agencies to assert against other arms of the
+State. True, officials may assert that their personal fed
+eral rights are violated by unlawful state action, for exam
+ple where the State engages in discriminatory employ
+ment practices. But the statutory framework in the case
+now before the Court is unusual in that it vests a state
+agency itself with federal rights against the State. Stat
+utes tend to protect the rights of individuals, not officers
+or agencies, and the Constitution’s rights-creating Clauses
+protect persons rather than officers. Because the Young
+exception is available only to those who assert federal
+violations, the paucity of federal rights vested in govern
+ment officials makes the scope of the holding here a nar
+row one.
+All this is simply to underscore that the program at
+issue may present constitutional questions but that the
+parties do not raise them in this litigation. Virginia does
+not argue, for example, that Congress exceeded its spend
+ing power under Article I, §8 by forcing a state that wishes
+to designate a public agency as its advocacy system to
+allow intramural suits like the instant one or by requiring
+that the agency be structured as Congress directs. E.g., 42
+U. S. C. §15043(a)(2)(G) (system must “be independent of
+any agency that provides treatment, services, or habilita
+tion to individuals with developmental disabilities”);
+§15044(a)(2) (“[N]ot more than 1/3 of the members of the
+governing board may be appointed by the chief executive
+officer of the State”). Young—a court-made doctrine based
+on convenience, fiction, or both—neither implicates nor
+subsumes these more fundamental concerns regarding the
+excessive exercise of federal power. The Court should be
+most cautious before deciding cases that might later lead
+
+
+Cite as: 563 U. S. ____ (2011)
+
+5
+
+KENNEDY, J., concurring
+
+to a general principle that the National Government can
+condition receipt of funds on the State’s agreement to
+make far-reaching changes with respect to its governmen
+tal structure or its basic policies of governance in matters
+within its special competence. Assuming, as the Court
+must, that the statutes here are constitutional, the narrow
+question is whether VOPA may rely on Young to avoid the
+sovereign immunity bar.
+One might doubt whether the constitutional question
+may be so severed from the Young analysis. The Court
+wields Young in the name of the Supremacy Clause only to
+vindicate important federal rights. Perhaps this Court
+should not extend the fiction in the name of claims that
+may rest on unconstitutional foundations. This concern is
+misplaced. The canon of constitutional avoidance directs
+courts to prefer the interpretation of a statute that pre
+serves its validity, but the specter of a statute’s unconsti
+tutionality cannot be permitted to distort the antecedent
+question of jurisdiction. Courts interpret and evaluate a
+statute only after confirming their authority to adjudicate
+the case before them. To decline to adjudicate a federal
+right for fear of its potential unconstitutionality is in effect
+to invalidate the right in the quest to save it. The Court
+should not permit the commission of acts that violate a
+federal right on the mere suspicion that Congress acted
+beyond its authority. Because the suit must be assumed
+to vindicate the Supremacy Clause and poses no serious
+affront to state sovereignty in light of the options available
+to the State under the program, it may proceed.
+With these observations, I join the Court’s opinion.
+
+

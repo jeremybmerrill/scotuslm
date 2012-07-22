@@ -1,0 +1,46 @@
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+STEVENS, J., concurring in judgment
+
+that petitioners’ application is phrased broadly. See ante,
+at 14–15. But claim specification is covered by §112, not
+§101; and if a series of steps constituted an unpatentable
+idea merely because it was described without sufficient
+specificity, the Court could be calling into question some of
+our own prior decisions.2 At points, the opinion suggests
+that novelty is the clue. See ante, at 14. But the fact that
+hedging is “ ‘long prevalent in our system of commerce,’ ”
+ibid., cannot justify the Court’s conclusion, as “the proper
+construction of §101 . . . does not involve the familiar
+issu[e] of novelty” that arises under §102. Flook, 437
+U. S., at 588. At other points, the opinion for a plurality
+suggests that the analysis turns on the category of patent
+involved. See, e.g., ante, at 12 (courts should use the
+abstract-idea rule as a “too[l]” to set “a high enough bar”
+“when considering patent applications of this sort”). But
+we have never in the past suggested that the inquiry
+varies by subject matter.
+The Court, in sum, never provides a satisfying account
+of what constitutes an unpatentable abstract idea. In
+deed, the Court does not even explain if it is using the
+machine-or-transformation criteria. The Court essentially
+asserts its conclusion that petitioners’ application claims
+an abstract idea. This mode of analysis (or lack thereof)
+may have led to the correct outcome in this case, but it
+also means that the Court’s musings on this issue stand
+for very little.
+——————
+2 For
+
+example, a rule that broadly-phrased claims cannot constitute
+patentable processes could call into question our approval of Alexander
+Graham Bell’s famous fifth claim on “ ‘[t]he method of, and apparatus
+for, transmitting vocal or other sounds telegraphically, as herein
+described, by causing electrical undulations, similar in form to the
+vibrations of the air accompanying the said vocal or other sounds,
+substantially as set forth,’ ” The Telephone Cases, 126 U. S. 1, 531
+(1888).
+
+

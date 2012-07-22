@@ -1,0 +1,39 @@
+16
+
+ELGIN v. DEPARTMENT OF TREASURY
+Opinion of the Court
+
+challenge to a federal statute. Even without factfinding
+capabilities, the Federal Circuit may take judicial notice of
+facts relevant to the constitutional question. See, e.g.,
+Rothe Development Corp. v. Department of Defense, 545
+F. 3d 1023, 1045–1046 (CA Fed. 2008) (judicially noticing
+facts relevant to equal protection challenge). And, if resolution of a constitutional claim requires the development
+of facts beyond those that the Federal Circuit may judicially notice, the CSRA empowers the MSPB to take evidence and find facts for Federal Circuit review. See 5
+U. S. C. §§1204(b)(1)–(2) (providing that the MSPB may
+administer oaths, examine witnesses, take depositions,
+issue interrogatories, subpoena testimony and documents,
+and otherwise receive evidence when a covered employee
+appeals a covered adverse employment action). Unlike
+petitioners, we see nothing extraordinary in a statutory
+scheme that vests reviewable factfinding authority in a
+non-Article III entity that has jurisdiction over an action
+but cannot finally decide the legal question to which the
+facts pertain. Congress has authorized magistrate judges,
+for example, to conduct evidentiary hearings and make
+findings of fact relevant to dispositive pretrial motions,
+although they are powerless to issue a final ruling on such
+motions. See 28 U. S. C. §§636(b)(1)(A)–(B); United States
+v. Raddatz, 447 U. S. 667, 673 (1980).9
+——————
+9 The dissent argues that the MSPB may struggle to determine what
+facts are relevant to the constitutional question, given that it will not
+decide the claim. See post, at 11. But the MSPB’s professed lack of
+authority to declare a statute unconstitutional does not mean that the
+MSPB cannot identify the legal principles that govern the constitutional analysis and thus the scope of necessary development of the factual record. The MSPB routinely identifies the relevant constitutional
+framework from federal court decisions when deciding other constitutional claims. See supra, at 8–9 (citing First and Fourth Amendment
+cases); see also, e.g., Fitzgerald v. Department of Defense, 80 MSPR 1,
+14–15 (1998) (analyzing a claim under the Due Process Clauses of the
+Fifth and Fourteenth Amendments). We therefore see little reason to
+
+

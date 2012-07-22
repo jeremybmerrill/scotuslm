@@ -1,0 +1,48 @@
+Cite as: 565 U. S. ____ (2012)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–895
+_________________
+
+RAFAEL ARRIAZA GONZALEZ, PETITIONER v. RICK
+
+THALER, DIRECTOR, TEXAS DEPARTMENT OF
+
+CRIMINAL JUSTICE, CORRECTIONAL
+
+INSTITUTIONS DIVISION 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FIFTH CIRCUIT
+
+[January 10, 2012]
+
+
+JUSTICE SOTOMAYOR delivered the opinion of the Court.
+This case interprets two provisions of the Antiterrorism
+and Effective Death Penalty Act of 1996 (AEDPA). The
+first, 28 U. S. C. §2253(c), provides that a habeas petitioner must obtain a certificate of appealability (COA) to
+appeal a federal district court’s final order in a habeas
+proceeding. §2253(c)(1). The COA may issue only if the
+petitioner has made a “substantial showing of the denial of
+a constitutional right,” §2253(c)(2), and “shall indicate
+which specific issue” satisfies that showing. §2253(c)(3).
+We hold that §2253(c)(3) is not a jurisdictional requirement. Accordingly, a judge’s failure to “indicate” the
+requisite constitutional issue in a COA does not deprive a
+court of appeals of subject-matter jurisdiction to adjudicate the habeas petitioner’s appeal.
+The second provision, 28 U. S. C. §2244(d)(1)(A), establishes a 1-year limitations period for state prisoners to file
+federal habeas petitions, running from “the date on which
+the judgment became final by the conclusion of direct
+
+

@@ -1,0 +1,43 @@
+16
+
+CSX TRANSP., INC. v. MCBRIDE
+Opinion of the Court
+
+Comment b.
+Congress, it is true, has written the words “proximate
+cause” into a number of statutes.11 But when the legisla­
+tive text uses less legalistic language, e.g., “caused by,”
+“occasioned by,” “in consequence of,” or, as in FELA,
+“resulting in whole or in part from,” and the legislative
+purpose is to loosen constraints on recovery, there is
+little reason for courts to hark back to stock, judge-made
+proximate-cause formulations. See Smith, Legal Cause in
+Actions of Tort (Continued), 25 Harv. L. Rev. 223, 235
+(1912).
+B
+FELA’s language is straightforward: railroads are made
+answerable in damages for an employee’s “injury or death
+resulting in whole or in part from [carrier] negligence.” 45
+U. S. C. §51. The argument for importing into FELA’s text
+“previous judicial definitions or dicta” originating in non­
+statutory common-law actions, see Smith, Legal Cause in
+Actions of Tort (Continued), supra, at 235, misapprehends
+how foreseeability figures in FELA cases.
+“[R]easonable foreseeability of harm,” we clarified in
+Gallick, is indeed “an essential ingredient of [FELA] neg
+ligence.” 372 U. S., at 117 (emphasis added). The jury,
+therefore, must be asked, initially: Did the carrier “fai[l] to
+observe that degree of care which people of ordinary pru­
+dence and sagacity would use under the same or similar
+circumstances[?]” Id., at 118. In that regard, the jury
+may be told that “[the railroad’s] duties are measured by
+——————
+11 See, e.g., Act of Sept. 7, 1916, ch. 458, §1, 39 Stat. 742–743 (United
+States not liable to injured employee whose “intoxication . . . is the
+proximate cause of the injury”); Act of Oct. 6, 1917, ch. 105, §306, 40
+Stat. 407 (United States liable to member of Armed Forces for post­
+discharge disability that “proximately result[ed] from [a pre-discharge]
+injury”); Act of June 5, 1924, ch. 261, §2, 43 Stat. 389 (United States
+liable for “any disease proximately caused” by federal employment).
+
+

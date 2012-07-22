@@ -1,0 +1,43 @@
+Cite as: 561 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+734.
+The Court’s decision in Reider v. Thompson, 339 U. S.
+113, is not to the contrary. That case involved goods
+originating in Argentina, bound for an inland location in
+the United States. The Court in Reider determined that
+because there was no through bill of lading, the original
+journey from Argentina terminated at the port of New
+Orleans. Thus, the first rail carrier in the United States
+was the receiving rail carrier and had to issue a Carmack
+bill of lading. Id., at 117. And because that carrier had to
+issue a separate bill of lading, it was not liable for damage
+done during the ocean-based portion of the shipment. Id.,
+at 118–119. Notably, neither Mexican Light nor Reider
+addressed the situation in the present cases, where the
+shipment originates overseas under a through bill of lad
+ing. And, for this reason, neither case discussed COGSA.
+The Carmack Amendment’s second sentence establishes
+when Carmack liability applies:
+“[The receiving rail carrier referred to in the first sen
+tence] and any other carrier that delivers the property
+and is providing transportation or service subject to
+the jurisdiction of the [STB] under this part are liable
+to the person entitled to recover under the receipt or
+bill of lading.” §11706(a)
+Thus, the receiving and delivering rail carriers are subject
+to liability only when damage is done to this “property,”
+that is to say, to property for which Carmack’s first sen
+tence requires the receiving rail carrier to issue a bill of
+lading. Ibid. Put another way, Carmack applies only to
+transport of property for which Carmack requires a receiv
+ing carrier to issue a bill of lading, regardless of whether
+that carrier erroneously fails to issue such a bill. See ibid.
+(“Failure to issue a receipt or bill of lading does not affect
+the liability of a rail carrier”). The language in some of the
+Courts of Appeals’ decisions, which were rejected by the
+
+

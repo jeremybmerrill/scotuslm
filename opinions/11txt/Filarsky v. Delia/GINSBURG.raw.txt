@@ -1,0 +1,123 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+GINSBURG, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–1018
+_________________
+
+STEVE A. FILARSKY, PETITIONER v. NICHOLAS B.
+
+DELIA
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[April 17, 2012] 
+
+
+JUSTICE GINSBURG, concurring.
+The Court addresses a sole question in this case: Is a
+private attorney retained by a municipality to investigate
+a personnel matter eligible for qualified immunity in a
+suit under 42 U. S. C. §1983 alleging a constitutional
+violation committed in the course of the investigation? I
+agree that the answer is yes and that the judgment of
+the Court of Appeals holding private attorney Filarsky
+categorically ineligible for qualified immunity must be reversed. Qualified immunity may be overcome, however, if
+the defendant knew or should have known that his conduct violated a right “clearly established” at the time of
+the episode in suit. See Harlow v. Fitzgerald, 457 U. S.
+800, 818 (1982). Because the Ninth Circuit did not consider the application of that standard to Filarsky, the
+matter, as I see it, may be pursued on remand.
+Filarsky was retained by the City of Rialto to investigate whether city firefighter Delia was taking time off
+from work under the false pretense of a disabling physical
+condition. In pursuit of the investigation, Filarsky asked
+Delia to consent to a search of his home to determine what
+Delia had done with several rolls of insulation he had
+recently purchased at a home improvement store. When
+Delia, on counsel’s advice, refused to consent to the search,
+Filarsky “hatch[ed] a plan” to overcome Delia’s resistance.
+
+
+2
+
+FILARSKY v. DELIA
+GINSBURG, J., concurring
+
+Delia v. Rialto, 621 F. 3d 1069, 1077 (CA9 2010). “[W]e
+will do it a different way,” Filarsky informed Delia. App.
+129; see 621 F. 3d, at 1077 (“Unable to obtain Delia’s
+consent to a warrantless search of his house . . . , Filarsky
+tried a different tactic.”).
+Following Filarsky’s advice, Fire Chief Wells ordered
+Delia to bring the insulation out of his house and place the
+rolls on his lawn for inspection. App. 158. Filarsky recommended this course, the Ninth Circuit observed, mindful that “an individual does not have an expectation of
+privacy in items exposed to the public, thereby eliminating
+the need for a search warrant.” 621 F. 3d, at 1077. Delia
+complied with Chief Wells’s order by producing the rolls,
+all of them unused, App. 78, 85, after which the investigation into the legitimacy of Delia’s absence from work
+apparently ended.
+In explaining why the individual defendants other than
+Filarsky were entitled to summary judgment on their
+qualified immunity pleas, the Ninth Circuit stated that
+“no . . . threat to [Delia’s] employment” attended Fire
+Chief Wells’s order. 621 F. 3d, at 1079. The District
+Court similarly stated that “Delia was not threatened with
+insubordination or termination if he did not comply with
+[the] order.” App. to Pet. for Cert. 48.
+These statements are at odds with the facts, as recounted by the Court of Appeals. “At the onset of the interview,” the Ninth Circuit stressed, “Filarsky warned Delia
+that he was obligated to fully cooperate,” and that “[i]f at
+any time it is deemed you are not cooperating then you
+can be held to be insubordinate and subject to disciplinary
+action, up to and including termination.” 621 F. 3d, at
+1072 (internal quotation marks omitted). Continuing in
+this vein, the Court of Appeals concluded that “Delia’s
+actions were involuntary and coerced by the direct threat
+of sanctions including loss of his firefighter position.” Id.,
+at 1077; see id., at 1085 (“Delia’s actions were involun-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+GINSBURG, J., concurring
+
+tary and occurred as a result of the direct threat of
+sanctions[.]”).
+In further proceedings upon return of this case to the
+Court of Appeals, these questions bear attention. First, if
+it is “clearly established,” as the Ninth Circuit thought it
+was, that “the warrantless search of a home is presumptively unreasonable,” id., at 1075, and that a well-trained
+investigating officer would so comprehend,1 may an official
+circumvent the warrant requirement by ordering the person under investigation to cart his personal property out
+of the house for inspection?2 And if it is “clearly established” that an employee may not be fired for exercising a
+constitutional right, see id., at 1079,3 is it not equally
+plain that discipline or discharge may not be threatened to
+induce surrender of such a right?
+In short, the Court has responded appropriately to the
+question tendered for our review, but the Circuit’s law will
+remain muddled absent the Court of Appeals’ focused
+attention to the question whether Filarsky’s conduct
+violated “clearly established” law.
+——————
+1 Delia also suggests that Filarsky’s conduct should be measured
+against a “reasonable attorney” standard: whether an attorney providing advice in a public-employee investigation should have known that
+the search of Delia’s personal property, stored in his home, would be
+lawless. See Brief for Respondent 45–46.
+2 An additional inquiry may be appropriate: Although conceived as a
+substitute for a warrantless entry, should the inspection order Filarsky
+counseled pass muster as a permissible discovery device? Cf. Oklahoma Press Publishing Co. v. Walling, 327 U. S. 186, 195, 208–211 (1946)
+(subpoena duces tecum for a corporation’s business records, authorized
+by §9 of the Fair Labor Standards Act, encountered no Fourth Amendment shoal).
+3 The Ninth Circuit referred to cases holding that public employees’
+job retention cannot be conditioned on relinquishing the Fifth Amendment’s safeguard against self-incrimination: Uniformed Sanitation Men
+Assn., Inc. v. Commissioner of Sanitation of City of New York, 392 U. S.
+280 (1968), and Gardner v. Broderick, 392 U. S. 273 (1968).
+
+

@@ -1,0 +1,43 @@
+16
+
+ABBOTT v. UNITED STATES
+Opinion of the Court
+
+crimes. The “grammatical and logical scope” of a proviso,
+we have held, “is confined to the subject-matter of the
+principal clause” to which it is attached. United States v.
+Morrow, 266 U. S. 531, 534–535 (1925). As a proviso
+attached to §924(c), the “except” clause is most naturally
+read to refer to the conduct §924(c) proscribes. Accord
+United States v. Villa, 589 F. 3d 1334, 1343 (CA10 2009).
+There is strong contextual support for our view that
+Congress intended the “except” clause to serve simply as a
+clarification of §924(c), not as a major restraint on the
+statute’s operation. At the same time Congress added the
+“except” clause, it made the rest of §924(c) more complex.
+The 1998 revision divided the statute’s existing sentencing
+prescriptions into four paragraphs in lieu of one, and
+added new penalties for brandishing and discharging a
+firearm. §924(c)(1)(A)–(D). We know that Congress
+thought the restructuring might confuse sentencing
+judges: Warding off confusion, all agree, was the Legisla
+ture’s sole objective in adding the initial part of the “ex
+cept” clause, which covers greater minimums provided “by
+this subsection.” That portion of the clause instructs
+judges to pick the single highest sentence stipulated for a
+§924(c) violation within §924(c) itself, and not to stack ten
+years for discharging a gun on top of seven for brandishing
+the same weapon, whenever a defendant does both.
+In referencing greater minimums provided by “any other
+provision of law,” we think, the second portion of the
+“except” clause simply furnishes the same no-stacking
+instruction for cases in which §924(c) and a different
+statute both punish conduct offending §924(c). Congress
+likely anticipated such cases when the “except” clause was
+framed in 1998, for the bill that reformulated the text of
+§924(c) did just one thing more: It amended 18 U. S. C.
+§3559(c) to command a life sentence when certain repeat
+felons are convicted of “firearms possession (as described
+in §924(c)).” Pub. L. 105–386, §1(b), 112 Stat. 3470.
+
+

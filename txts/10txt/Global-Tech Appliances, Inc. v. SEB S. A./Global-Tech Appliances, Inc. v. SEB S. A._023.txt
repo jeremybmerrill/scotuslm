@@ -1,0 +1,43 @@
+4
+
+GLOBAL-TECH APPLIANCES, INC. v. SEB S. A.
+KENNEDY, J., dissenting
+
+often probative of actual knowledge. Circumstantial facts
+like these tend to be the only available evidence in any
+event, for the jury lacks direct access to the defendant’s
+mind. The jury must often infer knowledge from conduct,
+and attempts to eliminate evidence of knowledge may
+justify such inference, as where an accused inducer avoids
+further confirming what he already believes with good
+reason to be true. The majority’s decision to expand the
+statute’s scope appears to depend on the unstated premise
+that knowledge requires certainty, but the law often per
+mits probabilistic judgments to count as knowledge. Cf.
+Connecticut Mut. Life Ins. Co. v. Lathrop, 111 U. S. 612,
+620 (1884) (Harlan, J.) (“[B]eing founded on actual obser
+vation, and being consistent with common experience and
+the ordinary manifestations of the condition of the mind, it
+is knowledge, so far as the human intellect can acquire
+knowledge, upon such subjects”).
+The instant dispute provides a case in point. Pentalpha
+copied an innovative fryer. The model it copied bore no
+U. S. patent markings, but that could not have been a
+surprise, for Pentalpha knew that a fryer purchased in
+Hong Kong was unlikely to bear such markings. And
+Pentalpha failed to tell the lawyer who ran a patent
+search that it copied the SEB fryer. These facts may
+suggest knowledge that Pentalpha’s fryers were infring
+ing, and perhaps a jury could so find.
+But examining the sufficiency of the evidence presented
+in the 5-day trial requires careful review of an extensive
+record. The trial transcript alone spans over 1,000 pages.
+If willful blindness is as close to knowledge and as far
+from the “knew or should have known” jury instruction
+provided in this case as the Court suggests, then review
+ing the record becomes all the more difficult. I would
+leave that task to the Court of Appeals in the first in
+stance on remand.
+For these reasons, and with respect, I dissent.
+
+

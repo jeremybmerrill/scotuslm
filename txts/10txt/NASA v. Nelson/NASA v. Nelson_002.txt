@@ -1,0 +1,51 @@
+2
+
+NASA v. NELSON
+Syllabus
+have “adverse information” concerning a variety of other matters. All
+SF–85 and Form 42 responses are subject to the protections of the
+Privacy Act.
+With the deadline for completing the NACI process drawing near,
+respondents brought suit, claiming, as relevant here, that the back
+ground-check process violates a constitutional right to informational
+privacy. The District Court declined to issue a preliminary injunc
+tion, but the Ninth Circuit reversed. It held that SF–85’s inquiries
+into recent drug involvement furthered the Government’s interest in
+combating illegal-drug use, but that the drug “treatment or counsel
+ing” question furthered no legitimate interest and was thus likely to
+be held unconstitutional. It also held that Form 42’s open-ended
+questions were not narrowly tailored to meet the Government’s inter
+ests in verifying contractors’ identities and ensuring JPL’s security,
+and thus also likely violated respondents’ informational-privacy
+rights.
+
+Held:
+1. In two cases decided over 30 years ago, this Court referred
+broadly to a constitutional privacy “interest in avoiding disclosure of
+personal matters.” Whalen v. Roe, 429 U. S. 589, 599–600; Nixon v.
+Administrator of General Services, 433 U. S. 425, 457. In Whalen, the
+Court upheld a New York law permitting the collection of names and
+addresses of persons prescribed dangerous drugs, finding that the
+statute’s “security provisions,” which protected against “public disclo
+sure” of patient information, 462 U. S., at 600–601, were sufficient to
+protect a privacy interest “arguably . . . root[ed] in the Constitution,”
+id., at 605. In Nixon, the Court upheld a law requiring the former
+President to turn over his presidential papers and tape recordings for
+archival review and screening, concluding that the federal Act at is
+sue, like the statute in Whalen, had protections against “undue dis
+semination of private materials.” 433 U. S, at 458. Since Nixon, the
+Court has said little else on the subject of a constitutional right to in
+formational privacy. Pp. 8–10.
+2. Assuming, without deciding, that the Government’s challenged
+inquiries implicate a privacy interest of constitutional significance,
+that interest, whatever its scope, does not prevent the Government
+from asking reasonable questions of the sort included on SF–85 and
+Form 42 in an employment background investigation that is subject
+to the Privacy Act’s safeguards against public disclosure. Pp. 10–24.
+(a) The forms are reasonable in light of the Government interests
+at stake. Pp. 11–19.
+(1) Judicial review of the forms must take into account the con
+text in which the Government’s challenged inquiries arise. When the
+Government acts in its capacity “as proprietor” and manager of its
+
+

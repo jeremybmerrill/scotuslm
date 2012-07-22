@@ -1,0 +1,47 @@
+14
+
+TALK AMERICA, INC. v. MICHIGAN BELL 
+
+TELEPHONE CO.
+Opinion of the Court 
+
+
+
+
+
+Commission twice unsuccessfully attempted to impose
+sweeping unbundling requirements on incumbent LECs.
+See Local Competition Order ¶278; In re Implementation
+of Local Competition Provisions of the Telecommunications
+Act of 1996, 15 FCC Rcd. 3696, 3771–3904, ¶¶162–464
+(1999); see also 47 CFR §51.319 (1997); §51.319 (2000).
+Each time, the Commission’s efforts were rejected for
+taking an unreasonably broad view of “impair[ment]”
+under §251(d)(2). See Iowa Utilities Bd., 525 U. S., at 392;
+United States Telecom Assn. v. FCC, 290 F. 3d 415, 421–
+428 (2002), cert. denied, 538 U. S. 940 (2003). In the
+Triennial Review Order, the Commission once again rein­
+terpreted the “impair” standard and revised the list of
+network elements that incumbents must provide unbun­
+dled to competitors.
+The Commission’s initial decision to eliminate the obli­
+gation to unbundle entrance facilities, however, was not
+a result of the narrower view of impairment mandated
+by this Court and the D. C. Circuit. Instead, the Commis­
+sion determined that entrance facilities need not be pro­
+vided on an unbundled basis under §251(c)(3) on the novel
+ground that they are not network elements at all—
+something no court had ever suggested.
+Moreover, since its initial decision to eliminate the
+unbundling obligation for entrance facilities, the Commis­
+sion has been committed to that position. When the D. C.
+Circuit questioned the Commission’s finding that entrance
+facilities are not network elements, the Commission re­
+sponded by observing that the court “did not reject our
+conclusion that incumbent LECs need not unbundle en­
+trance facilities, only the analysis through which we
+reached that conclusion.” Triennial Review Remand Order
+¶137. The Commission then found another way to support
+that same conclusion.
+
+

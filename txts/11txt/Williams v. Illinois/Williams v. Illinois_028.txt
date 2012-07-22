@@ -1,0 +1,38 @@
+22
+
+WILLIAMS v. ILLINOIS
+Opinion of ALITO, J.
+
+As to legal relevance, the question before us is whether
+petitioner’s Sixth Amendment confrontation right was
+violated, not whether the State offered sufficient foundational evidence to support the admission of Lambatos’
+opinion about the DNA match. In order to prove these
+underlying facts, the prosecution relied on circumstantial
+evidence, and the Illinois courts found that this evidence
+was sufficient to satisfy state-law requirements regarding
+proof of foundational facts. See 385 Ill. App. 3d, at 366–
+368, 895 N. E. 2d, at 967–968; 238 Ill. 2d, at 138, 939 N. E.
+2d, at 275. We cannot review that interpretation and
+application of Illinois law. Thus, even if the record did not
+contain any evidence that could rationally support a finding that Cellmark produced a scientifically reliable DNA
+profile based on L. J.’s vaginal swab, that would not establish a Confrontation Clause violation. If there were no
+proof that Cellmark produced an accurate profile based on
+that sample, Lambatos’ testimony regarding the match
+would be irrelevant, but the Confrontation Clause, as
+interpreted in Crawford, does not bar the admission of
+irrelevant evidence, only testimonial statements by declarants who are not subject to cross-examination.8
+It is not correct, however, that the trial record lacks
+admissible evidence with respect to the source of the sample that Cellmark tested or the reliability of the Cellmark profile. As to the source of the sample, the State
+offered conventional chain-of-custody evidence, namely,
+the testimony of the physician who obtained the vaginal
+swabs, the testimony of the police employees who handled
+and kept custody of that evidence until it was sent to
+——————
+8 Applying the Due Process Clause, we have held that a federal court
+may determine whether a rational trier of fact could have found the
+existence of all the elements needed for conviction for a state offense.
+Jackson v. Virginia, 443 U. S. 307, 314 (1979), but petitioner has not
+raised a due process claim. And in any event, L. J.’s identification of
+petitioner as her assailant would be sufficient to defeat any such claim.
+
+

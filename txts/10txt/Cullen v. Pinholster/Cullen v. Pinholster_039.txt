@@ -1,0 +1,38 @@
+2
+
+CULLEN v. PINHOLSTER
+Opinion of BREYER, J.
+
+quate, then an (e) hearing might be needed to consider the
+petitioner’s (now unblocked) substantive federal claim. Or
+if the state-court rejection rested on only one of several
+related federal grounds (e.g., that counsel’s assistance was
+not “inadequate”), then, if the federal court found that the
+state court’s decision in respect to the ground it decided
+violated (d), an (e) hearing might be needed to consider
+other related parts of the whole constitutional claim (e.g.,
+whether the counsel’s “inadequate” assistance was also
+prejudicial). There may be other situations in which an (e)
+hearing is needed as well.
+In this case, however, we cannot say whether an (e)
+hearing is needed until we know whether the state court,
+in rejecting Pinholster’s claim on the basis presented to
+that state court, violated (d). (In my view, the lower
+courts’ analysis in respect to this matter is inadequate.)
+There is no role in (d) analysis for a habeas petitioner to
+introduce evidence that was not first presented to the
+state courts. But that does not mean that Pinholster is
+without recourse to present new evidence. He can always
+return to state court presenting new evidence not previ
+ously presented. If the state court again denies relief, he
+might be able to return to federal court to make claims
+related to the latest rejection, subject to AEDPA’s limita
+tions on successive petitions. See §2244.
+I am not trying to predict the future course of these
+proceedings. I point out only that, in my view, AEDPA is
+not designed to take necessary remedies from a habeas
+petitioner but to give the State a first opportunity to con
+sider most matters and to insist that federal courts prop
+erly respect state-court determinations.
+
+

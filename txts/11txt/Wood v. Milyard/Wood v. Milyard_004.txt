@@ -1,0 +1,50 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–9995
+_________________
+
+PATRICK WOOD, PETITIONER v. KEVIN MILYARD,
+
+WARDEN, ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE TENTH CIRCUIT
+
+[April 24, 2012] 
+
+
+JUSTICE GINSBURG delivered the opinion of the Court.
+This case concerns the authority of a federal court to
+raise, on its own motion, a statute of limitations defense to
+a habeas corpus petition. After state prisoner Patrick
+Wood filed a federal habeas corpus petition, the State
+twice informed the U. S. District Court that it “[would] not
+challenge, but [is] not conceding, the timeliness of Wood’s
+habeas petition.” App. 70a; see id., at 87a. Thereafter,
+the District Court rejected Wood’s claims on the merits.
+On appeal, the Tenth Circuit directed the parties to brief
+the question whether Wood’s federal petition was timely.
+Post-briefing, the Court of Appeals affirmed the denial of
+Wood’s petition, but solely on the ground that it was
+untimely.
+Our precedent establishes that a court may consider a
+statute of limitations or other threshold bar the State
+failed to raise in answering a habeas petition. Granberry
+v. Greer, 481 U. S. 129, 134 (1987) (exhaustion defense);
+Day v. McDonough, 547 U. S. 198, 202 (2006) (statute of
+limitations defense). Does court discretion to take up
+timeliness hold when a State is aware of a limitations
+
+

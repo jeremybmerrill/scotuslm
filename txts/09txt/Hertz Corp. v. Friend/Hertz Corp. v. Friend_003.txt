@@ -1,0 +1,51 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Syllabus
+(c) In an effort to find a single, more uniform interpretation of
+the statutory phrase, this Court returns to the “nerve center” ap
+proach: “[P]rincipal place of business” is best read as referring to the
+place where a corporation’s officers direct, control, and coordinate the
+corporation’s activities. In practice it should normally be the place
+where the corporation maintains its headquarters—provided that the
+headquarters is the actual center of direction, control, and coordina
+tion, i.e., the “nerve center,” and not simply an office where the corpo
+ration holds its board meetings. Pp. 13–19.
+(i) Three sets of considerations, taken together, convince the
+Court that the “nerve center” approach, while imperfect, is superior
+to other possibilities. First, §1332(c)(1)’s language supports the ap
+proach. The statute’s word “place” is singular, not plural. Its word
+“principal” requires that the main, prominent, or most important
+place be chosen. Cf., e.g., Commissioner v. Soliman, 506 U. S. 168,
+174. And the fact that the word “place” follows the words “State
+where” means that the “place” is a place within a State, not the State
+itself. A corporation’s “nerve center,” usually its main headquarters,
+is a single place. The public often considers it the corporation’s main
+place of business. And it is a place within a State. By contrast, the
+application of a more general business activities test has led some
+courts, as in the present case, to look, not at a particular place within
+a State, but incorrectly at the State itself, measuring the total
+amount of business activities that the corporation conducts there and
+determining whether they are significantly larger than in the next
+ranking State. Second, administrative simplicity is a major virtue in
+a jurisdictional statute. Sisson v. Ruby, 497 U. S. 358, 375. A “nerve
+center” approach, which ordinarily equates that “center” with a cor
+poration’s headquarters, is simple to apply comparatively speaking.
+By contrast, a corporation’s general business activities more often
+lack a single principal place where they take place. Third, the stat
+ute’s legislative history suggests that the words “principal place of
+business” should be interpreted to be no more complex than an ear
+lier, numerical test that was criticized as too complex and impractical
+to apply. A “nerve center” test offers such a possibility. A general
+business activities test does not. Pp. 14–17.
+(ii) While there may be no perfect test that satisfies all admin
+istrative and purposive criteria, and there will be hard cases under
+the “nerve center” test adopted today, this test is relatively easier to
+apply and does not require courts to weigh corporate functions, assets
+or revenues different in kind, one from the other. And though this
+test may produce results that seem to cut against the basic rationale
+of diversity jurisdiction, accepting occasionally counterintuitive re
+sults is the price the legal system must pay to avoid overly complex
+
+

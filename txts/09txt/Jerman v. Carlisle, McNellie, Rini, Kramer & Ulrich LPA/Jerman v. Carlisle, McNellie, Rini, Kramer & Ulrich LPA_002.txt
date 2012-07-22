@@ -1,0 +1,55 @@
+2
+
+JERMAN v. CARLISLE, MCNELLIE, RINI, 
+
+KRAMER & ULRICH LPA 
+
+Syllabus 
+
+ing, Carlisle had violated §1692g(a) of the FDCPA, which governs the
+contents of notices to debtors. The District Court, acknowledging a
+division of authority on the question, held that Carlisle had violated
+§1692g(a) but ultimately granted Carlisle summary judgment under
+§1692k(c)’s “bona fide error” defense. The Sixth Circuit affirmed,
+holding that the defense in §1692k(c) is not limited to clerical or fac
+tual errors, but extends to mistakes of law.
+
+Held: The bona fide error defense in §1692k(c) does not apply to a viola
+tion resulting from a debt collector’s mistaken interpretation of the
+legal requirements of the FDCPA. Pp. 6–30.
+(a) A violation resulting from a debt collector’s misinterpretation of
+the legal requirements of the FDCPA cannot be “not intentional” un
+der §1692k(c). It is a common maxim that “ignorance of the law will
+not excuse any person, either civilly or criminally.” Barlow v. United
+States, 7 Pet. 404, 411. When Congress has intended to provide a
+mistake-of-law defense to civil liability, it has often done so more ex
+plicitly than here. In particular, the administrative-penalty provi
+sions of the FTC Act, which are expressly incorporated into the
+FDCPA, apply only when a debt collector acts with “actual knowledge
+or knowledge fairly implied on the basis of objective circumstances”
+that the FDCPA prohibited its action. §§45(m)(1)(A), (C). Given the
+absence of similar language in §1692k(c), it is fair to infer that Con
+gress permitted injured consumers to recover damages for “inten
+tional” conduct, including violations resulting from a mistaken inter
+pretation of the FDCPA, while reserving the more onerous
+administrative penalties for debt collectors whose intentional actions
+reflected knowledge that the conduct was prohibited. Congress also
+did not confine FDCPA liability to “willful” violations, a term more of
+ten understood in the civil context to exclude mistakes of law. See,
+e.g., Trans World Airlines, Inc. v. Thurston, 469 U. S. 111, 125–126.
+Section 1692k(c)’s requirement that a debt collector maintain “proce
+dures reasonably adapted to avoid any such error” also more natu
+rally evokes procedures to avoid mistakes like clerical or factual er
+rors. Pp. 6–12.
+(b) Additional support for this reading is found in the statute’s con
+text and history. The FDCPA’s separate protection from liability for
+“any act done or omitted in good faith in conformity with any [FTC]
+advisory opinion,” §1692k(e), is more obviously tailored to the con
+cern at issue (excusing civil liability when the FDCPA’s prohibitions
+are uncertain) than the bona fide error defense. Moreover, in enact
+ing the FDCPA in 1977, Congress copied the pertinent portions of the
+bona fide error defense from the Truth in Lending Act (TILA),
+§1640(c). At that time, the three Federal Courts of Appeals to have
+considered the question interpreted the TILA provision as referring
+
+

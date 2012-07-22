@@ -1,0 +1,41 @@
+2
+
+BILSKI v. KAPPOS
+Opinion of the Court
+
+I
+Petitioners’ application seeks patent protection for a
+claimed invention that explains how buyers and sellers of
+commodities in the energy market can protect, or hedge,
+against the risk of price changes. The key claims are
+claims 1 and 4. Claim 1 describes a series of steps in
+structing how to hedge risk. Claim 4 puts the concept
+articulated in claim 1 into a simple mathematical formula.
+Claim 1 consists of the following steps:
+“(a) initiating a series of transactions between said
+commodity provider and consumers of said commodity
+wherein said consumers purchase said commodity at a
+fixed rate based upon historical averages, said fixed
+rate corresponding to a risk position of said consum
+ers;
+“(b) identifying market participants for said com
+modity having a counter-risk position to said consum
+ers; and
+“(c) initiating a series of transactions between said
+commodity provider and said market participants at a
+second fixed rate such that said series of market par
+ticipant transactions balances the risk position of said
+series of consumer transactions.” App. 19–20.
+The remaining claims explain how claims 1 and 4 can be
+applied to allow energy suppliers and consumers to mini
+mize the risks resulting from fluctuations in market de
+mand for energy. For example, claim 2 claims “[t]he
+method of claim 1 wherein said commodity is energy and
+said market participants are transmission distributors.”
+Id., at 20. Some of these claims also suggest familiar
+statistical approaches to determine the inputs to use in
+claim 4’s equation. For example, claim 7 advises using
+well-known random analysis techniques to determine how
+much a seller will gain “from each transaction under each
+
+

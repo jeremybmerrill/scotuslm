@@ -1,0 +1,53 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+CSX TRANSPORTATION, INC. v. MCBRIDE
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SEVENTH CIRCUIT
+No. 10–235.
+
+Argued March 28, 2011—Decided June 23, 2011
+
+Respondent McBride, a locomotive engineer with petitioner CSX
+Transportation, Inc., an interstate railroad, sustained a debilitating
+hand injury while switching railroad cars. He filed suit under the
+Federal Employers’ Liability Act (FELA), which holds railroads liable
+for employees’ injuries “resulting in whole or in part from [carrier]
+negligence.” 45 U. S. C. §51. McBride alleged that CSX negligently
+(1) required him to use unsafe switching equipment and (2) failed to
+train him to operate that equipment. A verdict for McBride would be
+in order, the District Court instructed, if the jury found that CSX’s
+negligence “caused or contributed to” his injury. The court declined
+CSX’s request for additional charges requiring McBride to “show that
+. . . [CSX’s] negligence was a proximate cause of the injury” and de
+fining “proximate cause” as “any cause which, in natural or probable
+sequence, produced the injury complained of.” Instead, relying on
+Rogers v. Missouri Pacific R. Co., 352 U. S. 500, the court gave the
+Seventh Circuit’s pattern FELA instruction: “Defendant ‘caused or
+contributed to’ Plaintiff’s injury if Defendant’s negligence played a
+part—no matter how small—in bringing about the injury.” The jury
+returned a verdict for McBride.
+On appeal, CSX renewed its objection to the failure to instruct on
+proximate cause, now defining the phrase to require a “direct relation
+between the injury asserted and the injurious conduct alleged.” The
+appeals court, however, approved the District Court’s instruction and
+affirmed its judgment for McBride. Because Rogers had relaxed the
+proximate cause requirement in FELA cases, the court said, an in
+struction that simply paraphrased Rogers’ language could not be de
+clared erroneous.
+Held: The judgment is affirmed.
+
+

@@ -1,0 +1,897 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1555
+_________________
+
+MOHAMED ALI SAMANTAR, PETITIONER v. BASHE 
+
+ABDI YOUSUF ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FOURTH CIRCUIT
+
+[June 1, 2010]
+
+
+JUSTICE STEVENS delivered the opinion of the Court.
+From 1980 to 1986 petitioner Mohamed Ali Samantar
+was the First Vice President and Minister of Defense of
+Somalia, and from 1987 to 1990 he served as its Prime
+Minister. Respondents are natives of Somalia who allege
+that they, or members of their families, were the victims of
+torture and extrajudicial killings during those years. They
+seek damages from petitioner based on his alleged au
+thorization of those acts. The narrow question we must
+decide is whether the Foreign Sovereign Immunities Act of
+1976 (FSIA or Act), 28 U. S. C. §§1330, 1602 et seq., pro
+vides petitioner with immunity from suit based on actions
+taken in his official capacity. We hold that the FSIA does
+not govern the determination of petitioner’s immunity
+from suit.
+I
+Respondents are members of the Isaaq clan, which
+included well-educated and prosperous Somalis who were
+subjected to systematic persecution during the 1980’s by
+the military regime then governing Somalia. They allege
+that petitioner exercised command and control over mem
+
+
+2
+
+SAMANTAR v. YOUSUF
+Opinion of the Court
+
+bers of the Somali military forces who tortured, killed, or
+arbitrarily detained them or members of their families;
+that petitioner knew or should have known of the abuses
+perpetrated by his subordinates; and that he aided and
+abetted the commission of these abuses.1 Respondents’
+complaint sought damages from petitioner pursuant to the
+Torture Victim Protection Act of 1991, 106 Stat. 73, note
+following 28 U. S. C. §1350, and the Alien Tort Statute, 28
+U. S. C. §1350. Petitioner, who was in charge of Somalia’s
+armed forces before its military regime collapsed, fled
+Somalia in 1991 and is now a resident of Virginia. The
+United States has not recognized any entity as the gov
+ernment of Somalia since the fall of the military regime.
+See Brief for United States as Amicus Curiae 4.
+Respondents filed their complaint in November 2004,
+and petitioner promptly moved to dismiss. The District
+Court stayed the proceedings to give the State Depart
+ment an opportunity to provide a statement of interest
+regarding petitioner’s claim of sovereign immunity. Each
+month during the ensuing two years, petitioner advised
+the court that the State Department had the matter “ ‘still
+under consideration.’ ” No. 1:04cv1360 (ED Va., Aug. 1,
+2007), App. to Pet. for Cert. 44a. In 2007, having received
+no response from the State Department, the District Court
+reinstated the case on its active docket. The court con
+cluded that it did not have subject-matter jurisdiction and
+granted petitioner’s motion to dismiss.
+The District Court’s decision rested squarely on the
+——————
+1 Although we do not set out respondents’ allegations in detail, the
+District Court’s written opinion contains a comprehensive summary,
+describing not only the abuses respondents suffered but also the his
+torical context in which the abuses occurred, as well as some of the
+attempts to establish a stable government in Somalia in recent years.
+See No. 1:04cv1360 (ED Va., Aug. 1, 2007), App. to Pet. for Cert. 31a–
+43a.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+FSIA.2 The FSIA provides that a “foreign state shall be
+immune from the jurisdiction” of both federal and state
+courts except as provided in the Act, 28 U. S. C. §1604,
+and the District Court noted that none of the parties had
+argued that any exception was applicable, App. to Pet. for
+Cert. 46a–47a. Although characterizing the statute as
+silent on its applicability to the officials of a foreign state,
+the District Court followed appellate decisions holding
+that a foreign state’s sovereign immunity under the Act
+extends to “ ‘an individual acting in his official capacity on
+behalf of a foreign state,’ ” but not to “ ‘an official who acts
+beyond the scope of his authority.’ ” Id., at 47a (quoting
+Velasco v. Government of Indonesia, 370 F. 3d 392, 398,
+399 (CA4 2004)). The court rejected respondents’ argu
+ment that petitioner was necessarily acting beyond the
+scope of his authority because he allegedly violated inter
+national law.3
+The Court of Appeals reversed, rejecting the District
+Court’s ruling that the FSIA governs petitioner’s immu
+nity from suit. It acknowledged “the majority view”
+——————
+2 Petitioner
+
+argued that, in addition to his immunity under the FSIA,
+the complaint should be dismissed on a number of other grounds, which
+the District Court did not reach. See id., at 45a, n. 11.
+3 Because we hold that the FSIA does not govern whether an individ
+ual foreign official enjoys immunity from suit, we need not reach
+respondents’ argument that an official is not immune under the FSIA
+for acts of torture and extrajudicial killing. See Brief for Respondents
+51–53. We note that in determining petitioner had not acted beyond
+the scope of his authority, the District Court afforded great weight to
+letters from the Somali Transitional Federal Government (TFG) to the
+State Department, App. to Pet. for Cert. 55a, in which the TFG sup
+ported petitioner’s claim of immunity and stated “the actions attributed
+to [petitioner] in the lawsuit . . . would have been taken by [petitioner]
+in his official capacities,” App. 104. Although the District Court de
+scribed the TFG as “recognized by the United States as the governing
+body in Somalia,” App. to Pet. for Cert. 54a, the United States does not
+recognize the TFG (or any other entity) as the government of Somalia,
+see Brief for United States as Amicus Curiae 5.
+
+
+4
+
+SAMANTAR v. YOUSUF
+Opinion of the Court
+
+among the Circuits that “the FSIA applies to individual
+officials of a foreign state.” 552 F. 3d 371, 378 (CA4
+2009).4 It disagreed with that view, however, and con
+cluded, “based on the language and structure of the stat
+ute, that the FSIA does not apply to individual foreign
+government agents like [petitioner].” Id., at 381.5 Having
+found that the FSIA does not govern whether petitioner
+enjoys immunity from suit, the Court of Appeals re
+manded the case for further proceedings, including a
+determination of whether petitioner is entitled to immu
+nity under the common law. Id., at 383–384. We granted
+certiorari. 557 U. S. ___ (2009).
+II
+The doctrine of foreign sovereign immunity developed as
+a matter of common law long before the FSIA was enacted
+in 1976. In Verlinden B. V. v. Central Bank of Nigeria,
+461 U. S. 480, 486 (1983), we explained that in Schooner
+Exchange v. McFaddon, 7 Cranch 116 (1812), “Chief Jus
+tice Marshall concluded that . . . the United States had
+impliedly waived jurisdiction over certain activities of
+——————
+4 Compare 552 F. 3d, at 381 (holding the FSIA does not govern the
+immunity of individual foreign officials), and Enahoro v. Abubakar, 408
+F. 3d 877, 881–882 (CA7 2005) (same), with Chuidian v. Philippine
+Nat. Bank, 912 F. 2d 1095, 1103 (CA9 1990) (concluding that a suit
+against an individual official for acts committed in his official capacity
+must be analyzed under the FSIA), In re Terrorist Attacks on September
+11, 2001, 538 F. 3d 71, 83 (CA2 2008) (same), Keller v. Central Bank of
+Nigeria, 277 F. 3d 811, 815 (CA6 2002) (same), Byrd v. Corporacion
+Forestal y Industrial de Olancho S. A., 182 F. 3d 380, 388 (CA5 1999)
+(same), and El-Fadl v. Central Bank of Jordan, 75 F. 3d 668, 671
+(CADC 1996) (same).
+5 As an alternative basis for its decision, the Court of Appeals held
+that even if a current official is covered by the FSIA, a former official is
+not. See 552 F. 3d, at 381–383. Because we agree with the Court of
+Appeals on its broader ground that individual officials are not covered
+by the FSIA, petitioner’s status as a former official is irrelevant to our
+analysis.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+foreign sovereigns.” The Court’s specific holding in Schoo
+ner Exchange was that a federal court lacked jurisdiction
+over “a national armed vessel . . . of the emperor of
+France,” id., at 146, but the opinion was interpreted as
+extending virtually absolute immunity to foreign sover
+eigns as “a matter of grace and comity,” Verlinden, 461
+U. S., at 486.
+Following Schooner Exchange, a two-step procedure
+developed for resolving a foreign state’s claim of sovereign
+immunity, typically asserted on behalf of seized vessels.
+See, e.g., Republic of Mexico v. Hoffman, 324 U. S. 30, 34–
+36 (1945); Ex parte Peru, 318 U. S. 578, 587–589 (1943);
+Compania Espanola de Navegacion Maritima, S. A. v. The
+Navemar, 303 U. S. 68, 74–75 (1938). Under that proce
+dure, the diplomatic representative of the sovereign could
+request a “suggestion of immunity” from the State De
+partment. Ex parte Peru, 318 U. S., at 581. If the request
+was granted, the district court surrendered its jurisdic
+tion. Id., at 588; see also Hoffman, 324 U. S., at 34. But
+“in the absence of recognition of the immunity by the
+Department of State,” a district court “had authority to
+decide for itself whether all the requisites for such immu
+nity existed.” Ex parte Peru, 318 U. S., at 587; see also
+Compania Espanola, 303 U. S., at 75 (approving judicial
+inquiry into sovereign immunity when the “Department of
+State . . . declined to act”); Heaney v. Government of Spain,
+445 F. 2d 501, 503, and n. 2 (CA2 1971) (evaluating sov
+ereign immunity when the State Department had not
+responded to a request for its views). In making that
+decision, a district court inquired “whether the ground of
+immunity is one which it is the established policy of the
+[State Department] to recognize.” Hoffman, 324 U. S., at
+36. Although cases involving individual foreign officials as
+defendants were rare, the same two-step procedure was
+typically followed when a foreign official asserted immu
+nity. See, e.g., Heaney, 445 F. 2d, at 504–505; Waltier v.
+
+
+6
+
+SAMANTAR v. YOUSUF
+Opinion of the Court
+
+Thomson, 189 F. Supp. 319 (SDNY 1960).6
+Prior to 1952, the State Department followed a general
+practice of requesting immunity in all actions against
+friendly sovereigns, but in that year the Department
+announced its adoption of the “restrictive” theory of sover
+eign immunity. Verlinden, 461 U. S., at 486–487; see also
+Letter from Jack B. Tate, Acting Legal Adviser, Depart
+ment of State, to Acting Attorney General Philip B.
+Perlman (May 19, 1952), reprinted in 26 Dept. State Bull.
+984–985 (1952). Under this theory, “immunity is confined
+to suits involving the foreign sovereign’s public acts, and
+does not extend to cases arising out of a foreign state’s
+strictly commercial acts.” Verlinden, 461 U. S., at 487.
+This change threw “immunity determinations into some
+disarray,” because “political considerations sometimes led
+the Department to file ‘suggestions of immunity in cases
+where immunity would not have been available under the
+restrictive theory.’ ” Republic of Austria v. Altmann, 541
+U. S. 677, 690 (2004) (quoting Verlinden, 461 U. S., at
+487).
+Congress responded to the inconsistent application of
+sovereign immunity by enacting the FSIA in 1976.
+Altmann, 541 U. S., at 690–691; see also Verlinden, 461
+U. S., at 487–488. Section 1602 describes the Act’s two
+primary purposes: (1) to endorse and codify the restrictive
+theory of sovereign immunity, and (2) to transfer primary
+responsibility for deciding “claims of foreign states to
+immunity” from the State Department to the courts.7
+——————
+6 Diplomatic
+
+and consular officers could also claim the “specialized
+immunities” accorded those officials, Restatement (Second) of Foreign
+Relations Law of the United States §66, Comment b (1964–1965)
+(hereinafter Restatement), and officials qualifying as the “head of state”
+could claim immunity on that basis, see Schooner Exchange v. McFad
+don, 7 Cranch 116, 137 (1812) (describing “the exemption of the person
+of the sovereign” from “a jurisdiction incompatible with his dignity”).
+7 The full text of §1602, entitled “Findings and declaration of pur
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+After the enactment of the FSIA, the Act—and not the
+pre-existing common law—indisputably governs the de
+termination of whether a foreign state is entitled to sover
+eign immunity.
+What we must now decide is whether the Act also covers
+the immunity claims of foreign officials. We begin with
+the statute’s text and then consider petitioner’s reliance on
+its history and purpose.
+III
+The FSIA provides that “a foreign state shall be immune
+from the jurisdiction of the courts of the United States and
+of the States” except as provided in the Act. §1604. Thus,
+if a defendant is a “foreign state” within the meaning of
+the Act, then the defendant is immune from jurisdiction
+unless one of the exceptions in the Act applies. See
+§§1605–1607 (enumerating exceptions). The Act, if it
+applies, is the “sole basis for obtaining jurisdiction over a
+foreign state in federal court.” Argentine Republic v.
+Amerada Hess Shipping Corp., 488 U. S. 428, 439 (1989).
+The question we face in this case is whether an individual
+sued for conduct undertaken in his official capacity is a
+“foreign state” within the meaning of the Act.
+The Act defines “foreign state” in §1603 as follows:
+“(a) A ‘foreign state’ . . . includes a political subdivi
+——————
+pose,” reads as follows:
+“The Congress finds that the determination by United States courts
+of the claims of foreign states to immunity from the jurisdiction of such
+courts would serve the interests of justice and would protect the rights
+of both foreign states and litigants in United States courts. Under
+international law, states are not immune from the jurisdiction of
+foreign courts insofar as their commercial activities are concerned, and
+their commercial property may be levied upon for the satisfaction of
+judgments rendered against them in connection with their commercial
+activities. Claims of foreign states to immunity should henceforth be
+decided by courts of the United States and of the States in conformity
+with the principles set forth in this chapter.”
+
+
+8
+
+SAMANTAR v. YOUSUF
+Opinion of the Court
+
+sion of a foreign state or an agency or instrumentality
+of a foreign state as defined in subsection (b).
+“(b) An ‘agency or instrumentality of a foreign state’
+means any entity—
+“(1) which is a separate legal person, corporate or
+otherwise, and
+“(2) which is an organ of a foreign state or political
+subdivision thereof, or a majority of whose shares or
+other ownership interest is owned by a foreign state or
+political subdivision thereof, and
+“(3) which is neither a citizen of a State of the
+United States as defined in section 1332(c) and (e) of
+this title, nor created under the laws of any third
+country.”
+The term “foreign state” on its face indicates a body
+politic that governs a particular territory. See, e.g., Re
+statement §4 (defining “state” as “an entity that has a
+defined territory and population under the control of a
+government and that engages in foreign relations”). In
+§1603(a), however, the Act establishes that “foreign state”
+has a broader meaning, by mandating the inclusion of the
+state’s political subdivisions, agencies, and instrumentali
+ties. Then, in §1603(b), the Act specifically delimits what
+counts as an agency or instrumentality. Petitioner argues
+that either “foreign state,” §1603(a), or “agency or instru
+mentality,” §1603(b), could be read to include a foreign
+official. Although we agree that petitioner’s interpretation
+is literally possible, our analysis of the entire statutory
+text persuades us that petitioner’s reading is not the
+meaning that Congress enacted.
+We turn first to the term “agency or instrumentality of a
+foreign state,” §1603(b). It is true that an individual
+official could be an “agency or instrumentality,” if that
+term is given the meaning of “any thing or person through
+which action is accomplished,” In re Terrorist Attacks on
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+Sept. 11, 2001, 538 F. 3d 71, 83 (CA2 2008). But Congress
+has specifically defined “agency or instrumentality” in the
+FSIA, and all of the textual clues in that definition cut
+against such a broad construction.
+First, the statute specifies that “ ‘agency or instrumen
+tality . . .’ means any entity” matching three specified
+characteristics, §1603(b) (emphasis added), and “entity”
+typically refers to an organization, rather than an individ
+ual. See, e.g., Black’s Law Dictionary 612 (9th ed. 2009).
+Furthermore, several of the required characteristics apply
+awkwardly, if at all, to individuals. The phrase “separate
+legal person, corporate or otherwise,” §1603(b)(1), could
+conceivably refer to a natural person, solely by virtue of
+the word “person.” But the phrase “separate legal person”
+typically refers to the legal fiction that allows an entity to
+hold personhood separate from the natural persons who
+are its shareholders or officers. Cf. First Nat. City Bank v.
+Banco Para el Comercio Exterior de Cuba, 462 U. S. 611,
+625 (1983) (“Separate legal personality has been described
+as ‘an almost indispensable aspect of the public corpora
+tion’ ”). It is similarly awkward to refer to a person as an
+“organ” of the foreign state. See §1603(b)(2). And the
+third part of the definition could not be applied at all to a
+natural person. A natural person cannot be a citizen of a
+State “as defined in section 1332(c) and (e),” §1603(b)(3),
+because those subsections refer to the citizenship of corpo
+rations and estates. Nor can a natural person be “created
+under the laws of any third country.” Ibid.8 Thus, the
+——————
+8 Petitioner
+
+points out that §1603(b)(3) describes only which defen
+dants cannot be agencies or instrumentalities. He suggests that it
+therefore tells us nothing about which defendants can be covered by
+that term. Brief for Petitioner 46. Even if so, reading §1603(b) as
+petitioner suggests would leave us with the odd result that a corpora
+tion that is the citizen of a state is excluded from the definition under
+§1603(b)(3), and thus not immune, whereas a natural person who is the
+citizen of a state is not excluded, and thus retains his immunity.
+
+
+10
+
+SAMANTAR v. YOUSUF
+Opinion of the Court
+
+terms Congress chose simply do not evidence the intent to
+include individual officials within the meaning of “agency
+or instrumentality.”9 Cf. Dole Food Co. v. Patrickson, 538
+U. S. 468, 474 (2003) (describing §1603(b) as containing
+“indicia that Congress had corporate formalities in mind”).
+Petitioner proposes a second textual route to including
+an official within the meaning of “foreign state.” He ar
+gues that the definition of “foreign state” in §1603(a) sets
+out a nonexhaustive list that “includes” political subdivi
+sions and agencies or instrumentalities but is not so lim
+ited. See Brief for Petitioner 22–23. It is true that use of
+the word “include” can signal that the list that follows is
+meant to be illustrative rather than exhaustive.10 And, to
+——————
+9 Nor does anything in the legislative history suggest that Congress
+intended the term “agency or instrumentality” to include individuals.
+On the contrary, the legislative history, like the statute, speaks in
+terms of entities. See, e.g., H. R. Rep. No. 94–1487, p. 15 (1976) (here
+inafter H. R. Rep.) (“The first criterion, that the entity be a separate
+legal person, is intended to include a corporation, association, founda
+tion, or any other entity which, under the law of the foreign state where
+it was created, can sue or be sued in its own name”).
+JUSTICE SCALIA may well be correct that it is not strictly necessary to
+confirm our reading of the statutory text by consulting the legislative
+history, see post, at 1–2 (opinion concurring in judgment). But as the
+Court explained some years ago in an opinion authored by Justice
+White:
+“As for the propriety of using legislative history at all, common sense
+suggests that inquiry benefits from reviewing additional information
+rather than ignoring it. As Chief Justice Marshall put it, ‘[w]here the
+mind labours to discover the design of the legislature, it seizes every
+thing from which aid can be derived.’ United States v. Fisher, 2 Cranch
+358, 386 (1805). Legislative history materials are not generally so
+misleading that jurists should never employ them in a good-faith effort
+to discern legislative intent. Our precedents demonstrate that the
+Court’s practice of utilizing legislative history reaches well into its past.
+See, e.g., Wallace v. Parker, 6 Pet. 680, 687–690 (1832). We suspect
+that the practice will likewise reach well into the future.” Wisconsin
+Public Intervenor v. Mortier, 501 U. S. 597, 611–612, n. 4 (1991) (altera
+tion in original).
+10 See 2A N. Singer & J. Singer, Sutherland Statutory Construction
+
+
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+be sure, there are fewer textual clues within §1603(a) than
+within §1603(b) from which to interpret Congress’ silence
+regarding foreign officials. But even if the list in §1603(a)
+is merely illustrative, it still suggests that “foreign state”
+does not encompass officials, because the types of defen
+dants listed are all entities. See Russell Motor Car Co. v.
+United States, 261 U. S. 514, 519 (1923) (“[A] word may be
+known by the company it keeps”).
+Moreover, elsewhere in the FSIA Congress expressly
+mentioned officials when it wished to count their acts as
+equivalent to those of the foreign state, which suggests
+that officials are not included within the unadorned term
+“foreign state.” Cf. Kimbrough v. United States, 552 U. S.
+85, 103 (2007) (“Drawing meaning from silence is particu
+larly inappropriate . . . [when] Congress has shown that it
+knows how to [address an issue] in express terms”). For
+example, Congress provided an exception from the general
+grant of immunity for cases in which “money damages are
+sought against a foreign state” for an injury in the United
+States “caused by the tortious act or omission of that
+foreign state or of any official or employee of that foreign
+state while acting within the scope of his office.”
+§1605(a)(5) (emphasis added). The same reference to
+officials is made in a similar, later enacted exception. See
+28 U. S. C. A. §1605A(a)(1) (Supp. 2009) (eliminating
+immunity for suits “in which money damages are sought
+against a foreign state” for certain acts “engaged in by an
+official, employee, or agent of such foreign state while
+acting within the scope of his or her office, employment, or
+agency”); see also §1605A(c) (creating a cause of action
+against the “foreign state” and “any official, employee, or
+—————— 
+
+§47.7, p. 305 (7th ed. 2007) (“[T]he word ‘includes’ is usually a term of 
+
+enlargement, and not of limitation” (some internal quotation marks
+
+omitted)). 
+
+
+
+12
+
+SAMANTAR v. YOUSUF
+Opinion of the Court
+
+agent” thereof).11 If the term “foreign state” by definition
+includes an individual acting within the scope of his office,
+the phrase “or of any official or employee . . .” in 28
+U. S. C. §1605(a)(5) would be unnecessary. See Dole Food
+Co., 538 U. S., at 476–477 (“[W]e should not construe the
+statute in a manner that is strained and, at the same
+time, would render a statutory term superfluous”).
+Other provisions of the statute also point away from
+reading “foreign state” to include foreign officials. Con
+gress made no express mention of service of process on
+individuals in §1608(a), which governs service upon a
+foreign state or political subdivision. Although some of the
+methods listed could be used to serve individuals—for
+example, by delivery “in accordance with an applicable
+international convention,” §1608(a)(2)—the methods
+specified are at best very roundabout ways of serving an
+individual official. Furthermore, Congress made specific
+remedial choices for different types of defendants. See
+§1606 (allowing punitive damages for an agency or in
+strumentality but not for a foreign state); §1610 (affording
+a plaintiff greater rights to attach the property of an
+agency or instrumentality as compared to the property of a
+foreign state). By adopting petitioner’s reading of “foreign
+state,” we would subject claims against officials to the
+more limited remedies available in suits against states,
+——————
+11 Petitioner argues that §1605A abrogates immunity for certain acts
+by individual officials, which would be superfluous if the officials were
+not otherwise immune. See Brief for Petitioner 41–43. But the import
+of §1605A is precisely the opposite. First, §1605A(a)(1) eliminates the
+immunity of the state for certain acts of its officers; it says a “foreign
+state shall not be immune” in a suit “in which money damages are
+sought against a foreign state.” As it does not expressly refer to the
+immunity of individual officers, it adds nothing to petitioner’s argu
+ment. Second, the creation of a cause of action against both the “for
+eign state” and “any official, employee, or agent” thereof, §1605A(c),
+reinforces the idea that “foreign state” does not by definition include
+foreign officials.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+without so much as a whisper from Congress on the sub
+ject. (And if we were instead to adopt petitioner’s other
+textual argument, we would subject those claims to the
+different, more expansive, remedial scheme for agencies).
+The Act’s careful calibration of remedies among the listed
+types of defendants suggests that Congress did not mean
+to cover other types of defendants never mentioned in the
+text.
+In sum, “[w]e do not . . . construe statutory phrases in
+isolation; we read statutes as a whole.” United States v.
+Morton, 467 U. S. 822, 828 (1984). Reading the FSIA as a
+whole, there is nothing to suggest we should read “foreign
+state” in §1603(a) to include an official acting on behalf of
+the foreign state, and much to indicate that this meaning
+was not what Congress enacted.12 The text does not ex
+pressly foreclose petitioner’s reading, but it supports the
+view of respondents and the United States that the Act
+does not address an official’s claim to immunity.
+IV
+Petitioner argues that the FSIA is best read to cover his
+claim to immunity because of its history and purpose. As
+discussed at the outset, one of the primary purposes of the
+FSIA was to codify the restrictive theory of sovereign
+immunity, which Congress recognized as consistent with
+extant international law. See §1602. We have observed
+——————
+12 Nor
+
+is it the case that the FSIA’s “legislative history does not even
+hint of an intent to exclude individual officials,” Chuidian, 912 F. 2d, at
+1101. The legislative history makes clear that Congress did not intend
+the FSIA to address position-based individual immunities such as
+diplomatic and consular immunity. H. R. Rep., at 12 (“The bill is not
+intended . . . . to affect either diplomatic or consular immunity”). It also
+suggests that general “official immunity” is something separate from
+the subject of the bill. See id., at 23 (“The bill does not attempt to deal
+with questions of discovery. . . . [I]f a plaintiff sought to depose a
+diplomat in the United States or a high-ranking official of a foreign
+government, diplomatic and official immunity would apply”).
+
+
+14
+
+SAMANTAR v. YOUSUF
+Opinion of the Court
+
+that a related purpose was “codification of international
+law at the time of the FSIA’s enactment,” Permanent
+Mission of India to United Nations v. City of New York,
+551 U. S. 193, 199 (2007), and have examined the relevant
+common law and international practice when interpreting
+the Act, id., at 200–201. Because of this relationship
+between the Act and the common law that it codified,
+petitioner argues that we should construe the FSIA con
+sistently with the common law regarding individual im
+munity, which—in petitioner’s view—was coextensive with
+the law of state immunity and always immunized a for
+eign official for acts taken on behalf of the foreign state.
+Even reading the Act in light of Congress’ purpose of
+codifying state sovereign immunity, however, we do not
+think that the Act codified the common law with respect to
+the immunity of individual officials.
+The canon of construction that statutes should be inter
+preted consistently with the common law helps us inter
+pret a statute that clearly covers a field formerly governed
+by the common law.13 But the canon does not help us to
+decide the antecedent question whether, when a statute’s
+coverage is ambiguous, Congress intended the statute to
+govern a particular field—in this case, whether Congress
+intended the FSIA to supersede the common law of official
+immunity.14
+——————
+13 Congress “is understood to legislate against a background of com
+mon-law . . . principles,” Astoria Fed. Sav. & Loan Assn. v. Solimino,
+501 U. S. 104, 108 (1991), and when a statute covers an issue previ
+ously governed by the common law, we interpret the statute with the
+presumption that Congress intended to retain the substance of the
+common law. See Isbrandtsen Co. v. Johnson, 343 U. S. 779, 783 (1952)
+(“Statutes which invade the common law . . . are to be read with a
+presumption favoring the retention of long-established and familiar
+principles, except when a statutory purpose to the contrary is evident”).
+14 We find similarly inapposite petitioner’s invocation of the canon
+that a statute should be interpreted in compliance with international
+law, see Murray v. Schooner Charming Betsy, 2 Cranch 64, 118 (1804),
+
+
+Cite as: 560 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+Petitioner argues that because state and official immu
+nities are coextensive, Congress must have codified official
+immunity when it codified state immunity. See Brief for
+Petitioner 26–30. But the relationship between a state’s
+immunity and an official’s immunity is more complicated
+than petitioner suggests, although we need not and do not
+resolve the dispute among the parties as to the precise
+scope of an official’s immunity at common law. The very
+authority to which petitioner points us, and which we have
+previously found instructive, see, e.g., Permanent Mission,
+551 U. S., at 200, states that the immunity of individual
+officials is subject to a caveat not applicable to any of the
+other entities or persons15 to which the foreign state’s
+immunity extends. The Restatement provides that the
+“immunity of a foreign state . . . extends to . . . any other
+public minister, official, or agent of the state with respect
+to acts performed in his official capacity if the effect of
+exercising jurisdiction would be to enforce a rule of law
+against the state.” Restatement §66 (emphasis added).16
+——————
+and his argument that foreign relations and the reciprocal protection of
+United States officials abroad would be undermined if we do not adopt
+his reading of the Act. Because we are not deciding that the FSIA bars
+petitioner’s immunity but rather that the Act does not address the
+question, we need not determine whether declining to afford immunity
+to petitioner would be consistent with international law.
+15 The Restatement does not apply this caveat to the head of state,
+head of government, or foreign minister. See Restatement §66.
+Whether petitioner may be entitled to head of state immunity, or any
+other immunity, under the common law is a question we leave open for
+remand. See 552 F. 3d 371, 383 (CA4 2009). We express no view on
+whether Restatement §66 correctly sets out the scope of the common
+law immunity applicable to current or former foreign officials.
+16 Respondents contend that this caveat refers to “the compulsive
+effect of the judgment on the state,” Brief for Respondents 42, but
+petitioner disputes that meaning, Reply Brief for Petitioner 17–18. We
+need not resolve their dispute, as it is enough for present purposes that
+the Restatement indicates a foreign official’s immunity may turn upon
+a requirement not applicable to any other type of defendant.
+
+
+16
+
+SAMANTAR v. YOUSUF
+Opinion of the Court
+
+And historically, the Government sometimes suggested
+immunity under the common law for individual officials
+even when the foreign state did not qualify. See, e.g.,
+Greenspan v. Crosbie, No. 74 Civ. 4734 (GLG), 1976 WL
+841 (SDNY, Nov. 23, 1976). There is therefore little rea
+son to presume that when Congress set out to codify state
+immunity, it must also have, sub silentio, intended to
+codify official immunity.
+Petitioner urges that a suit against an official must
+always be equivalent to a suit against the state because
+acts taken by a state official on behalf of a state are acts of
+the state. See Brief for Petitioner 26. We have recog
+nized, in the context of the act of state doctrine, that an
+official’s acts can be considered the acts of the foreign
+state, and that “the courts of one country will not sit in
+judgment” of those acts when done within the territory of
+the foreign state. See Underhill v. Hernandez, 168 U. S.
+250, 252, 254 (1897). Although the act of state doctrine is
+distinct from immunity, and instead “provides foreign
+states with a substantive defense on the merits,” Altmann,
+541 U. S., at 700, we do not doubt that in some circum
+stances the immunity of the foreign state extends to an
+individual for acts taken in his official capacity. But it
+does not follow from this premise that Congress intended
+to codify that immunity in the FSIA. It hardly furthers
+Congress’ purpose of “clarifying the rules that judges
+should apply in resolving sovereign immunity claims,” id.,
+at 699, to lump individual officials in with foreign states
+without so much as a word spelling out how and when
+individual officials are covered.17
+——————
+17 The courts of appeals have had to develop, in the complete absence
+of any statutory text, rules governing when an official is entitled to
+immunity under the FSIA. For example, Courts of Appeals have
+applied the rule that foreign sovereign immunity extends to an individ
+ual official “for acts committed in his official capacity” but not to “an
+official who acts beyond the scope of his authority.” Chuidian, 912
+
+
+Cite as: 560 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+Petitioner would have a stronger case if there were any
+indication that Congress’ intent to enact a comprehensive
+solution for suits against states extended to suits against
+individual officials. But to the extent Congress contem
+plated the Act’s effect upon officials at all, the evidence
+points in the opposite direction. As we have already men
+tioned, the legislative history points toward an intent to
+leave official immunity outside the scope of the Act. See
+n. 12, supra. And although questions of official immunity
+did arise in the pre-FSIA period, they were few and far
+between.18 The immunity of officials simply was not the
+particular problem to which Congress was responding
+when it enacted the FSIA. The FSIA was adopted, rather,
+to address “a modern world where foreign state enter
+prises are every day participants in commercial activities,”
+and to assure litigants that decisions regarding claims
+against states and their enterprises “are made on purely
+legal grounds.” H. R. Rep., at 7. We have been given no
+reason to believe that Congress saw as a problem, or
+wanted to eliminate, the State Department’s role in de
+terminations regarding individual official immunity.19
+——————
+F. 2d, at 1103, 1106. That may be correct as a matter of common-law
+principles, but it does not derive from any clarification or codification
+by Congress. Furthermore, if Congress intended the FSIA to reach
+individuals, one would expect the Act to have addressed whether former
+officials are covered, an issue it settled with respect to instrumentali
+ties, see Dole Food Co. v. Patrickson, 538 U. S. 468, 478 (2003)
+(“[I]nstrumentality status [must] be determined at the time suit is
+filed”).
+18 A study that attempted to gather all of the State Department deci
+sions related to sovereign immunity from the adoption of the restrictive
+theory in 1952 to the enactment of the FSIA reveals only four decisions
+related to official immunity, and two related to head of state immunity,
+out of a total of 110 decisions. Sovereign Immunity Decisions of the
+Dept. of State, May 1952 to Jan. 1977 (M. Sandler, D. Vagts, & B.
+Ristau eds.), in Digest of U. S. Practice in Int’l Law 1020, 1080 (1977)
+(hereinafter Digest).
+19 The FSIA was introduced in accordance with the recommendation
+
+
+18
+
+SAMANTAR v. YOUSUF
+Opinion of the Court
+
+Finally, our reading of the FSIA will not “in effect make
+the statute optional,” as some Courts of Appeals have
+feared, by allowing litigants through “artful pleading . . .
+to take advantage of the Act’s provisions or, alternatively,
+choose to proceed under the old common law,” Chuidian v.
+Philippine Nat. Bank, 912 F. 2d 1095, 1102 (CA9 1990).
+Even if a suit is not governed by the Act, it may still be
+barred by foreign sovereign immunity under the common
+law. And not every suit can successfully be pleaded
+against an individual official alone.20 Even when a plain
+tiff names only a foreign official, it may be the case that
+the foreign state itself, its political subdivision, or an
+agency or instrumentality is a required party, because
+——————
+of the State Department. H. R. Rep., at 6. The Department sought and
+supported the elimination of its role with respect to claims against
+foreign states and their agencies or instrumentalities. See Hearings on
+H. R. 11315 before the Subcommittee on Administrative Law and
+Governmental Relations of the House of Representatives Committee on
+the Judiciary, 94th Cong., 2d Sess., 34 (1976) (testimony of Monroe
+Leigh, Legal Adviser, Dept. of State) (“[I]t is our judgment . . . that the
+advantages of having a judicial determination greatly outweigh the
+advantage of being able to intervene in a lawsuit”). But the Depart
+ment has from the time of the FSIA’s enactment understood the Act to
+leave intact the Department’s role in official immunity cases. See
+Digest 1020 (“These decisions [of the Department regarding the immu
+nity of officials] may be of some future significance, because the Foreign
+Sovereign Immunities Act does not deal with the immunity of individ
+ual officials, but only that of foreign states and their political subdivi
+sions, agencies and instrumentalities”).
+20 Furthermore, a plaintiff seeking to sue a foreign official will not be
+able to rely on the Act’s service of process and jurisdictional provisions.
+Thus, a plaintiff will have to establish that the district court has
+personal jurisdiction over an official without the benefit of the FSIA
+provision that makes personal jurisdiction over a foreign state auto
+matic when an exception to immunity applies and service of process has
+been accomplished in accordance with 28 U. S. C. §1608. See §1330(b)
+(“Personal jurisdiction over a foreign state shall exist as to every claim
+for relief over which the district courts have jurisdiction under subsec
+tion (a),” i.e., claims for which the foreign state is not entitled to immu
+nity, “where service has been made under section 1608 of this title”).
+
+
+Cite as: 560 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+that party has “an interest relating to the subject of the
+action” and “disposing of the action in the person’s absence
+may . . . as a practical matter impair or impede the per
+son’s ability to protect the interest.” Fed. Rule Civ. Proc.
+19(a)(1)(B). If this is the case, and the entity is immune
+from suit under the FSIA, the district court may have to
+dismiss the suit, regardless of whether the official is im
+mune or not under the common law. See Republic of
+Philippines v. Pimentel, 553 U. S. 851, 867 (2008)
+(“[W]here sovereign immunity is asserted, and the claims
+of the sovereign are not frivolous, dismissal of the action
+must be ordered where there is a potential for injury to
+the interests of the absent sovereign”). Or it may be the
+case that some actions against an official in his official
+capacity should be treated as actions against the foreign
+state itself, as the state is the real party in interest. Cf.
+Kentucky v. Graham, 473 U. S. 159, 166 (1985) (“[A]n
+official-capacity suit is, in all respects other than name, to
+be treated as a suit against the entity. It is not a suit
+against the official personally, for the real party in inter
+est is the entity” (citation omitted)).
+We are thus not persuaded that our construction of the
+statute’s text should be affected by the risk that plaintiffs
+may use artful pleading to attempt to select between
+application of the FSIA or the common law. And we think
+this case, in which respondents have sued petitioner in his
+personal capacity and seek damages from his own pockets,
+is properly governed by the common law because it is not a
+claim against a foreign state as the Act defines that term.
+Although Congress clearly intended to supersede the
+common-law regime for claims against foreign states, we
+find nothing in the statute’s origin or aims to indicate that
+Congress similarly wanted to codify the law of foreign
+official immunity.
+
+
+20
+
+SAMANTAR v. YOUSUF 
+
+Opinion of the Court 
+
+
+V
+
+Our review of the text, purpose, and history of the FSIA
+leads us to the conclusion that the Court of Appeals cor
+rectly held the FSIA does not govern petitioner’s claim of
+immunity. The Act therefore did not deprive the District
+Court of subject-matter jurisdiction. We emphasize, how
+ever, the narrowness of our holding. Whether petitioner
+may be entitled to immunity under the common law, and
+whether he may have other valid defenses to the grave
+charges against him, are matters to be addressed in the
+first instance by the District Court on remand. The judg
+ment of the Court of Appeals is affirmed, and the case is
+remanded for further proceedings consistent with this
+opinion.
+It is so ordered.
+
+

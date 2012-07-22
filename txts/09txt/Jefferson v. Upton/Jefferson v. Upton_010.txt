@@ -1,0 +1,43 @@
+10
+
+JEFFERSON v. UPTON
+Per Curiam
+
+federal court is not “duty-bound” to accept any and all
+state-court findings that are “fairly supported by the
+record.” Those words come from §2254(d)(8), which is only
+one of eight enumerated exceptions to the presumption of
+correctness. But there are seven others, see §§2254(d)(1)–
+(7), none of which the Court of Appeals considered when
+addressing Jefferson’s claim. To be sure, we have previ
+ously stated in cases applying §2254(d)(8) that “a federal
+court” may not overturn a state court’s factual conclusion
+“unless the conclusion is not ‘fairly supported by the re
+cord.’ ” Parker v. Dugger, 498 U. S. 308, 320 (1991) (grant
+ing federal habeas relief after rejecting state court’s find
+ing under §2254(d)(8)); see also Demosthenes v. Baal, 495
+U. S. 731 (1990) (per curiam) (applying §2254(d)(8)); cf.
+post, at 10 (SCALIA, J., dissenting). But in those cases
+there was no suggestion that any other provisions enu
+merated in §2254(d) were at issue. That is not the case
+here. In treating §2254(d)(8) as the exclusive statutory
+exception, and by failing to address Jefferson’s argument
+that the state court’s procedures deprived its findings of
+deference, the Court of Appeals applied the statute and
+our precedents incorrectly.
+Although we have stated that a court’s “verbatim adop
+tion of findings of fact prepared by prevailing parties”
+should be treated as findings of the court, we have also
+criticized that practice. Anderson, 470 U. S., at 572. And
+we have not considered the lawfulness of, nor the applica
+tion of the habeas statute to, the use of such a practice
+where (1) a judge solicits the proposed findings ex parte,
+(2) does not provide the opposing party an opportunity to
+criticize the findings or to submit his own, or (3) adopts
+findings that contain internal evidence suggesting that
+the judge may not have read them. Cf. id., at 568; Ga.
+Code of Judicial Conduct, Canon 3(A)(4) (1993) (prohibit
+ing ex parte judicial communications).
+We decline to determine in the first instance whether
+
+

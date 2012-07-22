@@ -1,0 +1,46 @@
+8
+
+RANSOM v. FIA CARD SERVICES, N. A.
+Opinion of the Court
+
+debtors who qualify for an allowance from those who do
+not, it could have omitted the term “applicable” altogether.
+Without that word, all debtors would be eligible to claim a
+deduction for each category listed in the Standards. Con
+gress presumably included “applicable” to achieve a differ
+ent result. See Leocal v. Ashcroft, 543 U. S. 1, 12 (2004)
+(“[W]e must give effect to every word of a statute wherever
+possible”). Interpreting the statute to require a threshold
+determination of eligibility ensures that the term “appli
+cable” carries meaning, as each word in a statute should.
+This reading of “applicable” also draws support from the
+statutory context. The Code initially defines a debtor’s
+disposable income as his “current monthly income . . . less
+amounts reasonably necessary to be expended.” §1325(b)(2)
+(emphasis added).
+The statute then instructs that
+“[a]mounts reasonably necessary to be expended . . . shall
+be determined in accordance with” the means test.
+§1325(b)(3). Because Congress intended the means test to
+approximate the debtor’s reasonable expenditures on
+essential items, a debtor should be required to qualify for
+a deduction by actually incurring an expense in the rele
+vant category. If a debtor will not have a particular kind
+of expense during his plan, an allowance to cover that cost
+is not “reasonably necessary” within the meaning of the
+statute.5
+Finally, consideration of BAPCPA’s purpose strengthens
+our reading of the term “applicable.” Congress designed
+——————
+5 This interpretation also avoids the anomalous result of granting
+preferential treatment to individuals with above-median income.
+Because the means test does not apply to Chapter 13 debtors whose
+incomes are below the median, those debtors must prove on a case-by
+case basis that each claimed expense is reasonably necessary. See
+§§1325(b)(2) and (3). If a below-median-income debtor cannot take a
+deduction for a nonexistent expense, we doubt Congress meant to
+provide such an allowance to an above-median-income debtor—the very
+kind of debtor whose perceived abuse of the bankruptcy system in
+spired Congress to enact the means test.
+
+

@@ -1,0 +1,50 @@
+2
+
+CARR v. UNITED STATES
+Syllabus
+§2250(a)(1). That §2250 sets forth the travel requirement in the pre
+sent tense (“travels”) rather than in the past or present perfect
+(“traveled” or “has traveled”) reinforces this conclusion. See, e.g.,
+United States v. Wilson, 503 U. S. 329, 333. And because the Dic
+tionary Act’s provision that statutory “words used in the present
+tense include the future as well as the present,” 1 U. S. C. §1, implies
+that the present tense generally does not include the past, regulating
+a person who “travels” is not readily understood to encompass a per
+son whose only travel occurred before the statute took effect. Indeed,
+there appears to be no instance in which this Court has construed a
+present-tense verb in a criminal law to reach preenactment conduct.
+The statutory context also supports a forward-looking construction of
+“travels.” First, the word “travels” is followed in §2250(a)(2)(B) by a
+series of other present tense verbs—“enters or leaves, or resides.” A
+statute’s “undeviating use of the present tense” is a “striking
+indic[ator]” of its “prospective orientation.” Gwaltney of Smithfield,
+Ltd. v. Chesapeake Bay Foundation, Inc., 484 U. S. 49, 59. Second,
+the other elements of a §2250 violation are similarly set forth in the
+present tense: Sections 2250(a)(1) and (a)(3) refer, respectively, to
+any person who “is required to register under [SORNA]” and who
+“knowingly fails to register or update a registration.” (Emphasis
+added.) Had Congress intended preenactment conduct to satisfy
+§2250’s first two requirements but not the third, it presumably would
+have varied the verb tenses, as it has in numerous other federal stat
+utes. Pp. 5–11.
+(b) The Government’s two principal arguments for construing the
+statute to cover pre-SORNA travel are unpersuasive. Pp. 11–18.
+(1) The claim that such a reading avoids an “anomaly” in the
+statute’s coverage of federal versus state sex offenders is rejected.
+Section 2250 imposes criminal liability on two categories of persons
+who fail to adhere to SORNA’s registration requirements: any person
+who is a sex offender “by reason of a conviction under Federal law
+. . . ,” §2250(a)(2)(A), and any other person required to register under
+SORNA who “travels in interstate or foreign commerce,”
+§2250(a)(2)(B). The Government’s assertion that §2250(a)(2)’s juris
+dictional reach should have comparable breadth as applied to both
+federal and state sex offenders is little more than ipse dixit. It is en
+tirely reasonable for Congress to have assigned the Federal Govern
+ment a special role in ensuring compliance with SORNA’s registra
+tion requirements by federal sex offenders, who typically would have
+spent time under federal criminal supervision. It is similarly reason
+able for Congress to have given the States primary responsibility for
+supervising and ensuring compliance among state sex offenders and
+to have subjected such offenders to federal criminal liability only
+
+

@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+HERTZ CORP. v. FRIEND ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 08–1107. Argued November 10, 2009––Decided February 23, 2010
+Respondents, California citizens, sued petitioner Hertz Corporation in a
+California state court for claimed state-law violations. Hertz sought
+removal to the Federal District Court under 28 U. S. C. §§1332(d)(2),
+1441(a), claiming that because it and respondents were citizens of dif
+ferent States, §§1332(a)(1), (c)(1), the federal court possessed diver
+sity-of-citizenship jurisdiction. Respondents, however, claimed that
+Hertz was a California citizen, like themselves, and that, hence, di
+versity jurisdiction was lacking under §1332(c)(1), which provides
+that “a corporation shall be deemed to be a citizen of any State by
+which it has been incorporated and of the State where it has its prin
+cipal place of business.” To show that its “principal place of business”
+was in New Jersey, not California, Hertz submitted a declaration
+stating, among other things, that it operated facilities in 44 States,
+that California accounted for only a portion of its business activity,
+that its leadership is at its corporate headquarters in New Jersey,
+and that its core executive and administrative functions are primar
+ily carried out there. The District Court concluded that it lacked di
+versity jurisdiction because Hertz was a California citizen under
+Ninth Circuit precedent, which asks, inter alia, whether the amount
+of the corporation’s business activity is “significantly larger” or “sub
+stantially predominates” in one State. Finding that California was
+Hertz’s “principal place of business” under that test because a plural
+ity of the relevant business activity occurred there, the District Court
+remanded the case to state court. The Ninth Circuit affirmed.
+Held:
+1. Respondents’ argument that this Court lacks jurisdiction under
+§1453(c)—which expressly permits appeals of remand orders such as
+the District Court’s only to “court[s] of appeals,” not to the Supreme
+
+

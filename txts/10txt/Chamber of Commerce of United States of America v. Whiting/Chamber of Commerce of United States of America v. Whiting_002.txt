@@ -1,0 +1,54 @@
+2
+
+CHAMBER OF COMMERCE OF UNITED STATES OF 
+
+AMERICA v. WHITING 
+
+Syllabus 
+
+federal preenforcement suit against those charged with administer
+ing the Arizona law, arguing that the state law’s license suspension
+and revocation provisions were both expressly and impliedly pre
+empted by federal immigration law, and that the mandatory use of EVerify was impliedly preempted. The District Court found that the
+plain language of IRCA’s preemption clause did not invalidate the
+Arizona law because the law did no more than impose licensing con
+ditions on businesses operating within the State. Nor was the state
+law preempted with respect to E-Verify, the court concluded, because
+although Congress had made the program voluntary at the national
+level, it had expressed no intent to prevent States from mandating
+participation. The Ninth Circuit affirmed.
+
+Held: The judgment is affirmed.
+558 F. 3d 856, affirmed.
+THE CHIEF JUSTICE delivered the opinion of the Court with respect
+to Parts I and II–A, concluding that Arizona’s licensing law is not ex
+pressly preempted.
+Arizona’s licensing law falls well within the confines of the author
+ity Congress chose to leave to the States and therefore is not ex
+pressly preempted. While IRCA prohibits States from imposing “civil
+or criminal sanctions” on those who employ unauthorized aliens, it
+preserves state authority to impose sanctions “through licensing and
+similar laws.” §1324a(h)(2). That is what the Arizona law does—it
+instructs courts to suspend or revoke the business licenses of in-state
+employers that employ unauthorized aliens. The definition of “li
+cense” contained in the Arizona statute largely parrots the definition
+of “license” that Congress codified in the Administrative Procedure
+Act (APA).
+The state statute also includes within its definition of “license”
+documents such as articles of incorporation, certificates of partner
+ship, and grants of authority to foreign companies to transact busi
+ness in the State, Ariz. Rev. Stat. Ann. §23–211(9), each of which has
+clear counterparts in APA and dictionary definitions of the word “li
+cense.” And even if a law regulating articles of incorporation and the
+like is not itself a “licensing law,” it is at the very least “similar” to
+one, and therefore comfortably within the savings clause. The
+Chamber’s argument that the Arizona law is not a “licensing” law be
+cause it operates only to suspend and revoke licenses rather than to
+grant them is without basis in law, fact, or logic.
+The Chamber contends that the savings clause should apply only to
+certain types of licenses or only to license revocation following an
+IRCA adjudication because Congress, when enacting IRCA, elimi
+nated unauthorized worker prohibitions and associated adjudication
+procedures in another federal statute. But no such limits are even
+
+

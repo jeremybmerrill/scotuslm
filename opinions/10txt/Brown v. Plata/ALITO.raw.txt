@@ -1,0 +1,757 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–1233
+_________________
+
+EDMUND G. BROWN, JR., GOVERNOR OF CAL- 
+
+IFORNIA, ET AL., APPELLANTS v. MARCIANO 
+
+PLATA ET AL. 
+
+ON APPEAL FROM THE UNITED STATES DISTRICT COURTS 
+
+FOR THE EASTERN DISTRICT AND THE NORTHERN
+
+DISTRICT OF CALIFORNIA
+
+[May 23, 2011] 
+
+
+JUSTICE ALITO, with whom THE CHIEF JUSTICE joins,
+dissenting.
+The decree in this case is a perfect example of what
+the Prison Litigation Reform Act of 1995 (PLRA), 110 Stat.
+1321–66, was enacted to prevent.
+The Constitution does not give federal judges the au
+thority to run state penal systems. Decisions regarding
+state prisons have profound public safety and financial
+implications, and the States are generally free to make
+these decisions as they choose. See Turner v. Safley, 482
+U. S. 78, 85 (1987).
+The Eighth Amendment imposes an important—but
+limited—restraint on state authority in this field. The
+Eighth Amendment prohibits prison officials from depriving inmates of “the minimal civilized measure of life’s
+necessities.” Rhodes v. Chapman, 452 U. S. 337, 347
+(1981). Federal courts have the responsibility to ensure
+that this constitutional standard is met, but undesirable
+prison conditions that do not violate the Constitution are
+beyond the federal courts’ reach.
+In this case, a three-judge court exceeded its authority
+under the Constitution and the PLRA. The court ordered
+a radical reduction in the California prison population
+
+
+2
+
+BROWN v. PLATA
+ALITO, J., dissenting
+
+without finding that the current population level violates
+the Constitution.
+Two cases were before the three-judge court, and neither
+targeted the general problem of overcrowding. Indeed, the
+plaintiffs in one of those cases readily acknowledge that
+the current population level is not itself unconstitutional.
+Brief for Coleman Appellees 56. Both of the cases were
+brought not on behalf of all inmates subjected to over
+crowding, but rather in the interests of much more limited
+classes of prisoners, namely, those needing mental health
+treatment and those with other serious medical needs.
+But these cases were used as a springboard to implement
+a criminal justice program far different from that chosen
+by the state legislature. Instead of crafting a remedy to
+attack the specific constitutional violations that were
+found—which related solely to prisoners in the two plain
+tiff classes—the lower court issued a decree that will at
+best provide only modest help to those prisoners but that
+is very likely to have a major and deleterious effect on
+public safety.
+The three-judge court ordered the premature release of
+approximately 46,000 criminals—the equivalent of three
+Army divisions.
+The approach taken by the three-judge court flies in the
+face of the PLRA. Contrary to the PLRA, the court’s rem
+edy is not narrowly tailored to address proven and ongoing
+constitutional violations. And the three-judge court vio
+lated the PLRA’s critical command that any court con
+templating a prisoner release order must give “substantial
+weight to any adverse impact on public safety.” 18
+U. S. C. §3626(a)(1)(A). The three-judge court would have
+us believe that the early release of 46,000 inmates will not
+imperil—and will actually improve—public safety. Juris.
+Statement App., O. T. 2009, No. 09–416, pp. 248a–249a
+(hereinafter Juris. App.). Common sense and experience
+counsel greater caution.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+ALITO, J., dissenting
+
+I would reverse the decision below for three interrelated
+reasons. First, the three-judge court improperly refused
+to consider evidence concerning present conditions in the
+California prison system. Second, the court erred in hold
+ing that no remedy short of a massive prisoner release can
+bring the California system into compliance with the
+Eighth Amendment. Third, the court gave inadequate
+weight to the impact of its decree on public safety.
+I
+Both the PLRA and general principles concerning in
+junctive relief dictate that a prisoner release order cannot
+properly be issued unless the relief is necessary to remedy
+an ongoing violation. Under the PLRA, a prisoner release
+may be decreed only if crowding “is the primary cause” of
+an Eighth Amendment violation and only if no other re
+lief “will remedy” the violation. §3626(a)(3)(E) (emphasis
+added). This language makes it clear that proof of past
+violations alone is insufficient to justify a court-ordered
+prisoner release.
+Similarly, in cases not governed by the PLRA, we have
+held that an inmate seeking an injunction to prevent a
+violation of the Eighth Amendment must show that prison
+officials are “knowingly and unreasonably disregarding an
+objectively intolerable risk of harm, and that they will
+continue to do so . . . into the future.” Farmer v. Brennan,
+511 U. S. 825, 846 (1994). The “deliberate indifference”
+needed to establish an Eighth Amendment violation must
+be examined “in light of the prison authorities’ current
+attitudes and conduct,” Helling v. McKinney, 509 U. S. 25,
+36 (1993), which means “their attitudes and conduct at the
+time suit is brought and persisting thereafter,” Farmer,
+supra, at 845.
+For these reasons, the propriety of the relief ordered
+here cannot be assessed without ascertaining the nature
+and scope of any ongoing constitutional violations. Proof
+
+
+4
+
+BROWN v. PLATA
+ALITO, J., dissenting
+
+of past violations will not do; nor is it sufficient simply
+to establish that some violations continue. The scope of
+permissible relief depends on the scope of any continuing
+violations, and therefore it was essential for the three
+judge court to make a reliable determination of the extent
+of any violations as of the time its release order was is
+sued. Particularly in light of the radical nature of its
+chosen remedy, nothing less than an up-to-date assess
+ment was tolerable.
+The three-judge court, however, relied heavily on out
+dated information and findings and refused to permit
+California to introduce new evidence. Despite evidence of
+improvement,1 the three-judge court relied on old findings
+made by the single-judge courts, see Juris. App. 76a–77a,
+including a finding made 14 years earlier, see id., at 170a
+(citing Coleman v. Wilson, 912 F. Supp. 1282, 1316, 1319
+(ED Cal. 1995)). The three-judge court highlighted death
+statistics from 2005, see Juris. App. 9a, while ignoring the
+“significant and continuous decline since 2006,” California
+Prison Health Care Receivership Corp., K. Imai, Analysis
+of Year 2008 Death Reviews 31 (Dec. 2009) (hereinafter
+2008 Death Reviews). And the court dwelled on conditions
+at a facility that has since been replaced. See Juris. App.
+19a–20a, 24a, 89a–90a, 94a, 107a, 111a.
+Prohibiting the State from introducing evidence about
+conditions as of the date when the prisoner release order
+was under consideration, id., at 76a–78a, and n. 42, the
+three-judge court explicitly stated that it would not “evalu
+ate the state’s continuing constitutional violations.” Id., at
+——————
+1 Before requesting the appointment of a three-judge court, the Dis
+trict Court in Coleman recognized “commendable progress” in the
+State’s effort to provide adequate mental health care, Juris. App. 294a,
+and the District Court in Plata acknowledged that “the Receiver has
+made much progress since his appointment,” id., at 280a. The report of
+the Special Master to which the Court refers, ante, at 18–19, identifies
+a “generally positive trend.” App. 803.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+5
+
+ALITO, J., dissenting
+
+77a. Instead, it based its remedy on constitutional defi
+ciencies that, in its own words, were found “years ago.”
+Ibid.2
+The three-judge court justified its refusal to receive up
+to-date evidence on the ground that the State had not filed
+a motion to terminate prospective relief under a provision
+of the PLRA, §3626(b). See Juris. App. 77a. Today’s
+opinion for this Court endorses that reasoning, ante, at 26.
+But the State’s opportunity to file such a motion did not
+eliminate the three-judge court’s obligation to ensure that
+its relief was necessary to remedy ongoing violations.3
+Moreover, the lower court’s reasoning did not properly
+take into account the potential significance of the evidence
+that the State sought to introduce. Even if that evidence
+did not show that all violations had ceased—the showing
+needed to obtain the termination of relief under
+§3626(b)—that evidence was highly relevant with respect
+to the nature and scope of permissible relief.4
+——————
+2 For
+
+this reason, it is simply not the case that “evidence of current
+conditions . . . informed every aspect of the judgment of the three-judge
+court,” as the majority insists, ante, at 25.
+3 Because the Ninth Circuit places the burden on the State to prove
+the absence of an ongoing violation when it moves to terminate pro
+spective relief, see Gilmore v. California, 220 F. 3d 987, 1007 (CA9
+2000), even if the State had unsuccessfully moved to terminate pro
+spective relief under 18 U. S. C. §3626(b), there would still have been no
+determination that plaintiffs had carried their burden under the PLRA
+to establish by clear and convincing evidence that a prisoner release
+order is necessary to correct an ongoing rights violation.
+4 It is also no answer to say, as the Court now does, ante, at 26, that
+the State had the opportunity to resist the convening of the three-judge
+court on the ground that there were no unremedied constitutional
+violations as of that date. See §3626(a)(3)(A)(i). The District Courts
+granted plaintiffs’ motions to convene a three-judge court in 2007, three
+years before the remedial decree here was issued. Thus, the conditions
+in the prison system as of the date when the decree was issued were not
+necessarily the same as those that existed before the three-judge court
+proceedings began. Moreover, as noted above, even if all of the viola
+tions in the system had not been cured at the time of the remedial
+
+
+6
+
+BROWN v. PLATA
+ALITO, J., dissenting
+
+The majority approves the three-judge court’s refusal to
+receive fresh evidence based largely on the need for “[o]r
+derly trial management.” Ante, at 26. The majority rea
+sons that the three-judge court had closed the book on the
+question of constitutional violations and had turned to
+the question of remedy. Ibid. As noted, however, the extent of any continuing constitutional violations was highly
+relevant to the question of remedy.
+The majority also countenances the three-judge court’s
+reliance on dated findings. The majority notes that the
+lower court considered recent reports by the Special Mas
+ter and Receiver, ante, at 18–19, but the majority provides
+no persuasive justification for the lower court’s refusal to
+receive hard, up-to-date evidence about any continuing
+violations. With the safety of the people of California in
+the balance, the record on this issue should not have been
+closed.
+The majority repeats the lower court’s error of reciting
+statistics that are clearly out of date. The Court notes
+the lower court’s finding that as of 2005 “an inmate in one
+of California’s prisons needlessly dies every six to seven
+days.” See ante, at 9. Yet by the date of the trial before
+the three-judge court, the death rate had been trending
+downward for 10 quarters, App. 2257, and the number of
+likely preventable deaths fell from 18 in 2006 to 3 in 2007,
+a decline of 83 percent.5 Between 2001 and 2007, the
+——————
+decree, an accurate assessment of conditions as of that date was essen
+tial in order to ensure that the relief did not sweep more broadly than
+necessary.
+5 2008 Death Reviews 22. The majority elides the improvement by
+combining likely preventable deaths with those that were “possibly
+preventable,” ante, at 7, n. 4, that is, cases in which “[i]n the judgment
+of the reviewer,” 2008 Death Reviews 3, “it’s fifty-fifty that better care
+would have possibly prevented the death,” App. 2277; id., at 2256. As
+the majority acknowledges, even this class of cases is now dramatically
+diminished, and the three-judge court must take the current conditions
+into account when revising its remedy going forward. Ante, at 7, n. 4.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+7
+
+ALITO, J., dissenting
+
+California prison system had the 13th lowest average
+mortality rate of all 50 state systems.6
+The majority highlights past instances in which particu
+lar prisoners received shockingly deficient medical care.
+See ante, at 5, 6–7, 10 (recounting five incidents). But
+such anecdotal evidence cannot be given undue weight in
+assessing the current state of the California system. The
+population of the California prison system (156,000 in
+mates at the time of trial) is larger than that of many
+medium-sized cities,7 and an examination of the medical
+care provided to the residents of many such cities would
+likely reveal cases in which grossly deficient treatment
+was provided. Instances of past mistreatment in the
+California system are relevant, but prospective relief must
+be tailored to present and future, not past, conditions.
+II
+Under the PLRA, a court may not grant any prospective
+relief unless the court finds that the relief is narrowly
+drawn, extends no further than necessary to correct the
+“violation of [a] Federal right, and is the least intrusive
+means necessary to correct the violation of the Federal
+right.” §3626(a)(1)(A). In addition, the PLRA prohibits
+the issuance of a prisoner release order unless the court
+——————
+6 Bureau of Justice Statistics, State Prison Deaths, 2001–2007, avail
+able at http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=2093 (Table
+13) (all Internet materials as visited May 20, 2011, and available in
+Clerk of Court’s case file); see also App. 2257–2258. California had the
+14th lowest “ ‘average annual illness mortality [rate] per 100,000 state
+prisoners from 2001 to 2004.’ ” Juris. App. 125a. According to a 2007
+report, state prisoners had a 19 percent lower death rate than the
+general U. S. adult population as of 2004. Bureau of Justice Statistics,
+Medical Causes of Death in State Prisons, 2001–2004, p. 1, available at
+http://bjs.ojp.usdoj.gov/content/pub/pdf/mcdsp04.pdf.
+7 For example, the population of the California prison system exceeds that of Syracuse, New York; Bridgeport, Connecticut; Springfield,
+Massachusetts; Eugene, Oregon; and Savannah, Georgia.
+
+
+8
+
+BROWN v. PLATA
+ALITO, J., dissenting
+
+finds “by clear and convincing evidence that . . . crowding
+is the primary cause of the violation of a Federal right”
+and that “no other relief will remedy the violation of the
+Federal right.” §3626(a)(3)(E).
+These statutory restrictions largely reflect general
+standards for injunctive relief aimed at remedying consti
+tutional violations by state and local governments. “The
+power of the federal courts to restructure the operation of
+local and state governmental entities is not plenary. . . .
+Once a constitutional violation is found, a federal court is
+required to tailor the scope of the remedy to fit the nature
+and extent of the constitutional violation.” Dayton Bd. of
+Ed. v. Brinkman, 433 U. S. 406, 419–420 (1977) (internal
+quotation marks omitted).
+Here, the majority and the court below maintain that no
+remedy short of a massive release of prisoners from the
+general prison population can remedy the State’s failure to
+provide constitutionally adequate health care. This argu
+ment is implausible on its face and is not supported by the
+requisite clear and convincing evidence.
+It is instructive to consider the list of deficiencies in the
+California prison health care system that are highlighted
+in today’s opinion for this Court and in the opinion of the
+court below. The deficiencies noted by the majority here
+include the following: “ ‘[e]xam tables and counter tops,
+where prisoners with . . . communicable diseases are
+treated, [are] not routinely disinfected,’ ” ante, at 10; medi
+cal facilities “ ‘are in an abysmal state of disrepair,’ ” ibid.;
+medications “ ‘are too often not available when needed,’ ”
+ante, at 10–11; “ ‘[b]asic medical equipment is often not
+available or used,’ ” ante, at 10; prisons “would ‘hire any
+doctor who had “a license, a pulse and a pair of shoes,” ’ ”
+ibid.; and medical and mental health staff positions have
+high vacancy rates, ante, at 20. The three-judge court
+pointed to similar problems. See Juris. App. 93a–121a
+(citing, among other things, staffing vacancies, too few
+
+
+Cite as: 563 U. S. ____ (2011)
+
+9
+
+ALITO, J., dissenting
+
+beds for mentally ill prisoners, and an outmoded records
+management system).
+Is it plausible that none of these deficiencies can be
+remedied without releasing 46,000 prisoners? Without
+taking that radical and dangerous step, exam tables and
+counter tops cannot properly be disinfected? None of the
+system’s dilapidated facilities can be repaired? Needed
+medications and equipment cannot be purchased and
+used? Staff vacancies cannot be filled? The qualifica
+tions of prison physicians cannot be improved? A better
+records management system cannot be developed and
+implemented?
+I do not dispute that general overcrowding contributes to
+many of the California system’s healthcare problems. But
+it by no means follows that reducing overcrowding is the
+only or the best or even a particularly good way to allevi
+ate those problems. Indeed, it is apparent that the pris
+oner release ordered by the court below is poorly suited for
+this purpose. The release order is not limited to prisoners
+needing substantial medical care but instead calls for a
+reduction in the system’s overall population. Under the
+order issued by the court below, it is not necessary for
+a single prisoner in the plaintiff classes to be released.
+Although some class members will presumably be among
+those who are discharged, the decrease in the number of
+prisoners needing mental health treatment or other forms
+of extensive medical care will be much smaller than the
+total number of prisoners released, and thus the release
+will produce at best only a modest improvement in the
+burden on the medical care system.
+The record bears this out. The Special Master stated
+dramatically that even releasing 100,000 inmates (two
+thirds of the California system’s entire inmate popula
+tion!) would leave the problem of providing mental health
+treatment “largely unmitigated.” App. 487. Similarly, the
+Receiver proclaimed that “ ‘those . . . who think that popu
+
+
+10
+
+BROWN v. PLATA
+ALITO, J., dissenting
+
+lation controls will solve California’s prison health care
+problems . . . are simply wrong.’ ” Juris. App. 282a.
+The State proposed several remedies other than a mas
+sive release of prisoners, but the three-judge court, seem
+ingly intent on attacking the broader problem of general
+overcrowding, rejected all of the State’s proposals. In
+doing so, the court made three critical errors.
+First, the court did not assess those proposals and other
+remedies in light of conditions proved to exist at the time
+the release order was framed. Had more recent evidence
+been taken into account, a less extreme remedy might
+have been shown to be sufficient.
+Second, the court failed to distinguish between condi
+tions that fall below the level that may be desirable as a
+matter of public policy and conditions that do not meet the
+minimum level mandated by the Constitution. To take
+one example, the court criticized the California system
+because prison doctors must conduct intake exams in
+areas separated by folding screens rather than in separate
+rooms, creating conditions that “do not allow for appropri
+ate confidentiality.” Id., at 88a. But the legitimate pri
+vacy expectations of inmates are greatly diminished, see
+Hudson v. Palmer, 468 U. S. 517, 525–526 (1984), and this
+Court has never suggested that the failure to provide
+private consultation rooms in prisons amounts to cruel
+and unusual punishment.
+Third, the court rejected alternatives that would not
+have provided “ ‘immediate’ ” relief. Juris. App. 148a. But
+nothing in the PLRA suggests that public safety may be
+sacrificed in order to implement an immediate remedy
+rather than a less dangerous one that requires a more
+extended but reasonable period of time.
+If the three-judge court had not made these errors, it is
+entirely possible that an adequate but less drastic reme
+dial plan could have been crafted. Without up-to-date
+information, it is not possible to specify what such a plan
+
+
+Cite as: 563 U. S. ____ (2011)
+
+11
+
+ALITO, J., dissenting
+
+might provide, and in any event, that is not a task that
+should be undertaken in the first instance by this Court.
+But possible components of such a plan are not hard to
+identify.
+Many of the problems noted above plainly could be
+addressed without releasing prisoners and without in
+curring the costs associated with a large-scale prison
+construction program. Sanitary procedures could be im
+proved; sufficient supplies of medicine and medical
+equipment could be purchased; an adequate system of
+records management could be implemented; and the num
+ber of medical and other staff positions could be increased.
+Similarly, it is hard to believe that staffing vacancies
+cannot be reduced or eliminated and that the qualifica
+tions of medical personnel cannot be improved by any
+means short of a massive prisoner release. Without spe
+cific findings backed by hard evidence, this Court should
+not accept the counterintuitive proposition that these
+problems cannot be ameliorated by increasing salaries,
+improving working conditions, and providing better train
+ing and monitoring of performance.
+While the cost of a large-scale construction program
+may well exceed California’s current financial capabilities,
+a more targeted program, involving the repair and per
+haps the expansion of current medical facilities (as op
+posed to general prison facilities), might be manageable.
+After all, any remedy in this case, including the new pro
+grams associated with the prisoner release order and
+other proposed relief now before the three-judge court, will
+necessarily involve some state expenditures.
+Measures such as these might be combined with tar
+geted reductions in critical components of the State’s
+prison population. A certain number of prisoners in the
+classes on whose behalf the two cases were brought might
+be transferred to out-of-state facilities. The three-judge
+court rejected the State’s proposal to transfer prisoners to
+
+
+12
+
+BROWN v. PLATA
+ALITO, J., dissenting
+
+out-of-state facilities in part because the number of pro
+posed transfers was too small. See id., at 160a. See also
+ante, at 30. But this reasoning rested on the court’s insis
+tence on a reduction in the State’s general prison popula
+tion rather than the two plaintiff classes.
+When the State proposed to make a targeted transfer of
+prisoners in one of the plaintiff classes (i.e., prisoners
+needing mental health treatment), one of the District
+Judges blocked the transfers for fear that the out-of-state
+facilities would not provide a sufficiently high level of care.
+See App. 434–440. The District Judge even refused to
+allow out-of-state transfers for prisoners who volunteered
+for relocation. See id., at 437. And the court did this even
+though there was not even an allegation, let alone clear
+evidence, that the States to which these prisoners would
+have been sent were violating the Eighth Amendment.
+The District Judge presumed that the receiving States
+might fail to provide constitutionally adequate care, but
+“ ‘in the absence of clear evidence to the contrary, courts
+presume that [public officers] have properly discharged
+their official duties.’ ” United States v. Armstrong, 517
+U. S. 456, 464 (1996) (quoting United States v. Chemical
+Foundation, Inc., 272 U. S. 1, 14–15 (1926)); Postal Service
+v. Gregory, 534 U. S. 1, 10 (2001) (“[A] presumption of
+regularity attaches to the actions of Government agen
+cies”); see also McKune v. Lile, 536 U. S. 24, 51 (2002)
+(O’Connor, J., concurring in judgment) (“[W]e may assume
+that the prison is capable of controlling its inmates so that
+respondent’s personal safety is not jeopardized . . . ,at least
+in the absence of proof to the contrary”).8
+Finally, as a last resort, a much smaller release of pris
+——————
+8 The Court rejects the State’s argument that out-of-state transfers offer
+a less restrictive alternative to a prisoner release order because “requir
+ing out-of-state transfers itself qualifies as a population limit under the
+PLRA.” Ante, at 29–30. But the PLRA does not apply when the State
+voluntarily conducts such transfers, as it has sought to do.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+13
+
+ALITO, J., dissenting
+
+oners in the two plaintiff classes could be considered.
+Plaintiffs proposed not only a systemwide population cap,
+but also a lower population cap for inmates in specialized
+programs. Tr. 2915:12–15 (Feb. 3, 2009). The three-judge
+court rejected this proposal, and its response exemplified
+what went wrong in this case. One judge complained that
+this remedy would be deficient because it would protect
+only the members of the plaintiff classes. The judge
+stated:
+“The only thing is we would be protecting the class
+members. And maybe that’s the appropriate thing to
+do. I mean, that’s what this case is about, but it
+would be . . . difficult for me to say yes, and the hell
+with everybody else.” Id., at 2915:23–2916:2.
+Overstepping his authority, the judge was not content to
+provide relief for the classes of plaintiffs on whose behalf
+the suit before him was brought. Nor was he content to
+remedy the only constitutional violations that were
+proved—which concerned the treatment of the members of
+those classes. Instead, the judge saw it as his responsibil
+ity to attack the general problem of overcrowding.
+III
+Before ordering any prisoner release, the PLRA com
+mands a court to “give substantial weight to any adverse
+impact on public safety or the operation of a criminal
+justice system caused by the relief.” §3626(a)(1)(A). This
+provision unmistakably reflects Congress’ view that pris
+oner release orders are inherently risky.
+In taking this view, Congress was well aware of the
+impact of previous prisoner release orders. The prisoner
+release program carried out a few years earlier in Phila
+delphia is illustrative. In the early 1990’s, federal courts
+enforced a cap on the number of inmates in the Philadel
+phia prison system, and thousands of inmates were set
+
+
+14
+
+BROWN v. PLATA
+ALITO, J., dissenting
+
+free. Although efforts were made to release only those
+prisoners who were least likely to commit violent crimes,
+that attempt was spectacularly unsuccessful. During an
+18-month period, the Philadelphia police rearrested thou
+sands of these prisoners for committing 9,732 new crimes.
+Those defendants were charged with 79 murders, 90
+rapes, 1,113 assaults, 959 robberies, 701 burglaries, and
+2,748 thefts, not to mention thousands of drug offenses.9
+Members of Congress were well aware of this experience.10
+Despite the record of past prisoner release orders, the
+three-judge court in this case concluded that loosing
+46,000 criminals would not produce a tally like that in
+Philadelphia and would actually improve public safety.
+Juris. App. 248a–249a. In reaching this debatable con
+clusion, the three-judge court relied on the testimony of
+selected experts, id., at 248a, and the majority now defers
+to what it characterizes as the lower court’s findings of
+fact on this controversial public policy issue, ante, at 15,
+19–20, 24.
+This is a fundamental and dangerous error. When a
+——————
+9 Hearing
+
+on Prison Reform before the Senate Committee on the Ju
+diciary, 104th Cong., 1st Sess., 49 (1995) (statement of Lynne Abraham,
+District Attorney of Philadelphia); Hearings before the Subcommittee
+on Crime of the House Committee on the Judiciary, 104th Cong., 1st
+Sess., 259 (1995) (same); see also Hearing before the Subcommittee on
+Crime, Terrorism, and Homeland Security of the House Committee on
+the Judiciary, 110th Cong., 2d Sess., 31 (2008) (statement of Sarah V.
+Hart, Assistant District Attorney, Philadelphia District Attorney’s
+Office).
+10 Condemning the inappropriate imposition of prison population
+caps, Senator Sarbanes cited “the case of Philadelphia, where a court
+ordered prison cap has put thousands of violent criminals back on
+the city’s streets, often with disastrous consequences.” 141 Cong. Rec.
+26549 (1995). Senator Abraham complained that “American citizens
+are put at risk every day by court decrees . . . that cure prison crowding
+by declaring that we must free dangerous criminals before they have
+served their time.” Id., at 26448. “The most egregious example,” he
+added, “is the city of Philadelphia.” Ibid.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+15
+
+ALITO, J., dissenting
+
+trial court selects between the competing views of experts
+on broad empirical questions such as the efficacy of
+preventing crime through the incapacitation of convicted
+criminals, the trial court’s choice is very different from a
+classic finding of fact and is not entitled to the same de
+gree of deference on appeal.
+The particular three-judge court convened in this case
+was “confident” that releasing 46,000 prisoners pursuant
+to its plan “would in fact benefit public safety.” Juris.
+App. 248a–249a. According to that court, “overwhelming
+evidence” supported this purported finding. Id., at 232a.
+But a more cautious court, less bent on implementing its
+own criminal justice agenda, would have at least acknowl
+edged that the consequences of this massive prisoner
+release cannot be ascertained in advance with any degree
+of certainty and that it is entirely possible that this re
+lease will produce results similar to those under prior
+court-ordered population caps. After all, the sharp in
+crease in the California prison population that the three
+judge court lamented, see id., at 254a, has been accompa
+nied by an equally sharp decrease in violent crime.11
+These California trends mirror similar developments at
+the national level,12 and “[t]here is a general consensus
+that the decline in crime is, at least in part, due to more
+and longer prison sentences.”13 If increased incarceration
+——————
+11 From 1992 to 2009, the violent crime rate in California per 100,000
+residents fell from 1,119.7 to 472.0—a decrease of 57.8 percent. Simi
+larly, in the United States from 1992 to 2009, the violent crime rate per
+100,000 residents fell from 757.7 to 429.4—a decrease of 43.3 percent.
+Dept. of Justice, Federal Bureau of Investigation, Uniform Crime
+Reporting Statistics, http://www.ucrdatatool.gov.
+12 According to the three-judge court, California’s prison population
+has increased by 750 percent since the mid-1970’s. Juris. App. 254a.
+From 1970 to 2005, the Nation’s prison population increased by 700
+percent. Public Safety, Public Spending: Forecasting America’s Prison
+Population 2007–2011, 19 Fed. Sent. Rep. 234, 234 (2007).
+13 Paternoster, How Much Do We Really Know About Criminal Deter
+
+
+16
+
+BROWN v. PLATA
+ALITO, J., dissenting
+
+in California has led to decreased crime, it is entirely
+possible that a decrease in imprisonment will have the
+opposite effect.
+Commenting on the testimony of an expert who stated
+that he could not be certain about the effect of the massive
+prisoner discharge on public safety, the three-judge court
+complained that “[s]uch equivocal testimony is not help
+ful.” Id., at 247a. But testimony pointing out the diffi
+culty of assessing the consequences of this drastic remedy
+would have been valued by a careful court duly mindful of
+the overriding need to guard public safety.
+The three-judge court acknowledged that it “ha[d] not
+evaluated the public safety impact of each individual
+element” of the population reduction plan it ordered the
+State to implement. App. to Juris. Statement 3a. The
+majority argues that the three-judge court nevertheless
+gave substantial weight to public safety because its order
+left “details of implementation to the State’s discretion.”
+Ante, at 41. Yet the State had told the three-judge court
+that, after studying possible population reduction meas
+ures, it concluded that “reducing the prison population to
+137.5% within a two-year period cannot be accomplished
+without unacceptably compromising public safety.” Juris.
+App. 317a. The State found that public safety required a
+5-year period in which to achieve the ordered reduction.
+Ibid.
+Thus, the three-judge court approved a population
+reduction plan that neither it nor the State found could be
+implemented without unacceptable harm to public safety.
+And this Court now holds that the three-judge court dis
+charged its obligation to “give substantial weight to any
+adverse impact on public safety,” §3626(a)(1)(A), by defer
+ring to officials who did not believe the reduction could be
+—————— 
+
+rence? 100 J. Crim. L. & Criminology 765, 801 (2010) (citing research
+
+on this issue). 
+
+
+
+Cite as: 563 U. S. ____ (2011)
+
+17
+
+ALITO, J., dissenting
+
+accomplished in a safe manner. I do not believe the
+PLRA’s public-safety requirement is so trivial.
+The members of the three-judge court and the experts
+on whom they relied may disagree with key elements of
+the crime-reduction program that the State of California
+has pursued for the past few decades, including “the shift
+to inflexible determinate sentencing and the passage of
+harsh mandatory minimum and three-strikes laws.” Id.,
+at 254a. And experts such as the Receiver are entitled to
+take the view that the State should “re-thin[k] the place of
+incarceration in its criminal justice system,” App. 489. But
+those controversial opinions on matters of criminal justice
+policy should not be permitted to override the reasonable
+policy view that is implicit in the PLRA—that prisoner
+release orders present an inherent risk to the safety of the
+public.
+*
+*
+*
+The prisoner release ordered in this case is unprece
+dented, improvident, and contrary to the PLRA. In largely
+sustaining the decision below, the majority is gambling
+with the safety of the people of California. Before putting
+public safety at risk, every reasonable precaution should
+be taken. The decision below should be reversed, and the
+case should be remanded for this to be done.
+I fear that today’s decision, like prior prisoner release
+orders, will lead to a grim roster of victims. I hope that
+I am wrong.
+In a few years, we will see.
+
+

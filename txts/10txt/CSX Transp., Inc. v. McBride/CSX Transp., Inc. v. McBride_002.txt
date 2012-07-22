@@ -1,0 +1,51 @@
+2
+
+CSX TRANSP., INC. v. MCBRIDE
+Syllabus
+
+598 F. 3d 388, affirmed.
+JUSTICE GINSBURG delivered the opinion of the Court with
+respect to all but Part III–A, concluding, in accord with FELA’s text
+and purpose, Rogers, and the uniform view of the federal appellate
+courts, that FELA does not incorporate stock “proximate cause” stan
+dards developed in nonstatutory common-law tort actions. The
+charge proper in FELA cases simply tracks the language Congress
+employed, informing juries that a defendant railroad “caused or con
+tributed to” a railroad worker’s injury “if [the railroad’s] negligence
+played a part—no matter how small—in bringing about the injury.”
+That, indeed, is the test Congress prescribed for proximate causation
+in FELA cases. Pp. 4–14, 16–19.
+(a) CSX’s interpretation of Rogers is not persuasive. Pp. 4–12.
+(1) Given FELA’s “broad” causation language, Urie v. Thompson,
+337 U. S. 163, 181, and Congress’ “humanitarian” and “remedial
+goal[s]” in enacting the statute, FELA’s causation standard is “re
+laxed” compared to that applicable in common-law tort litigation,
+Consolidated Rail Corporation v. Gottshall, 512 U. S. 532, 542–543.
+Rogers described that relaxed standard as “whether the proofs justify
+with reason the conclusion that employer negligence played any part,
+even the slightest, in producing the injury or death for which dam
+ages are sought.” 352 U. S., at 506. Because the District Court’s in
+struction tracked Rogers’ language, the instruction was plainly
+proper so long as Rogers actually prescribes the causation definition
+applicable under FELA. See Patterson v. McLean Credit Union, 491
+U. S. 164, 172. CSX, however, contends that Rogers was a narrowly
+focused decision that did not displace common-law formulations of
+“proximate cause.” Drawing largely on Justice Souter’s concurrence
+in Norfolk Southern R. Co. v. Sorrell, 549 U. S. 158, 173, CSX urges
+that Rogers’ “any part . . . in producing the injury” test displaced only
+common-law restrictions on recovery for injuries involving contribu
+tory negligence or other multiple causes, but did not address the req
+uisite directness of a cause. Pp. 4–6.
+(2) In Rogers, the employee was burning vegetation that lined his
+employer’s railroad tracks. A passing train fanned the flames, which
+spread to the top of the culvert where he was standing. Attempting
+to escape, he slipped and fell on the sloping gravel covering the cul
+vert, sustaining serious injuries. 352 U. S., at 501–503. The state
+court jury returned a verdict for him, but the Missouri Supreme
+Court reversed. Even if the railroad had been negligent in failing to
+maintain a flat surface, the court reasoned, the employee was at fault
+because of his lack of attention to the spreading fire. As the fire “was
+something extraordinary, unrelated to, and disconnected from the in
+cline of the gravel,” the court found that “plaintiff’s injury was not the
+
+

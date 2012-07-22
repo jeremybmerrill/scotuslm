@@ -1,0 +1,40 @@
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Syllabus
+[brand] under subsection (b) or (c)” of §355. That information, the
+court concluded, consists only of the patent number and expiration
+date expressly required by the statutory provisions.
+Held: A generic manufacturer may employ the counterclaim provision
+to force correction of a use code that inaccurately describes the
+brand’s patent as covering a particular method of using a drug.
+Pp. 10–24.
+(a) The parties first dispute the meaning of “not an” in the phrase
+“the patent does not claim . . . an approved method of using the drug.”
+Novo contends that the counterclaim is available only if the patent
+claims no approved method of use, but Caraco reads this language to
+permit a counterclaim whenever a patent does not claim the particular method that the ANDA applicant seeks to market. In isolation,
+either of these readings is plausible, so the meaning of the phrase
+“not an” turns on statutory context, see Johnson v. United States, 559
+U. S. ___, ___. This context favors Caraco: Congress understood that
+a drug may have multiple methods of use, not all of which a patent
+covers; and a section viii statement allows the FDA to approve a generic drug for unpatented uses so that it can quickly come to market.
+The statute thus contemplates that one patented use will not foreclose marketing a generic drug for other unpatented ones. Within
+this scheme, the counterclaim naturally functions to challenge the
+brand’s assertion of rights over whichever discrete uses the generic
+company wishes to pursue; the counterclaim’s availability matches
+the availability of FDA approval under the statute. Pp. 11–15.
+(b) The parties further dispute whether use codes qualify as “patent information submitted by the [brand] under subsection (b) or (c)”
+of §355. A use code, which is a description of the patent, surely qualifies as “patent information.” Novo nonetheless contends that use
+codes are not “submitted under” subsections (b) and (c) because those
+provisions expressly require an NDA applicant to provide only “the
+patent number and the expiration date of any patent” claiming the
+drug or a method of its use. But §§355(b) and (c) also govern the regulatory process by which brands provide additional patent information to the FDA. The term “under” is broad enough to include patent information, like use codes, that brands submit as required by
+this scheme. This reading draws support from the Court’s prior decisions in e.g., Eli Lilly & Co. v. Medtronic, Inc., 496 U. S. 661, 665–
+668, and Ardestani v. INS, 502 U. S. 129, 135; and it is bolstered by
+Congress’s use of the narrower phrases “described in” and “prescribed
+by” in neighboring provisions. See §§355(c)(2), (d)(6). Again, the conclusion that use codes are “submitted under” §§355(b) and (c) fits the
+broader statutory context. Use codes are pivotal to the FDA’s implementation of the Hatch-Waxman Amendments, and so it is unsur-
+
+

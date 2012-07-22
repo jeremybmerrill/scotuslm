@@ -1,0 +1,50 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+THOMAS, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–893
+_________________
+
+AT&T MOBILITY LLC, PETITIONER v. VINCENT 
+
+CONCEPCION ET UX. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[April 27, 2011] 
+
+
+JUSTICE THOMAS, concurring.
+Section 2 of the Federal Arbitration Act (FAA) provides
+that an arbitration provision “shall be valid, irrevocable,
+and enforceable, save upon such grounds as exist at law or
+in equity for the revocation of any contract.” 9 U. S. C. §2.
+The question here is whether California’s Discover Bank
+rule, see Discover Bank v. Superior Ct., 36 Cal. 4th 148,
+113 P. 3d 1100 (2005), is a “groun[d] . . . for the revocation
+of any contract.”
+It would be absurd to suggest that §2 requires only that
+a defense apply to “any contract.” If §2 means anything,
+it is that courts cannot refuse to enforce arbitration agree
+ments because of a state public policy against arbitration,
+even if the policy nominally applies to “any contract.”
+There must be some additional limit on the contract de
+fenses permitted by §2. Cf. ante, at 17 (opinion of the
+Court) (state law may not require procedures that are “not
+arbitration as envisioned by the FAA” and “lac[k] its bene
+fits”); post, at 5 (BREYER, J., dissenting) (state law may
+require only procedures that are “consistent with the use
+of arbitration”).
+I write separately to explain how I would find that limit
+in the FAA’s text. As I would read it, the FAA requires
+that an agreement to arbitrate be enforced unless a party
+successfully challenges the formation of the arbitration
+
+

@@ -1,0 +1,43 @@
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+party.” (Emphasis added.)
+That language contrasts sharply with §1132(g)(2), which
+governs the availability of attorney’s fees in ERISA actions
+under §1145 (actions to recover delinquent employer
+contributions to a multiemployer plan). In such cases,
+only plaintiffs who obtain “a judgment in favor of the plan”
+may seek attorney’s fees. §1132(g)(2)(D). The contrast
+between these two paragraphs makes clear that Congress
+knows how to impose express limits on the availability of
+attorney’s fees in ERISA cases. Because Congress failed
+to include in §1132(g)(1) an express “prevailing party”
+limit on the availability of attorney’s fees, the Court of
+Appeals’ decision adding that term of art to a fee-shifting
+statute from which it is conspicuously absent more closely
+resembles “invent[ing] a statute rather than interpret[ing]
+one.” Pasquantino v. United States, 544 U. S. 349, 359
+(2005) (internal quotation marks omitted).
+We see no reason to dwell any longer on this question,
+particularly given Reliance’s concessions. See Brief for
+Respondent 9–10 (“On its face,” §1132(g)(1) “does not
+expressly demand, like so many statutes, that a claimant
+be a ‘prevailing party’ before receiving attorney’s fees”).
+We therefore hold that a fee claimant need not be a “pre
+vailing party” to be eligible for an attorney’s fees award
+under §1132(g)(1).
+III
+We next consider the circumstances under which a court
+may award attorney’s fees pursuant to §1132(g)(1). “Our
+basic point of reference” when considering the award of
+attorney’s fees is the bedrock principle known as the
+“ ‘American Rule’ ”: Each litigant pays his own attorney’s
+fees, win or lose, unless a statute or contract provides
+otherwise. Ruckelshaus, 463 U. S., at 683; see id., at 683–
+686; Alyeska Pipeline Service Co. v. Wilderness Society,
+421 U. S. 240, 247 (1975); Buckhannon, supra, at 602–603;
+
+

@@ -1,0 +1,1090 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–538
+_________________
+
+WILLIAM G. SCHWAB, PETITIONER v. NADEJDA
+
+REILLY 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE THIRD CIRCUIT
+
+[June 17, 2010] 
+
+
+JUSTICE THOMAS delivered the opinion of the Court.
+When a debtor files a Chapter 7 bankruptcy petition, all
+of the debtor’s assets become property of the bankruptcy
+estate, see 11 U. S. C. §541, subject to the debtor’s right to
+reclaim certain property as “exempt,” §522(l). The Bank­
+ruptcy Code specifies the types of property debtors may
+exempt, §522(b), as well as the maximum value of the
+exemptions a debtor may claim in certain assets, §522(d).
+Property a debtor claims as exempt will be excluded from
+the bankruptcy estate “[u]nless a party in interest” ob­
+jects. §522(l).
+This case presents an opportunity for us to resolve a
+disagreement among the Courts of Appeals about what
+constitutes a claim of exemption to which an interested
+party must object under §522(l). The issue is whether an
+interested party must object to a claimed exemption
+where, as here, the Code defines the property the debtor is
+authorized to exempt as an interest, the value of which
+may not exceed a certain dollar amount, in a particular
+type of asset, and the debtor’s schedule of exempt property
+accurately describes the asset and declares the “value of
+
+
+2
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+[the] claimed exemption” in that asset to be an amount
+within the limits that the Code prescribes. Fed. Rule
+Bkrtcy. Proc. Official Form 6, Schedule C (1991) (hereinaf­
+ter Schedule C). We hold that, in cases such as this, an
+interested party need not object to an exemption claimed
+in this manner in order to preserve the estate’s ability to
+recover value in the asset beyond the dollar value the
+debtor expressly declared exempt.
+I
+Respondent Nadejda Reilly filed for Chapter 7 bank­
+ruptcy when her catering business failed. She supported
+her petition with various schedules and statements, two of
+which are relevant here: Schedule B, on which the Bank­
+ruptcy Rules require debtors to list their assets (most of
+which become property of the estate), and Schedule C, on
+which the Rules require debtors to list the property they
+wish to reclaim as exempt. The assets Reilly listed on
+Schedule B included an itemized list of cooking and other
+kitchen equipment that she described as “business equip­
+ment,” and to which she assigned an estimated market
+value of $10,718. App. 40a, 49a–55a.
+On Schedule C, Reilly claimed two exempt interests in
+this equipment pursuant to different sections of the Code.
+Reilly claimed a “tool[s] of the trade” exemption of $1,850
+in the equipment under §522(d)(6), which permits a debtor
+to exempt his “aggregate interest, not to exceed $1,850 in
+value, in any implements, professional books, or tools, of
+[his] trade.” See also 69 Fed. Reg. 8482 (2004) (Table).
+And she claimed a miscellaneous exemption of $8,868 in
+the equipment under §522(d)(5), which, at the time she
+filed for bankruptcy, permitted a debtor to take a “wild­
+card” exemption equal to the “debtor’s aggregate interest
+in any property, not to exceed” $10,225 “in value.”1 See
+——————
+1 The
+
+1994 version of 11 U. S. C. §522(d)(5) allowed debtors to exempt
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+App. 58a. The total value of these claimed exemptions
+($10,718) equaled the value Reilly separately listed on
+Schedules B and C as the equipment’s estimated market
+value, see id., at 49a, 58a.
+Subject to exceptions not relevant here, the Federal
+Rules of Bankruptcy Procedure require interested parties
+to object to a debtor’s claimed exemptions within 30 days
+after the conclusion of the creditors’ meeting held pursu­
+ant to Rule 2003(a). See Fed. Rule Bkrtcy. Proc. 4003(b).
+If an interested party fails to object within the time al­
+lowed, a claimed exemption will exclude the subject prop­
+erty from the estate even if the exemption’s value exceeds
+what the Code permits. See, e.g., §522(l); Taylor v. Free
+land & Kronz, 503 U. S. 638, 642–643 (1992).
+Petitioner William G. Schwab, the trustee of Reilly’s
+bankruptcy estate, did not object to Reilly’s claimed ex­
+emptions in her business equipment because the dollar
+value Reilly assigned each exemption fell within the limits
+that §§522(d)(5) and (6) prescribe. App. 163a. But be­
+cause an appraisal revealed that the total market value of
+Reilly’s business equipment could be as much as $17,200,2
+Schwab moved the Bankruptcy Court for permission to
+auction the equipment so Reilly could receive the $10,718
+she claimed as exempt, and the estate could distribute the
+equipment’s remaining value (approximately $6,500) to
+Reilly’s creditors. App. 141a–143a.
+——————
+an “aggregate interest in any property, not to exceed in value $800 plus
+up to $7,500 of any unused amount of the [homestead or burial plot]
+exemption provided under [§522(d)(1)].”
+In 2004, pursuant to
+§104(b)(2), the Judicial Conference of the United States published
+notice that §522(d)(5) would impose the $975 and $9,250 ($10,225 total)
+limits that governed Reilly’s April 2005 petition. See 69 Fed. Reg. 8482
+(Table). In 2007 and 2010 the limits were again increased. See 72 id.,
+at 7082 (Table); 75 id., at 8748 (Table).
+2 Schwab concedes that the appraisal occurred before Rule 4003(b)’s
+30-day window for objecting to the claimed exemptions had passed. See
+Brief for Petitioner 15.
+
+
+4
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+Reilly opposed Schwab’s motion. She argued that by
+equating on Schedule C the total value of the exemptions
+she claimed in the equipment with the equipment’s esti­
+mated market value, she had put Schwab and her credi­
+tors on notice that she intended to exempt the equipment’s
+full value, even if that amount turned out to be more than
+the dollar amount she declared, and more than the Code
+allowed. Id., at 165a. Citing §522(l), Reilly asserted that
+because her Schedule C notified Schwab of her intent to
+exempt the full value of her business equipment, he was
+obliged to object if he wished to preserve the estate’s right
+to retain any value in the equipment in excess of the
+$10,718 she estimated. Because Schwab did not object
+within the time prescribed by Rule 4003(b), Reilly asserted
+that the estate forfeited its claim to such value. Id., at
+165a. Reilly further informed the Bankruptcy Court that
+exempting her business equipment from the estate was so
+important to her that she would dismiss her bankruptcy
+case if doing so was the only way to avoid the equipment’s
+sale at auction.3
+The Bankruptcy Court denied both Schwab’s motion to
+auction the equipment and Reilly’s conditional motion to
+dismiss her case. See In re Reilly, 403 B. R. 336 (Bkrtcy.
+Ct. MD Pa. 2006). Schwab sought relief from the District
+Court, arguing that neither the Code nor Rule 4003(b)
+requires a trustee to object to a claimed exemption where
+the amount the debtor declares as the “value of [the
+——————
+3 Reilly’s desire to avoid the equipment’s auction is understandable
+because the equipment, which Reilly’s parents purchased for her
+despite their own financial difficulties, has “ ‘extraordinary sentimental
+value.’ ” Brief for Respondent 5 (quoting App. 152a–153a). But the
+sentimental value of the property cannot drive our decision in this case,
+because sentimental value is not a basis for construing the Bankruptcy
+Code. Because the Code imposes limits on exemptions, many debtors
+who seek to take advantage of the Code are, no doubt, put to the
+similarly difficult choice of parting with property of “extraordinary
+sentimental value.” Id., at 152a−153a; see infra, at 19–23.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+debtor’s] claimed exemption” in certain property is an
+amount within the limits the Code prescribes. The Dis­
+trict Court rejected Schwab’s argument, and the Court of
+Appeals affirmed. See In re Reilly, 534 F. 3d 173 (CA3
+2008).
+The Court of Appeals agreed with the Bankruptcy Court
+that by equating on Schedule C the total value of her
+exemptions in her business equipment with the equip­
+ment’s market value, Reilly “indicate[d] the intent” to
+exempt the equipment’s full value. Id., at 174. In reach­
+ing this conclusion, the Court of Appeals relied on our
+decision in Taylor:
+“[W]e believe this case to be controlled by Taylor.
+Just as we perceive it was important to the Taylor
+Court that the debtor meant to exempt the full
+amount of the property by listing ‘unknown’ as both
+the value of the property and the value of the exemp­
+tion, it is important to us that Reilly valued the busi­
+ness equipment at $10,718 and claimed an exemption
+in the same amount. Such an identical listing put
+Schwab on notice that Reilly intended to exempt the
+property fully.
+.
+.
+.
+.
+.
+“ ‘[A]n unstated premise’ of Taylor was ‘that a debtor
+who exempts the entire reported value of an asset is
+claiming the “full amount,” whatever it turns out to
+be.’ ” 534 F. 3d, at 178−179.
+Relying on this “unstated premise,” the Court of Appeals
+held that Schwab’s failure to object to Reilly’s claimed
+exemptions entitled Reilly to the equivalent of an in-kind
+interest in her business equipment, even though the value
+of that exemption exceeded the amount that Reilly de­
+clared on Schedule C and the amount that the Code al­
+lowed her to withdraw from the bankruptcy estate. Ibid.
+As noted, the Court of Appeals’ decision adds to dis­
+
+
+6
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+agreement among the Circuits about what constitutes a
+claim of exemption to which an interested party must
+object under §522(l).4 We granted certiorari to resolve this
+conflict. See 556 U. S. ___ (2009). We conclude that the
+Court of Appeals’ approach fails to account for the text of
+the relevant Code provisions and misinterprets our deci­
+sion in Taylor. Accordingly, we reverse.
+II
+The starting point for our analysis is the proper inter­
+pretation of Reilly’s Schedule C. If we read the Schedule
+Reilly’s way, she claimed exemptions in her business
+equipment that could exceed statutory limits, and thus
+claimed exemptions to which Schwab should have objected
+if he wished to enforce those limits for the benefit of the
+estate. If we read Schedule C Schwab’s way, Reilly
+claimed valid exemptions to which Schwab had no duty to
+object. The Court of Appeals construed Schedule C Reil­
+ly’s way and interpreted her claimed exemptions as im­
+proper, and therefore objectionable, even though their
+declared value was facially within the applicable Code
+limits. In so doing, the Court of Appeals held that trustees
+evaluating the validity of exemptions in cases like this
+cannot take a debtor’s claim at face value, and specifically
+——————
+4 Compare
+
+In re Williams, 104 F. 3d 688, 690 (CA4 1997) (holding
+that interested parties have no duty to object to a claimed exemption
+where the dollar amount the debtor assigns the exemption is facially
+within the range the Code allows for the type of property in issue); In re
+Wick, 276 F. 3d 412 (CA8 2002) (employing reasoning similar to Wil
+liams, but stopping short of articulating a clear rule), with In re Green,
+31 F. 3d 1098, 1100 (CA11 1994) (“A debtor who exempts the entire
+reported value of an asset is claiming the [asset’s] ‘full amount,’ what­
+ever it turns out to be”); In re Anderson, 377 B. R. 865 (Bkrtcy. App.
+Panel CA6 2007) (similar); and In re Barroso-Herrans, 524 F. 3d 341,
+344 (CA1 2008) (focusing on “how a reasonable trustee would have
+understood the filings under the circumstances”); In re Hyman, 967
+F. 2d 1316 (CA9 1992) (applying an analogous totality-of-the­
+circumstances approach).
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+cannot rely on the fact that the amount the debtor de­
+clares as the “value of [the] claimed exemption” is within
+statutory limits. Instead, the trustee’s duty to object turns
+on whether the interplay of various schedule entries sup­
+ports an inference that the debtor “intended” to exempt a
+dollar value different than the one she wrote on the form.
+534 F. 3d, at 178. This complicated view of the trustee’s
+statutory obligation, and the strained reading of Schedule
+C on which it rests, is inconsistent with the Code.5
+The parties agree that this case is governed by §522(l),
+which states that a Chapter 7 debtor must “file a list of
+property that the debtor claims as exempt under subsec­
+tion (b) of this section,” and further states that “[u]nless a
+party in interest objects, the property claimed as exempt
+on such list is exempt.” The parties further agree that the
+“list” to which §522(l) refers is the “list of property . . .
+claim[ed] as exempt” currently known as “Schedule C.”
+See Schedule C.6 The parties, like the Courts of Appeals,
+disagree about what information on Schedule C defines
+the “property claimed as exempt” for purposes of evaluat­
+ing an exemption’s propriety under §522(l). Reilly asserts
+that the “property claimed as exempt” is defined by refer­
+ence to all the information on Schedule C, including the
+estimated market value of each asset in which the debtor
+claims an exempt interest. Schwab and the United States
+as amicus curiae argue that the Code specifically defines
+the “property claimed as exempt” as an interest, the value
+of which may not exceed a certain dollar amount, in a
+particular asset, not as the asset itself. Accordingly, they
+——————
+5 The forms, rules, treatise excerpts, and policy considerations on
+which the dissent relies, see post, at 4−16, must be read in light of the
+Bankruptcy Code provisions that govern this case, and must yield to
+those provisions in the event of conflict.
+6 Bankruptcy Rule 4003 specifies the time within which the debtor
+must file Schedule C, as well as the time within which interested
+parties must object to the exemptions claimed thereon.
+
+
+8
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+argue that the value of the property claimed exempt, i.e.,
+the value of the debtor’s exempt interest in the asset,
+should be judged on the value the debtor assigns the
+interest, not on the value the debtor assigns the asset.
+The point of disagreement is best illustrated by the rele­
+vant portion of Reilly’s Schedule C:
+Schedule C─Property Claimed as Exempt
+Description of
+Property
+Schedule B
+Personal
+Property
+....
+See attached
+list of business
+equipment.
+
+Specify Law
+Providing Each
+Exemption
+
+Value of
+Claimed
+Exemption
+
+Current Market Value
+of Property Without
+Deducting Exemptions
+
+....
+
+....
+
+....
+
+11 U. S. C.
+§522(d)(6)
+11 U. S. C.
+§522(d)(5)
+
+1,850
+
+10,718
+
+8,868
+
+According to Reilly, Schwab was required to treat the
+estimate of market value she entered in column four as
+part of her claimed exemption in identifying the “property
+claimed as exempt” under §522(l). See Brief for Respon­
+dent 22–28. Relying on this premise, Reilly argues that
+where, as here, a debtor equates the total value of her
+claimed exemptions in a certain asset (column three) with
+her estimate of the asset’s market value (column four), she
+establishes the “property claimed as exempt” as the full
+value of the asset, whatever that turns out to be. See ibid.
+Accordingly, Reilly argues that her Schedule C clearly put
+Schwab on notice that she “intended” to claim an exemp­
+tion for the full value of her business equipment, and that
+Schwab’s failure to oppose the exemption in a timely
+manner placed the full value of the equipment outside the
+estate’s reach.
+Schwab does not dispute that columns three and four
+apprised him that Reilly equated the total value of her
+claimed exemptions in the equipment ($1,850 plus $8,868)
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+with the equipment’s market value ($10,718). He simply
+disagrees with Reilly that this “identical listing put [him]
+on notice that Reilly intended to exempt the property
+fully,” regardless whether its value exceeded the exemp­
+tion limits the Code prescribes. 534 F. 3d, at 178. Schwab
+and amicus United States instead contend that the Code
+defines the “property” Reilly claimed as exempt under
+§522(l) as an “interest” whose value cannot exceed a cer­
+tain dollar amount. Brief for Petitioner 20–26; Reply Brief
+for Petitioner 3–6; Brief for United States as Amicus
+Curiae 12–18. Construing Reilly’s Schedule C in light of
+this statutory definition, they contend that Reilly’s
+claimed exemption was facially unobjectionable because
+the “property claimed as exempt” (i.e., two interests in her
+business equipment worth $8,868 and $1,850, respec­
+tively) is property Reilly was clearly entitled to exclude
+from her estate under the Code provisions she referenced
+in column 2. See supra, at 8 (citing §§522(d)(5) and (6)).
+Accordingly, Schwab and the United States conclude that
+Schwab had no obligation to object to the exemption in
+order to preserve for the estate any value in Reilly’s busi­
+ness equipment beyond the total amount ($10,718) Reilly
+properly claimed as exempt.
+We agree. The portion of §522(l) that resolves this case
+is not, as Reilly asserts, the provision stating that the
+“property claimed as exempt on [Schedule C] is exempt”
+unless an interested party objects. Rather, it is the por­
+tion of §522(l) that defines the target of the objection,
+namely, the portion that says Schwab has a duty to object
+to the “list of property that the debtor claims as exempt
+under subsection (b).” (Emphasis added.) That subsec­
+tion, §522(b), does not define the “property claimed as
+exempt” by reference to the estimated market value on
+which Reilly and the Court of Appeals rely. Brief for
+Respondent 22–23; 534 F. 3d, at 178. Section 522(b)
+refers only to property defined in §522(d), which in turn
+
+
+10
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+lists 12 categories of property that a debtor may claim as
+exempt. As we have recognized, most of these categories
+(and all of the categories applicable to Reilly’s exemptions)
+define the “property” a debtor may “clai[m] as exempt” as
+the debtor’s “interest”—up to a specified dollar amount—
+in the assets described in the category, not as the assets
+themselves. §§522(d)(5)–(6); see also §§522(d)(1)–(4), (8);
+Rousey v. Jacoway, 544 U. S. 320, 325 (2005); Owen v.
+Owen, 500 U. S. 305, 310 (1991). Viewing Reilly’s form
+entries in light of this definition, we agree with Schwab
+and the United States that Schwab had no duty to object
+to the property Reilly claimed as exempt (two interests in
+her business equipment worth $1,850 and $8,868) because
+the stated value of each interest, and thus of the “prop­
+erty claimed as exempt,” was within the limits the Code
+allows.7
+Reilly’s contrary view of Schwab’s obligations under
+§522(l) does not withstand scrutiny because it defines the
+target of a trustee’s objection—the “property claimed as
+exempt”—based on language in Schedule C and dictionary
+definitions of “property,” see Brief for Respondent 24–25,
+40–41, that the definition in the Code itself overrides.8
+——————
+7 Schwab’s statutory duty to object to the exemptions in this case
+turns solely on whether the value of the property claimed as exempt
+exceeds statutory limits because the parties agree that Schwab had no
+cause to object to Reilly’s attempt to claim exemptions in the equipment
+at issue, or to the applicability of the Code provisions Reilly cited in
+support of her exemptions.
+8 The dissent’s approach suffers from a similar flaw, and misstates
+our holding in critiquing it. See post, at 1−2 (asserting that by refusing
+to subject “challenges to the debtor’s valuation of exemptible assets” to
+the “30-day” objection period in Federal Rule of Bankruptcy Procedure
+4003(b), we “drastically reduc[e] Rule 4003’s governance”). Challenges
+to the valuation of what the dissent terms “exemptible assets” are not
+covered by Rule 4003(b) in the first place. Post, at 1. Challenges to
+“property claimed as exempt” as defined by the Code are covered by
+Rule 4003(b), but in this case that property is not objectionable, so the
+lack of an objection did not violate the Rule. Our holding is confined to
+
+
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+Although we may look to dictionaries and the Bankruptcy
+Rules to determine the meaning of words the Code does
+not define, see, e.g., Rousey, supra, at 330, the Code’s
+definition of the “property claimed as exempt” in this case
+is clear. As noted above, §§522(d)(5) and (6) define the
+“property claimed as exempt” as an “interest” in Reilly’s
+business equipment, not as the equipment per se. Sections
+522(d)(5) and (6) further and plainly state that claims to
+exempt such interests are statutorily permissible, and
+thus unobjectionable, if the value of the claimed interest is
+below a particular dollar amount.9 That is the case here,
+and Schwab was entitled to rely upon these provisions in
+evaluating whether Reilly’s exemptions were objectionable
+under the Code. See Lamie v. United States Trustee, 540
+U. S. 526, 534 (2004); Hartford Underwriters Ins. Co. v.
+Union Planters Bank, N. A., 530 U. S. 1, 6 (2000). The
+Court of Appeals’ contrary holding not only fails to account
+for the Code’s definition of the “property claimed as ex­
+empt.” It also fails to account for the provisions in §522(d)
+that permit debtors to exempt certain property in kind or
+in full regardless of value. See, e.g., §§522(d)(9) (profes­
+sionally prescribed health aids), (10)(C) (disability bene­
+fits), (7) (unmatured life insurance contracts). We decline
+to construe Reilly’s claimed exemptions in a manner that
+——————
+this point. Accordingly, our holding does not “reduc[e] Rule 4003’s
+governance,” nor does it express any judgment on what constrains
+objections to the type of “market value” estimates, post, at 1, the
+dissent equates with the dollar value a debtor assigns the “property
+claimed as exempt” as defined by the Code, see, e.g., post, at 2, 6.
+9 Treating such claims as unobjectionable is consistent with our pre­
+cedents. See, e.g., Rousey, 544 U. S., at 325. It also accords with
+bankruptcy court decisions holding that where, as here, a debtor claims
+an exemption pursuant to provisions that (like §522(d)(6)) permit the
+debtor to exclude from the estate only an “interest” in certain property,
+the “property” that becomes exempt absent objection, §522(l), is only
+the “partial interest” claimed as exempt and not “the asset as a whole,”
+e.g., In re Soost, 262 B. R. 68, 72 (Bkrtcy. App. Panel CA8 2001).
+
+
+12
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+elides the distinction between these provisions and provi­
+sions such as §§522(d)(5) and (6), see, e.g., Duncan v.
+Walker, 533 U. S. 167, 174 (2001), particularly based upon
+an entry on Schedule C—Reilly’s estimate of her equip­
+ment’s market value—to which the Code does not refer in
+defining the “property claimed as exempt.”10
+For all of these reasons, we conclude that Schwab was
+entitled to evaluate the propriety of the claimed exemp­
+tions based on three, and only three, entries on Reilly’s
+Schedule C: the description of the business equipment in
+which Reilly claimed the exempt interests; the Code provi­
+——————
+10 The dissent’s approach does not avoid these concerns. The dissent
+insists that “a debtor’s market valuation [of the equipment in which she
+claims an exempt interest] is an essential factor in determining the
+nature of the ‘interest’ [the] debtor lists as exempt” (and thus in deter­
+mining whether the claimed exemption is objectionable), because
+“without comparing [the debtor’s] market valuation of the equipment to
+the value of her claimed exemption” the trustee “could not comprehend
+whether [the debtor] claimed a monetary or an in-kind ‘interest’ in [the]
+equipment.” Post, at 9, n. 9. This argument overlooks the fact that
+there is another way the trustee could discern from the “face of the
+debtor’s filings,” post, at 7, n. 6, whether the debtor claimed as exempt
+a “monetary or an in-kind ‘interest’ in” her equipment, post, at 9, n. 9:
+The trustee could simply consult the Code provisions the debtor listed
+as governing the exemption in question. Here, those provisions,
+§§522(d)(5) and (d)(6), expressly describe the exempt interest as an
+“interest” “not to exceed” a specified dollar amount. Accordingly, it was
+entirely appropriate for Schwab to view Reilly’s schedule entries as
+exempting an interest in her business equipment in the (declared and
+unobjectionable) amounts of $1,850 and $8,868. Viewing the entries
+otherwise, i.e., as exempting the equipment in kind or in full no matter
+what its dollar value, would unnecessarily treat the exemption as
+violating the limits imposed by the Code provisions that govern it, as
+well as ignore the distinction between those provisions and the provi­
+sions that “authoriz[e] reclamation of the property in full without any
+cap on value,” post, at 7, n. 5. And it would do all of this based on
+information (identical dollar amounts in columns three and four of
+Schedule C) that Schwab and one of his amici say often result from a
+default setting in commercial bankruptcy software. See Reply Brief for
+Petitioner 15; Brief for Nat. Assn. of Bankruptcy Trustees 13, n. 15.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+sions governing the claimed exemptions; and the amounts
+Reilly listed in the column titled “value of claimed exemp­
+tion.” In reaching this conclusion, we do not render the
+market value estimate on Reilly’s Schedule C superfluous.
+We simply confine the estimate to its proper role: aiding
+the trustee in administering the estate by helping him
+identify assets that may have value beyond the dollar
+amount the debtor claims as exempt, or whose full value
+may not be available for exemption because a portion of
+the interest is, for example, encumbered by an unavoidable
+lien. See, e.g., 3 W. Norton, Bankruptcy Law and Practice
+§56:7 (3d ed. 2009); Brief for United States as Amicus Curiae
+16; Dept. of Justice, Executive Office for U. S. Trustees,
+Handbook for Chapter 7 Trustees, p. 8–1 (2005), http://
+www.justice.gov /ust/eo/private_trustee/library/chapter07/
+docs/7handbook1008/Ch7_Handbook.pdf (as visited June
+14, 2010, and available in Clerk of Court’s case file). As
+noted, most assets become property of the estate upon
+commencement of a bankruptcy case, see 11 U. S. C. §541,
+and exemptions represent the debtor’s attempt to reclaim
+those assets or, more often, certain interests in those
+assets, to the creditors’ detriment. Accordingly, it is at
+least useful for a trustee to be able to compare the value of
+the claimed exemption (which typically represents the
+debtor’s interest in a particular asset) with the asset’s
+estimated market value (which belongs to the estate sub­
+ject to any valid exemption) without having to consult
+separate schedules.11
+——————
+11 The
+
+dissent’s argument that the estimate plays a greater role, and
+is “vital,” post, at 8, to determining whether the value a debtor assigns
+the “property claimed as exempt” (here, an interest in certain business
+equipment) is objectionable, see post, at 8−9, lacks statutory support
+because the governing Code provisions phrase the exemption limit as a
+simple dollar amount. The dissent’s view, see post, at 7−9, might be
+plausible if the Code stated that the debtor could exempt an interest in
+her equipment “not to exceed” a certain percentage of the equipment’s
+
+
+14
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+Our interpretation of Schwab’s statutory obligations is
+not only consistent with the governing Code provisions; it
+is also consistent with the historical treatment of bank­
+ruptcy exemptions. Congress has permitted debtors to
+exempt certain property from their bankruptcy estates for
+more than two centuries. See Act of Apr. 4, 1800, ch. 19,
+§5, 2 Stat. 23.12 Throughout these periods, debtors have
+validly exempted property based on forms that required
+the debtor to list the value of a claimed exemption without
+also estimating the market value of the asset in which the
+——————
+market value, because then it might be necessary to “compar[e] [the
+debtor’s] market valuation of the equipment to the value of her claimed
+exemption” to determine the exemption’s propriety. Post, at 9, n. 9.
+But the Code does not phrase the exemption cap in such terms. More­
+over, even accepting that the equivalent Schedule C entries the dissent
+relies upon represent a claim to exempt an asset’s full value, the
+dissent does not explain why this equivalence precludes a trustee from
+relying on the dollar amount the debtor expressly assigns both entries.
+According to the dissent, a trustee faced with such entries should
+assume not only that the debtor reclaims from the estate what she
+believes to be the full value of an asset in which the Code allows her to
+exempt an interest “not to exceed” a certain dollar amount, e.g.,
+§522(d)(6), but also that the debtor would continue to claim the asset’s
+full value as exempt even if that value exceeds her estimate to a point
+that would cause her claim to violate the Code. The schedule entries
+themselves do not compel this assumption, and the Code provisions
+they invoke undercut it. The evidence that the debtor in this case
+would have chosen that course is external to her exemption schedule.
+See, e.g., supra, at 4 (citing statements in Reilly’s motion to dismiss);
+post, at 4, n. 3, 6 (same). And in the ordinary case, particularly if the
+equivalent entries the dissent relies upon result from a software de­
+fault, see n. 10, supra, there is no reason to assume that a debtor would
+want to violate the Code or jeopardize other exemptions if her market
+value estimate turns out to be wrong.
+12 See also Act of Aug. 19, 1841, ch. 9, §3, 5 Stat. 442; Act of Mar. 2,
+1867, ch. 176, §11, 14 Stat. 521, amended by Act of June 22, 1874, 18
+Stat., Pt. 3, p. 182; Bankruptcy Act of July 1, 1898, ch. 541, §6, 30 Stat.
+548, 11 U. S. C. §24 (1926 ed.); Chandler Act, ch. 575, §1, 52 Stat. 847,
+11 U. S. C. §24 (1934 ed., Supp. IV); §522 (1976 ed., Supp. II); §522
+(2000 ed. and Supp. V).
+
+
+Cite as: 560 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+debtor claimed the exempt interest. See Brief for Respon­
+dent 46, n. 7 (citing Sup. Ct. Bkrtcy. Form 20 (1877)).13
+Indeed, it was not until 1991 that Schedule B–4 was re­
+designated as Schedule C and amended to require the
+estimate of market value on which Reilly so heavily relies.
+See Schedule C. This amendment was not occasioned by
+legislative changes that altered the Code’s definition of
+“the property claimed as exempt” in this case as an “inter­
+est,” not to exceed a certain dollar amount, in Reilly’s
+business equipment.14 Accordingly, we agree with Schwab
+and the United States that this recent amendment to the
+exemption form does not compel Reilly’s view of Schwab’s
+statutory obligations, or render the claimed exemptions in
+this case objectionable under the Code. See Reply Brief
+for Petitioner 9–11; Brief for United States as Amicus
+Curiae 16–17.15
+——————
+13 See also General Forms in Bankruptcy, Official Form 1, Schedule
+B. (5) (1898); Fed. Rule Bkrtcy. Proc. Official Form 6, Schedule B–4
+(1971).
+14 The precise reason for the amendment is unclear. See Communica­
+tion from THE CHIEF JUSTICE of the United States Transmitting
+Amendments to the Federal Rules of Bankruptcy Procedure Prescribed
+by the Court, Pursuant to 28 U. S. C. 2075, H. R. Doc. 102–80, p. 558,
+reprinted in 11 Bankruptcy Rules Documentary History (1990–1991)
+(referencing only the fact of the amendment). It may have been to
+consolidate and reconcile the separate forms debtors were previously
+required to file in Chapter 7 and Chapter 13 cases, see, e.g., In re
+Beshirs, 236 B. R. 42, 46−47 (Bkrtcy. Ct. Kan. 1999), or simply to make
+it easier for trustees to evaluate whether certain assets were viable
+candidates for liquidation. Whatever the case, it did not result from
+statutory changes to the Code provisions that govern this dispute.
+15 Because the Code provisions we rely upon to resolve this case do
+not obligate trustees to object under Rule 4003(b) to a debtor’s estimate
+of the market value of an asset in which the debtor claims an exempt
+interest, our analysis does not depend on whether the schedule of
+“property claimed as exempt” (currently Schedule C) calls for such an
+estimate or not. We engage the point only because Reilly suggests that
+the 1991 schedule revisions requiring debtors to provide such an
+estimate on the schedule of “property claimed as exempt” means that
+
+
+16
+
+SCHWAB v. REILLY 
+
+Opinion of the Court 
+
+
+III 
+
+The Court of Appeals erred in holding that our decision
+in Taylor dictates a contrary conclusion. See 534 F. 3d, at
+178. Taylor does not rest on what the debtor “meant” to
+exempt. 534 F. 3d, at 178. Rather, Taylor applies to the
+face of a debtor’s claimed exemption the Code provisions
+that compel reversal here.
+The debtor in Taylor, like the debtor here, filed a sched­
+ule of exemptions with the Bankruptcy Court on which the
+debtor described the property subject to the claimed ex­
+emption, identified the Code provision supporting the
+exemption, and listed the dollar value of the exemption.
+Critically, however, the debtor in Taylor did not, like the
+debtor here, state the value of the claimed exemption as a
+specific dollar amount at or below the limits the Code
+allows. Instead, the debtor in Taylor listed the value of
+the exemption itself as “$ unknown”:
+Schedule B-4. ─Property Claimed Exempt
+Type of
+Property
+
+Proceeds from
+lawsuit
+
+Location, Description,
+and, So Far As Relevant
+to the Claim of Exemp­
+tion, Present Use of
+Property
+Winn v. TWA
+Claim for lost wages
+
+Specify the
+Statute
+Creating the
+Exemption
+
+Value Claimed
+Exempt
+
+11 U. S. C.
+522(b)(d)
+
+$ unknown
+
+The interested parties in Taylor agreed that this entry
+——————
+the estimate must be viewed as part of the exemption and is therefore
+subject to the Rule. See Brief for Respondent 40−41. The dissent
+ranges far beyond even this unavailing argument in suggesting that the
+market value estimate served as “an essential factor in determining the
+nature of the ‘interest’ a debtor lists as exempt,” post, at 9, n. 9, even
+before 1991 when that estimate did not appear on the schedule of
+“property claimed as exempt” (former Schedule B−4), but rather ap­
+peared on former “Schedule B–2,” post, at 7, n. 6, which merely listed
+the debtor’s “personal property” as of the date of the petition filing.
+Interim Fed. Rule Bkrtcy. Proc. Official Form 6, Schedules B–2, B–4
+(1979).
+
+
+Cite as: 560 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+rendered the debtor’s claimed exemption objectionable on
+its face because the exemption concerned an asset (lawsuit
+proceeds) that the Code did not permit the debtor to ex­
+empt beyond a specific dollar amount. See 503 U. S., at
+642. Accordingly, although this case and Taylor both
+concern the consequences of a trustee’s failure to object to
+a claimed exemption within the time specified by Rule
+4003, the question arose in Taylor on starkly different
+facts. In Taylor, the question concerned a trustee’s obliga­
+tion to object to the debtor’s entry of a “value claimed
+exempt” that was not plainly within the limits the Code
+allows. In this case, the opposite is true. The amounts
+Reilly listed in the Schedule C column titled “Value of
+Claimed Exemption” are facially within the limits the
+Code prescribes and raise no warning flags that warranted
+an objection.16 See supra, at 8.
+Taylor supports this conclusion. In holding otherwise,
+the Court of Appeals focused on what it described as Tay
+lor’s “ ‘unstated premise’ ” that “ ‘a debtor who exempts the
+entire reported value of an asset is claiming the “full
+amount,” whatever it turns out to be.’ ” 534 F. 3d, at 179.
+But Taylor does not rest on this premise. It establishes
+and applies the straightforward proposition that an inter­
+ested party must object to a claimed exemption if the
+——————
+16 See, e.g., Barroso-Herrans, 524 F. 3d, at 345 (explaining that Sche­
+dule C entries listing the value of a claimed exemption as “unknown,”
+“to be determined,” or “100%” are “ ‘red flags to trustees and creditors,’
+and therefore put them on notice that if they do not object, the whole
+value of the asset—whatever it might later turn out to be—will be
+exempt” (quoting 1 Collier on Bankruptcy ¶8.06[1][c][ii] (15th ed. rev.
+2007); citation and some internal quotation marks omitted)). The
+dissent concedes that a debtor’s exemption schedule “must give notice
+sufficient to cue the trustee that an objection may be in order,” and
+rightly observes that the sufficiency of a particular cue, or “ ‘ warning
+flag,’ ” may lie “in the eye of the beholder.” Post, at 14. In this case,
+however, the Code itself breaks the tie between what might otherwise
+be two equally tenable views.
+
+
+18
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+amount the debtor lists as the “value claimed exempt” is
+not within statutory limits, a test the value ($ unknown)
+in Taylor failed, and the values ($8,868 and $1,850) in this
+case pass.
+We adhere to this test. Doing otherwise would not only
+depart from Taylor and ignore the presumption that par­
+ties act lawfully and with knowledge of the law, cf. United
+States v. Budd, 144 U. S. 154, 163 (1892); it would also
+require us to expand the statutory definition of “property
+claimed as exempt” and the universe of information an
+interested party must consider in evaluating the validity
+of a claimed exemption. Even if the Code allowed such
+expansions, they would be ill advised. As evidenced by the
+differences between Reilly’s Schedule C and the schedule
+in Taylor, preprinted bankruptcy schedules change over
+time. Basing the definition of the “property claimed as
+exempt,” and thus an interested party’s obligation to
+object under §522(l), on inferences that party must draw
+from evolving forms, rather than on the facial validity of
+the value the debtor assigns the “property claimed as
+exempt” as defined by the Code, would undermine the
+predictability the statute is designed to provide.17 For all
+of these reasons, we take Reilly’s exemptions at face value
+and find them unobjectionable under the Code, so the
+——————
+17 Reilly insists that our conclusion should nonetheless be avoided
+because “procedures that burden the debtor’s exemption entitlements,
+like those that impair a debtor’s discharge generally, are to be con­
+strued narrowly.” Brief for Respondent 33 (citing Kawaauhau v.
+Geiger, 523 U. S. 57, 62 (1998)). This argument misses the mark for
+two reasons. First, the only burdens our conclusion imposes are bur­
+dens the Code itself prescribes, specifically, the burdens the Code
+places on debtors to state their claimed exemptions accurately and to
+conform such claims to statutory limits. Second, and in any event,
+Geiger and the other cases Reilly cites emphasize in the discharge
+context the importance of limiting exceptions to discharge to “those
+plainly expressed,” a principle that supports our approach here. Ibid.
+(internal quotation marks omitted).
+
+
+Cite as: 560 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+objection deadline we enforced in Taylor is inapplicable
+here.
+IV
+In a final effort to defend the Court of Appeals’ judg­
+ment, Reilly asserts that her approach to §522(l) is neces­
+sary to vindicate the Code’s goal of giving debtors a fresh
+start, and to further its policy of discouraging trustees and
+creditors from sleeping on their rights. See Brief for Re­
+spondent 21, 55–68. Although none of Reilly’s policy
+arguments can overcome the Code provisions or the as­
+pects of Taylor that govern this case, our decision fully
+accords with all of the policies she identifies. We agree
+that “exemptions in bankruptcy cases are part and parcel
+of the fundamental bankruptcy concept of a ‘fresh start.’ ”
+Brief for Respondent 21 (quoting Rousey, 544 U. S., at
+325); see Marrama v. Citizens Bank of Mass., 549 U. S.
+365, 367 (2007). We disagree that this policy required
+Schwab to object to a facially valid claim of exemption on
+pain of forfeiting his ability to preserve for the estate any
+value in Reilly’s business equipment beyond the value of
+the interest she declared exempt. This approach threat­
+ens to convert a fresh start into a free pass.
+As we emphasized in Rousey, “[t]o help the debtor obtain
+a fresh start, the Bankruptcy Code permits him to with
+draw from the estate certain interests in property, such as
+his car or home, up to certain values.” 544 U. S., at 325
+(emphasis added). The Code limits exemptions in this
+fashion because every asset the Code permits a debtor to
+withdraw from the estate is an asset that is not available
+to his creditors. See §522(b)(1). Congress balanced the
+difficult choices that exemption limits impose on debtors
+with the economic harm that exemptions visit on creditors,
+and it is not for us to alter this balance by requiring trus­
+tees to object to claimed exemptions based on form entries
+beyond those that govern an exemption’s validity under
+
+
+20
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+the Code. See Lamie, 540 U. S., at 534, 538; Hartford, 530
+U. S., at 6; United States v. Locke, 471 U. S. 84, 95 (1985).
+Reilly nonetheless contends that our approach creates
+perverse incentives for trustees and creditors to sleep on
+their rights. See Brief for Respondent 64, n. 10, 67–69.
+Again, we disagree. Where a debtor intends to exempt
+nothing more than an interest worth a specified dollar
+amount in an asset that is not subject to an unlimited or
+in-kind exemption under the Code, our approach will
+ensure clear and efficient resolution of competing claims to
+the asset’s value. If an interested party does not object to
+the claimed interest by the time the Rule 4003 period
+expires, title to the asset will remain with the estate pur­
+suant to §541, and the debtor will be guaranteed a pay­
+ment in the dollar amount of the exemption. If an inter­
+ested party timely objects, the court will rule on the
+objection and, if it is improper, allow the debtor to make
+appropriate adjustments.18
+Where, as here, it is important to the debtor to exempt
+the full market value of the asset or the asset itself, our
+decision will encourage the debtor to declare the value of
+her claimed exemption in a manner that makes the scope
+of the exemption clear, for example, by listing the exempt
+value as “full fair market value (FMV)” or “100% of
+——————
+18 We disagree that Reilly’s approach to exemptions would more effi­
+ciently dispose of competing claims to the asset. On Reilly’s view, a
+trustee would be encouraged (if not obliged) to object to claims to
+exempt a specific dollar amount of interest in an asset whenever the
+value of the exempt interest equaled the debtor’s estimate of the asset’s
+market value. Where the debtor genuinely intended to claim nothing
+more than the face value of the exempt interest (which is rational if a
+debtor wishes to ensure that his aggregate exemptions remain within
+statutory limits), such an approach would engender needless objections
+and litigation, particularly if the equation that would precipitate the
+objection often results from a default software entry. See Reply Brief
+for Petitioner 15; Brief for Nat. Assn. of Bankruptcy Trustees 13, n. 15.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+21
+
+Opinion of the Court
+
+FMV.”19 Such a declaration will encourage the trustee to
+object promptly to the exemption if he wishes to challenge
+it and preserve for the estate any value in the asset be­
+yond relevant statutory limits.20 If the trustee fails to
+object, or if the trustee objects and the objection is over­
+ruled, the debtor will be entitled to exclude the full value
+of the asset. If the trustee objects and the objection is
+sustained, the debtor will be required either to forfeit the
+portion of the exemption that exceeds the statutory allow­
+ance, or to revise other exemptions or arrangements with
+her creditors to permit the exemption. See Fed. Rule
+——————
+19 The dissent’s observations about the poor fit between our admoni­
+tion and a form entry calling for a dollar amount, see post, at 15, simply
+reflect the tension between the Code’s definition of “property claimed
+as exempt” (i.e., an interest, not to exceed a certain dollar amount, in
+Reilly’s business equipment) and Reilly’s attempt to convert into a
+dollar value an improper claim to exempt the equipment itself, “ ‘what­
+ever [its value] turns out to be.’ ” In re Reilly, 534 F. 3d 173, 178−179
+(CA3 2008). As the dissent concedes, “[s]ection 522(d) catalogs exemp­
+tions of two types.” Post, at 7, n. 5. “Most exemptions—and all of those
+Reilly invoked—place a monetary limit on the value of the property the
+debtor may reclaim,” and such exemptions are distinct from those made
+pursuant to Code provisions that “authoriz[e] reclamation of the prop­
+erty in full without any cap on value.” Ibid. Nothing about Reilly’s
+Schedule entries establishes that Schwab should have treated Reilly’s
+claim for $10,718, an unobjectionable amount under the Code provi­
+sions she expressly invoked, as an objectionable claim for thousands of
+dollars more than those provisions allow, or as a claim for an uncapped
+exemption under Code provisions she did not invoke and the dissent
+admits are “not at issue here.” Ibid.
+20 A trustee will not always file an objection. As the United States
+observes, Schwab did not do so in this case with respect to certain
+assets (perishable foodstuffs from Reilly’s commercial kitchen) that
+could not be readily sold. See Brief for United States as Amicus Curiae
+28, n. 7 (explaining that Schwab could have objected to Reilly’s claim of
+a wildcard exemption for an interest in the food totaling $2,036 because
+this claim, combined with her wildcard claims for an interest of $8,868
+in her business equipment and interests totaling $26 in her bank
+accounts, placed the total value of the interests she claimed exempt
+under the wildcard provision $975 above then-applicable limits).
+
+
+22
+
+SCHWAB v. REILLY
+Opinion of the Court
+
+Bkrtcy. Proc. 1009(a). Either result will facilitate the
+expeditious and final disposition of assets, and thus enable
+the debtor (and the debtor’s creditors) to achieve a fresh
+start free of the finality and clouded-title concerns Reilly
+describes. See Brief for Respondent 57–59 (arguing that
+“[u]nder [Schwab’s] interpretation of Rule 4003(b), a
+debtor would never have the certainty of knowing whether
+or not he or she may keep her exempted property until the
+case had ended”); id., at 66.21
+For all of these reasons, the policy considerations Reilly
+cites support our approach. Where, as here, a debtor
+accurately describes an asset subject to an exempt interest
+and on Schedule C declares the “value of [the] claimed
+exemption” as a dollar amount within the range the Code
+allows, interested parties are entitled to rely upon that
+value as evidence of the claim’s validity. Accordingly, we
+hold that Schwab was not required to object to Reilly’s
+claimed exemptions in her business equipment in order to
+——————
+21 Reilly’s
+
+clouded-title argument arises only if one accepts her flawed
+conception of the exemptions in this case. According to Reilly, “once the
+thirty-day deadline passed without objection” to her claim, she was
+“entitled to know that she would emerge from bankruptcy with her
+cooking equipment intact.” Brief for Respondent 57. There are two
+problems with this argument. First, it assumes that the property she
+claimed as exempt was the full value of the equipment. That assump­
+tion is incorrect for the reasons we explain. Second, her argument
+assumes that a claim to exempt the full value of the equipment would,
+if unopposed, entitle her to the equipment itself as opposed to a pay­
+ment equal to the equipment’s full value. That assumption is at least
+questionable. Section 541 is clear that title to the equipment passed to
+Reilly’s estate at the commencement of her case, and §§522(d)(5) and
+(6) are equally clear that her reclamation right is limited to exempting
+an interest in the equipment, not the equipment itself. Accordingly, it
+is far from obvious that the Code would “entitle” Reilly to clear title in
+the equipment even if she claimed as exempt a “full” or “100%” interest
+in it (which she did not). Of course, it is likely that a trustee who fails
+to object to such a claim would have little incentive to do anything but
+pass title in the asset to the debtor. But that does not establish the
+statutory entitlement Reilly claims.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+23
+
+Opinion of the Court
+
+preserve the estate’s right to retain any value in the
+equipment beyond the value of the exempt interest. In
+reaching this conclusion, we express no judgment on the
+merits of, and do not foreclose the courts from entertaining
+on remand, procedural or other measures that may allow
+Reilly to avoid auction of her business equipment.
+*
+*
+*
+We reverse the judgment of the Court of Appeals for the
+Third Circuit and remand this case for further proceedings
+consistent with this opinion.
+It is so ordered.
+
+

@@ -1,0 +1,45 @@
+4
+
+MERCK & CO. v. REYNOLDS
+Opinion of SCALIA, J.
+
+using a deceptive device covered by §10(b).1
+Unable to identify anything in the statutory context that
+warrants giving “discovery” two meanings, the Court
+relies on the historical treatment of “discovery” in limita
+tions periods (particularly for fraud claims) as incorporat
+ing a constructive-discovery rule. Ante, at 8–10, 12. But
+that history proves only that “discovery” can carry that
+technical meaning, and that without §77m it would be
+reasonable (other things equal) to read it that way here.
+It does not show what “discovery” means in §1658(b)(1) in
+light of §77m’s codification of a constructive-discovery
+rule. In my view, the meaning of “discovery” in the
+broader context of limitations provisions is overcome by its
+meaning in the more specific context of the federal securi
+ties laws.
+The Court’s other reason for rejecting the more natural
+reading of §1658(b)(1) rests on a consensus among the
+Courts of Appeals before the provision’s enactment. Ante,
+at 11–12. In Lampf, Pleva, Lipkind, Prupis & Petigrow v.
+Gilbertson, 501 U. S. 350 (1991), the Court notes, we
+explicitly adopted the terms of §78i(e)—which like
+§1658(b)(1) refers only to discovery with no mention of
+reasonable diligence—as the limitations period for the
+private §10(b) cause of action we created. Id., at 364, and
+——————
+1 The Court appears to believe that §77m’s distinction between actual
+and constructive discovery has no bearing on §1658(b)(1)’s meaning
+because the latter does not itself draw the same distinction. Ante, at
+11–12. The point, however, is that both provisions use the same word
+(“discovery”) with no contextual clue that it carries different meanings;
+and its use in §77m makes clear that the meaning is actual discovery.
+The Court suggests that usages of the same word in other statutes
+are irrelevant, ante, at 11–12, but of course it does not believe that. Its
+entire argument rests on the meaning courts have ascribed to “discov
+ery” in other limitations provisions (some enacted decades ago by state
+legislatures), ante, at 8–10. Yet while the Court considers that broader
+context, it provides no explanation for ignoring the more specific
+context of securities-fraud claims under the 1933 and 1934 Acts.
+
+

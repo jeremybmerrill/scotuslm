@@ -1,0 +1,45 @@
+6
+
+BROWN v. ENTERTAINMENT MERCHANTS ASSN.
+ALITO, J., concurring in judgment
+
+inherent in the open-ended term ‘patently offensive’ ”).3
+By contrast, the threshold requirement of the California
+law does not perform the narrowing function served by the
+limitation in Miller. At least when Miller was decided,
+depictions of “hard core” sexual conduct were not a com
+mon feature of mainstream entertainment. But nothing
+similar can be said about much of the conduct covered by
+the California law. It provides that a video game cannot
+qualify as “violent” unless “the range of options available
+to a player includes killing, maiming, dismembering, or
+sexually assaulting an image of a human being.”
+§1746(d)(1).
+For better or worse, our society has long regarded many
+depictions of killing and maiming4 as suitable features of
+popular entertainment, including entertainment that is
+widely available to minors. The California law’s threshold
+requirement would more closely resemble the limitation in
+Miller if it targeted a narrower class of graphic depictions.
+Because of this feature of the California law’s threshold
+test, the work of providing fair notice is left in large part
+to the three requirements that follow, but those elements
+are also not up to the task. In drafting the violent video
+game law, the California Legislature could have made its
+own judgment regarding the kind and degree of violence
+that is acceptable in games played by minors (or by minors
+in particular age groups). Instead, the legislature relied
+on undefined societal or community standards.
+——————
+3 The provision of New York law under which the petitioner was con
+victed in Ginsberg was framed with similar specificity. This provision
+applied to depictions of “nudity” and “sexual conduct,” and both those
+terms were specifically and unambiguously defined. See 390 U. S., at
+645–647 (Appendix A to opinion of the Court).
+4 The California law does not define the term “maiming,” nor has the
+State cited any decisions from its courts that define the term in this
+context. Accordingly, I take the term to have its ordinary meaning,
+which includes the infliction of any serious wound, see Webster’s Third
+New International Dictionary 1362 (2002) (hereinafter Webster’s).
+
+

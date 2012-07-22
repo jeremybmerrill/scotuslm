@@ -1,0 +1,55 @@
+2
+
+BOARD OF TRUSTEES OF LELAND STANFORD JUNIOR 
+
+UNIV. v. ROCHE MOLECULAR SYSTEMS, INC. 
+
+Syllabus 
+
+(Bayh-Dole Act or Act) allocates rights in federally funded “subject
+invention[s]” between the Federal Government and federal contrac
+tors. 35 U. S. C. §§201(e), (c), 202(a). The Act defines “subject inven
+tion” as “any invention of the contractor conceived or first actually
+reduced to practice in the performance of work under a funding
+agreement,” §201(e), and provides that contractors may “elect to re
+tain title to any subject invention,” §202(a). Because some of Stan
+ford’s research on the HIV measurement technique was funded by
+the National Institutes of Health (NIH), the Bayh-Dole Act applied.
+In accordance with the Act’s requirements, Stanford notified NIH
+that it was electing to retain title to the invention and conferred on
+the Government a license to use the patented procedure.
+Petitioner, the Board of Trustees of Stanford University, filed suit
+against respondents (Roche), claiming that their HIV test kits in
+fringed Stanford’s patents. Roche responded that Holodniy’s agree
+ment with Cetus gave it co-ownership of the procedure, and thus
+Stanford lacked standing to sue it for patent infringement. Stanford
+countered that Holodniy had no rights to assign because the Univer
+sity had superior rights under the Bayh-Dole Act. The District Court
+agreed with Stanford and held that under the Bayh-Dole Act, Holod
+niy had no rights to assign to Cetus. The Court of Appeals for the
+Federal Circuit disagreed, concluding that Holodniy’s agreement with
+Cetus assigned his rights to Cetus, and thus to Roche. It also found
+that the Bayh-Dole Act did not automatically void an inventor’s
+rights in federally funded inventions. Thus, the Act did not extin
+guish Roche’s ownership interest in the invention, and Stanford was
+deprived of standing.
+
+Held: The Bayh-Dole Act does not automatically vest title to federally
+funded inventions in federal contractors or authorize contractors to
+unilaterally take title to such inventions. Pp. 6–15.
+(a) Since 1790, patent law has operated on the premise that rights
+in an invention belong to the inventor. See, e.g., Gayler v. Wilder, 10
+How. 477, 493. In most cases, a patent may be issued only to an ap
+plying inventor, or—because an inventor’s interest in his invention is
+assignable in law by an instrument in writing—an inventor’s as
+signee. See United States v. Dubilier Condenser Corp., 289 U. S. 178,
+187. Absent an agreement to the contrary, an employer does not
+have rights in an invention “which is the original conception of the
+employee alone,” id., at 189; an inventor must expressly grant those
+rights to his employer, see id., at 187. Pp. 6–8.
+(b) Stanford and amicus United States contend that, when an in
+vention is conceived or first reduced to practice with the support of
+federal funds, the Bayh-Dole Act vests title to those inventions in the
+inventor’s employer—the federal contractor. Congress has in the
+
+

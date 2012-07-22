@@ -1,0 +1,55 @@
+2
+
+FREE ENTERPRISE FUND v. PUBLIC COMPANY 
+
+ACCOUNTING OVERSIGHT BD. 
+
+Syllabus 
+
+The firm and petitioner Free Enterprise Fund, a nonprofit organiza
+tion of which the firm is a member, sued the Board and its members,
+seeking, inter alia, a declaratory judgment that the Board is uncon
+stitutional and an injunction preventing the Board from exercising its
+powers. Petitioners argued that the Sarbanes-Oxley Act contravened
+the separation of powers by conferring executive power on Board
+members without subjecting them to Presidential control. The basis
+for petitioners’ challenge was that Board members were insulated
+from Presidential control by two layers of tenure protection: Board
+members could only be removed by the Commission for good cause,
+and the Commissioners could in turn only be removed by the Presi
+dent for good cause. Petitioners also challenged the Board’s ap
+pointment as violating the Appointments Clause, which requires offi
+cers to be appointed by the President with the Senate’s advice and
+consent, or—in the case of “inferior Officers”—by “the President
+alone, . . . the Courts of Law, or . . . the Heads of Departments,”
+Art. II, §2, cl. 2. The United States intervened to defend the statute.
+The District Court found it had jurisdiction and granted summary
+judgment to respondents. The Court of Appeals affirmed. It first
+agreed that the District Court had jurisdiction. It then ruled that the
+dual restraints on Board members’ removal are permissible, and that
+Board members are inferior officers whose appointment is consistent
+with the Appointments Clause.
+
+Held:
+1. The District Court had jurisdiction over these claims. The
+Commission may review any Board rule or sanction, and an ag
+grieved party may challenge the Commission’s “final order” or “rule”
+in a court of appeals under 15 U. S. C. §78y. The Government reads
+§78y as an exclusive route to review, but the text does not expressly
+or implicitly limit the jurisdiction that other statutes confer on dis
+trict courts. It is presumed that Congress does not intend to limit ju
+risdiction if “a finding of preclusion could foreclose all meaningful ju
+dicial review”; if the suit is “ ‘wholly “collateral” ’ to a statute’s review
+provisions”; and if the claims are “outside the agency’s expertise.”
+Thunder Basin Coal Co. v. Reich, 510 U. S. 200, 212–213.
+These considerations point against any limitation on review here.
+Section 78y provides only for review of Commission action, and peti
+tioners’ challenge is “collateral” to any Commission orders or rules
+from which review might be sought. The Government advises peti
+tioners to raise their claims by appealing a Board sanction, but peti
+tioners have not been sanctioned, and it is no “meaningful” avenue of
+relief, Thunder Basin, supra, at 212, to require a plaintiff to incur a
+sanction in order to test a law’s validity, MedImmune, Inc. v. Genen
+tech, Inc., 549 U. S. 118, 129. Petitioners’ constitutional claims are
+
+

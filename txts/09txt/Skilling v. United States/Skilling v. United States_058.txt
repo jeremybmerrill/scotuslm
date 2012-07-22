@@ -1,0 +1,46 @@
+Cite as: 561 U. S. ____ (2010) 
+
+
+49
+
+Opinion of the Court 
+
+
+C
+
+It remains to determine whether Skilling’s conduct
+violated §1346. Skilling’s honest-services prosecution, the
+Government concedes, was not “prototypical.” Brief for
+United States 49. The Government charged Skilling with
+conspiring to defraud Enron’s shareholders by misrepre­
+senting the company’s fiscal health, thereby artificially
+inflating its stock price. It was the Government’s theory
+at trial that Skilling “profited from the fraudulent scheme
+. . . through the receipt of salary and bonuses, . . . and
+through the sale of approximately $200 million in Enron
+stock, which netted him $89 million.” Id., at 51.
+The Government did not, at any time, allege that Skill­
+ing solicited or accepted side payments from a third party
+in exchange for making these misrepresentations. See
+Record 41328 (May 11, 2006 Letter from the Government
+to the District Court) (“[T]he indictment does not allege,
+and the government’s evidence did not show, that [Skill­
+ing] engaged in bribery.”). It is therefore clear that, as we
+read §1346, Skilling did not commit honest-services fraud.
+Because the indictment alleged three objects of the conspiracy—honest-services wire fraud, money-or-property
+wire fraud, and securities fraud—Skilling’s conviction
+is flawed. See Yates v. United States, 354 U. S. 298
+(1957) (constitutional error occurs when a jury is in­
+structed on alternative theories of guilt and returns a
+general verdict that may rest on a legally invalid theory).
+This determination, however, does not necessarily require
+reversal of the conspiracy conviction; we recently con­
+firmed, in Hedgpeth v. Pulido, 555 U. S. ___ (2008) (per
+curiam), that errors of the Yates variety are subject to
+harmless-error analysis. The parties vigorously dispute
+whether the error was harmless. Compare Brief for
+United States 52 (“[A]ny juror who voted for conviction
+based on [the honest-services theory] also would have
+found [Skilling] guilty of conspiring to commit securities
+
+

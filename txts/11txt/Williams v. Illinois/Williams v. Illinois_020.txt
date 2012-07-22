@@ -1,0 +1,36 @@
+14
+
+WILLIAMS v. ILLINOIS
+Opinion of ALITO, J.
+
+on facts that were not known to be true, but the judge
+disagreed. Because the experts were “peculiarly acquainted” with “a matter of skill or science,” the judge
+said, the “jury might be assisted” by their hypothetical
+opinion based on certain assumed facts. Id., at 117, 170 Eng.
+Rep., at 897. The judge acknowledged the danger of the
+jury’s being unduly prejudiced by wrongly assuming the
+truth of the hypothetical facts, but the judge noted that
+the experts could be asked on cross-examination what
+their opinion of the ship’s seaworthiness would be if different hypothetical facts were assumed. If the party that had
+called the experts could not independently prove the truth
+of the premises they posited, then the experts’ “opinion
+might not go for much; but still it was admissible evidence.” Ibid.
+There is a long tradition of the use of hypothetical questions in American courts. In 1887, for example, this Court
+indicated its approval of the following jury instruction:
+“As to the questions, you must understand that they
+are not evidence; they are mere statements to these
+witnesses . . . and, upon the hypothesis or assumption
+of these questions the witnesses are asked to give
+their [opinion]. You must readily see that the value of
+the answers to these questions depends largely, if not
+wholly, upon the fact whether the statements made in
+these questions are sustained by the proof. If the
+statements in these questions are not supported by
+the proof, then the answers to the questions are entitled to no weight, because based upon false assumptions or statements of facts.” Forsyth v. Doolittle, 120
+U. S. 73, 77 (internal quotation marks omitted).
+Modern rules of evidence continue to permit experts to
+express opinions based on facts about which they lack
+personal knowledge, but these rules dispense with the
+need for hypothetical questions. Under both the Illinois
+
+

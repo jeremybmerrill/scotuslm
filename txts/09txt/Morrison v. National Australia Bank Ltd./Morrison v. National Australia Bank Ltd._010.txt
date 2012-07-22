@@ -1,0 +1,44 @@
+Cite as: 561 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+shares (but not, of course, its treasury shares) were listed
+on both the American Stock Exchange and the Toronto
+Stock Exchange. Invoking the presumption against extra­
+territoriality, the court held that §10(b) was inapplicable
+(though it incorrectly viewed the defect as jurisdictional).
+268 F. Supp., at 391–392, 393–394. The decision in
+Schoenbaum was reversed, however, by a Second Circuit
+opinion which held that “neither the usual presumption
+against extraterritorial application of legislation nor the
+specific language of [§]30(b) show Congressional intent to
+preclude application of the Exchange Act to transactions
+regarding stocks traded in the United States which are
+effected outside the United States . . . .” Schoenbaum, 405
+F. 2d, at 206. It sufficed to apply §10(b) that, although the
+transactions in treasury shares took place in Canada, they
+affected the value of the common shares publicly traded in
+the United States. See id., at 208–209. Application of
+§10(b), the Second Circuit found, was “necessary to protect
+American investors,” id., at 206.
+The Second Circuit took another step with Leasco Data
+Processing Equip. Corp. v. Maxwell, 468 F. 2d 1326 (1972),
+which involved an American company that had been
+fraudulently induced to buy securities in England. There,
+unlike in Schoenbaum, some of the deceptive conduct had
+occurred in the United States but the corporation whose
+securities were traded (abroad) was not listed on any
+domestic exchange. Leasco said that the presumption
+against extraterritoriality apples only to matters over
+which the United States would not have prescriptive
+jurisdiction, 468 F. 2d, at 1334. Congress had prescriptive
+jurisdiction to regulate the deceptive conduct in this coun­
+try, the language of the Act could be read to cover that
+conduct, and the court concluded that “if Congress had
+thought about the point,” it would have wanted §10(b) to
+apply. Id., at 1334–1337.
+With Schoenbaum and Leasco on the books, the Second
+
+

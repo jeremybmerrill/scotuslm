@@ -1,0 +1,44 @@
+Cite as: 563 U. S. ____ (2011)
+
+9
+
+BREYER, J., dissenting
+
+accuracy rate is even worse “in states that require the use
+of E-Verify for all or some of their employees.” Id., at 122.
+A related provision of the state law aggravates the risk
+of erroneous prosecutions. The state statute says that
+in “determining whether an employee is an unauthorized
+alien, the court shall consider only the federal govern
+ment’s determination pursuant to 8 [U. S. C.] §1373(c).”
+Ariz. Rev. Stat. Ann. §23–212(H). But the federal provi
+sion to which the state law refers, 8 U. S. C. §1373(c), says
+only that the Federal Government, upon a State’s request,
+shall verify a person’s “citizenship or immigration status.”
+It says nothing about work authorization. See post, at 7–
+10 (SOTOMAYOR, J., dissenting). It says nothing about the
+source of the Federal Government’s information. It im
+poses no duty upon the Federal Government or anyone
+else to investigate the validity of that information, which
+may falsely implicate an employer 18% of the time.
+So what is the employer to do? What statute gives an
+employer whom the State proceeds against in state court
+the right to conduct discovery against the Federal Gov
+ernment? The Arizona statute, like the federal statute,
+says that the employer’s use of an I–9 form provides a
+defense. But there is a hitch. The federal Act says that
+neither the I–9 form, nor “any information contained
+in or appended to” the form, “may . . . be used for pur
+poses other than for enforcement of this” federal Act.
+§1324a(b)(5). So how can the employer present a defense,
+say, that the Government’s information base is flawed?
+The majority takes the view that the forms are not neces­
+sary to receive the benefit of the affirmative defense. Ante,
+at 18, n. 9. But the I–9 form would surely be the em
+ployer’s most effective evidence. See also post, at 11
+(SOTOMAYOR, J., dissenting) (suggesting that the unavail
+ability of I–9 forms to defend against state-court charges
+means that Congress “intended no such” proceedings).
+Nor does the Arizona statute facilitate the presentation
+
+

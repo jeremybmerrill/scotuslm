@@ -1,0 +1,213 @@
+No. 09–1343 [June 27, 2011] JUSTICE GINSBURG, with whom JUSTICE SOTOMAYOR and JUSTICE KAGAN join, dissenting. A foreign industrialist seeks to develop a market in the United States for machines it manufactures. It hopes to derive substantial revenue from sales it makes to United States purchasers. Where in the United States buyers reside does not matter to this manufacturer. Its goal is simply to sell as much as it can, wherever it can. It ex cludes no region or State from the market it wishes to reach. But, all things considered, it prefers to avoid prod ucts liability litigation in the United States. To that end, it engages a U. S. distributor to ship its machines state side. Has it succeeded in escaping personal jurisdiction in a State where one of its products is sold and causes injury or even death to a local user? Under this Court’s pathmarking precedent in Interna subsequent decisions, one would expect the answer to be unequivocally, “No.” But instead, six Justices of this Court, in divergent opinions, tell us that the manufacturer has avoided the jurisdiction of our state courts, except perhaps in States where its products are sold in sizeable quantities. Inconceivable as it may have seemed yester
+day, the splintered majority today “turn[s] the clock back to the days before modern long-arm statutes when a manufacturer, to avoid being haled into court where a user is injured, need only Pilate-like wash its hands of a prod uct by having independent distributors market it.” Wein traub, A Map Out of the Personal Jurisdiction Labyrinth, On October 11, 2001, a three-ton metal shearing ma chine severed four fingers on Robert Nicastro’s right hand. 48, 53, 987 A. 2d 575, 577 (2010); see App. 6a–8a (Com plaint). Alleging that the machine was a dangerous prod uct defectively made, Nicastro sought compensation from the machine’s manufacturer, J. McIntyre Machinery Ltd. (McIntyre UK). Established in 1872 as a United Kingdom corporation, and headquartered in Nottingham, England, McIntyre UK “designs, develops and manufactures a com plete range of equipment for metal recycling.” Id., at 22a, 33a. The company’s product line, as advertised on McIntyre UK’s Web site, includes “metal shears, balers, cable and can recycling equipment, furnaces, casting equip ment and . . . the world’s best aluminium dross processing and cooling system.” Id., at 31a. McIntyre UK holds both United States and European patents on its technology. 201 N. J., at 55, 987 A. 2d, at 579; App. 36a. The machine that injured Nicastro, a “McIntyre Model 640 Shear,” sold in the United States for $24,900 in 1995, id., at 43a, and features a “massive cutting capacity,” id., at 44a. According to McIntyre UK’s product brochure, the machine is “use[d] throughout the [w]orld.” Ibid. McIn tyre UK represented in the brochure that, by “incorpo rat[ing] off-the-shelf hydraulic parts from suppliers with international sales outlets,” the 640 Shear’s design guar antees serviceability “wherever [its customers] may be
+based.” Ibid. The instruction manual advises “owner[s] and operators of a 640 Shear [to] make themselves aware of [applicable health and safety regulations],” including “the American National Standards Institute Regulations (USA) for the use of Scrap Metal Processing Equipment.” Id., at 46a. Nicastro operated the 640 Shear in the course of his employment at Curcio Scrap Metal (CSM) in Saddle Brook, New Jersey. Id., at 7a, 43a. “New Jersey has long been a hotbed of scrap-metal businesses . . . .” See Drake, The Scrap-Heap Rollup Hits New Jersey, Business News New Jersey, June 1, 1998, p. 1. In 2008, New Jersey recycling facilities processed 2,013,730 tons of scrap iron, steel, aluminum, and other metals—more than any other State—outpacing Kentucky, its nearest competitor, by nearly 30 percent. Von Haaren, Themelis, & Goldstein, The State of Garbage in America, BioCycle, Oct. 2010, p. 19. CSM’s owner, Frank Curcio, “first heard of [McIntyre UK’s] machine while attending an Institute of Scrap Metal Industries [(ISRI)] convention in Las Vegas in 1994 or 1995, where [McIntyre UK] was an exhibitor.” App. 78a. ISRI “presents the world’s largest scrap recycling industry trade show each year.” Id., at 47a. The event attracts “owners [and] managers of scrap processing companies” and others “interested in seeing—and purchasing—new equipment.” Id., at 48a–49a. According to ISRI, more than 3,000 potential buyers of scrap processing and recy cling equipment attend its annual conventions, “primarily because th[e] exposition provides them with the most comprehensive industry-related shopping experience concentrated in a single, convenient location.” Id., at 47a. Exhibitors who are ISRI members pay $3,000 for 10’ x 10’ booth space. Id., at 48a–49a.1
+McIntyre UK representatives attended every ISRI convention from 1990 through 2005. Id., at 114a–115a. These annual expositions were held in diverse venues across the United States; in addition to Las Vegas, con ventions were held 1990–2005 in New Orleans, Orlando, San Antonio, and San Francisco. Ibid. McIntyre UK’s president, Michael Pownall, regularly attended ISRI con ventions. Ibid. He attended ISRI’s Las Vegas conven tion the year CSM’s owner first learned of, and saw, the 640 Shear. Id., at 78a–79a, 115a. McIntyre UK exhibited its products at ISRI trade shows, the company acknowl edged, hoping to reach “anyone interested in the machine from anywhere in the United States.” Id., at 161a. Although McIntyre UK’s U. S. sales figures are not in the record, it appears that for several years in the 1990’s, earnings from sales of McIntyre UK products in the United States “ha[d] been good” in comparison to “the rest of the world.” Id., at 136a (Letter from Sally Johnson, McIntyre UK’s Managing Director, to Gary and Mary Gaither, officers of McIntyre UK’s exclusive distributor in the United States (Jan. 13, 1999)). In response to inter rogatories, McIntyre UK stated that its commissioning engineer had installed the company’s equipment in several States—Illinois, Iowa, Kentucky, Virginia, and Washing ton. Id., at 119a. From at least 1995 until 2001, McIntyre UK retained an Ohio-based company, McIntyre Machinery America, Ltd. (McIntyre America), “as its exclusive distributor for the en America, Ltd., 399 N. J. Super. 539, 558, 945 A. 2d 92, 104 (App. 2008).2 Though similarly named, the two companies
+were separate and independent entities with “no common ality of ownership or management.” Id., at 545, 945 A. 2d, at 95. In invoices and other written communications, McIntyre America described itself as McIntyre UK’s na tional distributor, “America’s Link” to “Quality Metal Processing Equipment” from England. App. 43a, 78a. In a November 23, 1999 letter to McIntyre America, McIntyre UK’s president spoke plainly about the manufac turer’s objective in authorizing the exclusive distributor ship: “All we wish to do is sell our products in the [United] States—and get paid!” Id., at 134a. Notably, McIntyre America was concerned about U. S. litigation involving McIntyre UK products, in which the distributor had been named as a defendant. McIntyre UK counseled McIntyre America to respond personally to the litigation, but reas sured its distributor that “the product was built and de signed by McIntyre Machinery in the UK and the buck stops here—if there’s something wrong with the machine.” Id., at 129a–130a. Answering jurisdictional interrogato ries, McIntyre UK stated that it had been named as a defendant in lawsuits in Illinois, Kentucky, Massachu setts, and West Virginia. Id., at 98a, 108a. And in corre spondence with McIntyre America, McIntyre UK noted that the manufacturer had products liability insurance coverage. Id., at 129a. Over the years, McIntyre America distributed several McIntyre UK products to U. S. customers, including, in addition to the 640 Shear, McIntyre UK’s “Niagara” and “Tardis” systems, wire strippers, and can machines. Id., at 123a–128a. In promoting McIntyre UK’s products at conventions and demonstration sites and in trade journal advertisements, McIntyre America looked to McIntyre UK
+for direction and guidance. Ibid. To achieve McIntyre UK’s objective, i.e., “to sell [its] machines to customers throughout the United States,” 399 N. J. Super., at 548, 945 A. 2d, at 97, “the two companies [were acting] closely in concert with each other,” ibid. McIntyre UK never instructed its distributor to avoid certain States or regions of the country; rather, as just noted, the manufacturer engaged McIntyre America to attract customers “from anywhere in the United States.” App. 161a. In sum, McIntyre UK’s regular attendance and exhibi tions at ISRI conventions was surely a purposeful step to reach customers for its products “anywhere in the United States.” At least as purposeful was McIntyre UK’s en gagement of McIntyre America as the conduit for sales of McIntyre UK’s machines to buyers “throughout the United States.” Given McIntyre UK’s endeavors to reach and profit from the United States market as a whole, Nicas tro’s suit, I would hold, has been brought in a forum en tirely appropriate for the adjudication of his claim. He alleges that McIntyre UK’s shear machine was defectively designed or manufactured and, as a result, caused injury to him at his workplace. The machine arrived in Nicas tro’s New Jersey workplace not randomly or fortuitously, but as a result of the U. S. connections and distribution system that McIntyre UK deliberately arranged.3 On
+what sensible view of the allocation of adjudicatory au thority could the place of Nicastro’s injury within the United States be deemed off limits for his products liabil ity claim against a foreign manufacturer who targeted the United States (including all the States that constitute the Nation) as the territory it sought to develop? A few points on which there should be no genuine de bate bear statement at the outset. First, all agree, McIntyre UK surely is not subject to general (all-purpose) jurisdiction in New Jersey courts, for that foreign-country corporation is hardly “at home” in New Jersey. See Good 9–13. The question, rather, is one of specific jurisdiction, which turns on an “affiliatio[n] between the forum and the underlying controversy.” Goodyear Dunlop, post, at 2 (quoting von Mehren & Trautman, Jurisdiction to Adjudi (1966) (hereinafter von Mehren & Trautman); internal quotation marks omitted); see also Goodyear Dunlop, post, at 7–8. Second, no issue of the fair and reasonable allocation of adjudicatory authority among States of the United States is present in this case. New Jersey’s exercise of personal jurisdiction over a foreign manufacturer whose dangerous product caused a workplace injury in New Jersey does not tread on the domain, or diminish the sovereignty, of any sister State. Indeed, among States of the United States, the State in which the injury occurred would seem most suitable for litigation of a products liability tort claim. See 297 (1980) (if a manufacturer or distributor endeavors to develop a market for a product in several States, it is reasonable “to subject it to suit in one of those States if its allegedly defective [product] has there been the source of
+injury”); 28 U. S. C. §1391(a)–(b) (in federal-court suits, whether resting on diversity or federal-question jurisdic tion, venue is proper in the judicial district “in which a substantial part of the events or omissions giving rise to the claim occurred”). Third, the constitutional limits on a state court’s adjudi catory authority derive from considerations of due process, not state sovereignty. As the Court clarified in Insurance U. S. 694 (1982): “The restriction on state sovereign power described in World-Wide Volkswagen Corp. . . . must be seen as ul timately a function of the individual liberty interest preserved by the Due Process Clause. That Clause is the only source of the personal jurisdiction require ment and the Clause itself makes no mention of fed eralism concerns. Furthermore, if the federalism con cept operated as an independent restriction on the sovereign power of the court, it would not be possible to waive the personal jurisdiction requirement: Indi vidual actions cannot change the powers of sover eignty, although the individual can subject himself to powers from which he may otherwise be protected.” Id., at 703, n. 10. (1977) (recognizing that “the mutually exclusive sover eignty of the States [is not] the central concern of the inquiry into personal jurisdiction”). But see ante, at 7 (plurality opinion) (asserting that “sovereign authority,” not “fairness,” is the “central concept” in determining personal jurisdiction). Finally, in International Shoe itself, and decisions there after, the Court has made plain that legal fictions, notably “presence” and “implied consent,” should be discarded, for they conceal the actual bases on which jurisdiction rests.
+45 F. 2d 139, 141 (CA2 1930) (L. Hand, J.) (“nothing is gained by [resort to words that] concea[l] what we do”). “[T]he relationship among the defendant, the forum, and the litigation” determines whether due process permits the exercise of personal jurisdiction over a defendant, Shaffer, 433 U. S., at 204, and “fictions of implied consent” or “corporate presence” do not advance the proper inquiry, County of Marin, 495 U. S. 604, 618 (1990) (plurality opinion) (International Shoe “cast . . . aside” fictions of “consent” and “presence”). Whatever the state of academic debate over the role of consent in modern jurisdictional doctrines,4 the plurality’s notion that consent is the animating concept draws no support from controlling decisions of this Court. Quite the contrary, the Court has explained, a forum can exercise jurisdiction when its contacts with the controversy are sufficient; invocation of a fictitious consent, the Court has repeatedly said, is unnecessary and unhelpful. See, e.g., (Due Process Clause permits “forum . . . to assert specific jurisdiction over an out-of-state defendant who has not
+Co., 355 U. S. 220, 222 (1957) (“[T]his Court [has] aban doned ‘consent,’ ‘doing business,’ and ‘presence’ as the standard for measuring the extent of state judicial power over [out-of-state] corporations.”).5 This case is illustrative of marketing arrangements for sales in the United States common in today’s commercial world.6 A foreign-country manufacturer engages a U. S. company to promote and distribute the manufacturer’s products, not in any particular State, but anywhere and everywhere in the United States the distributor can at tract purchasers. The product proves defective and in jures a user in the State where the user lives or works. Often, as here, the manufacturer will have liability insur ance covering personal injuries caused by its products. See Cupp, Redesigning Successor Liability, 1999 U. Ill. products liability insurance for manufacturers and citing a study showing, “between 1986 and 1996, [such] insurance
+cost manufacturers, on average, only sixteen cents for each $100 of product sales”); App. 129–130. When industrial accidents happen, a long-arm statute in the State where the injury occurs generally permits asser tion of jurisdiction, upon giving proper notice, over the foreign manufacturer. For example, the State’s statute might provide, as does New York’s long-arm statute, for the “exercise [of] personal jurisdiction over any non domiciliary . . . who . . . “commits a tortious act without the state causing in jury to person or property within the state, . . . if he . . . expects or should reasonably expect the act to have consequences in the state and derives substan tial revenue from interstate or international com 2008).7 Or, the State might simply provide, as New Jersey does, for the exercise of jurisdiction “consistent with due process of law.” N. J. Ct. Rule 4:4–4(b)(1) (2011).8 The modern approach to jurisdiction over corporations and other legal entities, ushered in by International Shoe, gave prime place to reason and fairness. Is it not fair and reasonable, given the mode of trading of which this case is
+an example, to require the international seller to defend at the place its products cause injury?9 Do not litigational convenience10 and choice-of-law considerations 11 point in that direction? On what measure of reason and fairness can it be considered undue to require McIntyre UK to defend in New Jersey as an incident of its efforts to de velop a market for its industrial machines anywhere and everywhere in the United States? 12 Is not the burden on McIntyre UK to defend in New Jersey fair, i.e., a reason able cost of transacting business internationally, in com parison to the burden on Nicastro to go to Nottingham, England to gain recompense for an injury he sustained using McIntyre’s product at his workplace in Saddle Brook, New Jersey?
+McIntyre UK dealt with the United States as a single market. Like most foreign manufacturers, it was con cerned not with the prospect of suit in State X as opposed to State Y, but rather with its subjection to suit anywhere in the United States. See Hay, Judicial Jurisdiction Over Foreign-Country Corporate Defendants—Comments on after Hay). As a McIntyre UK officer wrote in an e-mail to McIntyre America: “American law—who needs it?!” App. 129a–130a (e-mail dated April 26, 1999 from Sally John son to Mary Gaither). If McIntyre UK is answerable in the United States at all, is it not “perfectly appropriate to permit the exercise of that jurisdiction . . . at the place of injury”? See Hay 435; Degnan & Kane, The Exercise of Jurisdiction Over and Enforcement of Judgments Against Alien Defendants, 39 Hastings L. J. 799, 813–815 (1988) (noting that “[i]n the international order,” the State that counts is the United States, not its component States,13 and that the fair place of suit within the United States is essentially a question of venue). In sum, McIntyre UK, by engaging McIntyre America to promote and sell its machines in the United States, “pur posefully availed itself ” of the United States market na tionwide, not a market in a single State or a discrete collection of States. McIntyre UK thereby availed itself of
+the market of all States in which its products were sold by its exclusive distributor. “Th[e] ‘purposeful availment’ requirement,” this Court has explained, simply “ensures that a defendant will not be haled into a jurisdiction solely as a result of ‘random,’ ‘fortuitous,’ or ‘attenuated’ con tacts.” Burger King, 471 U. S., at 475. Adjudicatory au thority is appropriately exercised where “actions by the defendant himself” give rise to the affiliation with the forum. Ibid. How could McIntyre UK not have intended, by its actions targeting a national market, to sell products in the fourth largest destination for imports among all States of the United States and the largest scrap metal market? See supra, at 3, 10, n. 6. But see ante, at 11 (plurality opinion) (manufacturer’s purposeful efforts to sell its products nationwide are “not . . . relevant” to the personal jurisdiction inquiry). Courts, both state and federal, confronting facts similar to those here, have rightly rejected the conclusion that a manufacturer selling its products across the USA may evade jurisdiction in any and all States, including the State where its defective product is distributed and causes injury. They have held, instead, that it would undermine principles of fundamental fairness to insulate the foreign manufacturer from accountability in court at the place within the United States where the manufacturer’s prod cal Prods., Inc., 993 F. 2d 528, 544 (CA6 1993); A. Uberti (1995).14 While this Court has not considered in any prior case the now-prevalent pattern presented here—a foreign
+country manufacturer enlisting a U. S. distributor to de velop a market in the United States for the manufac turer’s products—none of the Court’s decisions tug against the judgment made by the New Jersey Supreme Court. McIntyre contends otherwise, citing World-Wide Volks Cal., Solano Cty., 480 U. S. 102 (1987). World-Wide Volkswagen concerned a New York car dealership that sold solely in the New York market, and a New York distributor who supplied retailers in three States only: New York, Connecticut, and New Jersey. 444 U. S., at 289. New York residents had purchased an Audi from the New York dealer and were driving the new vehi cle through Oklahoma en route to Arizona. On the road in Oklahoma, another car struck the Audi in the rear, caus ing a fire which severely burned the Audi’s occupants. Id., at 288. Rejecting the Oklahoma courts’ assertion of juris diction over the New York dealer and distributor, this Court observed that the defendants had done nothing to serve the market for cars in Oklahoma. Id., at 295–298. Jurisdiction, the Court held, could not be based on the customer’s unilateral act of driving the vehicle to Okla homa. Id., at 298; see Asahi, 480 U. S., at 109 (opinion of O’Connor, J.) (World-Wide Volkswagen “rejected the assertion that a consumer’s unilateral act of bringing the defendant’s product into the forum State was a sufficient constitutional basis for personal jurisdiction over the defendant”). Notably, the foreign manufacturer of the Audi in WorldWide Volkswagen did not object to the jurisdiction of the Oklahoma courts and the U. S. importer abandoned its initially stated objection. 444 U. S., at 288, and n. 3. And most relevant here, the Court’s opinion indicates that an objection to jurisdiction by the manufacturer or national distributor would have been unavailing. To reiterate, the Court said in World-Wide Volkswagen that, when a manu
+facturer or distributor aims to sell its product to customers in several States, it is reasonable “to subject it to suit in [any] one of those States if its allegedly defective [product] has there been the source of injury.” Id., at 297. Asahi arose out of a motorcycle accident in California. Plaintiff, a California resident injured in the accident, sued the Taiwanese manufacturer of the motorcycle’s tire tubes, claiming that defects in its product caused the accident. The tube manufacturer cross-claimed against Asahi, the Japanese maker of the valve assembly, and Asahi contested the California courts’ jurisdiction. By the time the case reached this Court, the injured plaintiff had settled his case and only the indemnity claim by the Taiwanese company against the Japanese valve-assembly manufacturer remained. The decision was not a close call. The Court had before it a foreign plaintiff, the Taiwanese manufacturer, and a foreign defendant, the Japanese valve-assembly maker, and the indemnification dispute concerned a transaction between those parties that occurred abroad. All agreed on the bottom line: The Japanese valve-assembly manufac turer was not reasonably brought into the California courts to litigate a dispute with another foreign party over a transaction that took place outside the United States. Given the confines of the controversy, the dueling opin ions of Justice Brennan and Justice O’Connor were hardly necessary. How the Court would have “estimate[d] . . . the inconveniences,” see International Shoe, 326 U. S., at 317 (internal quotation marks omitted), had the injured Cali fornian originally sued Asahi is a debatable question. Would this Court have given the same weight to the bur dens on the foreign defendant had those been counterbal anced by the burdens litigating in Japan imposed on the 783, 788 (1984) (a plaintiff’s contacts with the forum “may be so manifold as to permit jurisdiction when it would not
+exist in their absence”). In any event, Asahi, unlike McIntyre UK, did not itself seek out customers in the United States, it engaged no distributor to promote its wares here, it appeared at no tradeshows in the United States, and, of course, it had no Web site advertising its products to the world. Moreover, Asahi was a component-part manufacturer with “little control over the final destination of its products once they were delivered into the stream of commerce.” A. Uberti, 181 Ariz., at 572, 892 P. 2d, at 1361. It was important to the Court in Asahi that “those who use Asahi components in their final products, and sell those products in Califor nia, [would be] subject to the application of California tort law.” 480 U. S., at 115 (majority opinion). To hold that Asahi controls this case would, to put it bluntly, be dead wrong.15 The Court’s judgment also puts United States plaintiffs at a disadvantage in comparison to similarly situated complainants elsewhere in the world. Of particular note, within the European Union, in which the United Kingdom is a participant, the jurisdiction New Jersey would have exercised is not at all exceptional. The European Regula tion on Jurisdiction and the Recognition and Enforcement of Judgments provides for the exercise of specific jurisdic tion “in matters relating to tort . . . in the courts for the place where the harmful event occurred.” Council Reg.
+44/2001, Art. 5, 2001 O. J. (L. 12) 4.16 The European Court of Justice has interpreted this prescription to au thorize jurisdiction either where the harmful act occurred or at the place of injury. See Handelskwekerij G. J. Bier 1735, 1748–1749.17 The commentators who gave names to what we now call “general jurisdiction” and “specific jurisdiction” antici pated that when the latter achieves its full growth, con siderations of litigational convenience and the respective situations of the parties would determine when it is ap propriate to subject a defendant to trial in the plaintiff’s community. See von Mehren & Trautman 1166–1179. Litigational considerations include “the convenience of witnesses and the ease of ascertaining the governing law.” Id., at 1168–1169. As to the parties, courts would differ ently appraise two situations: (1) cases involving a sub stantially local plaintiff, like Nicastro, injured by the activity of a defendant engaged in interstate or interna tional trade; and (2) cases in which the defendant is a natural or legal person whose economic activities and legal involvements are largely home-based, i.e., entities without designs to gain substantial revenue from sales in distant markets. See id., at 1167–1169.18 As the attached appen
+dix of illustrative cases indicates, courts presented with von Mehren and Trautman’s first scenario—a local plain tiff injured by the activity of a manufacturer seeking to exploit a multistate or global market—have repeatedly confirmed that jurisdiction is appropriately exercised by courts of the place where the product was sold and caused injury. * * * For the reasons stated, I would hold McIntyre UK an swerable in New Jersey for the harm Nicastro suffered at his workplace in that State using McIntyre UK’s shearing machine. While I dissent from the Court’s judgment, I take heart that the plurality opinion does not speak for the Court, for that opinion would take a giant step away from the “notions of fair play and substantial justice” underlying International Shoe. 326 U. S., at 316 (internal quotation marks omitted).
+GINSBURG, J., of GINSBURG Appendix to opiniondissenting , J. Illustrative cases upholding exercise of personal juris diction over an alien or out-of-state corporation that, through a distributor, targeted a national market, includ ing any and all States:19 (wrongful-death action against the Swedish manufacturer of a construction hoist that allegedly caused a workplace death in Missouri; holding the manufacturer amenable to suit in Missouri, the Eighth Circuit stated: “Although we can imagine a case where a foreign manufacturer selects discrete regional distributors for the purpose of penetrat ing the markets in some states to the exclusion of others, that situation is not before us.” In this case, the foreign manufacturer had “successfully employ[ed] one or two distributors to cover the [entire] United States[,] in tend[ing] to reap the benefit of sales in every state where those distributors market.” Were the court to conclude that the manufacturer “did not intend its products to flow into Missouri,” the court “would be bound to the conclusion that the [manufacturer] did not intend its products to flow into any of the United States.”). (CA2 1999) (products liability action against the Japanese manufacturer of an allegedly defective stamping press that caused a workplace injury in New York; holding the manufacturer amenable to suit in New York, the Second Circuit stated that an “exclusive sales rights agreement” between the Japanese manufacturer and a Pennsylvania distributor “contemplates that [the distributor] will sell
+GINSBURG, J., of GINSBURG Appendix to opiniondissenting , J. [the manufacturer’s] machines in North America and throughout the world, serv[ing] as evidence of [the manu facturer’s] attempt to serve the New York market, albeit indirectly”). 25 F. 3d 610, 613–615 (CA8 1994) (products liability suit against a Japanese fireworks manufacturer for injuries sustained in Nebraska; Eighth Circuit held the manufac turer amenable to suit in Nebraska, although the manu facturer had no distributor or sales agents in that State, did not advertise in Nebraska, and claimed it was un aware that its distributors sold products there; Court of Appeals stated: “In this age of NAFTA and GATT, one can expect further globalization of commerce, and it is only reasonable for companies that distribute allegedly defec tive products through regional distributors in this country to anticipate being haled into court by plaintiffs in their home states.”). 528, 544 (CA6 1993) (products liability action against the Dutch pharmaceutical manufacturer of a drug alleged to have caused Kentucky resident’s heart disease; holding the manufacturer amenable to suit in Kentucky, the Sixth Circuit reasoned: “[Defendant] argues that it has done nothing in particular to purposefully avail itself of the Kentucky market as distinguished from any other state in the union. If we were to accept defendant’s argument on this point, a foreign manufacturer could insulate itself from liability in each of the fifty states simply by using an independent national distributor to market its products.”). 1983) (products liability suit arising from injuries plaintiff sustained in Oregon caused by an allegedly defective wire
+GINSBURG, J., of GINSBURG Appendix to opiniondissenting , J. rope splice manufactured in Japan; holding the Japanese manufacturer amenable to suit in Oregon, the Ninth Cir cuit noted that the manufacturer “performed a forum related act when it produced a splice that it knew was destined for ocean-going vessels serving United States ports, including those of Oregon”). (products liability action stemming from an injury plaintiff sustained in Texas when using a cigarette lighter made in Japan; holding the manufacturer amenable to suit in Texas, the Fifth Circuit noted that the manufacturer “had every reason to believe its product would be sold to a nation-wide market, that is, in any or all states”). Va. 1993), aff ’d on other grounds, 16 F. 3d 411 (CA4 1994) (action by worker injured in Virginia while using a rail cutting saw manufactured by a French corporation; hold ing the manufacturer amenable to suit in Virginia, the District Court noted that there was “no evidence of any attempt . . . to limit th[e] U. S. marketing strategy to avoid Virginia or any other particular state”). Supp. 917, 919–920 (ED Pa. 1990) (personal injury suit against the Dutch manufacturer of a poultry processing machine that allegedly caused injury in Pennsylvania; holding the manufacturer amenable to suit in Pennsyl vania, the District Court observed that the manufacturer “clearly and purposefully used [distributors] to deal in the international market for poultry processing equipment” and was “well aware that its equipment was being sold for use in the United States, including Pennsylvania”).
+GINSBURG, J., of GINSBURG Appendix to opiniondissenting , J. 293 (Mont. 1972) (products liability action occasioned by defect in ammunition used while hunting in Montana; plaintiff sued the Swedish ammunition manufacturer; holding the manufacturer amenable to suit in Montana, the District Court noted that the distributor intended “a nationwide product distribution”). Ex parte DBI, Inc., 23 So. 3d 635, 654–655 (Ala. 2009) (wrongful-death action arising out of an automobile acci dent in Alabama; plaintiff sued the Korean manufacturer of an allegedly defective seatbelt; Supreme Court of Ala bama held the manufacturer amenable to suit in Alabama, although the manufacturer had supplied its seatbelts to the car maker in Korea and “maintain[ed] there [was] no evidence . . . showing that it knew its products were being marketed in Alabama”). 1354, 1362 (1995) (wrongful-death action against the Italian manufacturer of an allegedly defective handgun that caused child’s death in Arizona; Arizona Supreme Court stated: “[F]or all this record shows, Defendant never heard of Arizona. This raises the following question: Having shown that the gun was knowingly designed for and exported to exploit the market of the United States or western United States, must Plaintiffs additionally show that Defendant had the specific intent to market the gun in Arizona, or is it enough to show that Defendant in tended to market it in any state, group of states, or all states? We conclude that only the latter is necessary.”). 425 S. E. 2d 609, 616 (1992) (products liability suit against the Japanese manufacturer of a sleep aid alleged to have caused West Virginia plaintiff’s blood disorder; holding the manufacturer amenable to suit in West Virginia, that
+GINSBURG, J., of GINSBURG Appendix to opiniondissenting , J. State’s Supreme Court noted that the manufacturer had profited from sales in the United States and considered it unfair to “requir[e] the plaintiff to travel to Japan to liti gate th[e] case”).
+——————
+1 New
+
+Jersey is home to nearly 100 ISRI members. See Institute of
+
+
+——————
+Scrap Recycling Industries, Inc., Member Directory, http://www.isri.org/
+imis15_prod/core/directory.aspx (as visited June 24, 2011, and available
+in Clerk of Court’s case file).
+2 McIntyre America filed for bankruptcy in 2001, is no longer operat
+ing, and has not participated in this lawsuit. Brief for Petitioner 3.
+
+
+—————— 
+
+After “the demise of . . . McIntyre America,” McIntyre UK authorized a
+
+Texas-based company to serve as exclusive United States distributor of 
+
+McIntyre UK shears. App. 52a–53a. 
+
+
+
+——————
+3 McIntyre UK resisted Nicastro’s efforts to determine whether other
+McIntyre machines had been sold to New Jersey customers. See id., at
+100a–101a. McIntyre did allow that McIntyre America “may have
+resold products it purchased from [McIntyre UK] to a buyer in New
+Jersey,” id., at 117a, but said it kept no record of the ultimate destina
+tion of machines it shipped to its distributor, ibid. A private investiga
+tor engaged by Nicastro found at least one McIntyre UK machine, of
+unspecified type, in use in New Jersey. Id., at 140a–144a. But McIn
+tyre UK objected that the investigator’s report was “unsworn and based
+upon hearsay.” Reply Brief 10. Moreover, McIntyre UK maintained, no
+evidence showed that the machine the investigator found in New Jersey
+had been “sold into [that State].” Ibid.
+
+
+——————
+4 Compare Brilmayer, Rights, Fairness, and Choice of Law, 98 Yale
+L. J. 1277, 1304–1306 (1989) (hereinafter Brilmayer) (criticizing as
+circular jurisdictional theories founded on “consent” or “[s]ubmission to
+state authority”), Perdue, Personal Jurisdiction and the Beetle in
+the Box, 32 Boston College L. Rev. 529, 536–544 (1991) (same), with
+Trangsrud, The Federal Common Law of Personal Jurisdiction, 57 Geo.
+Wash. L. Rev. 849, 884–885 (1989) (endorsing a consent-based doctrine
+of personal jurisdiction), Epstein, Consent, Not Power, as the Basis of
+Jurisdiction, 2001 U. Chi. Legal Forum 1, 2, 30–32 (urging that “the
+consent principle neatly explains the dynamics of many of our jurisdic
+tional doctrines,” but recognizing that in tort cases, the victim ordinar
+ily should be able to sue in the place where the harm occurred).
+
+
+——————
+5 But
+
+see ante, at 4–8 (plurality opinion) (maintaining that a forum
+may be fair and reasonable, based on its links to the episode in suit, yet
+off limits because the defendant has not submitted to the State’s
+authority). The plurality’s notion that jurisdiction over foreign corpora
+tions depends upon the defendant’s “submission,” ante, at 6, seems
+scarcely different from the long-discredited fiction of implied consent.
+It bears emphasis that a majority of this Court’s members do not share
+the plurality’s view.
+6 Last year, the United States imported nearly 2 trillion dollars in
+foreign goods. Census Bureau, U. S. International Trade in Goods and
+Services (Apr. 2011), p. 1, http://www.census.gov/foreign-trade/PressRelease/current_press_release/ft900.pdf (as visited June 24, 2011, and
+in Clerk of Court’s case file). Capital goods, such as the metal shear
+machine that injured Nicastro, accounted for almost 450 billion dollars
+in imports for 2010. Id., at 6. New Jersey is the fourth-largest destina
+tion for manufactured commodities imported into the United States,
+after California, Texas, and New York. Id., FT–900 Supplement, p. 3.
+
+
+——————
+7 This
+
+provision was modeled in part on the Uniform Interstate and
+International Procedure Act. See N. Y. Legislative Doc. 90, Judicial
+Conference of the State of New York, 11th Annual Report 132–147
+(1966). Connecticut’s long-arm statute also uses the “derives substan
+tial revenue from interstate or international commerce” formulation.
+See Conn. Gen. Stat. §52–59b(a) (2011).
+8 State long-arm provisions allow the exercise of jurisdiction subject
+only to a due process limitation in Alabama, Arkansas, California,
+Colorado, Georgia, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisi
+ana, Maryland, Michigan, Minnesota, Missouri, Nevada, North Dakota,
+Oregon, Pennsylvania, Puerto Rico, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Washington, and West Virginia. 4 C. Wright
+& A. Miller, Federal Practice & Procedure §1068, pp. 577–578, n. 12 (3d
+ed. 2002).
+
+
+——————
+9 The
+
+plurality objects to a jurisdictional approach “divorced from
+traditional practice.” Ante, at 5. But “the fundamental transformation
+of our national economy,” this Court has recognized, warrants enlarge
+ment of “the permissible scope of state jurisdiction over foreign corpora
+tions and other nonresidents.” McGee v. International Life Ins. Co., 355
+U. S. 220, 222–223 (1957).
+10 See von Mehren & Trautman 1167 (“[C]onsiderations of litigational
+convenience, particularly with respect to the taking of evidence, tend
+in accident cases to point insistently to the community in which the
+accident occurred.”).
+11 Historically, “tort cases were governed by the place where the last
+act giving rise to a claim occurred—that is, the place of injury.” Bril
+mayer 1291–1292. Even as many jurisdictions have modified the
+traditional rule of lex loci delicti, the location of injury continues to hold
+sway in choice-of-law analysis in tort cases. See generally Whytock,
+Myth of Mess? International Choice of Law in Action, 84 N. Y. U.
+L. Rev. 719 (2009).
+12 The plurality suggests that the Due Process Clause might permit a
+federal district court in New Jersey, sitting in diversity and applying
+New Jersey law, to adjudicate McIntyre UK’s liability to Nicastro. See
+ante, at 10–11. In other words, McIntyre UK might be compelled to
+bear the burden of traveling to New Jersey and defending itself there
+under New Jersey’s products liability law, but would be entitled to
+federal adjudication of Nicastro’s state-law claim. I see no basis in the
+Due Process Clause for such a curious limitation.
+
+
+——————
+13 “For purposes of international law and foreign relations, the sepa
+rate identities of individual states of the Union are generally irrele
+vant.” Born, Reflections on Judicial Jurisdiction in International
+Cases, 17 Ga. J. Int’l & Comp. L. 1, 36 (1987). See also Hines v.
+Davidowitz, 312 U. S. 52, 63 (1941) (“For local interests the several
+States of the Union exist, but for national purposes, embracing our
+relations with foreign nations, we are but one people, one nation, one
+power.”) (internal quotation marks omitted); Restatement (Third) of
+Foreign Relations Law of the United States §421, Comment f, p. 307
+(1986) (“International law . . . does not concern itself with the allocation
+of jurisdiction among domestic courts within a [nation,] for example,
+between national and local courts in a federal system.”).
+
+
+——————
+14 For
+
+a more complete set of examples, see Appendix, infra, at 20–24.
+
+
+——————
+15 The plurality notes the low volume of sales in New Jersey, ante, at
+3, 11. A $24,900 shearing machine, however, is unlikely to sell in bulk
+worldwide, much less in any given State. By dollar value, the price of a
+single machine represents a significant sale. Had a manufacturer sold
+in New Jersey $24,900 worth of flannel shirts, see Nelson v. Park
+Industries, Inc., 717 F. 2d 1120 (CA7 1983), cigarette lighters, see
+Oswalt v. Scripto, Inc., 616 F. 2d 191 (CA5 1980), or wire-rope splices,
+see Hedrick v. Daiko Shoji Co., 715 F. 2d 1355 (CA9 1983), the Court
+would presumably find the defendant amenable to suit in that State.
+
+
+——————
+16 The
+
+Regulation replaced the “European” or “Brussels” Convention
+on Jurisdiction and Enforcement of Judgments in Civil and Commercial
+Matters, entered into in 1968 by the original Common Market member
+states. In the interim, the Lugano Convention “extended the Brussels
+Convention scheme to [European Free Trade Association] countries.”
+Clermont & Palmer, Exorbitant Jurisdiction, 58 Me. L. Rev. 474, 491,
+n. 82 (2006).
+17 For a concise comparison of the European regime and this Court’s
+decisions, see Weintraub, A Map Out of the Personal Jurisdiction
+Labyrinth, 28 U. C. Davis L. Rev. 531, 550–554 (1995).
+18 Assigning weight to the local or international stage on which the
+
+
+—————— 
+
+parties operate would, to a considerable extent, answer the concerns 
+
+expressed by JUSTICE BREYER. See ante, at 5–7 (opinion concurring in
+
+judgment). 
+
+
+
+——————
+19 The listed cases are by no means exhaustive of decisions fitting this
+pattern. For additional citations, see Brief for Public Citizen, Inc., as
+Amicus Curiae 16, n. 5.
+
+

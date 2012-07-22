@@ -1,0 +1,43 @@
+Cite as: 565 U. S. ____ (2012)
+
+9
+
+SCALIA, J., dissenting
+
+same paragraph as the procedural requirement, there is
+no doubt that under this statute a judge’s certification that
+there was probable cause for an appeal was jurisdictional.
+See, e.g., Ex parte Patrick, 212 U. S. 555 (1908) (per curiam); Bilik v. Strassheim, 212 U. S. 551 (1908) (per curiam). There is no reason whatever to think that Congress
+rendered the statement of opinion unnecessary for jurisdiction by (1) extending the requirement for it to §2255
+proceedings; (2) requiring the opinion to address a more
+specific point (not just probable cause for an appeal but
+presence of an issue presenting a “substantial showing of
+the denial of a constitutional right”)4; and (3) giving the
+document in which the judge is required to express the
+opinion a name (“certificate of appealability”)—so that
+now a “certificate of appealability” without opinion will
+suffice. Neither any one of these steps, nor all of them
+combined, suggest elimination of jurisdictional status for
+the required expression of opinion.5 It would be an entirely strange way of achieving that result. It was not a
+strange way, however, of dividing the now more complex
+——————
+4 The
+
+Court believes that the fact that this “new requirement . . . has
+no predecessor provision” suggests that it is nonjurisdictional. Ante, at
+6, n. 3. To begin with, it is not that new, and it has a predecessor
+provision; it merely adds detail to the jurisdictional opinion that was
+previously required. But even if the requirement were entirely unprecedented, when it appears within a textual structure that makes it
+jurisdictional (as our opinion in Torres v. Oakland Scavenger Co., 487
+U. S. 312 (1988), held, see infra, at 10–12), it would be an entirely
+unprecedented jurisdictional provision.
+5 The Court’s opinion suggests that “[i]t would seem somewhat counterintuitive to render a panel of court of appeals judges powerless to act
+on appeals based on COAs that Congress specifically empowered one
+court of appeals judge to grant.” Ante, at 8. To begin with, we do not
+think that an anomaly. It makes entire sense to enable a single circuit
+judge to nip improper appeals in the bud, sparing parties the trouble of
+an appeal, and courts the expenditure of three times as much judicial
+energy. But if it were an anomaly, it would be one that existed as well
+under the prior statute, which was held to be jurisdictional.
+
+

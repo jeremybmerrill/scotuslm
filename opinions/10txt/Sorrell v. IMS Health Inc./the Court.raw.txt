@@ -1,0 +1,1070 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–779
+_________________
+
+WILLIAM H. SORRELL, ATTORNEY GENERAL OF 
+
+VERMONT, ET AL., PETITIONERS v.
+
+IMS HEALTH INC. ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SECOND CIRCUIT
+
+[June 23, 2011] 
+
+
+JUSTICE KENNEDY delivered the opinion of the Court.
+Vermont law restricts the sale, disclosure, and use of
+pharmacy records that reveal the prescribing practices of
+individual doctors. Vt. Stat. Ann., Tit. 18, §4631 (Supp.
+2010). Subject to certain exceptions, the information may
+not be sold, disclosed by pharmacies for marketing pur
+poses, or used for marketing by pharmaceutical manufac
+turers. Vermont argues that its prohibitions safeguard
+medical privacy and diminish the likelihood that market
+ing will lead to prescription decisions not in the best inter
+ests of patients or the State. It can be assumed that these
+interests are significant. Speech in aid of pharmaceutical
+marketing, however, is a form of expression protected by
+the Free Speech Clause of the First Amendment. As a
+consequence, Vermont’s statute must be subjected to
+heightened judicial scrutiny. The law cannot satisfy that
+standard.
+I
+A
+Pharmaceutical manufacturers promote their drugs to
+
+
+2
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+doctors through a process called “detailing.” This often involves a scheduled visit to a doctor’s office to persuade
+the doctor to prescribe a particular pharmaceutical. De
+tailers bring drug samples as well as medical studies
+that explain the “details” and potential advantages of var
+ious prescription drugs. Interested physicians listen, ask
+questions, and receive followup data. Salespersons can be
+more effective when they know the background and pur
+chasing preferences of their clientele, and pharmaceutical
+salespersons are no exception. Knowledge of a physician’s prescription practices—called “prescriber-identifying
+information”—enables a detailer better to ascertain which
+doctors are likely to be interested in a particular drug and
+how best to present a particular sales message. Detailing
+is an expensive undertaking, so pharmaceutical companies
+most often use it to promote high-profit brand-name drugs
+protected by patent. Once a brand-name drug’s patent
+expires, less expensive bioequivalent generic alternatives
+are manufactured and sold.
+Pharmacies, as a matter of business routine and federal
+law, receive prescriber-identifying information when proc
+essing prescriptions. See 21 U. S. C. §353(b); see also
+Vt. Bd. of Pharmacy Admin. Rule 9.1 (2009); Rule 9.2.
+Many pharmacies sell this information to “data miners,”
+firms that analyze prescriber-identifying information and
+produce reports on prescriber behavior. Data miners lease
+these reports to pharmaceutical manufacturers subject to
+nondisclosure agreements. Detailers, who represent the
+manufacturers, then use the reports to refine their mar
+keting tactics and increase sales.
+In 2007, Vermont enacted the Prescription Confidential
+ity Law. The measure is also referred to as Act 80. It has
+several components. The central provision of the present
+case is §4631(d).
+“A health insurer, a self-insured employer, an elec
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+tronic transmission intermediary, a pharmacy, or other
+similar entity shall not sell, license, or exchange
+for value regulated records containing prescriber
+identifiable information, nor permit the use of
+regulated records containing prescriber-identifiable
+information for marketing or promoting a prescription
+drug, unless the prescriber consents . . . . Pharmaceu
+tical manufacturers and pharmaceutical marketers
+shall not use prescriber-identifiable information for
+marketing or promoting a prescription drug unless
+the prescriber consents . . . .”
+The quoted provision has three component parts. The
+provision begins by prohibiting pharmacies, health insur
+ers, and similar entities from selling prescriber-identifying
+information, absent the prescriber’s consent. The parties
+here dispute whether this clause applies to all sales or
+only to sales for marketing. The provision then goes on to
+prohibit pharmacies, health insurers, and similar entities from allowing prescriber-identifying information to be
+used for marketing, unless the prescriber consents. This
+prohibition in effect bars pharmacies from disclosing the
+information for marketing purposes. Finally, the provi
+sion’s second sentence bars pharmaceutical manufacturers
+and pharmaceutical marketers from using prescriber
+identifying information for marketing, again absent the
+prescriber’s consent. The Vermont attorney general may
+pursue civil remedies against violators. §4631(f).
+Separate statutory provisions elaborate the scope of the
+prohibitions set out in §4631(d). “Marketing” is defined to
+include “advertising, promotion, or any activity” that is
+“used to influence sales or the market share of a prescrip
+tion drug.” §4631(b)(5). Section 4631(c)(1) further pro
+vides that Vermont’s Department of Health must allow “a
+prescriber to give consent for his or her identifying infor
+mation to be used for the purposes” identified in §4631(d).
+
+
+4
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+Finally, the Act’s prohibitions on sale, disclosure, and use
+are subject to a list of exceptions. For example, prescriber
+identifying information may be disseminated or used for
+“health care research”; to enforce “compliance” with health
+insurance formularies, or preferred drug lists; for “care
+management educational communications provided to” pa
+tients on such matters as “treatment options”; for law
+enforcement operations; and for purposes “otherwise pro
+vided by law.” §4631(e).
+Act 80 also authorized funds for an “evidence-based pre
+scription drug education program” designed to provide
+doctors and others with “information and education on
+the therapeutic and cost-effective utilization of prescription
+drugs.” §4622(a)(1). An express aim of the program is
+to advise prescribers “about commonly used brand-name
+drugs for which the patent has expired” or will soon ex
+pire. §4622(a)(2). Similar efforts to promote the use of
+generic pharmaceuticals are sometimes referred to as
+“counter-detailing.” App. 211; see also IMS Health Inc. v.
+Ayotte, 550 F. 3d 42, 91 (CA1 2008) (Lipez, J., concurring
+and dissenting).
+The counterdetailer’s recommended
+substitute may be an older, less expensive drug and not a
+bioequivalent of the brand-name drug the physician might
+otherwise prescribe. Like the pharmaceutical manufac
+turers whose efforts they hope to resist, counterdetailers
+in some States use prescriber-identifying information to
+increase their effectiveness. States themselves may sup
+ply the prescriber-identifying information used in these
+programs. See App. 313; id., at 375 (“[W]e use the data
+given to us by the State of Pennsylvania . . . to figure out
+which physicians to talk to”); see also id., at 427–429
+(Director of the Office of Vermont Health Access explain
+ing that the office collects prescriber-identifying informa
+tion but “does not at this point in time have a counter
+detailing or detailing effort”). As first enacted, Act 80 also
+required detailers to provide information about alternative
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+treatment options. The Vermont Legislature, however,
+later repealed that provision. 2008 Vt. Laws No. 89, §3.
+Act 80 was accompanied by legislative findings. Vt. Acts
+No. 80, §1. Vermont found, for example, that the “goals of
+marketing programs are often in conflict with the goals
+of the state” and that the “marketplace for ideas on medi
+cine safety and effectiveness is frequently one-sided in that
+brand-name companies invest in expensive pharmaceuti
+cal marketing campaigns to doctors.” §§1(3), (4). Detail
+ing, in the legislature’s view, caused doctors to make
+decisions based on “incomplete and biased information.”
+§1(4). Because they “are unable to take the time to re
+search the quickly changing pharmaceutical market,”
+Vermont doctors “rely on information provided by phar
+maceutical representatives.”
+§1(13).
+The legislature
+further found that detailing increases the cost of health
+care and health insurance, §1(15); encourages hasty and
+excessive reliance on brand-name drugs, before the profes
+sion has observed their effectiveness as compared with
+older and less expensive generic alternatives, §1(7); and
+fosters disruptive and repeated marketing visits tanta
+mount to harassment, §§1(27)–(28). The legislative find
+ings further noted that use of prescriber-identifying in
+formation “increase[s] the effect of detailing programs”
+by allowing detailers to target their visits to particular
+doctors. §§1(23)–(26). Use of prescriber-identifying data
+also helps detailers shape their messages by “tailoring” their
+“presentations to individual prescriber styles, preferences,
+and attitudes.” §1(25).
+B
+The present case involves two consolidated suits. One
+was brought by three Vermont data miners, the other
+by an association of pharmaceutical manufacturers that
+produce brand-name drugs. These entities are the re
+spondents here. Contending that §4631(d) violates their
+
+
+6
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+First Amendment rights as incorporated by the Four
+teenth Amendment, the respondents sought declaratory
+and injunctive relief against the petitioners, the Attorney
+General and other officials of the State of Vermont.
+After a bench trial, the United States District Court for
+the District of Vermont denied relief. 631 F. Supp. 2d 434
+(2009). The District Court found that “[p]harmaceutical
+manufacturers are essentially the only paying customers
+of the data vendor industry” and that, because detailing
+unpatented generic drugs is not “cost-effective,” pharma
+ceutical sales representatives “detail only branded drugs.”
+Id., at 451, 442. As the District Court further concluded, “the Legislature’s determination that [prescriber
+identifying] data is an effective marketing tool that en
+ables detailers to increase sales of new drugs is supported
+in the record.” Id., at 451. The United States Court of
+Appeals for the Second Circuit reversed and remanded. It
+held that §4631(d) violates the First Amendment by bur
+dening the speech of pharmaceutical marketers and data
+miners without an adequate justification. 630 F. 3d 263.
+Judge Livingston dissented.
+The decision of the Second Circuit is in conflict with de
+cisions of the United States Court of Appeals for the
+First Circuit concerning similar legislation enacted by
+Maine and New Hampshire. See IMS Health Inc. v. Mills,
+616 F. 3d 7 (CA1 2010) (Maine); Ayotte, supra (New Hampshire). Recognizing a division of authority regarding the
+constitutionality of state statutes, this Court granted
+certiorari. 562 U. S. __ (2011).
+II
+The beginning point is the text of §4631(d). In the proceedings below, Vermont stated that the first sentence
+of §4631(d) prohibits pharmacies and other regulated
+entities from selling or disseminating prescriber
+identifying information for marketing. The information,
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+in other words, could be sold or given away for purposes
+other than marketing. The District Court and the Court of
+Appeals accepted the State’s reading. See 630 F. 3d,
+at 276. At oral argument in this Court, however, the
+State for the first time advanced an alternative reading of
+§4631(d)—namely, that pharmacies, health insurers, and
+similar entities may not sell prescriber-identifying infor
+mation for any purpose, subject to the statutory exceptions
+set out at §4631(e). See Tr. of Oral Arg. 19–20. It might
+be argued that the State’s newfound interpretation comes
+too late in the day. See Sprietsma v. Mercury Marine, 537
+U. S. 51, 56, n. 4 (2002) (waiver); New Hampshire v.
+Maine, 532 U. S. 742, 749 (2001) (judicial estoppel). The
+respondents, the District Court, and the Court of Appeals
+were entitled to rely on the State’s plausible interpretation
+of the law it is charged with enforcing. For the State to
+change its position is particularly troubling in a First
+Amendment case, where plaintiffs have a special interest
+in obtaining a prompt adjudication of their rights, despite
+potential ambiguities of state law. See Houston v. Hill,
+482 U. S. 451, 467–468, and n. 17 (1987); Zwickler v.
+Koota, 389 U. S. 241, 252 (1967).
+In any event, §4631(d) cannot be sustained even under
+the interpretation the State now adopts. As a consequence
+this Court can assume that the opening clause of §4631(d)
+prohibits pharmacies, health insurers, and similar entities
+from selling prescriber-identifying information, subject to
+the statutory exceptions set out at §4631(e). Under that
+reading, pharmacies may sell the information to private or
+academic researchers, see §4631(e)(1), but not, for exam
+ple, to pharmaceutical marketers. There is no dispute as
+to the remainder of §4631(d). It prohibits pharmacies,
+health insurers, and similar entities from disclosing or
+otherwise allowing prescriber-identifying information to
+be used for marketing. And it bars pharmaceutical manu
+facturers and detailers from using the information for
+
+
+8
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+marketing. The questions now are whether §4631(d) must
+be tested by heightened judicial scrutiny and, if so,
+whether the State can justify the law.
+A
+1
+On its face, Vermont’s law enacts content- and speaker
+based restrictions on the sale, disclosure, and use of
+prescriber-identifying information. The provision first for
+bids sale subject to exceptions based in large part on the
+content of a purchaser’s speech. For example, those who
+wish to engage in certain “educational communications,”
+§4631(e)(4), may purchase the information. The measure
+then bars any disclosure when recipient speakers will use
+the information for marketing. Finally, the provision’s
+second sentence prohibits pharmaceutical manufacturers
+from using the information for marketing. The statute
+thus disfavors marketing, that is, speech with a particular
+content. More than that, the statute disfavors specific
+speakers, namely pharmaceutical manufacturers. As a
+result of these content- and speaker-based rules, detailers
+cannot obtain prescriber-identifying information, even
+though the information may be purchased or acquired by
+other speakers with diverse purposes and viewpoints.
+Detailers are likewise barred from using the information
+for marketing, even though the information may be used
+by a wide range of other speakers. For example, it ap
+pears that Vermont could supply academic organizations
+with prescriber-identifying information to use in counter
+ing the messages of brand-name pharmaceutical manufac
+turers and in promoting the prescription of generic drugs.
+But §4631(d) leaves detailers no means of purchasing,
+acquiring, or using prescriber-identifying information.
+The law on its face burdens disfavored speech by disfa
+vored speakers.
+Any doubt that §4631(d) imposes an aimed, content
+
+
+Cite as: 564 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+based burden on detailers is dispelled by the record and by
+formal legislative findings. As the District Court noted,
+“[p]harmaceutical manufacturers are essentially the only
+paying customers of the data vendor industry”; and the
+almost invariable rule is that detailing by pharmaceutical
+manufacturers is in support of brand-name drugs. 631
+F. Supp. 2d, at 451. Vermont’s law thus has the effect of
+preventing detailers—and only detailers—from communi
+cating with physicians in an effective and informative
+manner. Cf. Edenfield v. Fane, 507 U. S. 761, 766 (1993)
+(explaining the “considerable value” of in-person solicita
+tion). Formal legislative findings accompanying §4631(d)
+confirm that the law’s express purpose and practical effect
+are to diminish the effectiveness of marketing by manu
+facturers of brand-name drugs. Just as the “inevitable
+effect of a statute on its face may render it unconstitu
+tional,” a statute’s stated purposes may also be considered.
+United States v. O’Brien, 391 U. S. 367, 384 (1968). Here,
+the Vermont Legislature explained that detailers, in
+particular those who promote brand-name drugs, convey
+messages that “are often in conflict with the goals of the
+state.” 2007 Vt. No. 80, §1(3). The legislature designed
+§4631(d) to target those speakers and their messages for
+disfavored treatment. “In its practical operation,” Ver
+mont’s law “goes even beyond mere content discrimina
+tion, to actual viewpoint discrimination.” R. A. V. v. St.
+Paul, 505 U. S. 377, 391 (1992). Given the legislature’s
+expressed statement of purpose, it is apparent that
+§4631(d) imposes burdens that are based on the content
+of speech and that are aimed at a particular viewpoint.
+Act 80 is designed to impose a specific, content-based
+burden on protected expression. It follows that heightened
+judicial scrutiny is warranted. See Cincinnati v. Discovery
+Network, Inc., 507 U. S. 410, 418 (1993) (applying height
+ened scrutiny to “a categorical prohibition on the use of
+newsracks to disseminate commercial messages”); id., at
+
+
+10
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+429 (“[T]he very basis for the regulation is the difference
+in content between ordinary newspapers and commercial
+speech” in the form of “commercial handbills . . . . Thus,
+by any commonsense understanding of the term, the ban
+in this case is ‘content based’ ” (some internal quotation
+marks omitted)); see also Turner Broadcasting System,
+Inc. v. FCC, 512 U. S. 622, 658 (1994) (explaining that
+strict scrutiny applies to regulations reflecting “aversion”
+to what “disfavored speakers” have to say). The Court has
+recognized that the “distinction between laws burdening
+and laws banning speech is but a matter of degree” and
+that the “Government’s content-based burdens must sat
+isfy the same rigorous scrutiny as its content-based bans.”
+United States v. Playboy Entertainment Group, Inc., 529
+U. S. 803, 812 (2000). Lawmakers may no more silence
+unwanted speech by burdening its utterance than by cen
+soring its content. See Simon & Schuster, Inc. v. Members of N. Y. State Crime Victims Bd., 502 U. S. 105,
+115 (1991) (content-based financial burden); Minneapolis
+Star & Tribune Co. v. Minnesota Comm’r of Revenue, 460
+U. S. 575 (1983) (speaker-based financial burden).
+The First Amendment requires heightened scrutiny
+whenever the government creates “a regulation of speech
+because of disagreement with the message it conveys.”
+Ward v. Rock Against Racism, 491 U. S. 781, 791 (1989);
+see also Renton v. Playtime Theatres, Inc., 475 U. S. 41, 48
+(1986) (explaining that “ ‘content-neutral’ speech regula
+tions” are “those that are justified without reference to the
+content of the regulated speech” (internal quotation marks
+omitted)). A government bent on frustrating an impend
+ing demonstration might pass a law demanding two years’
+notice before the issuance of parade permits. Even if the
+hypothetical measure on its face appeared neutral as to
+content and speaker, its purpose to suppress speech and
+its unjustified burdens on expression would render it
+unconstitutional. Ibid. Commercial speech is no excep
+
+
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+tion. See Discovery Network, supra, at 429–430 (commer
+cial speech restriction lacking a “neutral justification” was
+not content neutral). A “consumer’s concern for the free
+flow of commercial speech often may be far keener than
+his concern for urgent political dialogue.” Bates v. State
+Bar of Ariz., 433 U. S. 350, 364 (1977). That reality has
+great relevance in the fields of medicine and public health,
+where information can save lives.
+2
+The State argues that heightened judicial scrutiny is
+unwarranted because its law is a mere commercial regula
+tion. It is true that restrictions on protected expression
+are distinct from restrictions on economic activity or, more
+generally, on nonexpressive conduct. It is also true that
+the First Amendment does not prevent restrictions di
+rected at commerce or conduct from imposing inciden
+tal burdens on speech. That is why a ban on race-based
+hiring may require employers to remove “ ‘White Appli
+cants Only’ ” signs, Rumsfeld v. Forum for Academic and
+Institutional Rights, Inc., 547 U. S. 47, 62 (2006); why “an
+ordinance against outdoor fires” might forbid “burning a
+flag,” R. A. V., supra, at 385; and why antitrust laws can
+prohibit “agreements in restraint of trade,” Giboney v.
+Empire Storage & Ice Co., 336 U. S. 490, 502 (1949).
+But §4631(d) imposes more than an incidental burden
+on protected expression. Both on its face and in its practi
+cal operation, Vermont’s law imposes a burden based on
+the content of speech and the identity of the speaker. See
+supra, at 8–11. While the burdened speech results from
+an economic motive, so too does a great deal of vital ex
+pression. See Bigelow v. Virginia, 421 U. S. 809, 818
+(1975); New York Times Co. v. Sullivan, 376 U. S. 254, 266
+(1964); see also United States v. United Foods, Inc., 533
+U. S. 405, 410–411 (2001) (applying “First Amendment
+scrutiny” where speech effects were not incidental and
+
+
+12
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+noting that “those whose business and livelihood depend
+in some way upon the product involved no doubt deem
+First Amendment protection to be just as important for
+them as it is for other discrete, little noticed groups”).
+Vermont’s law does not simply have an effect on speech,
+but is directed at certain content and is aimed at particu
+lar speakers. The Constitution “does not enact Mr. Her
+bert Spencer’s Social Statics.” Lochner v. New York, 198
+U. S. 45, 75 (1905) (Holmes, J., dissenting). It does enact
+the First Amendment.
+Vermont further argues that §4631(d) regulates not
+speech but simply access to information. Prescriber
+identifying information was generated in compliance with
+a legal mandate, the State argues, and so could be consid
+ered a kind of governmental information. This argument
+finds some support in Los Angeles Police Dept. v. United
+Reporting Publishing Corp., 528 U. S. 32 (1999), where the
+Court held that a plaintiff could not raise a facial chal
+lenge to a content-based restriction on access to governmentheld information. Because no private party faced a
+threat of legal punishment, the Court characterized the
+law at issue as “nothing more than a governmental denial
+of access to information in its possession.” Id., at 40.
+Under those circumstances the special reasons for permit
+ting First Amendment plaintiffs to invoke the rights of
+others did not apply. Id., at 38–39. Having found that the
+plaintiff could not raise a facial challenge, the Court re
+manded for consideration of an as-applied challenge. Id.,
+at 41. United Reporting is thus a case about the availabil
+ity of facial challenges. The Court did not rule on the
+merits of any First Amendment claim.
+United Reporting is distinguishable in at least two
+respects. First, Vermont has imposed a restriction on
+access to information in private hands. This confronts the
+Court with a point reserved, and a situation not ad
+dressed, in United Reporting. Here, unlike in United
+
+
+Cite as: 564 U. S. ____ (2011)
+
+13
+
+Opinion of the Court
+
+Reporting, we do have “a case in which the government is
+prohibiting a speaker from conveying information that the
+speaker already possesses.” Id., at 40. The difference is
+significant. An individual’s right to speak is implicated
+when information he or she possesses is subjected to “re
+straints on the way in which the information might be
+used” or disseminated. Seattle Times Co. v. Rhinehart,
+467 U. S. 20, 32 (1984); see also Bartnicki v. Vopper, 532
+U. S. 514, 527 (2001); Florida Star v. B. J. F., 491 U. S.
+524 (1989); New York Times Co. v. United States, 403 U. S.
+713 (1971) (per curiam). In Seattle Times, this Court
+applied heightened judicial scrutiny before sustaining a
+trial court order prohibiting a newspaper’s disclosure of
+information it learned through coercive discovery. It is
+true that the respondents here, unlike the newspaper in
+Seattle Times, do not themselves possess information
+whose disclosure has been curtailed. That information,
+however, is in the hands of pharmacies and other private
+entities. There is no question that the “threat of prosecu
+tion . . . hangs over their heads.” United Reporting, 528
+U. S., at 41. For that reason United Reporting does not
+bar respondents’ facial challenge.
+United Reporting is distinguishable for a second and
+even more important reason. The plaintiff in United
+Reporting had neither “attempt[ed] to qualify” for access to
+the government’s information nor presented an as-applied
+claim in this Court. Id., at 40. As a result, the Court
+assumed that the plaintiff had not suffered a personal
+First Amendment injury and could prevail only by invok
+ing the rights of others through a facial challenge. Here,
+by contrast, the respondents claim—with good reason—
+that §4631(d) burdens their own speech. That argument
+finds support in the separate writings in United Report
+ing, which were joined by eight Justices. All of those
+writings recognized that restrictions on the disclosure of
+government-held information can facilitate or burden the
+
+
+14
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+expression of potential recipients and so transgress the
+First Amendment. See id., at 42 (SCALIA, J., concurring)
+(suggesting that “a restriction upon access that allows
+access to the press . . . but at the same time denies access
+to persons who wish to use the information for certain
+speech purposes, is in reality a restriction upon speech”);
+id., at 43 (GINSBURG, J., concurring) (noting that “the
+provision of [government] information is a kind of subsidy
+to people who wish to speak” about certain subjects, “and
+once a State decides to make such a benefit available to
+the public, there are no doubt limits to its freedom to
+decide how that benefit will be distributed”); id., at 46
+(Stevens, J., dissenting) (concluding that, “because the
+State’s discrimination is based on its desire to prevent the
+information from being used for constitutionally protected
+purposes, [i]t must assume the burden of justifying its
+conduct”). Vermont’s law imposes a content- and speaker
+based burden on respondents’ own speech. That consid
+eration provides a separate basis for distinguishing United
+Reporting and requires heightened judicial scrutiny.
+The State also contends that heightened judicial scru
+tiny is unwarranted in this case because sales, transfer,
+and use of prescriber-identifying information are conduct,
+not speech. Consistent with that submission, the United
+States Court of Appeals for the First Circuit has charac
+terized prescriber-identifying information as a mere “com
+modity” with no greater entitlement to First Amendment protection than “beef jerky.” Ayotte, 550 F. 3d, at
+52–53. In contrast the courts below concluded that a
+prohibition on the sale of prescriber-identifying informa
+tion is a content-based rule akin to a ban on the sale of
+cookbooks, laboratory results, or train schedules. See 630
+F. 3d, at 271–272 (“The First Amendment protects even
+dry information, devoid of advocacy, political relevance, or
+artistic expression” (internal quotation marks and altera
+tion omitted)); 631 F. Supp. 2d, at 445 (“A restriction on
+
+
+Cite as: 564 U. S. ____ (2011)
+
+15
+
+Opinion of the Court
+
+disclosure is a regulation of speech, and the ‘sale’ of [in
+formation] is simply disclosure for profit”).
+This Court has held that the creation and dissemination
+of information are speech within the meaning of the First
+Amendment. See, e.g., Bartnicki, supra, at 527 (“[I]f the
+acts of ‘disclosing’ and ‘publishing’ information do not
+constitute speech, it is hard to imagine what does fall
+within that category, as distinct from the category of
+expressive conduct” (some internal quotation marks omit
+ted)); Rubin v. Coors Brewing Co., 514 U. S. 476, 481
+(1995) (“information on beer labels” is speech); Dun &
+Bradstreet, Inc. v. Greenmoss Builders, Inc., 472 U. S. 749,
+759 (1985) (plurality opinion) (credit report is “speech”).
+Facts, after all, are the beginning point for much of the
+speech that is most essential to advance human knowl
+edge and to conduct human affairs. There is thus a
+strong argument that prescriber-identifying information is
+speech for First Amendment purposes.
+The State asks for an exception to the rule that informa
+tion is speech, but there is no need to consider that re
+quest in this case. The State has imposed content- and
+speaker-based restrictions on the availability and use of
+prescriber-identifying information. So long as they do not
+engage in marketing, many speakers can obtain and use
+the information. But detailers cannot. Vermont’s statute
+could be compared with a law prohibiting trade magazines
+from purchasing or using ink. Cf. Minneapolis Star, 460
+U. S. 575. Like that hypothetical law, §4631(d) imposes a
+speaker- and content-based burden on protected expres
+sion, and that circumstance is sufficient to justify applica
+tion of heightened scrutiny. As a consequence, this case
+can be resolved even assuming, as the State argues, that
+prescriber-identifying information is a mere commodity.
+B
+In the ordinary case it is all but dispositive to conclude
+
+
+16
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+that a law is content-based and, in practice, viewpoint
+discriminatory. See R. A. V., 505 U. S., at 382 (“Content
+based regulations are presumptively invalid”); id., at 391–
+392. The State argues that a different analysis applies
+here because, assuming §4631(d) burdens speech at all, it
+at most burdens only commercial speech. As in previous
+cases, however, the outcome is the same whether a special
+commercial speech inquiry or a stricter form of judicial
+scrutiny is applied. See, e.g., Greater New Orleans Broad
+casting Assn., Inc. v. United States, 527 U. S. 173, 184
+(1999). For the same reason there is no need to determine
+whether all speech hampered by §4631(d) is commercial,
+as our cases have used that term. Cf. Board of Trustees
+of State Univ. of N. Y. v. Fox, 492 U. S. 469, 474 (1989)
+(discussing whether “pure speech and commercial speech”
+were inextricably intertwined, so that “the entirety must
+. . . be classified as noncommercial”).
+Under a commercial speech inquiry, it is the State’s
+burden to justify its content-based law as consistent with
+the First Amendment. Thompson v. Western States Medi
+cal Center, 535 U. S. 357, 373 (2002). To sustain the
+targeted, content-based burden §4631(d) imposes on pro
+tected expression, the State must show at least that the
+statute directly advances a substantial governmental in
+terest and that the measure is drawn to achieve that
+interest. See Fox, supra, at 480–481; Central Hudson Gas
+& Elec. Corp. v. Public Serv. Comm’n of N. Y., 447 U. S.
+557, 566 (1980). There must be a “fit between the legisla
+ture’s ends and the means chosen to accomplish those
+ends.” Fox, supra, at 480 (internal quotation marks omit
+ted). As in other contexts, these standards ensure not only
+that the State’s interests are proportional to the resulting burdens placed on speech but also that the law does
+not seek to suppress a disfavored message. See Turner
+Broadcasting, 512 U. S., at 662–663.
+The State’s asserted justifications for §4631(d) come
+
+
+Cite as: 564 U. S. ____ (2011)
+
+17
+
+Opinion of the Court
+
+under two general headings. First, the State contends
+that its law is necessary to protect medical privacy, includ
+ing physician confidentiality, avoidance of harassment,
+and the integrity of the doctor-patient relationship. Sec
+ond, the State argues that §4631(d) is integral to the
+achievement of policy objectives—namely, improved public
+health and reduced healthcare costs. Neither justification
+withstands scrutiny.
+1
+Vermont argues that its physicians have a “reasonable
+expectation” that their prescriber-identifying information
+“will not be used for purposes other than . . . filling and
+processing” prescriptions. See 2007 Vt. Laws No. 80,
+§1(29). It may be assumed that, for many reasons, physi
+cians have an interest in keeping their prescription deci
+sions confidential. But §4631(d) is not drawn to serve that
+interest. Under Vermont’s law, pharmacies may share
+prescriber-identifying information with anyone for any rea
+son save one: They must not allow the information to
+be used for marketing. Exceptions further allow pharma
+cies to sell prescriber-identifying information for certain
+purposes, including “health care research.” §4631(e). And
+the measure permits insurers, researchers, journalists,
+the State itself, and others to use the information. See
+§4631(d); cf. App. 370–372; id., at 211. All but conceding
+that §4631(d) does not in itself advance confidentiality
+interests, the State suggests that other laws might impose
+separate bars on the disclosure of prescriber-identifying
+information. See Vt. Bd. of Pharmacy Admin. Rule 20.1.
+But the potential effectiveness of other measures cannot
+justify the distinctive set of prohibitions and sanctions
+imposed by §4631(d).
+Perhaps the State could have addressed physician confi
+dentiality through “a more coherent policy.” Greater New
+Orleans Broadcasting, supra, at 195; see also Discovery
+
+
+18
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+Network, 507 U. S., at 428. For instance, the State might
+have advanced its asserted privacy interest by allowing
+the information’s sale or disclosure in only a few narrow
+and well-justified circumstances. See, e.g., Health In
+surance Portability and Accountability Act of 1996, 42
+U. S. C. §1320d–2; 45 CFR pts. 160 and 164 (2010). A
+statute of that type would present quite a different case
+than the one presented here. But the State did not enact
+a statute with that purpose or design. Instead, Vermont
+made prescriber-identifying information available to an
+almost limitless audience. The explicit structure of the
+statute allows the information to be studied and used by
+all but a narrow class of disfavored speakers. Given the
+information’s widespread availability and many permissi
+ble uses, the State’s asserted interest in physician confi
+dentiality does not justify the burden that §4631(d) places
+on protected expression.
+The State points out that it allows doctors to forgo the
+advantages of §4631(d) by consenting to the sale, disclo
+sure, and use of their prescriber-identifying information.
+See §4631(c)(1). It is true that private decisionmaking can
+avoid governmental partiality and thus insulate privacy
+measures from First Amendment challenge. See Rowan v.
+Post Office Dept., 397 U. S. 728 (1970); cf. Bolger v. Youngs
+Drug Products Corp., 463 U. S. 60, 72 (1983). But that
+principle is inapposite here. Vermont has given its doctors
+a contrived choice: Either consent, which will allow your
+prescriber-identifying information to be disseminated and
+used without constraint; or, withhold consent, which will
+allow your information to be used by those speakers whose
+message the State supports. Section 4631(d) may offer a
+limited degree of privacy, but only on terms favorable to
+the speech the State prefers. Cf. Rowan, supra, at 734,
+737, 739, n. 6 (sustaining a law that allowed private par
+ties to make “unfettered,” “unlimited,” and “unreviewable”
+choices regarding their own privacy). This is not to say
+
+
+Cite as: 564 U. S. ____ (2011)
+
+19
+
+Opinion of the Court
+
+that all privacy measures must avoid content-based rules.
+Here, however, the State has conditioned privacy on ac
+ceptance of a content-based rule that is not drawn to serve
+the State’s asserted interest. To obtain the limited privacy
+allowed by §4631(d), Vermont physicians are forced to
+acquiesce in the State’s goal of burdening disfavored
+speech by disfavored speakers.
+Respondents suggest that a further defect of §4631(d)
+lies in its presumption of applicability absent a physician’s
+election to the contrary. Vermont’s law might burden less
+speech if it came into operation only after an individual
+choice, but a revision to that effect would not necessarily
+save §4631(d). Even reliance on a prior election would not
+suffice, for instance, if available categories of coverage by
+design favored speakers of one political persuasion over
+another. Rules that burden protected expression may not
+be sustained when the options provided by the State are
+too narrow to advance legitimate interests or too broad to
+protect speech. As already explained, §4631(d) permits
+extensive use of prescriber-identifying information and so
+does not advance the State’s asserted interest in physician
+confidentiality. The limited range of available privacy
+options instead reflects the State’s impermissible purpose
+to burden disfavored speech. Vermont’s argument accord
+ingly fails, even if the availability and scope of private
+election might be relevant in other contexts, as when the
+statute’s design is unrelated to any purpose to advance a
+preferred message.
+The State also contends that §4631(d) protects doctors
+from “harassing sales behaviors.” 2007 Vt. Laws No. 80,
+§1(28). “Some doctors in Vermont are experiencing an
+undesired increase in the aggressiveness of pharmaceuti
+cal sales representatives,” the Vermont Legislature found,
+“and a few have reported that they felt coerced and har
+assed.” §1(20). It is doubtful that concern for “a few”
+physicians who may have “felt coerced and harassed” by
+
+
+20
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+pharmaceutical marketers can sustain a broad content
+based rule like §4631(d). Many are those who must en
+dure speech they do not like, but that is a necessary cost of
+freedom. See Erznoznik v. Jacksonville, 422 U. S. 205,
+210–211 (1975); Cohen v. California, 403 U. S. 15, 21
+(1971). In any event the State offers no explanation why
+remedies other than content-based rules would be inade
+quate. See 44 Liquormart, Inc. v. Rhode Island, 517 U. S.
+484, 503 (1996) (opinion of Stevens, J.). Physicians can,
+and often do, simply decline to meet with detailers, includ
+ing detailers who use prescriber-identifying information.
+See, e.g., App. 180, 333–334. Doctors who wish to forgo
+detailing altogether are free to give “No Solicitation” or
+“No Detailing” instructions to their office managers or to
+receptionists at their places of work. Personal privacy
+even in one’s own home receives “ample protection” from
+the “resident’s unquestioned right to refuse to engage in
+conversation with unwelcome visitors.” Watchtower Bible
+& Tract Soc. of N. Y., Inc. v. Village of Stratton, 536 U. S.
+150, 168 (2002); see also Bolger, supra, at 72. A physi
+cian’s office is no more private and is entitled to no greater
+protection.
+Vermont argues that detailers’ use of prescriber
+identifying information undermines the doctor-patient
+relationship by allowing detailers to influence treatment
+decisions. According to the State, “unwanted pressure
+occurs” when doctors learn that their prescription deci
+sions are being “monitored” by detailers. 2007 Vt. Laws
+No. 80, §1(27). Some physicians accuse detailers of “spy
+ing” or of engaging in “underhanded” conduct in order to
+“subvert” prescription decisions. App. 336, 380, 407–408;
+see also id., at 326–328. And Vermont claims that detail
+ing makes people “anxious” about whether doctors have
+their patients’ best interests at heart. Id., at 327. But the
+State does not explain why detailers’ use of prescriber
+identifying information is more likely to prompt these
+
+
+Cite as: 564 U. S. ____ (2011)
+
+21
+
+Opinion of the Court
+
+objections than many other uses permitted by §4631(d).
+In any event, this asserted interest is contrary to basic
+First Amendment principles. Speech remains protected
+even when it may “stir people to action,” “move them to
+tears,” or “inflict great pain.” Snyder v. Phelps, 562 U. S.
+___, ___ (2011) (slip op., at 15). The more benign and,
+many would say, beneficial speech of pharmaceutical
+marketing is also entitled to the protection of the First
+Amendment. If pharmaceutical marketing affects treat
+ment decisions, it does so because doctors find it persua
+sive. Absent circumstances far from those presented here,
+the fear that speech might persuade provides no lawful
+basis for quieting it. Brandenburg v. Ohio, 395 U. S. 444,
+447 (1969) (per curiam).
+2
+The State contends that §4631(d) advances important public policy goals by lowering the costs of medical
+services and promoting public health. If prescriber
+identifying information were available for use by detailers,
+the State contends, then detailing would be effective in
+promoting brand-name drugs that are more expensive and
+less safe than generic alternatives. This logic is set out at
+length in the legislative findings accompanying §4631(d).
+Yet at oral argument here, the State declined to acknowl
+edge that §4631(d)’s objective purpose and practical effect
+were to inhibit detailing and alter doctors’ prescription
+decisions. See Tr. of Oral Arg. 5–6. The State’s reluctance
+to embrace its own legislature’s rationale reflects the
+vulnerability of its position.
+While Vermont’s stated policy goals may be proper,
+§4631(d) does not advance them in a permissible way. As
+the Court of Appeals noted, the “state’s own explanation of
+how” §4631(d) “advances its interests cannot be said to be
+direct.” 630 F. 3d, at 277. The State seeks to achieve its
+policy objectives through the indirect means of restraining
+
+
+22
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+certain speech by certain speakers—that is, by diminish
+ing detailers’ ability to influence prescription decisions.
+Those who seek to censor or burden free expression often
+assert that disfavored speech has adverse effects. But the
+“fear that people would make bad decisions if given truth
+ful information” cannot justify content-based burdens on
+speech. Thompson, 535 U. S., at 374; see also Virginia Bd.
+of Pharmacy v. Virginia Citizens Consumer Council, Inc.,
+425 U. S. 748, 769–770 (1976). “The First Amendment
+directs us to be especially skeptical of regulations that
+seek to keep people in the dark for what the government
+perceives to be their own good.” 44 Liquormart, supra, at
+503 (opinion of Stevens, J.); see also Linmark Associates,
+Inc. v. Willingboro, 431 U. S. 85, 97 (1977). These pre
+cepts apply with full force when the audience, in this
+case prescribing physicians, consists of “sophisticated and
+experienced” consumers. Edenfield, 507 U. S., at 775.
+As Vermont’s legislative findings acknowledge, the premise of §4631(d) is that the force of speech can justify
+the government’s attempts to stifle it. Indeed the State
+defends the law by insisting that “pharmaceutical market
+ing has a strong influence on doctors’ prescribing prac
+tices.” Brief for Petitioners 49–50. This reasoning is
+incompatible with the First Amendment. In an attempt to
+reverse a disfavored trend in public opinion, a State could
+not ban campaigning with slogans, picketing with signs, or
+marching during the daytime. Likewise the State may not
+seek to remove a popular but disfavored product from the
+marketplace by prohibiting truthful, nonmisleading adver
+tisements that contain impressive endorsements or catchy
+jingles. That the State finds expression too persuasive
+does not permit it to quiet the speech or to burden its
+messengers.
+The defect in Vermont’s law is made clear by the fact
+that many listeners find detailing instructive. Indeed the
+record demonstrates that some Vermont doctors view
+
+
+Cite as: 564 U. S. ____ (2011)
+
+23
+
+Opinion of the Court
+
+targeted detailing based on prescriber-identifying infor
+mation as “very helpful” because it allows detailers to
+shape their messages to each doctor’s practice. App. 274;
+see also id., at 181, 218, 271–272. Even the United States,
+which appeared here in support of Vermont, took care to
+dispute the State’s “unwarranted view that the dangers
+of [n]ew drugs outweigh their benefits to patients.” Brief
+for United States as Amicus Curiae 24, n. 4. There are di
+vergent views regarding detailing and the prescription
+of brand-name drugs. Under the Constitution, resolution of
+that debate must result from free and uninhibited speech.
+As one Vermont physician put it: “We have a saying in
+medicine, information is power. And the more you know,
+or anyone knows, the better decisions can be made.” App.
+279. There are similar sayings in law, including that
+“information is not in itself harmful, that people will
+perceive their own best interests if only they are well
+enough informed, and that the best means to that end is
+to open the channels of communication rather than to
+close them.” Virginia Bd., 425 U. S., at 770. The choice
+“between the dangers of suppressing information, and the
+dangers of its misuse if it is freely available” is one that
+“the First Amendment makes for us.” Ibid.
+Vermont may be displeased that detailers who use
+prescriber-identifying information are effective in promot
+ing brand-name drugs. The State can express that view
+through its own speech. See Linmark, 431 U. S., at 97; cf.
+§4622(a)(1) (establishing a prescription drug educational
+program). But a State’s failure to persuade does not allow
+it to hamstring the opposition. The State may not burden
+the speech of others in order to tilt public debate in a
+preferred direction. “The commercial marketplace, like
+other spheres of our social and cultural life, provides a
+forum where ideas and information flourish. Some of the
+ideas and information are vital, some of slight worth. But
+the general rule is that the speaker and the audience, not
+
+
+24
+
+SORRELL v. IMS HEALTH INC.
+Opinion of the Court
+
+the government, assess the value of the information pre
+sented.” Edenfield, supra, at 767.
+It is true that content-based restrictions on protected
+expression are sometimes permissible, and that principle
+applies to commercial speech. Indeed the government’s
+legitimate interest in protecting consumers from “commer
+cial harms” explains “why commercial speech can be sub
+ject to greater governmental regulation than noncommer
+cial speech.” Discovery Network, 507 U. S., at 426; see also
+44 Liquormart, 517 U. S., 502 (opinion of Stevens, J.). The
+Court has noted, for example, that “a State may choose to
+regulate price advertising in one industry but not in oth
+ers, because the risk of fraud . . . is in its view greater
+there.” R. A. V., 505 U. S., at 388–389 (citing Virginia Bd.,
+supra, at 771–772). Here, however, Vermont has not
+shown that its law has a neutral justification.
+The State nowhere contends that detailing is false or
+misleading within the meaning of this Court’s First
+Amendment precedents. See Thompson, 535 U. S., at 373.
+Nor does the State argue that the provision challenged
+here will prevent false or misleading speech. Cf. post, at
+10–11 (BREYER, J., dissenting) (collecting regulations that
+the government might defend on this ground). The State’s
+interest in burdening the speech of detailers instead turns
+on nothing more than a difference of opinion. See Bolger,
+463 U. S., at 69; Thompson, supra, at 376.
+*
+*
+*
+The capacity of technology to find and publish personal
+information, including records required by the govern
+ment, presents serious and unresolved issues with respect
+to personal privacy and the dignity it seeks to secure. In
+considering how to protect those interests, however, the
+State cannot engage in content-based discrimination to
+advance its own side of a debate.
+If Vermont’s statute provided that prescriber-identifying
+
+
+Cite as: 564 U. S. ____ (2011)
+
+25
+
+Opinion of the Court
+
+information could not be sold or disclosed except in narrow
+circumstances then the State might have a stronger posi
+tion. Here, however, the State gives possessors of the
+information broad discretion and wide latitude in disclos
+ing the information, while at the same time restricting
+the information’s use by some speakers and for some pur
+poses, even while the State itself can use the information
+to counter the speech it seeks to suppress. Privacy is a
+concept too integral to the person and a right too essential
+to freedom to allow its manipulation to support just those
+ideas the government prefers.
+When it enacted §4631(d), the Vermont Legislature
+found that the “marketplace for ideas on medicine safety
+and effectiveness is frequently one-sided in that brand
+name companies invest in expensive pharmaceutical mar
+keting campaigns to doctors.” 2007 Vt. Laws No. 80,
+§1(4). “The goals of marketing programs,” the legislature
+said, “are often in conflict with the goals of the state.”
+§1(3). The text of §4631(d), associated legislative findings,
+and the record developed in the District Court establish
+that Vermont enacted its law for this end. The State has
+burdened a form of protected expression that it found too
+persuasive. At the same time, the State has left unbur
+dened those speakers whose messages are in accord with
+its own views. This the State cannot do.
+The judgment of the Court of Appeals is affirmed.
+It is so ordered.
+
+

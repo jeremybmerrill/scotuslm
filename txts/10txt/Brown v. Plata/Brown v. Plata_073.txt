@@ -1,0 +1,44 @@
+Cite as: 563 U. S. ____ (2011)
+
+15
+
+SCALIA, J., dissenting
+
+medical treatment, then the court can order his release;
+but a court may not order the release of prisoners who
+have suffered no violations of their constitutional rights,
+merely to make it less likely that that will happen to them
+in the future.
+This view follows from the PLRA’s text that I discussed
+at the outset, 18 U. S. C. §3626(a)(1)(A). “[N]arrowly
+drawn” means that the relief applies only to the “particu
+lar [prisoner] or [prisoners]” whose constitutional rights
+are violated; “extends no further than necessary” means
+that prisoners whose rights are not violated will not obtain
+relief; and “least intrusive means necessary to correct the
+violation of the Federal right” means that no other relief is
+available.*
+I acknowledge that this reading of the PLRA would se
+verely limit the circumstances under which a court could
+issue structural injunctions to remedy allegedly unconsti
+tutional prison conditions, although it would not eliminate
+them entirely. If, for instance, a class representing all
+prisoners in a particular institution alleged that the tem
+perature in their cells was so cold as to violate the Eighth
+Amendment, or that they were deprived of all exercise
+time, a court could enter a prisonwide injunction ordering
+that the temperature be raised or exercise time be pro
+vided. Still, my approach may invite the objection that the
+PLRA appears to contemplate structural injunctions in
+general and mass prisoner-release orders in particular.
+The statute requires courts to “give substantial weight to
+——————
+* Any doubt on this last score, at least as far as prisoner-release or
+ders are concerned, is eliminated by §3626(a)(3)(E) of the statute, which
+provides that to enter a prisoner-release order the court must find
+“by clear and convincing evidence that—
+(i) crowding is the primary cause of the violation of a Federal right;
+and
+(ii) no other relief will remedy the violation of the Federal right.”
+
+

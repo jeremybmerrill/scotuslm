@@ -1,0 +1,37 @@
+14
+
+HALL v. UNITED STATES
+BREYER, J., dissenting
+
+treating the relevant taxes as “administrative expenses”
+in both Chapter 12 and Chapter 13 cases rather than in
+neither. The majority apparently believes that this would
+render §1305 (the provision permitting the Government to
+seek §507 priority treatment) superfluous. Ante, at 10–12.
+But that is not so. This interpretation would simply limit
+the scope of operation of §1305 to the period of time after
+the Chapter 13 Plan is confirmed but while the Chapter 13
+case is still pending. And that is likely to be a significant
+period of time relative to the preconfirmation period. See
+H. R. Rep. No. 95–595, at 276 (“[M]ost chapter 13 estates
+will only remain open for 1 or 2 months until confirmation
+of the plan”); §§1325(b)(1), (4) (debtor must commit all his
+projected disposable income over a 3-year period (sometimes extended to five) to the Plan, unless all unsecured
+claims can be paid off over a shorter period). The greatest
+Chapter 13 harm this interpretation could cause is to require the Government to pursue those tax liabilities as
+§507 priority administrative expense claims (rather than
+allow it to choose between §507 priority treatment and
+pursuing those claims outside bankruptcy) during the
+relatively brief period of time between the filing of a petition and the Plan’s confirmation.
+In sum, I would treat a postpetition/preconfirmation tax
+liability as a tax “incurred by the estate,” hence as an
+“administrative expense,” hence as a “clai[m] entitled to
+priority under section 507, unless . . . ,” hence as a claim
+falling within the scope of the Amendment. Doing so
+would allow the Amendment to take effect as Congress
+intended.
+III
+The Government argues that, even if tax liabilities
+arising during the bankruptcy proceedings are “administrative expenses,” they still do not fall within the Amendment’s scope. It says that neither the Amendment nor
+
+

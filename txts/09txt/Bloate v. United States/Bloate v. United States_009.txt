@@ -1,0 +1,47 @@
+6
+
+BLOATE v. UNITED STATES
+Opinion of the Court
+
+Sixth Circuits, interpret subsection (h)(1) differently,
+holding that time for preparing pretrial motions is outside
+subsection (h)(1)’s scope.6 We granted certiorari to resolve
+this conflict.
+II
+As noted, the Speedy Trial Act requires that a criminal
+defendant’s trial commence within 70 days of a defen
+dant’s initial appearance or indictment, but excludes from
+the 70-day period days lost to certain types of delay.
+Section 3161(h) specifies the types of delays that are ex
+cludable from the calculation. Some of these delays are
+excludable only if the district court makes certain findings
+enumerated in the statute. See §3161(h)(7). Other delays
+are automatically excludable, i.e., they may be excluded
+without district court findings. As relevant here, subsec
+tion (h)(1) requires the automatic exclusion of “[a]ny pe
+riod of delay resulting from other proceedings concerning
+the defendant, including but not limited to” periods of
+delay resulting from eight enumerated subcategories of
+proceedings.7 The Government contends that the time the
+—————— 
+
+Tibboel, 753 F. 2d 608, 610 (CA7 1985); United States v. Jodoin, 672 
+
+F. 2d 232, 237–239 (CA1 1982).
+6 See United States v. Jarrell, 147 F. 3d 315, 317–318 (CA4 1998);
+United States v. Moran, 998 F. 2d 1368, 1370–1371 (CA6 1993).
+7 The full text of subsection (h)(1) reads as follows:
+“(h) The following periods of delay shall be excluded in computing the
+time within which an information or an indictment must be filed, or in
+computing the time within which the trial of any such offense must
+commence:
+“(1) Any period of delay resulting from other proceedings concerning
+the defendant, including but not limited to—
+“(A) delay resulting from any proceeding, including any examinations,
+to determine the mental competency or physical capacity of the defen
+dant;
+“(B) delay resulting from trial with respect to other charges against the
+defendant;
+“(C) delay resulting from any interlocutory appeal;
+
+

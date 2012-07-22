@@ -1,0 +1,53 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1529
+_________________
+
+ESTHER HUI, ET AL., PETITIONERS v. YANIRA 
+
+CASTANEDA, AS PERSONAL REPRESENTATIVE
+
+OF THE ESTATE OF FRANCISCO 
+
+CASTANEDA, ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[May 3, 2010]
+
+
+JUSTICE SOTOMAYOR delivered the opinion of the Court.
+This case presents the question whether 42 U. S. C.
+§233(a), as added, 84 Stat. 1870, precludes an action
+under Bivens v. Six Unknown Fed. Narcotics Agents, 403
+U. S. 388 (1971), against U. S. Public Health Service
+(PHS) personnel for constitutional violations arising out of
+their official duties. When federal employees are sued for
+damages for harms caused in the course of their employ
+ment, the Federal Tort Claims Act (FTCA), 28 U. S. C.
+§§1346, 2671–2680, generally authorizes substitution of
+the United States as the defendant. Section 233(a) makes
+the FTCA remedy against the United States “exclusive of
+any other civil action or proceeding” for any personal
+injury caused by a PHS officer or employee performing a
+medical or related function “while acting within the scope
+of his office or employment.” Based on the plain language
+of §233(a), we conclude that PHS officers and employees
+are not personally subject to Bivens actions for harms
+arising out of such conduct.
+
+

@@ -1,0 +1,44 @@
+Cite as: 562 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+Act, 5 U. S. C. §551 et seq., authorizes suit to challenge a
+federal agency by any “person . . . adversely affected or
+aggrieved . . . within the meaning of a relevant statute.”
+§702. We have held that this language establishes a
+regime under which a plaintiff may not sue unless he
+“falls within the ‘zone of interests’ sought to be protected
+by the statutory provision whose violation forms the legal
+basis for his complaint.” Lujan v. National Wildlife Fed
+eration, 497 U. S. 871, 883 (1990). We have described the
+“zone of interests” test as denying a right of review “if
+the plaintiff’s interests are so marginally related to or in­
+consistent with the purposes implicit in the statute that it
+cannot reasonably be assumed that Congress intended to
+permit the suit.” Clarke v. Securities Industry Assn., 479
+U. S. 388, 399–400 (1987). We hold that the term “ag­
+grieved” in Title VII incorporates this test, enabling suit
+by any plaintiff with an interest “arguably [sought] to be
+protected by the statutes,” National Credit Union Admin.
+v. First Nat. Bank & Trust Co., 522 U. S. 479, 495 (1998)
+(internal quotation marks omitted), while excluding plain­
+tiffs who might technically be injured in an Article III
+sense but whose interests are unrelated to the statutory
+prohibitions in Title VII.
+Applying that test here, we conclude that Thompson
+falls within the zone of interests protected by Title VII.
+Thompson was an employee of NAS, and the purpose of
+Title VII is to protect employees from their employers’
+unlawful actions. Moreover, accepting the facts as alleged,
+Thompson is not an accidental victim of the retaliation—
+collateral damage, so to speak, of the employer’s unlawful
+act. To the contrary, injuring him was the employer’s
+intended means of harming Regalado. Hurting him was
+the unlawful act by which the employer punished her. In
+those circumstances, we think Thompson well within the
+zone of interests sought to be protected by Title VII. He is
+a person aggrieved with standing to sue.
+
+

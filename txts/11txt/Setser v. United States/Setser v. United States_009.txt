@@ -1,0 +1,38 @@
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+Opinion of the Court
+
+unius est exclusio alterius—might have application here if
+the provision in question were a conferral of authority on
+district courts. Giving sentencing authority in only specified circumstances could be said to imply that it is withheld in other circumstances. Section 3584, however, is
+framed not as a conferral of authority but as a limitation
+of authority that already exists (and a specification of
+what will be assumed when the exercise of that authority
+is ambiguous). It reads not “District courts shall have
+authority to impose multiple terms of imprisonment on a
+defendant at the same time, etc.” but rather “If multiple
+terms of imprisonment are imposed on a defendant at
+the same time, [etc.]”—quite clearly assuming that such authority already exists. The mere acknowledgment of the
+existence of certain pre-existing authority (and regulation
+of that authority) in no way implies a repeal of other preexisting authority. And that is especially true when there
+is an obvious reason for selecting the instances of preexisting authority that are addressed—to wit, that they
+are the examples of sentencing discretion most frequently
+encountered.
+Moreover, expressio unius est exclusio alterius is a
+double-edged sword. Setser thinks it suggests that, because
+§3584(a) recognizes judicial discretion in scenario A and
+scenario B, there is no such discretion in scenario C. But
+the same maxim shows much more convincingly why
+§3621(b) cannot be read to give the Bureau of Prisons
+exclusive authority to make the sort of decision committed
+to the district court in §3584(a). When §3584(a) specifically addresses decisions about concurrent and consecutive
+sentences, and makes no mention of the Bureau’s role in
+the process, the implication is that no such role exists.
+And that conclusion is reinforced by application of the
+same maxim (properly, in this instance) to §3621(b)—
+which is a conferral of authority on the Bureau of Prisons,
+but does not confer authority to choose between concur-
+
+

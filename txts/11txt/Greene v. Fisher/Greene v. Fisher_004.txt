@@ -1,0 +1,38 @@
+2
+
+GREENE v. FISHER
+Opinion of the Court
+
+hended, and two of them confessed to taking part in the
+robbery. Greene did not confess, but he was implicated by
+the others’ statements.
+When the Commonwealth sought to try all of the coconspirators jointly, Greene sought severance, arguing,
+inter alia, that the confessions of his nontestifying codefendants should not be introduced at his trial. The trial
+court denied the motion to sever, but agreed to require
+redaction of the confessions to eliminate proper names. As
+redacted, the confessions replaced names with words like
+“this guy,” “someone,” and “other guys,” or with the word
+“blank,” or simply omitted the names without substitution.
+A jury convicted Greene of second-degree murder, robbery, and conspiracy. He appealed to the Pennsylvania
+Superior Court, arguing that severance of his trial was
+demanded by the rule announced in Bruton v. United
+States, 391 U. S. 123 (1968), that the Confrontation Clause
+forbids the prosecution to introduce a nontestifying codefendant’s confession implicating the defendant in the
+crime. The Pennsylvania Superior Court affirmed the
+conviction, holding that the redaction had cured any problem under Bruton.
+Greene filed a petition for allowance of appeal to the
+Pennsylvania Supreme Court, raising the same Bruton
+claim. While that petition was pending, we held in Gray v.
+Maryland, 523 U. S. 185, 195 (1998), that “considered as a
+class, redactions that replace a proper name with an
+obvious blank, the word ‘delete,’ a symbol, or similarly
+notify the jury that a name has been deleted are similar
+enough to Bruton’s unredacted confessions as to warrant
+the same legal results.” The Pennsylvania Supreme Court
+granted the petition for allowance of appeal, limited to the
+question whether admission of the redacted confessions
+violated Greene’s Sixth Amendment rights. After the
+parties filed merits briefs, however, the Pennsylvania
+Supreme Court dismissed the appeal as improvidently
+
+

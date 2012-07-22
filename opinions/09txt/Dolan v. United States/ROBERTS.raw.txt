@@ -1,0 +1,414 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+ROBERTS, C. J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–367
+_________________
+
+BRIAN RUSSELL DOLAN, PETITIONER v.
+
+UNITED STATES
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE TENTH CIRCUIT
+
+[June 14, 2010] 
+
+
+CHIEF JUSTICE ROBERTS, with whom JUSTICE STEVENS,
+JUSTICE SCALIA, and JUSTICE KENNEDY join, dissenting.
+The statute at issue in this case provides that “[i]f the
+victim’s losses are not ascertainable [at least] 10 days
+prior to sentencing, . . . the court shall set a date for the
+final determination of the victim’s losses, not to exceed 90
+days after sentencing.” 18 U. S. C. §3664(d)(5). Under the
+Court’s view, failing to meet the 90-day deadline has no
+consequence whatever. The Court reads the statute as if
+it said “the court shall set a date for the final determina
+tion of the victim’s losses, at any time after sentencing.” I
+respectfully dissent.
+I
+In the absence of §3664(d)(5), any order of restitution
+must be imposed at sentencing, if it is to be imposed at all.
+Restitution “may be imposed in addition to [a] sentence” of
+probation, fine, or imprisonment only if it is authorized
+under §3556. See §§3551(b)–(c). Section 3556, in turn,
+authorizes courts to order restitution “in imposing a sen
+tence on a defendant” (emphasis added), pursuant to yet
+other provisions requiring such orders to be made “when
+sentencing a defendant,” §§3663(a)(1)(A), (c)(1), 3663A(a)
+(1) (emphasis added). The mandatory restitution provi
+sions of §3663A “apply in all sentencing proceedings for
+
+
+2
+
+DOLAN v. UNITED STATES
+ROBERTS, C. J., dissenting
+
+convictions of” certain crimes. §3663A(c)(1) (emphasis
+added). And the court “at the time of sentencing” must
+“state in open court the reasons for its imposition of the
+particular sentence”—including its reasons for “not or
+der[ing] restitution” if it fails to do so. §3553(c).
+These provisions authorize restitution orders at sentenc
+ing. They confer no authority to order restitution after
+sentencing has concluded. When Congress permits courts
+to impose criminal penalties at some time other than
+sentencing, it does so explicitly. See, e.g., §3552(b) (provi
+sional sentence during a study period); §3582(d) (authoriz
+ing certain penalties “in imposing a sentence . . . or at any
+time thereafter”); §3583(e) (permitting extension of super
+vised release); §§4244(d)–(e) (provisional sentencing for
+the mentally ill); see also Fed. Rules Crim. Proc.
+32.2(b)(2)(B), (4)(A) (presentencing forfeiture orders); cf.
+Corey v. United States, 375 U. S. 169 (1963) (appeals from
+provisional and final sentences authorized by law).
+Once a sentence has been imposed, moreover, it is final,
+and the trial judge’s authority to modify it is narrowly
+circumscribed. We have stated that “the trial courts had
+no such authority” prior to the adoption of Rule 35, United
+States v. Addonizio, 442 U. S. 178, 189, and n. 16 (1979),
+and Congress has since revoked the broad authority to
+correct illegal sentences originally set forth in that Rule.
+See Sentencing Reform Act of 1984, Pub. L. 98–473,
+§215(b), 98 Stat. 2015–2016; see also Historical Notes on
+1984 Amendments to Rule 35, 18 U. S. C. A., p. 605 (2008).
+Today, an error may be corrected by the trial court only if
+it is “clear,” and only within 14 days after the sentence is
+announced. Rules 35(a), (c). The Rule of Criminal Proce
+dure allowing extensions of time expressly provides that
+“[t]he court may not extend the time to take any action
+under Rule 35, except as stated in that rule.” Rule
+45(b)(2). This Court has reiterated that time limits made
+binding under Rule 35 “may not be extended,” Addonizio,
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+ROBERTS, C. J., dissenting
+
+supra, at 189, and that Rule 45(b)(2) creates “inflexible”
+“claim-processing rules,” Eberhart v. United States, 546
+U. S. 12, 19 (2005) (per curiam).
+Thus, if the trial court fails to impose a mandatory term
+of imprisonment, see, e.g., §924(c)(1)(A), or a mandatory
+fine, see, e.g., 21 U. S. C. §844(a), or a mandatory order of
+restitution, see 18 U. S. C. §3663A, the Government can
+not simply ask it to impose the correct sentence later. If
+the error is clear, and raised within 14 days, it might be
+corrected under Rule 35. Otherwise, the Government
+must appeal, and seek resentencing on remand.
+§§3742(b)(1), (g).
+Section 3664(d)(5) is a limited exception to these bed
+rock rules. It permits a trial court to go forward with
+sentencing while delaying any restitution order for up to
+90 days. This provision is meaningful precisely because
+restitution must otherwise be ordered at sentencing, and
+because sentences are otherwise final unless properly
+corrected. If trial courts had power to amend their sen
+tences at any time, §3664(d)(5) would be unnecessary.
+Here, however, the District Court failed to make use of
+its limited authority under §3664(d)(5). Dolan was sen
+tenced on July 30, 2007. The court declined to order resti
+tution at that time or to set a date for a future restitution
+order. App. 35, 39–40; see also id., at 49.1 The 90-day
+period elapsed on October 28. At no time did the Govern
+ment seek timely relief, whether under Rule 35 or by
+appeal. Cf. Corey, supra, at 174; Berman v. United States,
+302 U. S. 211, 212 (1937). Nor did it assert any claim that
+the deadline had been lawfully extended or equitably
+tolled, an issue that I agree is not before us, see ante, at 3,
+11. But on April 24, 2008—269 days after sentencing, and
+——————
+1 Whether that date must itself be set at sentencing is not before us.
+The order setting the date plainly cannot be entered 182 days after
+sentencing, as happened here. See App. 3–4.
+
+
+4
+
+DOLAN v. UNITED STATES
+ROBERTS, C. J., dissenting
+
+after Dolan had already been released from prison—the
+District Court nonetheless ordered $104,649.78 in restitu
+tion. App. to Pet. for Cert. 32a, 47a.
+I cannot see where that court obtained authority to add
+additional terms to Dolan’s sentence. That is the step the
+Court misses when it searches for the “remedy” for a
+violation of §3664(d)(5). Ante, at 1. The rule is that a trial
+court cannot alter a sentence after the time of sentencing.
+Section 3664(d)(5) is a limited exception to that rule. If
+the limits are exceeded the exception does not apply, and
+the general rule takes over—the sentence cannot be
+changed to add a restitution provision. Section 3664(d)(5)
+is self-executing: It grants authority subject to a deadline,
+and if the deadline is not met, the authority is no longer
+available.
+The Court appears to reason that §3664(d)(5) confers the
+authority to add a restitution provision for at least 90
+days, and that once the camel’s nose of some permitted
+delay sneaks under the tent, any further delay is permis
+sible. Ante, at 3, 5. But that is not what §3664(d)(5) says.
+It provides 90 days for a final determination of the victims’
+losses, not a free pass to impose restitution whenever the
+trial court gets around to it. The court had no more power
+to order restitution 269 days after sentencing than it did
+to order an additional term of imprisonment and send
+Dolan back to prison.
+II 
+
+A
+
+To avoid this conclusion, the Court runs through a
+series of irrelevancies that cannot trump the clear statu
+tory text. It notes, for example, that §3663A provides that
+“ ‘[n]otwithstanding any other provision of law, when
+sentencing a defendant convicted of [a specified] offense
+. . . , the court shall order . . . that the defendant make
+restitution to the victim of the offense.’ ” Ante, at 6 (quot
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+ROBERTS, C. J., dissenting
+
+ing §3663A(a)(1); emphasis in Court’s opinion). But the
+issue before us is when restitution should be ordered, so
+the language the Court should underscore is “when sen
+tencing.” This provision plainly confers no power to act
+after sentencing. Any such power attaches only by virtue
+of §3663A(d), which incorporates the procedures of §3664,
+including the limited 90-day exception. See also §3556
+(“The procedures under section 3664 shall apply to all
+orders of restitution under this section”).
+The Court puts greater emphasis on its reading of the
+statute’s purpose, namely to provide restitution to victims
+of crime. Certainly that was a purpose Congress sought to
+promote. But “no legislation pursues its purposes at all
+costs,” and “it frustrates rather than effectuates legislative
+intent simplistically to assume that whatever furthers the
+statute’s primary objective must be the law.” Rodriguez v.
+United States, 480 U. S. 522, 525–526 (1987) (per curiam).
+Congress had to balance against the interest in restitu
+tion the contrary interest in promptly determining the
+defendant’s sentence. The balance struck was clearly set
+forth in the statute: determine the victim’s losses by a date
+“not to exceed 90 days after sentencing.” §3664(d)(5).
+Whether or not that limit was “primarily designed to help
+victims of crime,” ante, at 7, it does not cease to be law
+when invoked by defendants.
+Nor can the Court find any support in the second sen
+tence of §3664(d)(5). See ante, at 14–15. That provision
+addresses a distinct issue—what to do about newly discov
+ered losses—and sets a higher “good cause” standard. The
+fact that Congress struck the balance between restitution
+and finality differently in that context does not justify
+overriding the balance it struck here.
+The Court also analogizes the 90-day limit to other
+provisions discussed in our precedents, most of which have
+nothing to do with the rights of criminal defendants (for
+whom procedural protections are of heightened impor
+
+
+6
+
+DOLAN v. UNITED STATES
+ROBERTS, C. J., dissenting
+
+tance), let alone the finality of criminal sentencing. The
+cited cases are said to establish that an official’s “failure to
+meet [a] deadline” does not always deprive that official of
+“power to act beyond it.” Regions Hospital v. Shalala, 522
+U. S. 448, 459, n. 3 (1998). But the failure to comply with
+§3664(d)(5) does not deprive anyone of anything: The trial
+court never had the general authority to alter sentences
+once imposed, in the way that the administrative agencies
+in the cited cases were said to have general regulatory
+authority. The trial court’s authority to add a restitution
+provision to an otherwise final sentence was conferred by
+the very provision that limited that authority. Section
+3664(d)(5) did not take away anything that might persist
+in the absence of §3664(d)(5).2
+Even more perplexing is the Court’s suggestion that
+references to the authority of trial courts necessarily
+implicate questions of jurisdiction. Ante, at 14. To say
+that a court lacks authority to order belated restitution
+does not use “authority” in a jurisdictional sense, see
+Arbaugh v. Y & H Corp., 546 U. S. 500, 511 (2006), but
+only in the same sense in which a court lacks “authority”
+to impose a sentence above the statutory maximum. Such
+action is an error of law, reversible on appeal, but it is not
+jurisdictional. As in United Student Aid Funds, Inc. v.
+Espinosa, 559 U. S. ___, ___ (2010) (slip op., at 9), compli
+ance with §3664(d)(5) is “not a limitation on the . . . court’s
+jurisdiction,” but it is a statutory “precondition to obtain
+ing a [particular] order.” Here that condition was not
+satisfied.
+
+——————
+2 United States v. Montalvo-Murillo, 495 U. S. 711 (1990), is equally
+inapposite: The statute in that case rested the lower court’s authority
+on whether a bail hearing had been held at all (it had), whereas here
+the only statutory condition is whether the losses were determined
+within 90 days of sentencing (they were not).
+
+
+Cite as: 560 U. S. ____ (2010) 
+
+
+7
+
+ROBERTS, C. J., dissenting
+
+
+B
+
+In the end, the Court does not appear to need
+§3664(d)(5) at all. It instead suggests that we abandon
+the bedrock rules that sentences once imposed are final,
+and that the only exceptions are ones Congress chooses to
+allow (and Congress has allowed various ones). The Court
+instead proposes a judicial power to alter sentences, ap
+parently at any time. But if a trial court can “leave open,
+say, the amount of a fine,” ante, at 12, why not, say, the
+number of years? Thus, after a defendant like Dolan has
+served his entire sentence—and who knows how long
+after?—a court might still order additional imprisonment,
+additional restitution, an additional fine, or an additional
+condition of supervised release. See ante, at 12–13.
+The Court cites no authority in support of such “fill in
+th[e] blank” sentencing, other than two cases implicated in
+the Circuit split below. Ante, at 13. Prior to the enact
+ment of §3664(d)(5), however, it was widely recognized
+that the requirement to impose restitution “when sentenc
+ing” meant that “[r]estitution must be determined at the
+time of sentencing,” and could not be left open after sen
+tencing had concluded. Federal Judicial Center, J. Wood,
+Guideline Sentencing: An Outline of Appellate Case Law
+on Selected Issues, p. 300 (Sept. 2002) (emphasis added;
+citing United States v. Porter, 41 F. 3d 68, 71 (CA2 1994);
+United States v. Ramilo, 986 F. 2d 333, 335–336 (CA9
+1993); United States v. Prendergast, 979 F. 2d 1289, 1293
+(CA8 1992); United States v. Sasnett, 925 F. 2d 392, 398–
+399 (CA11 1991)).
+The Court finds Rule 35(a) inapplicable because the
+District Court was not “ ‘correct[ing]’ ” a clear error in the
+sentence. Ante, at 14. True enough; but that is why the
+Government should lose. The limitation of Rule 35(a) to
+clear errors, corrected within 14 days of sentencing, does
+not leave trial courts free to make other changes to sen
+tences whenever they choose. Rule 35(a) only makes sense
+
+
+8
+
+DOLAN v. UNITED STATES
+ROBERTS, C. J., dissenting
+
+against a background rule that trial courts cannot change
+sentences at will.
+The same is true of §3552(b), which empowers a court
+that does not wish to delay sentencing but “desires more
+information than is otherwise available to it” to impose a
+provisional sentence during a 120-day study period. That
+statute would be largely unnecessary if a trial court could
+do the same by order.
+In Addonizio, 442 U. S., at 189, we thought it noncon
+troversial that a sentence once imposed is final, subject to
+such exceptions as Congress has allowed. Contrary to the
+Court’s suggestion, ante, at 13, Dolan invoked that princi
+ple both here and below. See, e.g., Brief for Petitioner 13,
+15–18, 20, 29, 33, and n. 14, 36, 48, and n. 19; Reply Brief
+for Petitioner 1, 5–8; Appellant’s Opening Brief in No. 08–
+2104 (CA10), pp. 12–13 (citing United States v. Blackwell,
+81 F. 3d 945, 949 (CA10 1996), for the proposition that a
+“district court does not have inherent authority to modify
+a sentence”). That the Court finds it necessary to question
+that principle—indeed, to accuse this dissent of “creat[ing]
+th[e] rule,” ante, at 13—highlights how misguided its
+decision is.
+To counter the effects of its opinion and to restore some
+semblance of finality to sentencing, the Court advises
+defendants to seek mandamus—a remedy we have de
+scribed as “drastic and extraordinary,” “reserved for really
+extraordinary causes,” and one of “the most potent weap
+ons in the judicial arsenal.” Cheney v. United States Dist.
+Court for D. C., 542 U. S. 367, 380 (2004) (internal quota
+tion marks omitted). What an odd procedure the Court
+contemplates! A defendant, who should have received a
+harsher sentence, is to invoke the drastic and extraordi
+nary remedy of mandamus, to make sure he gets it. That
+is not how sentencing errors are corrected: If the trial
+court fails to order the appropriate sentence, the Govern
+ment must appeal to correct it. It did not do so here, and
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+ROBERTS, C. J., dissenting
+
+that ends the case. Greenlaw v. United States, 554 U. S.
+___, ___ (2008) (slip op., at 6).
+Moreover, the Court’s mandamus remedy only helps
+defendants who know they are in danger of an increased
+sentence. So the Court imposes another rule, namely that
+the trial court must explicitly “leave open” the precise
+sentence at the time of sentencing, ante, at 12, or must
+make clear, “prior to the deadline’s expiration[,] that it
+would order restitution” at some indeterminate time, ante,
+at 1 (emphasis added). But what if the court does not
+make the crucial announcement at sentencing, or “prior to
+the deadline’s expiration”? Are these judicially created
+deadlines to be taken more seriously than those imposed
+by Congress? Or are we just back at the beginning, asking
+what the “remedy” should be for failing to meet the rele
+vant deadline?
+The Court’s suggestion to require notice of intent to
+augment the sentence at some future date may be a good
+idea. But an even better one might be to set a particular
+date—say, 90 days after sentencing—on which the parties
+could base their expectations. That was Congress’s choice,
+and it should be good enough for us.
+*
+*
+*
+The District Court in this case failed to order mandatory
+restitution in sentencing Dolan. That was wrong. But two
+wrongs do not make a right, and that mistake gave the
+court no authority to amend Dolan’s sentence later, be
+yond the 90 days allowed to add a sentencing term requir
+ing restitution.
+I am mindful of the fact that when a trial court blun
+ders, the victims may suffer. Consequences like that are
+the unavoidable result of having a system of rules. If no
+one appeals a mistaken ruling on the amount of restitu
+tion (or whether restitution applies at all), finality will
+necessarily obstruct the victims’ full recovery.
+
+
+10
+
+DOLAN v. UNITED STATES
+ROBERTS, C. J., dissenting
+
+It is up to Congress to balance the competing interests
+in recovery and finality. Where—as here—it has done so
+clearly, the “judicial inquiry is complete.” Barnhart v.
+Sigmon Coal Co., 534 U. S. 438, 462 (2002) (internal quo
+tation marks omitted).
+
+

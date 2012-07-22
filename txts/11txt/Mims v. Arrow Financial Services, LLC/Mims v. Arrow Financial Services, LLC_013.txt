@@ -1,0 +1,39 @@
+10
+
+MIMS v. ARROW FINANCIAL SERVICES, LLC
+Opinion of the Court
+
+U. S. C. §252(e)(6) “divest[s] the district courts of their
+authority under 28 U. S. C. §1331 to review the [state
+agency’s] order for compliance with federal law.”); K mart
+Corp. v. Cartier, Inc., 485 U. S. 176, 182–183 (1988) (“The
+District Court would be divested of [§1331] jurisdiction . . .
+if this action fell within one of several specific grants of
+exclusive jurisdiction to the Court of International Trade
+[under 28 U. S. C. §1581(a) or §1581(i)(3)].”).
+“[D]ivestment of district court jurisdiction” should be
+found no more readily than “divestmen[t] of state court
+jurisdiction,” given “the longstanding and explicit grant
+of federal question jurisdiction in 28 U. S. C. §1331.”
+ErieNet, 156 F. 3d, at 523 (Alito, J., dissenting); see
+Gonell, Note, Statutory Interpretation of Federal Jurisdictional Statutes: Jurisdiction of the Private Right of Action
+under the TCPA, 66 Ford. L. Rev. 1895, 1929–1930 (1998).
+Accordingly, the District Court retains §1331 jurisdiction
+over Mims’s complaint unless the TCPA, expressly or by
+fair implication, excludes federal-court adjudication. See
+Verizon Md., 535 U. S., at 644; Gonell, supra, at 1929
+(Jurisdiction over private TCPA actions “is proper under
+§1331 unless Congress enacted a partial repeal of §1331 in
+the TCPA.”).
+III
+Arrow’s arguments do not persuade us that Congress
+has eliminated §1331 jurisdiction over private actions
+under the TCPA.
+The language of the TCPA—“A person or entity may, if
+otherwise permitted by the laws or rules of court of a
+State, bring [an action] in an appropriate court of that
+State,” 47 U. S. C. §227(b)(3)—Arrow asserts, is uniquely
+state-court oriented. See Brief for Respondent 13. That
+may be, but “[i]t is a general rule that the grant of jurisdiction to one court does not, of itself, imply that the jurisdiction is to be exclusive.” United States v. Bank of New
+
+

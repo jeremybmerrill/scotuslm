@@ -1,0 +1,363 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+Opinion of SOTOMAYOR, J.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–699
+_________________
+
+MENACHEM BINYAMIN ZIVOTOFSKY, BY HIS PARENTS
+
+
+
+
+
+AND GUARDIANS, ARI Z. AND NAOMI SIEGMAN
+
+ZIVOTOFSKY, PETITIONER v. HILLARY
+
+
+
+RODHAM CLINTON, SECRETARY 
+
+OF STATE
+
+
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+
+
+[March 26, 2012]
+
+
+
+
+JUSTICE SOTOMAYOR, with whom JUSTICE BREYER joins
+as to Part I, concurring in part and concurring in the
+judgment.
+As this case illustrates, the proper application of Baker’s
+six factors has generated substantial confusion in the
+lower courts. I concur in the Court’s conclusion that this
+case does not present a political question. I write separately, however, because I understand the inquiry required by the political question doctrine to be more demanding than that suggested by the Court.
+I
+The political question doctrine speaks to an amalgam of
+circumstances in which courts properly examine whether
+a particular suit is justiciable—that is, whether the dispute is appropriate for resolution by courts. The doctrine
+is “essentially a function of the separation of powers,”
+Baker v. Carr, 369 U. S. 186, 217 (1962), which recognizes
+the limits that Article III imposes upon courts and accords
+appropriate respect to the other branches’ exercise of their
+own constitutional powers.
+In Baker, this Court identified six circumstances in
+
+
+2
+
+ZIVOTOFSKY v. CLINTON
+Opinion of SOTOMAYOR, J.
+
+which an issue might present a political question: (1) “a
+textually demonstrable constitutional commitment of the
+issue to a coordinate political department”; (2) “a lack of
+judicially discoverable and manageable standards for
+resolving it”; (3) “the impossibility of deciding without an
+initial policy determination of a kind clearly for nonjudicial discretion”; (4) “the impossibility of a court’s undertaking independent resolution without expressing lack of the
+respect due coordinate branches of government”; (5) “an
+unusual need for unquestioning adherence to a political
+decision already made”; or (6) “the potentiality of embarrassment from multifarious pronouncements by various
+departments on one question.” Id., at 217. Baker established that “[u]nless one of these formulations is inextricable from the case at bar, there should be no dismissal for
+nonjusticiability.” Ibid. But Baker left unanswered when
+the presence of one or more factors warrants dismissal,
+as well as the interrelationship of the six factors and the
+relative importance of each in determining whether a case
+is suitable for adjudication.
+In my view, the Baker factors reflect three distinct
+justifications for withholding judgment on the merits of a
+dispute. When a case would require a court to decide an
+issue whose resolution is textually committed to a coordinate political department, as envisioned by Baker’s first
+factor, abstention is warranted because the court lacks
+authority to resolve that issue. See, e.g., Nixon v. United
+States, 506 U. S. 224, 229 (1993) (holding nonjusticiable
+the Senate’s impeachment procedures in light of Article I’s
+commitment to the Senate of the “ ‘sole Power to try all
+Impeachments’ ”); see also Marbury v. Madison, 1 Cranch
+137, 165–166 (1803) (“By the constitution of the United
+States, the president is invested with certain important
+political powers, in the exercise of which he is to use
+his own discretion, and is accountable only to his country
+in his political character, and to his own conscience”). In
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of SOTOMAYOR, J.
+
+such cases, the Constitution itself requires that another
+branch resolve the question presented.
+The second and third Baker factors reflect circumstances in which a dispute calls for decisionmaking beyond
+courts’ competence. “ ‘The judicial Power’ created by Article III, §1, of the Constitution is not whatever judges
+choose to do,” but rather the power “to act in the manner
+traditional for English and American courts.” Vieth v.
+Jubelirer, 541 U. S. 267, 278 (2004) (plurality opinion).
+That traditional role involves the application of some
+manageable and cognizable standard within the competence of the Judiciary to ascertain and employ to the facts
+of a concrete case. When a court is given no standard by
+which to adjudicate a dispute, or cannot resolve a dispute
+in the absence of a yet-unmade policy determination
+charged to a political branch, resolution of the suit is beyond the judicial role envisioned by Article III. See, e.g.,
+Gilligan v. Morgan, 413 U. S. 1, 10 (1973) (“[I]t is difficult
+to conceive of an area of governmental activity in which
+the courts have less competence” than “[t]he complex,
+subtle, and professional decisions as to the composition,
+training, equipping, and control of a military force”); Vieth,
+541 U. S., at 278 (“One of the most obvious limitations
+imposed by [Article III] is that judicial action must be
+governed by standard . . . ”). This is not to say, of course,
+that courts are incapable of interpreting or applying
+somewhat ambiguous standards using familiar tools of
+statutory or constitutional interpretation. But where an
+issue leaves courts truly rudderless, there can be “no
+doubt of [the] validity” of a court’s decision to abstain from
+judgment. Ibid.
+The final three Baker factors address circumstances in
+which prudence may counsel against a court’s resolution of
+an issue presented. Courts should be particularly cautious
+before forgoing adjudication of a dispute on the basis that
+judicial intervention risks “embarrassment from multifar-
+
+
+4
+
+ZIVOTOFSKY v. CLINTON
+Opinion of SOTOMAYOR, J.
+
+ious pronouncements by various departments on one
+question,” would express a “lack of the respect due coordinate branches of government,” or because there exists an
+“unusual need for unquestioning adherence to a political
+decision already made.” 369 U. S., at 217. We have repeatedly rejected the view that these thresholds are met
+whenever a court is called upon to resolve the constitutionality or propriety of the act of another branch of Government. See, e.g., United States v. Munoz-Flores, 495
+U. S. 385, 390–391 (1990); Powell v. McCormack, 395 U. S.
+486, 548, 549 (1969). A court may not refuse to adjudicate
+a dispute merely because a decision “may have significant
+political overtones” or affect “the conduct of this Nation’s
+foreign relations,” Japan Whaling Assn. v. American
+Cetacean Soc., 478 U. S. 221, 230 (1986). Nor may courts
+decline to resolve a controversy within their traditional
+competence and proper jurisdiction simply because the
+question is difficult, the consequences weighty, or the
+potential real for conflict with the policy preferences of
+the political branches. The exercise of such authority is
+among the “gravest and most delicate dut[ies] that this
+Court is called on to perform,” Blodgett v. Holden, 275
+U. S. 142, 148 (1927) (Holmes, J., concurring), but it is
+the role assigned to courts by the Constitution. “Questions
+may occur which we would gladly avoid; but we cannot
+avoid them. All we can do is, to exercise our best judgment, and conscientiously to perform our duty.” Cohens v.
+Virginia, 6 Wheat. 264, 404 (1821).
+Rare occasions implicating Baker’s final factors, however, may present an “ ‘unusual case’ ” unfit for judicial
+disposition. 369 U. S., at 218 (quoting the argument of
+Daniel Webster in Luther v. Borden, 7 How. 1, 29 (1849)).
+Because of the respect due to a coequal and independent
+department, for instance, courts properly resist calls to
+question the good faith with which another branch attests
+to the authenticity of its internal acts. See, e.g., Field v.
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+Opinion of SOTOMAYOR, J.
+
+Clark, 143 U. S. 649, 672–673 (1892) (deeming “forbidden
+by the respect due to a coordinate branch of the government” “[j]udicial action” requiring a belief in a “deliberate
+conspiracy” by the Senate and House of Representatives
+“to defeat an expression of the popular will”); see also
+Munoz-Flores, 495 U. S., at 409–410 (SCALIA, J., concurring in judgment) (“Mutual regard between the coordinate
+branches, and the interest of certainty, both demand that
+official representations regarding . . . matters of internal
+process be accepted at face value”). Likewise, we have
+long acknowledged that courts are particularly ill suited
+to intervening in exigent disputes necessitating unusual
+need for “attributing finality to the action of the political
+departments,” Coleman v. Miller, 307 U. S. 433, 454
+(1939), or creating acute “risk [of] embarrassment of our
+government abroad, or grave disturbance at home,” Baker,
+369 U. S., at 226. See, e.g., Luther, 7 How., at 43 (“After
+the President has acted and called out the militia, is a
+Circuit Court of the United States authorized to inquire
+whether his decision was right? . . . If the judicial power
+extends so far, the guarantee contained in the Constitution of the United States is a guarantee of anarchy, and
+not of order”).1 Finally, it may be appropriate for courts to
+stay their hand in cases implicating delicate questions
+concerning the distribution of political authority between
+coordinate branches until a dispute is ripe, intractable,
+and incapable of resolution by the political process. See
+——————
+1 See also Martin v. Mott, 12 Wheat. 19, 29–30 (1827) (Story, J.) (declining to review the President’s determination that an “exigency has
+arisen,” necessitating the “call [of] the militia into actual service,”
+recognizing need for “[a] prompt and unhesitating obedience to orders is
+indispensable”); Ware v. Hylton, 3 Dall. 199, 260 (1796) (Iredell, J.,
+concurring) (to declare treaty with Great Britain void would turn on
+“considerations of policy, considerations of extreme magnitude, [which
+are] certainly entirely incompetent to the examination and decision of a
+Court of Justice”).
+
+
+6
+
+ZIVOTOFSKY v. CLINTON
+Opinion of SOTOMAYOR, J.
+
+Goldwater v. Carter, 444 U. S. 996, 997 (1979) (Powell, J.,
+concurring in judgment). Abstention merely reflects that
+judicial intervention in such cases is “legitimate only in
+the last resort,” Chicago & Grand Trunk R. Co. v. Wellman, 143 U. S. 339, 345 (1892), and is disfavored relative
+to the prospect of accommodation between the political
+branches.
+When such unusual cases arise, abstention accommodates considerations inherent in the separation of powers
+and the limitations envisioned by Article III, which conferred authority to federal courts against a common-law
+backdrop that recognized the propriety of abstention in
+exceptional cases. New Orleans Public Service, Inc. v.
+Council of City of New Orleans, 491 U. S. 350, 359 (1989);
+see generally Shapiro, Jurisdiction and Discretion, 60
+N. Y. U. L. Rev. 543 (1985) (hereinafter Shapiro). The
+political questions envisioned by Baker’s final categories
+find common ground, therefore, with many longstanding
+doctrines under which considerations of justiciability or
+comity lead courts to abstain from deciding questions
+whose initial resolution is better suited to another time,
+see, e.g., National Park Hospitality Assn. v. Department of
+Interior, 538 U. S. 803, 808 (2003) (ripeness); United
+States Parole Comm’n v. Geraghty, 445 U. S. 388, 397
+(1980) (mootness); or another forum, see, e.g., Gulf Oil
+Corp. v. Gilbert, 330 U. S. 501, 507 (1947) (forum non
+conveniens); Railroad Comm’n of Tex. v. Pullman Co., 312
+U. S. 496, 498–500 (1941); Louisiana Power & Light Co. v.
+City of Thibodaux, 360 U. S. 25, 25–30 (1959); Burford v.
+Sun Oil Co., 319 U. S. 315, 333–334 (1943) (abstention in
+favor of a state forum); United States v. Western Pacific R. Co., 352 U. S. 59, 63–64 (1956) (primary jurisdiction doctrine). See also DaimlerChrysler Corp. v. Cuno, 547
+U. S. 332, 352 (2006) (“The doctrines of mootness, ripeness, and political question all originate in Article III’s
+‘case’ or ‘controversy’ language”); Shapiro 550–557, 580–
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+Opinion of SOTOMAYOR, J.
+
+587 (describing practices of judicial abstention sounding in
+justiciability, comity, forum non conveniens, and separation of powers).
+To be sure, it will be the rare case in which Baker’s final
+factors alone render a case nonjusticiable.2 But our long
+historical tradition recognizes that such exceptional cases
+arise, and due regard for the separation of powers and the
+judicial role envisioned by Article III confirms that abstention may be an appropriate response.
+II
+The court below held that this case presented a political
+question because it thought petitioner’s suit asked the
+court to decide an issue “textually committed” to a coordinate branch—namely, “to review a policy of the State
+Department implementing the President’s decision” to
+keep the United States out of the debate over the status of
+Jersualem. 571 F. 3d 1227, 1231–1232 (CADC 2009).
+Largely for the reasons set out by the Court, I agree that
+the Court of Appeals misapprehended the nature of its
+task. In two respects, however, my understanding of the
+political question doctrine might require a court to engage
+in further analysis beyond that relied upon by the Court.
+First, the Court appropriately recognizes that petitioner’s claim to a statutory right is “relevant” to the justiciability inquiry required in this case. Ante, at 6. In order to
+evaluate whether a case presents a political question, a
+court must first identify with precision the issue it is being
+——————
+2 Often when such factors are implicated in a case presenting a political question, other factors identified in Baker will likewise be apparent.
+See, e.g., Nixon v. United States, 506 U. S. 224, 236 (1993) (“[i]n addition to the textual commitment argument,” finding persuasive that
+“opening the door of judicial review” of impeachment procedures would
+“ ‘expose the political life of the country to months, or perhaps years, of
+chaos’ ”); Baker, 369 U. S., at 222 (explaining that the Court in Luther
+v. Borden, 7 How. 1 (1849), found present features associated with each
+of the three rationales underlying Baker’s factors).
+
+
+8
+
+ZIVOTOFSKY v. CLINTON
+Opinion of SOTOMAYOR, J.
+
+asked to decide. Here, petitioner’s suit claims that a
+federal statute provides him with a right to have “Israel”
+listed as his place of birth on his passport and other related documents. App. 15–18. To decide that question, a
+court must determine whether the statute is constitutional, and therefore mandates the Secretary of State to
+issue petitioner’s desired passport, or unconstitutional, in
+which case his suit is at an end. Resolution of that issue is
+not one “textually committed” to another branch; to the
+contrary, it is committed to this one. In no fashion does the
+question require a court to review the wisdom of the President’s policy toward Jerusalem or any other decision
+committed to the discretion of a coordinate department.
+For that reason, I agree that the decision below should be
+reversed.
+That is not to say, however, that no statute could give
+rise to a political question. It is not impossible to imagine
+a case involving the application or even the constitutionality of an enactment that would present a nonjusticiable
+issue. Indeed, this Court refused to determine whether an
+Ohio state constitutional provision offended the Republican Guarantee Clause, Art. IV, §4, holding that “the
+question of whether that guarantee of the Constitution
+has been disregarded presents no justiciable controversy.”
+Ohio ex rel. Davis v. Hildebrant, 241 U. S. 565, 569 (1916).
+A similar result would follow if Congress passed a statute,
+for instance, purporting to award financial relief to those
+improperly “tried” of impeachment offenses. To adjudicate
+claims under such a statute would require a court to resolve the very same issue we found nonjusticiable in
+Nixon. Such examples are atypical, but they suffice to show
+that the foreclosure altogether of political question analysis in statutory cases is unwarranted.
+Second, the Court suggests that this case does not implicate the political question doctrine’s concern with issues
+exhibiting “ ‘a lack of judicially discoverable and managea-
+
+
+Cite as: 566 U. S. ____ (2012)
+
+9
+
+Opinion of SOTOMAYOR, J.
+
+ble standards,’ ” ante, at 8, because the parties’ arguments
+rely on textual, structural, and historical evidence of the
+kind that courts routinely consider. But that was equally
+true in Nixon, a case in which we found that “the use of
+the word ‘try’ in the first sentence of the Impeachment
+Trial Clause lacks sufficient precision to afford any judicially manageable standard of review of the Senate’s
+actions.” 506 U. S., at 230. We reached that conclusion
+even though the parties’ briefs focused upon the text of the
+Impeachment Trial Clause, “the Constitution’s drafting
+history,” “contemporaneous commentary,” “the unbroken
+practice of the Senate for 150 years,” contemporary dictionary meanings, “Hamilton’s Federalist essays,” and the
+practice in the House of Lords prior to ratification. Such
+evidence was no more or less unfamiliar to courts than
+that on which the parties rely here.
+In my view, it is not whether the evidence upon which
+litigants rely is common to judicial consideration that
+determines whether a case lacks judicially discoverable
+and manageable standards. Rather, it is whether that
+evidence in fact provides a court a basis to adjudicate
+meaningfully the issue with which it is presented. The
+answer will almost always be yes, but if the parties’ textual, structural, and historical evidence is inapposite or
+wholly unilluminating, rendering judicial decision no more
+than guesswork, a case relying on the ordinary kinds of
+arguments offered to courts might well still present justiciability concerns.
+In this case, however, the Court of Appeals majority
+found a political question solely on the basis that this case
+required resolution of an issue “textually committed” to
+the Executive Branch. Because there was no such textual
+commitment, I respectfully concur in the Court’s decision
+to reverse the Court of Appeals.
+
+

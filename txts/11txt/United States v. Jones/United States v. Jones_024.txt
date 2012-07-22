@@ -1,0 +1,39 @@
+4
+
+UNITED STATES v. JONES
+ALITO, J., concurring in judgment
+
+search. In the early electronic surveillance cases, the
+Court concluded that a Fourth Amendment search occurred when private conversations were monitored as a
+result of an “unauthorized physical penetration into the
+premises occupied” by the defendant. Silverman v. United
+States, 365 U. S. 505, 509 (1961). In Silverman, police
+officers listened to conversations in an attached home by
+inserting a “spike mike” through the wall that this house
+shared with the vacant house next door. Id., at 506. This
+procedure was held to be a search because the mike made
+contact with a heating duct on the other side of the wall
+and thus “usurp[ed] . . . an integral part of the premises.”
+Id., at 511.
+By contrast, in cases in which there was no trespass, it
+was held that there was no search. Thus, in Olmstead v.
+United States, 277 U. S. 438 (1928), the Court found that
+the Fourth Amendment did not apply because “[t]he taps
+from house lines were made in the streets near the
+houses.” Id., at 457. Similarly, the Court concluded that no
+search occurred in Goldman v. United States, 316 U. S.
+129, 135 (1942), where a “detectaphone” was placed on the
+outer wall of defendant’s office for the purpose of overhearing conversations held within the room.
+This trespass-based rule was repeatedly criticized. In
+Olmstead, Justice Brandeis wrote that it was “immaterial
+where the physical connection with the telephone wires
+was made.” 277 U. S., at 479 (dissenting opinion). Although a private conversation transmitted by wire did not
+fall within the literal words of the Fourth Amendment, he
+argued, the Amendment should be understood as prohibiting “every unjustifiable intrusion by the government upon
+the privacy of the individual.” Id., at 478. See also, e.g.,
+Silverman, supra, at 513 (Douglas, J., concurring) (“The
+concept of ‘an unauthorized physical penetration into the
+premises,’ on which the present decision rests seems to me
+beside the point. Was not the wrong . . . done when the
+
+

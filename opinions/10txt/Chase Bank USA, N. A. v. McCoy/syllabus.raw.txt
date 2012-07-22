@@ -1,0 +1,124 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+CHASE BANK USA, N. A. v. MCCOY, INDIVIDUALLY AND
+ON BEHALF OF ALL OTHERS SIMILARLY SITUATED
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 09–329.
+
+Argued December 8, 2010—Decided January 24, 2011
+
+Regulation Z—promulgated by the Federal Reserve Board (Board) pur
+suant to its authority under the Truth in Lending Act—requires
+credit card issuers to disclose certain information to cardholders. The
+version of the regulation in effect at the time this dispute arose
+obliges issuers to provide to cardholders an “[i]nitial disclosure
+statement,” 12 CFR §226.6, specifying “each periodic rate that may
+be used to compute the finance charge,” §226.6(a)(2). It also imposes
+“[s]ubsequent disclosure requirements,” §226.9, including notice to
+cardholders “[w]henever any term required to be disclosed under
+§226.6 is changed,” §226.9(c)(1). When “a periodic rate or other fi
+nance charge is increased because of the consumer’s delinquency or
+default,” notice must be given “before the effective date of the
+change.” Ibid.
+At the time respondent McCoy filed suit, he was the holder of a
+credit card issued by petitioner Chase Bank. The cardholder agree
+ment provided, in relevant part, that McCoy was eligible for “Pre
+ferred rates” as long as he met certain conditions. If any of those
+conditions were not met, Chase reserved the right to raise the rate,
+up to a pre-set maximum, and to apply the change to both existing
+and new balances. McCoy alleges that Chase increased his interest
+rate due to his delinquency or default and applied that increase ret
+roactively, and that this action violated Regulation Z because Chase
+did not notify him of the increase until after it had taken effect. The
+District Court dismissed his complaint, holding that because the in
+crease did not constitute a “change in terms” under §226.9(c), Chase
+was not required to notify him of the increase before implementing it.
+The Ninth Circuit reversed in relevant part, holding that Regulation
+
+
+2
+
+CHASE BANK USA, N. A. v. MCCOY
+Syllabus
+Z requires issuers to provide notice of an interest-rate increase prior
+to its effective date.
+
+Held: At the time of the transactions at issue, Regulation Z did not re
+quire Chase to provide McCoy with a change-in-terms notice before
+implementing the agreement term allowing it to raise his interest
+rate, up to a pre-set maximum, following delinquency or default.
+Pp. 7–19.
+(a) This case requires the Court to determine the meaning of a
+regulation promulgated by the Board under its statutory authority.
+However, Regulation Z’s text is unclear with respect to the crucial in
+terpretive question at issue: whether a change to an interest rate,
+pursuant to previously-disclosed contractual provision, constitutes a
+change to a “term required to be disclosed under §226.6” requiring a
+subsequent disclosure under §226.9(c)(1). Because of this ambiguity,
+the Court must look to the Board’s own interpretation of the regula
+tion for guidance in deciding this case. Pp. 7–12.
+(b) The Board has made clear in its amicus brief to this Court that,
+in its view, Chase was not required to give McCoy notice of the inter
+est rate increase under the applicable version of Regulation Z. This
+Court defers to an agency’s interpretation of its own regulation, ad
+vanced in a legal brief, unless that interpretation is “plainly errone
+ous or inconsistent with the regulation.” Auer v. Robbins, 519 U. S.
+452, 461 (internal quotation marks omitted). In Auer, the Court de
+ferred to the Secretary of Labor’s interpretation of his own regula
+tion, presented in an amicus brief submitted by the agency at the
+Court’s invitation. The Court held that the fact that the interpreta
+tion came in a legal brief did not, “in the circumstances of th[at] case,
+make it unworthy of deference.” Id., at 462. The interpretation was
+“in no sense a post hoc rationalization advanced by an agency seeking
+to defend past agency action against attack,” ibid. (internal quotation
+marks and alteration omitted), and there was “no reason to suspect
+that the interpretation [did] not reflect the agency’s fair and consid
+ered judgment on the matter in question,” ibid. The brief submitted
+by the Board here, at the Court’s invitation, is no different. As in
+Auer, there is no reason to believe that the Board’s interpretation is a
+“post hoc rationalization” taken as a litigation position, for the Board
+is not a party to this case. And its interpretation is neither “plainly
+erroneous” nor “inconsistent with” the indeterminate text of Regula
+tion Z. Thus, there is no reason to suspect that the Board’s position
+in its amicus brief reflects anything other than its fair and considered
+judgment as to what the regulation required at the time this dispute
+arose. That Congress and the Board may currently hold a different
+view does not mean that deference is not warranted to the Board’s
+understanding of what the applicable version of Regulation Z re
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+Syllabus
+quired. Under Auer, therefore, it is clear that deference to the inter
+pretation in the agency amicus brief is warranted. Pp. 12–16.
+(c) McCoy errs in arguing that deference to a legal brief is inappro
+priate because the interpretation of Regulation Z in the Official Staff
+Commentary commands a different result. While Commentary
+promulgated by the Board as an interpretation of Regulation Z may
+warrant deference as a general matter, the Commentary explaining
+the requirements at issue in this case largely replicates the ambigu
+ity present in the regulatory text, and therefore offers no reason to
+disregard the interpretation advanced in the Board’s amicus brief.
+Pp. 16–19.
+559 F. 3d 963, reversed and remanded.
+SOTOMAYOR, J., delivered the opinion for a unanimous Court.
+
+

@@ -1,0 +1,40 @@
+16
+
+BILSKI v. KAPPOS
+Opinion of the Court
+
+use of well-known random analysis techniques to help
+establish some of the inputs into the equation. Indeed,
+these claims add even less to the underlying abstract
+principle than the invention in Flook did, for the Flook
+invention was at least directed to the narrower domain of
+signaling dangers in operating a catalytic converter.
+*
+*
+*
+Today, the Court once again declines to impose limita
+tions on the Patent Act that are inconsistent with the Act’s
+text. The patent application here can be rejected under
+our precedents on the unpatentability of abstract ideas.
+The Court, therefore, need not define further what consti
+tutes a patentable “process,” beyond pointing to the defini
+tion of that term provided in §100(b) and looking to the
+guideposts in Benson, Flook, and Diehr.
+And nothing in today’s opinion should be read as endors
+ing interpretations of §101 that the Court of Appeals for
+the Federal Circuit has used in the past. See, e.g., State
+Street, 149 F. 3d, at 1373; AT&T Corp., 172 F. 3d, at 1357.
+It may be that the Court of Appeals thought it needed to
+make the machine-or-transformation test exclusive pre
+cisely because its case law had not adequately identified
+less extreme means of restricting business method pat
+ents, including (but not limited to) application of our
+opinions in Benson, Flook, and Diehr. In disapproving an
+exclusive machine-or-transformation test, we by no means
+foreclose the Federal Circuit’s development of other limit
+ing criteria that further the purposes of the Patent Act
+and are not inconsistent with its text.
+The judgment of the Court of Appeals is affirmed.
+It is so ordered.
+
+

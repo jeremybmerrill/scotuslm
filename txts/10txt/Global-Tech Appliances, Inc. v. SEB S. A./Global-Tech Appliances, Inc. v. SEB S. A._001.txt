@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+GLOBAL-TECH APPLIANCES, INC., ET AL. v. SEB S. A.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FEDERAL CIRCUIT
+No. 10–6. Argued February 23, 2011—Decided May 31, 2011
+After respondent SEB invented an innovative deep fryer, obtained a
+U. S. patent for its design, and began selling its fryer in this country,
+Sunbeam Products, Inc., asked petitioner Pentalpha Enterprises,
+Ltd., a Hong Kong home appliance maker and wholly owned subsidi
+ary of petitioner Global-Tech Appliances, Inc., to supply Sunbeam
+with deep fryers meeting certain specifications. Pentalpha purchased
+an SEB fryer that was made for sale in a foreign market and thus
+lacked U. S. patent markings, copied all but the fryer’s cosmetic fea
+tures, and retained an attorney to conduct a right-to-use study with
+out telling him it had copied directly from SEB’s design. Failing to
+locate SEB’s patent, the attorney issued an opinion letter stating that
+Pentalpha’s deep fryer did not infringe any of the patents that he had
+found. Pentalpha then started selling its fryers to Sunbeam, which
+resold them in this country under its own trademarks at a price that
+undercut SEB’s.
+SEB then sued Sunbeam for patent infringement. Though Sun
+beam notified Pentalpha of the lawsuit, Pentalpha went on to sell its
+fryers to other companies, which resold them in the U. S. market un
+der their respective trademarks. After settling the Sunbeam lawsuit,
+SEB sued Pentalpha, asserting, as relevant here, that it had contra
+vened 35 U. S. C. §271(b) by actively inducing Sunbeam and the
+other purchasers of Pentalpha fryers to sell or offer to sell them in
+violation of SEB’s patent rights. The jury found for SEB on the in
+duced infringement theory, and the District Court entered judgment
+for SEB. Affirming, the Federal Circuit stated that induced in
+fringement under §271(b) requires a showing that the alleged in
+fringer knew or should have known that his actions would induce ac
+tual infringements; declared that this showing includes proof that the
+
+

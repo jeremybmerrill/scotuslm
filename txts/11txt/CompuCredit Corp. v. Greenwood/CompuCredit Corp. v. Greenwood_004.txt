@@ -1,0 +1,34 @@
+2
+
+COMPUCREDIT CORP. v. GREENWOOD
+Opinion of the Court
+
+claims largely involved the defendants’ allegedly misleading representation that the credit card could be used to
+rebuild poor credit and their assessment of multiple fees
+upon opening of the accounts, which greatly reduced the
+advertised credit limit.
+The District Court denied the defendants’ motion to
+compel arbitration of the claims, concluding that “Congress intended claims under the CROA to be nonarbitrable.” 617 F. Supp. 2d 980, 988 (2009). A panel of
+the United States Court of Appeals for the Ninth Circuit
+affirmed, Judge Tashima dissenting. 615 F. 3d 1204
+(2010). We granted certiorari, 563 U. S. ___ (2011).
+II
+The background law governing the issue before us is the
+Federal Arbitration Act (FAA), 9 U. S. C. §1 et seq., enacted in 1925 as a response to judicial hostility to arbitration.
+AT&T Mobility LLC v. Concepcion, 563 U. S. ___, ___
+(2011) (slip op., at 4). As relevant here, the FAA provides:
+“A written provision in any maritime transaction or
+a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter
+arising out of such contract or transaction . . . shall be
+valid, irrevocable, and enforceable, save upon such
+grounds as exist at law or in equity for the revocation
+of any contract.” 9 U. S. C. §2.
+This provision establishes “a liberal federal policy favoring
+arbitration agreements.” Moses H. Cone Memorial Hospital v. Mercury Constr. Corp., 460 U. S. 1, 24 (1983). See
+also, e.g., Concepcion, supra, at __ (slip op., at 4); Gilmer v.
+Interstate/Johnson Lane Corp., 500 U. S. 20, 25 (1991). It
+requires courts to enforce agreements to arbitrate according to their terms. See Dean Witter Reynolds Inc. v. Byrd,
+470 U. S. 213, 221 (1985). That is the case even when
+the claims at issue are federal statutory claims, unless the
+
+

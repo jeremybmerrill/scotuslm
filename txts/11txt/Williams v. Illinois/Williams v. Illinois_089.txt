@@ -1,0 +1,38 @@
+16
+
+WILLIAMS v. ILLINOIS
+KAGAN, J., dissenting
+
+tation Clause is a constitutional rule like any other. As
+JUSTICE THOMAS observes, even before Crawford, we did
+not allow the Clause’s scope to be “dictated by state or
+federal evidentiary rules.” See ante, at 2. Indeed, in
+Street, we independently reviewed whether an out-of-court
+statement was introduced for its truth—the very question
+at issue in this case. See 471 U. S., at 413–416. And in
+Crawford, we still more firmly disconnected the Confrontation Clause inquiry from state evidence law, by overruling an approach that looked in part to whether an outof-court statement fell within a “ ‘firmly rooted hearsay
+exception.’ ” 541 U. S., at 60 (quoting Roberts, 448 U. S., at
+66). That decision made clear that the Confrontation
+Clause’s protections are not coterminous with rules of
+evidence. So the plurality’s state-law-first approach would
+be an about-face.
+Still worse, that approach would allow prosecutors to do
+through subterfuge and indirection what we previously
+have held the Confrontation Clause prohibits. Imagine
+for a moment a poorly trained, incompetent, or dishonest
+laboratory analyst. (The analyst in Bullcoming, placed on
+unpaid leave for unknown reasons, might qualify.) Under
+our precedents, the prosecutor cannot avoid exposing that
+analyst to cross-examination simply by introducing his
+report. See Melendez-Diaz, 557 U. S., at 311. Nor can the
+prosecutor escape that fate by offering the results through
+the testimony of another analyst from the laboratory. See
+Bullcoming, 564 U. S., at ___ (slip op., at 2). But under
+the plurality’s approach, the prosecutor could choose the
+analyst-witness of his dreams (as the judge here said, “the
+best DNA witness I have ever heard”), offer her as an
+expert (she knows nothing about the test, but boasts impressive degrees), and have her provide testimony identical to the best the actual tester might have given (“the
+DNA extracted from the vaginal swabs matched Sandy
+Williams’s”)—all so long as a state evidence rule says that
+
+

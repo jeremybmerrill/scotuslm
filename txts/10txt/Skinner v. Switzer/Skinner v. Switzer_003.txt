@@ -1,0 +1,51 @@
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+Syllabus
+sue a civil rights claim under §1983, and when habeas corpus is the
+prisoner’s sole remedy. The pathmarking decision, Heck v. Hum
+phrey, 512 U. S. 477, concerned a state prisoner who brought a §1983
+action for damages, alleging that he had been unlawfully investi
+gated, arrested, tried, and convicted. This Court held that §1983 was
+not an available remedy because any award in the plaintiff’s favor
+would “necessarily imply” the invalidity of his conviction. See id., at
+487. In contrast, in Wilkinson v. Dotson, 544 U. S. 74, the Court held
+that prisoners who challenged the constitutionality of administrative
+decisions denying them parole eligibility, could proceed under §1983,
+for they sought no “injunction ordering . . . immediate or speedier re
+lease into the community,” id., at 82, and “a favorable judgment
+[would] not ‘necessarily imply’ the invalidity of [their] conviction[s] or
+sentence[s],” ibid. Here, success in Skinner’s suit for DNA testing
+would not “necessarily imply” the invalidity of his conviction. Test
+results might prove exculpatory, but that outcome is hardly inevita
+ble, for those results could also prove inconclusive or incriminating.
+Switzer argues that, although Skinner’s immediate aim is DNA test
+ing, his ultimate aim is to use the test results as a platform for at
+tacking his conviction. But she has found no case in which the Court
+has recognized habeas as the sole remedy where the relief sought
+would not terminate custody, accelerate the date of release, or reduce
+the custody level. Contrary to the fears of Switzer and her amici, in
+the Circuits that currently allow §1983 claims for DNA testing, there
+has been no flood of litigation seeking postconviction discovery of evi
+dence associated with the questions of guilt or punishment. The pro
+jected toll on federal courts is all the more implausible regarding
+DNA testing claims, for Osborne has rejected substantive due process
+as a basis for such claims. More generally, in the Prison Litigation
+Reform Act of 1995, Congress has placed constraints on prisoner suits
+in order to prevent sportive federal-court filings. Nor is there cause
+for concern that the instant ruling will spill over to claims relying on
+Brady v. Maryland, 373 U. S. 83. Brady, which announced a consti
+tutional requirement addressed to the prosecution’s conduct pretrial,
+proscribes withholding evidence “favorable to an accused” and “mate
+rial to [his] guilt or to punishment.” Cone v. Bell, 556 U. S. ___, ___.
+Unlike DNA testing, which may yield exculpatory, incriminating, or
+inconclusive results, a successful Brady claim necessarily yields evi
+dence undermining a conviction: Brady claims therefore rank within
+the traditional core of habeas corpus and outside the province of
+§1983. Pp. 10–14.
+(d) Switzer’s several arguments why Skinner’s complaint should
+fail for lack of merit, unaddressed by the courts below, are ripe for
+consideration on remand. P. 14.
+
+

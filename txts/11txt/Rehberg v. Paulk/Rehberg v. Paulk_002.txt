@@ -1,0 +1,37 @@
+2
+
+REHBERG v. PAULK
+Syllabus
+but the Court’s precedents have not mechanically duplicated the precise scope of the absolute immunity the common law provided to protect those functions. For example, it was common in 1871 for cases to
+be prosecuted by private parties, who did not enjoy absolute immunity from suit. But as the prosecutorial function was increasingly assumed by public officials, common-law courts held that public prosecutors, unlike their private predecessors, were absolutely immune
+from the types of tort claims that an aggrieved or vengeful criminal
+defendant was most likely to assert. This adaptation of prosecutorial
+immunity accommodated the special needs of public, as opposed to
+private, prosecutors. Thus, when the issue of prosecutorial immunity
+under §1983 reached this Court in Imbler v. Pachtman, 424 U. S.
+409, the Court did not simply apply the scope of immunity recognized
+by common-law courts as of 1871 but instead relied substantially on
+post-1871 cases extending broad immunity to public prosecutors sued
+for common-law torts. Neither has the Court suggested that §1983 is
+simply a federalized amalgamation of pre-existing common-law
+claims. The new federal claim created by §1983 differs in important
+ways from pre-existing common-law torts. Accordingly, both the
+scope of the new tort and the scope of the absolute immunity available in §1983 actions differ in some respects from the common law.
+Pp. 3―9.
+(b) A trial witness sued under §1983 enjoys absolute immunity
+from any claim based on his testimony. Briscoe v. LaHue, 460 U. S.
+352. Without absolute immunity, the truth-seeking process would be
+impaired as witnesses might be reluctant to testify, and even a witness who took the stand “might be inclined to shade his testimony in
+favor of the potential plaintiff ” for “fear of subsequent liability.” Id.,
+at 333. These factors apply with equal force to grand jury witnesses.
+In both contexts, a witness’ fear of retaliatory litigation may deprive
+the tribunal of critical evidence. And in neither context is the deterrent of potential civil liability needed to prevent false testimony because other sanctions, chiefly prosecution for perjury, provide a sufficient deterrent.
+For the reasons identified in Briscoe, supra, at 342–344, there is no
+reason to distinguish law enforcement witnesses from lay witnesses
+in §1983 actions. And the rule that a grand jury witness has absolute
+immunity from any §1983 claim based on the witness’ testimony may
+not be circumvented by claiming that a grand jury witness conspired
+to present false testimony, or by using evidence of the witness’ testimony to support any other §1983 claim concerning the initiation or
+maintenance of a prosecution. Were it otherwise, a criminal defendant turned civil plaintiff could reframe a claim to attack the preparatory activity—such as a preliminary discussion in which the witness
+
+

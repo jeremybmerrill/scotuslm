@@ -1,0 +1,360 @@
+Cite as: 565 U. S. ____ (2012)
+
+1
+
+GINSBURG, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–577
+_________________
+
+AKIO KAWASHIMA, ET UX., PETITIONERS v. ERIC H.
+HOLDER, JR., ATTORNEY GENERAL
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[February 21, 2012]
+
+JUSTICE GINSBURG, with whom JUSTICE BREYER and
+JUSTICE KAGAN join, dissenting.
+Petitioner Akio Kawashima was convicted of preparing
+a false corporate tax return in violation of 26 U. S. C.
+§7206(1). His wife, petitioner Fusako Kawashima, was
+convicted under §7206(2) of assisting her husband in
+preparing the false return. The question presented is
+whether a conviction under §7206 is an “aggravated felony” that renders the Kawashimas deportable from the
+United States. See 8 U. S. C. §1227(a)(2)(A)(iii).
+Congress has defined “aggravated felony” to include,
+inter alia, offenses that “(i) involv[e] fraud or deceit in
+which the loss to the victim or victims exceeds $10,000” or
+“(ii) [are] described in section 7201 of title 26 (relating to
+tax evasion) in which the revenue loss to the Government
+exceeds $10,000.” §1101(a)(43)(M). The Kawashimas
+argue that tax offenses triggering deportation are delineated exclusively in §1101(a)(43)(M)(ii) (or Clause (ii)), and
+that §1101(a)(43)(M)(i) (or Clause (i)) does not encompass
+tax crimes. The Court rejects this argument, and holds
+that any tax offense “involv[ing] fraud or deceit,” if the loss
+to the fisc exceeds $10,000, ranks as an “aggravated felony.” See ante, at 11. Because the Kawashimas’ tax offense involved deceit and meets the monetary threshold,
+the Court concludes, they have committed an aggravated
+
+
+2
+
+KAWASHIMA v. HOLDER
+GINSBURG, J., dissenting
+
+felony and are therefore deportable.
+The Court’s construction of the statute is dubious, as
+I see it. For one thing, it effectively renders Clause (ii)
+superfluous. Further, the Court’s reading sweeps a wide
+variety of federal, state, and local tax offenses—including
+misdemeanors—into the “aggravated felony” category. In
+addition, today’s decision may discourage aliens from
+pleading guilty to tax offenses less grave than tax evasion,
+thereby complicating and delaying enforcement of the
+internal revenue laws. I conclude that Clause (i) does not
+address tax offenses, and would therefore hold that making a false statement on a tax return in violation of §7206
+is not an “aggravated felony.”
+I
+Any alien convicted of an “aggravated felony” after
+admission to the United States is deportable. 8 U. S. C.
+§1227(a)(2)(A)(iii).
+Subparagraph (M) of §1101(a)(43)
+includes as an “aggravated felony”:
+“an offense that—
+“(i) involves fraud or deceit in which the loss to the
+victim or victims exceeds $10,000; or
+“(ii) is described in section 7201 of title 26 (relating
+to tax evasion) in which the revenue loss to the Government exceeds $10,000.”
+Notably, Clause (i) speaks of “loss to the victim,” Clause
+(ii) of “revenue loss to the Government.” The Kawashimas
+contend that Clause (i) covers crimes of fraud or deceit
+causing losses unrelated to tax revenue. Tax crimes,
+they argue, are addressed exclusively in Clause (ii), and
+that clause designates only tax evasion proscribed by 26
+U. S. C. §7201 as an “aggravated felony.” Willfully submitting a false statement proscribed by §7206, the
+Kawashimas maintain, is not an “aggravated felony”
+that would render them deportable under 8 U. S. C.
+
+
+Cite as: 565 U. S. ____ (2012)
+
+3
+
+GINSBURG, J., dissenting
+
+§1227(a)(2)(A)(iii).
+The Government contends that Clause (i) covers all
+tax offenses involving fraud or deceit, and that Congress
+included Clause (ii) out of caution, to make certain that
+persons convicted of tax evasion would be subject to deportation. Under the Government’s construction, because the
+crime of making a false statement on a tax return involves
+“fraud” or “deceit,” the Kawashimas committed an aggravated felony. See ante, at 5 (“the words ‘fraud’ and ‘deceit’
+are absent from the text of §7206(1) and are not themselves formal elements of the crime,” nonetheless, “[the]
+elements [of a §7206 crime] necessarily entail fraudulent
+or deceitful conduct”).
+The Court’s task is to determine which reading of
+the statute is correct. If the two proffered constructions of
+subparagraph (M) are plausible in roughly equal measure,
+then our precedent directs us to construe the statute in
+the Kawashimas’ favor. See Fong Haw Tan v. Phelan, 333
+U. S. 6, 10 (1948) (“We resolve the doubts in favor of [the
+alien] because deportation is a drastic measure . . . .”); INS
+v. St. Cyr, 533 U. S. 289, 320 (2001) (same).
+II
+
+A
+
+In interpreting 8 U. S. C. §1101(a)(43)(M), I would rely
+
+upon the familiar canon that statutes should be interpreted to avoid superfluity. See Corley v. United States, 556 
+
+U. S. 303, 314 (2009) (quoting Hibbs v. Winn, 542 U. S. 88,
+101 (2004) (“[O]ne of the most basic interpretive canons” is
+that a “statute should be construed so that effect is given
+to all its provisions, so that no part will be inoperative or
+superfluous, void or insignificant . . . .”)). If Clause (i) is
+construed to apply to tax crimes, then Clause (ii)’s discrete
+inclusion of tax evasion would add nothing, for tax evasion
+is itself an offense that, in all actual instances of which
+the Government is aware, “involves fraud or deceit.” See
+
+
+4
+
+KAWASHIMA v. HOLDER
+GINSBURG, J., dissenting
+
+§1101(a)(43)(M)(i); Tr. of Oral Arg. 30–31.
+The elements of tax evasion are the existence of a tax
+deficiency, willfulness, and “an affirmative act constituting an evasion or attempted evasion of the tax.” Sansone
+v. United States, 380 U. S. 343, 351 (1965). As this Court’s
+decisions indicate, the evasion of taxes involves deceit or
+fraud upon the Government, achieved by concealing a tax
+liability or misleading the Government as to the extent of
+the liability. See, e.g., Spies v. United States, 317 U. S.
+492, 499 (1943) (an act of tax evasion may be “any conduct, the likely effect of which would be to mislead or to
+conceal”). Accordingly, courts have determined that tax
+evasion is a crime of moral turpitude, because it necessarily involves fraud. See, e.g., Carty v. Ashcroft, 395 F. 3d
+1081, 1085, n. 7 (CA9 2005) (fraud is “implicit in the nature of the crime” of tax evasion); Considine v. United
+States, 683 F. 2d 1285, 1287 (CA9 1982) (“The express
+language of section 7201 requires an intent to avoid tax (a
+legitimate synonym for fraud).”); Costello v. INS, 311 F. 2d
+343, 348 (CA2 1962) (“There can be no ‘wilful’ [tax] evasion without a specific intent to defraud.”), rev’d on other
+grounds, 376 U. S. 120 (1964).
+Even more to the point, courts have held that a conviction for tax evasion under 26 U. S. C. §7201 “conclusively
+establishes fraud in a subsequent civil tax fraud proceeding.” Gray v. Commissioner, 708 F. 2d 243, 246 (CA6
+1983); see Klein v. Commissioner, 880 F. 2d 260, 262
+(CA10 1989) (conviction under 7201 “collaterally estops a
+taxpayer from denying fraud [in a] civil tax case involving
+the same years”).1 This preclusive effect obtains, courts
+have explained, because “ ‘willful’ [tax evasion] includes all
+of the elements of fraud.” Tomlinson v. Lefkowitz, 334
+——————
+1 See also, e.g., Blohm v. Commissioner, 994 F. 2d 1542, 1554 (CA11
+1993); Fontneau v. United States, 654 F. 2d 8, 10 (CA1 1981)
+(per curiam); Plunkett v. Commissioner, 465 F. 2d 299, 307 (CA7 1972).
+
+
+Cite as: 565 U. S. ____ (2012)
+
+5
+
+GINSBURG, J., dissenting
+
+F. 2d 262, 265 (CA5 1964); see Gray, 708 F. 2d, at 246
+(“The elements of criminal tax evasion and civil tax fraud
+are identical.”); Moore v. United States, 360 F. 2d 353, 356
+(CA4 1966) (“[W]hile the criminal evasion statute does not
+explicitly require a finding of fraud, the case-by-case process of construction of the civil [fraud] and criminal tax
+provisions has demonstrated that their constituent elements are identical.”).
+Tax offenses span a wide range, from failure to file a tax
+return, 26 U. S. C. §7203, to the unauthorized use of tax
+stamps, §7209. But “the gravest of offenses against the
+revenues,” this Court has said, the “capstone” of tax law
+violations, is tax evasion. Spies, 317 U. S., at 497, 499;
+see Boulware v. United States, 552 U. S. 421, 424 (2008).
+Tellingly, the Kawashimas pleaded guilty to a crime carrying a maximum prison term of three years, §7206; for tax
+evasion, the maximum term is five years, §7201. It is thus
+understandable that Congress would single out tax evasion, as it did in Clause (ii), specifically designating it, and
+no other tax crime, an “aggravated felony” for deportation
+purposes.
+The Court ascribes a different purpose to Clause (ii).
+Tax evasion, made criminal by §7201, the Court states,
+“almost invariably,” but “not necessarily[,] involve[s] fraud
+or deceit.” Ante, at 10. But see supra, at 4 and this page.
+Congress likely included Clause (ii), the Court suggests,
+simply “to remove any doubt that tax evasion qualifies
+as an aggravated felony.” Ante, at 8. In other words, in
+holding that Clause (i) includes tax offenses, the Court
+finds Clause (ii) largely, but not totally, redundant.
+In support of the notion that tax evasion can occur
+without fraud or deceit, the Court cites United States v.
+Scharton, 285 U. S. 518 (1932); see ante, at 9. In that
+long-obsolete case, the Court rejected the Government’s
+plea for the application of an extended limitation period to
+a prosecution for tax evasion. The generally applicable
+
+
+6
+
+KAWASHIMA v. HOLDER
+GINSBURG, J., dissenting
+
+statute of limitations was three years; for tax offenses that
+involve defrauding the United States, however, the limitation period was six years. An averment of intent to defraud, the Court said in Scharton, would be “surplusage,”
+for it would suffice “to plead and prove a wilful attempt to
+evade or defeat.” 285 U. S., at 521.
+Courts had limited Scharton to its statute of limitations context several decades before Congress enacted
+§1101(a)(43)(M) in 1994. See Tseung Chu v. Cornell, 247
+F. 2d 929, 936, n. 6 (CA9 1957) (distinguishing Scharton
+and holding that tax evasion is a crime of moral turpitude
+because it entails fraud); Lefkowitz, 334 F. 2d, at 265
+(distinguishing Scharton and holding that tax evasion
+necessarily involves fraud). Moreover, Congress, since
+1954, has expressly prescribed a six-year limitation period
+for tax evasion. See 26 U. S. C. §6531(2). In short, Scharton is a cryptic, thinly reasoned opinion, one that did not
+influence subsequent federal-court description of the crime
+of tax evasion. The suggestion that Congress may have
+worried about Scharton when framing legislation over 60
+years later is hardly credible.
+The Court presents another reason, drawn from the
+Government’s brief, why Congress may have treated tax
+evasion discretely, while embracing tax crimes generally
+within the Clause (i) category. Section 7201 covers both
+evasion of assessment and evasion of payment. Imagine a
+taxpayer who files a truthful return, then moves her assets to a place “beyond the reach of the Internal Revenue
+Service.” Ante, at 10; see Brief for Respondent 34. The
+Court acknowledges that evasion-of-payment cases almost
+always “involve some affirmative acts of fraud or deceit.”
+Ante, at 10. Still, there may be a rare case in which that is
+not so. Rare, indeed; imaginary would be an apt characterization.
+The Government conceded that, to its
+knowledge, there have been no actual instances of indictments for tax evasion unaccompanied by any act of fraud
+
+
+Cite as: 565 U. S. ____ (2012)
+
+7
+
+GINSBURG, J., dissenting
+
+or deceit. Tr. of Oral Arg. 30–31.
+The canon that statutes should be interpreted to avoid superfluity cannot be skirted as easily as the Government
+here urges. We have declined to interpret legislation in
+a way that “would in practical effect render [a provision]
+entirely superfluous in all but the most unusual circumstances.” TRW Inc. v. Andrews, 534 U. S. 19, 29 (2001). It
+is hardly sufficient for the Government to hypothesize a
+case in which the provision might have some independent
+role. See id., at 30. Where, as here, “the Government
+concede[s] that the independent function one could attribute to the [provision] would [rarely] arise,” a construction
+moored to a case “most unlikely” to exist should be rejected. Id., at 31. It is highly improbable that “a proviso accounting for more than half of [the] text” of
+§1101(a)(43)(M), i.e., Clause (ii), “would lie dormant in all
+but the most unlikely situations.” See 534 U. S., at 31.
+Congress’ aim in drafting §1101(a)(43) was to determine
+which crimes are sufficiently serious to warrant the “drastic measure” of deportation, and which are not. See Fong
+Haw Tan, 333 U. S., at 10. It is implausible that Congress, when drafting §1101(a)(43)(M), intended to address,
+or was even aware of, the Government’s scenario: a taxpayer who files a truthful return, then, to thwart collection of the tax due, moves all her assets offshore. Far
+more likely, Congress did not intend to include tax offenses in §1101(a)(43)(M)(i), but instead drafted that provision
+to address fraudulent schemes against private victims,
+then added §1101(a)(43)(M)(ii) so that the “capstone” tax
+offense against the Government also qualified as an aggravated felony. See supra, at 5.
+B
+The Court’s construction of the statute is even less
+plausible given the numerous offenses it would rank as
+“aggravated felon[ies].” Many federal tax offenses, like 26
+
+
+8
+
+KAWASHIMA v. HOLDER
+GINSBURG, J., dissenting
+
+U. S. C. §7206, involve false statements or misleading
+conduct. See, e.g., §7202 (failing to truthfully account for
+and pay taxes owed). Conviction of any of these offenses,
+if the Court’s construction were correct, would render an
+alien deportable. So would conviction of state and local
+tax offenses involving false statements. Ferreira v. Ashcroft, 390 F. 3d 1091, 1096–1097 (CA9 2004) (state-law
+offenses qualify as offenses involving fraud or deceit under
+8 U. S. C. §1101(a)(43)(M)); see, e.g., Del. Code Ann., Tit.
+30, §574 (2009) (submitting a tax return false as to any
+material matter is a criminal offense); D. C. Code §47–
+4106 (2001–2005) (same); Ala. Code §40–29–114 (2003)
+(same); Va. Code Ann. §58.1–1815 (2009) (willfully failing
+to account truthfully for and pay certain taxes is a criminal offense).
+Rendering all tax offenses involving false statements
+“aggravated felon[ies]” that subject an alien to deportation
+is all the more problematic, for many of these offenses are
+misdemeanors. Among federal misdemeanors, see, e.g., 26
+U. S. C. §7204 (“furnish[ing] a false” W-2 form to an employee); §7205 (“suppl[ying] false or fraudulent information” to an employer); §7207 (filing a return “known . . .
+to be false as to any material matter”). On the state and
+local level, see, e.g., Cal. Rev. & Tax. Code Ann. §1610.4
+(West 1998) (“Every person who wilfully states anything
+which he knows to be false in any oral or written statement, not under oath, required or authorized to be made
+as the basis of an application to reduce any tax or assessment, is guilty of a misdemeanor.”); N. D. Cent. Code Ann.
+§57–37.116 (Lexis 2011) (“Every person who willfully and
+knowingly subscribes or makes any false statement of
+facts [on an estate tax return] . . . is guilty of a class A
+misdemeanor.”); Columbus, Ohio City Code §§361.31(a)(4),
+(b), (d) (2009) (any person who “knowingly make[s]
+and file[s] an incomplete, false or fraudulent [municipal]
+return” is guilty of a fourth-degree misdemeanor).
+
+
+Cite as: 565 U. S. ____ (2012)
+
+9
+
+GINSBURG, J., dissenting
+
+Nor would the $10,000 threshold set in 8 U. S. C.
+§1101(a)(43)(M) prevent deportation for tax crimes far less
+serious than willful tax evasion, for as many as six years
+may be included in the amount-of-loss calculation. See 26
+U. S. C. §6531 (setting a six-year statute of limitations for,
+inter alia, tax crimes involving fraud or falsity); Brief for
+Johnnie M. Walters as Amicus Curiae 15–16 (hereinafter
+Walters Brief).2
+Finally, the Court’s decision has adverse consequences
+for the efficient handling of tax prosecutions. It is often
+easier for the Government to obtain a conviction under
+§7206 (false statements) than under §7201 (tax evasion).
+See United States v. Olgin, 745 F. 2d 263, 272 (CA3 1984)
+(unlike a conviction under §7201, a conviction under §7206
+does not require proof of a tax deficiency); Considine, 683
+F. 2d, at 1287 (unlike a conviction under §7201, a conviction under §7206 does not require proof of an attempt to
+escape a tax). For this reason, the Government has allowed taxpayers to plead guilty to a §7206 charge in lieu of
+going to trial under §7201 on an evasion charge. See
+Walters Brief 19–20. Deportation consequences are important to aliens facing criminal charges. See Padilla v.
+Kentucky, 559 U. S. __, __ (2010) (slip op., at 10)
+(“[P]reserving the client’s right to remain in the United
+States may be more important to the client than any
+potential jail sentence.” (quoting St. Cyr, 533 U. S., at
+322)). If a §7206 charge carries the same prospect of
+deportation as a §7201 charge, then an alien’s incentive to
+plead guilty to any tax offense is significantly reduced.
+
+——————
+2 One might also ask what reason Congress would have for making a
+tax misdemeanor a deportable offense, while more serious crimes do not
+jeopardize an alien’s residency in the United States. See, e.g., Leocal v.
+Ashcroft, 543 U. S. 1, 11–12 (2004) (driving while drunk, causing
+serious bodily injury to others is not an aggravated felony).
+
+
+10
+
+KAWASHIMA v. HOLDER
+GINSBURG, J., dissenting
+
+*
+*
+*
+For the reasons stated, I would hold that making a
+material, false statement on a tax return does not qualify
+as an aggravated felony within the compass of 8 U. S. C.
+§1101(a)(43)(M)(i). I would therefore reverse the judgment of the Court of Appeals for the Ninth Circuit.
+
+

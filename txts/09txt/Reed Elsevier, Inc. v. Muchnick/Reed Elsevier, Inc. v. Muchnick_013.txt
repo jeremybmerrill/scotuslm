@@ -1,0 +1,46 @@
+10
+
+REED ELSEVIER, INC. v. MUCHNICK
+Opinion of the Court
+
+Nor does any other factor suggest that 17 U. S. C. A.
+§411(a)’s registration requirement can be read to “ ‘speak
+in jurisdictional terms or refer in any way to the jurisdic
+tion of the district courts.’ ” Arbaugh, 546 U. S., at 515
+(quoting Zipes, 455 U. S., at 394). First, and most signifi
+cantly, §411(a) expressly allows courts to adjudicate in
+fringement claims involving unregistered works in three
+circumstances: where the work is not a U. S. work, where
+the infringement claim concerns rights of attribution and
+integrity under §106A, or where the holder attempted to
+register the work and registration was refused. Sepa
+rately, §411(c) permits courts to adjudicate infringement
+actions over certain kinds of unregistered works where the
+author “declare[s] an intention to secure copyright in the
+work” and “makes registration for the work, if required by
+subsection (a), within three months after [the work’s] first
+transmission.” 17 U. S. C. §§411(c)(1)–(2). It would be at
+least unusual to ascribe jurisdictional significance to a
+condition subject to these sorts of exceptions.5
+That the numerosity requirement in Arbaugh could be
+considered an element of a Title VII claim, rather than a
+prerequisite to initiating a lawsuit, does not change this
+conclusion, as our decision in Zipes demonstrates. Zipes
+(upon which Arbaugh relied) held that Title VII’s require
+ment that sex-discrimination claimants timely file a dis
+crimination charge with the EEOC before filing a civil
+action in federal court was nonjurisdictional. See 455
+U. S., at 393; 42 U. S. C. §2000e–5(f)(1) (establishing
+——————
+5 Cf.
+
+Zipes, 455 U. S., at 393–394, 397 (relying on the fact that Con
+gress had “approved” at least some cases awarding Title VII relief to
+claimants who had not complied with the statute’s Equal Employment
+Opportunity Commission (EEOC) filing requirement in holding that the
+filing requirement was not a jurisdictional prerequisite to suit); United
+States v. Cotton, 535 U. S. 625, 630 (2002) (“[J]urisdiction” properly
+refers to a court’s power to hear a case, a matter that “can never be
+forfeited or waived”).
+
+

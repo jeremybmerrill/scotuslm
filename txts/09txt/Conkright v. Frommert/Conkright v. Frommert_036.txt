@@ -1,0 +1,44 @@
+18
+
+CONKRIGHT v. FROMMERT
+B to the opinion of BREYER, J.
+AppendixREYER, J., dissenting
+
+APPENDIX
+
+The “Phantom Account” 
+
+This Appendix provides a simplified and illustrative
+example of, as I understand it, how the “phantom account”
+works. For the purposes of this Appendix, I make the
+following assumptions: John worked at Xerox for 10 years
+from 1970 to 1980. At the time of his departure from
+Xerox, he was issued a lump-sum benefits distribution of
+$140,000. He was then rehired in January 1989, and he
+worked for Xerox for 5 more years before retiring (until
+December 1993), earning $50,000 each year of his second
+term of employment. I also assume that (1) Xerox’s con­
+tribution to John’s investment account was $2,500 in 1989
+(the last year such accounts were offered), (2) Xerox’s
+contributions to John’s cash and investment accounts are
+always made on the final day of the year, (3) the rate of
+return in John’s cash and investment accounts is always 5
+percent, and (4) annuity rates are also always 5 percent.
+(For the sake of simplicity, I treat all annuities as perpe­
+tuities, meaning that I calculate the present value of the
+annuities thusly: Present Value = Annual Pay­
+ment/Annuity Rate.)
+Given the above assumptions, John’s pension upon his
+retirement would be $10,500 per year ($50,000 × 1.4 per­
+cent × 15 years), which has a present value of $210,000
+($10,500/5 percent). John’s cash and investment accounts
+at the end of his fifth year would look as follows (While
+Xerox’s ERISA Plan did not include cash accounts until
+1990, each employee’s opening cash account balance was
+credited with the balance of his investment account at the
+end of 1989. The figures for John’s cash account in 1989
+thus reflect the performance of his investment account. In
+addition, all numbers are rounded to the nearest hun­
+dred):
+
+

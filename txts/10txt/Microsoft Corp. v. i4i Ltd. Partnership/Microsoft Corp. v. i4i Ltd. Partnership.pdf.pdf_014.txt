@@ -1,0 +1,44 @@
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+Opinion of the Court
+
+tion of patent validity. RCA simply said, without qualifi
+cation, “that one otherwise an infringer who assails the
+validity of a patent fair upon its face bears a heavy burden
+of persuasion, and fails unless his evidence has more than
+a dubious preponderance.” 293 U. S., at 8; see also id., at
+7 (“A patent regularly issued, and even more obviously
+a patent issued after a hearing of all the rival claimants,
+is presumed to be valid until the presumption has been
+overcome by convincing evidence of error” (emphasis
+added)). Nor do they appear in any of our cases as express
+limitations on the application of the heightened standard
+of proof. Cf., e.g., Smith v. Hall, 301 U. S. 216, 233 (1937)
+(citing RCA for the proposition that a “heavy burden of
+persuasion . . . rests upon one who seeks to negative nov
+elty in a patent by showing prior use”); Mumm v. Jacob E.
+Decker & Sons, 301 U. S. 168, 171 (1937) (“Not only is the
+burden to make good this defense upon the party setting it
+up, but his burden is a heavy one, as it has been held that
+every reasonable doubt should be resolved against him”
+(internal quotation marks omitted)). In fact, Microsoft
+itself admits that our cases “could be read as announcing a
+heightened standard applicable to all invalidity asser
+tions.” Brief for Petitioner 30 (emphasis deleted).
+Furthermore, we cannot agree that Microsoft’s proposed
+limitations are inherent—even if unexpressed—in our
+pre-1952 cases. As early as 1874 we explained that the
+burden of proving prior inventorship “rests upon [the de
+fendant], and every reasonable doubt should be resolved
+against him,” without tying that rule to the vagaries and
+manipulability of oral testimony. Coffin v. Ogden, 18
+Wall. 120, 124 (1874). And, more than 60 years later, we
+applied that rule where the evidence in support of a prior
+use defense included documentary proof—not just oral
+testimony—in a case presenting no priority issues at all.
+See Smith, 301 U. S., at 221, 233. Thus, even if Congress
+searched for some unstated limitations on the heightened
+
+

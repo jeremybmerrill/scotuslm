@@ -1,0 +1,47 @@
+18
+
+FAA v. COOPER
+Opinion of the Court
+
+D
+Finally, respondent argues that excluding damages for
+mental and emotional harm would lead to absurd results.
+Persons suffering relatively minor pecuniary loss would
+be entitled to recover $1,000, while others suffering only
+severe and debilitating mental or emotional distress would
+get nothing. See Brief for Respondent 33–35.
+Contrary to respondent’s suggestion, however, there is
+nothing absurd about a scheme that limits the Govern­
+ment’s Privacy Act liability to harm that can be substanti­
+ated by proof of tangible economic loss. Respondent in­
+sists that such a scheme would frustrate the Privacy Act’s
+remedial purpose, but that ignores the fact that, by delib­
+erately refusing to authorize general damages, Congress
+intended to cabin relief, not to maximize it.12
+——————
+12 Despite its rhetoric, the dissent does not dispute most of the steps
+in our analysis. For example, although the dissent belittles the sover­
+eign immunity canon, the dissent does not call for its abandonment.
+See post, at 2–3. Nor does the dissent point out any error in our under­
+standing of the canon’s meaning. See ibid. The dissent acknowledges
+that statutes and judicial opinions sometimes use the term “actual
+damages” to mean pecuniary harm, see post, at 5, and that determining
+its meaning in a particular statute requires consideration of context,
+see ibid. In addition, the dissent concedes—as it must in light of our
+reasoning in Doe v. Chao, 540 U. S. 614 (2004)—that the common law
+of defamation has relevance in construing the term “actual damages” in
+the Privacy Act. See post, at 7–9.
+The dissent’s argument thus boils down to this: The text and purpose
+of the Privacy Act make it clear beyond any reasonable dispute that the
+term “actual damages,” as used in the Act, means compensatory dam­
+ages for all proven harm and not just damages for pecuniary harm.
+The dissent reasons that, because the Act seeks to prevent pecuniary
+and nonpecuniary harm, Congress must have intended to authorize the
+recovery of money damages from the Federal Government for both
+types of harm. This inference is plausible, but it surely is not unavoid­
+able. The Act deters violations of its substantive provisions in other
+ways—for instance, by permitting recovery for economic injury; by
+imposing criminal sanctions for some violations, see 5 U. S. C. §552a(i);
+and possibly by allowing for injunctive relief under the Administrative
+
+

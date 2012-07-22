@@ -1,0 +1,178 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+SCALIA, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–444
+_________________
+
+MISSOURI, PETITIONER v. GALIN E. FRYE
+ON WRIT OF CERTIORARI TO THE COURT OF APPEALS OF 
+
+MISSOURI, WESTERN DISTRICT
+
+[March 21, 2012]
+
+JUSTICE SCALIA, with whom THE CHIEF JUSTICE,
+JUSTICE THOMAS, and JUSTICE ALITO join, dissenting.
+This is a companion case to Lafler v. Cooper, post, p. ___.
+The principal difference between the cases is that the
+fairness of the defendant’s conviction in Lafler was established by a full trial and jury verdict, whereas Frye’s
+conviction here was established by his own admission of
+guilt, received by the court after the usual colloquy that
+assured it was voluntary and truthful. In Lafler all that
+could be said (and as I discuss there it was quite enough)
+is that the fairness of the conviction was clear, though a
+unanimous jury finding beyond a reasonable doubt can
+sometimes be wrong. Here it can be said not only that the
+process was fair, but that the defendant acknowledged the
+correctness of his conviction. Thus, as far as the reasons
+for my dissent are concerned, this is an a fortiori case. I
+will not repeat here the constitutional points that I discuss
+at length in Lafler, but I will briefly apply those points to
+the facts here and comment upon a few statements in the
+Court’s analysis.
+*
+*
+*
+Galin Frye’s attorney failed to inform him about a plea
+offer, and Frye ultimately pleaded guilty without the
+benefit of a deal. Counsel’s mistake did not deprive Frye
+of any substantive or procedural right; only of the oppor-
+
+
+2
+
+MISSOURI v. FRYE
+SCALIA, J., dissenting
+
+tunity to accept a plea bargain to which he had no entitlement in the first place. So little entitlement that, had
+he known of and accepted the bargain, the prosecution
+would have been able to withdraw it right up to the point
+that his guilty plea pursuant to the bargain was accepted.
+See 311 S. W. 3d 350, 359, and n. 4 (Mo. App. 2010).
+The Court acknowledges, moreover, that Frye’s conviction was untainted by attorney error: “[T]he guilty plea
+that was accepted, and the plea proceedings concerning it
+in court, were all based on accurate advice and information from counsel.” Ante, at 5. Given the “ultimate
+focus” of our ineffective-assistance cases on “the fundamental fairness of the proceeding whose result is being
+challenged,” Strickland v. Washington, 466 U. S. 668, 696
+(1984), that should be the end of the matter. Instead,
+here, as in Lafler, the Court mechanically applies an
+outcome-based test for prejudice, and mistakes the possibility of a different result for constitutional injustice. As
+I explain in Lafler, post, p. ___ (dissenting opinion), that
+approach is contrary to our precedents on the right to
+effective counsel, and for good reason.
+The Court announces its holding that “as a general rule,
+defense counsel has the duty to communicate formal offers
+from the prosecution” as though that resolves a disputed
+point; in reality, however, neither the State nor the Solicitor General argued that counsel’s performance here was
+adequate. Ante, at 9. The only issue was whether the inadequacy deprived Frye of his constitutional right to a
+fair trial. In other cases, however, it will not be so clear
+that counsel’s plea-bargaining skills, which must now
+meet a constitutional minimum, are adequate. “[H]ow to
+define the duty and responsibilities of defense counsel in
+the plea bargain process,” the Court acknowledges, “is a
+difficult question,” since “[b]argaining is, by its nature,
+defined to a substantial degree by personal style.” Ante, at
+8. Indeed. What if an attorney’s “personal style” is to
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+SCALIA, J., dissenting
+
+establish a reputation as a hard bargainer by, for example,
+advising clients to proceed to trial rather than accept
+anything but the most favorable plea offers? It seems
+inconceivable that a lawyer could compromise his client’s
+constitutional rights so that he can secure better deals for
+other clients in the future; does a hard-bargaining “personal style” now violate the Sixth Amendment? The Court
+ignores such difficulties, however, since “[t]his case presents neither the necessity nor the occasion to define the
+duties of defense counsel in those respects.” Ante, at 8.
+Perhaps not. But it does present the necessity of confronting the serious difficulties that will be created by constitutionalization of the plea-bargaining process. It will not do
+simply to announce that they will be solved in the sweet
+by-and-by.
+While the inadequacy of counsel’s performance in this
+case is clear enough, whether it was prejudicial (in the
+sense that the Court’s new version of Strickland requires)
+is not. The Court’s description of how that question is
+to be answered on remand is alone enough to show how
+unwise it is to constitutionalize the plea-bargaining process. Prejudice is to be determined, the Court tells us, by
+a process of retrospective crystal-ball gazing posing as
+legal analysis. First of all, of course, we must estimate
+whether the defendant would have accepted the earlier
+plea bargain. Here that seems an easy question, but as
+the Court acknowledges, ante, at 14, it will not always be.
+Next, since Missouri, like other States, permits accepted
+plea offers to be withdrawn by the prosecution (a reality
+which alone should suffice, one would think, to demonstrate that Frye had no entitlement to the plea bargain),
+we must estimate whether the prosecution would have
+withdrawn the plea offer. And finally, we must estimate
+whether the trial court would have approved the plea
+agreement. These last two estimations may seem easy in
+the present case, since Frye committed a new infraction
+
+
+4
+
+MISSOURI v. FRYE
+SCALIA, J., dissenting
+
+before the hearing at which the agreement would have
+been presented; but they assuredly will not be easy in the
+mine run of cases.
+The Court says “[i]t can be assumed that in most jurisdictions prosecutors and judges are familiar with the
+boundaries of acceptable plea bargains and sentences.”
+Ante, at 13. Assuredly it can, just as it can be assumed
+that the sun rises in the west; but I know of no basis for
+the assumption. Virtually no cases deal with the standards for a prosecutor’s withdrawal from a plea agreement
+beyond stating the general rule that a prosecutor may
+withdraw any time prior to, but not after, the entry of a
+guilty plea or other action constituting detrimental reliance on the defendant’s part. See, e.g., United States v.
+Kuchinski, 469 F. 3d 853, 857–858 (CA9 2006). And cases
+addressing trial courts’ authority to accept or reject plea
+agreements almost universally observe that a trial court
+enjoys broad discretion in this regard. See, e.g., Missouri
+v. Banks, 135 S. W. 3d 497, 500 (Mo. App. 2004) (trial
+court abuses its discretion in rejecting a plea only if the
+decision “is so arbitrary and unreasonable that it shocks
+the sense of justice and indicates a lack of careful consideration” (internal quotation marks omitted)). Of course
+after today’s opinions there will be cases galore, so the
+Court’s assumption would better be cast as an optimistic
+prediction of the certainty that will emerge, many years
+hence, from our newly created constitutional field of pleabargaining law. Whatever the “boundaries” ultimately
+devised (if that were possible), a vast amount of discretion
+will still remain, and it is extraordinary to make a defendant’s constitutional rights depend upon a series of retrospective mind-readings as to how that discretion, in
+prosecutors and trial judges, would have been exercised.
+The plea-bargaining process is a subject worthy of regulation, since it is the means by which most criminal convictions are obtained. It happens not to be, however, a
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+SCALIA, J., dissenting
+
+subject covered by the Sixth Amendment, which is concerned not with the fairness of bargaining but with the
+fairness of conviction. “The Constitution . . . is not an allpurpose tool for judicial construction of a perfect world;
+and when we ignore its text in order to make it that, we
+often find ourselves swinging a sledge where a tack hammer is needed.” Padilla v. Kentucky, 559 U. S. ___, ___
+(2010) (SCALIA, J., dissenting) (slip op., at 1). In this case
+and its companion, the Court’s sledge may require the
+reversal of perfectly valid, eminently just, convictions. A
+legislature could solve the problems presented by these
+cases in a much more precise and efficient manner. It
+might begin, for example, by penalizing the attorneys
+who made such grievous errors. That type of subconstitutional remedy is not available to the Court, which
+is limited to penalizing (almost) everyone else by reversing
+valid convictions or sentences. Because that result is
+inconsistent with the Sixth Amendment and decades of
+our precedent, I respectfully dissent.
+
+

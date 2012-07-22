@@ -1,0 +1,50 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2010
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+SKINNER v. SWITZER, DISTRICT ATTORNEY FOR
+31ST JUDICIAL DISTRICT OF TEXAS
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FIFTH CIRCUIT
+No. 09–9000. Argued October 13, 2010—Decided March 7, 2011
+District Attorney’s Office for Third Judicial Dist. v. Osborne, 557 U. S.
+___, ___, left unresolved the question whether a convicted state pris
+oner seeking DNA testing of crime-scene evidence may assert that
+claim in a civil rights action under 42 U. S. C. §1983 or may assert
+the claim in federal court only in a petition for a writ of habeas cor
+pus under 28 U. S. C. §2254.
+A Texas jury convicted petitioner Skinner and sentenced him to
+death for murdering his girlfriend and her sons. He claimed that a
+potent alcohol and drug mix rendered him physically unable to com
+mit the brutal murders, and he identified his girlfriend’s uncle as the
+likely perpetrator. In preparation for trial, the State tested some of
+the physical evidence, but left untested several items, including
+knives found on the premises, an axe handle, vaginal swabs, finger
+nail clippings, and certain hair samples. More than six years later,
+Texas enacted Article 64, which allows prisoners to gain postconvic
+tion DNA testing in limited circumstances. Invoking Article 64,
+Skinner twice moved in state court for DNA testing of the untested
+biological evidence. Both motions were denied. The Texas Court of
+Criminal Appeals (CCA) affirmed the first denial of relief on the
+ground that Skinner had not shown, as required by Article
+64.03(a)(2), that he “would not have been convicted if exculpatory re
+sults had been obtained through DNA testing.” The CCA affirmed
+the second denial of relief on the ground that Skinner had not shown,
+as required by Article 64.01(b)(1)(B), that the evidence was not previ
+ously tested “through no fault” on his part.
+Skinner next filed the instant federal action for injunctive relief
+under §1983, naming as defendant respondent Switzer, the District
+
+

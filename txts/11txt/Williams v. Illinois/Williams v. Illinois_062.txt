@@ -1,0 +1,39 @@
+Cite as: 567 U. S. ____ (2012)
+
+5
+
+THOMAS, J., concurring in judgment
+
+verse of facts upon which an expert could rely was expanded to include facts of the case that the expert learned
+out of court by means other than his own perception. 1
+Broun §14, at 87; Kaye §4.6, at 157. It is the expert’s
+disclosure of those facts that raises Confrontation Clause
+concerns.2
+B
+Those concerns are fully applicable in this case. Lambatos opined that petitioner’s DNA profile matched the male
+profile derived from L. J.’s vaginal swabs. In reaching
+that conclusion, Lambatos relied on Cellmark’s out-ofcourt statements that the profile it reported was in fact
+derived from L. J.’s swabs, rather than from some other
+source. Thus, the validity of Lambatos’ opinion ultimately
+turned on the truth of Cellmark’s statements. The plurality’s assertion that Cellmark’s statements were merely
+relayed to explain “the assumptions on which [Lambatos’]
+opinion rest[ed],” ante, at 3, overlooks that the value of
+Lambatos’ testimony depended on the truth of those very
+assumptions.3
+——————
+2 In its discussion of history, the plurality relies on Beckwith v.
+Sydebotham, 1 Camp. 116, 170 Eng. Rep. 897 (K. B. 1807). In that
+case, experts were asked to render opinions on a ship’s seaworthiness
+based on facts read into court from the sworn ex parte deposition of a
+witness who purported to have seen the ship’s deficiencies. To be sure,
+Beckwith involved expert reliance on testimonial hearsay. But Beckwith was an English case decided after the ratification of the Confrontation Clause, and this form of expert testimony does not appear to
+have been a common feature of early American evidentiary practice.
+See 29 Wright §6271, at 300–301; 1 Broun §14, at 86–87; Kaye §4.6, at
+156–157.
+3 Cellmark’s statements were not introduced for the nonhearsay purpose of showing their effect on Lambatos—i.e., to explain what prompted
+her to search the DNA database for a match. See, e.g., 30B M. Graham,
+Federal Practice and Procedure §7034.1, pp. 521–529 (interim ed. 2011)
+(noting that out-of-court statements introduced for their effect on
+listener do not implicate the Confrontation Clause). The statements
+
+

@@ -1,0 +1,47 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+SCALIA, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–5327
+_________________
+
+ALBERT HOLLAND, PETITIONER v. FLORIDA
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+[June 14, 2010] 
+
+
+JUSTICE SCALIA, with whom JUSTICE THOMAS joins as to
+all but Part I, dissenting.
+The Antiterrorism and Effective Death Penalty Act of
+1996 (AEDPA), establishes a 1-year limitations period for
+state prisoners to seek federal habeas relief, subject to
+several specific exceptions. 28 U. S. C. §2244(d). The
+Court concludes that this time limit is also subject to
+equitable tolling, even for attorney errors that are ordinar
+ily attributable to the client. And it rejects the Court of
+Appeals’ conclusion that Albert Holland is not entitled to
+tolling, without explaining why the test that court applied
+was wrong or what rule it should have applied instead. In
+my view §2244(d) leaves no room for equitable exceptions,
+and Holland could not qualify even if it did.
+I
+The Court is correct, ante, at 13, that we ordinarily
+presume federal limitations periods are subject to equita
+ble tolling unless tolling would be inconsistent with the
+statute. Young v. United States, 535 U. S. 43, 49 (2002).
+That is especially true of limitations provisions applicable
+to actions that are traditionally governed by equitable
+principles—a category that includes habeas proceedings.
+See id., at 50. If §2244(d) merely created a limitations
+period for federal habeas applicants, I agree that applying
+equitable tolling would be appropriate.
+
+

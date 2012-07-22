@@ -1,0 +1,693 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1569
+_________________
+
+UNITED STATES, PETITIONER v. MARTIN O’BRIEN 
+
+AND ARTHUR BURGESS 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FIRST CIRCUIT
+
+[May 24, 2010] 
+
+
+JUSTICE KENNEDY delivered the opinion of the Court.
+The Court must interpret, once again, §924(c) of Title 18
+of the United States Code. This provision prohibits the
+use or carrying of a firearm in relation to a crime of vio
+lence or drug trafficking crime, or the possession of a
+firearm in furtherance of such crimes. §924(c)(1)(A). A
+violation of the statute carries a mandatory minimum
+term of five years’ imprisonment, §924(c)(1)(A)(i); but if
+the firearm is a machinegun, the statute requires a 30
+year mandatory minimum sentence, §924(c)(1)(B)(ii).
+Whether a firearm was used, carried, or possessed is, as
+all concede, an element of the offense. At issue here is
+whether the fact that the firearm was a machinegun is an
+element to be proved to the jury beyond a reasonable
+doubt or a sentencing factor to be proved to the judge at
+sentencing.
+In an earlier case the Court determined that an analo
+gous machinegun provision in a previous version of §924
+constituted an element of an offense to be proved to the
+jury. Castillo v. United States, 530 U. S. 120 (2000). The
+Castillo decision, however, addressed the statute as it
+
+
+2
+
+UNITED STATES v. O’BRIEN
+Opinion of the Court
+
+existed before congressional amendments made in 1998.
+And in a case after Castillo, the brandishing provision in
+the post-1998 version of §924 was held to provide a sen
+tencing factor, not an element of the offense. Harris v.
+United States, 536 U. S. 545 (2002). In light of the 1998
+amendments and the Harris decision, the question of how
+to interpret §924’s machinegun provision is considered
+once more in the instant case.
+I
+On June 16, 2005, respondents Martin O’Brien and
+Arthur Burgess attempted to rob an armored car making a
+scheduled delivery of cash to a bank. Along with a third
+collaborator, respondents hid in a minivan and waited for
+the armored car to make its stop. Each of the men carried
+a firearm. Containing nearly $2 million and attended by
+two guards, the armored car arrived. A guard began to
+unload boxes of coins. The three men came out of the van
+and, while one of them brandished his weapon, they or
+dered the guards to get on the ground. One guard did so,
+but the other ran to a nearby restaurant. The respondents
+abandoned the robbery and fled without taking any
+money. No shots were fired, and no one was injured.
+Authorities apprehended respondents and recovered the
+three firearms used during the attempted robbery. The
+firearms were a semiautomatic Sig-Sauer pistol, an
+AK−47 semiautomatic rifle, and a Cobray pistol. The
+Cobray pistol had been manufactured as, and had the
+external appearance of, a semiautomatic firearm. Accord
+ing to the Federal Bureau of Investigation, though, it
+operated as a fully automatic weapon, apparently due to
+some alteration of its original firing mechanism. Respon
+dents dispute whether the Cobray in fact did operate as a
+fully automatic weapon.
+Respondents were indicted on multiple counts. Rele
+vant here are counts three and four, both of which charged
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+offenses under §924(c). Count three charged respondents
+with using a firearm in furtherance of a crime of violence,
+which carries a statutory minimum of five years’ impris
+onment. Count four charged respondents in more specific
+terms, alleging use of a machinegun (the Cobray) in fur
+therance of a crime of violence, as proscribed by
+§§924(c)(1)(A) and (B)(ii). The latter provision mandates a
+minimum sentence of 30 years’ imprisonment.
+The Government moved to dismiss count four on the
+basis that it would be unable to establish the count beyond
+a reasonable doubt. (The issues in the present case do not
+require the Court to consider any contention that a defen
+dant who uses, carries, or possesses a firearm must be
+aware of the weapon’s characteristics. This opinion ex
+presses no views on the point.)
+The Government then maintained that the machinegun
+provision in §924(c)(1)(B)(ii) was a sentencing factor, so
+that, if respondents were convicted of carrying a firearm
+under count three, the court could determine at sentencing
+that the particular firearm was a machinegun, thus acti
+vating the 30-year mandatory minimum. The District
+Court dismissed count four, as the Government requested,
+but rejected the Government’s position that the machine
+gun provision was a sentencing enhancement to be deter
+mined by the court at sentencing once there was a convic
+tion on count three. It ruled that the machinegun
+provision states an element of a crime. Thus, to invoke
+the 30-year minimum sentence, the Government was
+required to charge in the indictment, and then prove to
+the jury, that the Cobray was a machinegun.
+At this point, after the District Court foreclosed the
+possibility of respondents’ facing a 30-year minimum,
+respondents pleaded guilty to the remaining counts, in
+cluding count three. The
+District
+Court
+sentenced
+O’Brien to a 102-month term for his §924(c) conviction, to
+run consecutively with his sentence on two other counts.
+
+
+4
+
+UNITED STATES v. O’BRIEN
+Opinion of the Court
+
+It sentenced Burgess to an 84-month term for his §924(c)
+conviction, also to run consecutively to his sentence on the
+other charges. The Government appealed the District
+Court’s ruling that the §924 machinegun provision consti
+tutes an element of an offense instead of a sentencing
+factor.
+The United States Court of Appeals for the First Circuit
+affirmed. It looked primarily to Castillo, 530 U. S. 120,
+which held that the machinegun provision in an earlier
+version of §924(c) constituted an element of an offense, not
+a sentencing factor. The court noted that the statute
+under consideration in Castillo had been revised by Con
+gress, “break[ing] what was a single run-on sentence into
+subparagraphs,” and it acknowledged that the earlier
+repealed version of the statute was “slightly more favor
+able to the [respondents] than the current version[,] but
+not markedly so.” 542 F. 3d 921, 925 (2008). It found “no
+evidence that the breaking up of the sentence into the
+present subdivisions or recasting of language was any
+thing more than a current trend—probably for ease of
+reading—to convert lengthy sentences in criminal statutes
+into subsections in the fashion of the tax code.” Id., at
+926. The court concluded: “Absent a clearer or more dra
+matic change in language or legislative history expressing
+a specific intent to assign judge or jury functions, we think
+that Castillo is close to binding,” and any reconsideration
+of the issue should be left to this Court. Ibid.; see also
+Rodriguez de Quijas v. Shearson/American Express, Inc.,
+490 U. S. 477, 484 (1989) (“If a precedent of this Court has
+direct application in a case, yet appears to rest on reasons
+rejected in some other line of decisions, the Court of Ap
+peals should follow the case which directly controls, leav
+ing to this Court the prerogative of overruling its own
+decisions”).
+We granted certiorari. 557 U. S. ___ (2009).
+
+
+Cite as: 560 U. S. ____ (2010) 
+
+
+5
+
+Opinion of the Court 
+
+
+II 
+
+Elements of a crime must be charged in an indictment
+and proved to a jury beyond a reasonable doubt. Hamling
+v. United States, 418 U. S. 87, 117 (1974); Jones v. United
+States, 526 U. S. 227, 232 (1999). Sentencing factors, on
+the other hand, can be proved to a judge at sentencing by
+a preponderance of the evidence. See McMillan v. Penn
+sylvania, 477 U. S. 79, 91−92 (1986). Though one excep
+tion has been established, see Almendarez-Torres v.
+United States, 523 U. S. 224, 228 (1998), “ ‘[i]t is unconsti
+tutional for a legislature to remove from the jury the
+assessment of facts that increase the prescribed range of
+penalties to which a criminal defendant is exposed.’ ”
+Apprendi v. New Jersey, 530 U. S. 466, 490 (2000) (quoting
+Jones, supra, at 252−253 (STEVENS, J., concurring)). In
+other words, while sentencing factors may guide or confine
+a judge’s discretion in sentencing an offender “within the
+range prescribed by statute,” Apprendi, supra, at 481,
+judge-found sentencing factors cannot increase the maxi
+mum sentence a defendant might otherwise receive based
+purely on the facts found by the jury.
+Subject to this constitutional constraint, whether a
+given fact is an element of the crime itself or a sentencing
+factor is a question for Congress. When Congress is not
+explicit, as is often the case because it seldom directly
+addresses the distinction between sentencing factors and
+elements, courts look to the provisions and the framework
+of the statute to determine whether a fact is an element or
+a sentencing factor. Almendarez-Torres, supra, at 228. In
+examining whether the machinegun provision in §924 is
+an element or a sentencing factor, the analysis must begin
+with this Court’s previous examination of the question in
+Castillo.
+In Castillo, the Court considered a prior version of §924,
+which provided:
+
+
+6
+
+UNITED STATES v. O’BRIEN
+Opinion of the Court
+
+“(c)(1) Whoever, during and in relation to any crime
+of violence or drug trafficking crime . . . , uses or car
+ries a firearm, shall, in addition to the punishment
+provided for such crime of violence or drug trafficking
+crime, be sentenced to imprisonment for five years,
+and if the firearm is a short-barreled rifle [or a] short
+barreled shotgun to imprisonment for ten years, and if
+the firearm is a machinegun, or a destructive device,
+or is equipped with a firearm silencer or firearm muf
+fler, to imprisonment for thirty years. . . .” 18 U. S. C.
+§924(c)(1) (1988 ed., Supp. V).
+In determining whether the machinegun provision in the
+just-quoted version of §924 constituted an element or a
+sentencing factor, the Court in Castillo observed that the
+bare statutory language was “neutral.” 530 U. S., at 124.
+It examined five factors directed at determining congres
+sional intent: (1) language and structure, (2) tradition, (3)
+risk of unfairness, (4) severity of the sentence, and (5)
+legislative history. Id., at 124−131. The Court unani
+mously concluded that the machinegun provision provided
+an element of an offense, noting that the first four factors
+favored treating it as such while legislative history did not
+significantly favor either side. Ibid.
+III 
+
+A
+
+Section 924(c) was amended to its current form in 1998.
+The amendment had been enacted when the Court consid
+ered Castillo, supra, at 125, but the pre-1998 version of
+the statute was at issue there. The instant case concerns
+the post-1998 (and current) version of the statute, which
+provides:
+“(A) Except to the extent that a greater minimum
+sentence is otherwise provided by this subsection or
+by any other provision of law, any person who, during
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+and in relation to any crime of violence or drug traf
+ficking crime . . . uses or carries a firearm, or who, in
+furtherance of any such crime, possesses a firearm,
+shall, in addition to the punishment provided for such
+crime of violence or drug trafficking crime—
+“(i) be sentenced to a term of imprisonment of not
+less than 5 years;
+“(ii) if the firearm is brandished, be sentenced to a
+term of imprisonment of not less than 7 years; and
+“(iii) if the firearm is discharged, be sentenced to a
+term of imprisonment of not less than 10 years.
+“(B) If the firearm possessed by a person convicted
+of a violation of this subsection—
+“(i) is a short-barreled rifle, short-barreled shotgun,
+or semiautomatic assault weapon, the person shall be
+sentenced to a term of imprisonment of not less than
+10 years; or
+“(ii) is a machinegun or a destructive device, or is
+equipped with a firearm silencer or firearm muffler,
+the person shall be sentenced to a term of imprison
+ment of not less than 30 years.” 18 U. S. C. §924(c)(1)
+(2006 ed.).
+The 1998 amendment did make substantive changes to
+the statute, to be discussed below; but for purposes of the
+present case the most apparent effect of the amendment
+was to divide what was once a lengthy principal sentence
+into separate subparagraphs. This Court’s observation in
+considering the first Castillo factor, that “Congress placed
+the element ‘uses or carries a firearm’ and the word ‘ma
+chinegun’ in a single sentence, not broken up with dashes
+or separated into subsections,” 530 U. S., at 124−125, no
+longer holds true. Aside from this new structure, however,
+the 1998 amendment of §924 did nothing to affect the
+second through fifth Castillo factors. Each of the factors,
+except for legislative history (which, assuming its rele
+
+
+8
+
+UNITED STATES v. O’BRIEN
+Opinion of the Court
+
+vance, remains relatively silent), continues to favor the
+conclusion that the machinegun provision is an element of
+an offense.
+Legal tradition and past congressional practice are the
+second Castillo factor. The factor is to be consulted when,
+as here, a statute’s text is unclear as to whether certain
+facts constitute elements or sentencing factors. Sentenc
+ing factors traditionally involve characteristics of the
+offender—such as recidivism, cooperation with law en
+forcement, or acceptance of responsibility. Id., at 126.
+Characteristics of the offense itself are traditionally
+treated as elements, and the use of a machinegun under
+§924(c) lies “closest to the heart of the crime at issue.” Id.,
+at 127. This is no less true today than it was 10 years ago
+in Castillo. Unsurprisingly, firearm type is treated as an
+element in a number of statutes, as “numerous gun crimes
+make substantive distinctions between weapons such as
+pistols and machineguns.” Ibid.; see, e.g., 18 U. S. C.
+§§922(a)(4), 922(b)(4), and 922(o)(1).
+The Government counters that this tradition or pattern
+has evolved since the version of §924(c) under review in
+Castillo was enacted. The Government contends that the
+Federal Sentencing Guidelines altered the tradition by
+treating the possession of a firearm as a sentencing factor.
+Brief for United States 23 (citing United States Sentenc
+ing Commission, Guidelines Manual §2K2.1(a)(5) (Nov.
+1998) (raising base offense level “if the offense involved a
+firearm”)).
+The argument is not persuasive. The Sentencing Re
+form Act of 1984, 98 Stat. 1987, establishing the Federal
+Sentencing Guidelines, was enacted four years before the
+version of §924 under review in Castillo, see Anti-Drug
+Abuse Act of 1988, §6460, 102 Stat. 4373. While the re
+sulting Guidelines were not effective until 1987, this was
+still before the 1988 enactment of the statute at issue in
+Castillo, and 13 years before this Court’s conclusion in
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+Castillo that firearm type is traditionally treated as an
+offense element. The Government cannot claim the bene
+fit of any shift in how the law traditionally treats firearm
+type from the Guidelines, for that supposed shift would
+have occurred before the 1988 version of §924 was en
+acted. The Guidelines were explicitly taken into account
+when this Court analyzed the traditions in Castillo. 530
+U. S., at 126 (discussing Federal Sentencing Guidelines in
+determining what traditionally qualifies as a sentencing
+factor).
+The third Castillo factor, potential unfairness, was
+unchanged by the restructuring of §924. The Court ex
+plained in Castillo that treating the machinegun provision
+as a sentencing factor “might unnecessarily produce a
+conflict between the judge and the jury” because “a jury
+may well have to decide which of several weapons” a
+defendant used. Id., at 128. The concern was that the
+judge may not know which weapon the jurors determined
+a defendant used, and “a judge’s later, sentencing-related
+decision that the defendant used the machinegun, rather
+than, say, the pistol, might conflict with the jury’s belief
+that he actively used the pistol.” Ibid. This same concern
+arises under the current version of §924, where jurors
+might have to determine which among several weapons a
+defendant used, carried, or possessed in furtherance of a
+crime.
+The Government’s response, that permitting a judge to
+make this finding would “streamlin[e] guilt-stage proceed
+ings, without interfering with the accuracy of fact-finding,”
+Brief for United States 33, is unconvincing. It does not
+address the particular unfairness concern expressed in
+Castillo, which was not alleviated by the restructuring of
+§924. And the Government does not suggest that it would
+be subjected to any unfairness if the machinegun provision
+continues to be treated as an element.
+The fourth Castillo factor, the severity of the sentence
+
+
+10
+
+UNITED STATES v. O’BRIEN
+Opinion of the Court
+
+accompanying a finding that a defendant carried a ma
+chinegun under §924, was also unaffected by the statute’s
+restructuring. A finding that a defendant carried a ma
+chinegun under §924, in contrast to some less dangerous
+firearm, vaults a defendant’s mandatory minimum sen
+tence from 5 to 30 years, Castillo, supra, at 131, or from 7
+to 30 years if, as in this case, the firearm was brandished,
+§924(c)(1)(A)(ii). This is not akin to the “incremental
+changes in the minimum” that one would “expect to see in
+provisions meant to identify matters for the sentencing
+judge’s consideration,” Harris, 536 U. S., at 554 (from 5
+years to 7 years); it is a drastic, sixfold increase that
+strongly suggests a separate substantive crime.
+There is one substantive difference between the old and
+new versions of §924 that might bear on this fourth factor.
+The previous version of §924 provided mandatory sen
+tences: 5 years for using or carrying a firearm and 30
+years if the firearm is a machinegun, for example. See
+§924(c)(1) (1988 ed., Supp. V). The current statute pro
+vides only mandatory minimums: not less than 5 years for
+using or possessing a firearm; not less than 7 for brandish
+ing it; and not less than 30 if the firearm is a machinegun.
+§§924(c)(1)(A)(i), (A)(ii), (B)(ii). The Government argues
+that this difference is critical because a 30-year sentence
+is conceivable under the statute even without a finding
+that the particular weapon is a machinegun. Brief for
+United States 25.
+This is a distinction in theory, perhaps, but not in prac
+tice. Neither the Government nor any party or amicus has
+identified a single defendant whose conviction under §924
+for possessing or brandishing a nonspecific firearm led to a
+sentence approaching the 30-year sentence that is re
+quired when the firearm is a machinegun. Respondents
+advise, without refutation, that most courts impose the
+mandatory minimum of 7 years’ imprisonment for bran
+dishing a nonspecific weapon and the longest sentence
+
+
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+that has come to the litigants’ or the Court’s attention is
+14 years. Brief for Respondent O’Brien 46, 48 (citing
+United States v. Batts, 317 Fed. Appx. 329 (CA4 2009) (per
+curiam)); see also Harris, supra, at 578 (THOMAS, J.,
+dissenting). Indeed, in the instant case, Burgess received
+the statutory minimum 7-year sentence, and O’Brien
+received only 18 months more than that. Once the ma
+chinegun enhancement was off the table, the Government
+itself did not seek anything approaching 30-year terms,
+instead requesting 12-year terms for each respondent.
+The immense danger posed by machineguns, the moral
+depravity in choosing the weapon, and the substantial
+increase in the minimum sentence provided by the statute
+support the conclusion that this prohibition is an element
+of the crime, not a sentencing factor. It is not likely that
+Congress intended to remove the indictment and jury trial
+protections when it provided for such an extreme sentenc
+ing increase. See Jones, 526 U. S., at 233 (“It is at best
+questionable whether the specification of facts sufficient to
+increase a penalty range by two-thirds, let alone from 15
+years to life, was meant to carry none of the process safe
+guards that elements of an offense bring with them for a
+defendant’s benefit”). Perhaps Congress was not con
+cerned with parsing the distinction between elements and
+sentencing factors, a matter more often discussed by the
+courts when discussing the proper allocation of functions
+between judge and jury. Instead, it likely was more fo
+cused on deterring the crime by creating the mandatory
+minimum sentences. But the severity of the increase in
+this case counsels in favor of finding that the prohibition is
+an element, at least absent some clear congressional indi
+cation to the contrary.
+The fifth factor considered in Castillo was legislative
+history, and the Court there found it to be of little help.
+530 U. S., at 130 (“Insofar as this history may be relevant,
+however, it does not significantly help the Government”).
+
+
+12
+
+UNITED STATES v. O’BRIEN
+Opinion of the Court
+
+The 1998 amendment has its own legislative record, dis
+cussed below, but the parties accurately observe that it is
+silent as to congressional consideration of the distinction
+between elements and sentencing factors. Brief for United
+States 29; Brief for Respondent O’Brien 28−29. This
+silence is not neutral, however, because as explained
+below, it tends to counsel against finding that Congress
+made a substantive change to this statutory provision.
+Four of the five factors the Court relied upon in Castillo
+point in the same direction they did 10 years ago. How
+the 1998 amendment affects the remaining factor—the
+provision’s language and structure—requires closer
+examination.
+B
+In Castillo, the Court interpreted §924(c) in its original
+version, though Congress had at that point already
+amended the provision. Here, the applicable principle is
+that Congress does not enact substantive changes sub
+silentio. See Director of Revenue of Mo. v. CoBank ACB,
+531 U. S. 316, 323 (2001). In light of Castillo’s determina
+tion that the machinegun provision in the previous version
+of §924 is an element, a change should not be inferred
+“[a]bsent a clear indication from Congress of a change in
+policy.” Grogan v. Garner, 498 U. S. 279, 290 (1991); see
+also Rivers v. Roadway Express, Inc., 511 U. S. 298, 313, n.
+12 (1994) (“[W]hen this Court construes a statute, it is
+explaining its understanding of what the statute has
+meant continuously since the date when it became law”).
+The Government argues that the 1998 amendment
+restructuring §924(c) demonstrates the congressional
+judgment to reclassify the machinegun provision as a
+sentencing factor, rather than as an offense element. But
+the better understanding, as the Government acknowl
+edged in its submission in Castillo, is that “there is noth
+ing to suggest that the 1998 amendments were intended to
+
+
+Cite as: 560 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+change, rather than simply reorganize and clarify, [§924]’s
+treatment of firearm type.” Brief for United States, O. T.
+1999, No. 99–658, p. 41. A closer review of the 1998
+amendment confirms this.
+There are three principal differences between the previ
+ous and current versions of §924(c): two substantive
+changes and a third regarding the stylistic structure of the
+statute. The first difference, as discussed above, supra, at
+10, is that the amendment changed what were once man
+datory sentences into mandatory minimum sentences. A
+person convicted of the primary offense of using or carry
+ing a firearm during a crime of violence was once to “be
+sentenced to imprisonment for five years,” but under the
+current version he or she is to “be sentenced to a term of
+imprisonment of not less than 5 years.”
+The second difference is that the amended version in
+cludes the word “possesses” in addition to “uses or carries”
+in its principal paragraph, and then adds the substantive
+provisions in §§924(c)(1)(A)(ii) and (iii), which provide
+mandatory minimums for brandishing (7 years) and dis
+charging (10 years) the firearm. These provisions are new
+substantive additions to the text of the previous version,
+which provided a bare 5-year mandatory minimum for any
+offender who “use[d] or carrie[d] a firearm,” without con
+cern for how the firearm was used.
+The changes were a direct response to this Court’s deci
+sion in Bailey v. United States, 516 U. S. 137 (1995), which
+held that the word “use” in the pre-amendment version of
+§924 “must connote more than mere possession of a fire
+arm by a person who commits a drug offense.” Id., at 143.
+The Court in Bailey went on to observe that, “[h]ad Con
+gress intended possession alone to trigger liability under
+§924(c)(1), it easily could have so provided” by using the
+word “possess,” as it had so frequently done in other statu
+tory provisions. Ibid. Three years later, Congress made
+the change and added the word “possesses” to the princi
+
+
+14
+
+UNITED STATES v. O’BRIEN
+Opinion of the Court
+
+pal paragraph. Congress additionally provided mandatory
+sentences above the 5-year minimum depending on
+whether and how the firearm was used.
+Sections
+924(c)(1)(A)(ii) and (iii) provide sentencing enhancements
+for brandishing or discharging the firearm, and the Court
+has held that these enhancements are sentencing factors
+to be found by a judge. See Harris, 536 U. S., at 552−556;
+see also Dean v. United States, 556 U. S. ___, ___ (2009)
+(slip op., at 5) (referring to the brandishing and discharge
+provisions as “sentencing factors”). The 1998 amendment
+was colloquially known as the “Bailey Fix Act.” 144 Cong.
+Rec. 26608 (1998) (remarks of Sen. DeWine); see also
+Dean, supra, at ___ (STEVENS, J., dissenting) (slip op.,
+at 3).
+Aside from shifting the mandatory sentences to manda
+tory minimums, and this so-called Bailey fix, Congress left
+the substance of the statute unchanged. Neither of these
+substantive changes suggests that Congress meant to
+transform the machinegun provision from an element into
+a sentencing factor.
+The Government stresses a third, structural, difference
+in the statute, pointing out that the machinegun provision
+now resides in a separate subsection, §924(c)(1)(B),
+whereas it once resided in the principal paragraph that
+unmistakably lists offense elements. This structural or
+stylistic change, though, does not provide a “clear indica
+tion” that Congress meant to alter its treatment of ma
+chineguns as an offense element. See Grogan, 498 U. S.,
+at 290. A more logical explanation for the restructuring is
+that it broke up a lengthy principal paragraph, which
+exceeded 250 words even before adding more to it for the
+Bailey fix, into a more readable statute. This is in step
+with current legislative drafting guidelines, which advise
+drafters to break lengthy statutory provisions into sepa
+rate subsections that can be read more easily. See House
+Legislative Counsel’s Manual on Drafting Style, HLC No.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+104.1, §312, pp. 23−25 (1995); Senate Office of the Legisla
+tive Counsel, Legislative Drafting Manual §112, pp. 10−11
+(1997).
+While the Court has indicated that placing factors in
+separate subsections is one way Congress might signal
+that it is treating them as sentencing factors as opposed to
+elements, Castillo, 530 U. S., at 124−125, Harris, 536
+U. S., at 552−553, it has rejected the view that this struc
+tural consideration predominates even when other factors
+point in the other direction, id., at 553 (“[E]ven if a statute
+‘has a look to it suggesting that the numbered subsections
+are only sentencing provisions,’ ” the Court will not ignore
+“compelling evidence to the contrary” (quoting Jones, 526
+U. S., at 232)). For instance, in Jones the Court found that
+the federal carjacking statute set forth elements of multi
+ple offenses despite a structure similar to the statute at
+issue here. Id., at 232−239. And in Harris, the Court was
+careful to point out that, unlike the case at bar, the other
+Castillo factors “reinforce[d] the single-offense interpreta
+tion implied by the statute’s structure.” 536 U. S., at 553.
+In examining the amended version of §924(c)’s struc
+ture, there is an additional consideration that supports
+interpreting the machinegun provision to be an offense
+element. As explained above, the brandishing and dis
+charge provisions codified in §924(A)(ii) and (iii) do state
+sentencing factors. See Harris, supra, at 552−556; Dean,
+supra, at ___ (slip op., at 5). Had Congress intended to
+treat firearm type as a sentencing factor, it likely would
+have listed firearm types as clauses (iv) and (v) of sub
+paragraph (A), instead of as clauses (i) and (ii) of subpara
+graph (B). By listing firearm type in stand-alone subpara
+graph (B), Congress set it apart from the sentencing
+factors in (A)(ii) and (iii); this is consistent with preserving
+firearm type as an element of a separate offense.
+To be sure, there are some arguments in favor of treat
+ing the machinegun provision as a sentencing factor. The
+
+
+16
+
+UNITED STATES v. O’BRIEN
+Opinion of the Court
+
+current structure of §924(c) is more favorable to that
+interpretation than was true in Castillo, particularly
+because the machinegun provision is now positioned be
+tween the sentencing factors provided in (A)(ii) and (iii),
+see Harris, supra, at 552−556, and the recidivist provi
+sions in (C)(i) and (ii), which are typically sentencing
+factors as well. See Almendarez-Torres, 523 U. S., at 230.
+These points are overcome, however, by the substantial
+weight of the other Castillo factors and the principle that
+Congress would not enact so significant a change without
+a clear indication of its purpose to do so. The evident
+congressional purpose was to amend the statute to coun
+teract Bailey and to make the statute more readable but
+not otherwise to alter the substance of the statute. The
+analysis and holding of Castillo control this case. The
+machinegun provision in §924(c)(1)(B)(ii) is an element of
+an offense.
+*
+*
+* 
+
+The judgment of the Court of Appeals is affirmed. 
+
+It is so ordered.
+
+

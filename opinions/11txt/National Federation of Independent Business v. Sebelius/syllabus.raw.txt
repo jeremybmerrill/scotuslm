@@ -1,0 +1,251 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+NATIONAL FEDERATION OF INDEPENDENT 
+
+BUSINESS ET AL. v. SEBELIUS, SECRETARY OF 
+
+HEALTH AND HUMAN SERVICES, ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE ELEVENTH CIRCUIT
+No. 11–393.
+
+Argued March 26, 27, 28, 2012—Decided June 28, 2012*
+
+In 2010, Congress enacted the Patient Protection and Affordable Care
+Act in order to increase the number of Americans covered by health
+insurance and decrease the cost of health care. One key provision is
+the individual mandate, which requires most Americans to maintain
+“minimum essential” health insurance coverage. 26 U. S. C. §5000A.
+For individuals who are not exempt, and who do not receive health
+insurance through an employer or government program, the means of
+satisfying the requirement is to purchase insurance from a private
+company. Beginning in 2014, those who do not comply with the
+mandate must make a “[s]hared responsibility payment” to the Federal Government. §5000A(b)(1). The Act provides that this “penalty”
+will be paid to the Internal Revenue Service with an individual’s taxes, and “shall be assessed and collected in the same manner” as tax
+penalties. §§5000A(c), (g)(1).
+Another key provision of the Act is the Medicaid expansion. The
+current Medicaid program offers federal funding to States to assist
+pregnant women, children, needy families, the blind, the elderly, and
+the disabled in obtaining medical care. 42 U. S. C. §1396d(a). The
+Affordable Care Act expands the scope of the Medicaid program and
+increases the number of individuals the States must cover. For ex——————
+* Together with No. 11–398, Department of Health and Human Services et al. v. Florida et al., and No. 11–400, Florida et al. v. Department
+of Health and Human Services et al., also on certiorari to the same
+court.
+
+
+2
+
+NATIONAL FEDERATION OF INDEPENDENT 
+
+BUSINESS v. SEBELIUS
+
+Syllabus
+
+ample, the Act requires state programs to provide Medicaid coverage
+by 2014 to adults with incomes up to 133 percent of the federal poverty level, whereas many States now cover adults with children only
+if their income is considerably lower, and do not cover childless adults
+at all. §1396a(a)(10)(A)(i)(VIII). The Act increases federal funding to
+cover the States’ costs in expanding Medicaid coverage. §1396d(y)(1).
+But if a State does not comply with the Act’s new coverage requirements, it may lose not only the federal funding for those requirements, but all of its federal Medicaid funds. §1396c.
+Twenty-six States, several individuals, and the National Federation of Independent Business brought suit in Federal District Court,
+challenging the constitutionality of the individual mandate and the
+Medicaid expansion. The Court of Appeals for the Eleventh Circuit
+upheld the Medicaid expansion as a valid exercise of Congress’s
+spending power, but concluded that Congress lacked authority to enact the individual mandate. Finding the mandate severable from the
+Act’s other provisions, the Eleventh Circuit left the rest of the Act intact.
+
+Held: The judgment is affirmed in part and reversed in part.
+648 F. 3d 1235, affirmed in part and reversed in part.
+1. CHIEF JUSTICE ROBERTS delivered the opinion of the Court with
+respect to Part II, concluding that the Anti-Injunction Act does not
+bar this suit.
+The Anti-Injunction Act provides that “no suit for the purpose of
+restraining the assessment or collection of any tax shall be maintained in any court by any person,” 26 U. S. C. §7421(a), so that those
+subject to a tax must first pay it and then sue for a refund. The present challenge seeks to restrain the collection of the shared responsibility payment from those who do not comply with the individual
+mandate. But Congress did not intend the payment to be treated as
+a “tax” for purposes of the Anti-Injunction Act. The Affordable Care
+Act describes the payment as a “penalty,” not a “tax.” That label
+cannot control whether the payment is a tax for purposes of the Constitution, but it does determine the application of the Anti-Injunction
+Act. The Anti-Injunction Act therefore does not bar this suit. Pp. 11–
+15.
+2. CHIEF JUSTICE ROBERTS concluded in Part III–A that the individual mandate is not a valid exercise of Congress’s power under the
+Commerce Clause and the Necessary and Proper Clause. Pp. 16–30.
+(a) The Constitution grants Congress the power to “regulate
+Commerce.” Art. I, §8, cl. 3 (emphasis added). The power to regulate
+commerce presupposes the existence of commercial activity to be regulated. This Court’s precedent reflects this understanding: As expansive as this Court’s cases construing the scope of the commerce
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+Syllabus
+power have been, they uniformly describe the power as reaching “activity.” E.g., United States v. Lopez, 514 U. S. 549, 560. The individual mandate, however, does not regulate existing commercial activity. It instead compels individuals to become active in commerce by
+purchasing a product, on the ground that their failure to do so affects
+interstate commerce.
+Construing the Commerce Clause to permit Congress to regulate
+individuals precisely because they are doing nothing would open a
+new and potentially vast domain to congressional authority. Congress already possesses expansive power to regulate what people do.
+Upholding the Affordable Care Act under the Commerce Clause
+would give Congress the same license to regulate what people do not
+do. The Framers knew the difference between doing something and
+doing nothing. They gave Congress the power to regulate commerce,
+not to compel it. Ignoring that distinction would undermine the principle that the Federal Government is a government of limited and
+enumerated powers. The individual mandate thus cannot be sustained under Congress’s power to “regulate Commerce.” Pp. 16–27.
+(b) Nor can the individual mandate be sustained under the Necessary and Proper Clause as an integral part of the Affordable Care
+Act’s other reforms. Each of this Court’s prior cases upholding laws
+under that Clause involved exercises of authority derivative of, and
+in service to, a granted power. E.g., United States v. Comstock, 560
+U. S. ___. The individual mandate, by contrast, vests Congress with
+the extraordinary ability to create the necessary predicate to the exercise of an enumerated power and draw within its regulatory scope
+those who would otherwise be outside of it. Even if the individual
+mandate is “necessary” to the Affordable Care Act’s other reforms,
+such an expansion of federal power is not a “proper” means for making those reforms effective. Pp. 27–30.
+3. CHIEF JUSTICE ROBERTS concluded in Part III–B that the individual mandate must be construed as imposing a tax on those who do
+not have health insurance, if such a construction is reasonable.
+The most straightforward reading of the individual mandate is that
+it commands individuals to purchase insurance. But, for the reasons
+explained, the Commerce Clause does not give Congress that power.
+It is therefore necessary to turn to the Government’s alternative argument: that the mandate may be upheld as within Congress’s power
+to “lay and collect Taxes.” Art. I, §8, cl. 1. In pressing its taxing
+power argument, the Government asks the Court to view the mandate as imposing a tax on those who do not buy that product. Because “every reasonable construction must be resorted to, in order to
+save a statute from unconstitutionality,” Hooper v. California, 155
+U. S. 648, 657, the question is whether it is “fairly possible” to inter-
+
+
+4
+
+NATIONAL FEDERATION OF INDEPENDENT 
+
+BUSINESS v. SEBELIUS
+
+Syllabus
+
+pret the mandate as imposing such a tax, Crowell v. Benson, 285
+U. S. 22, 62. Pp. 31–32.
+4. CHIEF JUSTICE ROBERTS delivered the opinion of the Court with
+respect to Part III–C, concluding that the individual mandate may be
+upheld as within Congress’s power under the Taxing Clause. Pp. 33–
+44.
+(a) The Affordable Care Act describes the “[s]hared responsibility
+payment” as a “penalty,” not a “tax.” That label is fatal to the application of the Anti-Injunction Act. It does not, however, control
+whether an exaction is within Congress’s power to tax. In answering
+that constitutional question, this Court follows a functional approach,
+“[d]isregarding the designation of the exaction, and viewing its substance and application.” United States v. Constantine, 296 U. S. 287,
+294. Pp. 33–35.
+(b) Such an analysis suggests that the shared responsibility
+payment may for constitutional purposes be considered a tax. The
+payment is not so high that there is really no choice but to buy health
+insurance; the payment is not limited to willful violations, as penalties for unlawful acts often are; and the payment is collected solely by
+the IRS through the normal means of taxation. Cf. Bailey v. Drexel
+Furniture Co., 259 U. S. 20, 36–37. None of this is to say that payment is not intended to induce the purchase of health insurance. But
+the mandate need not be read to declare that failing to do so is unlawful. Neither the Affordable Care Act nor any other law attaches
+negative legal consequences to not buying health insurance, beyond
+requiring a payment to the IRS. And Congress’s choice of language—
+stating that individuals “shall” obtain insurance or pay a “penalty”—
+does not require reading §5000A as punishing unlawful conduct. It
+may also be read as imposing a tax on those who go without insurance. See New York v. United States, 505 U. S. 144, 169–174.
+Pp. 35–40.
+(c) Even if the mandate may reasonably be characterized as a
+tax, it must still comply with the Direct Tax Clause, which provides:
+“No Capitation, or other direct, Tax shall be laid, unless in Proportion
+to the Census or Enumeration herein before directed to be taken.”
+Art. I, §9, cl. 4. A tax on going without health insurance is not like a
+capitation or other direct tax under this Court’s precedents. It therefore need not be apportioned so that each State pays in proportion to
+its population. Pp. 40–41.
+5. CHIEF JUSTICE ROBERTS, joined by JUSTICE BREYER and JUSTICE
+KAGAN, concluded in Part IV that the Medicaid expansion violates
+the Constitution by threatening States with the loss of their existing
+Medicaid funding if they decline to comply with the expansion.
+Pp. 45–58.
+
+
+Cite as: 567 U. S. ____ (2012)
+
+5
+
+Syllabus
+(a) The Spending Clause grants Congress the power “to pay the
+Debts and provide for the . . . general Welfare of the United States.”
+Art. I, §8, cl. 1. Congress may use this power to establish cooperative
+state-federal Spending Clause programs. The legitimacy of Spending
+Clause legislation, however, depends on whether a State voluntarily
+and knowingly accepts the terms of such programs. Pennhurst State
+School and Hospital v. Halderman, 451 U. S. 1, 17. “[T]he Constitution simply does not give Congress the authority to require the States
+to regulate.” New York v. United States, 505 U. S. 144, 178. When
+Congress threatens to terminate other grants as a means of pressuring the States to accept a Spending Clause program, the legislation
+runs counter to this Nation’s system of federalism. Cf. South Dakota
+v. Dole, 483 U. S. 203, 211. Pp. 45–51.
+(b) Section 1396c gives the Secretary of Health and Human Services the authority to penalize States that choose not to participate in
+the Medicaid expansion by taking away their existing Medicaid funding. 42 U. S. C. §1396c. The threatened loss of over 10 percent of a
+State’s overall budget is economic dragooning that leaves the States
+with no real option but to acquiesce in the Medicaid expansion. The
+Government claims that the expansion is properly viewed as only a
+modification of the existing program, and that this modification is
+permissible because Congress reserved the “right to alter, amend, or
+repeal any provision” of Medicaid. §1304. But the expansion accomplishes a shift in kind, not merely degree. The original program was
+designed to cover medical services for particular categories of vulnerable individuals. Under the Affordable Care Act, Medicaid is transformed into a program to meet the health care needs of the entire
+nonelderly population with income below 133 percent of the poverty
+level. A State could hardly anticipate that Congress’s reservation of
+the right to “alter” or “amend” the Medicaid program included the
+power to transform it so dramatically. The Medicaid expansion thus
+violates the Constitution by threatening States with the loss of their
+existing Medicaid funding if they decline to comply with the expansion. Pp. 51–55.
+(c) The constitutional violation is fully remedied by precluding
+the Secretary from applying §1396c to withdraw existing Medicaid
+funds for failure to comply with the requirements set out in the expansion. See §1303. The other provisions of the Affordable Care Act
+are not affected. Congress would have wanted the rest of the Act to
+stand, had it known that States would have a genuine choice whether
+to participate in the Medicaid expansion. Pp. 55–58.
+6. JUSTICE GINSBURG, joined by JUSTICE SOTOMAYOR, is of the view
+that the Spending Clause does not preclude the Secretary from withholding Medicaid funds based on a State’s refusal to comply with the
+
+
+6
+
+NATIONAL FEDERATION OF INDEPENDENT 
+
+BUSINESS v. SEBELIUS
+
+Syllabus
+
+expanded Medicaid program. But given the majority view, she
+agrees with THE CHIEF JUSTICE’s conclusion in Part IV–B that the
+Medicaid Act’s severability clause, 42 U. S. C. §1303, determines the
+appropriate remedy. Because THE CHIEF JUSTICE finds the withholding—not the granting—of federal funds incompatible with the Spending Clause, Congress’ extension of Medicaid remains available to any
+State that affirms its willingness to participate. Even absent §1303’s
+command, the Court would have no warrant to invalidate the funding
+offered by the Medicaid expansion, and surely no basis to tear down
+the ACA in its entirety. When a court confronts an unconstitutional
+statute, its endeavor must be to conserve, not destroy, the legislation.
+See, e.g., Ayotte v. Planned Parenthood of Northern New Eng., 546
+U. S. 320, 328–330. Pp. 60–61.
+
+ROBERTS, C. J., announced the judgment of the Court and delivered
+the opinion of the Court with respect to Parts I, II, and III–C, in which
+GINSBURG, BREYER, SOTOMAYOR, and KAGAN, JJ., joined; an opinion with
+respect to Part IV, in which BREYER and KAGAN, JJ., joined; and an
+opinion with respect to Parts III–A, III–B, and III–D. GINSBURG, J.,
+filed an opinion concurring in part, concurring in the judgment in part,
+and dissenting in part, in which SOTOMAYOR, J., joined, and in which
+BREYER and KAGAN, JJ., joined as to Parts I, II, III, and IV. SCALIA,
+KENNEDY, THOMAS, and ALITO, JJ., filed a dissenting opinion. THOMAS,
+J., filed a dissenting opinion.
+
+

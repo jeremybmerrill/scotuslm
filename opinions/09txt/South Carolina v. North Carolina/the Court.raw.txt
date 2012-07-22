@@ -1,0 +1,825 @@
+Cite as: 558 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 138, Orig.
+_________________
+
+STATE OF SOUTH CAROLINA, PLAINTIFF v. STATE 
+
+OF NORTH CAROLINA 
+
+ON EXCEPTIONS TO THE REPORT OF THE SPECIAL MASTER
+[January 20, 2010]
+
+JUSTICE ALITO delivered the opinion of the Court.
+The State of South Carolina brought this original action
+against the State of North Carolina, seeking an equitable
+apportionment of the Catawba River. We appointed a
+Special Master and referred the matter to her, together
+with the motions of three nonstate entities seeking to
+intervene in the dispute as parties. South Carolina op­
+posed the motions. After holding a hearing, the Special
+Master granted the motions and, upon South Carolina’s
+request, memorialized the reasons for her decision in a
+First Interim Report. South Carolina then presented
+exceptions, and we set the matter for argument.
+Two of the three proposed intervenors have satisfied the
+standard for intervention in original actions that we ar­
+ticulated nearly 60 years ago in New Jersey v. New York,
+345 U. S. 369 (1953) (per curiam). Accordingly, we over­
+rule South Carolina’s exceptions with respect to the Ca­
+tawba River Water Supply Project (hereinafter CRWSP)
+and Duke Energy Carolinas, LLC (hereinafter Duke En­
+ergy), but we sustain South Carolina’s exception with
+respect to the city of Charlotte, North Carolina (hereinaf­
+ter Charlotte).
+
+
+2
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of the Court
+
+I
+
+A
+
+We granted leave for South Carolina to file its complaint
+in this matter two years ago. South Carolina v. North
+Carolina, 552 U. S. 804 (2007). The gravamen of the
+complaint is that North Carolina has authorized upstream
+transfers of water from the Catawba River basin that
+exceed North Carolina’s equitable share of the river. It
+has done so, according to the complaint, pursuant to a
+North Carolina statute that requires any person seeking
+to transfer more than 2 million gallons of water per day
+(mgd) from the Catawba River basin to obtain a permit
+from the North Carolina Environmental Management
+Commission.
+See N. C. Gen. Stat. Ann. §143–
+215.22L(a)(1) (Lexis 2007); §143–215.22G(1)(h). Through
+that agency, the complaint alleges, North Carolina has
+issued at least two such permits, one to Charlotte for the
+transfer of up to 33 mgd, and one to the North Carolina
+cities of Concord and Kannapolis for the transfer of 10
+mgd. In addition, the complaint alleges, North Carolina’s
+permitting statute “grandfathers” a 5 mgd transfer by the
+CRWSP, and “implicitly authorize[s]” an unknown number
+of transfers of less than 2 mgd. Complaint ¶¶18, 21, 22.
+South Carolina claims that the net effect of these up­
+stream transfers is to deprive South Carolina of its equi­
+table share of the Catawba River’s water, particularly
+during periods of drought or low river flow.
+South Carolina seeks relief in the form of a decree that
+equitably apportions the Catawba River between the two
+States, enjoins North Carolina from authorizing transfers
+of water from the Catawba River exceeding that State’s
+equitable share, and declares North Carolina’s permitting
+statute invalid to the extent it is used to authorize trans­
+fers of water from the Catawba River that exceed North
+Carolina’s equitable share. See generally Complaint,
+Prayer for Relief ¶¶1–3. The complaint does not specify a
+
+
+Cite as: 558 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+minimum flow of water that would satisfy South Caro­
+lina’s equitable needs, but it does offer a point of reference.
+In a recent “multi-stakeholder negotiation process” involv­
+ing the Federal Energy Regulatory Commission (hereinaf­
+ter FERC), Duke Energy, and various groups from both
+States, it was agreed, according to the complaint, that
+South Carolina should receive from the Catawba River a
+continuous flow of water of no less than 1,100 cubic feet
+per second, or about 711 mgd. Complaint ¶14.
+This negotiated figure may prove unattainable. Accord­
+ing to the complaint, natural conditions and periodic
+fluctuations have caused the Catawba River’s flow to fall
+below 1,100 cubic feet per second. Duke Energy, which
+generates hydroelectric power from a series of reservoirs
+on the Catawba River, developed a model to estimate the
+river’s flow if the river were not impounded. Id., ¶¶8, 16.
+The complaint notes that according to Duke Energy’s
+model, the Catawba River—even in its natural state—
+often would not deliver into South Carolina a minimum
+average daily flow of 1,100 cubic feet per second. Id., ¶16;
+App. to Motion of State of South Carolina for Leave to File
+Complaint, Complaint, and Brief in Support of its Motion
+for Leave to File Complaint 18. South Carolina contends
+that North Carolina’s authorization of large transfers of
+water from the Catawba River basin has exacerbated
+these conditions.
+Shortly after we granted leave to file the complaint, two
+of the entities named in the complaint—the CRWSP and
+Duke Energy—filed motions for leave to intervene as
+parties. The CRWSP sought leave to intervene as a party­
+defendant, asserting its interest as a “riparian user of the
+Catawba River” and claiming that this interest was not
+adequately represented because of the CRWSP’s “inter­
+state nature.” Motion of Catawba River Water Supply
+Project for Leave to Intervene and Brief in Support of
+Motion 8, 9. Specifically, the CRWSP noted that it is a
+
+
+4
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of the Court
+
+bistate entity that is jointly owned and regulated by, and
+supplies water to, North Carolina’s Union County and
+South Carolina’s Lancaster County. Id., at 9. Duke En­
+ergy sought leave to intervene and file an answer, assert­
+ing an interest as the operator of 11 dams and reservoirs
+on the Catawba River that control the river’s flow, as the
+holder of a 50-year license1 governing Duke Energy’s
+hydroelectric power operations, and as the entity that
+orchestrated the multistakeholder negotiation process
+culminating in a Comprehensive Relicensing Agreement
+(CRA) signed by 70 entities from both States in 2006.
+Duke Energy Carolinas, LLC’s Motion and Brief in Sup­
+port of Motion to Intervene and File Answer, and Answer
+2, 5. This CRA set forth the terms under which Duke
+Energy has applied to renew its FERC license, id., at 5,
+and Duke Energy asserted that neither State would repre­
+sent its “particular amalgam of federal, state and private
+interests,” id., at 14. South Carolina opposed both mo­
+tions, and we referred them to the Special Master. 552
+U. S. 1160 (2008).
+One month later, a third entity named in the complaint,
+the city of Charlotte, also sought leave to intervene as a
+party-defendant. In its brief, Charlotte asserted an inter­
+est, both as the holder of a permit authorizing the transfer
+of 33 mgd from the Catawba River basin—the largest
+single transfer identified in the complaint—and as the
+potential source of the 10 mgd transfer approved for the
+cities of Concord and Kannapolis. Motion for Leave to
+Intervene of City of Charlotte, North Carolina, and Brief
+in Support of Motion 5, 7.2 Charlotte argued that North
+——————
+1 The license was issued in 1958 to Duke Energy’s predecessor by the
+Federal Power Commission, a predecessor of the FERC. For conven­
+ience, we will refer to Duke Energy’s “FERC license” herein.
+2 Charlotte also asserted an interest in protecting the terms of the
+CRA, to which Charlotte was a signatory but to which North Carolina,
+which has conflicting duties under §401 of the Clean Water Act, 86
+
+
+Cite as: 558 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+Carolina could not represent the city’s interests effectively
+because the State was duty bound to represent the inter­
+ests of all North Carolina users of the Catawba River’s
+water, including users whose interests were not aligned
+with Charlotte’s. Id., at 17. South Carolina also opposed
+Charlotte’s motion, and we referred it to the Special Mas­
+ter. 552 U. S. 1254 (2008).
+B
+The Special Master held a hearing and issued an order
+granting all three motions for leave to intervene. At South
+Carolina’s request, the Special Master set forth her find­
+ings and decision as a First Interim Report, and it is this
+Report to which South Carolina now presents exceptions.
+The Special Master recognized that this Court has
+exercised jurisdiction over nonstate parties in original
+actions between two or more States. She also recognized
+that in New Jersey v. New York, 345 U. S. 369, the Court
+considered the “appropriate standard” for a nonstate
+entity’s motion to intervene in an original action. First
+Interim Report of Special Master, O. T. 2008, No. 138,
+Orig., p. 12 (First Interim Rept.). But in attempting to
+give context to our standard, she looked beyond interven­
+tion and considered original actions in which the Court
+has allowed nonstate entities to be named as defendants
+by the complaining State. From those examples, the
+Special Master “distilled the following rule” governing
+motions to intervene in original actions by nonstate
+entities:
+“Although the Court’s original jurisdiction presump­
+tively is reserved for disputes between sovereign
+——————
+Stat. 877, as added, 33 U. S. C. §1341, was not. North Carolina op­
+posed this argument, and the Special Master did not rely on it in
+recommending that Charlotte’s motion to intervene should be granted.
+As Charlotte does not reassert this argument here, we do not consider
+it.
+
+
+6
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of the Court
+
+states over sovereign matters, nonstate entities may
+become parties to such original disputes in appropri­
+ate and compelling circumstances, such as where the
+nonstate entity is the instrumentality authorized to
+carry out the wrongful conduct or injury for which the
+complaining state seeks relief, where the nonstate en­
+tity has an independent property interest that is di­
+rectly implicated by the original dispute or is a sub­
+stantial factor in the dispute, where the nonstate
+entity otherwise has a ‘direct stake’ in the outcome of
+the action within the meaning of the Court’s cases
+discussed above, or where, together with one or more
+of the above circumstances, the presence of the non­
+state entity would advance the ‘full exposition’ of the
+issues.” Id., at 20–21.
+Applying this broad rule, the Special Master found that
+each proposed intervenor had a sufficiently compelling
+interest to justify intervention. The Special Master re­
+jected South Carolina’s proposal to limit intervention to
+the remedy phase of this litigation and recommended that
+this Court grant the motions to intervene.
+II 
+
+A
+
+Participation by nonstate parties in actions arising
+under our original jurisdiction is not a new development.
+Article III, §2, of the Constitution expressly contemplates
+suits “between a State and Citizens of another State” as
+falling within our original jurisdiction, see, e.g., Georgia v.
+Brailsford, 2 Dall. 402 (1792), and for more than two
+centuries the Court has exercised that jurisdiction over
+nonstate parties in suits between two or more States, see
+New York v. Connecticut, 4 Dall. 1 (1799); Missouri v.
+Illinois, 180 U. S. 208, 224–225 (1901). Nonstate entities
+have even participated as parties in disputes between
+States, such as the one before us now, where the States
+
+
+Cite as: 558 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+were seeking equitable apportionment of water resources.
+See, e.g., Arizona v. California, 460 U. S. 605, 608, n. 1
+(1983); Texas v. New Mexico, 343 U. S. 932 (1952); New
+Jersey v. City of New York, 279 U. S. 823 (1929) (per cu
+riam). It is, thus, not a novel proposition to accord party
+status to a citizen in an original action between States.
+This Court likewise has granted leave, under appropri­
+ate circumstances, for nonstate entities to intervene as
+parties in original actions between States for nearly 90
+years. See Maryland v. Louisiana, 451 U. S. 725, 745,
+n. 21 (1981). In Oklahoma v. Texas, 258 U. S. 574, 581,
+598 (1922), a boundary dispute that threatened to erupt in
+armed hostilities, the Court allowed individual and corpo­
+rate citizens to intervene to protect their rights in con­
+tested land. See, e.g., Oklahoma v. Texas, 254 U. S. 609
+(1920).3 More recently, the Court has allowed a munici­
+pality to intervene in a sovereign boundary dispute, see
+Texas v. Louisiana, 426 U. S. 465, 466 (1976) (per curiam),
+and has permitted private corporations to intervene in an
+original action challenging a State’s imposition of a tax
+that burdened interstate commerce and contravened the
+Supremacy Clause, see Maryland v. Louisiana, supra, at
+745, n. 21.
+In this case, the Special Master crafted a rule of inter­
+vention that accounts for the full compass of our prece­
+dents. But a compelling reason for allowing citizens to
+participate in one original action is not necessarily a com­
+pelling reason for allowing citizens to intervene in all
+——————
+3 THE
+
+CHIEF JUSTICE argues against drawing conclusions from the
+intervention that we allowed in Oklahoma v. Texas, 254 U. S. 609
+(1920). See post, at 7–8 (opinion concurring in judgment in part and
+dissenting in part). But the circumstances surrounding that dispute fit
+the “ ‘model case’ ” for invoking this Court’s original jurisdiction, post, at
+2, and counsel against inferring from our precedents, as THE CHIEF
+JUSTICE does with respect to equitable apportionment actions, a rule
+against nonstate intervention in such “weighty controversies,” ibid.
+
+
+8
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of the Court
+
+original actions. We therefore decline to adopt the Special
+Master’s proposed rule. As the Special Master acknowl­
+edged, the Court in New Jersey v. New York, supra, set
+down the “appropriate standard” for intervention in origi­
+nal actions by nonstate entities. First Interim Rept. 12.
+We believe the standard that we applied in that case
+applies equally well here.4
+In 1929, the State of New Jersey sued the State of New
+York and city of New York for their diversion of the Dela­
+ware River’s headwaters. 345 U. S., at 370. The Court
+granted the Commonwealth of Pennsylvania leave to
+intervene, and in 1931, entered a decree enjoining certain
+diversions of water by the State of New York and the city
+of New York. Id., at 371. In 1952, the city of New York
+moved to modify the decree, and New Jersey and Pennsyl­
+vania filed oppositions. After the Court referred the mat­
+ter to a special master, the city of Philadelphia sought
+leave to intervene on the basis of its use of the Delaware
+River’s water. Id., at 371–372.
+This Court denied Philadelphia leave to intervene.
+Pennsylvania had intervened pro interesse suo “to protect
+the rights and interests of Philadelphia and Eastern
+Pennsylvania in the Delaware River.” Id., at 374; see also
+New Jersey v. New York, 283 U. S. 336, 342 (1931). In
+view of Pennsylvania’s participation, the Court wrote that
+when a State is “a party to a suit involving a matter of
+sovereign interest,” it is parens patriae and “ ‘must be
+deemed to represent all [of] its citizens.’ ” 345 U. S., at
+372–373 (quoting Kentucky v. Indiana, 281 U. S. 163, 173–
+——————
+4 Accordingly, we need not decide South Carolina’s first exception to
+the Special Master’s conclusion that intervention is proper “whenever
+the movant is the ‘instrumentality’ authorized to engage in conduct
+alleged to harm the plaintiff State, has an ‘independent property
+interest’ at issue in the action, or otherwise has a ‘direct stake’ in the
+outcome of the action.” Exceptions of State of South Carolina to First
+Interim Report of Special Master and Brief in Support of Exceptions i.
+
+
+Cite as: 558 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+174 (1930)). This principle serves the twin purposes of
+ensuring that due respect is given to “sovereign dignity”
+and providing “a working rule for good judicial admini­
+stration.” 345 U. S., at 373. The Court, thus, set forth the
+following standard governing intervention in an original
+action by a nonstate entity:
+“An intervenor whose state is already a party should
+have the burden of showing some compelling interest
+in his own right, apart from his interest in a class
+with all other citizens and creatures of the state,
+which interest is not properly represented by the
+state.” Ibid.
+On several subsequent occasions the Court has reaffirmed
+this “general rule.” See Nebraska v. Wyoming, 515 U. S. 1,
+21–22 (1995); United States v. Nevada, 412 U. S. 534, 538
+(1973) (per curiam); Illinois v. Milwaukee, 406 U. S. 91, 97
+(1972).
+We acknowledge that the standard for intervention in
+original actions by nonstate entities is high—and appro­
+priately so. Such actions tax the limited resources of this
+Court by requiring us “awkwardly to play the role of fact­
+finder” and diverting our attention from our “primary
+responsibility as an appellate tribunal.” Ohio v. Wyan
+dotte Chemicals Corp., 401 U. S. 493, 498 (1971); Mary
+land v. Louisiana, 451 U. S. 725, 762 (1981) (Rehnquist,
+J., dissenting). In order to ensure that original actions do
+not assume the “dimensions of ordinary class actions,”
+New Jersey v. New York, 345 U. S., at 373, we exercise our
+original jurisdiction “sparingly” and retain “substantial
+discretion” to decide whether a particular claim requires
+“an original forum in this Court,” Mississippi v. Louisiana,
+506 U. S. 73, 76 (1992) (internal quotation marks omitted).
+Respect for state sovereignty also calls for a high
+threshold to intervention by nonstate parties in a sover­
+eign dispute committed to this Court’s original jurisdic­
+
+
+10
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of the Court
+
+tion. Under 28 U. S. C. §1251, this Court exercises “origi­
+nal and exclusive” jurisdiction to resolve controversies
+between States that, if arising among independent na­
+tions, “would be settled by treaty or by force.” Kansas v.
+Colorado, 206 U. S. 46, 98 (1907). This Court has de­
+scribed its original jurisdiction as “delicate and grave,”
+Louisiana v. Texas, 176 U. S. 1, 15 (1900), and has
+guarded against its use as a forum in which “a state might
+be judicially impeached on matters of policy by its own
+subjects,” New Jersey v. New York, 345 U. S., at 373. In
+its sovereign capacity, a State represents the interests of
+its citizens in an original action, the disposition of which
+binds the citizens. Nebraska v. Wyoming, supra, at 22;
+New Jersey v. New York, 345 U. S., at 372–373. A respect
+for sovereign dignity, therefore, counsels in favor of re­
+straint in allowing nonstate entities to intervene in such
+disputes. See ibid.; accord, United States v. Texas, 143
+U. S. 621, 643 (1892) (“[E]xclusive jurisdiction was given
+to this court, because it best comported with the dignity of
+a State, that a case in which it was a party should be
+determined in the highest, rather than in a subordinate
+judicial tribunal of the nation”).5
+That the standard for intervention in original actions by
+nonstate entities is high, however, does not mean that it is
+insurmountable. Indeed, as the Special Master correctly
+recognized, our practice long has been to allow such inter­
+vention in compelling circumstances. See Oklahoma v.
+——————
+5 South Carolina has not invoked the Eleventh Amendment as a basis
+for opposing intervention. It has noted, however, that the proposed
+intervenors’ claims are, in effect, against South Carolina, and thus has
+reserved the right to argue that the Eleventh Amendment bars particu­
+lar forms of relief sought by the proposed intervenors. As in New Jersey
+v. New York, 345 U. S. 369, 372 (1953) (per curiam), we express no view
+whether the Eleventh Amendment is implicated where a nonstate
+entity seeks to intervene as a defendant in an original action over a
+State’s objection.
+
+
+Cite as: 558 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+Texas, 258 U. S., at 581. Over the “strong objections” of
+three States, for example, the Court allowed Indian tribes
+to intervene in a sovereign dispute concerning the equita­
+ble apportionment of the Colorado River. Arizona v. Cali
+fornia, 460 U. S., at 613. The Court did so notwithstand­
+ing the Tribes’ simultaneous representation by the United
+States. Id., at 608–609, 612. And in a boundary dispute
+among Texas, Louisiana, and the United States, the Court
+allowed the city of Port Arthur, Texas, to intervene for the
+purpose of protecting its interests in islands in which the
+United States claimed title. Texas v. Louisiana, 426 U. S.,
+at 466; Texas v. Louisiana, 416 U. S. 965 (1974). In both
+of these examples, the Court found compelling interests
+that warranted allowing nonstate entities to intervene in
+original actions in which the intervenors were nominally
+represented by sovereign parties.
+B
+1
+Applying the standard of New Jersey v. New York, su
+pra, here, we conclude that the CRWSP has demonstrated
+a sufficiently compelling interest that is unlike the inter­
+ests of other citizens of the States. The CRWSP is an
+unusual municipal entity, established as a joint venture
+with the encouragement of regulatory authorities in both
+States and designed to serve the increasing water needs of
+Union County, North Carolina, and Lancaster County,
+South Carolina. It has an advisory board consisting of
+representatives from both counties, draws its revenues
+from its bistate sales, and operates infrastructure and
+assets that are owned by both counties as tenants-in­
+common. We are told that approximately 100,000 indi­
+viduals in each State receive their water from the CRWSP
+and that “roughly half” of the CRWSP’s total withdrawals
+of water from the Catawba River go to South Carolina
+consumers. Reply of Catawba River Water Supply Project
+
+
+12
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of the Court
+
+to Exceptions of South Carolina to First Interim Report of
+Special Master 22 (hereinafter CRWSP Reply). It is diffi­
+cult to conceive of a more purely bistate entity.
+In addition, the CRWSP relies upon authority granted
+by both States to draw water from the Catawba River and
+transfer that water from the Catawba River basin. The
+CRWSP draws all of its water from an intake located
+below the Lake Wylie dam in South Carolina. South
+Carolina licensed the CRWSP to withdraw a total of 100
+mgd from the Catawba River and issued a certificate to
+the CRWSP in 1989 authorizing up to 20 mgd to be trans­
+ferred out of the Catawba River basin. Id., at 6–7; Answer
+to Bill of Complaint ¶21. Lancaster County currently uses
+approximately 2 mgd of this amount, Union County uses
+approximately 5 mgd, and the remaining 13 mgd are not
+used at this time. CRWSP Reply 7. The CRWSP pumps
+Union County’s allocation across the state border pursu­
+ant to a parallel certificate issued by North Carolina
+authorizing a 5 mgd transfer, ibid., and the complaint
+specifically identifies this transfer as contributing to
+South Carolina’s harm, Complaint ¶21.
+Thus, the
+CRWSP’s activities depend upon authority conferred by
+both States.
+On these facts, we think it is clear that the CRWSP has
+carried its burden of showing a compelling interest in the
+outcome of this litigation that distinguishes the CRWSP
+from all other citizens of the party States. See New Jersey
+v. New York, supra, at 373. Apart from its interest as a
+user of the Catawba River’s water, the CRWSP has made
+a $30 million investment in its plant and infrastructure,
+with each participating county incurring approximately
+half of this cost as debt. Each county is responsible for
+one-half of the CRWSP’s cost of operations, and the ven­
+ture is designed to break even from year to year. Any
+disruption to the CRWSP’s operations would increase—not
+lessen—the difficulty of our task in achieving a “just and
+
+
+Cite as: 558 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+equitable” allocation in this dispute. See Nebraska v.
+Wyoming, 325 U. S. 589, 618 (1945). We believe that the
+CRWSP has shown a compelling interest in protecting the
+viability of its operations, which are premised on a fine
+balance between the joint venture’s two participating
+counties.
+We are further persuaded that neither State can prop­
+erly represent the interests of the CRWSP in this litiga­
+tion. See New Jersey v. New York, 345 U. S., at 373. The
+complaint attributes a portion of the total water transfers
+that have harmed South Carolina to the CRWSP, yet
+North Carolina expressly states that it “cannot represent
+the interests of the joint venture.” Tr. of Oral Arg. 54. A
+moment’s reflection reveals why this is so. In this dispute,
+as in all disputes over limited resources, each State maxi­
+mizes its equitable share of the Catawba River’s water
+only by arguing that the other State’s equitable share
+must be reduced. See, e.g., Colorado v. New Mexico, 459
+U. S. 176, 186–187 (1982). It is thus likely that North
+Carolina, in response to South Carolina’s demand for a
+greater share of the Catawba River’s water, will take the
+position that downstream users—such as Lancaster
+County6—should receive less water. See Tr. of Oral Arg.
+52 (“From North Carolina’s perspective, South Carolina is
+receiving much more water under this negotiated agree­
+ment than they could ever hope to achieve in an equitable
+apportionment action”). The stresses that this litigation
+would place upon the CRWSP threaten to upset the fine
+balance on which the joint venture is premised, and nei­
+——————
+6 As a further complication, we are told, Lancaster County has an
+obligation to provide water service to certain customers in Mecklenburg
+County, North Carolina. CRWSP Reply 6. Thus, South Carolina may
+not be interested in protecting all uses of Lancaster County’s share of
+the CRWSP’s water. This additional intermingling of state interests
+further supports our conclusion that neither State adequately repre­
+sents the CRWSP’s inherently bistate interests.
+
+
+14
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of the Court
+
+ther State has sufficient interest in maintaining that
+balance to represent the full scope of the CRWSP’s
+interests.
+Accordingly, we believe that the CRWSP should be
+allowed to intervene to represent its own compelling inter­
+ests in this litigation. We thus overrule South Carolina’s
+exception.
+2
+We conclude, as well, that Duke Energy has demon­
+strated powerful interests that likely will shape the out­
+come of this litigation. To place these interests in context,
+it is instructive to consider the “flexible” process by which
+we arrive at a “ ‘just and equitable apportionment’ ” of an
+interstate stream. Colorado v. New Mexico, supra, at 183.
+We do not approach the task in formulaic fashion, New
+Jersey v. New York, 283 U. S., at 343, but we consider “all
+relevant factors,” including, but not limited to:
+“ ‘physical and climatic conditions, the consumptive
+use of water in the several sections of the river, the
+character and rate of return flows, the extent of estab­
+lished uses, the availability of storage water, the prac­
+tical effect of wasteful uses on downstream areas,
+[and] the damage to upstream areas as compared to
+the benefits to downstream areas if a limitation is im­
+posed on the former.’ ” Colorado v. New Mexico, su
+pra, at 183 (quoting Nebraska v. Wyoming, supra, at
+618).
+In performing this task, there is no substitute for “ ‘the
+exercise of an informed judgment,’ ” Colorado v. New
+Mexico, supra, at 183, and we will not hesitate to seek out
+the most relevant information from the source best situ­
+ated to provide it. See Maryland v. Louisiana, 451 U. S.,
+at 745, n. 21 (allowing intervention of private pipeline
+companies “in the interest of a full exposition of the
+
+
+Cite as: 558 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+issues”).
+With these considerations in mind, we turn to Duke
+Energy’s asserted interests. Duke Energy operates 11
+dams and reservoirs in both States that generate electric­
+ity for the region and control the flow of the river. The
+complaint itself acknowledges the relationship between
+river flow and Duke Energy’s operations, noting that a
+severe drought that ended in 2002 forced Duke Energy to
+“reduce dramatically” its hydroelectric power generation
+from the Catawba River. Complaint ¶17(c). It is likely
+that any equitable apportionment of the river will need to
+take into account the amount of water that Duke Energy
+needs to sustain its operations and provide electricity to
+the region, thus giving Duke Energy a strong interest in
+the outcome of this litigation. See Colorado v. New Mex
+ico, supra, at 188 (noting the appropriateness of consider­
+ing “the balance of harm and benefit that might result”
+from a State’s proposed diversion of a river). There is,
+moreover, no other similarly situated entity on the Ca­
+tawba River, setting Duke’s interests apart from the class
+of all other citizens of the States. See New Jersey v. New
+York, supra, at 373.
+Just as important, Duke Energy has a unique and com­
+pelling interest in protecting the terms of its existing
+FERC license and the CRA that forms the basis of Duke
+Energy’s pending renewal application.7 Through its dams,
+Duke Energy controls the flow of the Catawba River under
+the terms of its 50-year FERC license, which regulates the
+very subject matter in dispute: the river’s minimum flow
+into South Carolina. See Order Issuing License (Major),
+Duke Power Co., Project No. 2232, 20 F. P. C. 360, 371–372
+(1958) (Articles 31 and 32). The CRA, likewise, represents
+——————
+7 Duke Energy is operating under a temporary extension of its 50­
+year FERC license, which expired in 2008, and the CRA represents
+Duke Energy’s investment in a new 50-year license.
+
+
+16
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of the Court
+
+the full consensus of 70 parties from both States regarding
+the appropriate minimum continuous flow of Catawba
+River water into South Carolina under a variety of natural
+conditions and, in times of drought, the conservation
+measures to be taken by entities that withdraw water
+from the Catawba River. These factors undeniably are
+relevant to any “just and equitable apportionment” of the
+Catawba River, see Colorado v. New Mexico, 459 U. S., at
+183, and we are likely to consider them in reaching our
+ultimate disposition of this case. Thus, we find that Duke
+Energy has carried its burden of showing unique and
+compelling interests.
+We also have little difficulty in concluding that neither
+State sufficiently represents these compelling interests.
+Neither State has signed the CRA or expressed an inten­
+tion to defend its terms. To the contrary, North Carolina
+has expressed an intention to seek its modification. Tr. of
+Oral Arg. 51–52. Given the importance of Duke Energy’s
+interests and their relevance to our ultimate decision, we
+believe these interests should be represented by a party in
+this action, and we find that neither State is situated to do
+so properly. We believe that Duke Energy should be
+permitted to represent its own interests.
+For these reasons, we agree with the Special Master
+that Duke Energy should be permitted to intervene, and
+we overrule South Carolina’s exception in that regard.
+3
+We conclude, however, that Charlotte has not carried its
+burden of showing a sufficient interest for intervention in
+this action. Charlotte is a municipality of North Carolina,
+and for purposes of this litigation, its transfers of water
+from the Catawba River basin constitute part of North
+Carolina’s equitable share. While it is true that the com­
+plaint names Charlotte as an entity authorized by North
+Carolina to carry out a large transfer of water from the
+
+
+Cite as: 558 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+Catawba River basin, the complaint does not seek relief
+against Charlotte directly. Rather, the complaint seeks
+relief against all North Carolina-authorized transfers of
+water from the Catawba River basin, “past or future,” in
+excess of North Carolina’s equitable share. Complaint,
+Prayer for Relief ¶2. Charlotte, therefore, occupies a class
+of affected North Carolina users of water, and the magni­
+tude of Charlotte’s authorized transfer does not distin­
+guish it in kind from other members of the class. See New
+Jersey v. New York, 345 U. S., at 373, and n. (noting that
+Philadelphia represented half of the Pennsylvania’s citi­
+zens in the watershed). Nor does Charlotte represent
+interstate interests that fall on both sides of this dispute,
+as the CRWSP does, such that the viability of Charlotte’s
+operations in the face of this litigation is called into ques­
+tion. Its interest is solely as a user of North Carolina’s
+share of the Catawba River’s water.
+Charlotte’s interest falls squarely within the category of
+interests with respect to which a State must be deemed to
+represent all of its citizens. As we recognized in New
+Jersey v. New York, a State’s sovereign interest in ensur­
+ing an equitable share of an interstate river’s water is
+precisely the type of interest that the State, as parens
+patrie, represents on behalf of its citizens. See also United
+States v. Nevada, 412 U. S., at 539; Nebraska v. Wyoming,
+325 U. S., at 616. That is why, in New Jersey v. New York,
+supra, we required that a proposed intervenor show a
+compelling interest “in his own right,” distinct from the
+collective interest of “all other citizens and creatures of the
+state,” whose interest the State presumptively represents
+in matters of sovereign policy. Id., at 373. We conclude
+that Charlotte has not carried that burden. Thus, respect
+for “sovereign dignity” requires us to recognize that North
+Carolina properly represents Charlotte in this dispute
+over a matter of uniquely sovereign interest. See ibid.
+North Carolina’s own statements only reinforce this
+
+
+18
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of the Court
+
+conclusion. North Carolina has said that it will defend
+Charlotte’s authorized 33 mgd transfer. Tr. of Oral Arg.
+52–53. The State expressly disagrees with Charlotte’s
+assertion that the city’s interest is not adequately repre­
+sented by the State. Brief of State of North Carolina in
+Opposition to Plaintiff’s Exceptions 22. Indeed, in re­
+sponse to Charlotte’s motion to intervene, North Carolina
+wrote the following:
+“[T]he State must represent the interests of every per­
+son that uses water from the North Carolina portion
+of the Catawba River basin. In fact, the State has a
+particular concern for its political subdivisions, such
+as Charlotte, which actually operate the infrastruc­
+ture to provide water to the State’s citizens. . . . The
+State has every reason to defend the [transfers] that it
+has authorized for the benefit of its citizens. The
+State cannot agree with any implication that because
+it represents all of the users of water in North Caro­
+lina it cannot, or will not represent the interests of
+Charlotte in this litigation initiated by South Caro­
+lina.” Brief for State of North Carolina in Response to
+City of Charlotte’s Motion for Leave to Intervene and
+File Answer 1–2.
+These statements are consistent with North Carolina’s
+role as parens patriae, and we see no reason that North
+Carolina cannot represent Charlotte’s interest in this
+sovereign dispute. See New Jersey v. New York, supra, at
+374 (noting that Philadelphia’s interest “is invariably
+served by the Commonwealth’s position”).
+Because we are not persuaded that Charlotte’s interest
+is sufficiently unique and not properly represented by
+North Carolina to require the city’s intervention as a party
+in this litigation, we sustain South Carolina’s exception.8
+——————
+8 Federal
+
+Rule of Civil Procedure 24 does not require a contrary re­
+
+
+Cite as: 558 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+III
+We thus overrule South Carolina’s exceptions to the
+Special Master’s First Interim Report with respect to the
+CRWSP and Duke Energy, but we sustain South Caro­
+lina’s exception with respect to Charlotte.
+It is so ordered.
+
+——————
+sult. This Court’s Rule 17.2 allows the Federal Rules of Civil Procedure
+to be taken as “guides” to procedure in original actions. See Arizona v.
+California, 460 U. S. 605, 614 (1983). Even if we were to look to the
+standard for intervention of right in civil matters, Charlotte would not
+be entitled to intervene in this dispute because an existing party—
+North Carolina—adequately represents Charlotte’s interest. See Fed.
+Rule Civ. Proc. 24(a)(2). To the extent that the standard for permissive
+intervention may be an appropriate guide when a movant presents a
+sufficiently “important but ancillary concern,” see Arizona, supra, at
+614–616, we find no such concern here. North Carolina’s adequate
+representation of Charlotte and the heightened standard for interven­
+tion in original actions, see New Jersey v. New York, 345 U. S., at 373,
+persuade us not to apply the standard for permissive intervention set
+forth in Federal Rule of Civil Procedure 24(b)(1)(B).
+
+

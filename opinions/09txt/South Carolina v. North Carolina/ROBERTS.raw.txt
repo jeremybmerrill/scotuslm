@@ -1,0 +1,614 @@
+Cite as: 558 U. S. ____ (2010)
+
+1
+
+Opinion of ROBERTS, C. J.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 138, Orig.
+_________________
+
+STATE OF SOUTH CAROLINA, PLAINTIFF v. STATE 
+
+OF NORTH CAROLINA 
+
+ON EXCEPTIONS TO THE REPORT OF THE SPECIAL MASTER
+[January 20, 2010]
+
+CHIEF JUSTICE ROBERTS, with whom JUSTICE THOMAS,
+JUSTICE GINSBURG, and JUSTICE SOTOMAYOR join, concur
+ring in the judgment in part and dissenting in part.
+The Court correctly rejects the Special Master’s formu
+lation of a new test for intervention in original actions,
+and correctly denies the city of Charlotte leave to inter
+vene. The majority goes on, however, to misapply our
+established test in granting intervention to Duke Energy
+Carolinas, LLC (Duke Energy), and the Catawba River
+Water Supply Project (CRWSP).
+The result is literally unprecedented: Even though
+equitable apportionment actions are a significant part of
+our original docket, this Court has never before granted
+intervention in such a case to an entity other than a State,
+the United States, or an Indian tribe. Never. That is
+because the apportionment of an interstate waterway is a
+sovereign dispute, and the key to intervention in such an
+action is just that—sovereignty. The Court’s decision to
+permit nonsovereigns to intervene in this case has the
+potential to alter in a fundamental way the nature of our
+original jurisdiction, transforming it from a means of
+resolving high disputes between sovereigns into a forum
+for airing private interests. Given the importance of
+maintaining the proper limits on that jurisdiction, I re
+spectfully dissent.
+
+
+2
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of ROBERTS, C. J.
+
+I
+Two basic principles have guided the exercise of our
+constitutionally conferred original jurisdiction. The first is
+an appreciation that our original jurisdiction, “delicate
+and grave,” Louisiana v. Texas, 176 U. S. 1, 15 (1900), was
+granted to provide a forum for the peaceful resolution of
+weighty controversies involving the States. “The model
+case for invocation of this Court’s original jurisdiction is a
+dispute between States of such seriousness that it would
+amount to casus belli if the States were fully sovereign.”
+Texas v. New Mexico, 462 U. S. 554, 571, n. 18 (1983). In
+determining whether to exercise original jurisdiction, we
+accordingly focus on “the nature of the interest of the
+complaining State,” and in particular the “seriousness and
+dignity” of the claim asserted. Mississippi v. Louisiana,
+506 U. S. 73, 77 (1992) (internal quotation marks omitted).
+Original jurisdiction is for the resolution of state claims,
+not private claims. To invoke that jurisdiction, a State
+“must, of course, represent an interest of her own and not
+merely that of her citizens or corporations.” Arkansas v.
+Texas, 346 U. S. 368, 370 (1953); see Kansas v. Colorado,
+533 U. S. 1, 8–9 (2001); Pennsylvania v. New Jersey, 426
+U. S. 660, 665 (1976) (per curiam) (It is “settled doctrine
+that a State has standing to sue only when its sovereign or
+quasi-sovereign interests are implicated and it is not
+merely litigating as a volunteer the personal claims of its
+citizens”). And in deciding whether a State meets that
+requirement, this Court considers whether the State is “in
+full control of [the] litigation.” Kansas v. Colorado, supra,
+at 8.
+The second guiding principle is a practical one: We are
+not well suited to assume the role of a trial judge. See
+Ohio v. Wyandotte Chemicals Corp., 401 U. S. 493, 498
+(1971). We have attempted to address that reality by
+relying on the services of able special masters, who have
+become vitally important in allowing us to manage our
+
+
+Cite as: 558 U. S. ____ (2010)
+
+3
+
+Opinion of ROBERTS, C. J.
+
+original docket. But the responsibility for the exercise of
+this Court’s original jurisdiction remains ours alone under
+the Constitution.
+These two considerations—that our original jurisdiction
+is limited to high claims affecting state sovereignty, and
+that practical realities limit our ability to act as a trial
+court—converge in our standard for intervention in origi
+nal actions. We articulated that standard in New Jersey v.
+New York, 345 U. S. 369, 373 (1953) (per curiam). There,
+we denied the city of Philadelphia’s motion for leave to
+intervene in an action, to which the Commonwealth of
+Pennsylvania was already a party, involving the appor
+tionment of the Delaware River. Id., at 373–374. We set
+out the following test for intervention in an original action:
+“An intervenor whose state is already a party should have
+the burden of showing some compelling interest in his own
+right, apart from his interest in a class with all other
+citizens and creatures of the state, which interest is not
+properly represented by the state.” Id., at 373.
+This exacting standard is grounded on a “necessary
+recognition of sovereign dignity,” id., at 373, under which
+“the state, when a party to a suit involving a matter of
+sovereign interest, ‘must be deemed to represent all its
+citizens,’ ” id., at 372 (quoting Kentucky v. Indiana, 281
+U. S. 163, 173–174 (1930)). In applying that doctrine to
+motions to intervene, the New Jersey v. New York test
+precludes a State from being “judicially impeached on
+matters of policy by its own subjects,” and prevents the
+use of the Court’s original jurisdiction to air “intramural
+dispute[s]” that should be settled in a different forum—
+namely, within the States. 345 U. S., at 373.
+The New Jersey v. New York test is also “a working rule
+for good judicial administration.” Ibid. Without it, “there
+would be no practical limitation on the number of citizens,
+as such, who would be entitled to be made parties.” Ibid.
+Indeed, the Court observed that allowing Philadelphia to
+
+
+4
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of ROBERTS, C. J.
+
+intervene would have made it difficult to refuse attempts
+to intervene by other users of water from the Delaware
+River, including other cities, and even “[l]arge industrial
+plants.” Ibid. The New Jersey v. New York test, properly
+applied, provides a much-needed limiting principle that
+prevents the expansion of our original proceedings “to the
+dimensions of ordinary class actions,” ibid., or “town
+meeting lawsuits,” id., at 376 (Jackson, J., dissenting).
+See also Ohio v. Wyandotte Chemicals Corp., supra, at
+504; Utah v. United States, 394 U. S. 89, 95–96 (1969) (per
+curiam).
+II
+Applying these principles, this Court has never granted
+a nonsovereign entity’s motion to intervene in an equitable
+apportionment action. The reason is straightforward: An
+interest in water is an interest shared with other citizens,
+and is properly pressed or defended by the State. And a
+private entity’s interest in its particular share of the
+State’s water, once the water is allocated between the
+States, is an “intramural dispute” to be decided by each
+State on its own. New Jersey v. New York, supra, at 373.
+The interests of a State’s citizens in the use of water
+derive entirely from the State’s sovereign interest in the
+waterway. If the State has no claim to the waters of an
+interstate river, then its citizens have none either. See
+Hinderlider v. La Plata River & Cherry Creek Ditch Co.,
+304 U. S. 92, 102 (1938). We have long recognized, there
+fore, that the State must be deemed to represent its citi
+zens’ interests in an equitable apportionment action. See
+United States v. Nevada, 412 U. S. 534, 539 (1973) (per
+curiam) (“For the purposes of dividing the waters of an
+interstate stream with another State, [a State] has the
+right, parens patriae, to represent all the nonfederal users
+in its own State insofar as the share allocated to the other
+State is concerned”). Precisely because the State repre
+
+
+Cite as: 558 U. S. ____ (2010)
+
+5
+
+Opinion of ROBERTS, C. J.
+
+sents all its citizens in an equitable apportionment action,
+these citizens have no claim themselves against the other
+State. They are instead “bound by the result reached
+through representation by their respective States,” regard
+less of whether those citizens are parties to the suit.
+Nebraska v. Wyoming, 515 U. S. 1, 22 (1995).
+This basic principle applies without regard to whether
+the State agrees with and will advance the particular
+interest asserted by a specific private entity. The State
+“ ‘must be deemed to represent all its citizens,’ ” New Jer
+sey v. New York, supra, at 372 (quoting Kentucky v. Indi
+ana, supra, at 173–174; emphasis added), not just those
+who subscribe to the State’s position before this Court.
+The directive that a State cannot be “judicially impeached
+on matters of policy by its own subjects,” New Jersey v.
+New York, supra, at 373, obviously applies to the case in
+which a subject disagrees with the position of the State.
+A State’s citizens also need not be made parties to an
+equitable apportionment action because the Court’s judg
+ment in such an action does not determine the water
+rights of any individual citizen. We made that clear long
+ago in two decisions arising from the same dispute, Wyo
+ming v. Colorado, 298 U. S. 573 (1936), and Wyoming v.
+Colorado, 309 U. S. 572 (1940). In those cases, Wyoming
+sought to enforce this Court’s earlier decree apportioning
+the Laramie River. See Wyoming v. Colorado, 260 U. S. 1
+(1922). We held that the decree controlled the allocation
+of water between Wyoming and Colorado, not within
+them. As we recognized, our decision apportioning the
+river did not “withdraw water claims dealt with therein
+from the operation of local laws relating to their transfer
+or . . . restrict their utilization in ways not affecting the
+rights of one State and her claimants as against the other
+State and her claimants.” 298 U. S., at 584. Thus, al
+though the decree referred to particular uses of water in
+Colorado, we held that those individual uses could vary
+
+
+6
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of ROBERTS, C. J.
+
+from the terms set out in the decree, so long as the total
+diversion of water in Colorado was no greater than the
+decree allowed. See id., at 584–585; 309 U. S., at 579–581.
+We reiterated the point in Nebraska v. Wyoming, 325 U. S.
+589, 627 (1945), observing that the apportionment of a
+waterway between the States has only an “indirect effect”
+on the rights of individuals within the States.
+All this explains our long history of rejecting attempts
+by nonsovereign entities to intervene in equitable appor
+tionment actions. New Jersey v. New York was itself an
+equitable apportionment suit, and we denied intervention
+in that case. We have also summarily denied motions to
+intervene in other water disputes between the States. See
+Arizona v. California, 514 U. S. 1081 (1995); Arizona v.
+California, 345 U. S. 914 (1953); Nebraska v. Wyoming,
+296 U. S. 548 (1935); Wisconsin v. Illinois, 279 U. S. 821
+(1929). And we have strongly intimated in other decisions
+(albeit in dictum) that private entities can rarely, if ever,
+intervene in original actions involving the apportionment
+of interstate waterways. See United States v. Nevada,
+supra, at 538 (“[I]ndividual users of water . . . ordinarily
+would have no right to intervene in an original action in
+this Court”); Nebraska v. Wyoming, 515 U. S., at 22 (“We
+have said on many occasions that water disputes among
+States may be resolved by compact or decree without the
+participation of individual claimants”).1
+——————
+1 The
+
+majority contends that this dissent reads our precedents to
+establish “a rule against nonstate intervention” in equitable appor
+tionment actions. Ante, at 7, n. 3. The number of nonsovereigns that
+the Court should permit to intervene in water disputes is small—
+indeed, it was zero until today. But that does not mean that a private
+entity could not satisfy the New Jersey v. New York test by, for exam
+ple, asserting water-use rights that are not dependent upon the rights
+of state parties. A private party (or perhaps a Compact Clause entity)
+with a federal statutory right to a certain quantity of water might have
+a compelling interest in an equitable apportionment action that is not
+fairly represented by the States. The putative intervenors in this case,
+
+
+Cite as: 558 U. S. ____ (2010)
+
+7
+
+Opinion of ROBERTS, C. J.
+
+The majority contends that the result in this case is not
+a “new development,” and that its holding is supported by
+“nearly 90 years” of precedent. Ante, at 6–7. But in sup
+port of those statements, the majority cites only four
+decisions in which the Court has granted a motion to
+intervene in an original suit—and of course none in which
+this Court granted the motion of a nonsovereign entity to
+intervene in an equitable apportionment action. The cases
+the majority cites demonstrate what constitutes a “compel
+ling interest in [the intervenor’s] own right, apart from his
+interest in a class with all other citizens and creatures of
+the state.” New Jersey v. New York, supra, at 373. But
+the intervenor interests in those cases were quite different
+from the general shared interest in water at issue here.
+Take Arizona v. California, 460 U. S. 605 (1983). There
+we allowed several Indian Tribes to intervene in a water
+dispute. Id., at 615. As the Court in that case made clear,
+however, the Indian Tribes were allowed to intervene
+because they were sovereign entities. Ibid. The Court
+distinguished New Jersey v. New York on that very
+ground. See 460 U. S., at 615, n. 5.
+The other cases relied upon by the majority are even
+farther afield. See Maryland v. Louisiana, 451 U. S. 725
+(1981); Texas v. Louisiana, 426 U. S. 465 (1976) (per cu
+riam); Oklahoma v. Texas, 258 U. S. 574 (1922). None was
+an equitable apportionment action. Two involved bound
+ary disputes in which the Court allowed nonsovereign
+intervenors to claim title to certain parcels of property.
+See Texas v. Louisiana, supra, at 466 (permitting inter
+vention by the city of Port Arthur, Texas); Oklahoma v.
+Texas, supra, at 580–581 (same for private parties). A
+claim to title in a particular piece of property is quite
+different from a general interest shared by all citizens in
+the State’s waters. And it would be particularly inapt to
+—————— 
+
+however, do not hold rights of this sort. 
+
+
+
+8
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of ROBERTS, C. J.
+
+draw general conclusions about intervention from Okla
+homa v. Texas, in which the Court took the southern half
+of the Red River into receivership. See 258 U. S., at 580.
+In subsequently allowing persons to intervene to assert
+claims to the subject property, the Court relied explicitly
+on the fact that the receiver had possession and control of
+the claimed parcels, and “no other court lawfully [could]
+interfere with or disturb that possession or control.” Id.,
+at 581.
+The majority’s reliance on Maryland v. Louisiana is
+equally unavailing. There, several States challenged the
+constitutionality of Louisiana’s application of a tax on
+natural gas that was brought into that State. 451 U. S., at
+728. In two sentences within a long footnote, the Court
+mentioned that it was permitting a group of pipeline
+companies to intervene and challenge the tax. Id., at 745,
+n. 21. The Court made clear that the pipeline companies
+were able to intervene in light of the particular circum
+stances in that case—namely, Louisiana’s tax was “di
+rectly imposed on the owner of imported gas,” and “the
+pipelines most often own[ed] the gas.” Ibid. Again, an
+interest in a tax imposed only on discrete parties is obvi
+ously different from a general interest shared by all citi
+zens of the State.
+III
+Charlotte, Duke Energy, and CRWSP claim a variety of
+specific needs for water to justify their intervention. But
+all those particular needs derive from an interest in the
+water of the Catawba River. That interest is not exclu
+sive, but is instead shared “with all other citizens and
+creatures of the state.” New Jersey v. New York, 345 U. S.,
+at 373. The State’s “citizens and creatures” certainly put
+the Catawba’s water and flow to different uses—many for
+drinking water, some for farming or recreation, others for
+generating power. That does not, however, make their
+
+
+Cite as: 558 U. S. ____ (2010)
+
+9
+
+Opinion of ROBERTS, C. J.
+
+interest in the water itself unique. And it is the respective
+interests of the States in the water itself that are being
+litigated in this original action—not the claims of particu
+lar citizens that they be allowed to put the water to speci
+fied uses. The latter subject is “an intramural dispute
+over the distribution of water within the [State],” ibid.,
+and is not the subject of this original proceeding.
+The majority recognizes as much with respect to Char
+lotte, ante, at 16–18, but departs from these principles in
+granting intervention to Duke Energy and CRWSP. The
+majority’s reasons for doing so do not withstand scrutiny.
+The majority initially contends that Duke Energy
+should be allowed to intervene because it possesses “rele
+vant information” that we are “likely to consider.” Ante, at
+14, 16. Nonparties often do, but that is not a “compelling
+interest” justifying intervention. I have little doubt that
+Philadelphia possessed pertinent information in New
+Jersey v. New York, but we did not permit Philadelphia to
+intervene on that ground. Parties to litigation have ready
+means of access to relevant information held by nonpar
+ties, and those nonparties can certainly furnish such
+information on their own if they consider it in their best
+interests (through, for example, participation as amici
+curiae).
+The majority also states that Duke Energy has compel
+ling interests in its hydroelectric operations along the
+river, and in “the amount of water that Duke Energy
+needs to sustain its operations and provide electricity to
+the region.” Ante, at 15. These are simply interests in a
+particular use of water or its flow. Even if Duke Energy
+uses water for particularly important purposes, its inter
+ests are no different in kind from the interests of any other
+entity that relies on water for its commercial operations.
+Finally, the majority asserts that Duke Energy “has a
+unique and compelling interest in protecting the terms of
+its existing [Federal Energy Regulatory Commission
+
+
+10
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of ROBERTS, C. J.
+
+(FERC)] license and the [Comprehensive Licensing Agree
+ment (CRA)] that forms the basis of Duke Energy’s pend
+ing renewal application.” Ibid. And the majority contends
+that neither State represents these interests because
+“[n]either State has signed the CRA or expressed an inten
+tion to defend its terms,” and because North Carolina has
+even expressed its intent to challenge the terms of the
+CRA in this action. Ante, at 16.
+Again, all this amounts to is an articulation of the rea
+son Duke Energy asserts a particular interest in the wa
+ters of the Catawba. Other citizens of North Carolina
+doubtless have reasons of their own, ones they find as
+important as Duke Energy believes its to be. Weighing
+those interests is an “intramural” matter for the State.
+New Jersey v. New York, supra, at 373. In addition, the
+Federal Government is doubtless familiar with the pend
+ing FERC proceedings, and it sees no corresponding need
+for us to grant Duke Energy’s motion to intervene. See
+Brief for United States as Amicus Curiae 20, n. 3.
+As for CRWSP, the Special Master concluded that it
+should be allowed to intervene, but only because its posi
+tion was “similar analytically to Charlotte’s.” First In
+terim Report of Special Master, O. T. 2008, No. 138, Orig.,
+p. 25. The Court rejects Charlotte’s motion, but nonethe
+less allows CRWSP to intervene on a ground not relied
+upon by the Special Master. According to the majority,
+CRWSP should be allowed to intervene because, as a
+bistate entity, its full range of interests cannot be repre
+sented entirely by either North or South Carolina. See
+ante, at 11–14.
+CRWSP’s motion arguably presents a different case
+from that of Duke Energy, one not definitively resolved by
+this Court in New Jersey v. New York. At the end of the
+day, however, I agree with the Special Master’s premise—
+CRWSP’s position is really no different from Charlotte’s. I
+disagree with her conclusion, of course, because I agree
+
+
+Cite as: 558 U. S. ____ (2010)
+
+11
+
+Opinion of ROBERTS, C. J.
+
+with the Court that Charlotte should not be allowed to
+intervene.
+A bistate entity cannot be allowed to intervene merely
+because it embodies an “intermingling of state interests.”
+Ante, at 13, n. 6. The same would be true of any bistate
+entity, or indeed any corporation or individual conducting
+business in both States. An exception for such cases
+would certainly swallow the New Jersey v. New York rule.
+Entities with interests in both States must seek to vindi
+cate those interests within each State. Bistate entities are
+not States entitled to invoke our original jurisdiction, and
+should not be effectively accorded an automatic right to
+intervene as parties in cases within that jurisdiction.
+With respect to both Duke Energy and CRWSP, the
+majority further relies on its conclusion that the States
+will not “properly represent” the interests of those entities.
+Ante, at 13; see ante, at 16. If by that the Court means
+that the States may adopt positions adverse to Duke
+Energy and CRWSP, that surely cannot be enough. The
+guiding principle articulated in New Jersey v. New York is
+“that the state, when a party to a suit involving a matter
+of sovereign interest, ‘must be deemed to represent all its
+citizens,’ ” and may not be “judicially impeached on mat
+ters of policy by its own subjects.” 345 U. S., at 372–373
+(quoting Kentucky v. Indiana, 281 U. S., at 173–174). This
+case involves a “matter of sovereign interest”—the equita
+ble apportionment of water—and the States therefore
+“properly represen[t]” the shared interests in water of “all”
+their citizens, including Duke Energy and CRWSP. 345
+U. S., at 372–373. An interest is “not properly repre
+sented” by a State, id., at 373, when it is not a sovereign
+interest but instead a parochial one, such as the interests
+held to justify intervention in the cases on which the
+majority relies. See supra, at 7–8.
+The majority also pays little heed to the practical con
+straints on this Court’s original jurisdiction. It is hard to
+
+
+12
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of ROBERTS, C. J.
+
+see how the arguments the Court accepts today could not
+also be pressed by countless other water users in either
+North or South Carolina. Under the Court’s analysis, I
+see “no practical limitation on the number of citizens, as
+such, who would be entitled to be made parties.” New
+Jersey v. New York, supra, at 373. To the extent interven
+tion is allowed for some private entities with interests in
+the water, others who also have an interest will feel com
+pelled to intervene as well—and we will be hard put to
+refuse them. See Utah v. United States, 394 U. S., at 95–
+96 (denying intervention to a corporation that sought to
+quiet its title to land because, “[i]f [it were] admitted,
+fairness would require the admission of any of the other
+120 private landowners who wish to quiet their title . . . ,
+greatly increasing the complexity of this litigation”). An
+equitable apportionment action will take on the character
+istics of an interpleader case, with all those asserting
+interests in the limited supply of water jostling for their
+share like animals at a water hole. And we will find our
+selves in a “quandary whereby we must opt either to pick
+and choose arbitrarily among similarly situated litigants
+or to devote truly enormous portions of our energies to
+[original] matters.” Ohio v. Wyandotte Chemicals Corp.,
+401 U. S., at 504.
+Allowing nonsovereign entities to intervene as parties
+will inevitably prolong the resolution of this and other
+equitable apportionment actions, which already take
+considerable time. Intervenors do not come alone—they
+bring along more issues to decide, more discovery re
+quests, more exceptions to the recommendations of the
+Special Master. In particular, intervention makes settling
+a case more difficult, as a private intervenor has the right
+to object to a settlement agreement between the States, if
+not the power to block a settlement altogether. Cf. Fire
+fighters v. Cleveland, 478 U. S. 501, 529 (1986).
+And all this for what? The Special Master, and through
+
+
+Cite as: 558 U. S. ____ (2010)
+
+13
+
+Opinion of ROBERTS, C. J.
+
+her the Court, can have the benefit of the views of those
+seeking to intervene by according them the status of amici
+curiae. “Where he presents no new questions, a third
+party can contribute usually most effectively and always
+most expeditiously by a brief amicus curiae and not by
+intervention.” Bush v. Viterna, 740 F. 2d 350, 359 (CA5
+1984) (per curiam) (internal quotation marks omitted).
+Courts often treat amicus participation as an alternative
+to intervention. See 7C C. Wright, A. Miller, & M. Kane,
+Federal Practice and Procedure §1913, p. 495, and n. 26
+(2007) (citing examples). And this Court often denies
+motions to intervene while granting leave to participate as
+an amicus in original actions generally, see, e.g., Kentucky
+v. Indiana, 445 U. S. 941 (1980); United States v. Califor
+nia, 377 U. S. 926 (1964); cf. New Hampshire v. Maine,
+426 U. S. 363, 365, n. 2 (1976), and in equitable appor
+tionment actions specifically, see, e.g., Arizona v. Califor
+nia, 530 U. S. 392, 419, n. 6 (2000); Nebraska v. Wyoming,
+507 U. S. 584, 589–590 (1993).
+Nebraska v. Wyoming is particularly instructive on this
+point. The Court there adopted the recommendation of
+the Special Master to deny intervention to certain entities.
+See id., at 589–590; Second Interim Report of Special
+Master, O. T. 1991, No. 108, Orig., pp. 108–109. The
+interests of those entities in the water dispute were quite
+similar to the interests of the entities seeking to intervene
+here: One operated a powerplant and a reservoir on the
+Laramie River, and another was a power district seeking
+to protect its FERC license. See First Interim Report of
+Special Master, O. T. 1988, No. 108, Orig., pp. 11–14, 9a.
+While it adopted the Special Master’s recommendation to
+deny intervention, the Court nonetheless permitted those
+entities to participate as amici. See 507 U. S., at 589–590;
+Nebraska v. Wyoming, 502 U. S. 1055 (1992).2 The major
+——————
+2 No
+
+party filed exceptions to the Special Master’s recommendation to
+
+
+14
+
+SOUTH CAROLINA v. NORTH CAROLINA
+Opinion of ROBERTS, C. J.
+
+ity does not explain why that familiar and customary
+approach might be inadequate in this case.
+*
+*
+*
+Our original jurisdiction over actions between States is
+concerned with disputes so serious that they would be
+grounds for war if the States were truly sovereign. Texas
+v. New Mexico, 462 U. S., at 571, n. 18. A dispute between
+States over rights to water fits that bill; a squabble among
+private entities within a State over how to divvy up that
+State’s share does not. A judgment in an equitable appor
+tionment action binds the States; it is not binding with
+respect to particular uses asserted by private entities.
+Allowing intervention by such entities would vastly com
+plicate and delay already complicated and lengthy actions.
+And the benefits private entities might bring can be read
+ily secured, as has typically been done, by their participa
+tion as amici curiae.
+In light of all this, it is difficult to understand why the
+Court grants nonsovereign entities leave to intervene in
+this equitable apportionment action, and easy to under
+stand why the Court has never before done so in such a
+case.
+I would grant South Carolina’s exceptions, and deny the
+motions to intervene.
+
+——————
+deny intervention in Nebraska v. Wyoming. The Special Master later
+allowed one of the entities, Basin Electric Power Cooperative, to inter
+vene as a party based on changed circumstances. See Addendum to
+Reply Brief for Duke Energy 2–5. That decision was never reviewed by
+the Court.
+
+

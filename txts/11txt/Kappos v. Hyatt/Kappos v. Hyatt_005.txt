@@ -1,0 +1,37 @@
+2
+
+KAPPOS v. HYATT
+Opinion of the Court
+
+In deciding what weight to afford that evidence, the district court may, however, consider whether the applicant
+had an opportunity to present the evidence to the PTO.
+I
+The Patent Act of 1952 establishes the process by which
+the PTO examines patent applications. A patent examiner first determines whether the application satisfies the
+statutory prerequisites for granting a patent. 35 U. S. C.
+§131. If the examiner denies the application, the applicant may file an administrative appeal with the PTO’s
+Board of Patent Appeals and Interferences (Board). §134.
+If the Board also denies the application, the Patent Act
+gives the disappointed applicant two options for judicial
+review of the Board’s decision. The applicant may either:
+(1) appeal the decision directly to the United States Court
+of Appeals for the Federal Circuit, pursuant to §141; or (2)
+file a civil action against the Director of the PTO in the
+United States District Court for the District of Columbia
+pursuant to §145.1
+In a §141 proceeding, the Federal Circuit must review
+the PTO’s decision on the same administrative record that
+was before the PTO. §144. Thus, there is no opportunity
+for the applicant to offer new evidence in such a proceeding. In Dickinson v. Zurko, 527 U. S. 150 (1999), we ad——————
+1 On September 16, 2011, the President signed the Leahy-Smith
+America Invents Act, 125 Stat. 284, into law. That Act made significant changes to Title 35 of the United States Code, some of which are
+related to the subject matter of this case. For example, the Act changed
+the venue for §145 actions from the United States District Court for the
+District of Columbia to the United States District Court for the Eastern District of Virginia, id., at 316, changed the name of the Board
+of Patent Appeals and Interferences to the Patent Trial and Appeal
+Board, id., at 290, and changed the name of interferences to derivation
+proceedings, ibid. Neither party contends that the Act has any effect
+on the questions before us, and all references and citations in this
+opinion are to the law as it existed prior to the Act.
+
+

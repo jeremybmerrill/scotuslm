@@ -1,0 +1,120 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+SOUTHERN UNION CO. v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FIRST CIRCUIT
+No. 11–94. Argued March 19, 2012—Decided June 21, 2012
+Petitioner Southern Union Company was convicted by a jury in federal
+court on one count of violating the Resource Conservation and Recovery Act of 1976 (RCRA) for having knowingly stored liquid mercury
+without a permit at a subsidiary’s facility “on or about September 19,
+2002 to October 19, 2004.” Violations of the RCRA are punishable by,
+inter alia, a fine of not more than $50,000 for each day of violation.
+42 U. S. C. §6928(d). At sentencing, the probation office calculated a
+maximum fine of $38.1 million, on the basis that Southern Union violated the RCRA for each of the 762 days from September 19, 2002,
+through October 19, 2004. Southern Union argued that imposing any
+fine greater than the 1-day penalty of $50,000 would be unconstitutional under Apprendi v. New Jersey, 530 U. S. 466, which holds that
+the Sixth Amendment’s jury-trial guarantee requires that any fact
+(other than the fact of a prior conviction) that increases the maximum punishment authorized for a particular crime be proved to a jury
+beyond a reasonable doubt. Southern Union contended that, based
+on the jury verdict and the District Court’s instructions, the only violation the jury necessarily found was for one day. The District Court
+held that Apprendi applies to criminal fines, but concluded from the
+“content and context of the verdict all together” that the jury found a
+762-day violation. The court therefore set a maximum potential fine
+of $38.1 million, from which it imposed a fine of $6 million and a
+“community service obligation” of $12 million. On appeal, the First
+Circuit disagreed with the District Court that the jury necessarily
+found a violation of 762 days. But the First Circuit affirmed the sentence because it held that Apprendi does not apply to criminal fines.
+Held: The rule of Apprendi applies to the imposition of criminal fines.
+Pp. 3−16.
+
+
+2
+
+SOUTHERN UNION CO. v. UNITED STATES
+Syllabus
+(a) Apprendi’s rule is “rooted in longstanding common-law practice,” Cunningham v. California, 549 U. S. 270, 281, and preserves
+the “historic jury function” of “determining whether the prosecution
+has proved each element of an offense beyond a reasonable doubt,”
+Oregon v. Ice, 555 U. S. 160, 163. This Court has repeatedly affirmed
+Apprendi’s rule by applying it to a variety of sentencing schemes that
+allow judges to find facts that increase a defendant’s maximum authorized sentence. See Cunningham, 549 U. S., at 274−275; United
+States v. Booker, 543 U. S. 220, 226–227; Blakely v. Washington, 542
+U. S. 296, 299–300; Ring v. Arizona, 536 U. S. 584, 588–589; Apprendi, 530 U. S., at 468–469. While the punishments at stake in these
+cases were imprisonment or a death sentence, there is no principled
+basis under Apprendi to treat criminal fines differently. Apprendi’s
+“core concern”—to reserve to the jury “the determination of facts that
+warrant punishment for a specific statutory offense,” Ice, 555 U. S.,
+at 170—applies whether the sentence is a criminal fine or imprisonment or death. Criminal fines, like these other forms of punishment,
+are penalties inflicted by the sovereign for the commission of offenses.
+Fines were by far the most common form of noncapital punishment in
+colonial America and they continue to be frequently imposed today.
+And, the amount of a fine, like the maximum term of imprisonment
+or eligibility for the death penalty, is often determined by reference to
+particular facts. The Government argues that fines are less onerous
+than incarceration and the death sentence and therefore should be
+exempt from Apprendi. But where a fine is substantial enough to
+trigger the Sixth Amendment’s jury-trial guarantee, Apprendi applies
+in full. Pp. 3−8.
+(b) The “historical role of the jury at common law,” which informs
+the “scope of the constitutional jury right,” Ice, 555 U. S., at 170, supports applying Apprendi to criminal fines. To be sure, judges in the
+colonies and during the founding era had much discretion in determining whether to impose a fine and in what amount. But the exercise of such discretion is fully consistent with Apprendi, which permits courts to impose “judgment within the range prescribed by
+statute.” 530 U. S., at 481 (emphasis in original). The more salient
+question is what role the jury played in prosecutions for offenses that
+pegged the amount of a fine to the determination of specified facts. A
+review of both state and federal decisions discloses that the predominant practice was for such facts to be alleged in the indictment and
+proved to the jury. The rule that juries must determine facts that set
+a fine’s maximum amount is an application of the “two longstanding
+tenets of common-law criminal jurisprudence” on which Apprendi is
+based: first, “the ‘truth of every accusation’ against a defendant
+‘should afterwards be confirmed by the unanimous suffrage of twelve
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+Syllabus
+of his equals and neighbours.’ ” Blakely, 542 U. S., at 301. And second, “ ‘an accusation which lacks any particular fact which the law
+makes essential to the punishment is . . . no accusation within the
+requirements of the common law, and is no accusation in reason.’ ”
+Ibid. Contrary to the Government’s contentions, neither United
+States v. Murphy, 16 Pet. 203, nor United States v. Tyler, 7 Cranch
+285, overcomes the ample historical evidence that juries routinely
+found facts that set maximum criminal fines. Pp. 8−14.
+(c) The Government’s remaining arguments, echoed by the dissent,
+are unpersuasive. The Government claims that facts relevant to a fine’s
+amount typically quantify the harm caused by the defendant’s offense, and do not define a separate set of acts for punishment. The
+Government contends that only the latter determination implicates
+Apprendi’s concerns. But this argument rests on the rejected assumption that, in determining the maximum punishment for an offense, there is a constitutionally significant difference between a fact
+that is an “element” of the offense and one that is a “sentencing factor.” Further, the facts the District Court found in imposing a fine on
+Southern Union are not fairly characterized as merely quantifying
+the harm the company caused.
+The Government also argues that applying Apprendi to criminal
+fines will prevent States and the Federal Government from enacting statutes that calibrate the amount of a fine to a defendant’s culpability. But legislatures are free to enact such statutes, so long
+as the statutes are administered in conformance with the Sixth
+Amendment.
+Finally, the Government contends that requiring juries to determine facts related to fines will cause confusion, prejudice defendants,
+or be impractical. These policy arguments rehearse those made by
+the dissents in our prior Apprendi cases. They must be rejected because the rule the Government espouses is unconstitutional. In addition, because Apprendi is now more than a decade old, the reliance
+interests underlying the Government’s arguments are by this point
+attenuated. Pp. 14−16.
+630 F. 3d 17, reversed and remanded.
+SOTOMAYOR, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and SCALIA, THOMAS, GINSBURG, and KAGAN, JJ., joined. BREYER,
+J., filed a dissenting opinion, in which KENNEDY and ALITO, JJ., joined.
+
+

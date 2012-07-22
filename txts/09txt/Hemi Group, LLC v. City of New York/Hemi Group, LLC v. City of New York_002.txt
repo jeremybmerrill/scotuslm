@@ -1,0 +1,50 @@
+2
+
+HEMI GROUP, LLC v. CITY OF NEW YORK
+Syllabus
+(a) To establish that an injury came about “by reason of” a RICO
+violation, a plaintiff must show that a predicate offense “not only was
+a ‘but for’ cause of his injury, but was the proximate cause as well.”
+Holmes v. Securities Investor Protection Corporation, 503 U. S. 258,
+268. Proximate cause for RICO purposes should be evaluated in light
+of its common-law foundations; it thus requires “some direct relation
+between the injury asserted and the injurious conduct alleged.” Ibid.
+A link that is “too remote,” “purely contingent,” or “indirec[t]” is in
+sufficient. Id., at 271, 274.
+The City’s causal theory cannot satisfy RICO’s direct relationship
+requirement. Indeed, the causal link here is far more attenuated
+than the one the Court rejected as “purely contingent” and “too re
+mote” in Holmes. Id., at 271. According to the City, Hemi committed
+fraud by selling cigarettes to city residents and failing to submit the
+required customer information to the State. Without the reports
+from Hemi, the State could not pass on the information to the City,
+even if it had been so inclined. Some of the customers legally obli
+gated to pay the cigarette tax to the City failed to do so. Because the
+City did not receive the customer information, it could not determine
+which customers had failed to pay the tax. The City thus could not
+pursue those customers for payment. The City thereby was injured
+in the amount of the portion of back taxes that were never collected.
+As the Court reiterated in Holmes, “[t]he general tendency of the law,
+in regard to damages at least, is not to go beyond the first step,” id.,
+at 271–272, and that “general tendency” applies with full force to
+proximate cause inquiries under RICO, e.g., ibid. Because the City’s
+causation theory requires the Court to move well beyond the first
+step, that theory cannot satisfy RICO’s direct relationship require
+ment.
+The City’s claim suffers from the same defect as the RICO claim re
+jected in Anza v. Ideal Steel Supply Corp., 547 U. S. 451, 458–461,
+where the conduct directly causing the harm was distinct from the
+conduct giving rise to the fraud, see id., at 458. Indeed, the discon
+nect between the asserted injury and the alleged fraud in this case is
+even sharper. In Anza, the same party had both engaged in the
+harmful conduct and committed the fraudulent act. Here, the City’s
+theory of liability rests not just on separate actions, but separate ac
+tions carried out by separate parties. The City’s theory thus requires
+that the Court extend RICO liability to situations where the defen
+dant’s fraud on the third party (the State) has made it easier for a
+fourth party (the taxpayer) to cause harm to the plaintiff (the City).
+Indeed, the fourth-party taxpayers here only caused harm to the City
+in the first place if they decided not to pay taxes they were legally ob
+ligated to pay. Put simply, Hemi’s obligation was to file Jenkins Act
+
+

@@ -1,0 +1,39 @@
+2
+
+MIMS v. ARROW FINANCIAL SERVICES, LLC
+Syllabus
+over private TCPA suits. Pp. 7–18.
+(a) Because federal law creates the right of action and provides the
+rules of decision, Mims’s TCPA claim, in §1331’s words, plainly
+“aris[es] under” the “laws . . . of the United States.” Arrow agrees
+that this action arises under federal law, but urges that Congress
+vested exclusive adjudicatory authority over private TCPA actions in
+state courts. In cases “arising under” federal law, there is a presumption of concurrent state-court jurisdiction, rebuttable if “Congress affirmatively ousts the state courts of jurisdiction over a particular federal claim.” Tafflin v. Levitt, 493 U. S. 455, 458–459. Arrow
+acknowledges the presumption, but maintains that §1331 creates no
+converse presumption in favor of federal-court jurisdiction. Instead,
+Arrow urges, the TCPA, a later, more specific statute, displaces
+§1331, an earlier, more general prescription.
+Section 1331 is not swept away so easily. The principle that district courts possess federal-question jurisdiction under §1331 when
+federal law creates a private right of action and furnishes the substantive rules of decision endures unless Congress divests federal
+courts of their §1331 adjudicatory authority. See, e.g., Verizon Md.
+Inc. v. Public Serv. Comm’n of Md., 535 U. S. 635, 642. Accordingly,
+the District Court retains §1331 jurisdiction over Mims’s complaint
+unless the TCPA, expressly or by fair implication, excludes federalcourt adjudication. See id., at 644. Pp. 7–10.
+(b) Arrow’s arguments do not persuade this Court that Congress
+eliminated §1331 jurisdiction over private TCPA actions. Title 47
+U. S. C. §227(b)(3)’s language may be state-court oriented, but “the
+grant of jurisdiction to one court does not, of itself, imply that the jurisdiction is to be exclusive,” United States v. Bank of New York &
+Trust Co., 296 U. S. 463, 479. Nothing in §227(b)(3)’s permissive language makes state-court jurisdiction exclusive, or otherwise purports
+to oust federal courts of their §1331 jurisdiction. The provision does
+not state that a private plaintiff may bring a TCPA action “only” or
+“exclusively” in state court. In contrast, 47 U. S. C. A. §227(g)(2)
+(Supp. 2011) vests “exclusive jurisdiction” over state-initiated TCPA
+suits in the federal courts. Section 227(g)(2)’s exclusivity prescription
+“reinforce[s] the conclusion that [47 U. S. C. §227(b)(3)’s] silence . . .
+leaves the jurisdictional grant of §1331 untouched. For where otherwise applicable jurisdiction was meant to be excluded, it was excluded expressly.” Verizon Md., 535 U. S., at 644.
+Arrow argues that Congress had no reason to provide for a private
+action “in an appropriate [state] court,” §227(b)(3), if it did not mean
+to make the state forum exclusive, for state courts would have concurrent jurisdiction even if Congress had said nothing at all. But, as
+already noted, Congress had simultaneously made federal-court ju-
+
+

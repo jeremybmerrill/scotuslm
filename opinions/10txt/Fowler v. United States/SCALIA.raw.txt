@@ -1,0 +1,325 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+SCALIA, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–5443
+_________________
+
+CHARLES ANDREW FOWLER, AKA MAN, PETITIONER
+v. UNITED STATES
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+[May 26, 2011] 
+
+
+JUSTICE SCALIA, concurring in the judgment.
+I disagree with the Court’s interpretation of 18 U. S. C.
+§1512(a)(1)(C). In my view, the Government must prove
+that the defendant intended to prevent a communication
+which, had it been made, would beyond a reasonable doubt
+have been made to a federal law enforcement officer. The
+Court’s vague “reasonable likelihood” standard has no
+basis in the statutory text and will serve only to confuse
+judges and juries. Accordingly, although I agree the case
+should be remanded for the Eleventh Circuit to consider
+whether the objection to sufficiency of the evidence was
+preserved or whether the District Court committed plain
+error, I would hold that there was insufficient evidence to
+support Fowler’s conviction.
+I
+Section 1512(a)(1)(C) of Title 18 makes it a federal crime
+“to kill another person, with intent to . . . prevent the
+communication by any person to a law enforcement officer
+. . . of the United States of information relating to the
+commission or possible commission of a Federal offense.”
+Viewed in isolation, this provision contains an ambiguity:
+Does the mens rea of the statute include a specific intent
+to prevent communication to a law enforcement officer of
+the United States; or is it satisfied by the mere intent to
+
+
+2
+
+FOWLER v. UNITED STATES
+SCALIA, J., concurring in judgment
+
+prevent communication to a law enforcement officer who
+happens to be a law enforcement officer of the United
+States?
+Happily, a different statutory provision resolves this
+ambiguity. It states that “no state of mind need be proved
+with respect to the circumstance . . . that the law enforce
+ment officer is an officer or employee of the Federal Gov
+ernment.” §1512(g)(2). This makes clear that the first
+possibility is wrong, and the second right. But removing
+the “federal officer” requirement as an element of the
+statute’s mens rea does not remove it as an element of the
+actus reus—that is, as an element of the facts that must be
+proved for conviction. It must be proved, and proved
+beyond a reasonable doubt, that the communication in
+tended to be prevented was communication to a federal
+officer. Thus, if a suspect in an investigation murders an
+informant to prevent him from talking to authorities, but
+is unaware that the informant was working for the FBI,
+the suspect would be guilty: He would have committed a
+murder with the intention of preventing the informant’s
+communication to authorities about his criminal activities,
+and the communication he sought to prevent would neces
+sarily have been to federal law enforcement. Likewise, a
+suspect would be guilty if he committed a murder to pre
+vent a witness from informing law enforcement that he
+lied on his federal income tax return: He sought to pre
+vent a communication that would have been made to
+federal officials, because they alone prosecute federal tax
+violations. But a suspect who commits a murder with the
+general intent of preventing law enforcement from learn
+ing about activities that violate both state and federal
+law would not be guilty, because the Government would
+be unable to prove that the communication he sought to
+prevent necessarily would have been to a federal official.
+Applying that standard, this is an easy case. There was
+evidence that Fowler murdered Officer Horner in order
+
+
+Cite as: 563 U. S. ____ (2011)
+
+3
+
+SCALIA, J., concurring in judgment
+
+to prevent him from communicating information about
+Fowler’s criminal activities. But the only evidence prof
+fered by the Government to establish that the communica
+tion would have been to a federal law enforcement agent
+was the fact that a different state police officer, four years
+later, contacted federal law enforcement about a robbery
+by Fowler’s confederate—and that only because the state
+law statute of limitations for the robbery had expired.
+That is not nearly enough to demonstrate Fowler’s guilt
+beyond a reasonable doubt.
+II
+The Court gives the statute a broader reading than the
+one I ascribe. The Government can obtain a conviction, it
+says, so long as it can prove a “reasonable likelihood” that
+the communication would have been made to a federal
+law enforcement officer. I know of no precedent for using
+a “likelihood” standard rather than the “beyond a rea
+sonable doubt” standard for a finding of fact essential
+to a criminal conviction; and the justifications the Court
+presents for that course in the present case are not
+convincing.
+The Court maintains that the Government need not
+show beyond a reasonable doubt that the communication
+would have been to a federal officer because “[t]he relevant
+question concerns the defendant’s intent.” Ante, at 5. But
+that reasoning is directly contrary to §1512(g)(2), which
+expressly states that the defendant’s intent is not the
+relevant question with respect to the federal character of
+law enforcement officer meant to be deprived of the infor
+mation. The Court’s observation that “a defendant can kill
+a victim with an intent to prevent the victim from commu
+nicating with federal law enforcement officers even if
+there is some considerable doubt that any such communi
+cation would otherwise have taken place,” ante, at 6, is
+completely irrelevant to the question presented.
+
+
+4
+
+FOWLER v. UNITED STATES
+SCALIA, J., concurring in judgment
+
+The Court also proclaims that a narrower view “would
+conflict with the statute’s basic purpose,” which is to
+prevent witness tampering “at a time when the precise
+communication and nature of the officer who may receive
+it are not yet known.” Ante, at 4. It cites no basis for
+attributing that purpose, and there is none—other than
+the fact that it supports the Court’s outcome. Another
+purpose is just as likely—and indeed more likely, since it
+can be achieved without abandonment of the ancient rule
+that in criminal prosecutions facts must be found beyond a
+reasonable doubt. Murder, after all, is a crime, and often
+a capital crime, under all state laws. There is no reason to
+ascribe to Congress the “purpose” of transferring murder
+prosecutions that would ordinarily be brought in state
+court to federal court based on only a tangential federal
+interest. Congress was concerned with preserving the
+integrity and effectiveness of federal prosecutions, and
+where they are not clearly involved (as the ordinary be
+yond-a-reasonable-doubt standard would require) a federal
+murder prosecution has no proper place. Limited as I
+have suggested, the federal law would still have ample
+scope, reaching what were surely the principal cases Con
+gress had in mind—the killing of prospective witnesses in
+federal trials or in ongoing federal investigations. Here,
+as would be the case in many situations involving a
+merely hypothetical link to a federal investigation, Fowler
+murdered a state police officer. The natural place to have
+prosecuted him would have been state court.
+The Court’s analysis is even less persuasive in light of
+the rule of lenity, under which we must construe ambigu
+ous criminal statutes in favor of the defendant. Here, the
+Court adopts a kind of rule of harshness, discarding the
+most straightforward construction of the text in favor of
+textually implausible one, based on vague intuitions about
+the statute’s purpose. The Court’s opinion never cites the
+rule of lenity, probably because it cannot honestly say that
+
+
+Cite as: 563 U. S. ____ (2011)
+
+5
+
+SCALIA, J., concurring in judgment
+
+the statute is so clear that “there is no ambiguity for the
+rule of lenity to resolve.” Burgess v. United States, 553
+U. S. 124, 136 (2008).
+To make matters worse, the Court’s standard is hope
+lessly indeterminate. The Government must show that a
+communication to a federal officer is “reasonably likely,”
+which is less likely than “more likely than not,” but more
+likely than “reasonably possible.” Ante, at 7–9. I doubt
+that any jury can grasp the distinction between “you must
+find that a communication to a federal officer was rea
+sonably likely” and “you must find that a communication
+to a federal officer was reasonably possible.” Under
+standably, the Court refuses to give any examples of what
+“reasonably likely” means, except for an absurd example
+involving communications with Lithuanian police officers,
+ante, at 10—which obviously would not be “reasonably
+possible” either. Indeed, the Court refuses to apply its
+standard to the facts of this case, leaving that precarious
+task to the lower court.
+III
+The dissent adopts a view of the statute that is even
+broader than the Government’s. It effectively contends
+that the Government need not prove anything with respect
+to the fact that the communication sought to be prevented
+was “to a law enforcement officer . . . of the United States.”
+As long as the Government can prove that the defendant
+sought to prevent the communication of information about
+a federal crime (including a federal crime that is also a
+state crime) it will necessarily have proved that the “set of
+law enforcement officers (whose identities were unknown
+to him)” he had in mind “included law enforcement officers
+who were employed by the United States.” Post, at 3
+(opinion of ALITO, J.). Conviction requires neither any
+specific intent regarding the federal status of the officer,
+nor even any likelihood that a communication to a federal
+
+
+6
+
+FOWLER v. UNITED STATES
+SCALIA, J., concurring in judgment
+
+officer would have occurred.
+The principal defect in this interpretation is that it
+makes the words “of the United States” superfluous.
+Section 1512(a)(1)(C) specifically requires that the in
+formation the defendant seeks to prevent from being com
+municated be “information relating to the commission or
+possible commission of a Federal offense.” If the phrase
+“to a law enforcement officer . . . of the United States”
+requires nothing more than this it is utterly without effect.
+The implication of this view is that Congress enacted
+§1512(a)(1)(C)’s reference to “a law enforcement officer . . .
+of the United States,” only to immediately nullify it by
+§1512(g)(2)’s “no state of mind” provision. Not likely—and
+not sound statutory interpretation.
+The dissent claims that my analysis “confuses what the
+prosecution must prove with what a rational jury may
+choose to infer in a particular case.” Post, at 6. I find this
+contention difficult to understand. In the dissent’s view, a
+properly instructed jury should be required to find neither
+that the defendant’s mens rea had any connection to a
+federal officer, nor that the defendant’s actus reus had any
+connection to a federal officer. It therefore follows that
+under the dissent’s view, a properly instructed jury should
+be required to find nothing about a connection to a federal
+officer beyond the fact that the information related to a
+federal offense, which means that, unless the jury is acting
+irrationally or is engaging in jury nullification, the “of the
+United States” provision is indeed superfluous. The dis
+sent is correct that the proof of one element of a crime
+(such as an overt act) can sometimes be used to prove that
+a different element (such as a conspiratorial agreement) is
+satisfied, post, at 6–7, n. 2; but in such cases, the jury is
+instructed that it is required to make a separate finding to
+convict (e.g., that a conspiratorial agreement actually
+occurred). Here, the dissent identifies no separate finding
+the jury must make beyond the fact of a federal offense.
+
+
+Cite as: 563 U. S. ____ (2011)
+
+7
+
+SCALIA, J., concurring in judgment
+
+The dissent also observes that when a defendant murders
+a federal officer to prevent him from communicating in
+formation about a nonfederal crime, he does not violate
+the statute. Post, at 7. This observation convincingly
+establishes that the statutory words “Federal offense” are
+not superfluous under the dissent’s view, an observation
+irrelevant to my point that the dissent makes the statu
+tory words “of the United States” superfluous.
+The dissent contends that my interpretation “has no
+grounding in the language of the statute.” Post, at 4. It
+asserts that “the text of the statute makes it perfectly
+clear that the federal officer requirement is exclusively an
+element of the defendant’s mens rea.” Post, at 5 (internal
+quotation marks omitted). Perhaps the only thing “per
+fectly clear” about this statute is that it states the precise
+opposite of that proposition: “[N]o state of mind need be
+proved with respect to the circumstance . . . that the law
+enforcement officer is an officer or employee of the Federal
+Government.” §1512(g)(2).
+The dissent’s interpretation would federalize crimes
+that have no connection to any federal investigation. A
+person caught by a state police officer with marijuana who
+murders the state police officer to cover it up could be
+prosecuted in federal court. That would approach the
+outer limits of Congress’s enumerated powers. We have
+adopted a federalism principle that applies when a statute
+would render “traditionally local criminal conduct . . . a
+matter for federal enforcement”: “[U]nless Congress con
+veys its purpose clearly, it will not be deemed to have
+significantly changed the federal-state balance in the
+prosecution of crimes.” Jones v. United States, 529 U. S.
+848, 858 (2000) (internal quotation marks omitted). Thus,
+the dissent adds to the Court’s “rule of harshness” a rule of
+antifederalism, under which a court must actually ignore
+a federal connection that Congress prescribed so as to
+avoid intrusion into traditionally local law enforcement.
+
+
+8
+
+FOWLER v. UNITED STATES
+SCALIA, J., concurring in judgment
+
+*
+*
+*
+Because the Government did not establish that Fowler
+intended to prevent a communication that, if made, would
+have been made to a federal law enforcement officer, there
+was insufficient evidence to convict him of violating
+§1512(a)(1)(C). Since there remains, however, the ques
+tion whether Fowler preserved this issue at trial or
+whether the inadequacy of the evidence constituted plain
+error, I concur in the Court’s order vacating the judgment
+and remanding for resolution of that question.
+
+

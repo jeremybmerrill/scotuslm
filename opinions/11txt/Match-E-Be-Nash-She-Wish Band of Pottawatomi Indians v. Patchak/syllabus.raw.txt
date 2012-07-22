@@ -1,0 +1,109 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+MATCH-E-BE-NASH-SHE-WISH BAND OF 
+
+POTTAWATOMI INDIANS v. PATCHAK ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE DISTRICT OF COLUMBIA CIRCUIT
+No. 11–246.
+
+Argued April 24, 2012—Decided June 18, 2012*
+
+The Indian Reorganization Act (IRA) authorizes the Secretary of the
+Interior to acquire property “for the purpose of providing land to Indians.” 25 U. S. C. §465. Petitioner Match-E-Be-Nash-She-Wish
+Band of Pottawatomi Indians (Band), an Indian tribe federally recognized in 1999, requested that the Secretary take into trust on its behalf a tract of land known as the Bradley Property, which the Band
+intended to use “for gaming purposes.” The Secretary took title to
+the Bradley Property in 2009. Respondent David Patchak, who lives
+near the Bradley Property, filed suit under the Administrative Procedure Act (APA), asserting that §465 did not authorize the Secretary
+to acquire the property because the Band was not a federally recognized tribe when the IRA was enacted in 1934. Patchak alleged a variety of economic, environmental, and aesthetic harms as a result of
+the Band’s proposed use of the property to operate a casino, and requested injunctive and declaratory relief reversing the Secretary’s
+decision to take title to the land. The Band intervened to defend the
+Secretary’s decision. The District Court did not reach the merits of
+Patchak’s suit, but ruled that he lacked prudential standing to challenge the Secretary’s acquisition of the Bradley Property. The D. C.
+Circuit reversed and also rejected the Secretary’s and the Band’s alternative argument that sovereign immunity barred the suit.
+Held:
+1. The United States has waived its sovereign immunity from
+——————
+* Together with No. 11–247, Salazar, Secretary of the Interior, et al. v.
+Patchak et al., also on certiorari to the same court.
+
+
+2
+
+MATCH-E-BE-NASH-SHE-WISH BAND OF POTTAWATOMI
+INDIANS v. PATCHAK
+
+Syllabus
+
+Patchak’s action. The APA’s general waiver of the Federal Government’s immunity from suit does not apply “if any other statute that
+grants consent to suit expressly or impliedly forbids the relief which
+is sought” by the plaintiff. 5 U. S. C. §702. The Government and
+Band contend that the Quiet Title Act (QTA) is such a statute. The
+QTA authorizes (and so waives the Government’s sovereign immunity from) a suit by a plaintiff asserting a “right, title, or interest” in
+real property that conflicts with a “right, title, or interest” the United
+States claims. 28 U. S. C. §2409a(d). But it contains an exception for
+“trust or restricted Indian lands.” §2409a(a).
+To determine whether the “Indian lands” exception bars Patchak’s
+suit, the Court considers whether the QTA addresses the kind of
+grievance Patchak advances. It does not, because Patchak’s action is
+not a quiet title action. The QTA, from its title to its jurisdictional
+grant to its venue provision, speaks specifically and repeatedly of
+“quiet title” actions, a term universally understood to refer to suits in
+which a plaintiff not only challenges someone else’s claim, but also
+asserts his own right to disputed property. Although Patchak’s suit
+contests the Secretary’s title, it does not claim any competing interest
+in the Bradley Property.
+Contrary to the argument of the Band and Government, the QTA
+does not more broadly encompass any “civil action . . . to adjudicate a
+disputed title to real property in which the United States claims an
+interest.” §2409(a). Rather, §2409a includes a host of indications
+that the “civil action” at issue is an ordinary quiet title suit. The
+Band and Government also contend that the QTA’s specific authorization of adverse claimants’ suits creates the negative implication
+that non-claimants like Patchak cannot challenge Government ownership of land under any statute. That argument is faulty for the
+reason already given: Patchak is bringing a different claim, seeking
+different relief, from the kind the QTA addresses. Finally, the Band
+and Government argue that Patchak’s suit should be treated the
+same as an adverse claimant’s because both equally implicate the
+“Indian lands” exception’s policies. That argument must be addressed to Congress. The “Indian lands” exception reflects Congress’s
+judgment about how far to allow quiet title suits—not all suits challenging the Government’s ownership of property. Pp. 4−14.
+2. Patchak has prudential standing to challenge the Secretary’s acquisition. A person suing under the APA must assert an interest
+that is “arguably within the zone of interests to be protected or regulated by the statute” that he says was violated. Association of Data
+Processing Service Organizations, Inc. v. Camp, 397 U. S. 150, 153.
+The Government and Band claim that Patchak’s economic, environmental, and aesthetic injuries are not within §465’s zone of interests
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+Syllabus
+because the statute focuses on land acquisition, while Patchak’s injuries relate to the land’s use as a casino. However, §465 has far more
+to do with land use than the Government and Band acknowledge.
+Section 465 is the capstone of the IRA’s land provisions, and functions as a primary mechanism to foster Indian tribes’ economic development. The Secretary thus takes title to properties with an eye toward how tribes will use those lands to support such development.
+The Department’s regulations make this statutory concern with land
+use clear, requiring the Secretary to acquire land with its eventual
+use in mind, after assessing potential conflicts that use might create.
+And because §465 encompasses land’s use, neighbors to the use (like
+Patchak) are reasonable―indeed, predictable―challengers of the Secretary’s decisions: Their interests, whether economic, environmental,
+or aesthetic, come within §465’s regulatory ambit. Pp. 14–18.
+632 F. 3d 702, affirmed and remanded.
+KAGAN, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and SCALIA, KENNEDY, THOMAS, GINSBURG, BREYER, and ALITO,
+JJ., joined. SOTOMAYOR, J., filed a dissenting opinion.
+
+

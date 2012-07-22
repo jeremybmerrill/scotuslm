@@ -1,0 +1,39 @@
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+SOTOMAYOR, J., dissenting
+
+was “not followed by any judgment,” Ball, 163 U. S., at
+671.
+A straightforward application of that principle suffices
+to decide this case. Arkansas is a classic “acquittal-first”
+or “hard-transition” jurisdiction. See generally People v.
+Richardson, 184 P. 3d 755, 764, n. 7 (Colo. 2008). Arkansas’ model jury instructions require a jury to complete its
+deliberations on a greater offense before it may consider
+a lesser. 1 Ark. Model Jury Instr., Crim., No. 302 (2d
+ed. 1994). As a matter of Arkansas law, “[b]efore it may
+consider any lesser-included offense, the jury must first
+determine that the proof is insufficient to convict on the
+greater offense. Thus, the jury must, in essence, acquit
+the defendant of the greater offense before considering his
+or her guilt on the lesser-included offense.” Hughes v.
+State, 347 Ark. 696, 706–707, 66 S. W. 3d 645, 651 (2002).1
+Here, the trial judge instructed Blueford’s jury to consider the offenses in order, from the charged offense of
+capital murder to the lesser included offenses of firstdegree murder, manslaughter, and negligent homicide.
+The judge told the jury to proceed past capital murder only
+upon a unanimous finding of a “reasonable doubt” as to
+that offense—that is, upon an acquittal. See In re Winship, 397 U. S. 358, 363 (1970). The State’s closing arguments repeated this directive: “[B]efore you can consider a
+lesser included of capital murder, you must first, all 12,
+vote that this man is not guilty of capital murder.” App.
+55. And the forewoman’s colloquy with the judge leaves no
+doubt that the jury understood the instructions to mandate unanimous acquittal on a greater offense as a prerequisite to consideration of a lesser: The forewoman
+——————
+1 The
+
+State has taken the same position. See Brief for Appellee in
+Boyd v. State, No. CR 06–973 (Ark.), p. 13 (“[U]nanimity is the essence
+of a jury verdict as it pertains to acquitting a defendant of the charged
+offense and the subsequent consideration of lesser-included offenses”).
+
+

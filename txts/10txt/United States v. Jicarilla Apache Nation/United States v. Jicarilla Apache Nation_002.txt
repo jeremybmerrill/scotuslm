@@ -1,0 +1,51 @@
+2
+
+UNITED STATES v. JICARILLA APACHE NATION
+Syllabus
+
+Held: The fiduciary exception to the attorney-client privilege does not
+apply to the general trust relationship between the United States
+and the Indian tribes. Pp. 5–24.
+(a) The Court considers the bounds of the fiduciary exception and
+the nature of the Indian trust relationship. Pp. 5–14.
+(1) Under English common law, when a trustee obtained legal
+advice to guide his trust administration and not for his own defense
+in litigation, the beneficiaries were entitled to the production of
+documents related to that advice on the rationale that the advice was
+sought for their benefit and obtained at their expense in that trust
+funds were used to pay the attorney. In the leading American case,
+Riggs Nat. Bank of Washington, D. C. v. Zimmer, 355 A. 2d 709, the
+Delaware Chancery Court applied the fiduciary exception to hold that
+trust beneficiaries could compel trustees to produce a legal memo
+randum related to the trust’s administration because: (1) the trustees
+had obtained the legal advice as “mere representative[s]” of the bene
+ficiaries, who were the “real clients” of the attorney, id., at 711–712,
+and (2) the fiduciary duty to furnish trust-related information to the
+beneficiaries outweighed the trustees’ interest in the attorney-client
+privilege, id., at 714. The Federal Courts of Appeals apply the fiduci
+ary exception based on the same two criteria. Pp. 6–9.
+(2) The Federal Circuit analogized the Government to a private
+trustee. While the United States’ responsibilities with respect to the
+management of tribal funds bear some resemblance to those of a pri
+vate trustee, this analogy cannot be taken too far. The Government’s
+trust obligations to the tribes are established and governed by stat
+ute, not the common law, see, e.g., United States v. Navajo Nation,
+537 U. S. 488, 506 (Navajo I), and in fulfilling its statutory duties,
+the Government acts not as a private trustee, but pursuant to its
+sovereign interest in the execution of federal law, see, e.g., Heckman
+v. United States, 224 U. S. 413, 437. Once federal law imposes fidu
+ciary obligations on the Government, the common law “could play a
+role,” United States v. Navajo Nation, 556 U. S. ___, ___ (Navajo II);
+e.g., to inform the interpretation of statutes, see United States v.
+White Mountain Apache Tribe, 537 U. S. 465, 475–476. But the ap
+plicable statutes and regulations control. When “the Tribe cannot
+identify a specific, applicable, trust-creating statute or regulation
+that the Government violated . . . neither the Government’s ‘control’
+over [Indian assets] nor common-law trust principles matter.” Na
+vajo II, supra, at ___. Pp. 9–14.
+(b) The two criteria justifying the fiduciary exception are absent in
+the trust relationship between the United States and Indian tribes.
+Pp. 14–23.
+(1) In cases applying the fiduciary exception, courts identify the
+
+

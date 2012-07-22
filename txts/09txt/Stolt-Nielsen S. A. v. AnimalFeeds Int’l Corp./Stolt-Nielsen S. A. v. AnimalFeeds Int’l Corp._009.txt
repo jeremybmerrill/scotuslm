@@ -1,0 +1,44 @@
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+their powers”); Petition to Vacate Arbitration Award, No.
+1:06–CV–00420–JSR (SDNY) in App. in No. 06–3474–cv
+(CA2), p. A–17, ¶16 (citing §10(a)(4) as a ground for vaca­
+tur of the award); see also id., at A–15 to A–16, ¶9 (invok­
+ing the District Court’s jurisdiction under 9 U. S. C. §203
+and 28 U. S. C. §§1331 and 1333). The District Court
+vacated the award, concluding that the arbitrators’ deci­
+sion was made in “manifest disregard” of the law insofar
+as the arbitrators failed to conduct a choice-of-law analy­
+sis. 435 F. Supp. 2d 382, 384–385 (SDNY 2006). See
+Wilko v. Swan, 346 U. S. 427, 436–437 (1953) (“[T]he
+interpretations of the law by the arbitrators in contrast to
+manifest disregard are not subject, in the federal courts, to
+judicial review for error in interpretation”); see also Peti­
+tion to Vacate Arbitration Award, supra, at A–17, ¶17
+(alleging that the arbitration panel “manifestly disre­
+garded the law”). Had such an analysis been conducted,
+the District Court held, the arbitrators would have applied
+the rule of federal maritime law requiring that contracts
+be interpreted in light of custom and usage. 435 F. Supp.
+2d, at 385–386.
+AnimalFeeds appealed to the Court of Appeals, which
+reversed. See 9 U. S. C. §16(a)(1)(E) (“An appeal may be
+taken from . . . an order . . . vacating an award”). As an
+initial matter, the Court of Appeals held that the “mani­
+fest disregard” standard survived our decision in Hall
+Street Associates, L. L. C. v. Mattel, Inc., 552 U. S. 576
+(2008), as a “judicial gloss” on the enumerated grounds for
+vacatur of arbitration awards under 9 U. S. C. §10. 548
+F. 3d, at 94. Nonetheless, the Court of Appeals concluded
+that, because petitioners had cited no authority applying a
+federal maritime rule of custom and usage against class
+arbitration, the arbitrators’ decision was not in manifest
+disregard of federal maritime law. Id., at 97–98. Nor had
+the arbitrators manifestly disregarded New York law, the
+Court of Appeals continued, since nothing in New York
+
+

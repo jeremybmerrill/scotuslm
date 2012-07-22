@@ -1,0 +1,18 @@
+No. 08–559 [January 11, 2010] JUSTICE THOMAS, with whom JUSTICE SCALIA joins, concurring. I join the per curiam because it correctly holds that the Ninth Circuit erred in departing from Jackson’s mandate that a federal habeas court confine its sufficiency-of-the evidence analysis to “the evidence adduced at trial” and, specifically, to “ ‘all of the evidence admitted by the trial (1979). I write separately because I disagree with the Court’s decision to complicate its analysis with an exten sive discussion of the Mueller Report. See ante, at 7–13. Defense counsel commissioned that report 11 years after respondent’s trial. See ante, at 1. Accordingly, the re port’s attacks on the State’s DNA testimony were not part of the trial evidence and have no place in the Jackson inquiry. See Jackson, supra, at 318; Lockhart, supra, at 40–42. That is all we need or should say about the report in deciding this case. The Court’s opinion demonstrates as much. The Court’s lengthy discussion of the Mueller Report, see ante, at 7– 10, is merely a predicate to asserting that “even if” the Court of Appeals could have considered the report in its Jackson analysis, the report “provided no warrant for entirely excluding the DNA evidence or Romero’s testi
+mony from that court’s consideration” because the report “did not contest that the DNA evidence matched Troy” or otherwise show that the State’s DNA estimates were “unreliable,” ante, at 12. Based on these observations, the Court concludes that the Mueller Report did not under mine the State’s DNA tests as “powerful inculpatory evi dence.” Ibid. That is true, but even if the report had completely undermined the DNA evidence—which the Ninth Circuit may have mistakenly believed it did, see panel still would have erred in considering the report to resolve respondent’s Jackson claim. The reason, as the Court reaffirms, is that Jackson claims must be decided solely on the evidence adduced at trial. See ante, at 11. Accordingly, the Court need not correct any erroneous impressions the Ninth Circuit may have had concerning the report’s impact on the State’s DNA evidence to resolve respondent’s Jackson claim.* Because that is the only claim properly before us, I do not join the Court’s dicta about how the Mueller Report’s findings could affect a constitutional analysis to which we have long held such post-trial evidence does not apply. See Jackson, supra, at 318.
+——————
+* Correcting the Ninth Circuit’s apparent misconception of the effects
+of the Mueller Report is the only plausible reason for the Court’s
+decision to explain that the report would not have undermined the
+State’s DNA results “even if” the Court of Appeals could have consid
+ered it in resolving respondent’s Jackson claim. Ante, at 11–12. That
+discussion cannot properly be read to suggest either that there are
+circumstances in which post-trial evidence would “warrant” excluding
+DNA trial evidence from a Jackson analysis, ante, at 12, or that courts
+applying Jackson may consider post-trial evidence for any other pur
+pose. Both points are squarely foreclosed by the precedents on which
+the Court relies in reversing the Ninth Circuit’s judgment. See ante, at
+1 (citing Jackson, v. Virginia, 443 U. S. 307, 324 (1979)); ante, at 11
+(citing Lockhart, v. Nelson, 488 U. S. 33, 39 (1988)), respectively.
+
+

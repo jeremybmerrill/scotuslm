@@ -1,0 +1,45 @@
+Cite as: 563 U. S. ____ (2011)
+
+9
+
+Opinion of the Court
+
+edge of the patent was needed. 377 U. S., at 488, and n. 8;
+id., at 514 (White, J., concurring); id., at 524–527 (Black,
+J., dissenting).5 Justice Black’s opinion, which explained
+the basis for the majority’s view, concluded that the lan­
+guage of §271(c) supported this interpretation. See id., at
+525. His opinion also relied on an amendment to this
+language that was adopted when the bill was in commit­
+tee. Id., at 525–527.
+Four Justices disagreed with this interpretation and
+would have held that a violator of §271(c) need know only
+that the component is specially adapted for use in a prod­
+uct that happens to infringe a patent. See id., at 488–490,
+n. 8. These Justices thought that this reading was sup­
+ported by the language of §271(c) and the pre-1952 case
+law, and they disagreed with the inference drawn by the
+majority from the amendment of §271(c)’s language. Ibid.
+While there is much to be said in favor of both views
+expressed in Aro II, the “holding in Aro II has become
+a fixture in the law of contributory infringement under
+[section] 271(c),” 5 R. Moy, Walker on Patents §15:20,
+p. 15–131 (4th ed. 2009)—so much so that SEB has not
+asked us to overrule it, see Brief for Respondent 19, n. 3.
+Nor has Congress seen fit to alter §271(c)’s intent re­
+quirement in the nearly half a century since Aro II was
+decided. In light of the “ ‘special force’ ” of the doctrine of
+stare decisis with regard to questions of statutory inter­
+pretation, see John R. Sand & Gravel Co. v. United States,
+552 U. S. 130, 139 (2008), we proceed on the premise that
+§271(c) requires knowledge of the existence of the patent
+that is infringed.
+——————
+5 Although Justice Black disagreed with the judgment and was thus
+in dissent, he was in the majority with respect to the interpretation of
+§271(c), and his opinion sets out the reasoning of the majority on this
+point. Three other Justices joined his opinion, and a fourth, Justice
+White, endorsed his reasoning with respect to the interpretation of
+§271(c). See 377 U. S., at 514 (White, J., concurring).
+
+

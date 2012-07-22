@@ -1,0 +1,47 @@
+Cite as: 559 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+Even if the text of §1692k(c), read in isolation, leaves
+room for doubt, the context and history of the FDCPA
+provide further reinforcement for construing that provi
+sion not to shield violations resulting from misinterpreta
+tions of the requirements of the Act. See Dada v. Mu
+kasey, 554 U. S. 1, __ (2008) (slip op., at 13) (“In reading a
+statute we must not look merely to a particular clause, but
+consider in connection with it the whole statute” (internal
+quotation marks omitted)). As described above, Congress
+included in the FDCPA not only the bona fide error de
+fense but also a separate protection from liability for “any
+act done or omitted in good faith in conformity with any
+advisory opinion of the [FTC].” §1692k(e). In our view,
+the Court of Appeals’ reading is at odds with the role
+Congress evidently contemplated for the FTC in resolving
+ambiguities in the Act. Debt collectors would rarely need
+to consult the FTC if §1692k(c) were read to offer immu
+nity for good-faith reliance on advice from private counsel.
+Indeed, debt collectors might have an affirmative incentive
+not to seek an advisory opinion to resolve ambiguity in the
+law, as receipt of such advice would prevent them from
+claiming good-faith immunity for violations and would
+potentially trigger civil penalties for knowing violations
+under the FTC Act.8 More importantly, the existence of a
+separate provision that, by its plain terms, is more obvi
+ously tailored to the concern at issue (excusing civil liabil
+ity when the Act’s prohibitions are uncertain) weighs
+against stretching the language of the bona fide error
+——————
+8 One
+
+of Carlisle’s amici suggests the FTC safe harbor would provide
+a more categorical immunity than §1692k(c), obviating the need, e.g., to
+maintain “procedures reasonably adapted to avoid any such error.”
+Brief for National Association of Retail Collection Attorneys as Amicus
+Curiae 18–19 (NARCA Brief). Even if that is true, we need not con
+clude that the FTC safe harbor would be rendered entirely superfluous
+to reason that the existence of that provision counsels against extend
+ing the bona fide error defense to serve an overlapping function.
+
+

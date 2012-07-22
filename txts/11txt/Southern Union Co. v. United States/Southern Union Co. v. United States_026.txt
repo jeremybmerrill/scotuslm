@@ -1,0 +1,43 @@
+Cite as: 567 U. S. ____ (2012)
+
+7
+
+BREYER, J., dissenting
+
+able doubt.” 530 U. S., at 490. The number of days (be­
+yond one) on which the defendant violated this criminal
+statute is such a fact. Nonetheless, like the majority, I
+believe that Apprendi’s rule does not automatically control
+the outcome in this case.
+That is because this case concerns a fine, not, as in
+Apprendi, a term of imprisonment. And we made clear in
+Oregon v. Ice, 555 U. S. 160, that Apprendi does not en­
+compass every kind of fact-related sentencing decision
+that increases the statutory maximum. In Ice, we consid­
+ered Apprendi’s application to a sentencing decision about
+whether two prison sentences for conviction of two sepa­
+rate crimes (e.g., illegal drug possession and illegal gun
+possession) would run concurrently or consecutively. 555
+U. S., at 163. An Oregon statute required a concurrent
+sentence unless the sentencing judge found certain facts.
+Id., at 165. Those facts could make a large difference in a
+term of imprisonment. Their presence could mean that a
+5-year sentence for illegal drug possession and a 5-year
+sentence for illegal gun possession would amount to 10
+years of imprisonment rather than 5 (indeed, in Ice itself,
+the judge’s factfinding increased the sentence by 20 years,
+see id., at 166, and n. 5). Thus, the presence of those
+“fact[s]” could “increas[e] the penalty” beyond what would
+otherwise be “the prescribed statutory maximum.” Id., at
+167 (internal quotation marks omitted). Nonetheless, we
+held that the Sixth Amendment permitted a judge—it did
+not require a jury—to make that factual determination.
+Id., at 164.
+We consequently concluded that Apprendi does not
+encompass every kind of fact-related sentencing decision
+that increases the statutory maximum. In doing so, we
+wrote that the “animating principle” of Apprendi’s rule
+“is the preservation of the jury’s historic role as a bulwark between the State and the accused at the trial for
+an alleged offense.” 555 U. S., at 168. And we refused
+
+

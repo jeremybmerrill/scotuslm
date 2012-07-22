@@ -1,0 +1,43 @@
+10
+
+FCC v. AT&T INC.
+Opinion of the Court
+
+a clearly unwarranted invasion of personal privacy.”
+§552(b)(6). Not only did Congress choose the same term in
+drafting Exemption 7(C), it also used the term in a nearly
+identical manner.
+Although the question whether Exemption 6 is limited
+to individuals has not come to us directly, we have regu
+larly referred to that exemption as involving an “individ
+ual’s right of privacy.” Department of State v. Ray, 502
+U. S. 164, 175 (1991) (quoting Department of Air Force v.
+Rose, 425 U. S. 352, 372 (1976) (internal quotation marks
+omitted)); see also Department of State v. Washington Post
+Co., 456 U. S. 595, 599 (1982).
+AT&T does not dispute that “identical words and
+phrases within the same statute should normally be given
+the same meaning,” Powerex Corp. v. Reliant Energy
+Services, Inc., 551 U. S. 224, 232 (2007), but contends that
+“if Exemption 6 does not protect corporations, it is because
+[it] applies only to ‘personnel and medical files and similar
+files,’ ” not because of the term “personal privacy.” AT&T
+Brief 36 (quoting §552(b)(6)). Yet the significance of the
+pertinent phrase—“the disclosure of which would consti
+tute a clearly unwarranted invasion of personal privacy,”
+§552(b)(6)—cannot be so readily dismissed. Without it,
+Exemption 6 would categorically exempt “personnel and
+medical files” as well as any “similar” file. Even if the
+scope of Exemption 6 is also limited by the types of files it
+protects, the “personal privacy” phrase importantly de
+fines the particular subset of that information Congress
+sought to exempt. See Washington Post Co., supra, at 599.
+And because Congress used the same phrase in Exemption
+7(C), the reach of that phrase in Exemption 6 is pertinent
+in construing Exemption 7(C).
+In drafting Exemption 7(C), Congress did not, on the
+other hand, use language similar to that in Exemption 4.
+Exemption 4 pertains to “trade secrets and commercial or
+financial information obtained from a person and privi
+
+

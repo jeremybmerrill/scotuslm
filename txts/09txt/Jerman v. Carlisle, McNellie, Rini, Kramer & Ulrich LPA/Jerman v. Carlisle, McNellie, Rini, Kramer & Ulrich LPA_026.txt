@@ -1,0 +1,48 @@
+Cite as: 559 U. S. ____ (2010)
+
+23
+
+Opinion of the Court
+
+We do not believe our holding today portends such grave
+consequences. For one, the FDCPA contains several pro
+visions that expressly guard against abusive lawsuits,
+thereby mitigating the financial risk to creditors’ attor
+neys. When an alleged violation is trivial, the “actual
+damage[s]” sustained, §1692k(a)(1), will likely be de
+minimis or even zero. The Act sets a cap on “additional”
+damages, §1692k(a)(2), and vests courts with discretion to
+adjust such damages where a violation is based on a good
+faith error, §1692k(b). One amicus suggests that attor
+ney’s fees may shape financial incentives even where
+actual and statutory damages are modest. NARCA Brief
+11. The statute does contemplate an award of costs and “a
+reasonable attorney’s fee as determined by the court” in
+the case of “any successful action to enforce the foregoing
+liability.” §1692k(a)(3). But courts have discretion in
+calculating reasonable attorney’s fees under this statute,16
+——————
+perceives to be a “troubling dynamic of allowing certain actors in the
+system to spin even good-faith, technical violations of federal law into
+lucrative litigation.” Post, at 5–6. The dissent’s concern is primarily
+with Congress’ policy choice, embodied in statutory text, to authorize
+private rights of action and recovery of attorney’s fees, costs, and in
+some cases, both actual and statutory damages. As noted, in one of the
+statutes the dissent cites, Congress explicitly barred reliance on a
+mistake-of-law defense notwithstanding the “highly technical” nature of
+the scheme. See 15 U. S. C. §1640(c) (TILA); Ford Motor Credit Co. v.
+Milhollin, 444 U. S. 555, 566 (1980). Similarly, the plain text of the
+FDCPA authorizes a private plaintiff to recover not only “actual dam
+age[s]” for harm suffered but also “such additional damages as the
+court may allow,” §1692k(a).
+16 The Courts of Appeals generally review a District Court’s calcula
+tion of an attorney fee award under §1692k for abuse of discretion. See,
+e.g., Carroll v. Wolpoff & Abramson, 53 F. 3d 626, 628–629 (CA4 1995);
+Emanuel v. American Credit Exchange, 870 F. 2d 805, 809 (CA2 1989).
+Many District Courts apply a lodestar method, permitting downward
+adjustments in appropriate circumstances. See, e.g., Schlacher v. Law
+Offices of Phillip J. Rotche & Assoc., P. C., 574 F. 3d 852 (CA7 2009)
+(relying on Hensley v. Eckerhart, 461 U. S. 424 (1983)); Ferland v.
+Conrad Credit Corp., 244 F. 3d 1145, 1148–1151, and n. 4 (CA9 2001)
+
+

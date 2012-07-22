@@ -1,0 +1,43 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+if “[a]ctually and intentionally touch[ing]” another person
+constitutes the use of “physical force” within the meaning
+of §924(e)(2)(B)(i). The District Court concluded that it
+does, and accordingly sentenced Johnson under §924(e)(1)
+to a prison term of 15 years and 5 months.
+The Eleventh Circuit affirmed. 528 F. 3d 1318 (2008).
+We granted certiorari, 555 U. S. ___ (2009).
+II
+Florida has a statute similar to the Armed Career
+Criminal Act that imposes mandatory-minimum sentences
+upon “violent career criminal[s],” Fla. Stat. §775.084(4)(d)
+(2007), defined to mean persons who have three convic
+tions for certain felonies, including any “forcible felony,”
+§775.084(1)(d)(1)(a). “[F]orcible felony” is defined to in
+clude a list of enumerated felonies—including murder,
+manslaughter, sexual battery, carjacking, aggravated
+assault, and aggravated battery—and also “any other
+felony which involves the use or threat of physical force or
+violence against any individual.” §776.08. In Hearns, the
+Florida Supreme Court held that the felony offense of
+battery on a law enforcement officer, §784.07(2)(b)—which
+requires the same conduct (directed against a law en
+forcement officer) as misdemeanor battery under
+§784.03(1)(a)—was not a forcible felony. See 961 So. 2d, at
+219. It said that since §784.03(1)(a) requires proof of only
+the slightest unwanted physical touch, “the use . . . of
+physical force” was not an element of the offense. Id., at
+219.
+Johnson argues that in deciding whether any unwanted
+physical touching constitutes “physical force” under 18
+U. S. C. §924(e)(2)(B)(i), we are bound by the Florida
+Supreme Court’s conclusion in Hearns that it does not
+constitute “physical force.” That is not so. The meaning of
+“physical force” in §924(e)(2)(B)(i) is a question of federal
+law, not state law. And in answering that question we are
+
+

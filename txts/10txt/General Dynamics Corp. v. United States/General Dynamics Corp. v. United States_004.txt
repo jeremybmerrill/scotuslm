@@ -1,0 +1,46 @@
+Cite as: 563 U. S. ____ (2011)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+Nos. 09–1298 and 09–1302
+_________________
+
+GENERAL DYNAMICS CORPORATION, PETITIONER
+09–1298
+v.
+UNITED STATES
+THE BOEING COMPANY, SUCCESSOR TO
+McDONNELL DOUGLAS CORPORATION,
+PETITIONER
+09–1302
+v.
+UNITED STATES
+ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FEDERAL CIRCUIT
+[May 23, 2011]
+
+JUSTICE SCALIA delivered the opinion of the Court.
+We consider what remedy is proper when, to protect
+state secrets, a court dismisses a Government contractor’s
+prima facie valid affirmative defense to the Government’s
+allegations of contractual breach.
+I
+In 1988, the Navy awarded petitioners a $4.8 billion
+fixed-price contract to research and develop the A–12
+Avenger carrier-based, stealth aircraft. The A–12 proved
+unexpectedly difficult to design and manufacture, and by
+December 1990, petitioners were almost two years behind
+schedule and spending $120 to $150 million each month to
+develop the A–12.
+
+

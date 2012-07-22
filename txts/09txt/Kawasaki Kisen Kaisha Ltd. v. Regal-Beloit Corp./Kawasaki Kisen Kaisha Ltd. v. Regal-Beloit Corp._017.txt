@@ -1,0 +1,44 @@
+Cite as: 561 U. S. ____ (2010)
+
+13
+
+Opinion of the Court
+
+time” contracts, Kirby, 543 U. S., at 24, does not put “K”
+Line within Carmack’s reach and thus does not require it
+to issue Carmack bills of lading.
+As for Union Pacific, it was also not a receiving rail
+carrier under Carmack. The cargo owners conceded at
+oral argument that, even under their theory, Union Pacific
+was a mere delivering carrier, which did not have to issue
+its own Carmack bill of lading. See Tr. of Oral Arg. 29, 39.
+This was a necessary concession. A carrier does not be
+come a receiving carrier simply by accepting goods for
+further transport from another carrier in the middle of an
+international shipment under a through bill. After all,
+Union Pacific was not the “initial carrier” for the carriage.
+Mexican Light, 331 U. S., at 733.
+If a carrier like Union Pacific, which acts as a connect
+ing or delivering carrier during an international through
+shipment, was, counterintuitively, a receiving carrier
+under Carmack, this would in effect outlaw through ship
+ments under a single bill of lading. This is because a
+carriage like the one in the present case would require two
+bills of lading: one that the overseas carrier (here, “K”
+Line) issues to the cargo owners under COGSA, and a
+second one that the first domestic rail carrier (here, Union
+Pacific) issues to the overseas carrier under Carmack.
+Kirby noted “the popularity of ‘through’ bills of lading, in
+which cargo owners can contract for transportation across
+oceans and to inland destinations in a single transaction.”
+543 U. S., at 25–26. The Court sees no reason to read
+COGSA and Carmack to outlaw this efficient mode of
+international shipping by requiring these journeys to have
+multiple bills of lading. In addition, if Union Pacific had
+to issue a Carmack bill of lading to “K” Line, it is unclear
+whether the cargo owners (the parties Carmack is de
+signed to protect) would be able to sue under the terms
+governing that bill, especially in light of their different
+through bill with “K” Line. These difficulties are reason
+
+

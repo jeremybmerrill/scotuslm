@@ -1,0 +1,42 @@
+22
+
+CIGNA CORP. v. AMARA
+Opinion of the Court
+
+To be sure, just as a court of equity would not surcharge
+a trustee for a nonexistent harm, 4 Scott & Ascher §24.9,
+a fiduciary can be surcharged under §502(a)(3) only upon a
+showing of actual harm—proved (under the default rule
+for civil cases) by a preponderance of the evidence. That
+actual harm may sometimes consist of detrimental reli
+ance, but it might also come from the loss of a right pro
+tected by ERISA or its trust-law antecedents. In the
+present case, it is not difficult to imagine how the failure
+to provide proper summary information, in violation of the
+statute, injured employees even if they did not themselves
+act in reliance on summary documents—which they might
+not themselves have seen—for they may have thought
+fellow employees, or informal workplace discussion, would
+have let them know if, say, plan changes would likely
+prove harmful. We doubt that Congress would have
+wanted to bar those employees from relief.
+The upshot is that we can agree with CIGNA only to a
+limited extent. We believe that, to obtain relief by sur
+charge for violations of §§102(a) and 104(b), a plan partici
+pant or beneficiary must show that the violation injured
+him or her. But to do so, he or she need only show harm
+and causation. Although it is not always necessary to
+meet the more rigorous standard implicit in the words
+“detrimental reliance,” actual harm must be shown.
+We are not asked to reassess the evidence. And we are
+not asked about the other prerequisites for relief. We are
+asked about the standard of prejudice. And we conclude
+that the standard of prejudice must be borrowed from
+equitable principles, as modified by the obligations and
+injuries identified by ERISA itself. Information-related
+circumstances, violations, and injuries are potentially too
+various in nature to insist that harm must always meet
+that more vigorous “detrimental harm” standard when
+equity imposed no such strict requirement.
+
+

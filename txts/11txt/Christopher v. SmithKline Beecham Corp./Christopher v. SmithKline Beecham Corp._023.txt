@@ -1,0 +1,45 @@
+18
+
+CHRISTOPHER v. SMITHKLINE BEECHAM CORP.
+Opinion of the Court
+
+Municipal League, 541 U. S. 125, 132 (2004), but in the
+context of 29 U. S. C. §203(k), it is best read to mean “ ‘one
+or some indiscriminately of whatever kind,’ ” United States
+v. Gonzales, 520 U. S. 1, 5 (1997) (quoting Webster’s Third
+New International Dictionary 97 (1976)). That is so
+because Congress defined “sale” to include both the un­
+modified word “sale” and transactions that might not be
+considered sales in a technical sense, including exchanges
+and consignments for sale.18
+Third, Congress also included a broad catchall phrase:
+“other disposition.” Neither the statute nor the regula­
+tions define “disposition,” but dictionary definitions of the
+term range from “relinquishment or alienation” to “ar­
+rangement.” See Webster’s New International Dictionary
+644 (def. 1(b)) (1927) (“[t]he getting rid, or making over, of
+anything; relinquishment or alienation”); ibid. (def. 1(a))
+(“[t]he ordering, regulating, or administering of any­
+thing”); 3 Oxford English Dictionary, supra, at 493 (def. 4)
+(“[t]he action of disposing of, putting away, getting rid of,
+making over, etc.”); ibid. (def. 1) (“[t]he action of setting in
+order, or condition of being set in order; arrangement,
+order”). We agree with the DOL that the rule of ejusdem
+generis should guide our interpretation of the catchall
+phrase, since it follows a list of specific items.19 But the
+limit the DOL posits, one that would confine the phrase to
+dispositions involving “contract[s] for the exchange of
+goods or services in return for value,” see U. S. Brief 20, is
+——————
+18 Given that the FLSA provides its own definition of “sale” that is
+more expansive than the term’s ordinary meaning, the DOL’s reliance
+on dictionary definitions of the word “sale” is misplaced. See, e.g.,
+Burgess v. United States, 553 U. S. 124, 130 (2008) (noting that “[w]hen
+a statute includes an explicit definition, we must follow that definition”
+(internal quotation marks omitted)).
+19 The canon of ejusdem generis “limits general terms [that] follow
+specific ones to matters similar to those specified.” CSX Transp., Inc. v.
+Alabama Dept. of Revenue, 562 U. S. ___, ___ (2011) (slip op., at 16)
+(alteration in original; internal quotation marks omitted).
+
+

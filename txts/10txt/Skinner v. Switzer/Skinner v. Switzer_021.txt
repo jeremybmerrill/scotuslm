@@ -1,0 +1,45 @@
+2
+
+SKINNER v. SWITZER
+THOMAS, J., dissenting
+
+now hold that these claims are not cognizable under
+§1983.
+I
+The Court has recognized that §1983 does not reach to
+the full extent of its “broad language.” Preiser v. Rodri
+guez, 411 U. S. 475, 489 (1973); see, e.g., Heck v. Hum
+phrey, 512 U. S. 477, 485 (1994) (§1983 should not “expand
+opportunities for collateral attack”). But this Court has
+never purported to fully circumscribe the boundaries of
+§1983. Cf. id., at 482. Rather, we have evaluated each
+claim as it has come before us, reasoning from first princi
+ples and our prior decisions.
+In Preiser v. Rodriguez, the Court began with the undis
+puted proposition that a state prisoner may not use §1983
+to “challeng[e] his underlying conviction and sentence on
+federal constitutional grounds.” 411 U. S., at 489. This
+included attacks on the trial procedures. See id., at 486
+(“den[ial] [of] constitutional rights at trial”). From there,
+the Court reasoned that “immediate release from [physi
+——————
+postconviction discovery of DNA evidence that can then be used in a
+state habeas proceeding to challenge the validity of a conviction. See
+Ard v. State, 191 S. W. 3d 342, 344 (Tex. App. 2006). Article 64 does
+not itself “provide a vehicle for obtaining relief,” Ex parte Tuley, 109
+S. W. 3d 388, 391 (Tex. Crim. App. 2002), but rather is by design and
+by nature part of Texas’ collateral review procedures. See Reply Brief
+for Petitioner 8 (“Because [Article 64] does not give the convicting court
+authority to overturn a conviction, the prisoner still must bring a
+habeas proceeding to challenge the conviction”).
+Although Article 64 is, for the purposes of Skinner’s due process chal
+lenge, part of the state collateral review process, I do not suggest that a
+motion under Article 64 is an “application for . . . collateral review”
+under 28 U. S. C. §2244(d)(2). See Wall v. Kholi, post, at 10, n. 4
+(noting that an application for review must “provide a state court with
+authority to order relief from a judgment”). Texas has divided postcon
+viction discovery of DNA evidence and the application for state habeas
+into separate proceedings, but both remain parts of the State’s collat
+eral review process.
+
+

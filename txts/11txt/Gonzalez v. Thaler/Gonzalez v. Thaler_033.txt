@@ -1,0 +1,38 @@
+Cite as: 565 U. S. ____ (2012)
+
+11
+
+SCALIA, J., dissenting
+
+(quoting Torres, supra, at 318), which according to the
+Court’s analysis “ ‘clearly state[d],’ ” ante, at 6 (quoting
+Arbaugh, 546 U. S., at 515), that Rule 3(c) is jurisdictional.
+But the legislature there did precisely what it did here:
+made a particular document necessary to jurisdiction and
+then specified what that document must contain.6 I certainly agree that that is a clear statement that a document with the requisite content is necessary to jurisdiction. But the Court does not. So to distinguish Torres it
+has to find something else in Rule 3(c) that provided a
+“clear statement” of what “Congress intended,” ante, at 6–
+7. The best it can come up with, ante, at 12, is an unclear
+statement, and that not from Congress but from Advisory
+Committee Notes referred to in the Torres opinion. Such
+Notes are (of course) “the product of the Advisory Committee, and not Congress,” and “they are transmitted to Congress before the rule is enacted into law.” United States v.
+Vonn, 535 U. S. 55, 64, n. 6 (2002). They are, in other
+words, a species of legislative history. I know of no precedent for the proposition that legislative history can satisfy
+a clear-statement requirement imposed by this Court’s
+opinions. Does today’s distinguishing of Torres mean that
+legislative history can waive the sovereign immunity of
+the United States? See United States v. Nordic Village,
+——————
+6 The Court’s claim that “Torres involved . . . a different textual, contextual, and historical backdrop,” ante, at 13, n. 8, does not withstand
+scrutiny. First, consider the “textual backdrop.” The Court cannot
+really believe that Rule 3(c)(1)’s statement that a notice of appeal “must
+. . . specify” the appealing party is “ ‘clear’ jurisdictional language,” ante,
+at 7, while §2253(c)(3)’s “shall indicate” the issue or issues is not. If it
+did, it would say as much, since that would readily distinguish Torres.
+And then consider the “contextual” (whatever that means) and “historical backdrop.” Each provision, in mandatory-but-not-jurisdictional
+language, specifies what another document, itself jurisdictional in light
+of statutory text and history, must contain. The two cases are, of
+course, literally “different,” ante, at 13, n. 8, but not in any legally
+relevant way.
+
+

@@ -1,0 +1,44 @@
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+The District Court of the Northern District of California
+accepted Hertz’s statement of the facts as undisputed.
+But it concluded that, given those facts, Hertz was a citi
+zen of California. In reaching this conclusion, the court
+applied Ninth Circuit precedent, which instructs courts to
+identify a corporation’s “principal place of business” by
+first determining the amount of a corporation’s business
+activity State by State. If the amount of activity is “sig
+nificantly larger” or “substantially predominates” in one
+State, then that State is the corporation’s “principal place
+of business.” If there is no such State, then the “principal
+place of business” is the corporation’s “ ‘nerve center,’ ” i.e.,
+the place where “ ‘the majority of its executive and admin
+istrative functions are performed.’ ” Friend v. Hertz, No.
+C–07–5222 MMC (ND Cal., Jan. 15, 2008), p. 3 (hereinaf
+ter Order); Tosco Corp. v. Communities for a Better Envi
+ronment, 236 F. 3d 495, 500–502 (CA9 2001) (per curiam).
+Applying this test, the District Court found that the
+“plurality of each of the relevant business activities” was
+in California, and that “the differential between the
+amount of those activities” in California and the amount
+in “the next closest state” was “significant.” Order 4.
+Hence, Hertz’s “principal place of business” was Califor
+nia, and diversity jurisdiction was thus lacking. The
+District Court consequently remanded the case to the
+state courts.
+Hertz appealed the District Court’s remand order. 28
+U. S. C. §1453(c). The Ninth Circuit affirmed in a brief
+memorandum opinion. 297 Fed. Appx. 690 (2008). Hertz
+filed a petition for certiorari. And, in light of differences
+among the Circuits in the application of the test for corpo
+rate citizenship, we granted the writ. Compare Tosco
+Corp., supra, at 500–502, and Capitol Indemnity Corp. v.
+Russellville Steel Co., 367 F. 3d 831, 836 (CA8 2004) (ap
+plying “total activity” test and looking at “all corporate
+activities”), with Wisconsin Knife Works, supra, at 1282
+
+

@@ -1,0 +1,43 @@
+2
+
+MICHIGAN v. BRYANT
+SCALIA, J., dissenting
+
+the right . . . to be confronted with the witnesses against
+him.” In Crawford, we held that this provision guarantees
+a defendant his common-law right to confront those “who
+‘bear testimony’ ” against him. 541 U. S., at 51. A witness
+must deliver his testimony against the defendant in per
+son, or the prosecution must prove that the witness is
+unavailable to appear at trial and that the defendant
+has had a prior opportunity for cross-examination. Id., at
+53–54.
+Not all hearsay falls within the Confrontation Clause’s
+grasp. At trial a witness “bears testimony” by providing
+“ ‘[a] solemn declaration or affirmation . . . for the purpose
+of establishing or proving some fact.’ ” Id., at 51 (quoting 2
+N. Webster, An American Dictionary of the English Lan
+guage (1828)). The Confrontation Clause protects defen
+dants only from hearsay statements that do the same.
+Davis v. Washington, 547 U. S. 813, 823–824 (2006). In
+Davis, we explained how to identify testimonial hearsay
+prompted by police questioning in the field. A statement
+is testimonial “when the circumstances objectively indi
+cate . . . that the primary purpose of the interrogation is to
+establish or prove past events potentially relevant to later
+criminal prosecution.” Id., at 822. When, however, the
+circumstances objectively indicate that the declarant’s
+statements were “a cry for help [o]r the provision of infor
+mation enabling officers immediately to end a threatening
+situation,” id., at 832, they bear little resemblance to in
+court testimony. “No ‘witness’ goes into court to proclaim
+an emergency and seek help.” Id., at 828.
+Crawford and Davis did not address whose perspective
+matters—the declarant’s, the interrogator’s, or both—
+when assessing “the primary purpose of [an] interroga
+tion.” In those cases the statements were testimonial from
+any perspective. I think the same is true here, but be
+cause the Court picks a perspective so will I: The decla
+rant’s intent is what counts. In-court testimony is more
+
+

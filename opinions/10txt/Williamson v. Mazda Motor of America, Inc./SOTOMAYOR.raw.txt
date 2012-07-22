@@ -1,0 +1,108 @@
+Cite as: 562 U. S. ____ (2011)
+
+1
+
+SOTOMAYOR, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1314
+_________________
+
+DELBERT WILLIAMSON, ET AL., PETITIONERS v.
+
+MAZDA MOTOR OF AMERICA, INC., ET AL. 
+
+ON WRIT OF CERTIORARI TO THE COURT OF APPEAL OF CALIFORNIA, FOURTH APPELLATE DISTRICT, DIVISION THREE
+[February 23, 2011]
+
+JUSTICE SOTOMAYOR, concurring.
+As the Court notes, this is not the first case in which the
+Court has encountered the express pre-emption provision
+and saving clause of the National Traffic and Motor Vehi
+cle Safety Act of 1966, 80 Stat. 718, 15 U. S. C. §1381 et
+seq. (1988 ed.) (recodified without substantive change at
+49 U. S. C. §30101 et seq. (2006 ed. and Supp. III)). In
+Geier v. American Honda Motor Co., 529 U. S. 861 (2000),
+the Court concluded that the “saving clause (like the
+express pre-emption provision) does not bar the ordinary
+working of conflict pre-emption principles,” id., at 869, and
+therefore engaged in an implied pre-emption analysis.
+The majority and dissent in Geier agreed that “a court
+should not find pre-emption too readily in the absence of
+clear evidence of a conflict.” Id., at 885.
+I agree with the majority’s resolution of this case and
+with its reasoning. I write separately only to emphasize
+the Court’s rejection of an overreading of Geier that has
+developed since that opinion was issued.
+Geier does not stand, as the California Court of Appeal,
+167 Cal. App. 4th 905, 918–919, 84 Cal. Rptr. 3d 545, 555–
+556 (2008), other courts, and some of respondents’ amici
+seem to believe, for the proposition that any time an
+agency gives manufacturers a choice between two or more
+options, a tort suit that imposes liability on the basis of
+
+
+2
+
+WILLIAMSON v. MAZDA MOTOR OF AMERICA, INC.
+SOTOMAYOR, J., concurring
+
+one of the options is an obstacle to the achievement of a
+federal regulatory objective and may be pre-empted.*
+Rather, Geier turned on the fact that the agency, via Fed
+eral Motor Vehicle Safety Standard 208, “deliberately
+sought variety—a mix of several different passive re
+straint systems.” 529 U. S., at 878; ante, at 7. As the
+United States notes, “a conflict results only when the
+Safety Act (or regulations implementing the Safety Act)
+does not just set out options for compliance, but also pro
+vides that the regulated parties must remain free to
+choose among those options.” Brief for United States as
+Amicus Curiae 8. In other words, the mere fact that an
+agency regulation allows manufacturers a choice between
+options is insufficient to justify implied pre-emption;
+courts should only find pre-emption where evidence exists
+that an agency has a regulatory objective—e.g., obtaining
+a mix of passive restraint mechanisms, as in Geier—whose
+achievement depends on manufacturers having a choice
+between options. A link between a regulatory objective
+and the need for manufacturer choice to achieve that
+objective is the lynchpin of implied pre-emption when
+there is a saving clause.
+Absent strong indications from the agency that it needs
+manufacturers to have options in order to achieve a “sig
+nificant . . . regulatory objective,” ante, at 5, state tort
+suits are not “obstacle[s] to the accomplishment . . . of the
+full purposes and objectives” of federal law, Hines v.
+Davidowitz, 312 U. S. 52, 67 (1941). As the majority
+explains, the agency here gave no indication that its safety
+goals required the mixture of seatbelt types that resulted
+from manufacturers’ ability to choose different options.
+——————
+*See, e.g., Carden v. General Motors Corp., 509 F. 3d 227, 230–232
+(CA5 2007); Griffith v. General Motors Corp., 303 F. 3d 1276, 1282
+(CA11 2002); Heinricher v. Volvo Car Corp., 61 Mass. App. 313, 318–
+319, 809 N. E. 2d 1094, 1098 (2004).
+
+
+Cite as: 562 U. S. ____ (2011)
+
+3
+
+SOTOMAYOR, J., concurring
+
+Ante, at 8–12 (distinguishing the regulatory record in this
+case from that in Geier).
+Especially in light of the “statutory saving clause that
+foresees the likelihood of a continued meaningful role for
+state tort law,” ante, at 11, respondents have not carried
+their burden of establishing that the agency here “deliber
+ately sought variety” to achieve greater safety, Geier, 529
+U. S., at 878. Therefore, the Williamsons’ tort suit does
+not present an obstacle to any “significant federal regula
+tory objective,” ante, at 5, and may not be pre-empted.
+For these reasons, I concur.
+
+

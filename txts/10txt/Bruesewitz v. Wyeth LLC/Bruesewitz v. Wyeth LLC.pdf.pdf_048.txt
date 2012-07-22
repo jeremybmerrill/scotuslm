@@ -1,0 +1,47 @@
+Cite as: 562 U. S. ____ (2011)
+
+19
+
+SOTOMAYOR, J., dissenting
+
+The majority also suggests that if Congress wished to
+preserve design defect claims, it could have simply pro
+vided that manufacturers would be liable for “defective
+manufacture, defective directions or warning, and defec
+tive design.” Ante, at 8 (internal quotation marks omit
+ted). Putting aside the fact that §22(a) already preserves
+design defect claims (to the extent §22(b)(1) does not ap
+ply), the majority’s proposed solution would not have fully
+effectuated Congress’ intent. As the legislative history
+makes clear, Congress used the term “unavoidable” to
+effectuate its intent that the “principle in Comment K
+regarding ‘unavoidably unsafe’ products . . . apply to the
+vaccines covered in the bill.” 1986 Report 26; see also
+1987 Report 691. At the time of the Vaccine Act’s enact
+ment in 1986, at least one State had expressly rejected
+comment k,16 while many others had not addressed the
+applicability of comment k specifically to vaccines or ap
+plied comment k to civil actions proceeding on a theory
+other than strict liability (e.g., negligence17). A statute
+——————
+an express saving clause in the same statutory section, see 42 U. S. C.
+§300aa–22(a), and its use of the conditional “if” clause in defining the
+pre-emptive scope of the provision. See Bates v. Dow Agrosciences LLC,
+544 U. S. 431, 449 (2005) (“In areas of traditional state regulation, we
+assume that a federal statute has not supplanted state law unless
+Congress has made such an intention clear and manifest” (internal
+quotation marks omitted)).
+16 See Collins v. Eli Lilly Co., 116 Wis. 2d 166, 197, 342 N. W. 2d 37,
+52 (1984) (“We conclude that the rule embodied in comment k is too
+restrictive and, therefore, not commensurate with strict products
+liability law in Wisconsin”). Collins did, however, “recognize that in
+some exigent circumstances it may be necessary to place a drug on the
+market before adequate testing can be done.” Ibid. It thus adopted a
+narrower defense (based on “exigent circumstances”) than that recog
+nized in other jurisdictions that had expressly adopted comment k.
+17 See, e.g., Kearl, 172 Cal. App. 3d, at 831, n. 15, 218 Cal. Rptr., at
+465, n. 15 (“[T]he unavoidably dangerous product doctrine merely
+exempts the product from a strict liability design defect analysis; a
+plaintiff remains free to pursue his design defect theory on the basis of
+
+

@@ -1,0 +1,46 @@
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+STEVENS, J., dissenting
+
+from focusing on the relevant time period, but it also
+distorted the jury’s perception of Marcus’ actions. By
+arguing that its preenactment evidence showed a violation
+of the TVPA, the Government effectively mischaracterized
+all of that evidence as descriptions of illegal behavior. And
+by giving the jury the impression that Marcus committed
+a much larger amount of criminal conduct than he really
+did, the error may have tipped the scales in favor of the
+prosecution, when the actual evidence of guilt would not
+have persuaded the jury to convict.
+There is no need to decide whether the Government’s
+arguments or the trial court’s failure to give a curative
+instruction reached a level of unfairness sufficient to
+violate the Due Process Clause. For the foregoing reasons,
+I am convinced that the error prejudiced Marcus and
+seriously undermined the integrity of the proceedings.
+While I do not endorse the reasoning in the Court of Ap
+peals’ opinion,* I would therefore affirm its judgment.
+
+——————
+* The per curiam opinion contained a curious wrinkle, apart from
+misclassifying the trial error. See ante, at 6. The per curiam applied a
+standard from earlier Second Circuit cases that asked whether there
+was any possibility the jury convicted the defendant exclusively on the
+basis of preenactment conduct. 538 F. 3d 97, 101 (CA2 2008) (citing
+United States v. Torres, 901 F. 2d 205, 229 (1990), United States v.
+Monaco, 194 F. 3d 381, 386 (1999), and United States v. Harris, 79
+F. 3d 223, 229 (1996)). As I read the Second Circuit precedents, how
+ever, they used that standard to determine whether an ex post facto
+violation occurred, not to determine whether that violation warranted
+vacatur of the conviction pursuant to Federal Rule of Criminal Proce
+dure 52(b). Torres is the only one of the cited cases that even consid
+ered Rule 52(b), and its holding rested on a combination of factors,
+including that “the defendants brought the general ex post facto ques
+tion to the attention of the district court,” albeit imprecisely, and that a
+mandatory life sentence was imposed. 901 F. 2d, at 229. It is thus
+unclear why the Court of Appeals believed itself foreclosed from con
+ducting a regular “plain error” review.
+
+

@@ -1,0 +1,39 @@
+2
+
+FAA v. COOPER
+Syllabus
+confidential medical information had caused him mental and emotional distress. The District Court concluded that the Government
+had violated the Act. But, finding the term “actual damages” ambiguous, the court relied on the sovereign immunity canon, which provides that sovereign immunity waivers must be strictly construed in
+the Government’s favor, to hold that the Act does not authorize the
+recovery of nonpecuniary damages. Reversing the District Court, the
+Ninth Circuit concluded that “actual damages” in the Act is not ambiguous and includes damages for mental and emotional distress.
+
+Held: The Privacy Act does not unequivocally authorize damages for
+mental or emotional distress and therefore does not waive the Government’s sovereign immunity from liability for such harms. Pp. 4–
+19.
+(a) A waiver of sovereign immunity must be unequivocally expressed in statutory text, see e.g., Lane v. Peña, 518 U. S. 187, 192,
+and any ambiguities are to be construed in favor of immunity, United
+States v. Williams, 514 U. S. 527, 531. Ambiguity exists if there is a
+plausible interpretation of the statute that would not allow money
+damages against the Government. United States v. Nordic Village,
+Inc., 503 U. S. 30, 37. Pp. 5–6.
+(b) The term “actual damages” in the Privacy Act is a legal term of
+art, and Congress, when it employs a term of art, “ ‘presumably
+knows and adopts the cluster of ideas that were attached to each borrowed word in the body of learning from which it was taken,’ ” Molzof
+v. United States, 502 U. S. 301, 307. Even as a legal term, the precise
+meaning of “actual damages” is far from clear. Although the term is
+sometimes understood to include nonpecuniary harm, it has also been
+used or construed more narrowly to cover damages for only pecuniary
+harm. Because of the term’s chameleon-like quality, it must be considered in the particular context in which it appears. Pp. 6–9.
+(c) The Privacy Act serves interests similar to those protected by
+defamation and privacy torts. Its remedial provision, under which
+plaintiffs can recover a minimum award of $1,000 if they first prove
+at least some “actual damages,” “parallels” the common-law torts of
+libel per quod and slander, under which plaintiffs can recover “general damages” if they first prove “special damages.” Doe v. Chao, 540
+U. S. 614, 625. “Special damages” are limited to actual pecuniary
+loss, which must be specially pleaded and proved. “General damages” cover nonpecuniary loss and need not be pleaded or proved. This
+parallel suggests the possibility that Congress intended the term “actual damages” to mean “special damages,” thus barring Privacy Act
+victims from any recovery unless they can first show some actual pecuniary harm. That Congress would choose “actual damages” instead
+of “special damages” is not without precedent, as the terms have oc-
+
+

@@ -1,0 +1,44 @@
+12
+
+CULLEN v. PINHOLSTER
+SOTOMAYOR, J., dissenting
+
+The majority’s reading of §2254(d)(1) appears ultimately
+to rest on its understanding that state courts must have
+the first opportunity to adjudicate habeas petitioners’
+claims. See ante, at 9–10 (“It would be contrary to
+[AEDPA’s exhaustion requirement] to allow a petitioner to
+overcome an adverse state-court decision with new evi
+dence introduced in a federal habeas court and reviewed
+by that court in the first instance effectively de novo”).10
+JUSTICE BREYER takes the same position. See ante, at 2
+(opinion concurring in part and dissenting in part)
+(AEDPA is designed “to give the State a first opportunity
+to consider most matters”). I fully agree that habeas
+petitioners must attempt to present evidence to state
+courts in the first instance, as does JUSTICE ALITO, see
+ante, at 2. Where I disagree with the majority is in my
+understanding that §2254(e)(2) already accomplishes this
+result.
+By reading §2254(d)(1) to do the work of
+§2254(e)(2), the majority gives §2254(e)(2) an unnaturally
+cramped reading. As a result, the majority either has
+foreclosed habeas relief for diligent petitioners who,
+through no fault of their own, were unable to present
+exculpatory evidence to the state court that adjudicated
+their claims or has created a new set of procedural com
+plexities for the lower courts to navigate to ensure the
+availability of the Great Writ for diligent petitioners.
+3
+These considerations lead me to agree with the courts of
+appeals that have concluded that a federal court should
+assess the reasonableness of a state court’s application of
+clearly established federal law under §2254(d)(1) in light
+of evidence properly admitted in a federal evidentiary
+hearing. There is nothing “strange” about this approach.
+——————
+10 Under my reading of §2254(d)(1), of course, the district court would
+review properly admitted new evidence through the deferential lens of
+§2254(d)(1), not de novo.
+
+

@@ -1,0 +1,984 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–382
+_________________
+
+UNITED STATES, PETITIONER v. JICARILLA 
+
+APACHE NATION 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FEDERAL CIRCUIT
+
+[June 13, 2011] 
+
+
+JUSTICE SOTOMAYOR, dissenting.
+Federal Indian policy, as established by a network of
+federal statutes, requires the United States to act strictly
+in a fiduciary capacity when managing Indian trust fund
+accounts. The interests of the Federal Government as
+trustee and the Jicarilla Apache Nation (Nation) as bene
+ficiary are thus entirely aligned in the context of Indian
+trust fund management. Where, as here, the governing
+statutory scheme establishes a conventional fiduciary
+relationship, the Government’s duties include fiduciary
+obligations derived from common-law trust principles.
+Because the common-law rationales for the fiduciary
+exception fully support its application in this context, I
+would hold that the Government may not rely on the
+attorney-client privilege to withhold from the Nation
+communications between the Government and its attor
+neys relating to trust fund management.
+The Court’s decision to the contrary rests on false fac
+tual and legal premises and deprives the Nation and other
+Indian tribes of highly relevant evidence in scores of pend
+ing cases seeking relief for the Government’s alleged
+mismanagement of their trust funds. But perhaps more
+troubling is the majority’s disregard of our settled prece
+dent that looks to common-law trust principles to define
+the scope of the Government’s fiduciary obligations to
+
+
+2
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+Indian tribes. Indeed, aspects of the majority’s opinion
+suggest that common-law principles have little or no re
+levance in the Indian trust context, a position this Court
+rejected long ago. Although today’s holding pertains only
+to a narrow evidentiary issue, I fear the upshot of the
+majority’s opinion may well be a further dilution of the
+Government’s fiduciary obligations that will have broader
+negative repercussions for the relationship between the
+United States and Indian tribes.
+I
+
+A
+
+Federal Rule of Evidence 501 provides in relevant part
+that “the privilege of a . . . government . . . shall be gov
+erned by the principles of the common law as they may be
+interpreted by the courts of the United States in the light
+of reason and experience.” Rule 501 “was adopted pre
+cisely because Congress wished to leave privilege ques
+tions to the courts rather than attempt to codify them.”
+United States v. Weber Aircraft Corp., 465 U. S. 792, 804,
+n. 25 (1984).
+As the majority notes, the purpose of the attorney-client
+privilege “is to encourage full and frank communication
+between attorneys and their clients and thereby promote
+broader public interests in the observance of law and
+administration of justice.” Upjohn Co. v. United States,
+449 U. S. 383, 389 (1981). But the majority neglects to
+explain that the privilege is a limited exception to the
+usual rules of evidence requiring full disclosure of relevant
+information. See 8 J. Wigmore, Evidence §2192, p. 64 (3d
+ed. 1940) (common law recognizes “fundamental maxim
+that the public . . . has a right to every man’s evidence”
+and that “any exemptions which may exist are distinctly
+exceptional, being so many derogations from a positive
+general rule”). Because it “has the effect of withholding
+relevant information from the factfinder,” courts construe
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+SOTOMAYOR, J., dissenting
+
+the privilege narrowly. Fisher v. United States, 425 U. S.
+391, 403 (1976). It applies “only where necessary to
+achieve its purpose,” ibid.; “[w]here this purpose ends, so
+too does the protection of the privilege,” Wachtel v. Health
+Net, Inc., 482 F. 3d 225, 231 (CA3 2007).
+The fiduciary exception to the attorney-client privilege
+has its roots in 19th-century English common-law cases
+holding that, “when a trustee obtained legal advice relat
+ing to his administration of the trust, and not in antici
+pation of adversarial legal proceedings against him, the
+beneficiaries of the trust had the right to the production of
+that advice.” Ibid. (collecting cases). The fiduciary excep
+tion is now well recognized in the jurisprudence of both
+federal and state courts,1 and has been applied in a wide
+variety of contexts, including in litigation involving com
+mon-law trusts, see, e.g., Riggs Nat. Bank of Washington,
+D. C. v. Zimmer, 355 A. 2d 709 (Del. Ch. 1976), disputes
+between corporations and shareholders, see, e.g., Garner v.
+Wolfinbarger, 430 F. 2d 1093 (CA5 1970), and ERISA
+enforcement actions, see, e.g., United States v. Doe, 162
+F. 3d 554 (CA9 1999).
+The majority correctly identifies the two rationales
+courts have articulated for applying the fiduciary excep
+tion, ante, at 8–9, but its description of those rationales
+omits a number of important points. With regard to the
+first rationale, courts have characterized the trust benefi
+ciary as the “real client” of legal advice relating to trust
+——————
+1 See, e.g., Solis v. Food Employers Labor Relations Assn., __ F. 3d __,
+2011 WL 1663597, *4–5 (CA4 2011); Wachtel v. Health Net, Inc., 482
+F. 3d 225, 232–234 (CA3 2007); Bland v. Fiatallis North America, Inc.,
+401 F. 3d 779, 787–788 (CA7 2005); United States v. Mett, 178 F. 3d
+1058, 1062–1064 (CA9 1999); In re Long Island Lighting Co., 129 F. 3d
+268, 271–272 (CA2 1997); Wildbur v. ARCO Chemical Co., 974 F. 2d
+631, 645 (CA5 1992); Fausek v. White, 965 F. 2d 126, 132–133 (CA6
+1992); see also Restatement (Third) of Trusts §82, Comment f and
+Reporter’s Notes on §82, pp. 187–188, 198–204 (2005); Restatement of
+Law (Third) Governing Lawyers §84 (1998).
+
+
+4
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+administration because such advice, provided to a trustee
+to assist in his management of the trust, is ultimately for
+the benefit of the trust beneficiary, rather than for the
+trustee in his personal capacity. See, e.g., United States v.
+Mett, 178 F. 3d 1058, 1063 (CA9 1999) (“ ‘[A]s a represen
+tative for the beneficiaries of the trust which he is admin
+istering, the trustee is not the real client in the sense that
+he is personally being served’ ” (quoting United States v.
+Evans, 796 F. 2d 264, 266 (CA9 1986) (per curiam)));
+Riggs, 355 A. 2d, at 713 (same). The majority places
+heavy emphasis on the source of payment for the legal
+advice, see ante, at 8, 15, but it is well settled that who
+pays for the legal advice, although “potentially relevant,”
+“is not determinative in resolving issues of privilege.”
+Restatement (Third) of Trusts §82, Comment f, p. 188
+(2005) (hereinafter Third Restatement). Instead, the
+lynchpin of the “real client” inquiry is the identity of the
+ultimate beneficiary of the legal advice. See Wachtel, 482
+F. 3d, at 232 (“[O]f central importance . . . [i]s the fiduci
+ary’s lack of a legitimate personal interest in the legal
+advice obtained”). If the advice was rendered for the
+benefit of the beneficiary and not for the trustee in any
+personal capacity, the “real client” of the advice is the
+beneficiary.
+As to the second rationale for the fiduciary exception—
+rooted in the trustee’s fiduciary duty to disclose all infor
+mation related to trust management—the majority glosses
+over the fact that this duty of disclosure is designed “to
+enable the beneficiary to prevent or redress a breach of
+trust and otherwise to enforce his or her rights under the
+trust.” Third Restatement §82, Comment a(2), at 184. As
+the leading American case on the fiduciary exception
+explains, “[i]n order for the beneficiaries to hold the trus
+tee to the proper standards of care and honesty and pro
+cure for themselves the benefits to which they are entitled,
+their knowledge of the affairs and mechanics of the trust
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+SOTOMAYOR, J., dissenting
+
+management is crucial.” Riggs, 355 A. 2d, at 712. Courts
+justifying the fiduciary exception under this rationale
+have thus concluded that “[t]he policy of preserving the
+full disclosure necessary in the trustee-beneficiary rela
+tionship is . . . ultimately more important than the pro
+tection of the trustees’ confidence in the attorney for the
+trust.” Id., at 714; see Mett, 178 F. 3d, at 1063 (under this
+rationale, “the fiduciary exception can be understood as an
+instance of the attorney-client privilege giving way in the
+face of a competing legal principle”). The majority fails to
+appreciate the important oversight and accountability
+interests that underlie this rationale for the fiduciary ex
+ception, or explain why they operate with any less force in
+the Indian trust context.
+B
+The question in this case is whether the fiduciary excep
+tion applies in the Indian trust context such that the
+Government may not rely on the attorney-client privilege
+to withhold from the Nation communications between the
+Government and its attorneys relating to the administra
+tion of the Nation’s trust fund accounts. Answering that
+question requires a proper understanding of the nature of
+the Government’s trust relationship with Indian tribes,
+particularly with regard to its management of Indian trust
+funds.
+Since 1831, this Court has recognized the existence of a
+general trust relationship between the United States and
+Indian tribes. See Cherokee Nation v. Georgia, 5 Pet. 1, 17
+(1831) (Marshall, C. J.). Our decisions over the past cen
+tury have repeatedly reaffirmed this “distinctive obliga
+tion of trust incumbent upon the Government” in its deal
+ings with Indians. Seminole Nation v. United States, 316
+U. S. 286, 296 (1942); see United States v. Mitchell, 463
+U. S. 206, 225–226 (1983) (Mitchell II) (collecting cases
+and noting “the undisputed existence of a general trust
+
+
+6
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+relationship between the United States and the Indian
+people”). Congress, too, has recognized the general trust
+relationship between the United States and Indian tribes.
+Indeed, “[n]early every piece of modern legislation dealing
+with Indian tribes contains a statement reaffirming the
+trust relationship between tribes and the federal govern
+ment.” F. Cohen, Handbook of Federal Indian Law
+§5.04[4][a], pp. 420–421 (2005 ed.) (hereinafter Cohen).2
+Against this backdrop, Congress has enacted federal
+statutes that “define the contours of the United States’
+fiduciary responsibilities” with regard to its management
+of Indian tribal property and other trust assets. Mitchell
+II, 463 U. S., at 224. The Nation’s claims as relevant in
+this case concern the Government’s alleged mismanage
+ment of its tribal trust fund accounts. See ante, at 3.
+The system of trusteeship and federal management of
+Indian funds originated with congressional enactments in
+the 19th century directing the Government to hold and
+manage Indian tribal funds in trust. See, e.g., Act of June
+9, 1837, 5 Stat. 135; see also Misplaced Trust: The Bureau
+of Indian Affairs’ Mismanagement of the Indian Trust
+Fund, H. R. Rep. No. 102–449, p. 6 (1992) (hereinafter
+Misplaced Trust). Through these and later congressional
+enactments, the United States has come to manage almost
+$3 billion in tribal funds and collects close to $380 million
+per year on behalf of tribes. Cohen §5.03[3][b], at 407.3
+——————
+2 See,
+
+e.g., 25 U. S. C. §458cc(a) (directing Secretary of the Interior to
+enter into funding agreements with Indian tribes “in a manner consis
+tent with the Federal Government’s laws and trust relationship to and
+responsibility for the Indian people”); §3701 (finding that the Govern
+ment “has a trust responsibility to protect, conserve, utilize, and
+manage Indian agricultural lands consistent with its fiduciary obliga
+tion and its unique relationship with Indian tribes”); 20 U. S. C. §7401
+(“It is the policy of the United States to fulfill the Federal Government’s
+unique and continuing trust relationship with and responsibility to the
+Indian people for the education of Indian children”).
+3 Trust fund accounts are “comprised mainly of money received
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+SOTOMAYOR, J., dissenting
+
+Today, numerous statutes outline the Federal Govern
+ment’s obligations as trustee in managing Indian trust
+funds. In particular, the Secretary of the Treasury, at the
+request of the Secretary of the Interior, must invest “[a]ll
+funds held in trust by the United States . . . to the credit of
+Indian tribes” in certain securities “suitable to the needs
+of the fund involved.” 25 U. S. C. §161a(a). The Secretary
+of the Interior may deposit in the Treasury and pay manda
+tory interest on Indian trust funds when “the best inter
+ests of the Indians will be promoted by such deposits, in
+lieu of investments.” §161. Similarly, the Secretary of the
+Interior may invest tribal trust funds in certain public
+debt instruments “if he deems it advisable and for the best
+interest of the Indians.” §162a(a). And Congress has set
+forth a nonexhaustive list of the Secretary of the Interior’s
+“trust responsibilities” with respect to Indian trust funds,
+which include a series of accounting, auditing, manage
+ment, and disclosure obligations. §162a(d). These and
+other statutory provisions4 give the United States “full
+responsibility to manage Indian [trust fund accounts] for
+the benefit of the Indians.” Mitchell II, 463 U. S., at 224.
+“[A] fiduciary relationship necessarily arises when the
+Government assumes such elaborate control over [trust
+assets] belonging to Indians.” Id., at 225. Under the
+——————
+through the sale or lease of trust lands and include timber stumpage,
+oil and gas royalties, and agriculture fees,” as well as “judgment funds
+awarded to tribes.” H. R. Rep. No. 103–778, p. 9 (1994). The Nation’s
+claims involve proceeds derived from the Government’s management of
+the Nation’s timber, gravel, and other resources and leases of reserva
+tion lands. The Government has held these funds in trust for the
+Nation since the late 1880’s. See App. to Pet. for Cert. 98a–100a, 105a.
+4 See, e.g., 25 U. S. C. §4011(a) (requiring Secretary of the Interior to
+account “for the daily and annual balance of all funds held in trust by
+the United States for the benefit of an Indian tribe”); §4041(1) (creating
+the Office of Special Trustee for American Indians “to provide for more
+effective management of, and accountability for the proper discharge of,
+the Secretary’s trust responsibilities to Indian tribes”).
+
+
+8
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+statutory regime described above, the Government has
+extensive managerial control over Indian trust funds,
+exercises considerable discretion with respect to their in
+vestment, and has assumed significant responsibilities to
+account to the tribal beneficiaries. As a result, “[a]ll of the
+necessary elements of a common-law trust are present:
+a trustee (the United States), a beneficiary (the Indian
+[Tribe]), and a trust corpus (Indian . . . funds).” Ibid.
+Unlike in other contexts where the statutory scheme
+creates only a “bare trust” entailing only limited responsi
+bilities, United States v. Navajo Nation, 537 U. S. 488, 505
+(2003) (Navajo I) (internal quotation marks omitted),5 the
+statutory regime governing the United States’ obligations
+with regard to Indian trust funds “bears the hallmarks of
+a conventional fiduciary relationship,” United States v.
+Navajo Nation, 556 U. S. ___, ___ (2009) (Navajo II ) (slip
+op., at 14) (internal quotation marks omitted); see Lincoln
+v. Vigil, 508 U. S. 182, 194 (1993) (“[T]he law is ‘well
+established that the Government in its dealings with
+Indian tribal property acts in a fiduciary capacity’ ” (quot
+——————
+5 For
+
+example, in United States v. Mitchell, 445 U. S. 535 (1980)
+(Mitchell I), this Court held that a federal statute which authorized the
+President to allot a specified number of acres to individual Indians
+residing on reservation lands did not “provide that the United States
+has undertaken full fiduciary responsibilities as to the management of
+allotted lands.” Id., at 542. Under the statute, “the Indian allottee, and
+not a representative of the United States, is responsible for using the
+land for agricultural or grazing purposes.” Id., at 542–543. Accord
+ingly, we concluded that Congress did not intend to “impose upon the
+Government all fiduciary duties ordinarily placed by equity upon a
+trustee” because the statute “created only a limited trust relationship
+between the United States and the allottee.” Id., at 542; see also
+Navajo I, 537 U. S., at 507–508 (concluding that Secretary of the
+Interior did not assume “fiduciary duties” under the relevant statutory
+scheme because “[t]he Secretary is neither assigned a comprehensive
+managerial role nor, . . . expressly invested with responsibility to secure
+the needs and best interests of the Indian owner and his heirs” (inter
+nal quotation marks omitted)).
+
+
+Cite as: 564 U. S. ____ (2011)
+
+9
+
+SOTOMAYOR, J., dissenting
+
+ing United States v. Cherokee Nation of Okla., 480 U. S.
+700, 707 (1987)).
+II
+In light of Federal Rule of Evidence 501 and the Gov
+ernment’s role as a conventional fiduciary in managing
+Indian trust fund accounts, I would hold as a matter of
+federal common law that the fiduciary exception is appli
+cable in the Indian trust context, and thus the Govern
+ment may not rely on the attorney-client privilege to
+withhold communications related to trust management.
+As explained below, the twin rationales for the fiduciary
+exception fully support its application in this context. The
+majority’s conclusion to the contrary rests on flawed fac
+tual and legal premises.
+A
+When the Government seeks legal advice from a gov
+ernment attorney on matters relating to the management
+of the Nation’s trust funds, the “real client” of that advice
+for purposes of the fiduciary exception is the Nation, not
+the Government. The majority’s rejection of that conclu
+sion is premised on its erroneous view that the Govern
+ment, in managing the Nation’s trust funds, “has its own
+independent interest in the implementation of federal
+Indian policy” that diverges from the interest of the Na
+tion as beneficiary. Ante, at 18; see also ante, at 1
+(GINSBURG, J., concurring in judgment).
+The majority correctly notes that, as a general matter,
+the Government has sovereign interests in managing
+Indian trusts that distinguish it from a private trustee.
+See, e.g., United States v. Minnesota, 270 U. S. 181, 194
+(1926). Throughout the history of the Federal Govern
+ment’s dealings with Indian tribes, Congress has altered
+and administered the trust relationship “as an instrument
+of federal policy.” Ante, at 17, n. 8 (detailing shifts in
+
+
+10
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+policy); see generally Cobell v. Norton, 240 F. 3d 1081,
+1086–1088 (CADC 2001) (same, and describing that his
+tory as “contentious and tragic”).
+In the specific context of Indian trust fund management,
+however, federal Indian policy entirely aligns the interests
+of the Government as trustee and the Indian tribe as
+beneficiary. As explained above, Congress has enacted an
+extensive network of statutes regulating the Government’s
+management of Indian trust fund accounts. That statu
+tory framework establishes a “conventional fiduciary re
+lationship” in the context of Indian trust fund admini
+stration. Navajo Nation II, 556 U. S., at ___ (slip op., at
+14) (internal quotation marks omitted); see supra, at 7–9.
+As a conventional fiduciary, the Government’s manage
+ment of Indian trust funds must “be judged by the most
+exacting fiduciary standards.” Seminole Nation, 316 U. S.,
+at 296–297. Among the most fundamental fiduciary obli
+gations of a trustee is “to administer the trust solely in the
+interest of the beneficiaries.” 2A A. Scott & W. Fratcher,
+Law of Trusts §170, p. 311 (4th ed. 1987); see Meinhard v.
+Salmon, 249 N. Y. 458, 464, 164 N. E. 545, 546 (1928)
+(Cardozo, C. J.) (“Not honesty alone, but the punctilio of
+an honor the most sensitive,” is “the standard of behavior”
+for trustees “bound by fiduciary ties”). Although Indian
+trust funds are deposited in the United States Treasury,
+“they are not part of the federal government’s general
+funds and can be used only for the benefit of the tribe.”
+Cohen §5.03[3][b], at 408, and n. 140 (citing Quick Bear v.
+Leupp, 210 U. S. 50, 80–81 (1908)).
+Because federal Indian policy requires the Government
+to act strictly as a conventional fiduciary in managing the
+Nation’s trust funds, the Government acts in a “represen
+tative” rather than “persona[l]” capacity when managing
+the Nation’s trust funds. Riggs, 355 A. 2d, at 713. By law,
+the Government cannot pursue any “independent” inter
+est, ante, at 18, distinct from its responsibilities as a fidu
+
+
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+SOTOMAYOR, J., dissenting
+
+ciary. See Cohen §5.03[3][b], at 408, and n. 141 (“Federal
+statutes forbid use of Indian tribal funds in any man
+ner not authorized by treaty or express provisions of
+law” (citing 25 U. S. C. §§122, 123)). In other words, any
+uniquely sovereign interest the Government may have in
+other contexts of its trust relationship with Indian tribes
+does not exist in the specific context of Indian trust fund
+administration. It naturally follows, then, that when the
+Government seeks legal advice from government attorneys
+relating to the management of the Nation’s trust funds,
+the “real client” of the advice for purposes of the fiduciary
+exception is the Nation, not the Government.
+This conclusion holds true even though government
+attorneys are “paid out of congressional appropriations
+at no cost to the [Nation].” Ante, at 15. As noted above,
+although the source of funding for legal advice may be
+relevant, the ultimate inquiry is for whose benefit the
+legal advice was rendered. See supra, at 4. And, for all
+the emphasis the majority places on the funding source
+here, see ante, at 8, 15, the majority never suggests that
+the fiduciary exception would apply if Congress amended
+federal law to permit Indian tribes to pay government
+attorneys out of their own trust funds.6
+The majority also suggests that, even if the interests of
+the United States and Indian tribes may be equivalent in
+some contexts, that “equivalence” “breaks down” when
+there are “multiple interests” involved in a trust relation
+ship. Ante, at 18. According to the majority, “the Gov
+ernment has too many competing legal concerns to allow a
+case-by-case inquiry into the purpose of each communica
+——————
+6 The majority also states that ownership of the requested documents
+is “a significant factor” in deciding whether the fiduciary exception
+applies, ante, at 23, but the only case it cites as support deals with the
+source of payment for the legal advice, not the ownership of the docu
+ments. See ibid. (citing Riggs Nat. Bank of Washington, D. C. v.
+Zimmer, 355 A. 2d 709, 712 (Del. Ch. 1976)).
+
+
+12
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+tion.” Ibid. As a result, the majority concludes that the
+fiduciary exception should not be applied at all in the
+Indian trust context. Ibid.
+Preliminarily, while the Government in certain circum
+stances may have sovereign obligations that conflict with
+its duties as a fiduciary for Indian tribes, see, e.g., Nevada
+v. United States, 463 U. S. 110 (1983),7 the existence of
+competing interests is not unique to the Government as
+trustee. Indeed, the issue of competing interests arises
+frequently in the private trust context. See, e.g., Third
+Restatement §78, Comment c, at 97–103 (describing duties
+of trustee with respect to “transactions that involve con
+flicting fiduciary and personal interests”); id., §79,
+Comment b, at 128–129 (describing trustee’s duty of impar
+tiality in “balancing . . . competing interests” of multiple
+beneficiaries). In such circumstances, “a trustee—and
+ultimately a court—may need to provide some response
+that offers a compromise between the confidentiality or
+privacy concerns of some and the interest-protection needs
+——————
+7 In Nevada, the Government represented certain tribes in litigation
+involving water rights even though it was also required by statute to
+represent the water rights of a reclamation project. See 463 U. S., at
+128 (noting that Congress delegated to the Secretary of the Interior
+“both the responsibility for the supervision of the Indian tribes and the
+commencement of reclamation projects in areas adjacent to reservation
+lands”). Because of this dual litigating responsibility, we noted that “it
+is simply unrealistic to suggest that the Government may not perform
+its obligation to represent Indian tribes in litigation when Congress has
+obliged it to represent other interests as well.” Ibid. We thus observed
+in the context of that case that “the Government cannot follow the
+fastidious standards of a private fiduciary, who would breach his duties
+to his single beneficiary solely by representing potentially conflicting
+interests without the beneficiary’s consent.” Ibid. We expressly distin
+guished the context “where only a relationship between the Govern
+ment and the tribe is involved.” Id., at 142. In that context, we ac
+knowledged that “the law respecting obligations between a trustee and
+a beneficiary in private litigation will in many, if not all, respects
+adequately describe the duty of the United States.” Ibid.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+13
+
+SOTOMAYOR, J., dissenting
+
+of others.” Id., §82, Comment f, at 188. The majority
+provides no reason why federal courts applying the fiduci
+ary exception in the Indian trust context could not simi
+larly adopt a workable framework that adequately takes
+into account any unique governmental interests that bear
+on the application of the fiduciary exception in any given
+circumstance. See Fed. Rule Civ. Proc. 26(b)(2)(C) (au
+thorizing courts to set limits on discovery based on equita
+ble concerns).
+The majority’s categorical rejection of the fiduciary
+exception in the Indian trust context sweeps far broader
+than necessary. This case involves only the Government’s
+alleged mismanagement of the Nation’s trust fund ac
+counts, and the Government did not claim below that the
+attorney-client communications at issue relate to any
+competing governmental obligations. See App. to Pet. for
+Cert. 18a–19a. To the extent the United States in other
+contexts has competing interests, the Government and its
+attorneys already have to identify those interests in de
+termining how to balance them against their obligations to
+Indian tribes, and attorney-client communications relating
+to those interests may properly be withheld or redacted
+consistent with application of the fiduciary exception. See
+88 Fed. Cl. 1, 13 (2009) (observing that redactions “allo[w]
+the privilege and exception to reign supreme within their
+respective spheres”).
+The majority’s categorical approach fails to appreciate
+that privilege determinations are by their very nature
+made on a case-by-case—indeed, document-by-document—
+basis. Government attorneys, like private counsel, must
+review each requested document and make an individual
+ized assessment of privilege, and courts reviewing privi
+lege logs and challenges must do the same. “While such a
+‘case-by-case’ basis may to some slight extent undermine
+desirable certainty in the boundaries of the attorney-client
+privilege, it obeys the spirit of” of Rule 501, Upjohn, 449
+
+
+14
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+U. S., at 396–397, which “ ‘provide[s] the courts with the
+flexibility to develop rules of privilege on a case-by-case
+basis,’ ” Trammel v. United States, 445 U. S. 40, 47 (1980)
+(quoting 120 Cong. Rec. 40891 (1974) (statement of Rep.
+Hungate)); see S. Rep. No. 93–1277, p. 13 (1974) (“[T]he
+recognition of a privilege based on a confidential relation
+ship . . . should be determined on a case-by-case basis”).
+Rather than fashioning a blanket rule against applica
+tion of the fiduciary exception in the Indian trust context,
+I would, consistent with Rule 501 and principles of judicial
+restraint, decide the question solely on the facts before us.
+See Upjohn, 449 U. S., at 386 (noting that “we sit to decide
+concrete cases and not abstract propositions of law” and
+“declin[ing] to lay down a broad rule or series of rules to
+govern all conceivable future questions in this area”). On
+those facts, the fiduciary exception applies to the commu
+nications in this case.
+B
+Like the “real client” rationale, the second rationale for
+the fiduciary exception, rooted in a trustee’s fiduciary duty
+to disclose all matters relevant to trust administration to
+the beneficiary, fully supports disclosure of the communi
+cations in this case. As explained above, courts relying on
+this second rationale have recognized that “[t]he policy of
+preserving the full disclosure necessary in the trustee
+beneficiary relationship is . . . ultimately more important
+than the protection of the trustees’ confidence in the at
+torney for the trust.” Riggs, 355 A. 2d, at 714. Because
+the statutory scheme requires the Government to act as a
+conventional fiduciary in managing the Nation’s trust
+funds, the Government’s fiduciary duty to keep the Nation
+informed of matters relating to trust administration in
+cludes the concomitant duty to disclose attorney-client
+communications relating to trust fund management. See
+Third Restatement §82, Comment f, at 187–188; Restate
+
+
+Cite as: 564 U. S. ____ (2011)
+
+15
+
+SOTOMAYOR, J., dissenting
+
+ment of the Law (Third) Governing Lawyers §84, pp. 627–
+628 (1998).
+Notably, the majority does not suggest that the Nation
+needs less information than a private beneficiary to exer
+cise effective oversight over the Government as trustee.
+Instead, the majority contends that the Nation is entitled
+to less disclosure because the Government’s disclosure
+obligations are more limited than a private trustee. In
+particular, the majority states that the Government “as
+sumes Indian trust responsibilities only to the extent it
+expressly accepts those responsibilities by statute,” and
+thus the Nation “must point to a right conferred by statute
+or regulation in order to obtain otherwise privileged in
+formation from the Government against its wishes.” Ante,
+at 14. The majority cites a single statutory provision and
+its implementing regulations as “defin[ing] the Govern
+ment’s disclosure obligation to the [Nation].” Ante, at 22;
+see ante, at 21–22 (citing 25 U. S. C. §162a(d)(5) and 25
+CFR §§115.801–115.803 (2010)). Because those “narrowly
+defined disclosure obligations” do not provide Indian tribes
+with a specific statutory right to disclosure of attorney
+client communications relating to trust administration,
+ante, at 22, the majority concludes that the Government
+has no duty to disclose those communications to the
+Nation.
+The majority’s conclusion employs a fundamentally
+flawed legal premise. We have never held that all of the
+Government’s trust responsibilities to Indians must be set
+forth expressly in a specific statute or regulation. To the
+contrary, where, as here, the statutory framework estab
+lishes that the relationship between the Government and
+an Indian tribe “bears the hallmarks of a conventional
+fiduciary relationship,” Navajo II, 556 U. S., at __ (slip op.,
+at 14) (internal quotation marks omitted), we have consis
+tently looked to general trust principles to flesh out the
+Government’s fiduciary obligations.
+
+
+16
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+For example, in United States v. White Mountain
+Apache Tribe, 537 U. S. 465 (2003), we construed a statute
+that vested the Government with discretionary authority
+to “use” trust property for certain purposes as imposing a
+concomitant duty to preserve improvements that had
+previously been made to the land. Id., at 475 (quoting 74
+Stat. 8). Even though the statute did not “expressly sub
+ject the Government to duties of management and conser
+vation,” we construed the Government’s obligations under
+the statute by reference to “elementary trust law,” which
+“confirm[ed] the commonsense assumption that a fiduciary
+actually administering trust property may not allow it to
+fall into ruin on his watch.” 537 U. S., at 475. Similarly,
+in Seminole Nation, we relied on general trust principles
+to conclude that the Government had a fiduciary duty to
+prevent misappropriation of tribal trust funds by corrupt
+members of a tribe, even though no specific statutory or
+treaty provision expressly imposed such a duty. See 316
+U. S., at 296.8
+——————
+8 To be sure, in decisions involving the jurisdiction of the Court of
+Federal Claims under the Tucker Act, we have explained that the
+jurisdictional analysis “must train on specific rights-creating or duty
+imposing statutory or regulatory prescriptions.” Navajo I, 537 U. S., at
+506. But even assuming arguendo that those jurisdictional decisions
+have relevance here, they do not stand for the proposition that the
+Government’s fiduciary duties are defined exclusively by express
+statutory provisions. Indeed, those decisions relied specifically on
+general trust principles to determine whether the relevant statutory
+scheme permitted a damages remedy, a prerequisite for jurisdiction
+under the Tucker Act. See, e.g., Mitchell II, 463 U. S., at 226 (noting
+that common-law trust sources establish that “a trustee is accountable
+in damages for breaches of trust” and that, “[g]iven the existence of a
+trust relationship, it naturally follows that the Government should be
+liable in damages for the breach of its fiduciary duties”); see also
+Navajo II, 556 U. S., at ___ (slip op., at 14) (affirming that general
+“trust principles . . . could play a role in inferring that the trust obliga
+tion is enforceable by damages” (internal quotation marks and brackets
+omitted)).
+
+
+Cite as: 564 U. S. ____ (2011)
+
+17
+
+SOTOMAYOR, J., dissenting
+
+Accordingly, although the “general ‘contours’ of the
+government’s obligations” are defined by statute, the “in
+terstices must be filled in through reference to general
+trust law.” Cobell, 240 F. 3d, at 1101 (quoting Mitchell II,
+463 U. S., at 224). This approach accords with our recog
+nition in other trust contexts that “the primary function of
+the fiduciary duty is to constrain the exercise of discre
+tionary powers which are controlled by no other specific
+duty imposed by the trust instrument or the legal regime.”
+Varity Corp. v. Howe, 516 U. S. 489, 504 (1996) (emphasis
+deleted); cf. Central States, Southeast & Southwest Areas
+Pension Fund v. Central Transport, Inc., 472 U. S. 559,
+570 (1985) (“[R]ather than explicitly enumerating all of
+the powers and duties of trustees and other fiduciaries,
+Congress invoked the common law of trusts to define the
+general scope of their authority and responsibility”).
+Indeed, “[i]f the fiduciary duty applied to nothing more
+than activities already controlled by other specific legal
+duties, it would serve no purpose.” Howe, 516 U. S., at
+504.
+The majority pays lip service to these precedents, ac
+knowledging that “[w]e have looked to common-law prin
+ciples to inform our interpretation of statutes and to de
+termine the scope of liability that Congress has imposed.”
+Ante, at 13. But despite its assurance that it “will apply
+common-law trust principles where Congress has indi
+cated it is appropriate to do so,” ante, at 14, the majority
+inexplicably rejects the application of common-law trust
+principles in this case. In doing so, the majority states
+that “[t]he common law of trusts does not override the
+specific trust-creating statute and regulations that apply
+here.” Ante, at 21–22 (referring to §162a(d)(5) and 25 CFR
+§§115.801–115.803). That statement evidences the major
+ity’s fundamental misunderstanding of the way in which
+common-law principles operate in the context of a conven
+tional fiduciary relationship.
+
+
+18
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+Contrary to the majority’s view, the Government’s dis
+closure obligations are not limited solely to the “narrowly
+defined disclosure obligations” set forth in §162a(d)(5) and
+its implementing regulations, ante, at 22; rather, given
+that the statutory regime requires the Government to act
+as a conventional fiduciary in managing Indian trust
+funds, the Government’s disclosure obligations include
+those of a fiduciary under common-law trust principles.
+See supra, at 15–17. Instead of “overrid[ing]” the specific
+disclosure duty set forth in §162a(d)(5) and its implement
+ing regulations, general trust principles flesh out the
+Government’s disclosure obligations under the broader
+statutory regime, consistent with its role as a conventional
+fiduciary in this context.
+This conclusion, moreover, is supported by the plain text
+of the very statute cited by the majority. Section 162a(d),
+which was enacted as part of the American Indian Trust
+Fund Management Reform Act of 1994 (1994 Act), 108
+Stat. 4239, sets forth eight “trust responsibilities of the
+United States.” But that provision also specifically states
+that the Secretary of the Interior’s “proper discharge of the
+trust responsibilities of the United States shall include
+(but are not limited to)” those specified duties. 25 U. S. C.
+§162a(d) (emphasis added). By expressly including the
+italicized language, Congress recognized that the Govern
+ment has pre-existing trust responsibilities that arise out
+of the broader statutory scheme governing the manage
+ment of Indian trust funds.9 Indeed, Title I of the 1994
+——————
+9 The
+
+majority invokes the canon against superfluity and argues that
+the “catchall” phrase (by which it means the “shall include (but are not
+limited to)” language) cannot be read to “include a general common-law
+duty to disclose all information related to the administration of Indian
+trusts” because doing so would “impose general obligations that would
+include those specifically enumerated.” Ante, at 22. But the flaw in the
+majority’s argument is that it misperceives the function of the relevant
+language. Rather than serving as a “catchall” provision that affirma
+
+
+Cite as: 564 U. S. ____ (2011)
+
+19
+
+SOTOMAYOR, J., dissenting
+
+Act is entitled “Recognition of Trust Responsibility,” 108
+Stat. 4240 (emphasis added), and courts have similarly
+observed that the Act “recognized and reaffirmed . . . that
+the government has longstanding and substantial trust
+obligations to Indians.” Cobell, 240 F. 3d, at 1098; see also
+H. R. Rep. No. 103–778, p. 9 (1994) (“The responsibility for
+management of Indian Trust Funds by the [Government]
+has been determined through a series of court decisions,
+treaties, and statutes”). That conclusion accords with
+common sense as not even the Government argues that it
+had no disclosure obligations with respect to Indian trust
+funds prior to the enactment of the 1994 Act.10
+The majority requires the Nation to “point to a right
+conferred by statute” to the attorney-client communica
+tions at issue, ante, at 14, and finding none, denies the
+——————
+tively “incorporate[s]” common-law trust duties into §162a(d), ante, at
+22, that language simply makes clear that §162a(d) does not set forth
+an exhaustive list of the Government’s trust responsibilities in manag
+ing Indian trust funds; nothing in that language itself imports any
+substantive obligations into the statute.
+10 The majority also contends that its reading of §162a(d) is supported
+by a provision in the Indian Claims Limitation Act of 1982 (ICLA), 96
+Stat. 1976, which provided that if the Secretary of the Interior rejected
+a claim for litigation by an Indian claimant, he was required to provide
+upon request “any nonprivileged research materials or evidence gath
+ered by the United States in the documentation of such claim.” §5(b),
+id., at 1978. According to the majority, this provision reflected Con
+gress’ understanding that “the Government retains evidentiary privi
+leges allowing it to withhold information related to trust property from
+Indian tribes.” Ante, at 22, n. 11. But this provision cannot bear the
+weight the majority places on it. Even putting aside the undisputed
+fact that the ICLA is inapplicable to the claims in this case, the major
+ity’s reliance on the ICLA provision fails to recognize that documents
+subject to the fiduciary exception are, under the “real client” rationale,
+per se nonprivileged. See, e.g., Mett, 178 F. 3d, at 1063. Accordingly, if
+anything, the ICLA’s requirement that the Government disclose “non
+privileged” materials to Indian claimants supports the conclusion that
+Congress intended communications related to trust fund management
+to be disclosed to Indian tribes.
+
+
+20
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+Nation access to those communications. The upshot of
+that decision, I fear, may very well be to reinvigorate the
+position of the dissenting Justices in White Mountain
+Apache and Mitchell II, who rejected the use of common
+law principles to inform the scope of the Government’s
+fiduciary obligations to Indian tribes. See White Mountain
+Apache, 537 U. S., at 486–487 (THOMAS, J., dissenting);
+Mitchell II, 463 U. S., at 234–235 (Powell, J., dissenting).
+That approach was wrong when Mitchell II was decided
+nearly 30 years ago, and it is wrong today. Under our
+governing precedents, common-law trust principles play
+an important role in defining the Government’s fiduciary
+duties where, as here, the statutory scheme establishes a
+conventional fiduciary relationship. Applying those prin
+ciples in this context, I would hold that the fiduciary ex
+ception is fully applicable to the communications in this
+case.11
+——————
+11 The majority’s errors are further compounded by its failure to ac
+cord proper consideration to the mandamus posture of this case. “This
+Court repeatedly has observed that the writ of mandamus is an ex
+traordinary remedy, to be reserved for extraordinary situations.”
+Gulfstream Aerospace Corp. v. Mayacamas Corp., 485 U. S. 271, 289
+(1988). “As the writ is one of the most potent weapons in the judicial
+arsenal, three conditions must be satisfied before it may issue,” Cheney
+v. United States Dist. Court for D. C., 542 U. S. 367, 380 (2004) (inter
+nal quotation marks and citation omitted):
+“First, the party seeking issuance of the writ must have no other
+adequate means to attain the relief he desires—a condition designed to
+ensure that the writ will not be used as a substitute for the regular
+appeals process. Second, the petitioner must satisfy the burden of
+showing that his right to issuance of the writ is clear and indisputable.
+Third, even if the first two prerequisites have been met, the issuing
+court, in the exercise of its discretion, must be satisfied that the writ is
+appropriate under the circumstances.” Id., at 380–381 (internal quota
+tion marks and citations omitted; alterations deleted).
+The majority purports to leave the decision whether to grant man
+damus relief to the Federal Circuit, but simultaneously drops a footnote
+stating that it “assume[s]” that the Court of Federal Claims on remand
+will “follow [its] holding” that the fiduciary exception is inapplicable
+
+
+Cite as: 564 U. S. ____ (2011)
+
+21
+
+SOTOMAYOR, J., dissenting
+
+III
+We have described the Federal Government’s fiduciary
+duties toward Indian tribes as consisting of “moral obliga
+tions of the highest responsibility and trust,” to be fulfilled
+through conduct “judged by the most exacting fiduciary
+standards.” Seminole Nation, 316 U. S., at 297; see also
+Mitchell II, 463 U. S., at 225–226 (collecting cases). The
+sad and well-documented truth, however, is that the Gov
+ernment has failed to live up to its fiduciary obligations in
+managing Indian trust fund accounts. See, e.g., Cobell,
+240 F. 3d, at 1089 (“The General Accounting Office, Inte
+rior Department Inspector General, and Office of Man
+agement and Budget, among others, have all condemned
+the mismanagement of [Indian] trust accounts over the
+past twenty years”); Misplaced Trust 8 (“[T]he [Govern
+ment’s] indifferent supervision and control of the Indian
+trust funds has consistently resulted in a failure to exer
+cise its responsibility and [to meet] any reasonable expec
+tations of the tribal and individual accountholders, Con
+gress, and taxpayers”); id., at 56 (“[H]ad this type of
+mismanagement taken place in any other trust arrange
+ments such as Social Security, there would be war”).
+As Congress has recognized, “[t]he Indian trust fund is
+more than balance sheets and accounting procedures.
+These moneys are crucial to the daily operations of native
+American tribes and a source of income to tens of thou
+sands of native Americans.” Id., at 5. Given the history of
+governmental mismanagement of Indian trust funds,
+application of the fiduciary exception is, if anything, even
+more important in this context than in the private trustee
+——————
+here. Ante, at 24, and n. 13. By doing so, the majority virtually assures
+that the Nation will not be able to use the communications at issue in
+this litigation, thereby effectively granting extraordinary relief to the
+Government upon no showing whatsoever that the stringent conditions
+for mandamus have been met.
+
+
+22
+
+UNITED STATES v. JICARILLA APACHE NATION
+SOTOMAYOR, J., dissenting
+
+context. The majority’s refusal to apply the fiduciary
+exception in this case deprives the Nation—as well as the
+Indian tribes in the more than 90 cases currently pending
+in the federal courts involving claims of tribal trust mis
+management, App. to Pet. for Cert. 126a–138a—of highly
+relevant information going directly to the merits of
+whether the Government properly fulfilled its fiduciary
+duties. Its holding only further exacerbates the concerns
+expressed by many about the lack of adequate oversight
+and accountability that has marked the Government’s
+handling of Indian trust fund accounts for decades.
+But perhaps even more troubling than the majority’s
+refusal to apply the fiduciary exception in this case is its
+disregard of our established precedents that affirm the
+central role that common-law trust principles play in
+defining the Government’s fiduciary obligations to Indian
+tribes. By rejecting the Nation’s claim on the ground that
+it fails to identify a specific statutory right to the commu
+nications at issue, the majority effectively embraces an
+approach espoused by prior dissents that rejects the role of
+common-law principles altogether in the Indian trust
+context. Its decision to do so in a case involving only a
+narrow evidentiary issue is wholly unnecessary and, worse
+yet, risks further diluting the Government’s fiduciary
+obligations in a manner that Congress clearly did not
+intend and that would inflict serious harm on the already
+frayed relationship between the United States and Indian
+tribes. Because there is no warrant in precedent or reason
+for reaching that result, I respectfully dissent.
+
+

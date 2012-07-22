@@ -1,0 +1,271 @@
+Cite as: 567 U. S. ____ (2012)
+
+1
+
+ROBERTS, C. J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 11–551
+_________________
+
+KEN L. SALAZAR, SECRETARY OF THE INTERIOR,
+
+ET AL., PETITIONERS v. RAMAH NAVAJO 
+
+CHAPTER ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE TENTH CIRCUIT
+
+[June 18, 2012] 
+
+
+CHIEF JUSTICE ROBERTS, with whom JUSTICE
+GINSBURG, JUSTICE BREYER, and JUSTICE ALITO join,
+dissenting.
+Today the Court concludes that the Federal Government
+must pay the full amount of contract support costs incurred by the respondent Tribes, regardless of whether
+there are any appropriated funds left for that purpose.
+This despite the facts that payment of such costs is
+“subject to the availability of appropriations,” a condition
+expressly set forth in both the statute and the contracts
+providing for such payment, 25 U. S. C. §§450j–1(b),
+450l(c) (Model Agreement §1(b)(4)); that payment of the
+costs for all tribes is “not to exceed” a set amount, e.g., 108
+Stat. 2511, an amount that would be exceeded here; and
+that the Secretary “is not required to reduce funding for
+programs, projects, or activities serving a tribe to make
+funds available to another tribe,” §450j–1(b). Because the
+Court’s conclusion cannot be squared with these unambiguous restrictions on the payment of contract support costs,
+I respectfully dissent.
+The Indian Self-Determination and Education Assistance Act provides: “Notwithstanding any other provision
+in [the Act], the provision of funds under this [Act] is
+subject to the availability of appropriations . . . .” Ibid.
+
+
+2
+
+SALAZAR v. RAMAH NAVAJO CHAPTER
+ROBERTS, C. J., dissenting
+
+This condition is repeated in the Tribes’ contracts with the
+Government. App. 206; see also §450l(c) (Model Agreement §1(b)(4)). The question in this case is whether appropriations were “available” during fiscal years 1994
+through 2001 to pay all the contract support costs incurred
+by the Tribes. Only if appropriations were “available”
+may the Tribes hold the Government liable for the unpaid
+amounts.
+Congress restricted the amount of funds “available” to
+pay the Tribes’ contract support costs in two ways. First,
+in each annual appropriations statute for the Department of the Interior from fiscal year 1994 to 2001, Congress provided that spending on contract support costs for
+all tribes was “not to exceed” a certain amount. The
+fiscal year 1995 appropriations statute is representative.
+It provided: “For operation of Indian programs . . . ,
+$1,526,778,000, . . . of which not to exceed $95,823,000
+shall be for payments to tribes and tribal organizations for
+contract support costs . . . .” 108 Stat. 2510–2511. As the
+Court acknowledges, ante, at 11–12, the phrase “not to
+exceed” has a settled meaning in federal appropriations
+law. By use of the phrase, Congress imposed a cap on the
+total funds available for contract support costs in each
+fiscal year. See 2 General Accounting Office, Principles of
+Federal Appropriations Law, p. 6–8 (2d ed. 1992) (hereinafter GAO Redbook) (“[T]he most effective way to establish
+a maximum . . . earmark is by the words ‘not to exceed’ or
+‘not more than’ ”).
+Second, in §450j–1(b) itself—in the very same sentence
+that conditions funding on the “availability of appropriations”—Congress provided that “the Secretary [of the
+Interior] is not required to reduce funding for programs,
+projects, or activities serving a tribe to make funds available to another tribe or tribal organization under [the Act].”
+An agency may be required to shift funds from one object
+to another, within statutory limits, when doing so is
+
+
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+ROBERTS, C. J., dissenting
+
+necessary to meet a contractual obligation. See 1 GAO
+Redbook, p. 2–26 (2d ed. 1991). But the “reduction” clause
+in §450j–1(b) expressly provides that the Secretary is “not
+required” to engage in such reprogramming to make one
+tribe’s funds “available to another tribe.” It follows that
+appropriations allocated for “programs, projects, or activities serving a tribe” are not “available” to another tribe,
+unless the Secretary reallocates them. Contrary to the
+Court’s suggestion, ante, at 13–14, the Government shares
+this view that the “reduction” clause “specifically relieves
+the Secretary of any obligation to make funds available to
+one contractor by reducing payments to others.” Brief for
+Petitioners 51 (citing Arctic Slope Native Assn., Ltd. v.
+Sebelius, 629 F. 3d 1296, 1304 (CA Fed. 2010), cert. pending, No. 11–83 (filed July 18, 2011)).
+Given these express restrictions established by Congress—which no one doubts are valid—I cannot agree with
+the Court’s conclusion that appropriations were “available” to pay the Tribes’ contract support costs in full.
+Once the Secretary had allocated all the funds appropriated
+for contract support costs, no other funds could be used
+for that purpose without violating the “not to exceed” restrictions in the relevant appropriations statutes. The
+Court agrees. Ante, at 11–12. That leaves only one other
+possible source of funds to pay the disputed costs in this
+case: funds appropriated for contract support costs, but
+allocated to pay such costs incurred by other tribes. Those
+funds were not “available” either, however, because they
+were “funding for programs, projects, or activities serving
+a tribe,” and the Secretary was not required to reduce
+such funding “to make funds available to another tribe.”
+§450j–1(b).
+In reaching a contrary conclusion, the Court fails to
+appreciate the full significance of the “reduction” clause in
+§450j–1(b). As construed by the Court, that clause merely
+confirms that the Secretary “may allocate funds to one
+
+
+4
+
+SALAZAR v. RAMAH NAVAJO CHAPTER
+ROBERTS, C. J., dissenting
+
+tribe at the expense of another.” Ante, at 9. But as explained above, the clause does more than that: It also
+establishes that when the Secretary does allocate funds to
+one tribe at the expense of another, the latter tribe has no
+right to those funds—the funds are not “available” to it.
+The fact that the Secretary could have allocated the funds
+to the other tribe is irrelevant. What matters is what the
+Secretary actually does, and once he allocates the funds to
+one tribe, they are not “available” to another.
+The Court rejects this reading of the “reduction” clause,
+on the ground that it would constitute a “radical departure
+from ordinary Government contracting principles.” Ante,
+at 13, n. 6. But the fact that the clause operates as a
+constraint on the “availability of appropriations” is evident
+not only from its text, which speaks in terms of “funds
+available,” but also from its placement in the statute,
+immediately following the “subject to the availability”
+clause. Under the Court’s view, by contrast, the “reduction” clause merely “underscores the Secretary’s discretion
+to allocate funds among tribes.” Ante, at 13. There is,
+however, no reason to suppose that Congress enacted the
+provision simply to confirm this “ordinary” rule. Ibid. We
+generally try to avoid reading statutes to be so “insignificant.” TRW Inc. v. Andrews, 534 U. S. 19, 31 (2001)
+(internal quotation marks omitted).
+The Court maintains that its holding is compelled by
+our decision in Cherokee Nation of Okla. v. Leavitt, 543
+U. S. 631 (2005). Ante, at 8. Like respondents here, the
+tribes in Cherokee Nation sued the Government for unpaid
+contract support costs under the Act. Congress had appropriated certain sums to the Indian Health Service “[f]or
+expenses necessary to carry out” the Act, e.g., 108 Stat.
+2527–2528, but—unlike in this case—those appropriations
+“contained no relevant statutory restriction,” 543 U. S., at
+637. The Government in Cherokee Nation contended that
+it was not obligated to pay the contract support costs as
+
+
+Cite as: 567 U. S. ____ (2012)
+
+5
+
+ROBERTS, C. J., dissenting
+
+promised, in light of the “reduction” clause in §450j–1(b).
+The Government argued that the clause “makes nonbinding a promise to pay one tribe’s costs where doing so would
+require funds that the Government would otherwise devote to ‘programs, projects, or activities serving . . . another tribe.’ ” Id., at 641 (quoting §450j–1(b)).
+We ruled against the Government, but not because of
+any disagreement with its reading of the “reduction”
+clause. The basis for our decision was instead that “the
+relevant congressional appropriations contained other
+unrestricted funds, small in amount but sufficient to pay
+the claims at issue.” 543 U. S., at 641 (emphasis altered).
+Those funds were allocated for “ ‘inherent federal functions,’ such as the cost of running the Indian Health Service’s central Washington office.” Id., at 641–642. They
+were not restricted by the “reduction” clause, because they
+were not funds for “ ‘programs, projects, or activities serving . . . another tribe.’ ” Id., at 641 (quoting §450j–1(b)).
+Nor were they restricted by the pertinent appropriations
+statutes, which, as noted, contained no relevant limiting
+language. See ibid. We therefore held that those funds—
+which we described as “unrestricted” throughout our
+opinion, id., at 641, 642, 643, 647—were available to pay
+the disputed contract support costs.
+As even the Tribes concede, Cherokee Nation does not
+control this case. Tr. of Oral Arg. 39 (“I don’t think this
+case is controlled by Cherokee” (counsel for the Tribes)).
+The reason is not that the appropriations statutes in this
+case contained “not to exceed” caps while those in Cherokee Nation did not. The Court is correct that appropriating an amount “for” a particular purpose has the same
+effect as providing that appropriations for that purpose
+are “not to exceed” that amount. Ante, at 11. What makes
+this case different is where Congress drew the line. In
+Cherokee Nation, the statutes capped funding for “expenses
+necessary to carry out” the Act, a category that included
+
+
+6
+
+SALAZAR v. RAMAH NAVAJO CHAPTER
+ROBERTS, C. J., dissenting
+
+funding for both “inherent federal functions” and contract
+support costs. Accordingly, funding for one could be used
+for the other, without violating the cap. Here, by contrast,
+the statutes capped funding for contract support costs
+specifically. Thus, once the Secretary exhausted those
+funds, he could not reprogram other funds—such as
+funds for “inherent federal functions”—to pay the costs.
+With the caps in place, moreover, the “reduction” clause, as
+explained above, rendered unavailable the only possible
+source of funds left: funds already allocated for other
+contract support costs. Unlike in Cherokee Nation, therefore, there were no unrestricted funds to pay the costs at
+issue in this case. The Court’s quotation from Cherokee
+Nation concerning “when an ‘ “unrestricted appropriation
+is sufficient to fund the contract,” ’ ” ante, at 12 (emphasis
+added) (quoting Cherokee Nation, supra, at 641), is accordingly beside the point.
+The Court also relies on Ferris v. United States, 27 Ct.
+Cl. 542 (1892). That case involved a government contract
+to dredge the Delaware River. When work under the
+contract stopped because funds from the relevant appropriation had been exhausted, a contractor sued the Government for breach of contract, and the Court of Claims
+held that he was entitled to recover lost profits. As the
+court explained, “[a] contractor who is one of several persons to be paid out of an appropriation is not chargeable
+with knowledge of its administration, nor can his legal
+rights be affected or impaired by its maladministration or
+by its diversion, whether legal or illegal, to other objects.”
+Id., at 546. That principle, however, cannot “dictate the
+result in this case.” Ante, at 8. The statute in Ferris
+appropriated an amount “[f]or improving [the] Delaware
+River,” which prevented spending for that purpose beyond
+the specified amount. 20 Stat. 364. But in that case, all
+funds appropriated for that purpose were equally available to all contractors. Here that is not true; §450j–1(b)
+
+
+Cite as: 567 U. S. ____ (2012)
+
+7
+
+ROBERTS, C. J., dissenting
+
+makes clear that funds allocated to one contractor are not
+available to another. Thus, the principle in Ferris does not
+apply.
+It is true, as the Court notes, ante, at 10, that each of
+the Tribes’ contracts provides that the Act and the contract “shall be liberally construed for the benefit of the
+Contractor.” App. 203; see also §450l(c) (Model Agreement
+§1(a)(2)). But a provision can be construed “liberally” as
+opposed to “strictly” only when there is some ambiguity to
+construe. And here there is none. Congress spoke clearly
+when it said that the provision of funds was “subject to the
+availability of appropriations,” that spending on contract
+support costs was “not to exceed” a specific amount, and
+that the Secretary was “not required” to make funds allocated for one tribe’s costs “available” to another. The
+unambiguous meaning of these provisions is that when
+the Secretary has allocated the maximum amount of funds
+appropriated each fiscal year for contract support costs,
+there are no other appropriations “available” to pay any
+remaining costs.
+This is hardly a typical government contracts case.
+Many government contracts contain a “subject to the
+availability of appropriations” clause, and many appropriations statutes contain “not to exceed” language. But this
+case involves not only those provisions but a third, relieving the Secretary of any obligation to make funds “available” to one contractor by reducing payments to others.
+Such provisions will not always appear together, but when
+they do, we must give them effect. Doing so here, I would
+hold that the Tribes are not entitled to payment of their
+contract support costs in full, and I would reverse the
+contrary judgment of the Court of Appeals for the Tenth
+Circuit.
+
+

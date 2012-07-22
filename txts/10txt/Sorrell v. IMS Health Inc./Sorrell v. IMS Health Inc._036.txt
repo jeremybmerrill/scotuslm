@@ -1,0 +1,44 @@
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+BREYER, J., dissenting
+
+are both “safe” and “effective.” 21 U. S. C. §§355(b)(1),
+355(d). Only then can the drugs be marketed, at which
+point drug companies are subject to the FDA’s exhaustive
+regulation of the content of drug labels and the manner in
+which drugs can be advertised and sold. §352(f)(2); 21
+CFR pts. 201–203 (2010).
+Finally, Vermont’s statute is directed toward informa
+tion that exists only by virtue of government regulation.
+Under federal law, certain drugs can be dispensed only by
+a pharmacist operating under the orders of a medical
+practitioner. 21 U. S. C. §353(b). Vermont regulates the
+qualifications, the fitness, and the practices of pharma
+cists themselves, and requires pharmacies to maintain a
+“patient record system” that, among other things, tracks
+who prescribed which drugs. Vt. Stat. Ann., Tit. 26,
+§§2041(a), 2022(14) (Supp. 2010); Vt. Bd. of Pharmacy
+Admin. Rules (Pharmacy Rules) 9.1, 9.24(e) (2009). But
+for these regulations, pharmacies would have no way to
+know who had told customers to buy which drugs (as is
+the case when a doctor tells a patient to take a daily dose
+of aspirin).
+Regulators will often find it necessary to create tailored
+restrictions on the use of information subject to their
+regulatory jurisdiction. A car dealership that obtains
+credit scores for customers who want car loans can be
+prohibited from using credit data to search for new cus
+tomers. See 15 U. S. C. §1681b (2006 ed. and Supp. III);
+cf. Trans Union Corp. v. FTC, 245 F. 3d 809, reh’g denied,
+267 F. 3d 1138 (CADC 2001). Medical specialists who
+obtain medical records for their existing patients cannot
+purchase those records in order to identify new patients.
+See 45 CFR §164.508(a)(3) (2010). Or, speaking hypo
+thetically, a public utilities commission that directs local
+gas distributors to gather usage information for individual
+customers might permit the distributors to share the data
+with researchers (trying to lower energy costs) but forbid
+
+

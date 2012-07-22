@@ -1,0 +1,766 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+GINSBURG, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–538
+_________________
+
+WILLIAM G. SCHWAB, PETITIONER v. NADEJDA
+
+REILLY 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE THIRD CIRCUIT
+
+[June 17, 2010] 
+
+
+JUSTICE GINSBURG, with whom THE CHIEF JUSTICE and
+JUSTICE BREYER join, dissenting.
+In Chapter 7 bankruptcies, debtors must surrender to
+the trustee-in-bankruptcy all their assets, 11 U. S. C.
+§541, but may reclaim for themselves exempt property,
+§522. Within 30 days after the meeting of creditors, the
+trustee or a creditor may file an objection to the debtor’s
+designation of property as exempt. Fed. Rule Bkrtcy.
+Proc. 4003(b). Absent timely objection, “property claimed
+[by the debtor] as exempt . . . is exempt.” §522(l).
+The trustee in this case, petitioner William G. Schwab,
+maintains that the obligation promptly to object to exemp­
+tion claims extends only to the qualification of an asset as
+exemptible, not to the debtor’s valuation of the asset.
+Respondent Nadejda Reilly, the debtor-in-bankruptcy,
+urges that the timely objection requirement applies not
+only to the debtor’s designation of an asset as exempt; the
+requirement applies as well, she asserts, to her estimate of
+the asset’s market value. That is so, she reasons, because
+the asset’s current dollar value is critical to the determi­
+nation whether she may keep the property intact and
+outside bankruptcy, or whether the trustee, at any time
+during the course of the proceedings, may sell it.
+The Court holds that challenges to the debtor’s valua­
+tion of exemptible assets need not be made within the 30­
+
+
+2
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+day period allowed for “objection[s] to the list of property
+claimed as exempt.” Rule 4003(b). Instead, according to
+the Court, no time limit constrains the trustee’s (or a
+creditor’s) prerogative to place at issue the debtor’s
+evaluation of the property as fully exempt.
+The Court’s decision drastically reduces Rule 4003’s
+governance, for challenges to valuation have been, until
+today, the most common type of objection leveled against
+exemption claims. See 9 Collier on Bankruptcy ¶4003.04,
+p. 4003–15 (rev. 15th ed. 2009) (hereinafter Collier) (“Nor­
+mally, objections to exemptions will focus primarily on
+issues of valuation.”). In addition to departing from the
+prevailing understanding and practice, the Court’s deci­
+sion exposes debtors to protracted uncertainty concerning
+their right to retain exempt property, thereby impeding
+the “fresh start” exemptions are designed to foster. In
+accord with the courts below, I would hold that a debtor’s
+valuation of exempt property counts and becomes conclu­
+sive absent a timely objection.
+I
+Nadejda Reilly is a cook who operated a one-person
+catering business. Unable to cover her debts, she filed a
+Chapter 7 bankruptcy petition appending all required
+schedules and statements. Relevant here, her filings
+included a form captioned “Schedule B - Personal Prop­
+erty,” which called for enumeration of “all personal prop­
+erty of the debtor of whatever kind.” App. 40a. On that
+all-encompassing schedule, Reilly listed “business equip­
+ment,” i.e., her kitchen equipment, with a current market
+value of $10,718. Id., at 49a.
+Reilly also filed the more particular form captioned
+“Schedule C - Property Claimed as Exempt.” Id., at 56a.
+Schedule C contained four columns, the first headed “De­
+scription of Property”; the second, “Specify Law Providing
+Each Exemption”; the third, “Value of Claimed Exemp­
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+GINSBURG, J., dissenting
+
+tion”; and the fourth, “Current Market Value of Property
+Without Deducting Exemptions.” Id., at 57a. In the first
+column of Schedule C, Reilly wrote, as she did in Schedule
+B’s description-of-property column: “See attached list of
+business equipment.” Id., at 58a. On the list appended to
+Schedules B and C, Reilly set out by hand a 31-item inven­
+tory of her restaurant-plus-catering-venture equipment.
+Next to each item, e.g., “Dough Mixer,” “Gas stove,”
+“Hood,” she specified, first, the purchase price and, next,
+“Today’s Market Value,” which added up to $10,718 for the
+entire inventory. Id., at 51a–55a.1
+As the laws securing exemption of her kitchen equip­
+ment, Reilly specified in the second Schedule C column,
+§552(d)(6), the exemption covering trade tools, and
+§552(d)(5), the “wildcard” exemption. Id., at 58a.2 In the
+value-of-claimed-exemption column, she listed $1,850,
+then the maximum trade-tools exemption, and $8,868,
+drawn from her wildcard exemption, amounts adding up
+to $10,718. Ibid. And in the fourth, current-market­
+value, column, she recorded $10,718, corresponding to the
+total market value she had set out in her inventory and
+reported in Schedule B. Ibid.
+Before the 30-day clock on filing objections had begun to
+run, an appraiser told Schwab that Reilly’s equipment was
+worth at least $17,000. Brief for Petitioner 15; App. 164a.
+Nevertheless, Schwab did not object to the $10,718 market
+value Reilly attributed to her business equipment in
+——————
+1 Reilly’s Schedules B and C, and the inventory she attached to the
+forms, are reproduced in an Appendix to this opinion.
+2 Unlike exemptions that describe the specific property debtors may
+preserve, e.g., 11 U. S. C. §522(d)(6) (debtor may exempt her “aggregate
+interest, not to exceed [$1,850] in value, in any implements, profes­
+sional books, or tool[s] of [her] trade”), the “wildcard” exemption per­
+mits a debtor to shield her “aggregate interest in any property” she
+chooses, up to a stated dollar limit, §522(d)(5); In re Smith, 640 F. 2d
+888, 891 (CA7 1981).
+
+
+4
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+Schedule C and the attached inventory. Instead, he al­
+lowed the limitations period to lapse and then moved,
+unsuccessfully, for permission to sell the equipment at
+auction. Id., at 141a–143a.3
+From Reilly’s filings, the Bankruptcy Judge found it
+evident that Reilly had claimed the property itself, not its
+dollar value, as exempt. Id., at 168a–169a (“I know there’s
+an argument . . . that . . . the property identified as exempt
+is really the [valuation] column, [i.e., $10,718,] but that’s
+not what the forms say. The forms say property declared
+as exempt and to see attached list. So, they’re exempting
+all the property. . . . If the Trustee believes that . . . all the
+property cannot be exempt, [he] should object to it.”).
+The District Court and Court of Appeals similarly con­
+cluded that, by listing the identical amount, $10,718, as
+the property’s market value and the value of the claimed
+exemptions, Reilly had signaled her intention to safeguard
+all of her kitchen equipment from inclusion in the bank­
+ruptcy estate. In re Reilly, 403 B. R. 336, 338–339 (MD
+Pa. 2006); In re Reilly, 534 F. 3d 173, 178 (CA3 2008).
+Both courts looked to §522(l) and Federal Rule of Bank­
+ruptcy Procedure 4003(b), which state, respectively:
+“The debtor shall file a list of property that the
+debtor claims as exempt . . . . Unless a party in inter­
+est objects, the property claimed as exempt on such
+list is exempt.” §522(l).
+——————
+3 Schwab informed Reilly at the meeting of creditors that he planned
+to sell all of her business equipment. App. 137a. She promptly moved
+to dismiss her bankruptcy petition, stating that her “business equip­
+ment . . . is necessary to her livelihood and art, and was a gift to her
+from her parents.” Id., at 138a. She “d[id] not desire to continue with
+the bankruptcy,” she added, because “she wishe[d] to continue in
+restaurant and catering as her occupation.” Ibid. The Bankruptcy
+Court denied Reilly’s dismissal motion simultaneously with Schwab’s
+motion to sell Reilly’s equipment. Id., at 149a–170a.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+GINSBURG, J., dissenting
+
+“A party in interest may file an objection to the list of
+property claimed as exempt only within 30 days after
+the meeting of creditors held under §341(a) is con­
+cluded . . . . The court may, for cause, extend the time
+for filing objections if, before the time to object ex­
+pires, a party in interest files a request for an exten­
+sion.” Rule 4003(b).4
+Schwab having filed no objection within the allowable
+30 days, each of the tribunals below ruled that the entire
+inventory of Reilly’s business equipment qualified as
+exempt in full. App. 168a; 403 B. R., at 339; 534 F. 3d, at
+178. The leading treatise on bankruptcy, the Court of
+Appeals noted, id., at 180, n. 4, is in accord:
+“Normally, if the debtor lists property as exempt,
+that listing is interpreted as a claim for exemption of
+the debtor’s entire interest in the property, and the
+debtor’s valuation of that interest is treated as the
+amount of the exemption claimed. Were it other­
+wise—that is, if the listing were construed to claim as
+exempt only that portion of the property having the
+value stated—the provisions finalizing exemptions if
+no objections are filed would be rendered meaningless.
+The trustee or creditors could [anytime] claim that the
+debtor’s interest in the property was greater than the
+value claimed as exempt and [then] object to the
+debtor exempting his or her entire interest in the
+property after the deadline for objections had passed.”
+9 Collier ¶4003.02[1], pp. 4003–4 to 4003–5.
+Agreeing with the courts below, I would hold that Reilly,
+by her precise identification of the exempt property, and
+her specification of $10,718 as both the current market
+value of her kitchen equipment and the value of the
+——————
+4 In 2008, this prescription was recodified without material change
+and designated Rule 4003(b)(1).
+
+
+6
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+claimed exemptions, had made her position plain: She
+claimed as exempt the listed property itself—not the
+dollar amount, up to $10,718, that sale of the property by
+Schwab might yield. Because neither Schwab nor any
+creditor lodged a timely objection, the listed property
+became exempt, reclaimed as property of the debtor, and
+therefore outside the bankruptcy estate the trustee is
+charged to administer.
+II 
+
+A
+
+Pursuant to §522(l), Reilly filed a list of property she
+claimed as exempt from the estate-in-bankruptcy. Her
+filing left no doubt that her exemption claim encompassed
+her entire inventory of kitchen equipment. Schwab, in
+fact, was fully aware of the nature of the claim Reilly
+asserted. At the meeting of creditors, Reilly reiterated
+that she sought to keep the equipment in her possession;
+she would rather discontinue the bankruptcy proceeding,
+she made plain, than lose her equipment. See supra, at 4,
+n. 3. Bankruptcy Rule 4003(b) requires the trustee, if he
+contests the debtor’s exemption claim in whole or part, to
+file an objection within 30 days after the meeting of credi­
+tors. Absent a timely objection, “the property claimed as
+exempt . . . is exempt.” §522(l); Rule 4003. That prescrip­
+tion should be dispositive of this case.
+The Court holds, however, that Schwab was not obliged
+to file a timely objection to the exemption Reilly claimed,
+and indeed could auction off her cooking equipment any­
+time prior to her discharge. In so holding, the Court de­
+crees that no objection need be made to a debtor’s valua­
+tion of her property.
+To support the conclusion that Rule 4003’s timely objec­
+tion requirement does not encompass the debtor’s estima­
+tion of her property’s market value, the Court homes in on
+the language of exemption prescriptions that are subject to
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+GINSBURG, J., dissenting
+
+a monetary cap.5 Those prescriptions, the Court points
+out, “define the ‘property’ a debtor may ‘clai[m] as exempt’
+as the debtor’s ‘interest’—up to a specified dollar
+amount—in the assets described in the category, not as
+the assets themselves.” Ante, at 10. So long as a debtor
+values her claimed exemption at a dollar amount below
+the statutory cap, the Court reasons, the claim is on-its­
+face permissible no matter the market value she ascribes
+to the asset. To evaluate the propriety of Reilly’s declared
+“interest” in her kitchen equipment, the Court concludes,
+Schwab was obliged promptly to inspect “three, and only
+three, entries on Reilly’s Schedule C: the description of the
+business equipment . . . ; the Code provisions governing
+the claimed exemptions; and the amounts Reilly listed in
+the column titled ‘value of claimed exemption.’ ” Ante, at
+12–13.6
+——————
+5 Section 522(d) catalogs exemptions of two types. Most exemptions—
+and all of those Reilly invoked—place a monetary limit on the value of
+the property the debtor may reclaim. See, e.g., §522(d)(2) (“motor
+vehicle”); §522(d)(3) (“household furnishings, household goods, wearing
+apparel, appliances, books, animals, crops, or musical instruments”);
+§522(d)(4) (“jewelry”). For certain exemptions not at issue here, the
+Bankruptcy Code authorizes reclamation of the property in full without
+any cap on value. See, e.g., §522(d)(7) (“unmatured life insurance
+contract”); §522(d)(9) (“[p]rofessionally prescribed health aids”);
+§522(d)(11)(A) (“award under a crime victim’s reparation law”).
+6 In support of its view that market value is not relevant to determin­
+ing the “property claimed as exempt” for purposes of Rule 4003(b)’s
+timely objection mandate, the Court observes that Schedule C did not
+require the debtor to list this information until 1991. Ante, at 14–15.
+Prior to 1991, however, debtors recorded market value on a different
+schedule. See Interim Fed. Rule Bkrtcy. Proc. Official Form 6, Sched­
+ule B–2 (1979) (requiring debtor to list the “[m]arket value of [her]
+interest [in personal property] without deduction for . . . exemptions
+claimed”). Trustees assessing the “property claimed as exempt,”
+therefore, have always been able, from the face of the debtor’s filings, to
+compare the value of the claimed exemption to the property’s declared
+market value. See Brief for National Association of Consumer Bank­
+ruptcy Attorneys et al. as Amici Curiae 34.
+
+
+8
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+B
+The Court’s account, however, shuts from sight the vital
+part played by the fourth entry on Schedule C—current
+market value—when a capped exemption is claimed. A
+debtor who estimates a market value below the cap, and
+lists an identical amount as the value of her claimed ex­
+emption, thereby signals that her aim is to keep the listed
+property in her possession, outside the estate-in­
+bankruptcy. In contrast, a debtor who estimates a market
+value above the cap, and above the value of her claimed
+exemption, thereby recognizes that she cannot shelter the
+property itself and that the trustee may seek to sell it for
+whatever it is worth.7 Schedule C’s final column, in other
+words, alerts the trustee whether the debtor is claiming a
+right to retain the listed property itself as her own, a right
+secured to her if the trustee files no timely objection.8
+Because an asset’s market value is key to determining
+——————
+7 By authorizing exemption of assets that a debtor would want to
+keep in kind, such as her jewelry and car, but limiting the exemptible
+value of this property, Congress struck a balance between debtors’
+and creditors’ interests: Debtors can reclaim items helpful to their
+fresh start after bankruptcy, but only if those items are of modest
+value. Assets of larger worth, however, are subject to liquidation so
+that creditors may obtain a portion of the item’s value. Cf. In re Price,
+370 F. 3d 362, 378 (CA3 2004) (“[B]ankruptcy law is bilateral, replete
+with protections and policy considerations favoring both debtors and
+creditors.”).
+8 The significance of market value is what differentiates capped ex­
+emptions from uncapped ones that permit debtors to exempt certain
+property in kind regardless of its worth. See supra, at 7, n. 5. For
+uncapped exemptions, the nature of the property the debtor has re­
+claimed is clear: If the exemption is valid, the debtor gets the asset in
+full every time. For capped exemptions, however, market value is a
+crucial component in determining whether the debtor gets the item
+itself or a sum of money representing a share of the item’s liquidation
+value. Reading Bankruptcy Rule 4003(b) to require objections to
+valuation thus does not, as the Court contends, “elid[e] the distinction”
+between capped and uncapped exemptions, ante, at 12 (emphasis
+added), but instead accounts for that distinction.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+GINSBURG, J., dissenting
+
+the character of the interest the debtor is asserting in that
+asset, Rule 4003(b) is properly read to require objections to
+valuation within 30 days, just as the Rule requires timely
+objections to the debtor’s description of the property, the
+asserted legal basis for the exemption, and the claimed
+value of the exemption. See 4 Collier ¶522.05[1], p. 522–
+28 (rev. 15th ed. 2005) (“[T]o evaluate the propriety of the
+debtor’s claim of exemption,” trustees need the informa­
+tion in all four columns of Schedule C; “[market] value” is
+“essential” to judging whether the claim is proper because
+“[e]xemption provisions often are limited according to . . .
+[the property’s] value.”). 9
+C
+Requiring objections to market valuation notably facili­
+tates the debtor’s fresh start, and thus best fulfills the
+prime purpose of the exemption prescriptions. See, e.g.,
+Burlingham v. Crouse, 228 U. S. 459, 473 (1913) (Bank­
+ruptcy provisions “must be construed” in light of policy “to
+give the bankrupt a fresh start.”). See also Rousey v.
+——————
+9 Suggesting
+
+that this interpretation of Rule 4003(b) “lacks statutory
+support,” ante, at 13, n. 11, the Court repeatedly emphasizes that the
+Bankruptcy Code defines the “property claimed as exempt,” to which a
+trustee must object, as “the debtor’s ‘interest’—up to a specified dollar
+amount—in the assets described in [capped exemption] categor[ies],”
+ante, at 10; see, e.g., ante, at 11; ibid., n. 9; ante, at 21, n. 19. But the
+commonly understood definition of a property “interest” is “[a] legal
+share in something; all or part of a legal or equitable claim to or right
+in property. . . . Collectively, the word includes any aggregation of
+[such] rights.” Black’s Law Dictionary 828 (8th ed. 2004). Schwab,
+therefore, could not comprehend whether Reilly claimed a monetary or
+an in-kind “interest” in her kitchen equipment without comparing her
+market valuation of the equipment to the value of her claimed exemp­
+tion. See supra, at 8–9. In line with the statutory text, a debtor’s
+market valuation is an essential factor in determining the nature of the
+“interest” a debtor lists as exempt. Bankruptcy “forms, rules, treatise
+excerpts, and policy considerations,” ante, at 7, n. 5, corroborate, rather
+than conflict with, this reading of the Code.
+
+
+10
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+Jacoway, 544 U. S. 320, 325 (2005); United States v. Secu
+rity Industrial Bank, 459 U. S. 70, 72, n. 1 (1982); ante, at
+19. The 30-day deadline for objections, this Court has
+recognized, “prompt[s] parties to act and . . . produce[s]
+finality.” Taylor v. Freeland & Kronz, 503 U. S. 638, 644
+(1992). As “there can be no possibility of further objection
+to the exemptions” after this period elapses, the principal
+bankruptcy treatise observes, “if the debtor is not yet in
+possession of the property claimed as exempt, it should be
+turned over to [her] at this time to effectuate fully the
+fresh start purpose of the exemptions.”
+9 Collier
+¶4003.03[3], p. 4003–13.
+With the benefit of closure, and the certainty it brings,
+the debtor may, at the end of the 30 days, plan for her
+future secure in the knowledge that the possessions she
+has exempted in their entirety are hers to keep. See 534
+F. 3d, at 180. If she has reclaimed her car from the estate,
+for example, she may accept a job not within walking
+distance. See Brief for National Association of Consumer
+Bankruptcy Attorneys et al. as Amici Curiae 2–3 (herein­
+after NACBA Brief). Or if she has exempted her kitchen
+equipment, she may launch a new catering venture. See
+App. 138a (Reilly “wishe[d] to continue in restaurant and
+catering as her occupation” postbankruptcy.).
+By permitting trustees to challenge a debtor’s valuation
+of exempted property anytime before discharge, the Court
+casts a cloud of uncertainty over the debtor’s use of assets
+reclaimed in full. If the trustee gains a different opinion of
+an item’s value months, even years, after the debtor has
+filed her bankruptcy petition,10 he may seek to repossess
+the asset, auction it off, and hand the debtor a check for
+——————
+10 Schwab
+
+states that “[c]ases in which there are assets to administer
+. . . can take ‘one to four years’ to complete.” Brief for Petitioner 32
+(quoting Dept. of Justice, U. S. Trustee Program, Preliminary Report on
+Chapter 7 Asset Cases 1994 to 2000, p. 7 (June 2001)).
+
+
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+GINSBURG, J., dissenting
+
+the dollar amount of her claimed exemption.11 With this
+threat looming until discharge, “[h]ow can debtors rea­
+sonably be expected to restructure their affairs”? NACBA
+Brief 25. See In re Polis, 217 F. 3d 899, 903 (CA7 2000)
+(Posner, J.) (“If the assets sought to be exempted by the
+debtor were not valued at a date early in the bankruptcy
+proceeding, neither the debtor nor the creditors would
+know who had the right to them.”).
+III
+The Court and Schwab raise three concerns about read­
+ing Rule 4003 to require timely objection to the debtor’s
+estimate of an exempt asset’s market value: Would trus­
+tees face an untoward administrative burden? Would
+trustees lack fair notice of the need to object? And would
+debtors be tempted to undervalue their property in an
+effort to avoid the monetary cap on exemptions? In my
+judgment, all three questions should be answered no.
+A
+The Court suggests that requiring timely objections to a
+debtor’s valuation of exempt property would saddle trus­
+tees with an unmanageable load. See ante, at 18 (declin­
+ing to “expand . . . the universe of information an inter­
+ested party must consider in evaluating the validity of a
+claimed exemption”). See also Brief for Petitioner 32–33;
+Brief for United States as Amicus Curiae 24.12 But trus­
+——————
+11 Money generated by liquidation of an asset will often be of less
+utility to a debtor, who will have to pay more to replace the item. See
+H. R. Rep. No. 95–595, p. 127 (1977) (noting that “household goods have
+little resale value” but “replacement costs of the goods are generally
+high”).
+12 This concern is questionable in light of the prevailing practice, for,
+as earlier noted, valuation objections are the most common Rule
+4003(b) challenge. See supra, at 2. By lopping off valuation disagree­
+ments from the timely objection requirement, see, e.g., ante, at 10–11,
+n. 8, the Court so severely shrinks the Rule’s realm that this question
+
+
+12
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+tees, sooner or later, must attempt to ascertain the market
+value of exempted assets. They must do so to determine
+whether sale of the items would likely produce surplus
+proceeds for the estate above the value of the claimed
+exemption, see §704(a)(1); the only question, then, is when
+this market valuation must occur—(1) within 30 days or
+(2) at any time before discharge? Removing valuation
+from Rule 4003’s governance thus does little to reduce the
+labors trustees must undertake.
+The 30-day objection period, I note, does not impose on
+trustees any additional duty, but rather guides the exer­
+cise of existing responsibilities; under Rule 4003(b), a
+trustee must rank evaluation of the debtor’s exemptions as
+a priority item in his superintendence of the estate.13 And
+if the trustee entertains any doubt about the accuracy of a
+debtor’s estimation of market value, the procedure for
+interposing objections is hardly arduous. The trustee need
+only file with the court a simple declaration stating that
+an item’s value exceeds the amount listed by the debtor.14
+——————
+arises: Why are trustees granted a full 30 days to lodge objections?
+Under the Court’s reading of the Rule, trustees need only compare a
+debtor’s Schedule C to the text of the exemption prescriptions to assess
+an exemption claim’s facial validity, with no further investigation
+necessary. That comparison should take no more than minutes, surely
+not a month.
+13 Trustees, it bears noting, historically had valuation duties far more
+onerous than they have today. Rule 4003’s predecessor required
+trustees in the first instance, rather than debtors, to estimate the
+market value of property claimed as exempt. See Rule 403(b) (1975).
+Trustees had to provide this valuation to the court within 15 days of
+their appointment. See ibid.
+14 The leading bankruptcy treatise supplies an illustrative valuation
+objection:
+“[Name of Trustee], the duly qualified and acting trustee of the estate
+of the debtor, would show the court the following:
+“1. The debtor is not entitled under [the automobile exemption] to an
+interest of more than $3,225 in an automobile. The automobile claimed
+by debtor as exempt . . . has a value substantially greater than $3,225.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+13
+
+GINSBURG, J., dissenting
+
+If the trustee needs more than 30 days to assess market
+value, moreover, the time period is eminently extendable.
+Rule 4003(b) prescribes that a trustee may, for cause, ask
+the court for an extension of the objection period. Alterna­
+tively, the trustee can postpone the conclusion of the
+meeting of creditors, from which the 30-day clock runs,
+simply by adjourning the meeting to a future date. Rule
+2003(e). A trustee also may examine the debtor under
+oath at the creditors’ meeting, Rule 2003(b)(1); if he gath­
+ers information impugning her exemption claims, he may
+ask the bankruptcy court to hold a hearing to determine
+valuation issues, Rule 4003(c). See Taylor, 503 U. S., at
+644 (“If [the trustee] did not know the value of [a claimed
+exemption], he could have sought a hearing on the issue
+. . . or . . . asked the Bankruptcy Court for an extension of
+time to object.”). See also NACBA Brief 19, 21–23 (listing
+ways trustees may enlarge the limitations period for
+objections). Trustees, in sum, have ample mechanisms at
+their disposal to gain the time and information they need
+to lodge objections to valuation.
+B
+On affording trustees fair notice of the need to object,
+the Court emphasizes that a debtor must list her claimed
+exemptions “in a manner that makes the scope of the
+exemption clear.” Ante, at 20. If a debtor wishes to ex­
+empt property in its entirety, for example, the Court coun­
+sels her to write “full fair market value (FMV)” or “100% of
+FMV” in Schedule C’s value-of-claimed-exemption column.
+——————
+
+.
+
+.
+
+.
+
+.
+
+.
+
+“WHEREFORE Trustee prays that the court determine that debtor is
+not entitled to . . . the exemptio[n] claimed by him, that the [property
+claimed as exempt] which [is] disallowed be turned over to the trustee
+herein as property of the estate, and that he have such other and
+further relief as is just.” 13A Collier §CS17.14, p. CS 17–22 (rev. 15th
+ed. 2009). See also Rules 9013–9014.
+
+
+14
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+Ante, at 20–21 (internal quotation marks omitted). See
+also Tr. of Oral Arg. 6–7, 26–29; In re Hyman, 967 F. 2d
+1316, 1319–1320, n. 6 (CA9 1992) (Trustees must be able
+to assess the validity of an exemption from the face of a
+debtor’s schedules.). Our decision in Taylor v. Freeland &
+Kronz, the Court notes, is instructive. In Taylor, the
+debtor recorded the term “$ unknown” as the value of a
+claimed exemption, which, the Court observes, raised a
+“warning fla[g]” because the value “was not plainly within
+the limits the Code allows.” Ante, at 17.
+True, a debtor’s schedules must give notice sufficient to
+cue the trustee that an objection may be in order. But a
+“warning flag” is in the eye of the beholder: If a debtor
+lists identical amounts as the market value of exempted
+property and the value of her claimed exemption, she has,
+on the face of her schedules, reclaimed the entire asset just
+as surely as if she had recorded “100% of FMV” in Sched­
+ule C’s value-of-claimed-exemption column. See Brief for
+Respondent 36. See also 9 Collier ¶4003.03[3], p. 4003–14
+(“Only when a debtor’s schedules specifically value the
+debtor’s interest in the property at an amount higher than
+the amount claimed as exempt can it be argued that a part
+of the debtor’s interest in property has not been ex­
+empted.” (emphasis added)).
+In this case, by specifying $10,718 as both the current
+market value of her kitchen equipment and the value of
+her claimed exemptions, Reilly gave notice that she had
+reclaimed the listed property in full. See supra, at 2–6.
+To borrow the Court’s terminology, Reilly waved a “warn­
+ing flag” that should have prompted Schwab to object if he
+believed the equipment could not be reclaimed in its en­
+tirety because its value exceeded the statutory cap. 534
+F. 3d, at 179. See 4 Collier ¶522.05[2][b], p. 522–33 (“Nor­
+mally, if a debtor lists an asset as having a particular
+value in the schedules and then exempts that value, the
+schedules should be read as a claim of exemption for the
+
+
+Cite as: 560 U. S. ____ (2010)
+
+15
+
+GINSBURG, J., dissenting
+
+entire asset, to which the trustee should object if the
+trustee believes the asset has been undervalued.”).
+Training its attention on trustees’ needs, moreover, the
+Court overlooks the debtor’s plight. As just noted, the
+Court counsels debtors wishing to exempt an asset in full
+to write “100% of FMV” or “full FMV” in the value-of­
+claimed-exemption column. But a debtor following the
+instructions that accompany Schedule C would consider
+such a response nonsensical, for those instructions direct
+her to “state the dollar value of the claimed exemption in
+the space provided.” Fed. Rule Bkrtcy. Proc. Official Form
+6, Schedule C, Instruction 5 (1991) (emphasis added).
+Chapter 7 debtors are often unrepresented. How are they
+to know they must ignore Schedule C’s instructions and
+employ the “warning flag” described today by the Court, if
+they wish to trigger the trustee’s obligation to object to
+their market valuation in a timely fashion? See In re
+Anderson, 377 B. R. 865, 875 (Bkrtcy. App. Panel CA6
+2007).15
+C
+Schwab finally urges that requiring timely objections to
+a debtor’s market-value estimations “would give debtors a
+perverse incentive to game the system by undervaluing
+their assets.” Brief for Petitioner 35; see Brief for United
+States as Amicus Curiae 27. The Court rejected an argu­
+ment along these lines in Taylor, and should follow suit
+here. Multiple measures, Taylor explained, discourage
+undervaluation of property claimed as exempt. 503 U. S.,
+——————
+15 Trustees,
+
+in contrast, are repeat players in bankruptcy court; if this
+Court required timely objections to market valuation, trustees would,
+no doubt, modify their practices in response.
+See 1 Collier
+¶8.06[1][c][ii], p. 8–75 (rev. 15th ed. 2009) (“Since Taylor [v. Freeland &
+Kronz, 503 U. S. 638 (1992)], trustees rarely fail to closely scrutinize
+vague exemption claims.”). Moreover, because valuation objections are
+already the norm, see supra, at 2, and 11, n. 12, few trustees would
+have to adjust their behavior.
+
+
+16
+
+SCHWAB v. REILLY
+GINSBURG, J., dissenting
+
+at 644. Among those measures: The debtor files her
+exemption claim under penalty of perjury. See Rule
+1008. She risks judicial sanction for signing documents
+not well grounded in fact. Rule 9011. And proof of fraud
+subjects her to criminal prosecution, 18 U. S. C. §152;
+extends the limitations period for filing objections to
+Schedule C, Rule 4003(b); and authorizes denial of dis­
+charge, 11 U. S. C. §727(a)(4)(B). See also NACBA Brief
+29–33 (detailing additional checks against inadequate or
+inaccurate filings).
+Furthermore, the objection procedure is itself a safe­
+guard against debtor undervaluation. If a trustee sus­
+pects that the market value of property claimed as exempt
+may exceed a debtor’s estimate, he should do just what
+Rule 4003(b) prescribes: “[F]ile an objection . . . within 30
+days after the meeting of creditors.”
+*
+*
+*
+For the reasons stated, I would affirm the Third Cir­
+cuit’s judgment.
+
+
+Cite as: 560 U. S. ____ (2010) 
+
+GINSBURG, J., of GINSBURG
+Appendix to opiniondissenting , J. 
+
+
+APPENDIX
+
+
+17
+
+
+18
+
+SCHWAB v. REILLY
+GINSBURG, J., of GINSBURG
+Appendix to opiniondissenting , J.
+
+
+Cite as: 560 U. S. ____ (2010)
+GINSBURG, J., of GINSBURG
+Appendix to opiniondissenting , J.
+
+19
+
+
+20
+
+SCHWAB v. REILLY
+GINSBURG, J., of GINSBURG
+Appendix to opiniondissenting , J.
+
+
+Cite as: 560 U. S. ____ (2010)
+GINSBURG, J., of GINSBURG
+Appendix to opiniondissenting , J.
+
+21
+
+
+22
+
+SCHWAB v. REILLY
+GINSBURG, J., of GINSBURG
+Appendix to opiniondissenting , J.
+
+

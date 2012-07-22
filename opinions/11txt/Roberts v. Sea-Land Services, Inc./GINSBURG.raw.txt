@@ -1,0 +1,295 @@
+Cite as: 566 U. S. ____ (2012)
+
+1
+
+Opinion of GINSBURG, J.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 10–1399
+_________________
+
+DANA ROBERTS, PETITIONER v. SEA-LAND
+
+SERVICES, INC., ET AL. 
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE NINTH CIRCUIT
+
+[March 20, 2012]
+
+
+JUSTICE GINSBURG, concurring in part and dissenting in
+part.
+Section 906 of the Longshore and Harbor Workers’
+Compensation Act (LHWCA or the Act) defines the maximum disability benefit an injured worker may receive
+under the Act. Specifically, §906 states that an injured
+employee may receive, at most, twice the national average
+weekly wage for the fiscal year in which the employee
+is “newly awarded compensation.” 33 U. S. C. §906(c).
+The Court granted review in this case to answer the
+following question: When is an employee “newly awarded
+compensation”?
+Petitioner Dana Roberts contends that an employee is
+“newly awarded compensation” in the year she receives
+a formal compensation award. For the reasons cogently
+explained by the majority, that argument is untenable.
+See ante, at 5–17. Unlike the Court, however, I do not
+regard as reasonable respondent Sea-Land Services’ view
+that an employee is “newly awarded compensation” in the
+year she becomes “statutorily entitled to compensation.”
+Ante, at 5–6. Applying the common meaning of the verb
+“award” and recognizing the Act’s distinction between
+benefits paid voluntarily, and those paid pursuant to a
+compensation order, see ante, at 2–3, I would hold that an
+injured worker is “newly awarded compensation” when (1)
+
+
+2
+
+ROBERTS v. SEA-LAND SERVICES, INC.
+Opinion of GINSBURG, J.
+
+the employer voluntarily undertakes to pay benefits to
+the employee, or (2) an administrative law judge (ALJ), the
+Benefits Review Board (BRB), or a reviewing court orders
+the employer to pay such benefits.
+I
+In determining the meaning of a statutory phrase, “we
+look first to its language, giving the words used their
+ordinary meaning.” Moskal v. United States, 498 U. S.
+103, 108 (1990) (internal quotation marks and citations
+omitted). As the Court acknowledges, ante, at 5, the verb
+“award” ordinarily means “to give by judicial decree” or
+“[to] assign after careful judgment.” Webster’s Third New
+International Dictionary 152 (2002). See also Black’s Law
+Dictionary 157 (9th ed. 2009) (defining the verb “award”
+as “[t]o grant by formal process or by judicial decree”).
+Giving “award” this usual meaning, an employee is “newly
+awarded compensation,” if not voluntarily paid, in the fiscal year in which payment is directed by administrative
+order or judicial decree.
+Under the LHWCA, the Court recognizes, an employee
+is provided compensation voluntarily or in contested proceedings. See ante, at 3. Most commonly, an employer
+pays compensation voluntarily after receiving an employee’s notice of disabling injury. See Pallas Shipping Agency, Ltd. v. Duris, 461 U. S. 529, 532 (1983); 33 U. S. C.
+§912 (describing the form, content, and timing of the
+necessary notice and requiring employers to designate a
+representative to receive the notice); §914(b). If an employer declines to pay compensation voluntarily, an injured employee can file a claim with the Department of
+Labor’s Office of Workers’ Compensation Programs
+(OWCP). For employees with valid claims, OWCP proceedings culminate with an administrative or court decision ordering the employer to pay benefits. §919(c). Thus,
+an injured worker is given—or “awarded”—compensation
+
+
+Cite as: 566 U. S. ____ (2012)
+
+3
+
+Opinion of GINSBURG, J.
+
+through one of two means contemplated by the Act: either
+the employer voluntarily pays compensation or is officially
+ordered to do so. Logically, then, the worker is “newly
+awarded compensation” when one of those two events
+occurs.
+The Court does not take this approach. After acknowledging that it is not relying on the typical meaning of the
+word “award,” see ante, at 5, the Court adopts Sea-Land’s
+view that “awarded compensation” is synonymous with
+“[became] statutorily entitled to benefits,” ante, at 18. As
+a result, a person is “newly awarded compensation” in the
+year in which she becomes entitled to benefits—i.e., in the
+year the employee “first becomes disabled.” Ibid. Such a
+reading is plausible, the Court asserts, because “this Court
+has often said that statutes ‘award’ entitlements.” Ante,
+at 6 (citing cases).
+I do not dispute that statutes are often characterized as
+“awarding” relief to persons falling within their compass.
+But “a statute must be read in [its] context.” Ante, at 7
+(quoting Davis v. Michigan Dept. of Treasury, 489 U. S.
+803, 809 (1989)). Section 906 does not address whether
+the LHWCA, as a general matter, “awards” disability benefits to injured longshore workers. Rather, it concerns
+a more specific question: when has a particular employee
+been “newly awarded compensation.” In that context,
+equating “awarded compensation” with “statutorily entitled to compensation” is not plausible. A person covered
+by the Act would not likely say he was “awarded compensation” the moment he became disabled, if, in fact, his
+employer contests liability. Only after some entity—the
+employer, an ALJ, the BRB, or a reviewing court—
+recognizes the employee’s right to compensation would he
+comprehend that he had been “awarded compensation.”
+To borrow THE CHIEF JUSTICE’s example: No person who
+slips and injures herself on a negligently maintained
+sidewalk would tell her friends the next day, “Guess what,
+
+
+4
+
+ROBERTS v. SEA-LAND SERVICES, INC.
+Opinion of GINSBURG, J.
+
+I was newly awarded money damages yesterday.” See Tr.
+of Oral Arg. 28.
+The inconsistency between the Court’s interpretation of
+“newly awarded compensation” and my reading of the
+phrase is best illustrated by contextual example. Assume
+an employee is injured in 2002 and the employer refuses
+to pay compensation voluntarily. Then, five years later,
+an ALJ finds in favor of the employee and orders the
+employer to pay benefits to the employee. Under the
+Court’s view, the employee was “newly awarded compensation” in 2002, even though the employee did not receive
+a penny—and the employer was not obligated to pay a
+penny—until 2007. Only the most strained interpretation
+of “newly awarded” could demand that result.1
+The Court’s view, moreover, does not fit the Act’s design.
+As explained supra, at 2–3, the Act envisions that an
+eligible employee will begin receiving benefits in either
+of two ways. The Court’s interpretation disregards this
+design, assuming instead that all employees are awarded
+benefits in the same way: by the Act at the time they
+become disabled.
+Section 906(c)’s legislative history further confirms that
+Congress intended “newly awarded compensation” to have
+its commonsense meaning. In describing §906, the Senate
+Committee on Labor and Public Welfare reported:
+——————
+1 As the Court notes, the maximum rate for a given fiscal year applies
+to two groups of injured workers: those who are “newly awarded compensation during such [year],” and those who are “currently receiving
+compensation for permanent total disability or death benefits during
+such [year].” 33 U. S. C. §906(c). Ante, at 7, n. 5. Contrary to the
+Court’s charge, I do not read “newly awarded compensation” as synonymous with “currently receiving compensation.” See ibid. An injured
+worker who is “currently receiving compensation” in a given fiscal year
+was “newly awarded compensation” in a previous year. My interpretation therefore gives “effect to Congress’ textual shift,” ibid.: It identifies
+two distinct groups of workers who are entitled to a given year’s maximum rate.
+
+
+Cite as: 566 U. S. ____ (2012)
+
+5
+
+Opinion of GINSBURG, J.
+
+“[Section 906(c)] states that determinations of national average weekly wage made with respect to a [fiscal
+year] apply to employees or survivors currently receiving compensation for permanent total disability or
+death benefits, as well as those who begin receiving
+compensation for the first time during the [fiscal
+year].” S. Rep. No. 92–1125, p. 18 (1972) (emphasis
+added).
+Congress therefore believed an injured worker is “newly
+awarded compensation” in the year in which she “begin[s]
+receiving compensation for the first time.” Ibid. Again,
+an employee begins receiving compensation either when an
+employer voluntarily agrees to pay the employee benefits
+or when an ALJ, the BRB, or a court orders the employer
+to do so. See supra, at 2–3. When the employer resists
+payment, the employee will not necessarily begin receiving
+compensation in the year in which she becomes disabled.
+Finally, interpreting “newly awarded compensation” to
+mean awarded through an employer’s voluntary decision
+or an official order is consistent with the Act’s goal of
+encouraging employers to pay legitimate claims promptly.
+See 33 U. S. C. §914(a) (requiring employers to pay compensation “periodically, promptly, and directly”); Estate of
+Cowart v. Nicklos Drilling Co., 505 U. S. 469, 498 (1992)
+(Blackmun, J., dissenting) (“[T]he Act presumes that employers, as a rule, will promptly recognize their LHWCA
+obligations and commence payments immediately.”).
+Under my interpretation, an employer who chooses to
+contest a valid claim, rather than to pay the claim
+voluntarily, runs the risk that it may ultimately have to
+pay the injured employee a higher maximum benefit. For
+example, if an employer refuses to pay benefits to a worker injured in 2012, and an ALJ issues an order awarding
+compensation to the employee in 2015, the fiscal year 2015
+maximum rate would apply to the employee’s claim. Had
+
+
+6
+
+ROBERTS v. SEA-LAND SERVICES, INC.
+Opinion of GINSBURG, J.
+
+the employer voluntarily begun paying benefits in 2012,
+on the other hand, the 2012 maximum rate would apply.
+Under the Court’s reading, by contrast, an employer pays
+the prevailing rate for the year the employee became
+disabled, regardless of whether the employer in fact pays
+benefits immediately or years down the road.2
+II
+In this case, Roberts was injured on February 24, 2002
+and stopped working two weeks later. App. to Pet. for
+Cert. 4. Sea-Land and its insurer paid benefits to Roberts
+from March 11, 2002 until July 15, 2003. Id., at 101. SeaLand then resumed paying benefits on September 1, 2003
+and continued to pay Roberts compensation until May 17,
+2005, when it ceased making payments for good. Ibid.
+After Roberts filed a complaint with the OWCP, an ALJ,
+in October 2006, concluded that Roberts was entitled to
+compensation from March 11, 2002 onwards. Id., at 107–
+108.
+Applying my interpretation of §906, Roberts was newly
+awarded compensation three times: in March 2002 when
+Sea-Land voluntarily began paying benefits; in September
+2003 when Sea-Land resumed making payments after it
+had stopped in July 2003; and in October 2006 when an
+ALJ ordered Sea-Land to pay benefits to Roberts for the
+uncompensated weeks in 2003 and from May 2005 onwards. Roberts was therefore entitled to the fiscal year
+2002 maximum rate from March 11, 2002 until July 15,
+2003; the fiscal year 2003 maximum rate from September
+1, 2003 until May 17, 2005; and the fiscal year 2007 rate3
+——————
+2 Employers may have a particularly strong financial incentive to
+postpone paying claims that implicate §906. That section applies only
+to injured workers who qualify for the maximum rate of compensation
+under the Act—i.e., to those claimants who are owed the largest possible benefit.
+3 For §906 purposes, a year runs from October 1 to September 30. See
+
+
+Cite as: 566 U. S. ____ (2012)
+
+7
+
+Opinion of GINSBURG, J.
+
+going forward and for all uncompensated weeks covered by
+the ALJ’s order.4
+*
+*
+*
+For the foregoing reasons, I would reverse the Ninth
+Circuit’s judgment and hold that an employee is “newly
+awarded compensation” when her employer either volun——————
+33 U. S. C. §906(b)(3). The 2007 maximum rate therefore applies to all
+employees “newly awarded compensation” between October 1, 2006 and
+September 30, 2007.
+4 The Court asserts that an employer could “easily circumven[t]” my
+approach by making voluntary payments to an injured worker that are
+substantially below the employee’s “actual entitlement.” Ante, at 10,
+n. 6. The prospect that an employer could successfully execute, or
+would even attempt, such a strategy is imaginary. Employers who
+make voluntary payments to employees are required to file a report
+with the Department of Labor describing the nature of the employee’s
+injury and stating the amount of the payments made. See ante, at 9–
+10; 33 U. S. C. §930(a). The employer must also submit the results of
+a medical evaluation of the employee’s condition. Dept. of Labor,
+Longshore (DLHWC) Procedure Manual §2–201(2)(b) (hereinafter Longshore Procedure Manual), online at http://www.dol.gov/owcp/dlhwc/
+lspm/lspm2-201.htm (as visited Mar. 14, 2012, and in Clerk of Court’s
+case file). Upon receiving the employer’s report, a DOL claims examiner verifies “the compensation rate for accuracy” and must followup with the employer “[i]f the compensation rate appears low.” Longshore Procedure Manual §2–201(3)(b)(1). The chances are slim that a
+claims examiner would validate a substantial underpayment. Employers who underpay benefits, moreover, are subject to a penalty equal to
+10% of the amount of the underpayment. See 33 U. S. C. §914(e);
+Longshore Procedure Manual §8–202(3)(c) (“If partial payments are
+made by the employer, the [10% penalty] appl[ies] . . . to the difference
+between the amount owed and the amount paid.”). Employers would
+thus risk paying more, not less, were they to attempt to “circumven[t]”
+my approach by deliberately undercompensating injured workers. And
+while it is true that an employer who controverts an employee’s right to
+compensation does not have to pay the 10% penalty, see ante, at 10,
+n. 6, the Act does not permit an employer to pay any amount it likes
+and controvert the remainder. See 33 U. S. C. §914(a) (requiring
+employers either to pay benefits in full or to controvert “liability to pay
+compensation” at all).
+
+
+8
+
+ROBERTS v. SEA-LAND SERVICES, INC.
+Opinion of GINSBURG, J.
+
+tarily agrees to pay compensation to her or is officially
+ordered to do so.
+
+

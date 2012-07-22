@@ -1,0 +1,46 @@
+Cite as: 559 U. S. ____ (2010)
+
+11
+
+GINSBURG, J., dissenting
+
+proceed on a class basis, the Court apparently demands
+contractual language one can read as affirmatively author
+izing class arbitration. See ante, at 20 (“[A] party may not
+be compelled under the FAA to submit to class arbitration
+unless there is a contractual basis for concluding that the
+party agreed to do so.”); ante, at 23. The breadth of the
+arbitration clause, and the absence of any provision waiv
+ing or banning class proceedings,10 will not do. Ante, at
+20–23.
+The Court ties the requirement of affirmative authoriza
+tion to “the basic precept that arbitration ‘is a matter of
+consent, not coercion.’ ” Ante, at 17 (quoting Volt Informa
+tion Sciences, Inc. v. Board of Trustees of Leland Stanford
+Junior Univ., 489 U. S. 468, 479 (1989)). Parties may
+“specify with whom they choose to arbitrate,” the Court
+observes, just as they may “limit the issues they choose to
+arbitrate.” Ante, at 19. But arbitrators, in delineating an
+appropriate class, need not, and should not, disregard
+such contractual constraints. In this case, for example,
+AnimalFeeds proposes to pursue, on behalf of a class, only
+“claims . . . arising out of any [charter party agreement]
+. . . that provides for arbitration.” App. to Pet. for Cert.
+56a (emphasis added). Should the arbitrators certify the
+proposed class, they would adjudicate only the rights of
+persons “with whom” Stolt-Nielsen agreed to arbitrate,
+and only “issues” subject to arbitration. Ante, at 19 (em
+phasis omitted).
+——————
+10 Several courts have invalidated contractual bans on, or waivers of,
+class arbitration because proceeding on an individual basis was not
+feasible in view of the high costs entailed and the slim benefits achiev
+able. See, e.g., In re American Express Merchants’ Litigation, 554 F. 3d
+300, 315–316, 320 (CA2 2009); Kristian v. Comcast Corp., 446 F. 3d 25,
+55, 59 (CA1 2006); Discover Bank v. Superior Court, 36 Cal. 4th 148,
+162–163, 113 P. 3d 1100, 1110 (2005); Leonard v. Terminix Int’l Co.,
+LP, 854 So. 2d 529, 539 (Ala. 2002). Were there no right to proceed on
+behalf of a class in the first place, however, a provision banning or
+waiving recourse to this aggregation device would be superfluous.
+
+

@@ -1,0 +1,41 @@
+Cite as: 566 U. S. ____ (2012)
+
+13
+
+Opinion of the Court
+
+did the [claim] contain any disclosure relating to chemical
+processes at work or the means of setting off an alarm or
+adjusting the alarm limit.” Diehr, supra, at 192, n. 14; see
+also Flook, 437 U. S., at 586. And so the other steps in the
+process did not limit the claim to a particular application.
+Moreover, “[t]he chemical processes involved in catalytic
+conversion of hydrocarbons[,] . . . the practice of monitor­
+ing the chemical process variables, the use of alarm limits
+to trigger alarms, the notion that alarm limit values must
+be recomputed and readjusted, and the use of computers for ‘automatic monitoring-alarming’ ” were all “well
+known,” to the point where, putting the formula to the
+side, there was no “inventive concept” in the claimed
+application of the formula. Id., at 594. “[P]ost-solution
+activity” that is purely “conventional or obvious,” the
+Court wrote, “can[not] transform an unpatentable princi­
+ple into a patentable process.” Id., at 589, 590.
+The claim before us presents a case for patentability
+that is weaker than the (patent-eligible) claim in Diehr
+and no stronger than the (unpatentable) claim in Flook.
+Beyond picking out the relevant audience, namely those
+who administer doses of thiopurine drugs, the claim simply tells doctors to: (1) measure (somehow) the current level
+of the relevant metabolite, (2) use particular (unpatenta­
+ble) laws of nature (which the claim sets forth) to calculate
+the current toxicity/inefficacy limits, and (3) reconsider the
+drug dosage in light of the law. These instructions add
+nothing specific to the laws of nature other than what is
+well-understood, routine, conventional activity, previously
+engaged in by those in the field. And since they are steps
+that must be taken in order to apply the laws in question,
+the effect is simply to tell doctors to apply the law some­
+how when treating their patients. The process in Diehr
+was not so characterized; that in Flook was characterized
+in roughly this way.
+
+

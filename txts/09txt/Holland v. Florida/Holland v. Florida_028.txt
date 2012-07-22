@@ -1,0 +1,44 @@
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Opinion of ALITO, J.
+
+Coleman v. Thompson, 501 U. S. 722, 756–757 (1991)
+(emphasis added)).
+The basic rationale for Lawrence’s holding is that the
+mistakes of counsel are constructively attributable to the
+client, at least in the postconviction context. The Law
+rence Court’s reliance on Coleman is instructive. In Cole
+man, the Court addressed whether attorney error provided
+cause for a procedural default based on a late filing. See
+501 U. S., at 752. Because “[t]here is no constitutional
+right to an attorney in state post-conviction proceedings,”
+the Court explained, “a petitioner cannot claim constitu
+tionally ineffective assistance of counsel in such proceed
+ings.” Ibid. In such circumstances, the Court reasoned,
+there was “ ‘no inequity in requiring [the petitioner] to
+bear the risk of attorney error that results in a procedural
+default.’ ” Ibid. (quoting Murray v. Carrier, 477 U. S. 478,
+488 (1986)); accord, Coleman, 501 U. S., at 753 (“ ‘[C]ause’
+under the cause and prejudice test must be something
+external to the petitioner, something that cannot fairly be
+attributed to him”); ibid. (“Attorney ignorance or inadver
+tence is not ‘cause’ because the attorney is the petitioner’s
+agent when acting, or failing to act, in furtherance of the
+litigation, and the petitioner must ‘bear the risk of attor
+ney error’ ”); id., at 754 (what matters is whether “the
+error [of counsel] must be seen as an external factor, i.e.,
+‘imputed to the State’ ”); ibid. (“In the absence of a consti
+tutional violation, the petitioner bears the risk in federal
+habeas for all attorney errors made in the course of the
+representation”); id., at 757 (“Because Coleman had no
+right to counsel to pursue his appeal in state habeas, any
+attorney error that led to the default of Coleman’s claims
+in state court cannot constitute cause to excuse the default
+in federal habeas”). As Lawrence makes clear, the same
+analysis applies when a petitioner seeks equitable tolling
+based on attorney error in the postconviction context. See
+549 U. S., at 336–337 (citing Coleman).
+
+

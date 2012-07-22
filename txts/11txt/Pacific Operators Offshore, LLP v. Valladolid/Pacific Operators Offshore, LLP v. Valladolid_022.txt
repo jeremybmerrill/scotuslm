@@ -1,0 +1,32 @@
+Cite as: 565 U. S. ____ (2012)
+
+5
+
+Opinion of SCALIA, J.
+
+test. Ante, at 13–14. In the opinion below, moreover, the
+Ninth Circuit purported to endorse the Fifth Circuit’s pre1989 case law, which required “ ‘ that the claimant show a
+nexus . . . similar to the proximate cause test in tort law.’ ”
+604 F. 3d 1126, 1140 (CA9 2010) (quoting Mills v. Director,
+Office of Workers’ Compensation Programs, 846 F. 2d
+1013, 1015 (CA5 1988), rev’d en banc, 877 F. 2d 356
+(1989)). Who knows whether this is a tertium quid or not?
+The Court has given us a new test whose contours are
+entirely undescribed, and which has nothing to be said for
+it except that it will add complexity to the law and litigation to the courts.
+Finally, I must note an additional uncertainty (or else a
+peculiarity) that the Court’s opinion creates: The statutory
+text at issue requires compensation for “disability or death
+of an employee resulting from any injury occurring as the
+result of operations conducted on the outer Continental
+Shelf . . . .” §1333(b) (emphasis added). Before today,
+I would have thought it clear that courts must apply
+proximate-cause analysis to the “resulting from” provision;
+but that would seem quite peculiar if (as the Court holds
+today) we apply substantial-nexus analysis to the neighboring “occurring as the result of ” provision. Surely both
+phrases express the same concept. What a tangled web we
+weave.
+I would affirm the Ninth Circuit’s judgment to remand
+the case to the Benefits Review Board, but with instructions to apply a proximate-cause test.
+
+

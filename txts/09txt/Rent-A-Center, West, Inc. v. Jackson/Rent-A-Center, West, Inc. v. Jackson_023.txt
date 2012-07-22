@@ -1,0 +1,43 @@
+Cite as: 561 U. S. ____ (2010)
+
+9
+
+STEVENS, J., dissenting
+
+lenging, more generally, the contract within which an
+arbitration clause is nested. In the latter circumstance,
+we assume there is no infirmity per se with the arbitration
+agreement, i.e., there are no grounds for revocation of the
+arbitration agreement itself under §2 of the FAA. Accord
+ingly, we commit the parties’ general contract dispute to
+the arbitrator, as agreed.
+The claim in Prima Paint was that one party would not
+have agreed to contract with the other for services had it
+known the second party was insolvent (a fact known but
+not disclosed at the time of contracting). 388 U. S., at 398.
+There was, therefore, allegedly fraud in the inducement of
+the contract—a contract which also delegated disputes to
+an arbitrator. Despite the fact that the claim raised would
+have, if successful, rendered the embedded arbitration
+clause void, the Court held that the merits of the dispute
+were for the arbitrator, so long as the claim of “fraud in
+the inducement” did not go to validity of “the arbitration
+clause itself.” Id., at 403 (emphasis added). Because, in
+Prima Paint, “no claim ha[d] been advanced by Prima
+Paint that [respondent] fraudulently induced it to enter
+into the agreement to arbitrate,” and because the arbitra
+tion agreement was broad enough to cover the dispute, the
+arbitration agreement was enforceable with respect to the
+controversy at hand. Id., at 406.
+The Prima Paint rule has been denominated as one
+related to severability. Our opinion in Buckeye, set out
+these guidelines:
+“First, as a matter of substantive federal arbitration
+law, an arbitration provision is severable from the
+remainder of the contract. Second, unless the chal
+lenge is to the arbitration clause itself, the issue of the
+contract’s validity is considered by the arbitrator in
+the first instance.” 546 U. S., at 445–446.
+Whether the general contract defense renders the entire
+
+

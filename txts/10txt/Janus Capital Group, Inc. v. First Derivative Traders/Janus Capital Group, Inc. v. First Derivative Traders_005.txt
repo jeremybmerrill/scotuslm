@@ -1,0 +1,45 @@
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+Mercury Fund prospectus dated February 25, 2002, stated
+that the fund was “not intended for market timing or
+excessive trading” and represented that it “may reject any
+purchase request . . . if it believes that any combination of
+trading activity is attributable to market timing or is
+otherwise excessive or potentially disruptive to the Fund.”
+App. 141a. Although market timing is legal, it harms
+other investors in the mutual fund.
+In September 2003, the Attorney General of the State of
+New York filed a complaint against JCG and JCM alleging
+that JCG entered into secret arrangements to permit
+market timing in several funds run by JCM. After the
+complaint’s allegations became public, investors withdrew
+significant amounts of money from the Janus Investment
+Fund mutual funds.2 Because Janus Investment Fund
+compensated JCM based on the total value of the funds
+and JCM’s management fees comprised a significant
+percentage of JCG’s income, Janus Investment Fund’s loss
+of value affected JCG’s value as well. JCG’s stock price
+fell nearly 25 percent, from $17.68 on September 2 to
+$13.50 on September 26.
+Respondent First Derivative Traders (First Derivative)
+represents a class of plaintiffs who owned JCG stock as of
+September 3, 2003. Its complaint asserts claims against
+JCG and JCM for violations of Rule 10b–5 and §10(b) of
+the Securities Exchange Act of 1934, 48 Stat. 891, as
+amended, 15 U. S. C. §78j(b). First Derivative alleges that
+JCG and JCM “caused mutual fund prospectuses to be
+issued for Janus mutual funds and made them available to
+——————
+mutual fund at the artificially low NAV and sell the next day when the
+NAV corrects itself upward. See Disclosure Regarding Market Timing
+and Selective Disclosure of Portfolio Holdings, 68 Fed. Reg. 70402
+(proposed Dec. 17, 2003).
+2 In 2004, JCG and JCM settled these allegations and agreed to re
+duce their fees by $125 million and pay $50 million in civil penalties
+and $50 million in disgorgement to the mutual fund investors.
+
+

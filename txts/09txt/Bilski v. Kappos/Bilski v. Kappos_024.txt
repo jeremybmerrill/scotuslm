@@ -1,0 +1,43 @@
+4
+
+BILSKI v. KAPPOS
+STEVENS, J., concurring in judgment
+
+method to hedge their risks by agreeing upon a fixed
+series of payments at regular intervals throughout the
+year instead of charging or paying prices that fluctuate in
+response to changing weather conditions. The patent
+application describes a series of steps, including the
+evaluation of historical costs and weather variables and
+the use of economic and statistical formulas, to analyze
+these data and to estimate the likelihood of certain out
+comes. See id., at 12–19.
+The patent examiner rejected petitioners’ application on
+the ground that it “is not directed to the technological
+arts,” insofar as it “is not implemented on a specific appa
+ratus and merely manipulates [an] abstract idea and
+solves a purely mathematical problem without any limita
+tion to a practical application.” App. to Pet. for Cert. 148a.
+The Board of Patent Appeals and Interferences (Board)
+affirmed the examiner’s decision, but it rejected the posi
+tion that a patentable process must relate to “technologi
+cal arts” or be performed on a machine. Id., at 180a–181a.
+Instead, the Board denied petitioners’ patent on two alter
+native, although similar, grounds: first, that the patent
+involves only mental steps that do not transform physical
+subject matter, id., at 181a–184a; and, second, that it is
+directed to an “abstract idea,” id., at 184a–187a.
+Petitioners appealed to the United States Court of Ap
+peals for the Federal Circuit. After briefing and argument
+before a three-judge panel, the court sua sponte decided to
+hear the case en banc and ordered the parties to address:
+(1) whether petitioners’ “claim 1 . . . claims patent-eligible
+subject matter under 35 U. S. C. §101”; (2) “[w]hat stan
+dard should govern in determining whether a process is
+patent-eligible subject matter”; (3) “[w]hether the claimed
+subject matter is not patent-eligible because it constitutes
+an abstract idea or mental process”; (4) “[w]hether a
+method or process must result in a physical transforma
+tion of an article or be tied to a machine to be patent
+
+

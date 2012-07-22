@@ -1,0 +1,47 @@
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+Sept. 11, 2001, 538 F. 3d 71, 83 (CA2 2008). But Congress
+has specifically defined “agency or instrumentality” in the
+FSIA, and all of the textual clues in that definition cut
+against such a broad construction.
+First, the statute specifies that “ ‘agency or instrumen
+tality . . .’ means any entity” matching three specified
+characteristics, §1603(b) (emphasis added), and “entity”
+typically refers to an organization, rather than an individ
+ual. See, e.g., Black’s Law Dictionary 612 (9th ed. 2009).
+Furthermore, several of the required characteristics apply
+awkwardly, if at all, to individuals. The phrase “separate
+legal person, corporate or otherwise,” §1603(b)(1), could
+conceivably refer to a natural person, solely by virtue of
+the word “person.” But the phrase “separate legal person”
+typically refers to the legal fiction that allows an entity to
+hold personhood separate from the natural persons who
+are its shareholders or officers. Cf. First Nat. City Bank v.
+Banco Para el Comercio Exterior de Cuba, 462 U. S. 611,
+625 (1983) (“Separate legal personality has been described
+as ‘an almost indispensable aspect of the public corpora
+tion’ ”). It is similarly awkward to refer to a person as an
+“organ” of the foreign state. See §1603(b)(2). And the
+third part of the definition could not be applied at all to a
+natural person. A natural person cannot be a citizen of a
+State “as defined in section 1332(c) and (e),” §1603(b)(3),
+because those subsections refer to the citizenship of corpo
+rations and estates. Nor can a natural person be “created
+under the laws of any third country.” Ibid.8 Thus, the
+——————
+8 Petitioner
+
+points out that §1603(b)(3) describes only which defen
+dants cannot be agencies or instrumentalities. He suggests that it
+therefore tells us nothing about which defendants can be covered by
+that term. Brief for Petitioner 46. Even if so, reading §1603(b) as
+petitioner suggests would leave us with the odd result that a corpora
+tion that is the citizen of a state is excluded from the definition under
+§1603(b)(3), and thus not immune, whereas a natural person who is the
+citizen of a state is not excluded, and thus retains his immunity.
+
+

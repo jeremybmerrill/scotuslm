@@ -1,0 +1,43 @@
+Cite as: 563 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+that basis.
+We recognized in Basic, however, that limiting proof of
+reliance in such a way “would place an unnecessarily
+unrealistic evidentiary burden on the Rule 10b–5 plaintiff
+who has traded on an impersonal market.” Id., at 245.
+We also observed that “[r]equiring proof of individualized
+reliance from each member of the proposed plaintiff class
+effectively would” prevent such plaintiffs “from proceeding
+with a class action, since individual issues” would “over
+whelm[ ] the common ones.” Id., at 242.
+The Court in Basic sought to alleviate those related
+concerns by permitting plaintiffs to invoke a rebuttable
+presumption of reliance based on what is known as the
+“fraud-on-the-market” theory. According to that theory,
+“the market price of shares traded on well-developed
+markets reflects all publicly available information, and,
+hence, any material misrepresentations.” Id., at 246.
+Because the market “transmits information to the investor
+in the processed form of a market price,” we can assume,
+the Court explained, that an investor relies on public
+misstatements whenever he “buys or sells stock at the
+price set by the market.” Id., at 244, 247 (internal quota
+tion marks omitted); see also Stoneridge, supra, at 159;
+Dura Pharmaceuticals, 544 U. S., at 341–342. The Court
+also made clear that the presumption was just that, and
+could be rebutted by appropriate evidence. See Basic,
+supra, at 248.
+B
+It is undisputed that securities fraud plaintiffs must
+prove certain things in order to invoke Basic’s rebuttable
+presumption of reliance. It is common ground, for exam
+ple, that plaintiffs must demonstrate that the alleged
+misrepresentations were publicly known (else how would
+the market take them into account?), that the stock traded
+in an efficient market, and that the relevant transaction
+
+

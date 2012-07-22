@@ -1,0 +1,508 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+Opinion of KENNEDY, J.
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–1343
+_________________
+
+J. MCINTYRE MACHINERY, LTD., PETITIONER v.
+
+ROBERT NICASTRO, INDIVIDUALLY AND AS 
+
+ADMINISTRATOR OF THE ESTATE OF 
+
+ROSEANNE NICASTRO 
+
+ON WRIT OF CERTIORARI TO THE SUPREME COURT OF NEW 
+
+JERSEY
+
+[June 27, 2011] 
+
+
+JUSTICE KENNEDY announced the judgment of the Court
+and delivered an opinion, in which THE CHIEF JUSTICE,
+JUSTICE SCALIA, and JUSTICE THOMAS join.
+Whether a person or entity is subject to the jurisdiction
+of a state court despite not having been present in the
+State either at the time of suit or at the time of the alleged
+injury, and despite not having consented to the exercise of
+jurisdiction, is a question that arises with great frequency
+in the routine course of litigation. The rules and stan
+dards for determining when a State does or does not have
+jurisdiction over an absent party have been unclear be
+cause of decades-old questions left open in Asahi Metal
+Industry Co. v. Superior Court of Cal., Solano Cty., 480
+U. S. 102 (1987).
+Here, the Supreme Court of New Jersey, relying in part
+on Asahi, held that New Jersey’s courts can exercise juris
+diction over a foreign manufacturer of a product so long as
+the manufacturer “knows or reasonably should know that
+its products are distributed through a nationwide distribu
+
+
+2
+
+J. MCINTYRE MACHINERY, LTD. v. NICASTRO
+Opinion of KENNEDY, J.
+
+tion system that might lead to those products being sold in
+any of the fifty states.” Nicastro v. McIntyre Machinery
+America, Ltd., 201 N. J. 48, 76, 77, 987 A. 2d 575, 591, 592
+(2010). Applying that test, the court concluded that a
+British manufacturer of scrap metal machines was subject
+to jurisdiction in New Jersey, even though at no time had
+it advertised in, sent goods to, or in any relevant sense
+targeted the State.
+That decision cannot be sustained. Although the New
+Jersey Supreme Court issued an extensive opinion with care
+ful attention to this Court’s cases and to its own pre
+cedent, the “stream of commerce” metaphor carried the
+decision far afield. Due process protects the defendant’s
+right not to be coerced except by lawful judicial power. As
+a general rule, the exercise of judicial power is not lawful
+unless the defendant “purposefully avails itself of the
+privilege of conducting activities within the forum State,
+thus invoking the benefits and protections of its laws.”
+Hanson v. Denckla, 357 U. S. 235, 253 (1958). There may
+be exceptions, say, for instance, in cases involving an
+intentional tort. But the general rule is applicable in this
+products-liability case, and the so-called “stream-of
+commerce” doctrine cannot displace it.
+I
+This case arises from a products-liability suit filed in
+New Jersey state court. Robert Nicastro seriously injured
+his hand while using a metal-shearing machine manufac
+tured by J. McIntyre Machinery, Ltd. (J. McIntyre). The
+accident occurred in New Jersey, but the machine was
+manufactured in England, where J. McIntyre is incorpo
+rated and operates. The question here is whether the New
+Jersey courts have jurisdiction over J. McIntyre, notwith
+standing the fact that the company at no time either
+marketed goods in the State or shipped them there. Ni
+castro was a plaintiff in the New Jersey trial court and is
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Opinion of KENNEDY, J.
+
+the respondent here; J. McIntyre was a defendant and is
+now the petitioner.
+At oral argument in this Court, Nicastro’s counsel
+stressed three primary facts in defense of New Jersey’s as
+sertion of jurisdiction over J. McIntyre. See Tr. of Oral
+Arg. 29–30.
+First, an independent company agreed to sell J. McIn
+tyre’s machines in the United States. J. McIntyre itself
+did not sell its machines to buyers in this country beyond
+the U. S. distributor, and there is no allegation that the
+distributor was under J. McIntyre’s control.
+Second, J. McIntyre officials attended annual conven
+tions for the scrap recycling industry to advertise J. McIntyre’s machines alongside the distributor. The conven
+tions took place in various States, but never in New
+Jersey.
+Third, no more than four machines (the record suggests
+only one, see App. to Pet. for Cert. 130a), including the
+machine that caused the injuries that are the basis for this
+suit, ended up in New Jersey.
+In addition to these facts emphasized by respondent, the
+New Jersey Supreme Court noted that J. McIntyre held
+both United States and European patents on its recycling
+technology. 201 N. J., at 55, 987 A. 2d, at 579. It also
+noted that the U. S. distributor “structured [its] adver
+tising and sales efforts in accordance with” J. McIntyre’s
+“direction and guidance whenever possible,” and that “at
+least some of the machines were sold on consignment to”
+the distributor. Id., at 55, 56, 987 A. 2d, at 579 (internal
+quotation marks omitted).
+In light of these facts, the New Jersey Supreme Court
+concluded that New Jersey courts could exercise jurisdic
+tion over petitioner without contravention of the Due
+Process Clause. Jurisdiction was proper, in that court’s
+view, because the injury occurred in New Jersey; because
+petitioner knew or reasonably should have known “that its
+
+
+4
+
+J. MCINTYRE MACHINERY, LTD. v. NICASTRO
+Opinion of KENNEDY, J.
+
+products are distributed through a nationwide distribution
+system that might lead to those products being sold in any
+of the fifty states”; and because petitioner failed to “take
+some reasonable step to prevent the distribution of its prod
+ucts in this State.” Id., at 77, 987 A. 2d, at 592.
+Both the New Jersey Supreme Court’s holding and its
+account of what it called “[t]he stream-of-commerce doc
+trine of jurisdiction,” id., at 80, 987 A. 2d, at 594, were
+incorrect, however. This Court’s Asahi decision may be
+responsible in part for that court’s error regarding the
+stream of commerce, and this case presents an opportunity
+to provide greater clarity.
+II
+The Due Process Clause protects an individual’s right to
+be deprived of life, liberty, or property only by the exercise
+of lawful power. Cf. Giaccio v. Pennsylvania, 382 U. S.
+399, 403 (1966) (The Clause “protect[s] a person against
+having the Government impose burdens upon him except
+in accordance with the valid laws of the land”). This is no
+less true with respect to the power of a sovereign to re
+solve disputes through judicial process than with respect
+to the power of a sovereign to prescribe rules of conduct for
+those within its sphere. See Steel Co. v. Citizens for Bet
+ter Environment, 523 U. S. 83, 94 (1998) (“Jurisdiction is
+power to declare the law”). As a general rule, neither
+statute nor judicial decree may bind strangers to the
+State. Cf. Burnham v. Superior Court of Cal., County of
+Marin, 495 U. S. 604, 608–609 (1990) (opinion of SCALIA,
+J.) (invoking “the phrase coram non judice, ‘before a per
+son not a judge’—meaning, in effect, that the proceeding
+in question was not a judicial proceeding because lawful
+judicial authority was not present, and could therefore not
+yield a judgment”)
+A court may subject a defendant to judgment only when
+the defendant has sufficient contacts with the sovereign
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Opinion of KENNEDY, J.
+
+“such that the maintenance of the suit does not offend
+‘traditional notions of fair play and substantial justice.’ ”
+International Shoe Co. v. Washington, 326 U. S. 310, 316
+(1945) (quoting Milliken v. Meyer, 311 U. S. 457, 463
+(1940)). Freeform notions of fundamental fairness di
+vorced from traditional practice cannot transform a judg
+ment rendered in the absence of authority into law. As a
+general rule, the sovereign’s exercise of power requires
+some act by which the defendant “purposefully avails itself
+of the privilege of conducting activities within the forum
+State, thus invoking the benefits and protections of its
+laws,” Hanson, 357 U. S., at 253, though in some cases, as
+with an intentional tort, the defendant might well fall
+within the State’s authority by reason of his attempt to
+obstruct its laws. In products-liability cases like this one,
+it is the defendant’s purposeful availment that makes
+jurisdiction consistent with “traditional notions of fair play
+and substantial justice.”
+A person may submit to a State’s authority in a number
+of ways. There is, of course, explicit consent. E.g., In
+surance Corp. of Ireland v. Compagnie des Bauxites de
+Guinee, 456 U. S. 694, 703 (1982). Presence within a State
+at the time suit commences through service of process is
+another example. See Burnham, supra. Citizenship or
+domicile—or, by analogy, incorporation or principal place
+of business for corporations—also indicates general sub
+mission to a State’s powers. Goodyear Dunlop Tires Op
+erations, S. A. v. Brown, post, p. __. Each of these exam
+ples reveals circumstances, or a course of conduct, from
+which it is proper to infer an intention to benefit from and
+thus an intention to submit to the laws of the forum State.
+Cf. Burger King Corp. v. Rudzewicz, 471 U. S. 462, 476
+(1985). These examples support exercise of the general
+jurisdiction of the State’s courts and allow the State to
+resolve both matters that originate within the State and
+those based on activities and events elsewhere. Helicop
+
+
+6
+
+J. MCINTYRE MACHINERY, LTD. v. NICASTRO
+Opinion of KENNEDY, J.
+
+teros Nacionales de Colombia, S. A. v. Hall, 466 U. S. 408,
+414, and n. 9 (1984). By contrast, those who live or oper
+ate primarily outside a State have a due process right not
+to be subjected to judgment in its courts as a general
+matter.
+There is also a more limited form of submission to a
+State’s authority for disputes that “arise out of or are con
+nected with the activities within the state.” International
+Shoe Co., supra, at 319. Where a defendant “purposefully
+avails itself of the privilege of conducting activities within
+the forum State, thus invoking the benefits and
+protections of its laws,” Hanson, supra, at 253, it submits
+to the judicial power of an otherwise foreign sovereign to
+the extent that power is exercised in connection with the
+defendant’s activities touching on the State. In other
+words, submission through contact with and activity
+directed at a sovereign may justify specific jurisdiction “in
+a suit arising out of or related to the defendant’s contacts
+with the forum.” Helicopteros, supra, at 414, n. 8; see also
+Goodyear, post, at 2.
+The imprecision arising from Asahi, for the most part,
+results from its statement of the relation between jurisdic
+tion and the “stream of commerce.” The stream of com
+merce, like other metaphors, has its deficiencies as well as
+its utility. It refers to the movement of goods from manu
+facturers through distributors to consumers, yet beyond
+that descriptive purpose its meaning is far from exact.
+This Court has stated that a defendant’s placing goods
+into the stream of commerce “with the expectation that
+they will be purchased by consumers within the forum
+State” may indicate purposeful availment. World-Wide
+Volkswagen Corp. v. Woodson, 444 U. S. 286, 298 (1980)
+(finding that expectation lacking). But that statement
+does not amend the general rule of personal jurisdiction.
+It merely observes that a defendant may in an appropriate
+case be subject to jurisdiction without entering the
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+Opinion of KENNEDY, J.
+
+forum—itself an unexceptional proposition—as where man
+ufacturers or distributors “seek to serve” a given State’s
+market. Id., at 295. The principal inquiry in cases of
+this sort is whether the defendant’s activities manifest
+an intention to submit to the power of a sovereign. In
+other words, the defendant must “purposefully avai[l] it
+self of the privilege of conducting activities within the
+forum State, thus invoking the benefits and protections of
+its laws.” Hanson, supra, at 253; Insurance Corp., supra,
+at 704–705 (“[A]ctions of the defendant may amount to a
+legal submission to the jurisdiction of the court”). Some
+times a defendant does so by sending its goods rather than
+its agents. The defendant’s transmission of goods permits
+the exercise of jurisdiction only where the defendant can
+be said to have targeted the forum; as a general rule, it is
+not enough that the defendant might have predicted that
+its goods will reach the forum State.
+In Asahi, an opinion by Justice Brennan for four Jus
+tices outlined a different approach. It discarded the cen
+tral concept of sovereign authority in favor of considera
+tions of fairness and foreseeability. As that concurrence
+contended, “jurisdiction premised on the placement of a
+product into the stream of commerce [without more] is
+consistent with the Due Process Clause,” for “[a]s long as a
+participant in this process is aware that the final product
+is being marketed in the forum State, the possibility of a
+lawsuit there cannot come as a surprise.” 480 U. S., at
+117 (opinion concurring in part and concurring in judg
+ment). It was the premise of the concurring opinion that
+the defendant’s ability to anticipate suit renders the asser
+tion of jurisdiction fair. In this way, the opinion made
+foreseeability the touchstone of jurisdiction.
+The standard set forth in Justice Brennan’s concurrence
+was rejected in an opinion written by Justice O’Connor;
+but the relevant part of that opinion, too, commanded the
+assent of only four Justices, not a majority of the Court.
+
+
+8
+
+J. MCINTYRE MACHINERY, LTD. v. NICASTRO
+Opinion of KENNEDY, J.
+
+That opinion stated: “The ‘substantial connection’ between
+the defendant and the forum State necessary for a finding
+of minimum contacts must come about by an action of the
+defendant purposefully directed toward the forum State.
+The placement of a product into the stream of commerce,
+without more, is not an act of the defendant purposefully
+directed toward the forum State.” Id., at 112 (emphasis
+deleted; citations omitted).
+Since Asahi was decided, the courts have sought to rec
+oncile the competing opinions. But Justice Brennan’s con
+currence, advocating a rule based on general notions of
+fairness and foreseeability, is inconsistent with the prem
+ises of lawful judicial power. This Court’s precedents
+make clear that it is the defendant’s actions, not his expec
+tations, that empower a State’s courts to subject him to
+judgment.
+The conclusion that jurisdiction is in the first instance
+a question of authority rather than fairness explains, for
+example, why the principal opinion in Burnham “con
+ducted no independent inquiry into the desirability or
+fairness” of the rule that service of process within a State
+suffices to establish jurisdiction over an otherwise foreign
+defendant. 495 U. S., at 621. As that opinion explained,
+“[t]he view developed early that each State had the power
+to hale before its courts any individual who could be found
+within its borders.” Id., at 610. Furthermore, were gen
+eral fairness considerations the touchstone of jurisdiction,
+a lack of purposeful availment might be excused where
+carefully crafted judicial procedures could otherwise pro
+tect the defendant’s interests, or where the plaintiff would
+suffer substantial hardship if forced to litigate in a foreign
+forum. That such considerations have not been deemed
+controlling is instructive. See, e.g., World-Wide Volks
+wagen, supra, at 294.
+Two principles are implicit in the foregoing. First, per
+sonal jurisdiction requires a forum-by-forum, or sovereign
+
+
+Cite as: 564 U. S. ____ (2011)
+
+9
+
+Opinion of KENNEDY, J.
+
+by-sovereign, analysis. The question is whether a de
+fendant has followed a course of conduct directed at the
+society or economy existing within the jurisdiction of a
+given sovereign, so that the sovereign has the power to
+subject the defendant to judgment concerning that con
+duct. Personal jurisdiction, of course, restricts “judicial
+power not as a matter of sovereignty, but as a matter of
+individual liberty,” for due process protects the individ
+ual’s right to be subject only to lawful power. Insurance
+Corp., 456 U. S., at 702. But whether a judicial judgment
+is lawful depends on whether the sovereign has authority
+to render it.
+The second principle is a corollary of the first. Because
+the United States is a distinct sovereign, a defendant may
+in principle be subject to the jurisdiction of the courts of
+the United States but not of any particular State. This is
+consistent with the premises and unique genius of our
+Constitution. Ours is “a legal system unprecedented in
+form and design, establishing two orders of government,
+each with its own direct relationship, its own privity, its
+own set of mutual rights and obligations to the people who
+sustain it and are governed by it.” U. S. Term Limits,
+Inc. v. Thornton, 514 U. S. 779, 838 (1995) (KENNEDY, J.,
+concurring). For jurisdiction, a litigant may have the
+requisite relationship with the United States Government
+but not with the government of any individual State. That
+would be an exceptional case, however. If the defendant is
+a domestic domiciliary, the courts of its home State are
+available and can exercise general jurisdiction. And if
+another State were to assert jurisdiction in an inappropri
+ate case, it would upset the federal balance, which posits
+that each State has a sovereignty that is not subject to
+unlawful intrusion by other States. Furthermore, foreign
+corporations will often target or concentrate on particular
+States, subjecting them to specific jurisdiction in those
+forums.
+
+
+10
+
+J. MCINTYRE MACHINERY, LTD. v. NICASTRO
+Opinion of KENNEDY, J.
+
+It must be remembered, however, that although this
+case and Asahi both involve foreign manufacturers, the
+undesirable consequences of Justice Brennan’s approach
+are no less significant for domestic producers. The owner
+of a small Florida farm might sell crops to a large nearby
+distributor, for example, who might then distribute them
+to grocers across the country. If foreseeability were the
+controlling criterion, the farmer could be sued in Alaska or
+any number of other States’ courts without ever leaving
+town. And the issue of foreseeability may itself be con
+tested so that significant expenses are incurred just on the
+preliminary issue of jurisdiction. Jurisdictional rules
+should avoid these costs whenever possible.
+The conclusion that the authority to subject a defendant
+to judgment depends on purposeful availment, consistent
+with Justice O’Connor’s opinion in Asahi, does not by itself
+resolve many difficult questions of jurisdiction that will
+arise in particular cases. The defendant’s conduct and
+the economic realities of the market the defendant seeks
+to serve will differ across cases, and judicial exposition
+will, in common-law fashion, clarify the contours of that
+principle.
+III
+In this case, petitioner directed marketing and sales
+efforts at the United States. It may be that, assuming it
+were otherwise empowered to legislate on the subject, the
+Congress could authorize the exercise of jurisdiction in
+appropriate courts. That circumstance is not presented in
+this case, however, and it is neither necessary nor appro
+priate to address here any constitutional concerns that
+might be attendant to that exercise of power. See Asahi,
+480 U. S., at 113, n. Nor is it necessary to determine what
+substantive law might apply were Congress to authorize
+jurisdiction in a federal court in New Jersey. See Hanson,
+357 U. S., at 254 (“The issue is personal jurisdiction, not
+
+
+Cite as: 564 U. S. ____ (2011)
+
+11
+
+Opinion of KENNEDY, J.
+
+choice of law”). A sovereign’s legislative authority to
+regulate conduct may present considerations different
+from those presented by its authority to subject a defen
+dant to judgment in its courts. Here the question concerns
+the authority of a New Jersey state court to exercise ju
+risdiction, so it is petitioner’s purposeful contacts with
+New Jersey, not with the United States, that alone are
+relevant.
+Respondent has not established that J. McIntyre en
+gaged in conduct purposefully directed at New Jersey.
+Recall that respondent’s claim of jurisdiction centers on
+three facts: The distributor agreed to sell J. McIntyre’s
+machines in the United States; J. McIntyre officials at
+tended trade shows in several States but not in New Jer
+sey; and up to four machines ended up in New Jersey. The
+British manufacturer had no office in New Jersey; it nei
+ther paid taxes nor owned property there; and it neither
+advertised in, nor sent any employees to, the State. In
+deed, after discovery the trial court found that the “defen
+dant does not have a single contact with New Jersey short
+of the machine in question ending up in this state.” App.
+to Pet. for Cert. 130a. These facts may reveal an intent to
+serve the U. S. market, but they do not show that J. McIn
+tyre purposefully availed itself of the New Jersey market.
+It is notable that the New Jersey Supreme Court ap
+pears to agree, for it could “not find that J. McIntyre had a
+presence or minimum contacts in this State—in any juris
+prudential sense—that would justify a New Jersey court
+to exercise jurisdiction in this case.” 201 N. J., at 61, 987
+A. 2d, at 582. The court nonetheless held that petitioner
+could be sued in New Jersey based on a “stream-of
+commerce theory of jurisdiction.” Ibid. As discussed,
+however, the stream-of-commerce metaphor cannot super
+sede either the mandate of the Due Process Clause or the
+limits on judicial authority that Clause ensures. The New
+Jersey Supreme Court also cited “significant policy rea
+
+
+12
+
+J. MCINTYRE MACHINERY, LTD. v. NICASTRO
+Opinion of KENNEDY, J.
+
+sons” to justify its holding, including the State’s “strong
+interest in protecting its citizens from defective products.”
+Id., at 75, 987 A. 2d, at 590. That interest is doubtless
+strong, but the Constitution commands restraint before
+discarding liberty in the name of expediency.
+*
+*
+*
+Due process protects petitioner’s right to be subject only
+to lawful authority. At no time did petitioner engage in
+any activities in New Jersey that reveal an intent to in
+voke or benefit from the protection of its laws. New Jersey
+is without power to adjudge the rights and liabilities of J.
+McIntyre, and its exercise of jurisdiction would violate due
+process. The contrary judgment of the New Jersey Su
+preme Court is
+Reversed.
+
+

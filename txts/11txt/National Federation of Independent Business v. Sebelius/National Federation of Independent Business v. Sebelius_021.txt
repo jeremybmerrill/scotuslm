@@ -1,0 +1,35 @@
+Cite as: 567 U. S. ____ (2012)
+
+15
+
+Opinion of ROBERTS, C. J.
+
+§§860(h)(1), 6324A(a), 6601(e)(1)–(2), 6602, 7122(b). There
+would, for example, be no need for §6671(a) to deem “tax”
+to refer to certain assessable penalties if the Code already included all such penalties in the term “tax.” Indeed, amicus’s earlier observation that the Code requires
+assessable penalties to be assessed and collected “in the
+same manner as taxes” makes little sense if assessable
+penalties are themselves taxes. In light of the Code’s
+consistent distinction between the terms “tax” and “assessable penalty,” we must accept the Government’s interpretation: §6201(a) instructs the Secretary that his
+authority to assess taxes includes the authority to assess
+penalties, but it does not equate assessable penalties to
+taxes for other purposes.
+The Affordable Care Act does not require that the penalty for failing to comply with the individual mandate be
+treated as a tax for purposes of the Anti-Injunction Act.
+The Anti-Injunction Act therefore does not apply to this
+suit, and we may proceed to the merits.
+III
+The Government advances two theories for the proposition that Congress had constitutional authority to enact
+the individual mandate. First, the Government argues
+that Congress had the power to enact the mandate under
+the Commerce Clause. Under that theory, Congress may
+order individuals to buy health insurance because the
+failure to do so affects interstate commerce, and could undercut the Affordable Care Act’s other reforms. Second,
+the Government argues that if the commerce power does
+not support the mandate, we should nonetheless uphold it
+as an exercise of Congress’s power to tax. According to the
+Government, even if Congress lacks the power to direct
+individuals to buy insurance, the only effect of the individual mandate is to raise taxes on those who do not do so,
+and thus the law may be upheld as a tax.
+
+

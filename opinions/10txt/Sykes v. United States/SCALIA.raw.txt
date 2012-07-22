@@ -1,0 +1,368 @@
+Cite as: 564 U. S. ____ (2011)
+
+1
+
+SCALIA, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 09–11311
+_________________
+
+MARCUS SYKES, PETITIONER v. UNITED STATES
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF 
+
+APPEALS FOR THE SEVENTH CIRCUIT
+
+[June 9, 2011]
+
+
+JUSTICE SCALIA, dissenting.
+As the Court's opinion acknowledges, this case is “an
+other in a series,” ante, at 1. More specifically, it is an at
+tempt to clarify, for the fourth time since 2007, what
+distinguishes “violent felonies” under the residual clause
+of the Armed Career Criminal Act (ACCA), 18 U. S. C.
+§924(e)(2)(B)(ii), from other crimes. See James v. United
+States, 550 U. S. 192 (2007); Begay v. United States, 553
+U. S. 137 (2008); Chambers v. United States, 555 U. S. 122
+(2009). We try to include an ACCA residual-clause case in
+about every second or third volume of the United States
+Reports.
+As was perhaps predictable, instead of producing a clar
+ification of the Delphic residual clause, today’s opinion
+produces a fourth ad hoc judgment that will sow further
+confusion. Insanity, it has been said, is doing the same
+thing over and over again, but expecting different results.
+Four times is enough. We should admit that ACCA’s
+residual provision is a drafting failure and declare it void
+for vagueness. See Kolender v. Lawson, 461 U. S. 352, 357
+(1983).
+I
+ACCA defines “violent felony,” in relevant part, as “any
+crime punishable by imprisonment for a term exceeding
+one year . . . that . . . is burglary, arson, or extortion, in
+
+
+2
+
+SYKES v. UNITED STATES
+SCALIA, J., dissenting
+
+volves use of explosives, or otherwise involves conduct
+that presents a serious potential risk of physical injury to
+another.” 18 U. S. C. §924(e)(2)(B)(ii). Many years of
+prison hinge on whether a crime falls within this defini
+tion. A felon convicted of possessing a firearm who has
+three prior violent-felony convictions faces a 15-year man
+datory minimum sentence and the possibility of life im
+prisonment. See §924(e)(1); see United States v. Harrison,
+558 F. 3d 1280, 1282, n. 1 (CA11 2009). Without those
+prior convictions, he would face a much lesser sentence,
+which could not possibly exceed 10 years. See §924(a)(2).
+Vehicular flight is a violent felony only if it falls within
+ACCA’s residual clause; that is, if it “involves conduct
+that presents a serious potential risk of physical injury to
+another.” §924(e)(2)(B)(ii). Today’s opinion says, or ini
+tially seems to say, that an offense qualifies as a violent
+felony if its elements, in the typical case, create a degree
+of risk “ ‘comparable to that posed by its closest analog
+among the enumerated offenses.’ ” Ante, at 6. That is a
+quotation from the Court’s opinion in the first of our
+residual-clause trilogy, James, 550 U. S., at 203. I did not
+join that opinion because I thought it should suffice if the
+elements created a degree of risk comparable to the least
+risky of the enumerated offenses, whether or not it was
+the closest analog. See id., at 230 (SCALIA, J., dissenting).
+The problem with applying the James standard to the pres
+ent case is that the elements of vehicular flight under
+Indiana law are not analogous to any of the four enumer
+ated offenses. See Ind. Code §35–44–3–3 (2004). Nor is it
+apparent which of the enumerated offenses most closely
+resembles, for example, statutory rape, see United States
+v. Daye, 571 F. 3d 225, 228–236 (CA2 2009); possession of
+a sawed-off shotgun, see United States v. Upton, 512 F. 3d
+394, 403–405 (CA7 2008); or a failure to report to prison,
+see Chambers, supra. I predicted this inadequacy of the
+“closest analog” test in my James dissent. See 550 U. S.,
+
+
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+SCALIA, J., dissenting
+
+at 215.
+But as it turns out, the Court’s inability to identify an
+analog makes no difference to the outcome of the present
+case. For today’s opinion introduces the James standard
+with the words “[f]or instance,” ante, at 6. It is (according
+to the Court) merely one example of how the enumerated
+crimes (burglary, arson, extortion, and crimes using explo
+sives) “provide guidance.” Ibid. And the opinion then
+proceeds to obtain guidance from the risky-as-the-least
+risky test that I suggested (but the Court rejected) in
+James—finding vehicular flight at least as risky as both
+arson and burglary. See ante, at 6–9.
+But what about the test that determined the outcome in
+our second case in this “series”—the “purposeful, violent,
+and aggressive” test of Begay? Fear not. That incompati
+ble variation has been neither overlooked nor renounced in
+today’s tutti-frutti opinion. “In many cases,” we are told,
+it “will be redundant with the inquiry into risk.” Ante, at
+11. That seems to be the case here—though why, and
+when it will not be the case, are not entirely clear. The
+Court’s accusation that Sykes “overreads the opinions of
+this Court,” ante, at 10, apparently applies to his interpre
+tation of Begay’s “purposeful, violent, and aggressive” test,
+which the Court now suggests applies only “to strict liabil
+ity, negligence, and recklessness crimes,” ante, at 11. But
+that makes no sense. If the test excluded only those unin
+tentional crimes, it would be recast as the “purposeful”
+test, since the last two adjectives (“violent, and aggres
+sive”) would do no work. For that reason, perhaps, all 11
+Circuits that have addressed Begay “overrea[d]” it just as
+Sykes does*—and as does the Government, see Brief for
+——————
+* See United States v. Holloway, 630 F. 3d 252, 260 (CA1 2011);
+United States v. Brown, 629 F. 3d 290, 295–296 (CA2 2011) (per cu
+riam); United States v. Lee, 612 F. 3d 170, 196 (CA3 2010); United
+States v. Jenkins, 631 F. 3d 680, 683 (CA4 2011); United States v.
+Harrimon, 568 F. 3d 531, 534 (CA5 2009); United States v. Young, 580
+
+
+4
+
+SYKES v. UNITED STATES
+SCALIA, J., dissenting
+
+United States 8.
+The only case that is not brought forward in today’s
+opinion to represent yet another test is the third and most
+recent in the trilogy, Chambers, 555 U. S. 122—which
+applied both the risky-as-the-least-risky test and the “pur
+poseful, violent, and aggressive” test to reach the con
+clusion that failure to report for periodic incarceration
+was not a crime of violence under ACCA. But today’s
+opinion does cite Chambers for another point: Whereas
+James rejected the risky-as-the-least-risky approach be
+cause, among other reasons, no “hard statistics” on risk
+iness “have been called to our attention,” 550 U. S., at
+210; and whereas Begay made no mention of statistics;
+Chambers explained (as today’s opinion points out) that
+“statistical evidence sometimes ‘helps provide a conclusive
+. . . answer’ concerning the risks that crimes present,”
+ante, at 8 (quoting Chambers, supra, at 129). Today’s
+opinion then outdoes Chambers in the volume of statistics
+that it spews forth—statistics compiled by the Interna
+tional Association of Chiefs of Police concerning injuries
+attributable to police pursuits, ante, at 8; statistics from
+the Department of Justice concerning injuries attributable
+to burglaries, ante, at 9; statistics from the U. S. Fire
+Administration concerning injuries attributable to fires,
+ibid., and (by reference to JUSTICE THOMAS’s concurrence)
+statistics from the National Center for Statistics & Analy
+sis, the Pennsylvania State Police Bureau of Research, the
+FBI Law Enforcement Bulletin and several articles pub
+lished elsewhere concerning injuries attributable to police
+pursuits, ante, at 8 (citing ante, at 4–5 (THOMAS, J., con
+curring in judgment)).
+——————
+F. 3d 373, 377 (CA6 2009); United States v. Sonnenberg, 628 F. 3d 361,
+364 (CA7 2010); United States v. Boyce, 633 F. 3d 708, 711 (CA8 2011);
+United States v. Terrell, 593 F. 3d 1084, 1089–1091 (CA9 2010); United
+States v. Ford, 613 F. 3d 1263, 1272–1273 (CA10 2010); United States v.
+Harrison, 558 F. 3d 1280, 1295–1296 (CA11 2009).
+
+
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+SCALIA, J., dissenting
+
+Supreme Court briefs are an inappropriate place to
+develop the key facts in a case. We normally give parties
+more robust protection, leaving important factual ques
+tions to district courts and juries aided by expert wit
+nesses and the procedural protections of discovery. See
+Fed. Rule Crim. Proc. 16(a)(1)(F), (G); Fed. Rules Evid.
+702–703, 705. An adversarial process in the trial courts
+can identify flaws in the methodology of the studies that
+the parties put forward; here, we accept the studies’ find
+ings on faith, without examining their methodology at all.
+The Court does not examine, for example, whether the
+police-pursuit data on which it relies is a representative
+sample of all vehicular flights. The data may be skewed
+towards the rare and riskier forms of flight. See post, at 6,
+n. 4 (KAGAN, J., dissenting). We also have no way of
+knowing how many injuries reported in that data would
+have occurred even absent pursuit, by a driver who was
+driving recklessly even before the police gave chase.
+Similar questions undermine confidence in the burglary
+and arson data the Court cites. For example, the Court
+relies on a U. S. Fire Administration dataset to conclude
+that 3.3 injuries occur per 100 arsons. See ante, at 9. But
+a 2001 report from the same U. S. Fire Administration
+suggests that roughly 1 injury occurs per 100 arsons. See
+Arson in the United States, Vol. 1 Topical Fire Research
+Series, No. 8, pp. 1–2 (rev. Dec. 2001), online at
+http://www.usfa.dhs.gov/downloads/pdf/tfrs/v1i8-508.pdf
+(as visited May 27, 2011, and available in Clerk of Court’s
+case file). The Court does not reveal why it chose one
+dataset over another. In sum, our statistical analysis in
+ACCA cases is untested judicial factfinding masquerading
+as statutory interpretation. Most of the statistics on
+which the Court relies today come from government
+funded studies, and did not make an appearance in this
+litigation until the Government’s merits brief to this
+Court. See Brief for Petitioner 17; see also Chambers,
+
+
+6
+
+SYKES v. UNITED STATES
+SCALIA, J., dissenting
+
+supra, at 128–129 (demonstrating that the same was true
+in that case).
+But the more fundamental problem with the Court’s use
+of statistics is that, far from eliminating the vagueness
+of the residual clause, it increases the vagueness. Vague
+ness, of course, must be measured ex ante—before the
+Court gives definitive meaning to a statutory provision,
+not after. Nothing is vague once the Court decrees pre
+cisely what it means. And is it seriously to be expected
+that the average citizen would be familiar with the sundry
+statistical studies showing (if they are to be believed) that
+this-or-that crime is more likely to lead to physical injury
+than what sundry statistical studies (if they are to be
+believed) show to be the case for burglary, arson, extor
+tion, or use of explosives? To ask the question is to answer
+it. A few words, then, about unconstitutional vagueness.
+II
+When I dissented from the Court’s judgment in James, I
+said that the residual clause’s “shoddy draftsmanship” put
+courts to a difficult choice:
+“They can (1) apply the ACCA enhancement to virtu
+ally all predicate offenses, . . . ; (2) apply it case by
+case in its pristine abstraction, finding it applicable
+whenever the particular sentencing judge (or the par
+ticular reviewing panel) believes there is a ‘serious po
+tential risk of physical injury to another’ (whatever
+that means); (3) try to figure out a coherent way of in
+terpreting the statute so that it applies in a relatively
+predictable and administrable fashion to a smaller
+subset of crimes; or (4) recognize the statute for the
+drafting failure it is and hold it void for vagueness
+. . . .” 550 U. S., at 229–230.
+My dissent “tried to implement,” id., at 230, the third
+option; and the Court, I believed, had chosen the second.
+
+
+Cite as: 564 U. S. ____ (2011)
+
+7
+
+SCALIA, J., dissenting
+
+“Today’s opinion,” I wrote, “permits an unintelligible crim
+inal statute to survive uncorrected, unguided, and unex
+plained.” Id., at 230–231.
+My assessment has not been changed by the Court’s
+later decisions in the ACCA “series.” Today’s opinion,
+which adds to the “closest analog” test (James) the “pur
+poseful, violent, and aggressive” test (Begay), and even the
+risky-as-the-least-risky test that I had proposed as the
+exclusive criterion, has not made the statute’s applica
+tion clear and predictable. And all of them together—or
+even the risky-as-the-least-risky test alone, I am now
+convinced—never will. The residual-clause series will be
+endless, and we will be doing ad hoc application of ACCA
+to the vast variety of state criminal offenses until the cows
+come home.
+That does not violate the Constitution. What does vio
+late the Constitution is approving the enforcement of a
+sentencing statute that does not “give a person of ordinar
+ily intelligence fair notice” of its reach, United States v.
+Batchelder, 442 U. S. 114, 123 (1979) (internal quotation
+marks omitted), and that permits, indeed invites, arbi
+trary enforcement, see Kolender, 461 U. S., at 357. The
+Court’s ever-evolving interpretation of the residual clause
+will keep defendants and judges guessing for years to
+come. The reality is that the phrase “otherwise involves
+conduct that presents a serious potential risk of physical
+injury to another” does not clearly define the crimes that
+will subject defendants to the greatly increased ACCA
+penalties. It is not the job of this Court to impose a clarity
+which the text itself does not honestly contain. And even
+if that were our job, the further reality is that we have by
+now demonstrated our inability to accomplish the task.
+We have, I recognize, upheld hopelessly vague criminal
+statutes in the past—indeed, in the recent past. See, e.g.,
+Skilling v. United States, 561 U. S. ___ (2010). That is
+regrettable, see id., at ___ (SCALIA, J., concurring in part
+
+
+8
+
+SYKES v. UNITED STATES
+SCALIA, J., dissenting
+
+and concurring in judgment) (slip op., at 1). What sets
+ACCA apart from those statutes—and what confirms its
+incurable vagueness—is our repeated inability to craft a
+principled test out of the statutory text. We have demonstrated by our opinions that the clause is too vague to
+yield “an intelligible principle,” ante, at 13, each attempt
+to ignore that reality producing a new regime that is less
+predictable and more arbitrary than the last. ACCA’s
+residual clause fails to speak with the clarity that criminal
+proscriptions require. See United States v. L. Cohen Grocery Co., 255 U. S. 81, 89–90 (1921).
+The Court believes that the residual clause cannot be
+unconstitutionally vague because other criminal prohibitions also refer to the degree of risk posed by a defendant’s
+conduct. See ante, at 14. Even apart from the fact that
+our opinions dealing with those statutes have not displayed the confusion evident in our four ACCA efforts,
+this is not the first time I have found the comparison
+unpersuasive:
+“None of the provisions the Court cites . . . is similar
+in the crucial relevant respect: None prefaces its judicially-to-be-determined requirement of risk of physical
+injury with the word ‘otherwise,’ preceded by four confusing examples that have little in common with respect to the supposedly defining characteristic. The
+phrase ‘shades of red,’ standing alone, does not generate confusion or unpredictability; but the phrase ‘fireengine red, light pink, maroon, navy blue, or colors
+that otherwise involve shades of red’ assuredly does
+so.” James, 550 U. S., at 230, n. 7.
+Of course even if the cited statutes were comparable,
+repetition of constitutional error does not produce constitutional truth.
+
+
+Cite as: 564 U. S. ____ (2011) 
+
+
+9
+
+SCALIA, J., dissenting 
+
+
+*
+*
+* 
+
+We face a Congress that puts forth an ever-increasing
+volume of laws in general, and of criminal laws in particu
+lar. It should be no surprise that as the volume increases,
+so do the number of imprecise laws. And no surprise that
+our indulgence of imprecisions that violate the Consti
+tution encourages imprecisions that violate the Constitu
+tion. Fuzzy, leave-the-details-to-be-sorted-out-by-the-courts
+legislation is attractive to the Congressman who wants
+credit for addressing a national problem but does not have
+the time (or perhaps the votes) to grapple with the nitty
+gritty. In the field of criminal law, at least, it is time to
+call a halt. I do not think it would be a radical step—
+indeed, I think it would be highly responsible—to limit
+ACCA to the named violent crimes. Congress can quickly
+add what it wishes. Because the majority prefers to let
+vagueness reign, I respectfully dissent.
+
+

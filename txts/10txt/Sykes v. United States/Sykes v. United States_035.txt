@@ -1,0 +1,44 @@
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+SCALIA, J., dissenting
+
+Supreme Court briefs are an inappropriate place to
+develop the key facts in a case. We normally give parties
+more robust protection, leaving important factual ques
+tions to district courts and juries aided by expert wit
+nesses and the procedural protections of discovery. See
+Fed. Rule Crim. Proc. 16(a)(1)(F), (G); Fed. Rules Evid.
+702–703, 705. An adversarial process in the trial courts
+can identify flaws in the methodology of the studies that
+the parties put forward; here, we accept the studies’ find
+ings on faith, without examining their methodology at all.
+The Court does not examine, for example, whether the
+police-pursuit data on which it relies is a representative
+sample of all vehicular flights. The data may be skewed
+towards the rare and riskier forms of flight. See post, at 6,
+n. 4 (KAGAN, J., dissenting). We also have no way of
+knowing how many injuries reported in that data would
+have occurred even absent pursuit, by a driver who was
+driving recklessly even before the police gave chase.
+Similar questions undermine confidence in the burglary
+and arson data the Court cites. For example, the Court
+relies on a U. S. Fire Administration dataset to conclude
+that 3.3 injuries occur per 100 arsons. See ante, at 9. But
+a 2001 report from the same U. S. Fire Administration
+suggests that roughly 1 injury occurs per 100 arsons. See
+Arson in the United States, Vol. 1 Topical Fire Research
+Series, No. 8, pp. 1–2 (rev. Dec. 2001), online at
+http://www.usfa.dhs.gov/downloads/pdf/tfrs/v1i8-508.pdf
+(as visited May 27, 2011, and available in Clerk of Court’s
+case file). The Court does not reveal why it chose one
+dataset over another. In sum, our statistical analysis in
+ACCA cases is untested judicial factfinding masquerading
+as statutory interpretation. Most of the statistics on
+which the Court relies today come from government
+funded studies, and did not make an appearance in this
+litigation until the Government’s merits brief to this
+Court. See Brief for Petitioner 17; see also Chambers,
+
+

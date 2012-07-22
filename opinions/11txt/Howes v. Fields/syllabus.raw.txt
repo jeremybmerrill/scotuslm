@@ -1,0 +1,106 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+HOWES, WARDEN v. FIELDS
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SIXTH CIRCUIT
+No. 10–680.
+
+Argued October 4, 2011—Decided February 21, 2012
+
+Respondent Fields, a Michigan state prisoner, was escorted from his
+prison cell by a corrections officer to a conference room where he was
+questioned by two sheriff’s deputies about criminal activity he had allegedly engaged in before coming to prison. At no time was Fields
+given Miranda warnings or advised that he did not have to speak
+with the deputies. As relevant here: Fields was questioned for between five and seven hours; Fields was told more than once that he
+was free to leave and return to his cell; the deputies were armed, but
+Fields remained free of restraints; the conference room door was
+sometimes open and sometimes shut; several times during the interview Fields stated that he no longer wanted to talk to the deputies,
+but he did not ask to go back to his cell; after Fields confessed and
+the interview concluded, he had to wait an additional 20 minutes for
+an escort and returned to his cell well after the hour when he generally retired.
+The trial court denied Fields’ motion to suppress his confession
+under Miranda v. Arizona, 384 U. S. 436, and he was convicted. The
+Michigan Court of Appeals affirmed, rejecting Fields’ contention that
+his statements should have been suppressed because he was subjected to custodial interrogation without a Miranda warning. The United States District Court for the Eastern District of Michigan subsequently granted Fields habeas relief under 28 U. S. C. §2254(d)(1).
+Affirming, the Sixth Circuit held that the interview was a custodial
+interrogation within the meaning of Miranda, reasoning that Mathis
+v. United States, 391 U. S. 1, “clearly established,” §2254(d)(1), that
+isolation from the general prison population, combined with questioning about conduct occurring outside the prison, makes any such interrogation custodial per se.
+
+
+2
+
+HOWES v. FIELDS
+Syllabus
+
+Held:
+1. This Court’s precedents do not clearly establish the categorical
+rule on which the Sixth Circuit relied. The Court has repeatedly declined to adopt any such rule. See, e.g., Illinois v. Perkins, 496 U. S.
+292. The Sixth Circuit misread Mathis, which simply held, as relevant here, that a prisoner who otherwise meets the requirements for
+Miranda custody is not taken outside the scope of Miranda because
+he was incarcerated for an unconnected offense. It did not hold that
+imprisonment alone constitutes Miranda custody. Nor does the
+statement in Maryland v. Shatzer, 559 U. S. ___, ___, that “[n]o one
+questions that [inmate] Shatzer was in custody for Miranda purposes” support a per se rule. It means only that the issue of custody was
+not contested in that case. Finally, contrary to respondent’s suggestion, Miranda itself did not hold that the inherently compelling pressures of custodial interrogation are always present when a prisoner is
+taken aside and questioned about events outside the prison walls.
+Pp. 4–7.
+2. The Sixth Circuit’s categorical rule—that imprisonment, questioning in private, and questioning about events in the outside world
+create a custodial situation for Miranda purposes—is simply wrong.
+Pp. 8–13.
+(a) The initial step in determining whether a person is in Miranda custody is to ascertain, given “all of the circumstances surrounding the interrogation,” how a suspect would have gauged his freedom
+of movement. Stansbury v. California, 511 U. S. 318, 322, 325. However, not all restraints on freedom of movement amount to Miranda
+custody. See, e.g., Berkemer v. McCarty, 468 U. S. 420, 423. Shatzer,
+distinguishing between restraints on freedom of movement and Miranda custody, held that a break in Miranda custody between a suspect’s invocation of the right to counsel and the initiation of subsequent questioning may occur while a suspect is serving an
+uninterrupted term of imprisonment. If a break in custody can occur,
+it must follow that imprisonment alone is not enough to create a custodial situation within the meaning of Miranda. At least three strong
+grounds support this conclusion: Questioning a person who is already
+in prison does not generally involve the shock that very often accompanies arrest; a prisoner is unlikely to be lured into speaking by a
+longing for prompt release; and a prisoner knows that his questioners
+probably lack authority to affect the duration of his sentence. Thus,
+service of a prison term, without more, is not enough to constitute
+Miranda custody. Pp. 8–12.
+(b) The other two elements in the Sixth Circuit’s rule are likewise insufficient. Taking a prisoner aside for questioning may necessitate some additional limitations on the prisoner’s freedom of move-
+
+
+Cite as: 565 U. S. ____ (2012)
+
+3
+
+Syllabus
+ment, but it does not necessarily convert a noncustodial situation into
+Miranda custody. Isolation may contribute to a coercive atmosphere
+when a nonprisoner is questioned, but questioning a prisoner in private does not generally remove him from a supportive atmosphere
+and may be in his best interest. Neither does questioning a prisoner
+about criminal activity outside the prison have a significantly greater
+potential for coercion than questioning under otherwise identical circumstances about criminal activity within the prison walls. The coercive pressure that Miranda guards against is neither mitigated nor
+magnified by the location of the conduct about which questions are
+asked. Pp. 12–13.
+3. When a prisoner is questioned, the determination of custody
+should focus on all of the features of the interrogation. The record in
+this case reveals that respondent was not taken into custody for Miranda purposes. While some of the facts lend support to his argument that Miranda’s custody requirement was met, they are offset by
+others. Most important, he was told at the outset of the interrogation, and reminded thereafter, that he was free to leave and could go
+back to his cell whenever he wanted. Moreover, he was not physically restrained or threatened, was interviewed in a well-lit, averagesized conference room where the door was sometimes left open, and
+was offered food and water. These facts are consistent with an environment in which a reasonable person would have felt free to terminate the interview and leave, subject to the ordinary restraints of life
+behind bars. Pp. 13–16.
+617 F. 3d 813, reversed.
+ALITO, J., delivered the opinion of the Court, in which ROBERTS, C. J.,
+and SCALIA, KENNEDY, THOMAS, and KAGAN, JJ., joined. GINSBURG, J.,
+filed an opinion concurring in part and dissenting in part, in which
+BREYER and SOTOMAYOR, JJ., joined.
+
+

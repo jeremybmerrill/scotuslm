@@ -1,0 +1,39 @@
+Cite as: 567 U. S. ____ (2012)
+
+13
+
+KAGAN, J., dissenting
+
+that manner, Lambatos became just like the surrogate
+witness in Bullcoming—a person knowing nothing about
+“the particular test and testing process,” but vouching for
+them regardless. 564 U. S., at ___ (slip op., at 12). We
+have held that the Confrontation Clause requires something more.
+The plurality also argues that Lambatos’s characterization of the Cellmark report did not violate the Confrontation Clause because the case “involve[d] a bench trial.”
+Ante, at 19 (emphasis deleted). I welcome the plurality’s
+concession that the Clause might forbid presenting Lambatos’s statement to a jury, see ante, at 18–19; it indicates
+that the plurality realizes that her testimony went beyond
+an “assumption.” But the presence of a judge does not
+transform the constitutional question. In applying the
+Confrontation Clause, we have never before considered
+relevant the decisionmaker’s identity. See, e.g., Davis v.
+——————
+ern, streamlined way of answering hypothetical questions and therefore
+raises no constitutional issue, see ante, at 2, 13–15; similarly, the
+plurality contends that the difference between what Lambatos said and
+what I would allow involves only “slightly revis[ing]” her testimony and
+so can be of no consequence, see ante, at 18, n. 3. But the statement “if
+X is true, then Y follows” differs materially—and constitutionally—
+from the statement “Y is true because X is true (according to Z).” The
+former statement is merely a logical proposition, whose validity the
+defendant can contest by questioning the speaker. And then, assuming the prosecutor tries to prove the statement’s premise through some
+other witness, the defendant can rebut that effort through crossexamination. By contrast, the latter statement as well contains a
+factual allegation (that X is true), which the defendant can only effectively challenge by confronting the person who made it (Z). That is why
+recognizing the difference between these two forms of testimony is not
+to insist on an archaism or a formality, but to ensure, in line with the
+Constitution, that defendants have the ability to confront their accusers. And if prosecutors can easily conform their conduct to that constitutional directive, as the plurality suggests, so much the better: I would
+not have thought it a ground of complaint that the Confrontation
+Clause, properly understood, manages to protect defendants without
+overly burdening the State.
+
+

@@ -1,0 +1,46 @@
+Cite as: 563 U. S. ____ (2011)
+
+17
+
+Opinion of the Court
+
+allow state courts to force such a decision.8
+The Concepcions contend that because parties may and
+sometimes do agree to aggregation, class procedures are
+not necessarily incompatible with arbitration. But the
+same could be said about procedures that the Concepcions
+admit States may not superimpose on arbitration: Parties
+could agree to arbitrate pursuant to the Federal Rules of
+Civil Procedure, or pursuant to a discovery process rival
+ing that in litigation. Arbitration is a matter of contract,
+and the FAA requires courts to honor parties’ expecta
+tions. Rent-A-Center, West, 561 U. S., at ___ (slip op., at
+3). But what the parties in the aforementioned examples
+would have agreed to is not arbitration as envisioned by
+the FAA, lacks its benefits, and therefore may not be
+required by state law.
+The dissent claims that class proceedings are necessary
+to prosecute small-dollar claims that might otherwise slip
+through the legal system. See post, at 9. But States can
+not require a procedure that is inconsistent with the FAA,
+even if it is desirable for unrelated reasons. Moreover, the
+claim here was most unlikely to go unresolved. As noted
+earlier, the arbitration agreement provides that AT&T
+will pay claimants a minimum of $7,500 and twice their
+attorney’s fees if they obtain an arbitration award greater
+than AT&T’s last settlement offer. The District Court
+——————
+8 The dissent cites three large arbitration awards (none of which
+stems from classwide arbitration) as evidence that parties are willing to
+submit large claims before an arbitrator. Post, at 7–8. Those examples
+might be in point if it could be established that the size of the arbitral
+dispute was predictable when the arbitration agreement was entered.
+Otherwise, all the cases prove is that arbitrators can give huge
+awards—which we have never doubted. The point is that in class
+action arbitration huge awards (with limited judicial review) will be
+entirely predictable, thus rendering arbitration unattractive. It is not
+reasonably deniable that requiring consumer disputes to be arbitrated
+on a classwide basis will have a substantial deterrent effect on incen
+tives to arbitrate.
+
+

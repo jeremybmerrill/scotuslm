@@ -1,0 +1,53 @@
+OCTOBER TERM, 2010
+
+(Slip Opinion)
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+BULLCOMING v. NEW MEXICO
+CERTIORARI TO THE SUPREME COURT OF NEW MEXICO
+No. 09–10876.
+
+Argued March 2, 2011—Decided June 23, 2011
+
+The Sixth Amendment’s Confrontation Clause gives the accused “[i]n
+all criminal prosecutions, . . . the right . . . to be confronted with the
+witnesses against him.” In Crawford v. Washington, 541 U. S. 36, 59,
+this Court held that the Clause permits admission of “[t]estimonial
+statements of witnesses absent from trial . . . only where the decla
+rant is unavailable, and only where the defendant has had a prior
+opportunity to cross-examine.” Later, in Melendez-Diaz v. Massachu
+setts, 557 U. S. ___, the Court declined to create a “forensic evidence”
+exception to Crawford, holding that a forensic laboratory report, cre
+ated specifically to serve as evidence in a criminal proceeding, ranked
+as “testimonial” for Confrontation Clause purposes. Absent stipula
+tion, the Court ruled, the prosecution may not introduce such a re
+port without offering a live witness competent to testify to the truth
+of the report’s statements. 557 U. S., at ___.
+Petitioner Bullcoming’s jury trial on charges of driving while in
+toxicated (DWI) occurred after Crawford, but before Melendez-Diaz.
+Principal evidence against him was a forensic laboratory report certi
+fying that his blood-alcohol concentration was well above the thresh
+old for aggravated DWI. Bullcoming’s blood sample had been tested
+at the New Mexico Department of Health, Scientific Laboratory Divi
+sion (SLD), by a forensic analyst named Caylor, who completed,
+signed, and certified the report. However, the prosecution neither
+called Caylor to testify nor asserted he was unavailable; the record
+showed only that Caylor was placed on unpaid leave for an undis
+closed reason. In lieu of Caylor, the State called another analyst,
+Razatos, to validate the report. Razatos was familiar with the testing
+device used to analyze Bullcoming’s blood and with the laboratory’s
+testing procedures, but had neither participated in nor observed the
+test on Bullcoming’s blood sample. Bullcoming’s counsel objected, as
+
+

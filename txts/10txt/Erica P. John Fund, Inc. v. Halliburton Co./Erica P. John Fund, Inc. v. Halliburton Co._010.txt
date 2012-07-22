@@ -1,0 +1,44 @@
+Cite as: 563 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+the transaction. See Dura Pharmaceuticals, supra, at
+342. Under Basic’s fraud-on-the-market doctrine, an in
+vestor presumptively relies on a defendant’s misrepre
+sentation if that “information is reflected in [the] market
+price” of the stock at the time of the relevant transaction.
+See Basic, 485 U. S., at 247.
+Loss causation, by contrast, requires a plaintiff to show
+that a misrepresentation that affected the integrity of the
+market price also caused a subsequent economic loss. As
+we made clear in Dura Pharmaceuticals, the fact that a
+stock’s “price on the date of purchase was inflated because
+of [a] misrepresentation” does not necessarily mean that
+the misstatement is the cause of a later decline in value.
+544 U. S., at 342 (emphasis deleted; internal quotation
+marks omitted). We observed that the drop could instead
+be the result of other intervening causes, such as “changed
+economic circumstances, changed investor expectations,
+new industry-specific or firm-specific facts, conditions, or
+other events.” Id., at 342–343. If one of those factors were
+responsible for the loss or part of it, a plaintiff would not
+be able to prove loss causation to that extent. This is true
+even if the investor purchased the stock at a distorted
+price, and thereby presumptively relied on the misrepre
+sentation reflected in that price.
+According to the Court of Appeals, however, an inability
+to prove loss causation would prevent a plaintiff from
+invoking the rebuttable presumption of reliance. Such a
+rule contravenes Basic’s fundamental premise—that an
+investor presumptively relies on a misrepresentation so
+long as it was reflected in the market price at the time of
+his transaction. The fact that a subsequent loss may have
+been caused by factors other than the revelation of a mis
+representation has nothing to do with whether an investor
+relied on the misrepresentation in the first place, either
+directly or presumptively through the fraud-on-the-market
+theory. Loss causation has no logical connection to the
+
+

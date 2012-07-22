@@ -1,0 +1,34 @@
+2
+
+FREEMAN v. QUICKEN LOANS, INC.
+Syllabus
+transactions could be collapsed into one. Their reading—that a
+settlement-service provider can “make” a charge and then “accept” the
+portion of the charge consisting of 100 percent—does not avoid collapsing the sequential relationship of the two stages and would destroy the tandem character of activities that the text envisions at
+stage two (i.e., a giving and accepting). And if the consumer were the
+person who “give[s]” a “portion, split, or percentage” of the charge to
+the provider who “accepts” it, consumers would become lawbreakers
+themselves. Pp. 3–8.
+(2) The normal usage of the terms “portion,” “split,” and “percentage”—which, when referring to a portion or percentage of a
+whole, usually mean less than 100 percent—reinforces the conclusion
+that §2607(b) does not apply where a settlement-service provider retains the entirety of a fee received from a consumer. The meaning is
+also confirmed by the “commonsense canon of noscitur a sociis, which
+counsels that a word is given more precise content by the neighboring
+words with which it is associated.” United States v. Williams, 553
+U. S. 285, 294. This connation is not undermined by the canon
+against surplusage. “Portion,” “split,” and “percentage” may all mean
+the same thing, but the canon merely favors that interpretation
+which avoids surplusage, see Microsoft Corp. v. i4i Ltd. Partnership,
+564 U. S. ___, ___, and petitioners’ interpretation no more achieves
+that end than the Court’s does. Pp. 8–11.
+(b) Petitioners’ arguments in favor of their contrary interpretation
+are unpersuasive. Section 2607(b), as interpreted here, is not rendered surplusage by §2607(a)’s express prohibition of kickbacks, for
+each subsection reaches conduct that the other does not. RESPA’s general purpose—to protect consumers from “certain abusive practices,”
+§2601(a)—also provides no warrant for expanding §2607(b)’s prohibition beyond the field to which it is unambiguously limited: the
+splitting of fees paid for settlement services. And giving §2607(b) its
+natural meaning would not lead to absurd results. Pp. 11–13.
+
+626 F. 3d 799, affirmed.
+SCALIA, J., delivered the opinion for a unanimous Court.
+
+

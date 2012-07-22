@@ -1,0 +1,44 @@
+Cite as: 564 U. S. ____ (2011)
+
+3
+
+Opinion of the Court
+
+independent of the unbundling rules and not subject to
+impairment analysis. It is undisputed that both un­
+bundled network elements and interconnection must be
+provided at cost-based rates. See §252(d)(1); Brief for
+Petitioner in No. 10–313, p. 28; Brief for Petitioners in No.
+10–329, p. 7; Brief for Respondent 4.
+These cases concern incumbent LECs’ obligation to
+share existing “entrance facilities” with competitive LECs.
+Entrance facilities are the transmission facilities (typically
+wires or cables) that connect competitive LECs’ networks
+with incumbent LECs’ networks.
+The FCC recently
+adopted a regulation specifying that entrance facilities are
+not among the network elements that §251(c)(3) requires
+incumbents to lease to competitors on an unbundled basis
+at cost-based rates. See 47 CFR §51.319(e)(2)(i) (2005).
+The Commission noted, however, that it “d[id] not alter
+the right of competitive LECs to obtain interconnection
+facilities pursuant to section 251(c)(2).” In re Unbundled
+Access to Network Elements, 20 FCC Rcd. 2533, 2611, ¶140
+(2005) (Triennial Review Remand Order).
+The specific issue here is whether respondent, Michigan
+Bell Telephone Company d/b/a AT&T Michigan (AT&T),
+must lease existing entrance facilities to competitive LECs
+at cost-based rates. The FCC interprets its regulations to
+require AT&T to do so for the purpose of interconnection.
+We begin by reviewing the Commission’s recent actions
+regarding entrance facilities and then explain the particu­
+lar dispute that is before us today.
+A
+In 2003, the FCC decided, contrary to its previous or­
+ders, that incumbent LECs were not obligated to provide
+cost-based unbundled access to entrance facilities under
+§251(c)(3). In re Review of Section 251 Unbundling Obli
+gations of Incumbent Local Exchange Carriers, 18 FCC
+Rcd. 16978, 17202–17205, ¶¶365–367 (2003) (Triennial
+
+

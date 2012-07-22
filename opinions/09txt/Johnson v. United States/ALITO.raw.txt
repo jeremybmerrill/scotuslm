@@ -1,0 +1,387 @@
+Cite as: 559 U. S. ____ (2010)
+
+1
+
+ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–6925
+_________________
+
+CURTIS DARNELL JOHNSON, PETITIONER v.
+
+UNITED STATES
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+
+APPEALS FOR THE ELEVENTH CIRCUIT
+
+[March 2, 2010] 
+
+
+JUSTICE ALITO, with whom JUSTICE THOMAS, joins,
+dissenting.
+The Armed Career Criminal Act (ACCA) defines a “vio
+lent felony” to mean, among other things, “any crime
+punishable by imprisonment for a term exceeding one year
+. . . that . . . has as an element the use, attempted use, or
+threatened use of physical force against the person of
+another.” 18 U. S. C. §924(e)(2)(B)(i) (emphasis added).
+The classic definition of the crime of battery is the “inten
+tional application of unlawful force against the person of
+another.” Ante, at 5 (citing 2 W. LaFave & A. Scott, Sub
+stantive Criminal Law §7.15, p. 301 (1986 and Supp.
+2003); Black’s Law Dictionary 173 (9th ed. 2009)). Thus,
+the crime of battery, as traditionally defined, falls
+squarely within the plain language of ACCA. Because I
+believe that ACCA was meant to incorporate this tradi
+tional definition, I would affirm the decision of the Court
+of Appeals.
+I
+The Court starts out in the right direction by noting
+that the critical statutory language—“the use, attempted
+use, or threatened use of physical force against the person
+of another,” 18 U. S. C. §924(e)(2)(B)(i)—may mean either
+(a) the use of violent force or (b) the use of force that is
+
+
+2
+
+JOHNSON v. UNITED STATES
+ALITO, J., dissenting
+
+sufficient to satisfy the traditional definition of a battery.
+See ante, at 4–5. The Court veers off course, however, by
+concluding that the statutory language reaches only vio
+lent force.
+The term “force,” as the Court correctly notes, had a
+well-established meaning at common law that included
+even the “slightest offensive touching.” Ante, at 5. See
+also Respublica v. De Longchamps, 1 Dall. 111, 114 (O. T.
+Phila. 1784) (“[T]hough no great bodily pain is suffered by
+a blow on the palm of the hand, or the skirt of the coat, yet
+these are clearly within the legal d[e]finition of Assault
+and Battery. . .”); 3 W. Blackstone, Commentaries on the
+Laws of England 120, 218 (1768) (hereinafter Blackstone).
+This approach recognized that an offensive but nonviolent
+touching (for example, unwanted sexual contact) may be
+even more injurious than the use of force that is sufficient
+to inflict physical pain or injury (for example, a sharp slap
+in the face).
+When Congress selects statutory language with a well
+known common-law meaning, we generally presume that
+Congress intended to adopt that meaning. See, e.g.,
+United States v. Turley, 352 U. S. 407, 411 (1957) (“We
+recognize that where a federal criminal statute uses a
+common-law term of established meaning without other
+wise defining it, the general practice is to give that term
+its common-law meaning”); Morissette v. United States,
+342 U. S. 246, 263 (1952); United States v. Carll, 105 U. S.
+611, 612–613 (1882). And here, I see nothing to suggest
+that Congress meant the phrase “use of physical force” in
+ACCA to depart from that phrase’s meaning at common
+law.
+On the contrary, other standard canons of statutory
+interpretation point to the same conclusion. “[W]here
+Congress includes particular language in one section of a
+statute but omits it in another section of the same Act, it
+is generally presumed that Congress acts intentionally
+
+
+Cite as: 559 U. S. ____ (2010)
+
+3
+
+ALITO, J., dissenting
+
+and purposely in the disparate inclusion or exclusion. ”
+Russello v. United States, 464 U. S. 16, 23 (1983) (internal
+quotation
+marks
+omitted).
+In
+18
+U. S. C.
+§924(e)(2)(B)(ii)—the clause immediately following the
+clause at issue in this case—the term “violent felony” is
+defined as including any crime that “involves conduct that
+presents a serious potential risk of physical injury to an
+other.” (Emphasis added.) Because Congress did not
+include a similar limitation in §924(e)(2)(B)(i), we should
+presume that it did not intend for such a limitation to
+apply.
+The language used by Congress in §922(g)(8)(C)(ii)
+further illustrates this point. This provision criminalizes,
+among other things, the possession of a firearm by a per
+son who is subject to a court order that “explicitly prohib
+its the use, attempted use, or threatened use of physical
+force against [an] intimate partner or child that would
+reasonably be expected to cause bodily injury.” (Emphasis
+added.) Although §922(g)(8)(C)(ii) was not enacted until
+eight years after §924(e)(2)(B)(i), see ante, at 9, the former
+provision is nevertheless instructive. If Congress had
+wanted to include in §924(e)(2)(B)(i) a limitation similar to
+those in §924(e)(2)(B)(ii) and §922(g)(8)(C)(ii), Congress
+could have easily done so expressly.
+II
+The Court provides two reasons for refusing to interpret
+18 U. S. C. §924(e)(2)(B)(i) in accordance with the com
+mon-law understanding, but neither is persuasive.
+A
+The Court first argues that §924(e)(2)(B)(i) must be read
+to refer to “violent” force because that provision defines
+the term “violent felony.” Ante, at 6. But it is apparent
+that ACCA uses “violent felony” as a term of art with a
+wider meaning than the phrase may convey in ordinary
+
+
+4
+
+JOHNSON v. UNITED STATES
+ALITO, J., dissenting
+
+usage. ACCA specifically provides that burglary and
+extortion are “violent felon[ies],” §924(e)(2)(B),(ii), and we
+have held that ACCA also reaches the crime of attempted
+burglary, James v. United States, 550 U. S. 192 (2007).
+All of these offenses may be committed without violent
+force,1 and it is therefore clear that the use of such force is
+not a requirement under ACCA. Instead, ACCA classifies
+crimes like burglary and extortion as violent felonies
+because they often lead to violence. As we have put it,
+these crimes create “significant risks of . . . confrontation
+that might result in bodily injury,” id., at 199, and offen
+sive touching creates just such a risk. For example, when
+one bar patron spits on another, violence is a likely conse
+quence. See United States v. Velazquez-Overa, 100 F. 3d
+418, 422 (CA5 1996) (“If burglary, with its tendency to
+cause alarm and to provoke physical confrontation, is
+considered a violent crime under 18 U. S. C. §16(b), then
+surely the same is true of the far greater intrusion that
+occurs when a child is sexually molested”); United States
+v. Wood, 52 F. 3d 272, 276 (CA9 1995) (same).
+——————
+1 For the purposes of ACCA, burglary is defined as “an unlawful or
+unprivileged entry into, or remaining in, a building or other structure,
+with intent to commit a crime.” Taylor v. United States, 495 U. S. 575,
+598 (1990). See also James, 550 U. S., at 197, 198, 202–203 (attempted
+burglary under Florida law requires “overt conduct directed toward
+unlawfully entering or remaining in a dwelling, with the intent to
+commit a felony therein” and that the “defendant fail in the perpetra
+tion or be intercepted or prevented in the execution of the underlying
+offense” (internal quotation marks omitted)). Although we have not
+defined extortion under ACCA, the Hobbs Act defines it as “the obtain
+ing of property from another, with his consent, induced by wrongful use
+of actual or threatened force, violence, or fear, or under color of official
+right.” 18 U. S. C. §1951(b)(2) (emphasis added); see also James, supra,
+at 223–224 (SCALIA, J., dissenting) (defining extortion in ACCA as “the
+obtaining of something of value from another, with his consent, induced
+by the wrongful use or threatened use of force against the person or
+property of another” (emphasis added)).
+
+
+Cite as: 559 U. S. ____ (2010)
+
+5
+
+ALITO, J., dissenting
+
+B
+The Court’s only other reason for rejecting the common
+law definition is the fact that battery at common law was
+a misdemeanor. The Court reasons that “[i]t is unlikely
+that Congress would select as a term of art defining ‘vio
+lent felony’ a phrase that the common law gave peculiar
+meaning only in its definition of a misdemeanor.” Ante, at
+7 (citing 4 Blackstone 216–218 (1769), and ALI, Model
+Penal Code §211.1, Comment, p. 175 (1980)). The Court
+does not spell out why Congress’ selection of this term
+would be unlikely, but I assume that the Court’s point is
+that Congress is unlikely to have decided to treat as a
+violent felony an offense that was regarded at common law
+as a mere misdemeanor. This argument overlooks the
+significance of the misdemeanor label at common law, the
+subsequent evolution of battery statutes, and the limita
+tion imposed by 18 U. S. C. §924(e)(2)(B).
+At common law, the terms “felony” and “misdemeanor”
+did not have the same meaning as they do today. At that
+time, imprisonment as a form of punishment was rare, see
+Apprendi v. New Jersey, 530 U. S. 466, 480, n. 7 (2000);
+most felonies were punishable by death, see Tennessee v.
+Garner, 471 U. S. 1, 13 (1985); and many very serious
+crimes, such as kidnaping and assault with the intent to
+murder or rape, were categorized as misdemeanors. See
+United States v. Watson, 423 U. S. 411, 439–440 (1976)
+(Marshall, J., dissenting). Since that time, however, the
+term “felony” has come to mean any offense punishable by
+a lengthy term of imprisonment (commonly more than one
+year, see Burgess v. United States, 553 U. S. 124, 130
+(2008)); the term “misdemeanor” has been reserved for
+minor offenses; and many crimes that were misdemeanors
+at common law have been reclassified as felonies. And
+when the relevant language in ACCA was enacted, quite a
+few States had felony battery statutes that retained the
+common-law definition of “force.” See Fla. Stat.
+
+
+6
+
+JOHNSON v. UNITED STATES
+ALITO, J., dissenting
+
+§784.07(2)(b) (1987) (making simple battery of a police
+officer a felony); Idaho Code §18–915(c) (Lexis 1987)
+(same); Ill. Crim. Code §12–4(b)(6) (1988) (same); La. Stat.
+Ann. §§14:33, 14:43.1 (West 1986) (sexual battery punish
+able by more than one year’s imprisonment); N. M. Stat.
+Ann. §40A–22–23 (1972) (battery of a police officer a fel
+ony); see also Kansas Stat. Ann. §21–3413(b) (Supp. 1994)
+(simple battery of corrections officers a felony).2
+ACCA’s mechanism for identifying the battery convic
+tions that merit treatment as “violent felon[ies]” is con
+tained in 18 U. S. C. §924(e)(2)(B), which provides that
+an offense committed by an adult is not a “violent felony”
+unless it is “punishable by imprisonment for a term ex
+ceeding one year.” Consequently, while all convictions
+under battery statutes that track the common-law defini
+tion of the offense satisfy the requirements of
+§924(e)(2)(B)(i)—because they have “as an element the
+use, attempted use, or threatened use of physical force
+against the person of another”—not all battery convictions
+qualify as convictions for a violent felony because
+§924(e)(2)(B) excludes any battery conviction that was not
+regarded by the jurisdiction of conviction as being suffi
+ciently serious to be punishable by imprisonment for more
+than one year. There is nothing extraordinary or unlikely
+about this approach.
+III
+The Court’s interpretation will have untoward conse
+quences. Almost half of the States have statutes that
+reach both the use of violent force and force that is not
+——————
+2 These state statutes show that Congress, by using a term of art,
+“force,” did not adopt a meaning “peculiar . . . [to the] definition of a
+misdemeanor,” see ante, at 7, and, therefore, they are relevant in
+determining whether touching involves the use of force under ACCA.
+See ante, at 7, n. 1.
+
+
+Cite as: 559 U. S. ____ (2010)
+
+7
+
+ALITO, J., dissenting
+
+violent but is unlawful and offensive.3 Many of the States
+classify these batteries as felonies or make them punish
+able by imprisonment for more than one year.4 Although
+the great majority of convictions under these statutes are,
+——————
+3 Ariz. Rev. Stat. Ann. §13–1203(A) (West 2001); Cal. Penal Code
+Ann. §242 (West 2008); People v. Pinholster, 1 Cal. 4th 865, 961, 824
+P. 2d 571, 622 (1992); D. C. Code §22–404(a) (2001); Ray v. United
+States, 575 A. 2d 1196, 1199 (D. C. 1990); Fla. Stat. Ann. §784.03(1)(a)
+(2007); Ga. Code Ann. §16–5–23(a) (2007); Idaho Code §18–903 (Lexis
+2004); Ill. Comp. Stat., ch. 720, §5/12–3(a) (West 2009); Ind. Code §35–
+42–2–1(a) (2004); Iowa Code §708.1 (West 2009); Kan. Stat. Ann. §21–
+3412(a) (2007); La. Stat. Ann. §14:33 (West 2007); State v. Schenck, 513
+So. 2d 1159, 1165 (La. 1987); Me. Rev. Stat. Ann., Tit. 17–A, §207(1)(A)
+(2006); Md. Crim. Law Code Ann. §§3–201(b), 3–203(a) (Lexis Supp.
+2009); Kellum v. State, 223 Md. 80, 84–85, 162 A. 2d 473, 476 (1960);
+Mass. Gen. Laws, ch. 265, §13A(a) (West 2008); Commonwealth v.
+Campbell, 352 Mass. 387, 397, 226 N. E. 2d 211, 218 (1967); Mich.
+Comp. Laws Ann. §§750.81(1), (2) (West 2004); People v. Nickens, 470
+Mich. 622, 627–628, 685 N. W. 2d 657, 661 (2004); Mo. Rev. Stat.
+§565.070(5) (West 2000); Mont. Code Ann. §45–5–201(1)(c) (2009); N. H.
+Rev. Stat. Ann. §631:2–aI(a) (West 2007); N. M. Stat. Ann. §30–3–4
+(Supp. 2009); N. C. Gen. Stat. Ann. §14–33(a) (Lexis 2007); State v.
+West, 146 N. C. App. 741, 744, 554 S. E. 2d 837, 840 (2001); Okla. Stat.
+Ann., Tit. 21, §642 (West 2002); Steele v. State, 778 P. 2d 929, 931
+(Okla. Crim. App. 1989); R. I. Gen. Laws §11–5–3(a) (Lexis 2002); State
+v. Coningford, 901 A. 2d 623, 630 (R. I. 2006); S. C. Code Ann. §22–3–
+560(A) (Supp. 2009); State v. Mims, 286 S. C. 553, 554, 335 S. E. 2d
+237 (1985) (per curiam); Tenn. Code Ann. §39–13–101(a)(3) (2003); Tex.
+Penal Code Ann. §22.01(a) (West Supp. 2009); Va. Code Ann. §18.2–
+57(A) (Lexis 2009); Wood v. Commonwealth, 149 Va. 401, 404, 140 S. E.
+114, 115 (1927); Wash. Rev. Code §9A.36.011 et seq. (2008); State v.
+Stevens, 158 Wash. 2d 304, 311, 143 P. 3d 817, 821 (2006); W. Va. Code
+Ann. §61–2–9(c) (Lexis 2005).
+4 See Iowa Code §§708.1, 708.2(5) (2009); Kan. Stat. Ann. §§21–
+3412(a), 21–3412a, 3413(b), 3448(b) (2007); La. Stat. Ann.
+§§14:34.2(B)(2), 14:34.3(C)(2) (Supp. 2010), 14:34.5(B)(2); 14:35.3(E)
+(2007); Md. Crim. Law Code Ann. §§3–201(b), 3–203(a), (b) (Supp.
+2009); Mass. Gen. Laws, ch. 265, §13A(a) (2008); Mich. Comp. Laws
+Ann. §750.81(4) (West 2004); Mo. Rev. Stat. §§565.070.1(5), 565.070.4
+(2000); Okla. Stat. Ann., Tit. 21, §642 (West 2002), §644 (West Supp.
+2010).
+
+
+8
+
+JOHNSON v. UNITED STATES
+ALITO, J., dissenting
+
+no doubt, based on the use of violent force, the effect of the
+Court’s decision will be to take all these convictions out
+side the scope of ACCA—unless the Government is able to
+produce documents that may properly be consulted under
+the modified categorical approach and that conclusively
+show that the offender’s conduct involved the use of vio
+lent force, see ante, at 10–11. As the Government notes,
+however, this will often be impossible because, in those
+States in which the same battery provision governs both
+the use of violent force and offensive touching, charging
+documents frequently simply track the language of the
+statute, and jury instructions often do not require juries to
+draw distinctions based on the type of force that the de
+fendant employed. See Brief for United States 42–43.
+In addition, the Court’s interpretation of the term
+“physical force” may hobble at least two federal statutes
+that contain this identical term. Under 18 U. S. C.
+§922(g)(9), a person convicted of a “misdemeanor crime of
+domestic violence” may not lawfully possess a firearm, and
+the term “misdemeanor crime of domestic violence” is
+defined as applying only to crimes that “ha[ve], as an
+element, the use or attempted use of physical force, or the
+threatened use of a deadly weapon.” §921(a)(33)(A) (em
+phasis added). As we recently explained, Congress recog
+nized that “ ‘many people who engage in serious spousal or
+child abuse ultimately are not charged with or convicted of
+felonies,’ ” and Congress therefore enacted this provision to
+keep firearms out of the hands of such abusers. United
+States v. Hayes, 555 U. S. ___, ___ (2009) (slip op., at 10).
+Cases of spousal and child abuse are frequently prosecuted
+under generally applicable assault and battery statutes,
+ibid., and as noted, the assault and battery statutes of
+almost half the States apply both to cases involving the
+use of violent force and cases involving offensive touching.
+As a result, if the Court’s interpretation of the term
+“physical force” in ACCA is applied to §922(g)(9), a great
+
+
+Cite as: 559 U. S. ____ (2010)
+
+9
+
+ALITO, J., dissenting
+
+many persons convicted for serious spousal or child abuse
+will be allowed to possess firearms.
+Under 8 U. S. C. §1227(a)(2)(E), an alien convicted of a
+“crime of domestic violence” is subject to removal, and the
+term “crime of domestic violence” is defined as an offense
+that, among other things, has “as an element the use [or]
+attempted use . . . of physical force.” 18 U. S. C. §16(a).
+Accordingly, if the Court’s interpretation of the term
+“physical force” is applied to this provision, many con
+victed spousal and child abusers will escape removal, a
+result that Congress is unlikely to have intended.
+*
+*
+*
+For all these reasons, I believe that the Court’s decision
+is incorrect, and I therefore respectfully dissent.
+
+

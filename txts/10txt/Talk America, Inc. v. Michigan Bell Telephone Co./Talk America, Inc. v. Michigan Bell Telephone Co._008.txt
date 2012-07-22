@@ -1,0 +1,43 @@
+Cite as: 564 U. S. ____ (2011)
+
+5
+
+Opinion of the Court
+
+impairment would presumably follow.” 359 F. 3d, at 586.
+In 2005, the Commission responded. See Triennial
+Review Remand Order ¶¶136–141. The Commission re­
+treated from its view that entrance facilities are not net­
+work elements but adhered to its previous position that
+cost-based unbundled access to them need not be provided
+under §251(c)(3). Id., ¶¶137–138. Treating entrance
+facilities as network elements, the Commission concluded
+that competitive LECs are not impaired without access to
+them. Ibid. The Commission again emphasized that it
+“d[id] not alter the right of competitive LECs to obtain
+interconnection facilities pursuant to section 251(c)(2).”
+Id., ¶140.
+B
+In the wake of the Triennial Review Remand Order,
+AT&T notified competitive LECs that it would no longer
+provide entrance facilities at cost-based rates for either
+backhauling or interconnection, but would instead charge
+higher rates. Competitive LECs complained to the Michi­
+gan Public Service Commission (PSC) that AT&T was
+unlawfully abrogating their right to cost-based intercon­
+nection under §251(c)(2). The Michigan PSC agreed with
+the competitive LECs and ordered AT&T to continue
+providing entrance facilities for interconnection at cost­
+based rates.
+AT&T challenged the Michigan PSC’s ruling in the
+District Court, which, relying on the Triennial Review
+Remand Order, ruled in AT&T’s favor. The Michigan PSC
+and several competitive LECs, including petitioner Talk
+America, Inc., appealed.
+The Court of Appeals for the Sixth Circuit affirmed over
+a dissent. Michigan Bell Telephone Co. v. Covad Commu
+nications Co., 597 F. 3d 370 (2010). At the court’s invita­
+tion, the FCC filed a brief as amicus curiae, arguing that
+the Triennial Review Remand Order did not change in­
+
+

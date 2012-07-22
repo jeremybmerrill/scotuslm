@@ -1,0 +1,48 @@
+18
+
+CHASE BANK USA, N. A. v. MCCOY
+Opinion of the Court
+
+or default might trigger an increased interest rate and
+states the maximum level to which the rate could be in­
+creased, the “specific change” that ensues upon default has
+been set forth initially and no additional notice is required
+before implementation. McCoy argues to the contrary:
+Under Comment 9(c)–1, any new rate imposed after delin­
+quency or default must be disclosed prior to the effective
+date, if the particular rate (rather than the maximum
+rate) was not specifically mentioned in the agreement. On
+the whole, then, the Official Staff Commentary’s explana­
+tion of Regulation Z does not resolve the uncertainty in the
+regulatory text, and offers us no reason to disregard
+the interpretation advanced in the Board’s amicus brief.10
+——————
+10 In concluding otherwise, the Ninth Circuit focused on the examples
+Comment 9(c)–1 provides of changes that, if set forth initially, require
+no further disclosure when put into effect:
+“No notice of a change in terms need be given if the specific change is
+set forth initially, such as: Rate increases under a properly disclosed
+variable-rate plan, a rate increase that occurs when an employee has
+been under a preferential rate agreement and terminates employment,
+or an increase that occurs when the consumer has been under an
+agreement to maintain a certain balance in a savings account in order
+to keep a particular rate and the account balance falls below the
+specified minimum.”
+The Ninth Circuit concluded that, in contrast to each of these three
+examples, “the increase here occurs at Chase’s discretion.” 559 F. 3d
+963, 966 (2009). That is, once the triggering event—McCoy’s default—
+occurred, Chase had the latitude to increase the interest rate as it saw
+fit (up to the limit specified in the Pricing Schedule).
+We are not persuaded by the Ninth Circuit’s reasoning. Certainly,
+under a “variable-rate” plan the interest rate fluctuates according to an
+external variable easily discernable by the cardholder (like the Federal
+Prime rate), and the issuer has no discretion. See ibid. But the Com­
+ment’s second and third examples do not appear to be significantly
+different from this case: The agreement contains a preset rate, but it
+also provides that, on the occurrence of a predefined event (terminating
+employment or a low account balance), the rate will increase.
+Moreover, Comment 9(c)–1 further states that notice is needed “if the
+contract allows the creditor to increase the rate at its discretion but
+does not include specific terms for an increase”—for example, “when an
+
+

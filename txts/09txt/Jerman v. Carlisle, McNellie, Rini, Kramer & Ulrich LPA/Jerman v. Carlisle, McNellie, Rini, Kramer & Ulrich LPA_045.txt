@@ -1,0 +1,46 @@
+4
+
+JERMAN v. CARLISLE, MCNELLIE, RINI, 
+
+KRAMER & ULRICH LPA 
+
+KENNEDY, J., dissenting 
+
+
+The Court’s response is that there is something distinc
+tive about the word “willful” that suggests an excuse for
+mistakes of law. This may well be true for criminal stat
+utes, in which the terms “ ‘knowing,’ ‘intentional’ [and]
+‘willful’ ” have been distinguished in this regard. Ante, at
+10 (citing Safeco Ins. Co. of America v. Burr, 551 U. S. 47,
+57 (2007)). But this distinction is specific to the criminal
+context:
+“It is different in the criminal law. When the term
+‘willful’ or ‘willfully’ has been used in a criminal stat
+ute, we have regularly read the modifier as limiting
+liability to knowing violations. This reading of the
+term, however, is tailored to the criminal law, where
+it is characteristically used to require a criminal in
+tent beyond the purpose otherwise required for guilt,
+or an additional ‘bad purpose,’ or specific intent to vio
+late a known legal duty created by highly technical
+statutes.” Id., at 57–58, n. 9 (citations omitted).
+For this reason, the Court’s citation to criminal cases,
+which are themselves inconsistent, see Ratzlaf v. United
+States, 510 U. S. 135 (1994), is unavailing. See ante, at
+10–11, and n. 7.
+In the civil context, by contrast, the word “willful” has
+been used to impose a mens rea threshold for liability that
+is lower, not higher, than an intentionality requirement.
+See Safeco, supra, at 57 (“[W]here willfulness is a statu
+tory condition of civil liability, we have generally taken it
+to cover not only knowing violations of a standard, but
+reckless ones as well”). Avoiding liability under a statute
+aimed at intentional violations should therefore be easier,
+not harder, than avoiding liability under a statute aimed
+at willful violations. And certainly there is nothing in
+Thurston or McLaughlin—both civil cases—suggesting
+that they would have come out differently had the rele
+vant statutes used “intentional violation” rather than
+
+

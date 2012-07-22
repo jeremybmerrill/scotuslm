@@ -1,0 +1,1343 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+ALABAMA ET AL. v. NORTH CAROLINA
+ON EXCEPTIONS TO THE PRELIMINARY AND SECOND REPORTS
+OF THE SPECIAL MASTER
+No. 132, Orig. Argued January 11, 2010—Decided June 1, 2010
+In 1986, Congress granted its consent to the Southeast Interstate LowLevel Radioactive Waste Management Compact (Compact), which
+was entered into by Alabama, Florida, Georgia, Mississippi, North
+Carolina, South Carolina, Tennessee, and Virginia. The Compact is
+administered by a Commission, which was required, inter alia, to
+“identif[y] a host State for the development of a [new] regional
+disposal facility,” and to “seek to ensure that such facility is licensed
+and ready to operate . . . no . . . later than 1991.” Art. 4(E)(6), 99
+Stat. 1875. The Commission designated North Carolina as a host
+State in 1986, thereby obligating North Carolina to take “appropriate
+steps to ensure that an application for a license to construct and op
+erate a [low-level radioactive waste storage facility] is filed with and
+issued by the appropriate authority.” Art. 5(C), id., at 1877.
+In 1988, North Carolina asked the Commission for assistance with
+the costs of licensing and building a facility. The Commission
+adopted a resolution declaring it “appropriate and necessary” to pro
+vide financial assistance, and ultimately paid almost $80 million to
+North Carolina from 1988 through 1997. North Carolina also ex
+pended $34 million of its own funds. Yet by the mid 1990s, North
+Carolina was still many years—and many tens of millions of dol
+lars—away from obtaining a license.
+In 1997, the Commission notified North Carolina that absent a
+plan for funding the remaining licensing steps, it would not disburse
+additional funds to North Carolina. North Carolina responded that it
+could not continue without additional funding. After the parties
+failed to agree on a long-term financing plan, in December 1997 the
+Commission ceased its financial assistance to North Carolina, and
+North Carolina subsequently began an orderly shutdown of its pro
+
+
+2
+
+ALABAMA v. NORTH CAROLINA
+Syllabus
+ject.
+In June 1999, Florida and Tennessee filed a complaint with the
+Commission seeking monetary sanctions against North Carolina. In
+July 1999, North Carolina exercised its right under Article 7(G) to
+withdraw from the Compact. In December 1999, the Commission
+concluded that North Carolina had failed to fulfill its obligations un
+der the Compact and adopted a sanctions resolution demanding that
+the State repay approximately $80 million in addition to other mone
+tary penalties. North Carolina did not comply.
+In 2003, this Court granted Alabama, Florida, Tennessee, Virginia,
+and the Commission (Plaintiffs) leave to file a bill of complaint
+against North Carolina under this Court’s original jurisdiction, U. S.
+Const., Art. II, §2, cl. 2; 28 U. S. C. §1251(a). The complaint sets
+forth claims of violation of Plaintiffs’ rights under the Compact
+(Count I), breach of contract (Count II), unjust enrichment (Count
+III), promissory estoppel (Count IV), and money had and received
+(Count V), and requests monetary and other relief, including a decla
+ration that North Carolina is subject to sanctions and that the Com
+mission’s sanctions resolution is valid and enforceable.
+The Court assigned the case to a Special Master, who has con
+ducted proceedings and has filed two reports. The Preliminary Re
+port recommends denying without prejudice North Carolina’s motion
+to dismiss the Commission’s claims on sovereign immunity grounds;
+denying Plaintiffs’ motion for summary judgment on Count I, which
+sought enforcement of the Commission’s sanctions resolution; grant
+ing North Carolina’s cross-motion to dismiss Count I and other por
+tions of the complaint seeking such enforcement; and denying North
+Carolina’s motion to dismiss the claims in Counts II–V. The Master’s
+Second Report recommended denying Plaintiff’s motion for summary
+judgment and granting North Carolina’s motion for summary judg
+ment on Count II; and denying North Carolina’s motion for summary
+judgment on Plaintiffs’ remaining claims in Counts III–V. The par
+ties filed a total of nine exceptions to the Master’s Reports.
+
+Held:
+1. Plaintiffs’ seven exceptions are overruled. Pp. 7–21.
+(a) The terms of the Compact do not authorize the Commission to
+impose monetary sanctions against North Carolina. The Court’s con
+clusion is confirmed by a comparison of the Compact’s terms with
+three other interstate compacts concerning low-level radioactive
+waste storage approved by Congress contemporaneously with the
+Compact, all of which expressly authorize their commissions to im
+pose monetary sanctions against their party States. Pp. 7–9.
+(b) Plaintiffs’ exception that North Carolina could not avoid
+monetary sanctions by withdrawing from the Compact is moot, be
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Syllabus
+cause the Compact does not permit the Commission to impose mone
+tary sanctions in any event. The Court deems their exception that
+North Carolina forfeited its right to object to a monetary penalty by
+failing to participate at the sanctions hearing both abandoned and
+meritless. P. 10.
+(c) Because the express terms of the Compact do not make the
+Commission the “sole arbiter” of disputes arising under the Compact,
+Texas v. New Mexico, 462 U. S. 554, 569–570, the Court is not bound
+by the Commission’s conclusion that North Carolina breached its ob
+ligations under the Compact. Nor does the Court apply deferential
+administrative-law standards of review to the Commission’s conclu
+sion, but instead exercises its independent judgment as to both fact
+and law in executing its role as the “exclusive” arbiter of controver
+sies between the States, 28 U. S. C. §1251(a). Pp. 10–12.
+(d) North Carolina did not breach its contractual obligation to
+take “appropriate steps” toward the issuance of a license. Pp. 12–19.
+(1) The Compact requires North Carolina to take only those li
+censing steps that are “appropriate.” The parties’ course of perform
+ance establishes that it was not appropriate for North Carolina to
+proceed with the very expensive licensing process without external
+financial assistance. Nothing in the Compact’s text or structure re
+quires North Carolina to cover all licensing and building costs on its
+own. Plaintiffs’ assertion that it was understood that the host State
+would bear the up-front licensing and construction costs, but recoup
+those costs through its regional monopoly on radioactive waste dis
+posal, is not reflected in the Compact. Pp. 13–18.
+(2) Plaintiffs’ alternative argument that North Carolina repu
+diated its obligation to take appropriate steps when it announced it
+would take no further steps to obtain a license fails for the same rea
+sons their breach theory fails. Pp. 18–19.
+(e) North Carolina did not breach an implied duty of good faith
+and fair dealing when it withdrew from the Compact. The Compact
+by its terms imposes no limitation on North Carolina’s right to exer
+cise its statutory right under Article 7(G) to withdraw from the Com
+pact. A comparison between the Compact and other contemporane
+ously enacted compacts confirms the absence of a good-faith
+limitation in the Compact. Pp. 19–21.
+2. North Carolina’s two exceptions are overruled. Pp. 21–26.
+(a) It was reasonable for the Special Master to deny without
+prejudice North Carolina’s motion for summary judgment on the mer
+its of Plaintiffs’ equitable claims in Counts III–V. The Special Master
+concluded that those claims require further briefing, argument, and,
+possibly, discovery. The Court approves of the Special Master’s rea
+sonable exercise of his discretion to manage the proceedings. Pp. 21–
+
+
+4
+
+ALABAMA v. NORTH CAROLINA
+Syllabus
+22.
+
+(b) Under Arizona v. California, 460 U. S. 605, 614, the Commis
+sion’s claims are not barred by sovereign immunity so long as the
+Commission asserts the same claims and seeks the same relief as the
+plaintiff States. Nothing in the Court’s subsequent cases suggests
+that Arizona v. California has been implicitly overruled, and North
+Carolina does not ask the Court to overrule that decision. At least
+with respect to Counts I and II, the Commission’s claims under those
+Compact-related Counts are wholly derivative of the plaintiff States’
+claims. The summary judgment disallowing the claims in Counts I
+and II on their merits renders the sovereign immunity question with
+regard to any relief the Commission alone might have on those claims
+moot. Counts III–V are on a different footing. The Special Master
+concluded that further factual and legal development was necessary
+to determine whether the Commission’s claims under these Counts
+were identical to those of the plaintiff States. The Special Master’s
+case-management decision was reasonable. Pp. 22–26.
+Exceptions to Special Master’s Reports overruled, and Master’s recom
+mendations adopted; North Carolina’s motions to dismiss Count I
+and for summary judgment on Count II granted; Plaintiffs’ motions
+for judgment on Counts I and II denied; and North Carolina’s mo
+tions to dismiss the Commission’s claims on sovereign immunity
+grounds and for summary judgment on Counts III–V denied without
+prejudice.
+SCALIA, J., delivered the opinion of the Court, in which STEVENS,
+GINSBURG, and ALITO, JJ., joined, in which ROBERTS, C. J., joined in all
+but Parts II–D and III–B, in which KENNEDY and SOTOMAYOR, JJ.,
+joined in all but Part II–E, in which THOMAS, J., joined in all but Part
+III–B, and in which BREYER, J., joined in all but Parts II–C, II–D, and
+II–E. KENNEDY, J., filed an opinion concurring in part and concurring
+in the judgment, in which SOTOMAYOR, J., joined. ROBERTS, C. J., filed
+an opinion concurring in part and dissenting in part, in which THOMAS,
+J., joined. BREYER, J., filed an opinion concurring in part and dissent
+ing in part, in which ROBERTS, C. J., joined.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Wash­
+ington, D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 132, Orig.
+_________________
+
+STATE OF ALABAMA, STATE OF FLORIDA, STATE OF
+
+TENNESSEE, COMMONWEALTH OF VIRGINIA, AND
+
+SOUTHEAST INTERSTATE LOW-LEVEL RADIO- 
+
+ACTIVE WASTE MANAGEMENT COMMISSION, 
+
+PLAINTIFFS v. STATE OF NORTH CAROLINA
+
+ON EXCEPTIONS TO THE PRELIMINARY AND SECOND REPORTS
+OF THE SPECIAL MASTER
+[June 1, 2010]
+
+JUSTICE SCALIA delivered the opinion of the Court.
+In this case, which arises under our original jurisdiction,
+U. S. Const., Art. III, §2, cl. 2; 28 U. S. C. §1251(a), we
+consider nine exceptions submitted by the parties to two
+reports filed by the Special Master.
+I
+In 1986, Congress granted its consent under the Com­
+pact Clause, U. S. Const., Art. I, §10, cl. 3, to seven inter­
+state compacts providing for the creation of regional facili­
+ties to dispose of low-level radioactive waste. Omnibus
+Low-Level Radioactive Waste Interstate Compact Consent
+Act, 99 Stat. 1859. One of those compacts was the South­
+east Interstate Low-Level Radioactive Waste Management
+Compact (Compact), entered into by Alabama, Florida,
+Georgia, Mississippi, North Carolina, South Carolina,
+Tennessee, and Virginia. Id., at 1871–1880. That Com­
+pact established an “instrument and framework for a
+cooperative effort” to develop new facilities for the long­
+
+
+2
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+term disposal of low-level radioactive waste generated
+within the region. Art. 1, id., at 1872. The Compact was
+to be administered by a Southeast Interstate Low-Level
+Radioactive Waste Management Commission (Commis­
+sion), composed of two voting members from each party
+State. Art. 4(A), id., at 1874.
+A pre-existing facility in Barnwell, South Carolina was
+to serve as the initial facility for regional generators to
+dispose of their low-level radioactive waste. Art. 2(10), id.,
+at 1873. That facility was scheduled to close as the re­
+gional-disposal facility for the Compact by the end of 1992,
+ibid., and so the Compact required the Commission to
+develop “procedures and criteria for identifying . . . a host
+[S]tate for the development of a second regional disposal
+facility,” and to “seek to ensure that such facility is li­
+censed and ready to operate as soon as required but in no
+event later than 1991,” Art. 4(E)(6), id., at 1875. The
+Compact authorized the Commission to “designate” a
+party State as a host State for the facility. Art. 4(E)(7),
+ibid.
+In September 1986, the Commission designated North
+Carolina as the host for the second facility. North Caro­
+lina therefore became obligated to “take appropriate steps
+to ensure that an application for a license to construct and
+operate a [low-level radioactive waste storage facility] is
+filed with and issued by the appropriate authority.” Art.
+5(C), id., at 1877. In 1987, North Carolina’s General
+Assembly created the North Carolina Low-Level Radioac­
+tive Waste Management Authority (Authority) to fulfill
+the State’s obligation. N. C. Gen. Stat. §104G (1987), 1987
+N. C. Sess. Laws ch. 850.
+Although “[t]he Commission is not responsible for any
+costs associated with,” among other things, “the creation of
+any facility,” Art. 4(K)(1), 99 Stat. 1876, North Carolina
+asked the Commission for financial assistance with build­
+ing and licensing costs. The Commission responded by
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Opinion of the Court
+
+adopting a resolution, which declared it was both “appro­
+priate and necessary” for the Commission “to provide
+financial assistance” to North Carolina. App. 63. To that
+end, the Commission created a “Host States Assistance
+Fund” to help North Carolina with the “financial costs and
+burdens” of “preliminary planning, the administrative
+preparation, and other pre-operational” activities. Id., at
+64.
+The estimate in 1989 was that it would cost approxi­
+mately $21 million and take two years to obtain a license
+for North Carolina’s regional-disposal facility.
+That
+proved to be wildly optimistic. By 1990, the cost estimate
+had ballooned to $45.8 million, and the estimated date for
+obtaining a license now extended far into 1993. At the
+beginning of 1994 there still was no license, and the esti­
+mated cost had grown to $87.1 million. By end of 1994 the
+estimate was $112.5 million, and issuance of a license was
+not anticipated until 1997. And by December 1996 the
+estimated cost had increased by another $27 million and
+the projected date to receive a license had become August
+2000.
+North Carolina’s own appropriations—approximately
+$27 million from Fiscal Year 1988 through Fiscal Year
+(FY) 1995—did not cover the costs of the licensing phase.
+But during the same time period, the Commission pro­
+vided North Carolina with approximately $67 million.
+The funds came from surcharges and access fees collected
+for that purpose from generators disposing of low-level
+radioactive waste at the pre-existing Barnwell facility.
+Id., at 71–74, 145.
+In July 1995, however, South Carolina withdrew from
+the Compact, thereby depriving the Commission of contin­
+ued revenues from the Barnwell facility. In 1996, the
+Commission accordingly informed North Carolina that it
+would no longer be able to provide financial support for
+licensing activities. The Governor of North Carolina
+
+
+4
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+responded that the State was not prepared to assume a
+greater portion of the project’s costs, and would not be able
+to proceed without continued Commission funding.
+Shortly thereafter the Commission adopted a resolution
+declaring that it was willing and able to provide additional
+funds, but calling on North Carolina to work with it to
+develop long-term funding sources for the facility. From
+FY 1996 through FY 1998, the Commission provided
+North Carolina approximately an additional $12.27 mil­
+lion in financial assistance. North Carolina, for its part,
+continued to provide its own funds toward licensing activi­
+ties—another $6 million during the same time period.
+In August 1997, the Commission notified North Caro­
+lina that absent a plan for funding the remaining steps of
+the licensing phase, it would not disburse additional funds
+to North Carolina after November 30, 1997. North Caro­
+lina responded that it would not be able to continue with­
+out additional guarantees of external funding. On Decem­
+ber 1, 1997, the parties having failed to agree upon a long­
+term financing plan, the Commission ceased financial
+assistance to North Carolina. By then it had provided
+almost $80 million.
+On December 19, 1997, North Carolina informed the
+Commission it would commence an orderly shutdown of its
+licensing project, and since that date has taken no further
+steps toward obtaining a license for the facility. But it did
+continue to fund the Authority for several more years, in
+the hope that the project would resume upon the restora­
+tion of external financial assistance. North Carolina
+maintained the proposed facility site, preserved the work
+it had completed to date, and retained the Authority’s
+books and records. It also participated in discussions with
+the Commission, generators of low-level radioactive waste,
+and other stakeholders regarding options to resolve the
+financing shortfall. From FY 1988 through FY 2000,
+North Carolina had expended almost $34 million toward
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+Opinion of the Court
+
+obtaining a license.
+In June 1999, after attempts to resolve the funding
+impasse had failed, Florida and Tennessee filed with the
+Commission a complaint for sanctions against North
+Carolina. It alleged that North Carolina had failed to
+fulfill its obligations under the Compact, and requested
+(among other things) return of the almost $80 million paid
+to North Carolina by the Commission, plus interest, as
+well as damages and attorney’s fees. The next month,
+North Carolina withdrew from the Compact by enacting a
+law repealing its status as a party State, see 1999 N. C.
+Sess. Laws ch. 357, as required by Article 7(G) of the
+Compact.
+More than four months later, in December 1999, the
+Commission held a sanctions hearing. North Carolina did
+not participate. After the hearing, the Commission con­
+cluded that North Carolina had failed to fulfill its obliga­
+tions under the Compact. It adopted a resolution demand­
+ing that North Carolina repay approximately $80 million,
+plus interest, to the Commission; pay an additional $10
+million penalty to compensate the Commission for the loss
+of future revenue (surcharges and access fees) it would
+have received had a facility been completed in North
+Carolina; and pay the Commission’s attorney’s fees. North
+Carolina did not comply.
+In July 2000, seeking to enforce its sanctions resolution,
+the Commission moved for leave to file a bill of complaint
+under our original jurisdiction. Southeast Interstate LowLevel Radioactive Waste Management Commission v.
+North Carolina, No. 131, Orig. North Carolina opposed
+the motion on the grounds that the Commission could not
+invoke this Court’s original jurisdiction, and we invited
+the Solicitor General to express the views of the United
+States. 531 U. S. 942 (2000). The Solicitor General filed a
+brief urging denial of the Commission’s motion on the
+grounds that the Commission’s bill of complaint did not
+
+
+6
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+fall within our exclusive original jurisdiction over “contro­
+versies between two or more States.” §1251(a). We denied
+the Commission’s motion. 533 U. S. 926 (2001).
+In June 2002, the States of Alabama, Florida, Tennes­
+see, and Virginia, joined by the Commission (collectively
+Plaintiffs), moved for leave to file a bill of complaint
+against North Carolina. North Carolina opposed the
+motion, and we again sought the views of the Solicitor
+General. 537 U. S. 806 (2002). The United States urged
+that we grant Plaintiffs’ motion, which we did. 539 U. S.
+925 (2003). The bill of complaint contains five counts:
+violation of the party States’ rights under the Compact
+(Count I); breach of contract (Count II); unjust enrichment
+(Count III), promissory estoppel (Count IV); and money
+had and received (Count V). Plaintiffs’ prayer for relief
+requests a declaration that North Carolina is subject to
+sanctions and that the Commission’s sanctions resolution
+is valid and enforceable, as well as the award of damages,
+costs, and other relief.
+We assigned the case to a Special Master, 540 U. S.
+1014 (2003), who has conducted proceedings and now has
+filed two reports. The Master’s Preliminary Report ad­
+dressed three motions filed by the parties. He recom­
+mended denying without prejudice North Carolina’s mo­
+tion to dismiss the Commission’s claims against North
+Carolina on the grounds of sovereign immunity. Prelimi­
+nary Report 4–14. He recommended denying Plaintiffs’
+motion for summary judgment on Count I, which sought
+enforcement of the Commission’s sanctions resolution. Id.,
+at 14–33. He recommended granting North Carolina’s
+cross-motion to dismiss Count I and other portions of the
+bill of complaint that sought enforcement of the sanctions
+resolution. Id., at 33–34. And he recommended denying
+North Carolina’s motion to dismiss the claims in Counts
+II–V. Id., at 34–43.
+After the Special Master issued his Preliminary Report,
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+Opinion of the Court
+
+the parties engaged in partial discovery and subsequently
+filed cross-motions for summary judgment. The Special
+Master’s Second Report recommended denying Plaintiffs’
+motion for summary judgment on Count II, Second Report
+8–35, and granting North Carolina’s motion for summary
+judgment on Count II, id., at 35–40. Finally, he recom­
+mended denying North Carolina’s motion for summary
+judgment on Plaintiffs’ remaining claims in Counts III–V.
+Id., at 41–45.
+II
+Plaintiffs present a total of seven exceptions to the
+Special Master’s two reports. We address them in turn.
+A
+Their first exception challenges the Special Master’s
+conclusion that the Commission lacked authority to im­
+pose monetary sanctions upon North Carolina. The terms
+of the Compact determine that question.
+Article 4(E) of the Compact sets forth the Commission’s
+“duties and powers.” Among its powers are the authority
+“[t]o revoke the membership of a party [S]tate that will­
+fully creates barriers to the siting of a needed regional
+facility,” Art. 4(E)(7), 99 Stat. 1875, and the authority “[t]o
+revoke the membership of a party [S]tate in accordance
+with Article 7(f),” Art. 4(E)(11), ibid. Conspicuously ab­
+sent from Article 4, however, is any mention of the author­
+ity to impose monetary sanctions. Plaintiffs contend that
+authority may be found elsewhere—in the first paragraph
+of Article 7(F), which provides in relevant part:
+“Any party [S]tate which fails to comply with the
+provisions of this compact or to fulfill the obligations
+incurred by becoming a party [S]tate to this compact
+may be subject to sanctions by the Commission, in­
+cluding suspension of its rights under this compact
+and revocation of its status as a party [S]tate.” Id., at
+
+
+8
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+1879.
+The sanctions expressly identified in Article 7(F)—
+“suspension” of rights and “revocation” of party-state
+status—flow directly from the Commission’s power in
+Articles 4(E)(7) and (11) to revoke a party State’s member­
+ship. That can fairly be understood to include the lesser
+power to suspend a party State’s rights. There is no simi­
+lar grounding in Article 4(E) of authority to impose mone­
+tary sanctions, and the absence is significant.
+According to Plaintiffs, however, the word “sanctions” in
+Article 7(F) naturally “includ[es]” monetary sanctions.
+Since the Compact contains no definition of “sanctions,”
+we give the word its ordinary meaning. A “sanction” (in
+the sense the word is used here) is “[t]he detriment loss of
+reward, or other coercive intervention, annexed to a viola­
+tion of a law as a means of enforcing the law.” Webster’s
+New International Dictionary 2211 (2d ed. 1957) (herein­
+after Webster’s Second); see Black’s Law Dictionary 1458
+(9th ed. 2009) (“A penalty or coercive measure that results
+from failure to comply with a law, rule, or order”). A
+monetary penalty is assuredly one kind of “sanction.” See
+generally Department of Energy v. Ohio, 503 U. S. 607,
+621 (1992). But there are many others, ranging from the
+withholding of benefits, or the imposition of a nonmone­
+tary obligation, to capital punishment. The Compact
+surely does not authorize the Commission to impose all of
+them.
+Ultimately, context dictates precisely which “sanctions”
+are authorized under Article 7(F), and nothing in the
+Compact suggests that these include monetary measures.
+The only two “sanctions” specifically identified as being
+included within Article 7(F) are “suspension” of a State’s
+rights under the Compact and “revocation” of its status as
+a party State. These are arguably merely examples, and
+may not exhaust the universe of sanctions the Commission
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+Opinion of the Court
+
+can impose. But they do establish “illustrative applica­
+tion[s] of the general principle,” Federal Land Bank of St.
+Paul v. Bismarck Lumber Co., 314 U. S. 95, 100 (1941),
+which underlies the kinds of sanctions the Commission
+can impose. It is significant that both these specifically
+authorized sanctions are prospective and nonmonetary in
+nature.
+Moreover, Article 3 of the Compact provides: “The rights
+granted to the party [S]tates by this compact are addi­
+tional to the rights enjoyed by sovereign states, and noth­
+ing in this compact shall be construed to infringe upon,
+limit, or abridge those rights.” 99 Stat. 1873. Construing
+Article 7(F) to authorize monetary sanctions would violate
+this provision, since the primeval sovereign right is im­
+munity from levies against the government fisc. See, e.g.,
+Alden v. Maine, 527 U. S. 706, 750–751 (1999).
+Finally, a comparison of the Compact’s terms with those
+of “[o]ther interstate compacts, approved by Congress
+contemporaneously,” Texas v. New Mexico, 462 U. S. 554,
+565 (1983), confirms that Article 7(F) does not authorize
+monetary sanctions. At the same time Congress consented
+to this Compact, it consented to three other interstate
+compacts that expressly authorize their commissions to
+impose monetary sanctions against the parties to the
+compacts. See Northeast Interstate Low-Level Radioac­
+tive Waste Management Compact, Art. IV(i)(14), 99 Stat.
+1915 (hereinafter Northeast Compact); Central Midwest
+Interstate Low-Level Radioactive Waste Compact, Art.
+VIII(f), 99 Stat. 1891 (hereinafter Central Midwest Com­
+pact); Central Interstate Low-Level Radioactive Waste
+Compact, Art. VII(e), 99 Stat. 1870 (hereinafter Central
+Compact). The Compact “clearly lacks the features of
+these other compacts, and we are not free to rewrite it” to
+empower the Commission to impose monetary sanctions.
+Texas v. New Mexico, 462 U. S., at 565.
+
+
+10
+
+ALABAMA v. NORTH CAROLINA 
+
+Opinion of the Court 
+
+
+B
+
+Because the Compact does not authorize the Commis­
+sion to impose monetary sanctions, Plaintiffs’ second
+exception—that North Carolina could not avoid monetary
+sanctions by withdrawing from the Compact—is moot.
+The third exception also pertains to the Commission’s
+sanctions resolution: that North Carolina forfeited its
+right to object to a monetary penalty by failing to partici­
+pate at the sanctions hearing. Plaintiffs have failed to
+argue this exception. They have merely noted that North
+Carolina refused to participate at the sanctions hearing,
+and have cited no law in support of the proposition that
+this was a forfeit. We deem the exception abandoned. It
+was wisely abandoned, because it is meritless. North
+Carolina opposed the sanctions resolution and denied that
+the Commission had jurisdiction to impose sanctions
+against it.
+C
+Plaintiffs next take exception to the Special Master’s
+recommendation that no binding effect or even deference
+be accorded to the Commission’s conclusion that North
+Carolina violated Article 5(C) of the Compact. We are
+bound by the Commission’s conclusion of breach only if
+there is “an explicit provision or other clear indicatio[n]” in
+the Compact making the Commission the “sole arbiter of
+disputes” regarding a party State’s compliance with the
+Compact. Id., at 569–570. Plaintiffs assert there is such a
+provision, the second sentence of Article 7(C), which
+states: “The Commission is the judge of the qualifications
+of the party [S]tates and of its members and of their com­
+pliance with the conditions and requirements of this com­
+pact and the laws of the party [S]tates relating to the
+enactment of this compact.” 99 Stat. 1879.
+Plaintiffs greatly overread this provision. The limited
+nature of the authority to “judge” that it confers upon the
+
+
+Cite as: 560 U. S. ____ (2010)
+
+11
+
+Opinion of the Court
+
+Commission is clear from its context. The first sentence of
+Article 7(C) states that an eligible State “shall be de­
+clared” a party State “upon enactment of this compact into
+law by the [S]tate and upon [the] payment of” a $25,000
+fee, as “required by Article 4(H)(1).” Ibid. The second
+sentence makes the Commission the “judge” of four mat­
+ters, all of which concern status as a party State or Com
+mission member. First, the Commission is the judge of the
+“qualifications” of a State to become a party State (the
+qualifications set forth in Article 7(A) for the initial party
+States and in Article 7(B) for States that subsequently
+petition to join). Second, the Commission is the judge of
+the qualifications of the members of the Commission,
+which are specified in Article 4(A). Third, the Commission
+is the judge of a party State’s compliance with the “condi­
+tions” and “requirements” of the Compact. The former
+term is an obvious reference to Article 7(B): “The Commis­
+sion may establish such conditions as it deems necessary
+and appropriate to be met by a [S]tate wishing . . . to
+become a party [S]tate to this [C]ompact.” Id., at 1878.
+The accompanying term “requirements” also refers to
+Article 7’s prescriptions for prospective party States, such
+as paying the “fees required” under Article 7(C), id., at
+1879, and obtaining, as Article 7(B) requires, a two-thirds
+vote of the Commission in favor of admission. Finally, the
+Commission is the judge of the “laws of the party [S]tates
+relating to the enactment of this compact.” Art. 7(C), ibid.
+Again, that concerns status as a party State, which re­
+quires that the State “enac[t] . . . this compact into law,”
+ibid. The Commission is the “judge” of only these specific
+matters.
+This is not to say the Commission lacks authority to
+interpret the Compact or to say whether a party State has
+violated its terms. That is of course implicit in its power
+to sanction under Article 7(F). But because “the express
+terms of the [Southeast] Compact do not constitute the
+
+
+12
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+Commission as the sole arbiter” regarding North Caro­
+lina’s compliance with its obligations under the Compact,
+Texas v. New Mexico, 462 U. S., at 569, we are not bound
+to follow the Commission’s findings.
+Plaintiffs argue that we nonetheless owe deference to
+the Commission’s conclusion. But unless the text of an
+interstate compact directs otherwise, we do not review the
+actions of a compact commission “on the deferential model
+of judicial review of administrative action by a federal
+agency.” Id., at 566–567. The terms of this Compact do
+not establish that “this suit may be maintained only as
+one for judicial review of the Commission’s” determination
+of breach. Id., at 567. Accordingly, we do not apply ad­
+ministrative-law standards of review, but exercise our
+independent judgment as to both fact and law in executing
+our role as the “exclusive” arbiter of controversies between
+the States, §1251(a).
+D
+Plaintiffs’ next two exceptions are to the Special Mas­
+ter’s recommendations to deny their motion for summary
+judgment on their breach-of-contract claims, and to grant
+North Carolina’s motion for summary judgment on those
+claims. In resolving motions for summary judgment in
+cases within our original jurisdiction, we are not techni­
+cally bound by the Federal Rules of Civil Procedure, but
+we use Rule 56 as a guide. This Court’s Rule 17.2; Ne
+braska v. Wyoming, 507 U. S. 584, 590 (1993). Hence,
+summary judgment is appropriate where there “is no
+genuine issue as to any material fact” and the moving
+party is “entitled to a judgment as a matter of law.” Fed.
+Rule Civ. Proc. 56(c); see Celotex Corp. v. Catrett, 477 U. S.
+317, 322 (1986); Anderson v. Liberty Lobby, Inc., 477 U. S.
+242, 248 (1986).
+
+
+Cite as: 560 U. S. ____ (2010) 
+
+
+13
+
+Opinion of the Court 
+
+
+1
+
+Plaintiffs claim North Carolina breached the Compact in
+December 1997, when (as it admits) it ceased all efforts
+toward obtaining a license. At that point, in their view,
+North Carolina was no longer “tak[ing] appropriate steps
+to ensure that an application for a license to construct and
+operate a [low-level radioactive waste storage facility] is
+filed with and issued by the appropriate authority,” Art.
+5(C), 99 Stat. 1877. North Carolina says that once the
+Commission ceased providing financial assistance on
+December 1, and once it became clear there was insuffi­
+cient funding to complete the licensing phase, there were
+no more “appropriate” steps to take. The Special Master
+concluded that the phrase “appropriate steps” in Article
+5(C) was ambiguous, and that the parties’ course of per­
+formance established that North Carolina was not re­
+quired to take steps toward obtaining a license once it was
+made to bear the remaining financial burden of the licens­
+ing phase. Second Report 10–24, 35–36. Plaintiffs take
+exception to that conclusion.
+Article 5(C) does not require North Carolina to take any
+and all steps to license a regional-disposal facility; only
+those that are “appropriate.” Plaintiffs contend that this
+requires North Carolina to take the steps set forth in the
+regulations of the Nuclear Regulatory Commission govern­
+ing the filing and disposition of applications for licenses to
+operate radioactive waste disposal facilities, 10 CFR pt. 61
+(1997). Those regulations set forth some, but certainly not
+all, of the “steps” the State would have to take to obtain a
+license. But Article 5(C) does not incorporate the regula­
+tions by reference, much less describe them as the appro
+priate steps.
+We could accept Plaintiffs’ contention if “appropriate”
+meant “necessary” (the steps set forth in the regulation
+are assuredly necessary to obtaining a license). But it
+does not. Whether a particular step is “appropriate”—
+
+
+14
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+“[s]pecially suitable; fit; proper,” Webster’s Second 133—
+could depend upon many factors other than its mere in­
+dispensability to obtaining a license. It would not be
+appropriate, for example, to take a step whose cost greatly
+exceeded whatever benefits the license would confer, or if
+it was highly uncertain the license would ever issue.
+In determining whether, in terminating its efforts to
+obtain a license, North Carolina failed to take what the
+parties considered “appropriate” steps, the parties’ course
+of performance under the Compact is highly significant.
+See, e.g., New Jersey v. New York, 523 U. S. 767, 830–831
+(1998) (SCALIA, J., dissenting); Restatement (Second) of
+Contracts §§202(4), 203 (1979) (hereinafter Restatement).
+That firmly establishes that North Carolina was not ex­
+pected to go it alone—to proceed with the very expensive
+licensing process without any external financial assis­
+tance. The history of the Compact consists entirely of
+shared financial burdens. From the beginning, North
+Carolina made clear that it required financial assistance
+to do the extensive work required for obtaining a license.
+The Commission promptly declared it was “appropriate
+and necessary” to assist North Carolina with the costs.
+App. 63. It provided the vast majority of funding for li­
+censing-related activities—$80 million, compared to North
+Carolina’s $34 million. The Commission repeatedly noted
+the necessity (and propriety) of providing financial assis­
+tance to North Carolina, and reiterated its dedication to
+sharing the substantial financial burdens of the licensing
+phase. See, e.g., id., at 63, 71, 145. There is nothing to
+support the proposition that the other States had an obli­
+gation under the Compact to share the licensing costs
+through the Commission; but we doubt that they did so
+out of love for the Tarheel State. They did it, we think,
+because that was their understanding of how the Compact
+was supposed to work. One must take the Commission at
+its word, that it was “appropriate” to share the cost—
+
+
+Cite as: 560 U. S. ____ (2010)
+
+15
+
+Opinion of the Court
+
+which suggests that it would not have been appropriate to
+make North Carolina proceed on its own.
+Nor was North Carolina required after December 19,
+1997, to continue to expend its own funds at the same
+level it had previously (which Plaintiffs concede had satis­
+fied North Carolina’s obligation to take “appropriate
+steps”). Once the Commission refused to provide any
+further financial assistance, North Carolina would have
+had to assume an unlimited financial commitment to cover
+all remaining licensing costs. Even if it maintained its
+prior rate of appropriations going forward, it would not
+have come close to covering the at least $34 million needed
+for the last steps of the licensing phase. And since the
+income from the South Carolina facility had been termi­
+nated, there was no apparent prospect of funding for the
+construction phase (expected to cost at least $75 million).
+In connection with its August 1997 refusal to provide
+further assistance, the Commission itself had said, “[I]t
+will be imprudent to continue to deplete Commission
+resources for this purpose if a source of funds is not estab­
+lished soon for the ultimate completion of the project.” Id.,
+at 306, 307; Joint Supp. Fact Brief App. 36, 37. And in
+March 1998, the Commission “strongly” reiterated that “it
+would be imprudent to spend additional funds for licens­
+ing activities if funds will not be available to complete the
+project.” Id., at 59. What was imprudent for the Commis­
+sion would surely have been imprudent (and hence inap­
+propriate) for North Carolina as well. The State would
+have wasted millions of its taxpayers’ dollars on what
+seemed to be a futile effort.
+JUSTICE BREYER would uphold Plaintiffs’ challenge on
+this point. He believes that the Compact obligated North
+Carolina to fund and complete the licensing and construc­
+tion of a nuclear waste facility. Post, at 2, 4–6 (opinion
+concurring in part and dissenting in part). In fact, how­
+ever, North Carolina was not even contractually required
+
+
+16
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+to “secur[e] a license,” post, at 2, but only to take “appro­
+priate steps” to obtain one, Art. 5(C), 99 Stat. 1877. And
+nothing in the terms of the Compact required North Caro­
+lina either to provide “adequate funding” for or to “beg[i]n
+construction” on a regional facility, post, at 2. Other con­
+temporaneously enacted interstate compacts expressly
+provide that the host State is “responsible for the timely
+development” of a regional facility, Central Midwest Com­
+pact, Art. VI(f), 99 Stat. 1887; Midwest Compact,
+Art. VI(e), id., at 1898, or “shall . . . [c]ause a regional
+facility to be developed on a timely basis,” Rocky Mountain
+Low-Level Radioactive Waste Compact, Art. III(d)(i), id.,
+at 1903–1904. But the compact here before us has no such
+provision, and the contrast is telling.1 Texas v. New Mex
+ico, 462 U. S., at 565. Moreover, the Commission’s state­
+ments described in the preceding paragraph, that it would
+be imprudent to commit additional resources “ ‘if a source
+of funds is not established soon for the ultimate comple­
+tion of the project,’ ” or “ ‘if funds will not be available to
+complete the project,’ ” surely suggest that North Carolina
+is not committed to the funding by contract.
+JUSTICE BREYER asserts, post, at 4–5, that the rotating­
+——————
+1 The Compact provides only that the host State is “responsible for
+the availability . . . of their regional facilities in accordance with”
+Article 5(B). Art. 3(C), 99 Stat. 1873–1874. The latter section makes
+clear that responsibility for “availability” does not mean that the host
+State will fund construction of the facility, but that it will keep it open
+and not impose unreasonable restrictions on its use. JUSTICE BREYER is
+correct that the Compact says the Commission is not “responsible” for
+the costs of “the creation” of a regional facility. Art. 4(K)(1), id., at
+1876. But what is important here is that it does not say that the host
+State is responsible—which (if it were true) would almost certainly
+have been joined with saying who was not responsible. What JUSTICE
+BREYER overlooks is the possibility that no one is responsible, and the
+licensing and construction of the facility is meant to depend upon
+voluntary funding by interested parties, such as the party States, the
+Commission, and low-level radioactive waste generators.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+17
+
+Opinion of the Court
+
+host requirement in the Compact, see Art. 5(A), 99 Stat.
+1873, necessarily implies that North Carolina is solely
+responsible for the licensing and construction costs of its
+facility. But all that requirement entails is that a party
+State “shall not be designated” as a host State for a second
+time before “each [other] party [S]tate” has taken a turn.
+Ibid. It can perfectly well envision that the States will
+take turns in bearing the lead responsibility for getting
+the facility licensed, supervising its construction, and
+operating the facility on its soil. In fact, that is just what
+its text suggests, since it describes the responsibility that
+is to be rotated as the host State’s “obligation . . . to have a
+regional facility operated within its borders.” Ibid. Not to
+construct it, or pay for its construction, but to “have [it]
+operated within its borders.” As noted above, other con­
+temporaneously enacted compacts do spell out the obliga­
+tion of the host State to construct the facility. Still others
+at least provide that the host State will recoup its costs
+through disposal fees—which arguably suggests that the
+host State is to bear the costs. See, e.g., Central Compact,
+Art. III(d),
+99
+Stat.
+1865;
+Northeast
+Compact,
+Art. III(c)(2), id., at 1913. The compact before us here
+does not even contain that arguable suggestion.
+What it comes down to, then, is JUSTICE BREYER’s intui­
+tion that the whole point of the Compact was that each
+designated host State would bear the up-front costs of
+licensing and construction, but would eventually recoup
+those costs through its regional monopoly on the disposal
+of low-level radioactive waste. Post, at 5–6. He can cite no
+provision in the Compact which reflects such an under­
+standing, and the behavior of the parties contradicts it.2 It
+——————
+2 The course-of-dealing evidence that JUSTICE BREYER identifies, post,
+at 6–7, is not probative. The Commission’s statements that it is not
+legally responsible for costs and that at some point Commission funds
+will no longer be available, and North Carolina’s assurances that it will
+keep its commitments and honor its obligations, are perfectly compati­
+
+
+18
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+would, moreover, have been a foolish understanding, since
+the regional monopoly to recoup construction costs would
+not be a monopoly if South Carolina withdrew and contin­
+ued to operate its facility—which is exactly what hap­
+pened in 1995.3 Even leaving aside the principle, dis­
+cussed infra, at 21, that implied obligations are not to be
+read into interstate compacts, JUSTICE BREYER’s intuition
+fails to reflect the reality of what was implied.
+2
+Plaintiffs take exception to the Special Master’s rejec­
+tion of their alternative argument that North Carolina
+repudiated the Compact when it announced it would not
+take further steps toward obtaining a license. They argue
+that North Carolina’s announcement that it was shutting
+down the project constituted a refusal to tender any fur­
+ther performance under the contract.
+Plaintiffs’ repudiation theory fails for the same reasons
+their breach theory fails. A repudiation occurs when an
+obligor either informs an obligee “that the obligor will
+——————
+ble with the proposition that North Carolina did not have to provide all
+funding for licensing the facility, and that it would be “inappropriate” to
+proceed toward obtaining a license for a facility that would never be
+needed or built.
+3 South Carolina’s withdrawal from the Compact not only “could”
+affect North Carolina’s ability to recoup its facility costs, as JUSTICE
+BREYER grudgingly concedes, post, at 5; it unquestionably would. With
+a regional competitor in the Barnwell facility and declining demand for
+waste disposal facilities due to technological and other factors, App.
+261, 263–264, North Carolina would receive significantly lower reve­
+nues from its facility, id., at 261–262, 265. The document attached to a
+1996 letter from North Carolina to the Commission trumpeting “$600
+million in cost savings” that would come from a new facility, post, at 5,
+proves precisely the opposite of what JUSTICE BREYER thinks. The cost
+savings were to accrue “to all generators” of waste, App. 266 (emphasis
+added)—that is, those who would use North Carolina’s facility. Those
+savings would come, of course, from lower costs for waste disposal,
+which means that North Carolina would be charging lower rates than
+the Barnwell facility (and thus receiving lower revenues).
+
+
+Cite as: 560 U. S. ____ (2010)
+
+19
+
+Opinion of the Court
+
+commit a breach that would of itself give the obligee a
+claim for damages for total breach,” Restatement §250(a),
+or performs “a voluntary affirmative act which renders the
+obligor unable or apparently unable to perform without
+such a breach,” id., §250(b). Neither event occurred here.
+North Carolina never informed the Commission (or any
+party State) that it would not fulfill its Article 5(C) obliga­
+tion to take appropriate steps toward obtaining a license.
+Rather, it refused to take further steps that were not
+appropriate. Nor did North Carolina take an affirmative
+act that rendered it unable to perform. To the contrary, it
+continued to fund the Authority for almost two years; it
+maintained the records of the Authority; and it preserved
+the work completed to date while waiting for alternative
+funding sources that would enable resumption of the
+project. Plaintiffs further argue that a repudiation was
+effected by North Carolina’s refusal to take further steps
+toward licensing “except on conditions which go beyond”
+the terms of the Compact, Restatement §250, Comment b
+(internal quotation marks omitted)—i.e., the provision of
+external-financial assistance. But, as we have discussed,
+external-financial assistance was contemplated by the
+Compact.
+E
+Plaintiffs’ final exception is to the Special Master’s
+recommendation to deny their motion for summary judg­
+ment, and to grant North Carolina’s cross-motion for
+summary judgment, on their claim that North Carolina
+violated the implied duty of good faith and fair dealing
+when it withdrew from the Compact in July 1999. Plain­
+tiffs concede that North Carolina could withdraw from the
+Compact, but contend it could not do so in “bad faith.”
+And, they assert, its withdrawal after accepting $80 mil­
+lion from the Commission, and with monetary sanctions
+pending against it, was the epitome of bad faith.
+
+
+20
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+We have never held that an interstate compact approved
+by Congress includes an implied duty of good faith and
+fair dealing. Of course “[e]very contract imposes upon
+each party a duty of good faith and fair dealing in its
+performance and enforcement.” Restatement §205. But
+an interstate compact is not just a contract; it is a federal
+statute enacted by Congress. If courts were authorized to
+add a fairness requirement to the implementation of
+federal statutes, judges would be potent lawmakers in­
+deed. We do not—we cannot—add provisions to a federal
+statute. See, e.g., Connecticut Nat. Bank v. Germain, 503
+U. S. 249, 254 (1992). And in that regard a statute which
+is a valid interstate compact is no different. Texas v. New
+Mexico, 462 U. S., at 564, 565. We are especially reluctant
+to read absent terms into an interstate compact given the
+federalism and separation-of-powers concerns that would
+arise were we to rewrite an agreement among sovereign
+States, to which the political branches consented. As we
+have said before, we will not “ ‘order relief inconsistent
+with [the] express terms’ ” of a compact, “no matter what
+the equities of the circumstances might otherwise invite.”
+New Jersey v. New York, 523 U. S., at 811 (quoting Texas
+v. New Mexico, supra, at 564).
+The Compact imposes no limitation on North Carolina’s
+exercise of its statutory right to withdraw. Under Article
+7(G), which governed North Carolina’s withdrawal,4 “any
+party [S]tate may withdraw from the compact by enacting
+a law repealing the compact.” 99 Stat. 1879. There is no
+restriction upon a party State’s enactment of such a law,
+——————
+4 After North Carolina was designated as a host State, the Compact
+was amended to add Article 7(H), which restricted the ability of a party
+State to withdraw to within 30 days after a second regional-disposal
+facility opened. Southeast Interstate Low-Level Radioactive Waste
+Compact Amendments Consent Act of 1989, Pub. L. 101–171, §2, 103
+Stat. 1289. That provision did not apply when North Carolina with­
+drew, because its facility had not been opened.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+21
+
+Opinion of the Court
+
+and nothing in the Compact suggests the parties under­
+stood there were “certain purposes for which the expressly
+conferred power . . . could not be employed.” Tymshare,
+Inc. v. Covell, 727 F. 2d 1145, 1153 (CADC 1984) (opinion
+for the court by Scalia, J.). Moreover, Article 3 ensures
+that no such restrictions may be implied, since it provides
+that the Compact shall not be “construed to infringe upon,
+limit or abridge” the sovereign rights of a party State.
+A comparison of the Compact with other, contemporane­
+ously enacted, compacts confirms there is no such limita­
+tion on North Carolina’s right to withdraw. See Texas v.
+New Mexico, supra, at 565. In contrast to the Compact,
+several other compacts concerning the creation of regional
+facilities for the disposal of low-level radioactive waste
+contain express good-faith limitations upon a State’s
+exercise of its rights.
+See, e.g., Central Compact,
+Art. III(f), 99 Stat. 1865; Central Midwest Compact,
+Art. V(a), id., at 1886; Midwest Interstate Low-Level
+Radioactive Waste Management Compact, Art. V(a), id., at
+1897.
+III
+North Carolina submits two exceptions—one to the
+Special Master’s Second Report and one to his Preliminary
+Report.
+A
+North Carolina takes exception to the recommendation
+of the Second Report to deny without prejudice its motion
+for summary judgment on the merits of Plaintiffs’ equita­
+ble claims in Counts III–V. North Carolina’s motion was
+based on the ground that, as a matter of law, its obliga­
+tions are governed entirely by the Compact. The Special
+Master recommended denying the motion without preju­
+dice, because the claims in Counts III–V “requir[e] further
+briefing and argument, and possibly further discovery.”
+
+
+22
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+Second Report 41. A threshold question for all claims in
+those Counts, for example, is whether they “belong to the
+Commission, the Plaintiff States, or both.” Ibid. Perhaps
+the States can bring them in their capacity as parens
+patriae, but as the Special Master noted “the parties have
+not adequately briefed this issue, and its resolution in this
+case is unclear.” Id., at 42–43.
+We think it was reasonable for the Special Master to
+defer ruling. We granted the Special Master discretion to
+“direct subsequent proceedings” and “to submit such re­
+ports as he may deem appropriate.” 540 U. S., at 1014.
+He could have deferred filing any report until full factual
+discovery had been completed and all of the legal issues,
+many of which are novel and challenging, had been fully
+briefed, considered, and decided. Instead, he concluded
+that our immediate resolution of Counts I and II would
+facilitate the efficient disposition of the case; and in agree­
+ing to hear exceptions to his Preliminary Report and
+Second Report we implicitly agreed. His deferral of ruling
+on the merits of Counts III–V is part and parcel of the
+same case management, and we find no reason to upset it.
+B
+North Carolina takes exception to the Special Master’s
+recommendation in his Preliminary Report to deny with­
+out prejudice its motion to dismiss the Commission’s
+claims on the ground that they are barred by the Eleventh
+Amendment to the Constitution and by structural princi­
+ples of state sovereign immunity. The Special Master
+assumed for the sake of argument that a State possesses
+sovereign immunity against a claim brought by an entity,
+like the Commission, created by an interstate compact,5
+——————
+5 We
+
+have held that an entity created through a valid exercise of the
+Interstate Compact Clause is not entitled to immunity from suit under
+the Eleventh Amendment, see Hess v. Port Authority Trans-Hudson
+Corporation, 513 U. S. 30 (1994), but we have not decided whether such
+
+
+Cite as: 560 U. S. ____ (2010)
+
+23
+
+Opinion of the Court
+
+Preliminary Report 5. But he recommended denying
+North Carolina’s motion to dismiss “at this point in the
+proceedings.” Ibid.
+The Special Master relied upon our decision in Arizona
+v. California, 460 U. S. 605 (1983), which held that the
+Eleventh Amendment did not bar the participation of
+several Indian Tribes in an original action concerning the
+allocation of rights to the waters of the Colorado River.
+The United States had already intervened, in its capacity
+as trustee for several Indian Tribes; but the Tribes moved
+to intervene as well, and the States opposed. We granted
+the Tribes’ motion, stating that the States do not enjoy
+sovereign immunity against the United States, and “[t]he
+Tribes do not seek to bring new claims or issues against
+the States, but only ask leave to participate in an adjudi­
+cation of their vital water rights that was commenced by
+the United States.” Id., at 614. Thus, “our judicial power
+over the controversy is not enlarged by granting leave to
+intervene, and the States’ sovereign immunity protected
+by the Eleventh Amendment is not compromised.” Ibid.
+Relying on this holding, the Special Master held that
+sovereign immunity does not bar the Commission’s suit, so
+long as the Commission asserts the same claims and seeks
+the same relief as the other plaintiffs. Whether that is so,
+he said, “cannot be resolved without further factual and
+legal development[s],” Preliminary Report 6, and so North
+Carolina is free to renew its motion at a later point, id., at
+13–14. See Second Report 45–48.
+Assuming (as the Special Master did) that the Commis­
+sion’s claims against North Carolina implicate sovereign
+immunity, we agree with his disposition. North Carolina
+contends that making application of the Constitution’s
+waiver of sovereign immunity turn upon whether a
+nonsovereign party seeks to expand the relief sought is
+—————— 
+
+an entity’s suit against a State is barred by sovereign immunity. 
+
+
+
+24
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+inconsistent with our decisions construing state sovereign
+immunity as a “personal privilege.” College Savings Bank
+v. Florida Prepaid Postsecondary Ed. Expense Bd., 527
+U. S. 666, 675 (1999) (internal quotation marks omitted);
+see also Alden, 527 U. S., at 758. But nothing in those
+cases suggests that Arizona v. California has been implic­
+itly overruled.6 See Shalala v. Illinois Council on Long
+Term Care, Inc., 529 U. S. 1, 18 (2000). Neither of them
+arose under our original jurisdiction, and neither cited
+Arizona v. California or discussed—at all—the sovereign
+immunity issue that case addressed. That sovereign
+immunity is a personal privilege of the States says noth­
+ing about whether that privilege “is not compromised,”
+Arizona v. California, supra, at 614, by an additional,
+nonsovereign plaintiff’s bringing an entirely overlapping
+claim for relief that burdens the State with no additional
+defense or liability.7
+North Carolina contends that Arizona v. California
+cannot apply to the Commission’s claims, because the
+Commission does not—indeed, cannot—assert the same
+claims or seek the same relief as the plaintiff States. We
+disagree. In the bill of complaint, the States and the
+Commission assert the same claims and request the same
+relief. Bill of Complaint ¶¶62–86 and Prayer for Relief.
+Their claim for restitution of $80 million cannot, given the
+——————
+6 North
+
+Carolina has not asked us to overrule Arizona v. California,
+460 U. S. 605 (1983). We decline to do so on our own motion and
+without argument. We therefore do not address the merits of THE
+CHIEF JUSTICE’s dissent.
+7 North Carolina also asserts that our decisions in Pennhurst State
+School and Hospital v. Halderman, 465 U. S. 89 (1984), and County of
+Oneida v. Oneida Indian Nation of N. Y., 470 U. S. 226 (1985), under­
+mine Arizona v. California, supra, at 614. They do not. In neither case
+were there entirely overlapping claims for relief between sovereign and
+nonsovereign plaintiffs. See Pennhurst, supra, at 103, n. 12. Indeed, in
+County of Oneida there was no sovereign plaintiff.
+
+
+Cite as: 560 U. S. ____ (2010)
+
+25
+
+Opinion of the Court
+
+other allegations of the complaint, be thought to be $80
+million payable to each of the four plaintiff States and the
+Commission.
+North Carolina argues, however, that summary judg­
+ment in its favor is appropriate because it is clear that the
+Commission, and not the plaintiff States, provided $80
+million to North Carolina—wherefore, as a matter of law,
+only the Commission can claim entitlement to $80 million,
+either as a measure of damages for breach of the Compact
+under Counts I and II of the bill of complaint, see Re­
+statement §370, Comment a, and §373, or under the un­
+just enrichment, promissory estoppel, and money-had-and­
+received theories of recovery in Counts III, IV, and V, see,
+e.g., Restatement of Restitution §1, Comment a (1936).
+And, it contends, a stand-alone suit by the Commission is
+barred by sovereign immunity.
+With regard to Counts I and II, at least, we disagree.
+The Commission’s claims under those Compact-related
+Counts are wholly derivative of the States’ claims. See
+Arizona v. California, supra, at 614. The Commission is
+“a legal entity separate and distinct from” the States that
+are parties to the Compact. Art. 4(M)(1), 99 Stat. 1877.
+Since it is not a party it has neither a contractual right to
+performance by the party States nor enforceable statutory
+rights under Article 5 of the Compact, see Bennett v.
+Spear, 520 U. S. 154, 162–163 (1997). The Compact does,
+however, authorize the Commission to “act or appear on
+behalf of any party [S]tate or [S]tates . . . as an intervenor
+or party in interest before . . . any court of law,” Art.
+4(E)(10), 99 Stat. 1875, and it is obviously in this capacity
+that the Commission seeks to vindicate the plaintiff
+States’ statutory and contractual rights in Counts I and II.
+Its Count I and Count II claims therefore rise or fall with
+the claims of the States. While the Commission may not
+bring them in a stand-alone action under this Court’s
+original jurisdiction, see §1251(a), it may assert them in
+
+
+26
+
+ALABAMA v. NORTH CAROLINA
+Opinion of the Court
+
+this Court alongside the plaintiff States, see Arizona v.
+California, 460 U. S., at 614. The summary judgment
+disallowing the underlying claims on their merits renders
+the sovereign immunity question with regard to any relief
+the Commission alone might have on those claims moot.
+Counts III–V, which do not rely upon the Compact,
+stand on a different footing. As to them, while the Com­
+mission again seemingly makes the same claims and seeks
+the same relief as the States, it is conceivable that as a
+matter of law the Commission’s claims are not identical.
+The Commission can claim restitution as the party that
+paid the money to North Carolina; the other plaintiffs
+cannot claim it on that basis. Whether this means that
+the claims are not identical for Arizona v. California pur­
+poses, and that the Commission’s Counts III–V claims
+must be dismissed on sovereign immunity grounds, is a
+question that the Special Master declined to resolve until
+the merits issues were further clarified. We have ap­
+proved his deferral of those issues, and we likewise ap­
+prove his deferral of the related sovereign immunity issue.
+*
+*
+*
+We overrule the exceptions of Plaintiffs and North
+Carolina to the Special Master’s Reports, and we adopt the
+recommendations of the Special Master. We grant North
+Carolina’s motion to dismiss Count I. We grant North
+Carolina’s motion for summary judgment on Count II. We
+deny Plaintiffs’ motions for judgment on Counts I and II.
+And we deny without prejudice North Carolina’s motion to
+dismiss the Commission’s claims on the grounds of sover­
+eign immunity and its motion for summary judgment on
+Counts III–V.
+It is so ordered.
+
+

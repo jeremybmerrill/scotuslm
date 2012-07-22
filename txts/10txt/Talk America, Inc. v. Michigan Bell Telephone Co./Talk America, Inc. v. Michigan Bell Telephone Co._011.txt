@@ -1,0 +1,47 @@
+8
+
+TALK AMERICA, INC. v. MICHIGAN BELL 
+
+TELEPHONE CO.
+Opinion of the Court 
+
+
+
+
+
+unless the interpretation is “ ‘plainly erroneous or incon­
+sistent with the regulation[s]’ ” or there is any other “ ‘rea­
+son to suspect that the interpretation does not reflect the
+agency’s fair and considered judgment on the matter in
+question.’ ” Id., at ___, ___ (slip op., at 12, 14) (quoting
+Auer v. Robbins, 519 U. S. 452, 461, 462 (1997)).
+The Commission contends that its regulations require
+AT&T to provide access at cost-based rates to its exist­
+ing entrance facilities for the purpose of interconnection.
+The Commission’s interpretation proceeds in three steps.
+First, an incumbent LEC must lease “technically feasible”
+facilities for interconnection. Second, entrance facilities are among the facilities that an incumbent must
+make available for interconnection, if technically feasible.
+Third, it is technically feasible to provide access to the
+particular entrance facilities at issue in these cases.
+1
+The Commission first contends that an incumbent LEC
+must lease, at cost-based rates, any requested facilities
+for obtaining interconnection with the incumbent LEC’s
+network, unless it is technically infeasible to do so. Sec­
+tion 251(c)(2) mandates that an incumbent LEC provide
+interconnection, at cost-based rates, “at any technically
+feasible point within the carrier’s network.” The FCC
+has long construed §251(c)(2) to require incumbent LECs
+to provide, at cost-based rates, “any technically feasible
+method of obtaining interconnection . . . at a particular
+point.” 47 CFR §51.321(a) (2010).
+The requirement in §51.321(a) to provide a “method of
+obtaining interconnection,” the Commission argues, en­
+compasses a duty to lease an existing facility to a compet­
+ing LEC. When the Commission originally promulgated
+§51.321(a), it explained that incumbent LECs would be
+required to “adapt their facilities to interconnection” and
+to “accept the novel use of, and modification to, [their]
+
+

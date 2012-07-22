@@ -1,0 +1,442 @@
+Cite as: 560 U. S. ____ (2010)
+
+1
+
+Opinion of KENNEDY, J.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 08–1151
+_________________
+
+STOP THE BEACH RENOURISHMENT, INC., 
+
+PETITIONER v. FLORIDA DEPARTMENT OF 
+
+ENVIRONMENTAL PROTECTION ET AL. 
+
+ON WRIT OF CERTIORARI TO THE SUPREME COURT OF
+
+FLORIDA
+
+[June 17, 2010] 
+
+
+JUSTICE KENNEDY, with whom JUSTICE SOTOMAYOR
+joins, concurring in part and concurring in the judgment.
+The Court’s analysis of the principles that control own
+ership of the land in question, and of the rights of peti
+tioner’s members as adjacent owners, is correct in my
+view, leading to my joining Parts I, IV, and V of the
+Court’s opinion. As JUSTICE BREYER observes, however,
+this case does not require the Court to determine whether,
+or when, a judicial decision determining the rights of
+property owners can violate the Takings Clause of the
+Fifth Amendment of the United States Constitution. This
+separate opinion notes certain difficulties that should be
+considered before accepting the theory that a judicial
+decision that eliminates an “established property right,”
+ante, at 21, constitutes a violation of the Takings Clause.
+The Takings Clause is an essential part of the constitu
+tional structure, for it protects private property from
+expropriation without just compensation; and the right to
+own and hold property is necessary to the exercise and
+preservation of freedom. The right to retain property
+without the fact or even the threat of that sort of expro
+priation is, of course, applicable to the States under the
+Due Process Clause of the Fourteenth Amendment. Chi
+cago, B. & Q. R. Co. v. Chicago, 166 U. S. 226, 239 (1897).
+
+
+2
+
+STOP THE BEACH RENOURISHMENT, INC. v. FLOR- 
+
+IDA DEPT. OF ENVIRONMENTAL PROTECTION 
+
+Opinion of KENNEDY, J. 
+
+
+The right of the property owner is subject, however, to
+the rule that the government does have power to take
+property for a public use, provided that it pays just com
+pensation.
+See First English Evangelical Lutheran
+Church of Glendale v. County of Los Angeles, 482 U. S.
+304, 314–315 (1987). This is a vast governmental power.
+And typically, legislative bodies grant substantial discre
+tion to executive officers to decide what property can be
+taken for authorized projects and uses. As a result, if an
+authorized executive agency or official decides that Black
+acre is the right place for a fire station or Greenacre is the
+best spot for a freeway interchange, then the weight and
+authority of the State are used to take the property, even
+against the wishes of the owner, who must be satisfied
+with just compensation.
+In the exercise of their duty to protect the fisc, both the
+legislative and executive branches monitor, or should
+monitor, the exercise of this substantial power. Those
+branches are accountable in their political capacity for the
+proper discharge of this obligation.
+To enable officials to better exercise this great power in
+a responsible way, some States allow their officials to take
+a second look after property has been condemned and a
+jury returns a verdict setting the amount of just compen
+sation. See, e.g., Cal. Civ. Proc. Code Ann. §1268.510
+(2007).
+If the condemning authority, usually acting
+through the executive, deems the compensation too high to
+pay for the project, it can decide not to take the property
+at all. The landowner is reimbursed for certain costs and
+expenses of litigation and the property remains in his or
+her hands. See, e.g., §1268.610(a).
+This is just one aspect of the exercise of the power to
+select what property to condemn and the responsibility to
+ensure that the taking makes financial sense from the
+State’s point of view. And, as a matter of custom and
+practice, these are matters for the political branches—the
+
+
+Cite as: 560 U. S. ____ (2010)
+
+3
+
+Opinion of KENNEDY, J.
+
+legislature and the executive—not the courts. See First
+English, supra, at 321 (“[T]he decision to exercise the
+power of eminent domain is a legislative function”).
+If a judicial decision, as opposed to an act of the execu
+tive or the legislature, eliminates an established property
+right, the judgment could be set aside as a deprivation of
+property without due process of law. The Due Process
+Clause, in both its substantive and procedural aspects, is a
+central limitation upon the exercise of judicial power. And
+this Court has long recognized that property regulations
+can be invalidated under the Due Process Clause. See,
+e.g., Lingle v. Chevron U. S. A. Inc., 544 U. S. 528, 542
+(2005); Goldblatt v. Hempstead, 369 U. S. 590, 591, 592–
+593 (1962); Demorest v. City Bank Farmers Trust Co., 321
+U. S. 36, 42–43 (1944); Broad River Power Co. v. South
+Carolina ex rel. Daniel, 281 U. S. 537, 539, 540–541
+(1930); Washington ex rel. Seattle Title Trust Co. v.
+Roberge, 278 U. S. 116, 121 (1928); Nectow v. Cambridge,
+277 U. S. 183, 188 (1928); Village of Euclid v. Ambler
+Realty Co., 272 U. S. 365, 395 (1926); see also Pennsyl
+vania Coal Co. v. Mahon, 260 U. S. 393, 413 (1922) (there
+must be limits on government’s ability to diminish prop
+erty values by regulation “or the contract and due process
+clauses are gone”). It is thus natural to read the Due
+Process Clause as limiting the power of courts to eliminate
+or change established property rights.
+The Takings Clause also protects property rights, and it
+“operates as a conditional limitation, permitting the gov
+ernment to do what it wants so long as it pays the charge.”
+Eastern Enterprises v. Apfel, 524 U. S. 498, 545 (1998)
+(KENNEDY, J., concurring in judgment and dissenting in
+part). Unlike the Due Process Clause, therefore, the
+Takings Clause implicitly recognizes a governmental
+power while placing limits upon that power. Thus, if the
+Court were to hold that a judicial taking exists, it would
+presuppose that a judicial decision eliminating established
+
+
+4
+
+STOP THE BEACH RENOURISHMENT, INC. v. FLOR- 
+
+IDA DEPT. OF ENVIRONMENTAL PROTECTION 
+
+Opinion of KENNEDY, J. 
+
+
+property rights is “otherwise constitutional” so long as the
+State compensates the aggrieved property owners. Ibid.
+There is no clear authority for this proposition.
+When courts act without direction from the executive or
+legislature, they may not have the power to eliminate
+established property rights by judicial decision. “Given
+that the constitutionality” of a judicial decision altering
+property rights “appears to turn on the legitimacy” of
+whether the court’s judgment eliminates or changes estab
+lished property rights “rather than on the availability of
+compensation, . . . the more appropriate constitutional
+analysis arises under general due process principles
+rather than under the Takings Clause.” Ibid. Courts,
+unlike the executive or legislature, are not designed to
+make policy decisions about “the need for, and likely effec
+tiveness of, regulatory actions.” Lingle, supra, at 545.
+State courts generally operate under a common-law tradi
+tion that allows for incremental modifications to property
+law, but “this tradition cannot justify a carte blanch judi
+cial authority to change property definitions wholly free of
+constitutional limitations.” Walston, The Constitution and
+Property: Due Process, Regulatory Takings, and Judicial
+Takings, 2001 Utah L. Rev. 379, 435.
+The Court would be on strong footing in ruling that a
+judicial decision that eliminates or substantially changes
+established property rights, which are a legitimate expec
+tation of the owner, is “arbitrary or irrational” under the
+Due Process Clause. Lingle, 544 U. S., at 542; see id., at
+548–549 (KENNEDY, J., concurring); see also Perry v.
+Sindermann, 408 U. S. 593, 601 (1972) (“ ‘[P]roperty’ ”
+interests protected by the Due Process Clauses are those
+“that are secured by ‘existing rules or understandings’ ”
+(quoting Board of Regents of State Colleges v. Roth, 408
+U. S. 564, 577 (1972))). Thus, without a judicial takings
+doctrine, the Due Process Clause would likely prevent a
+State from doing “by judicial decree what the Takings
+
+
+Cite as: 560 U. S. ____ (2010)
+
+5
+
+Opinion of KENNEDY, J.
+
+Clause forbids it to do by legislative fiat.” Ante, at 8. The
+objection that a due process claim might involve close
+questions concerning whether a judicial decree extends
+beyond what owners might have expected is not a sound
+argument; for the same close questions would arise with
+respect to whether a judicial decision is a taking. See
+Apfel, supra, at 541 (opinion of KENNEDY, J.) (“Cases
+attempting to decide when a regulation becomes a taking
+are among the most litigated and perplexing in current
+law”); Penn Central Transp. Co. v. New York City, 438
+U. S. 104, 123 (1978) (“The question of what constitutes a
+‘taking’ for purposes of the Fifth Amendment has proved
+to be a problem of considerable difficulty”).
+To announce that courts too can effect a taking when
+they decide cases involving property rights, would raise
+certain difficult questions. Since this case does not require
+those questions to be addressed, in my respectful view, the
+Court should not reach beyond the necessities of the case
+to announce a sweeping rule that court decisions can be
+takings, as that phrase is used in the Takings Clause. The
+evident reason for recognizing a judicial takings doctrine
+would be to constrain the power of the judicial branch. Of
+course, the judiciary must respect private ownership. But
+were this Court to say that judicial decisions become
+takings when they overreach, this might give more power
+to courts, not less.
+Consider the instance of litigation between two property
+owners to determine which one bears the liability and
+costs when a tree that stands on one property extends its
+roots in a way that damages adjacent property. See, e.g.,
+Fancher v. Fagella, 274 Va. 549, 650 S. E. 2d 519 (2007).
+If a court deems that, in light of increasing urbanization,
+the former rule for allocation of these costs should be
+changed, thus shifting the rights of the owners, it may
+well increase the value of one property and decrease the
+value of the other. This might be the type of incremental
+
+
+6
+
+STOP THE BEACH RENOURISHMENT, INC. v. FLOR- 
+
+IDA DEPT. OF ENVIRONMENTAL PROTECTION 
+
+Opinion of KENNEDY, J. 
+
+
+modification under state common law that does not violate
+due process, as owners may reasonably expect or antici
+pate courts to make certain changes in property law. The
+usual due process constraint is that courts cannot abandon
+settled principles. See, e.g., Rogers v. Tennessee, 532 U. S.
+451, 457 (2001) (citing Bouie v. City of Columbia, 378 U. S.
+347, 354 (1964)); Apfel, 524 U. S., at 548–549 (opinion of
+KENNEDY, J.); see also Perry, supra, at 601; Roth, supra,
+at 577.
+But if the state court were deemed to be exercising the
+power to take property, that constraint would be removed.
+Because the State would be bound to pay owners for tak
+ings caused by a judicial decision, it is conceivable that
+some judges might decide that enacting a sweeping new
+rule to adjust the rights of property owners in the context
+of changing social needs is a good idea. Knowing that the
+resulting ruling would be a taking, the courts could go
+ahead with their project, free from constraints that would
+otherwise confine their power. The resulting judgment as
+between the property owners likely could not be set aside
+by some later enactment. See Plaut v. Spendthrift Farm,
+Inc., 514 U. S. 211, 217 (1995) (leaving open whether
+legislation reopening final judgments violates Due Process
+Clause). And if the litigation were a class action to decide,
+for instance, whether there are public rights of access that
+diminish the rights of private ownership, a State might
+find itself obligated to pay a substantial judgment for the
+judicial ruling. Even if the legislature were to subse
+quently rescind the judicial decision by statute, the State
+would still have to pay just compensation for the tempo
+rary taking that occurred from the time of the judicial
+decision to the time of the statutory fix. See First English,
+482 U. S., at 321.
+The idea, then, that a judicial takings doctrine would
+constrain judges might just well have the opposite effect.
+It would give judges new power and new assurance that
+
+
+Cite as: 560 U. S. ____ (2010)
+
+7
+
+Opinion of KENNEDY, J.
+
+changes in property rights that are beneficial, or thought
+to be so, are fair and proper because just compensation
+will be paid. The judiciary historically has not had the
+right or responsibility to say what property should or
+should not be taken.
+Indeed, it is unclear whether the Takings Clause was
+understood, as a historical matter, to apply to judicial
+decisions. The Framers most likely viewed this Clause as
+applying only to physical appropriation pursuant to the
+power of eminent domain. See Lucas v. South Carolina
+Coastal Council, 505 U. S. 1003, 1028, n. 15 (1992). And it
+appears these physical appropriations were traditionally
+made by legislatures. See 3 J. Story, Commentaries on
+the Constitution of the United States §1784, p. 661 (1833).
+Courts, on the other hand, lacked the power of eminent
+domain. See 1 W. Blackstone, Commentaries 135 (W.
+Lewis ed. 1897). The Court’s Takings Clause jurispru
+dence has expanded beyond the Framers’ understanding,
+as it now applies to certain regulations that are not physi
+cal appropriations. See Lucas, supra, at 1014 (citing
+Mahon, 260 U. S. 393). But the Court should consider
+with care the decision to extend the Takings Clause in
+a manner that might be inconsistent with historical
+practice.
+There are two additional practical considerations that
+the Court would need to address before recognizing judi
+cial takings. First, it may be unclear in certain situations
+how a party should properly raise a judicial takings claim.
+“[I]t is important to separate out two judicial actions—the
+decision to change current property rules in a way that
+would constitute a taking, and the decision to require
+compensation.”
+Thompson, Judicial Takings, 76 Va.
+L. Rev. 1449, 1515 (1990). In some contexts, these issues
+could arise separately. For instance, assume that a state
+court opinion explicitly holds that it is changing state
+property law, or that it asserts that is not changing the
+
+
+8
+
+STOP THE BEACH RENOURISHMENT, INC. v. FLOR- 
+
+IDA DEPT. OF ENVIRONMENTAL PROTECTION 
+
+Opinion of KENNEDY, J. 
+
+
+law but there is no “fair or substantial basis” for this
+statement. Broad River, 281 U. S., at 540. (Most of these
+cases may arise in the latter posture, like inverse condem
+nation claims where the State says it is not taking prop
+erty and pays no compensation.) Call this Case A. The
+only issue in Case A was determining the substance of
+state property law. It is doubtful that parties would raise
+a judicial takings claim on appeal, or in a petition for a
+writ of certiorari, in Case A, as the issue would not have
+been litigated below. Rather, the party may file a sepa
+rate lawsuit—Case B—arguing that a taking occurred in
+light of the change in property law made by Case A. After
+all, until the state court in Case A changes the law, the
+party will not know if his or her property rights will have
+been eliminated. So res judicata probably would not bar
+the party from litigating the takings issue in Case B.
+Second, it is unclear what remedy a reviewing court
+could enter after finding a judicial taking. It appears
+under our precedents that a party who suffers a taking is
+only entitled to damages, not equitable relief: The Court
+has said that “[e]quitable relief is not available to enjoin
+an alleged taking of private property for a public use . . .
+when a suit for compensation can be brought against the
+sovereign subsequent to the taking,” Ruckelshaus v. Mon
+santo Co., 467 U. S. 986, 1016 (1984), and the Court sub
+sequently held that the Takings Clause requires the avail
+ability of a suit for compensation against the States, First
+English, supra, at 321–322. It makes perfect sense that
+the remedy for a Takings Clause violation is only dam
+ages, as the Clause “does not proscribe the taking of prop
+erty; it proscribes taking without just compensation.”
+Williamson County Regional Planning Comm’n v. Hamil
+ton Bank of Johnson City, 473 U. S. 172, 194 (1985).
+It is thus questionable whether reviewing courts could
+invalidate judicial decisions deemed to be judicial takings;
+they may only be able to order just compensation. In the
+
+
+Cite as: 560 U. S. ____ (2010)
+
+9
+
+Opinion of KENNEDY, J.
+
+posture discussed above where Case A changes the law
+and Case B addresses whether that change is a taking, it
+is not clear how the Court, in Case B, could invalidate the
+holding of Case A. If a single case were to properly ad
+dress both a state court’s change in the law and whether
+the change was a taking, the Court might be able to give
+the state court a choice on how to proceed if there were a
+judicial taking. The Court might be able to remand and
+let the state court determine whether it wants to insist on
+changing its property law and paying just compensation or
+to rescind its holding that changed the law. Cf. First
+English, 482 U. S., at 321 (“Once a court determines that a
+taking has occurred, the government retains the whole
+range of options already available—amendment of the
+regulation, withdrawal of the invalidated regulation, or
+exercise of eminent domain”). But that decision would
+rest with the state court, not this Court; so the state court
+could still force the State to pay just compensation. And
+even if the state court decided to rescind its decision that
+changed the law, a temporary taking would have occurred
+in the interim. See ibid.
+These difficult issues are some of the reasons why the
+Court should not reach beyond the necessities of the case
+to recognize a judicial takings doctrine. It is not wise,
+from an institutional standpoint, to reach out and decide
+questions that have not been discussed at much length by
+courts and commentators. This Court’s dicta in William
+son County, supra, at 194–197, regarding when regulatory
+takings claims become ripe, explains why federal courts
+have not been able to provide much analysis on the issue
+of judicial takings. See San Remo Hotel, L. P. v. City and
+County of San Francisco, 545 U. S. 323, 351 (2005)
+(Rehnquist, C. J., concurring in judgment) (“Williamson
+County’s state-litigation rule has created some real
+anomalies, justifying our revisiting the issue”). Until
+Williamson County is reconsidered, litigants will have to
+
+
+10
+
+STOP THE BEACH RENOURISHMENT, INC. v. FLOR- 
+
+IDA DEPT. OF ENVIRONMENTAL PROTECTION 
+
+Opinion of KENNEDY, J. 
+
+
+press most of their judicial takings claims before state
+courts, which are “presumptively competent . . . to adjudi
+cate claims arising under the laws of the United States.”
+Tafflin v. Levitt, 493 U. S. 455, 458 (1990). If and when
+future cases show that the usual principles, including
+constitutional principles that constrain the judiciary like
+due process, are somehow inadequate to protect property
+owners, then the question whether a judicial decision can
+effect a taking would be properly presented. In the mean
+time, it seems appropriate to recognize that the substan
+tial power to decide whose property to take and when to
+take it should be conceived of as a power vested in the
+political branches and subject to political control.
+
+

@@ -1,0 +1,39 @@
+4
+
+GONZALEZ v. THALER
+Opinion of the Court
+
+rari to decide two questions, both of which implicate splits
+in authority: (1) whether the Court of Appeals had jurisdiction to adjudicate Gonzalez’s appeal, notwithstanding
+the §2253(c)(3) defect;1 and (2) whether Gonzalez’s habeas
+petition was time barred under §2244(d)(1) due to the
+date on which his judgment became final.2 564 U. S. ___
+(2011).
+II
+We first consider whether the Court of Appeals had jurisdiction to adjudicate Gonzalez’s appeal.
+A
+Section 2253, as amended by AEDPA, governs appeals
+in habeas corpus proceedings.
+The first subsection,
+§2253(a), is a general grant of jurisdiction, providing that
+district courts’ final orders in habeas proceedings “shall be
+subject to review, on appeal, by the court of appeals.” 28
+U. S. C. §2253(a). The second, §2253(b), limits jurisdiction
+over a particular type of final order. See §2253(b) (“There
+shall be no right of appeal from a final order in a proceeding to test the validity of a warrant [of] remov[al] . . .”).
+This case concerns the third, §2253(c), which provides:
+“(1) Unless a circuit justice or judge issues a certificate of appealability, an appeal may not be taken to
+——————
+1 The Circuits have divided over whether a defect in a COA is a jurisdictional bar. Compare, e.g., Phelps v. Alameda, 366 F. 3d 722, 726
+(CA9 2004) (no); Porterfield v. Bell, 258 F. 3d 484, 485 (CA6 2001) (no);
+Young v. United States, 124 F. 3d 794, 798–799 (CA7 1997) (no), with
+United States v. Cepero, 224 F. 3d 256, 259–262 (CA3 2000) (en banc)
+(yes).
+2 The Circuits have divided over when a judgment becomes final if a
+petitioner forgoes review in a State’s highest court. Compare, e.g., 623
+F. 3d 222, 226 (CA5 2010) (case below) (date when time for seeking
+such review expires); Hemmerle v. Schriro, 495 F. 3d 1069, 1073–1074
+(CA9 2007) (same), with Riddle v. Kemna, 523 F. 3d 850, 855–856 (CA8
+2008) (en banc) (date when state court issues its mandate).
+
+

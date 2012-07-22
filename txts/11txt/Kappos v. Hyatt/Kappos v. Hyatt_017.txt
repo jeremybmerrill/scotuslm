@@ -1,0 +1,38 @@
+14
+
+KAPPOS v. HYATT
+Opinion of the Court
+
+considered judgment may lose significant force”). For this
+reason, we conclude that the proper means for the district
+court to accord respect to decisions of the PTO is through
+the court’s broad discretion over the weight to be given to
+evidence newly adduced in the §145 proceedings.
+The Director warns that allowing the district court
+to consider all admissible evidence and to make de novo
+findings will encourage patent applicants to withhold
+evidence from the PTO intentionally with the goal of presenting that evidence for the first time to a nonexpert
+judge. Brief for Petitioner 23. We find that scenario
+unlikely. An applicant who pursues such a strategy would
+be intentionally undermining his claims before the PTO on
+the speculative chance that he will gain some advantage
+in the §145 proceeding by presenting new evidence to a
+district court judge.
+IV
+For these reasons, we conclude that there are no limitations on a patent applicant’s ability to introduce new
+evidence in a §145 proceeding beyond those already present in the Federal Rules of Evidence and the Federal
+Rules of Civil Procedure. Moreover, if new evidence is
+presented on a disputed question of fact, the district court
+must make de novo factual findings that take account
+of both the new evidence and the administrative record
+before the PTO. In light of these conclusions, the Federal
+Circuit was correct to vacate the judgment of the District
+Court, which excluded newly presented evidence under the
+view that it “need not consider evidence negligently submitted after the end of administrative proceedings.” Civ.
+Action No. 03–0901, at 15, App. to Pet. for Cert. 189a.
+The judgment is affirmed, and the case is remanded to
+the Court of Appeals for further proceedings consistent
+with this opinion.
+It is so ordered.
+
+

@@ -1,0 +1,47 @@
+Cite as: 563 U. S. ____ (2011)
+
+7
+
+Opinion of the Court
+
+ented article . . . with the intent and purpose that [the
+direct infringer] should use the infringing article . . . they
+would assist in her infringing use.” 224 U. S., at 33 (em­
+phasis added and deleted).4 Our decision in MetroGoldwyn-Mayer Studios Inc. v. Grokster, Ltd., 545 U. S.
+913 (2005), which looked to the law of contributory patent
+infringement for guidance in determining the standard to
+be applied in a case claiming contributory copyright in­
+fringement, contains dicta that may be read as interpret­
+ing the pre-1952 cases this way. In Grokster, we said that
+“[t]he inducement rule . . . premises liability on purpose­
+ful, culpable expression and conduct.” Id., at 937.
+While both the language of §271(b) and the pre-1952
+case law that this provision was meant to codify are sus­
+ceptible to conflicting interpretations, our decision in Aro
+II resolves the question in this case. In Aro II, a majority
+held that a violator of §271(c) must know “that the combi­
+——————
+4 The earlier case of Cortelyou v. Charles Eneu Johnson & Co., 207
+U. S. 196 (1907), contains language that may be read as adopting a
+similar position. In that case, the Neostyle Company had a patent for
+a “stencil duplicating machine” called the “rotary Neostyle,” and it
+licensed the use of its machine pursuant to a license requiring the
+licensee to use only Neostyle’s ink. Id., at 198. Another company,
+Charles Eneu Johnson & Co., sold its ink to a Neostyle licensee, and
+Neostyle sued the Johnson company, claiming that it was “inducing a
+breach of the license contracts” and was thus indirectly infringing
+Neostyle’s patent rights. Id., at 199. The Court held that the defen­
+dant did not have “sufficient evidence of notice” to support liability.
+The Court wrote:
+“True, the defendant filled a few orders for ink to be used on a rotary
+Neostyle, but it does not appear that it ever solicited an order for ink to
+be so used, that it was ever notified by the plaintiffs of the rights which
+they claimed, or that anything which it did was considered by them an
+infringement upon those rights.” Id., at 200 (emphasis added).
+The italicized language above may suggest that it was necessary to
+show that the defendants had notice of Neostyle’s patent rights. See
+also Tubular Rivet & Stud Co. v. O’Brien, 93 F. 200, 203 (CC Mass.
+1898) (“a necessary condition of the defendant’s guilt is his knowledge
+of the complainant’s patent”).
+
+

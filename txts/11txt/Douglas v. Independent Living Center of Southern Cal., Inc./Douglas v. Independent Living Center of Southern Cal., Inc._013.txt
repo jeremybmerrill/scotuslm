@@ -1,0 +1,38 @@
+2
+
+DOUGLAS v. INDEPENDENT LIVING CENTER OF
+SOUTHERN CAL., INC.
+ROBERTS, C. J., dissenting
+
+lation; in exchange for federal funds a State agrees to
+abide by specified rules in implementing the program.
+One of those rules is set forth in §30(A) of the Act, which
+requires States to meet particular criteria in establishing
+Medicaid reimbursement rates for those providing services
+under the Act. 42 U. S. C. §1396a(a)(30)(A). In 2008 and
+2009, California enacted legislation reducing the rates at
+which it would compensate some providers. Certain providers and individuals receiving Medicaid benefits thought
+the new reimbursement rates did not comply with the
+criteria set forth in §30(A). They sued the State to prevent
+the new rates from going into effect.
+But those plaintiffs faced a significant problem: Nothing
+in the Medicaid Act allows providers or beneficiaries
+(or anyone else, for that matter) to sue to enforce §30(A).
+The Act instead vests responsibility for enforcement
+with a federal agency, the Centers for Medicare & Medicaid
+Services (CMS). See, e.g., 42 U. S. C. §1316(a)(1). That is
+settled law in the Ninth Circuit. See Sanchez v. Johnson,
+416 F. 3d 1051, 1058–1062 (2005) (“[T]he flexible, administrative standards embodied in [§30(A)] do not reflect a
+Congressional intent to provide a private remedy for their
+violation”). And it is the law in virtually every other circuit as well. See, e.g., Long Term Care Pharmacy Alliance v. Ferguson, 362 F. 3d 50, 57–59 (CA1 2004) (holding
+that it would be inconsistent with this Court’s precedent to
+find that §30(A) creates rights enforceable by private
+parties). The respondents have never argued the contrary.
+Thus, as this case comes to us, the federal rule is that
+Medicaid reimbursement rates must meet certain criteria,
+but private parties have no statutory right to sue to enforce those requirements in court.
+The providers and beneficiaries sought to overcome that
+difficulty by arguing that they could proceed against the
+State directly under the Supremacy Clause of the Constitution, even if they could not do so under the Act. They
+
+

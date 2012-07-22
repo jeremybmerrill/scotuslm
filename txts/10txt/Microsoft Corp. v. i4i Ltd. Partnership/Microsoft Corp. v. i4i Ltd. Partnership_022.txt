@@ -1,0 +1,43 @@
+Cite as: 564 U. S. ____ (2011)
+
+19
+
+Opinion of the Court
+
+reviewing invalidity claims raised in infringement actions.
+For their part, i4i and its amici, including the United
+States, contend that the heightened standard of proof
+properly limits the circumstances in which a lay jury
+overturns the considered judgment of an expert agency.
+They claim that the heightened standard of proof is an
+essential component of the patent “bargain,” see Bonito
+Boats, Inc. v. Thunder Craft Boats, Inc., 489 U. S. 141,
+150–151 (1989), and the incentives for inventors to dis
+close their innovations to the public in exchange for patent
+protection. They disagree with the notion that the patent
+issuance rate is above the optimal level. They explain that
+limits on the reexamination process reflect a judgment by
+Congress as to the appropriate degree of interference with
+patentees’ reliance interests. Finally, they maintain that
+juries that are properly instructed as to the application of
+the clear-and-convincing-evidence standard can, and often
+do, find an invalidity defense established.
+We find ourselves in no position to judge the compara
+tive force of these policy arguments. For nearly 30 years,
+the Federal Circuit has interpreted §282 as we do today.
+During this period, Congress has often amended §282, see,
+e.g., Pub. L. 104–141, §2, 109 Stat. 352; Pub. L. 98–417,
+§203, 98 Stat. 1603; not once, so far as we (and Microsoft)
+are aware, has it even considered a proposal to lower the
+standard of proof, see Tr. Oral Arg. 10. Moreover, Con
+gress has amended the patent laws to account for concerns
+about “bad” patents, including by expanding the reexami
+nation process to provide for inter partes proceedings. See
+Optional Inter Partes Reexamination Procedure Act of
+1999, 113 Stat. 1501A–567, codified at 35 U. S. C. §311 et
+seq. Through it all, the evidentiary standard adopted in
+§282 has gone untouched. Indeed, Congress has left the
+Federal Circuit’s interpretation of §282 in place despite
+ongoing criticism, both from within the Federal Govern
+
+

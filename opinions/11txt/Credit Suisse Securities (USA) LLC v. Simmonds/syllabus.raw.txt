@@ -1,0 +1,69 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2011
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+CREDIT SUISSE SECURITIES (USA) LLC ET AL. v. 
+
+SIMMONDS 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 10–1261. Argued November 29, 2011—Decided March 26, 2012
+Under §16(b) of the Securities Exchange Act of 1934, a corporation or
+security holder of that corporation may sue corporate insiders who
+realize profits from the purchase and sale, or sale and purchase, of
+the corporation’s securities within any 6-month period. The Act provides that such suits must be brought within “two years after the
+date such profit was realized.” 15 U. S. C. §78p(b).
+In 2007, respondent Simmonds filed numerous §16(b) actions,
+claiming that, in underwriting various initial public offerings in the
+late 1990’s and 2000, petitioners and others inflated the stocks’ aftermarket prices, allowing them to profit from the aftermarket sales.
+She also claimed that petitioners had failed to comply with §16(a)’s
+requirement that insiders disclose any changes to their ownership interests. That failure, according to Simmonds, tolled §16(b)’s 2-year
+time period. The District Court dismissed the complaints as untimely. The Ninth Circuit reversed. Citing its decision in Whittaker v.
+Whittaker Corp., 639 F. 2d 516, it held that the limitations period is
+tolled until an insider files the §16(a) disclosure statement “regardless of whether the plaintiff knew or should have known of the conduct at issue.”
+Held: Even assuming that the 2-year period can be extended (a question on which the Court is equally divided), the Ninth Circuit erred in
+determining that it is tolled until a §16(a) statement is filed. The
+text of §16(b)—which starts the clock from “the date such profit was
+realized,” §78p(b)—simply does not support the Whittaker rule. The
+rule is also not supported by the background rule of equitable tolling
+for fraudulent concealment. Under long-settled equitable-tolling
+principles, a litigant must establish “(1) that he has been pursuing
+
+
+2
+
+CREDIT SUISSE SECURITIES (USA) LLC v. SIMMONDS
+Syllabus
+his rights diligently, and (2) that some extraordinary circumstances
+stood in his way.” Pace v. DiGuglielmo, 544 U. S. 408, 418. Tolling
+therefore ceases when fraudulently concealed facts are, or should
+have been, discovered by the plaintiff. Allowing tolling to continue
+beyond that point would be inequitable and inconsistent with the
+general purpose of statutes of limitations: “to protect defendants
+against stale or unduly delayed claims.” John R. Sand & Gravel Co.
+v. United States, 552 U. S. 130, 133. The Whittaker rule’s inequity is
+especially apparent here, where the theory of §16(b) liability is so
+novel that petitioners can plausibly claim that they were not aware
+they had to file a §16(a) statement. Under the Whittaker rule, alleged insiders who disclaim the necessity of filing are compelled either to file or to face the prospect of §16(b) litigation in perpetuity.
+Had Congress intended the possibility of such endless tolling, it
+would have said so. Simmonds’ arguments to the contrary are unpersuasive. The lower courts should consider in the first instance
+how usual equitable tolling rules apply in this case. Pp. 4–8.
+
+638 F. 3d 1072, vacated and remanded.
+SCALIA, J., delivered the opinion of the Court, in which all other
+Members joined, except ROBERTS, C. J., who took no part in the consideration or decision of the case.
+
+

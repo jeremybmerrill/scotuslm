@@ -1,0 +1,290 @@
+(Slip Opinion)
+
+OCTOBER TERM, 2009
+
+1
+
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+
+HOLDER, ATTORNEY GENERAL, ET AL. v. HUMANI-
+
+TARIAN LAW PROJECT ET AL. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 08–1498. Argued February 23, 2010—Decided June 21, 2010*
+It is a federal crime to “knowingly provid[e] material support or re
+sources to a foreign terrorist organization.” 18 U. S. C. §2339B(a)(1).
+The authority to designate an entity a “foreign terrorist organization”
+rests with the Secretary of State, and is subject to judicial review.
+“[T]he term ‘material support or resources’ means any property, tan
+gible or intangible, or service, including currency or monetary in
+struments or financial securities, financial services, lodging, training,
+expert advice or assistance, safehouses, false documentation or iden
+tification, communications equipment, facilities, weapons, lethal sub
+stances, explosives, personnel (1 or more individuals who may be or
+include oneself), and transportation, except medicine or religious ma
+terials.” §2339A(b)(1). Over the years, §2339B and the definition of
+“material support or resources” have been amended, inter alia, to
+clarify that a violation requires knowledge of the foreign group’s des
+ignation as a terrorist organization or its commission of terrorist acts,
+§2339B(a)(1); and to define the terms “training,” §2339A(b)(2), “ex
+pert advice or assistance,” §2339A(b)(3), and “personnel,” §2339B(h).
+Among the entities the Secretary of State has designated “foreign
+terrorist organization[s]” are the Partiya Karkeran Kurdistan (PKK)
+and the Liberation Tigers of Tamil Eelam (LTTE), which aim to es
+tablish independent states for, respectively, Kurds in Turkey and
+Tamils in Sri Lanka. Although both groups engage in political and
+humanitarian activities, each has also committed numerous terrorist
+attacks, some of which have harmed American citizens. Claiming
+——————
+* Together with No. 09–89, Humanitarian Law Project et al. v.
+Holder, Attorney General, et al., also on certiorari to the same court.
+
+
+2
+
+HOLDER v. HUMANITARIAN LAW PROJECT
+Syllabus
+they wish to support those groups’ lawful, nonviolent activities, two
+U. S. citizens and six domestic organizations (hereinafter plaintiffs)
+initiated this constitutional challenge to the material-support stat
+ute. The litigation has had a complicated 12-year history. Ulti
+mately, the District Court partially enjoined the enforcement of the
+material-support statute against plaintiffs. After the Ninth Circuit
+affirmed, plaintiffs and the Government cross-petitioned for certio
+rari. The Court granted both petitions.
+As the litigation now stands, plaintiffs challenge §2339B’s prohibi
+tion on providing four types of material support—“training,” “expert
+advice or assistance,” “service,” and “personnel”—asserting violations
+of the Fifth Amendment’s Due Process Clause on the ground that the
+statutory terms are impermissibly vague, and violations of their First
+Amendment rights to freedom of speech and association. They claim
+that §2339B is invalid to the extent it prohibits them from engaging
+in certain specified activities, including training PKK members to use
+international law to resolve disputes peacefully; teaching PKK mem
+bers to petition the United Nations and other representative bodies
+for relief; and engaging in political advocacy on behalf of Kurds living
+in Turkey and Tamils living in Sri Lanka.
+
+Held: The material-support statute, §2339B, is constitutional as applied
+to the particular forms of support that plaintiffs seek to provide to
+foreign terrorist organizations. Pp. 8–36.
+(a) This preenforcement challenge to §2339B is a justiciable Article
+III case or controversy. Plaintiffs face “a credible threat of prosecu
+tion” and “should not be required to await and undergo a criminal
+prosecution as the sole means of seeking relief.” Babbitt v. Farm
+Workers, 442 U. S. 289, 298. P. 10.
+(b) The Court cannot avoid the constitutional issues in this litiga
+tion by accepting plaintiffs’ argument that the material-support stat
+ute, when applied to speech, should be interpreted to require proof
+that a defendant intended to further a foreign terrorist organization’s
+illegal activities. That reading is inconsistent with §2339B’s text,
+which prohibits “knowingly” providing material support and demon
+strates that Congress chose knowledge about the organization’s con
+nection to terrorism, not specific intent to further its terrorist activi
+ties, as the necessary mental state for a violation. Plaintiffs’ reading
+is also untenable in light of the sections immediately surrounding
+§2339B, which—unlike §2339B—do refer to intent to further terrorist
+activity. See §§2339A(a), 2339C(a)(1). Finally, there is no textual
+basis for plaintiffs’ argument that the same language in §2339B
+should be read to require specific intent with regard to speech, but
+not with regard to other forms of material support. Pp. 10–12.
+(c) As applied to plaintiffs, the material-support statute is not un
+
+
+Cite as: 561 U. S. ____ (2010)
+
+3
+
+Syllabus
+constitutionally vague. The Ninth Circuit improperly merged plain
+tiffs’ vagueness challenge with their First Amendment claims, hold
+ing that “training,” “service,” and a portion of “expert advice or assis
+tance” were impermissibly vague because they applied to protected
+speech—regardless of whether those applications were clear. The
+Court of Appeals also contravened the rule that “[a] plaintiff who en
+gages in some conduct that is clearly proscribed cannot complain of
+the vagueness of the law as applied to the conduct of others.” Hoff
+man Estates v. Flipside, Hoffman Estates, Inc., 455 U. S. 489, 495.
+The material-support statute, in its application to plaintiffs, “pro
+vide[s] a person of ordinary intelligence fair notice of what is prohib
+ited.” United States v. Williams, 553 U. S. 285, 304. The statutory
+terms at issue here—“training,” “expert advice or assistance,” “ser
+vice,” and “personnel”—are quite different from the sorts of terms,
+like “ ‘annoying’ ” and “ ‘indecent,’ ” that the Court has struck down for
+requiring “wholly subjective judgments without statutory definitions,
+narrowing context, or settled legal meanings.” Id., at 306. Congress
+has increased the clarity of §2339B’s terms by adding narrowing
+definitions, and §2339B’s knowledge requirement further reduces any
+potential for vagueness, see Hill v. Colorado, 530 U. S. 703, 732.
+Although the statute may not be clear in every application, the dis
+positive point is that its terms are clear in their application to plain
+tiffs’ proposed conduct. Most of the activities in which plaintiffs seek
+to engage readily fall within the scope of “training” and “expert ad
+vice or assistance.” In fact, plaintiffs themselves have repeatedly
+used those terms to describe their own proposed activities. Plaintiffs’
+resort to hypothetical situations testing the limits of “training” and
+“expert advice or assistance” is beside the point because this litiga
+tion does not concern such situations. See Scales v. United States,
+367 U. S. 203, 223. Gentile v. State Bar of Nev., 501 U. S. 1030,
+1049–1051, distinguished. Plaintiffs’ further contention, that the
+statute is vague in its application to the political advocacy they wish
+to undertake, runs afoul of §2339B(h), which makes clear that “per
+sonnel” does not cover advocacy by those acting entirely independ
+ently of a foreign terrorist organization, and the ordinary meaning of
+“service,” which refers to concerted activity, not independent advo
+cacy. Context confirms that meaning: Independently advocating for a
+cause is different from the prohibited act of providing a service “to a
+foreign terrorist organization.” §2339B(a)(1).
+Thus, any independent advocacy in which plaintiffs wish to engage
+is not prohibited by §2339B. On the other hand, a person of ordinary
+intelligence would understand the term “service” to cover advocacy
+performed in coordination with, or at the direction of, a foreign ter
+rorist organization. Plaintiffs argue that this construction of the
+
+
+4
+
+HOLDER v. HUMANITARIAN LAW PROJECT
+Syllabus
+statute poses difficult questions of exactly how much direction or co
+ordination is necessary for an activity to constitute a “service.” Be
+cause plaintiffs have not provided any specific articulation of the de
+gree to which they seek to coordinate their advocacy with the PKK
+and the LTTE, however, they cannot prevail in their preenforcement
+challenge. See Washington State Grange v. Washington State Repub
+lican Party, 552 U. S. 442, 454. Pp. 13–20.
+(d) As applied to plaintiffs, the material-support statute does not
+violate the freedom of speech guaranteed by the First Amendment.
+Pp. 20–34.
+(1) Both plaintiffs and the Government take extreme positions on
+this question. Plaintiffs claim that Congress has banned their pure
+political speech. That claim is unfounded because, under the mate
+rial-support statute, they may say anything they wish on any topic.
+Section 2339B does not prohibit independent advocacy or member
+ship in the PKK and LTTE. Rather, Congress has prohibited “mate
+rial support,” which most often does not take the form of speech. And
+when it does, the statute is carefully drawn to cover only a narrow
+category of speech to, under the direction of, or in coordination with
+foreign groups that the speaker knows to be terrorist organizations.
+On the other hand, the Government errs in arguing that the only
+thing actually at issue here is conduct, not speech, and that the cor
+rect standard of review is intermediate scrutiny, as set out in United
+States v. O’Brien, 391 U. S. 367, 377. That standard is not used to
+review a content-based regulation of speech, and §2339B regulates
+plaintiffs’ speech to the PKK and the LTTE on the basis of its con
+tent. Even if the material-support statute generally functions as a
+regulation of conduct, as applied to plaintiffs the conduct triggering
+coverage under the statute consists of communicating a message.
+Thus, the Court “must [apply] a more demanding standard” than the
+one described in O’Brien. Texas v. Johnson, 491 U. S. 397, 403. Pp.
+20–23.
+(2) The parties agree that the Government’s interest in combat
+ing terrorism is an urgent objective of the highest order, but plaintiffs
+argue that this objective does not justify prohibiting their speech,
+which they say will advance only the legitimate activities of the PKK
+and LTTE. Whether foreign terrorist organizations meaningfully
+segregate support of their legitimate activities from support of terror
+ism is an empirical question. Congress rejected plaintiffs’ position on
+that question when it enacted §2339B, finding that “foreign organiza
+tions that engage in terrorist activity are so tainted by their criminal
+conduct that any contribution to such an organization facilitates that
+conduct.” §301(a), 110 Stat. 1247, note following §2339B. The record
+confirms that Congress was justified in rejecting plaintiffs’ view. The
+
+
+Cite as: 561 U. S. ____ (2010)
+
+5
+
+Syllabus
+PKK and the LTTE are deadly groups. It is not difficult to conclude,
+as Congress did, that the taint of their violent activities is so great
+that working in coordination with them or at their command legiti
+mizes and furthers their terrorist means. Moreover, material sup
+port meant to promote peaceable, lawful conduct can be diverted to
+advance terrorism in multiple ways. The record shows that desig
+nated foreign terrorist organizations do not maintain organizational
+firewalls between social, political, and terrorist operations, or finan
+cial firewalls between funds raised for humanitarian activities and
+those used to carry out terrorist attacks. Providing material support
+in any form would also undermine cooperative international efforts to
+prevent terrorism and strain the United States’ relationships with its
+allies, including those that are defending themselves against violent
+insurgencies waged by foreign terrorist groups. Pp. 23–28.
+(3) The Court does not rely exclusively on its own factual infer
+ences drawn from the record evidence, but considers the Executive
+Branch’s stated view that the experience and analysis of Government
+agencies charged with combating terrorism strongly support Con
+gress’s finding that all contributions to foreign terrorist organiza
+tions—even those for seemingly benign purposes—further those
+groups’ terrorist activities. That evaluation of the facts, like Con
+gress’s assessment, is entitled to deference, given the sensitive na
+tional security and foreign relations interests at stake. The Court
+does not defer to the Government’s reading of the First Amendment.
+But respect for the Government’s factual conclusions is appropriate
+in light of the courts’ lack of expertise with respect to national secu
+rity and foreign affairs, and the reality that efforts to confront terror
+ist threats occur in an area where information can be difficult to ob
+tain, the impact of certain conduct can be difficult to assess, and
+conclusions must often be based on informed judgment rather than
+concrete evidence. The Court also finds it significant that Congress
+has been conscious of its own responsibility to consider how its ac
+tions may implicate constitutional concerns. Most importantly, Con
+gress has avoided any restriction on independent advocacy, or indeed
+any activities not directed to, coordinated with, or controlled by for
+eign terrorist groups. Given the sensitive interests in national secu
+rity and foreign affairs at stake, the political branches have ade
+quately substantiated their determination that prohibiting material
+support in the form of training, expert advice, personnel, and services
+to foreign terrorist groups serves the Government’s interest in pre
+venting terrorism, even if those providing the support mean to pro
+mote only the groups’ nonviolent ends.
+As to the particular speech plaintiffs propose to undertake, it is
+wholly foreseeable that directly training the PKK on how to use in
+
+
+6
+
+HOLDER v. HUMANITARIAN LAW PROJECT
+Syllabus
+ternational law to resolve disputes would provide that group with in
+formation and techniques that it could use as part of a broader strat
+egy to promote terrorism, and to threaten, manipulate, and disrupt.
+Teaching the PKK to petition international bodies for relief also could
+help the PKK obtain funding it would redirect to its violent activities.
+Plaintiffs’ proposals to engage in political advocacy on behalf of
+Kurds and Tamils, in turn, are phrased so generally that they cannot
+prevail in this preenforcement challenge. The Court does not decide
+whether any future applications of the material-support statute to
+speech or advocacy will survive First Amendment scrutiny. It simply
+holds that §2339B does not violate the freedom of speech as applied
+to the particular types of support these plaintiffs seek to provide. Pp.
+28–34.
+(e) Nor does the material-support statute violate plaintiffs’ First
+Amendment freedom of association. Plaintiffs argue that the statute
+criminalizes the mere fact of their associating with the PKK and the
+LTTE, and thereby runs afoul of this Court’s precedents. The Ninth
+Circuit correctly rejected this claim because §2339B does not penalize
+mere association, but prohibits the act of giving foreign terrorist
+groups material support. Any burden on plaintiffs’ freedom of asso
+ciation caused by preventing them from supporting designated for
+eign terrorist organizations, but not other groups, is justified for the
+same reasons the Court rejects their free speech challenge. Pp. 34–
+35.
+
+552 F. 3d 916, affirmed in part, reversed in part, and remanded.
+ROBERTS, C. J., delivered the opinion of the Court, in which STEVENS,
+SCALIA, KENNEDY, THOMAS, and ALITO, JJ., joined. BREYER, J., filed a
+dissenting opinion, in which GINSBURG and SOTOMAYOR, JJ., joined.
+
+

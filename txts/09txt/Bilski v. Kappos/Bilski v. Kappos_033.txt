@@ -1,0 +1,46 @@
+Cite as: 561 U. S. ____ (2010)
+
+13
+
+STEVENS, J., concurring in judgment
+
+under other sections of the statute but are not relevant to
+§101, Flook, 437 U. S., at 588. The placement of “process”
+next to other items thus cannot prove that the term is
+limited to any particular categories; it does, however, give
+reason to be skeptical that the scope of a patentable “proc
+ess” extends to cover any series of steps at all.
+The Court makes a more serious interpretive error. As
+briefly discussed in Part II, supra, the Court at points
+appears to reject the well-settled proposition that the term
+“process” in §101 is not a “ ‘process’ in the ordinary sense
+of the word,” Flook, 437 U. S., at 588. Instead, the Court
+posits that the word “process” must be understood in light
+of its “ordinary, contemporary, common meaning,” ante, at
+6 (internal quotation marks omitted). Although this is a
+fine approach to statutory interpretation in general, it is a
+deeply flawed approach to a statute that relies on complex
+terms of art developed against a particular historical
+background.4 Indeed, the approach would render §101
+almost comical. A process for training a dog, a series of
+dance steps, a method of shooting a basketball, maybe
+even words, stories, or songs if framed as the steps of
+typing letters or uttering sounds—all would be patent
+eligible. I am confident that the term “process” in §101 is
+not nearly so capacious.5
+——————
+4 For example, if this Court were to interpret the Sherman Act accord
+ing to the Act’s plain text, it could prohibit “the entire body of private
+contract,” National Soc. of Professional Engineers v. United States, 435
+U. S. 679, 688 (1978).
+5 The Court attempts to avoid such absurd results by stating that
+these “[c]oncerns” “can be met by making sure that the claim meets the
+requirements of §101.” Ante, at 6. Because the only limitation on the
+plain meaning of “process” that the Court acknowledges explicitly is the
+bar on abstract ideas, laws of nature, and the like, it is presumably this
+limitation that is left to stand between all conceivable human activity
+and patent monopolies. But many processes that would make for
+absurd patents are not abstract ideas. Nor can the requirements of
+novelty, nonobviousness, and particular description pick up the slack.
+
+

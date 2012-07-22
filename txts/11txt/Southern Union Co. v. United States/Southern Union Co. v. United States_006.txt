@@ -1,0 +1,43 @@
+Cite as: 567 U. S. ____ (2012)
+
+3
+
+Opinion of the Court
+
+App. to Pet. for Cert. 46a. The court therefore set a
+maximum potential fine of $38.1 million, from which
+it imposed a fine of $6 million and a “community service
+obligatio[n]” of $12 million. App. 154.
+On appeal, the United States Court of Appeals for the
+First Circuit rejected the District Court’s conclusion that
+the jury necessarily found a violation of 762 days. 630
+F. 3d 17, 36 (2010). But the Court of Appeals affirmed
+the sentence because it also held, again in contrast to the
+District Court, that Apprendi does not apply to criminal
+fines. 630 F. 3d, at 33–36. Other Circuits have reached
+the opposite conclusion. See United States v. Pfaff, 619
+F. 3d 172 (CA2 2010) (per curiam); United States v.
+LaGrou Distribution Sys., Inc., 466 F. 3d 585 (CA7 2006).
+We granted certiorari to resolve the conflict, 565 U. S. ___
+(2011), and now reverse.
+II
+
+A
+
+This case requires us to consider the scope of the Sixth
+Amendment right of jury trial, as construed in Apprendi.
+Under Apprendi, “[o]ther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond
+the prescribed statutory maximum must be submitted to a
+jury, and proved beyond a reasonable doubt.” 530 U. S., at
+490. The “ ‘statutory maximum’ for Apprendi purposes is
+the maximum sentence a judge may impose solely on the
+basis of the facts reflected in the jury verdict or admitted
+by the defendant.” Blakely, 542 U. S., at 303 (emphasis
+deleted). Thus, while judges may exercise discretion in
+sentencing, they may not “inflic[t] punishment that the
+jury’s verdict alone does not allow.” Id., at 304.
+Apprendi’s rule is “rooted in longstanding common-law
+practice.” Cunningham v. California, 549 U. S. 270, 281
+(2007). It preserves the “historic jury function” of “determining whether the prosecution has proved each element
+
+
