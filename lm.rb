@@ -1,7 +1,5 @@
 # encoding: utf-8
 
-#Nietzsche trigram language model
-
 class LanguageModel
 =begin
 What's the best model for a 3LM?
@@ -32,8 +30,9 @@ threelm[wordTwoBack][wordBack]
     files.each do |f|
       next if File.basename(f) == '.' or File.basename(f) == '..' or !lambdaFunc.call(File.basename(f))
       File.open(f).each do |line|
-        line.split(/[.?!]|$/).each do |sentence|
-          splitSentence = sentence.split(" ")
+        #line = line.split(/[.?!]|$/) 
+        [line].each do |sentence|
+          splitSentence = sentence.strip().split(" ")
           wordTwoBack = ""
           wordBack = ""
           splitSentence.each do |word|
@@ -158,18 +157,28 @@ threelm[wordTwoBack][wordBack]
         puts "backing off to bigrams, since trigrams returned nothing" if @debug
         nextWordChoicesStuff = nextWordBigrams(wordBack)
       end
-      puts nextWordChoicesStuff.inspect if @debug
       nextWordChoices = nextWordChoicesStuff[:data].reverse
       tokencount = nextWordChoicesStuff[:tokencount]
 
       nextWord = nil
       myRand = rand(tokencount) + 1
+      puts nextWordChoices.inspect if @debug
       puts "rand: #{myRand}, count: #{tokencount}, unpathiness: #{@unpathiness * 100}%" if @debug
 
-      nextWordChoices.each do | val, word |
-        if !nextWord && myRand >= val
+      mostRecentWord = nil
+      nextWordChoices.each_with_index do | valword, index |
+        val,word = valword
+        if (myRand == val) 
           nextWord = word
+          break
+        elsif (myRand > val) 
+          nextWord = mostRecentWord 
+          break     
+        elsif index == (nextWordChoices.size) - 1
+          nextWord = word
+          break
         end
+        mostRecentWord = word
       end
       if nextWord
         soFar << nextWord
@@ -197,5 +206,5 @@ threelm[wordTwoBack][wordBack]
   end
 end
 
-@n = LanguageModel.new(["/home/merrillj/scotuslm/opinions", "*", "*", "*"], lambda{|filename| filename == "SOTOMAYOR.txt"})
+@n = LanguageModel.new(["/home/merrillj/scotuslm/opinions", "*", "*", "*"], lambda{|filename| filename == "SCALIA.txt"})
 puts @n.getPhrase({:debug => true})
