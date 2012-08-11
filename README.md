@@ -18,6 +18,8 @@ Lots of things!
 
 Known Issues:
 Everything!
+- Opinions still have some cruft in them that needs to be cleaned.
+- Opinions still aren't joined right at linebreaks.
 
 Supreme Court Corpus:
 This project includes (in txts/ and opinions/) raw pdftotext output and cleaned plaintext of all 2009, 2010 and 2011 term US Supreme Court opinions. They're not guaranteed to be perfect, though they should be getting better. Please use this corpus, if you'd like.
