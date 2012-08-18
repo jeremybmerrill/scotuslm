@@ -1,4 +1,5 @@
-# encoding: utf-8
+# encoding: utf-8 
+require 'linkparser'
 
 class LanguageModel
 =begin
@@ -11,7 +12,8 @@ threelm[wordTwoBack][wordBack]
 "backoff" -- if count is less than <10, go to 2LM
 
 =end
-  def initialize(pathglob, lambdaFunc)
+
+  def initialize(pathglob,lambdaFunc)
     trigramcounts = {}
     unigramcounts = {}
     unigramcounts.default = 0
@@ -24,6 +26,15 @@ threelm[wordTwoBack][wordBack]
     trigramcountsmember = {}
     trigramcountsmember.default = bigramcountsmember
     trigramcounts.default = trigramcountsmember
+
+    @linkparser = LinkParser::Dictionary.new
+    @complementizer_list = ['AZ', 'TH', 'TS', ]
+    @verb_list = ['S']
+    @complementizer_count = 0
+    @verb_count = 0
+    @makes_things_worse_adjustment = 3 #if the selected part of speech would make things worse, multiply this by probability to make it harder to add the selected word
+
+
 
     @wordcount = 0
     files = Dir.glob(File.join(*pathglob))
@@ -105,25 +116,81 @@ threelm[wordTwoBack][wordBack]
     true
   end
 
+  def verbsAndComplementizersBalanced?(sentenceSoFar, nextWord, probability = 0.2 )
+    #implements "very shallow parsing" on a sentence
+    #if the sentence doesn't have N + 1 verbs for every N complementizers, 
+    #   then, with some probability, return false if the next word if it doesn't resolve the imbalance.
+    #   and return false with higher probability if the next word increases the imbalance
+    #   in hopes of finding a word that satisfies the imbalance on the next go-round.
+
+    parsedSentence = @linkparser.parse( (sentenceSoFar + [nextWord]).join(" ") )
+    linkage = parsedSentence.linkages[-1]
+    puts 'no linkage'; return true if !linkage
+    links = linkage.links[-1]
+    puts 'no links'; return true if !links
+    lastLinkageLabel = links[:label]
+    lastLinkagePOS = lastLinkageLabel.chars.select{ |c| c.match(/[A-Z]/) }.join("")
+    puts [nextWord, @verb_count, @complementizer_count, lastLinkagePOS].join(" ") #if @debug
+    if @complementizer_list.include? lastLinkagePOS
+      @complementizer_count += 1
+      if @verb_count == @complementizer_count + 1 #balance
+        true
+      elsif @verb_count > @complementizer_count + 1  #imbalance -- complementizer needed
+        #accept, this fixes the imbalance!
+        true
+      elsif rand > probability * @makes_things_worse_adjustment #verb needed, reject with high probability; allowing this word would increase the imbalance
+        #oh well, keep it.
+        true
+      else 
+        false
+      end
+    elsif @verb_list.include? lastLinkagePOS
+      @verb_count += 1
+      if @verb_count == @complementizer_count + 1 #balance
+        true
+      elsif @verb_count < @complementizer_count + 1  #imbalance -- verb needed
+        #accept, this fixes the imbalance!
+        true
+      elsif rand > probability * @makes_things_worse_adjustment #complementizer needed, reject with high probability; allowing this word would increase the imbalance
+        #oh well, keep it.
+        true
+      else 
+        false
+      end
+    else
+      if @verb_count == @complementizer_count + 1 #balance
+        true
+      elsif rand > probability #selected word doesn't fix the imbalance.
+        #oh well, keep it.
+        true
+      else 
+        #rejected!
+        false
+      end
+    end
+  end
+
   def getPhrase (opts = {})
-   o = {
+   o = { #set defaults
       :maxLen => 30,
       :unpathiness => 0.0,
       :wordTwoBack => "",
       :wordBack => "", 
-      :debug => false
+      :debug => false,
+      :linkparser => false #TODO: Set to true, see if sentences are more coherent.
    }.merge(opts)
 		@unpathiness = o[:unpathiness]
     maxLen = o[:maxLen]
     wordTwoBack = o[:wordTwoBack]
     wordBack = o[:wordBack]
     @debug = o[:debug]
+    useLinkparser = o[:linkparser]
+    puts "going to use linkparser" if @debug && useLinkparser
 
-    #TODO: make sure sentence ending works
     def nextWordBigrams(wordBack)
       nextWordChoicesStuff = @bigramlm[wordBack]
       if rand < @unpathiness / Math.log( nextWordChoicesStuff[:tokencount])
-        puts "backing off to unigrams for funzies" if @debug
+        puts "backing off to unigrams." if @debug
         nextWordChoicesStuff[:data] = @unigramlm
         nextWordChoicesStuff[:tokencount] = @wordcount
       end
@@ -133,7 +200,7 @@ threelm[wordTwoBack][wordBack]
       testthingy = @trigramlm[wordTwoBack]
       nextWordChoicesStuff = testthingy[wordBack] || {:tokencount => 0, :data => []}
       if rand < @unpathiness / Math.log( nextWordChoicesStuff[:tokencount])
-        puts "backing off to bigrams for funzies" if @debug
+        puts "backing off to bigrams, aka smoothing." if @debug
         nextWordChoicesStuff = nextWordBigrams(wordBack)
       elsif ! nextWordChoicesStuff 
         puts "backing off to bigrams, since trigrams returned nothing" if @debug
@@ -144,8 +211,8 @@ threelm[wordTwoBack][wordBack]
 
 
     soFar = [wordTwoBack, wordBack]
-    stop = false
-    while !stop
+    endOfSentence = false
+    while !endOfSentence
       #testthingy = @trigramlm[wordTwoBack]
       #nextWordChoicesStuff = testthingy[wordBack]
       #if ! nextWordChoicesStuff 
@@ -180,18 +247,25 @@ threelm[wordTwoBack][wordBack]
         end
         mostRecentWord = word
       end
+
       if nextWord
-        soFar << nextWord
-        puts soFar.join(" ") if @debug
-        wordTwoBack = wordBack
-        wordBack = nextWord
-        stop = true if nextWord == "" || soFar.length >= maxLen
+        if !useLinkparser || verbsAndComplementizersBalanced?(soFar, nextWord)
+          soFar << nextWord
+          puts soFar.join(" ") if @debug
+          wordTwoBack = wordBack
+          wordBack = nextWord
+          endOfSentence = true if nextWord == "" || soFar.length >= maxLen
+        else
+          puts "trying to resolve verb-complementizer imbalance, rejecting \"" + nextWord.to_s + "\"" 
+        end
       else
-        stop = true
+        endOfSentence = true
       end
     end
     soFar.join(" ").strip
   end
+
+  #accessor methods for debugging, etc.
   def getDict (word)
     @trigramlm[word]
   end
@@ -204,7 +278,16 @@ threelm[wordTwoBack][wordBack]
   def getWholeDict
     @trigramlm
   end
+  def getLinkparser
+    @linkparser
+  end
+  def getVerbCount
+    @verb_count
+  end
+  def getComplementizerCount
+    @complementizer_count
+  end
 end
 
 @n = LanguageModel.new(["/home/merrillj/scotuslm/opinions", "*", "*", "*"], lambda{|filename| filename == "SCALIA.txt"})
-puts @n.getPhrase({:debug => true})
+puts @n.getPhrase({:debug => true, :linkparser => true})
