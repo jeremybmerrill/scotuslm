@@ -116,7 +116,7 @@ threelm[wordTwoBack][wordBack]
     true
   end
 
-  def verbsAndComplementizersBalanced?(sentenceSoFar, nextWord, probability = 0.2 )
+  def checkVerbsAndComplementizers(sentenceSoFar, nextWord, probability = 0.2 )
     #implements "very shallow parsing" on a sentence
     #if the sentence doesn't have N + 1 verbs for every N complementizers, 
     #   then, with some probability, return false if the next word if it doesn't resolve the imbalance.
@@ -124,15 +124,20 @@ threelm[wordTwoBack][wordBack]
     #   in hopes of finding a word that satisfies the imbalance on the next go-round.
 
     parsedSentence = @linkparser.parse( (sentenceSoFar + [nextWord]).join(" ") )
-    linkage = parsedSentence.linkages[-1]
-    puts 'no linkage'; return true if !linkage
-    links = linkage.links[-1]
-    puts 'no links'; return true if !links
-    lastLinkageLabel = links[:label]
+    begin 
+      linkage = parsedSentence.linkages[-1]
+      links = linkage.links
+    rescue NoMethodError
+      return true #ehh, sentence didn't parse.
+    end
+
+    @verb_count = links.select{ |link| @verb_list.include? link[:label].chars.select{ |c| c.match(/[A-Z]/) }.join("") }.size
+    @complementizer_count = links.select{ |link| @complementizer_list.include? link[:label].chars.select{ |c| c.match(/[A-Z]/) }.join("") }.size
+
+    lastLinkageLabel = parsedSentence.linkages[-1].links[-1][:label]
     lastLinkagePOS = lastLinkageLabel.chars.select{ |c| c.match(/[A-Z]/) }.join("")
     puts [nextWord, @verb_count, @complementizer_count, lastLinkagePOS].join(" ") #if @debug
     if @complementizer_list.include? lastLinkagePOS
-      @complementizer_count += 1
       if @verb_count == @complementizer_count + 1 #balance
         true
       elsif @verb_count > @complementizer_count + 1  #imbalance -- complementizer needed
@@ -145,7 +150,6 @@ threelm[wordTwoBack][wordBack]
         false
       end
     elsif @verb_list.include? lastLinkagePOS
-      @verb_count += 1
       if @verb_count == @complementizer_count + 1 #balance
         true
       elsif @verb_count < @complementizer_count + 1  #imbalance -- verb needed
@@ -249,7 +253,7 @@ threelm[wordTwoBack][wordBack]
       end
 
       if nextWord
-        if !useLinkparser || verbsAndComplementizersBalanced?(soFar, nextWord)
+        if !useLinkparser || checkVerbsAndComplementizers(soFar, nextWord)
           soFar << nextWord
           puts soFar.join(" ") if @debug
           wordTwoBack = wordBack
