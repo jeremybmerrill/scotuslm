@@ -14,7 +14,7 @@ threelm[wordTwoBack][wordBack]
 
 =end
 
-  def initialize(pathglob,lambdaFunc)
+  def initialize(pathglob,lambdaFunc = lambda{|a| a } )
     trigramcounts = {}
     unigramcounts = {}
     unigramcounts.default = 0
@@ -143,7 +143,7 @@ threelm[wordTwoBack][wordBack]
       return true
     end
 
-    puts [nextWord, @verb_count, @complementizer_count, last_word_POS].join(" ") #if @debug
+    puts [nextWord, @verb_count, @complementizer_count, last_word_POS].join(" ") if @debug
     if @complementizer_list.include? last_word_POS
       if @verb_count == @complementizer_count + 1 #balance
         true
@@ -181,14 +181,73 @@ threelm[wordTwoBack][wordBack]
     end
   end
 
+  def nextWordBigrams(wordBack)
+    nextWordChoicesStuff = @bigramlm[wordBack]
+    if rand < @unpathiness / Math.log( nextWordChoicesStuff[:tokencount])
+      puts "backing off to unigrams." if @debug
+      nextWordChoicesStuff[:data] = @unigramlm
+      nextWordChoicesStuff[:tokencount] = @wordcount
+    end
+    nextWordChoicesStuff
+  end
+  def nextWordTrigrams(wordBack, wordTwoBack)
+    testthingy = @trigramlm[wordTwoBack]
+    nextWordChoicesStuff = testthingy[wordBack] || {:tokencount => 0, :data => []}
+    if rand < @unpathiness / Math.log( nextWordChoicesStuff[:tokencount])
+      puts "backing off to bigrams, aka smoothing." if @debug
+      nextWordChoicesStuff = nextWordBigrams(wordBack)
+    elsif ! nextWordChoicesStuff 
+      puts "backing off to bigrams, since trigrams returned nothing" if @debug
+      nextWordChoicesStuff = nextWordBigrams(wordBack)
+    end
+    nextWordChoicesStuff
+  end
+
+
+  def getNextWord(wordBack, wordTwoBack)
+    #returns the next word based on the wordBack and wordTwoBack
+    #  dumb wrapper around nextWordBigrams, !!Trigrams functions.
+    #  i.e. doesn't do any parsing or anything.
+    nextWordChoicesStuff = nextWordTrigrams(wordBack, wordTwoBack)
+    if ! nextWordChoicesStuff 
+      puts "backing off to bigrams, since trigrams returned nothing" if @debug
+      nextWordChoicesStuff = nextWordBigrams(wordBack)
+    end
+    nextWordChoices = nextWordChoicesStuff[:data].reverse
+    tokencount = nextWordChoicesStuff[:tokencount]
+
+    nextWord = nil
+    myRand = rand(tokencount) + 1
+    puts nextWordChoices.inspect if @debug
+    puts "rand: #{myRand}, count: #{tokencount}, unpathiness: #{@unpathiness * 100}%" if @debug
+
+    mostRecentWord = nil
+    nextWordChoices.each_with_index do | valword, index |
+      val,word = valword
+      if (myRand == val) 
+        nextWord = word
+        break
+      elsif (myRand > val) 
+        nextWord = mostRecentWord 
+        break     
+      elsif index == (nextWordChoices.size) - 1
+        nextWord = word
+        break
+      end
+      mostRecentWord = word
+    end
+    nextWord
+  end
+
   def getPhrase (opts = {})
    o = { #set defaults
-      :maxLen => 30,
-      :unpathiness => 0.0,
+      :maxLen => 30, # if you set maxLen to 0, there is no maxLen
+      :unpathiness => 0.0, #TODO: Remember what this does.
       :wordTwoBack => "",
       :wordBack => "", 
       :debug => false,
-      :engtagger => false #TODO: Set to true, see if sentences are more coherent.
+      :engtagger => false, #TODO: Set to true, see if sentences are more coherent.
+      :guaranteeParse => false,
    }.merge(opts)
 		@unpathiness = o[:unpathiness]
     maxLen = o[:maxLen]
@@ -196,84 +255,49 @@ threelm[wordTwoBack][wordBack]
     wordBack = o[:wordBack]
     @debug = o[:debug]
     useEngtagger = o[:engtagger]
+    uselinkParserToValidateSentences = o[:guaranteeParse]  #should we return only parse-able sentences?
     puts "going to use engtagger" if @debug && useEngtagger
-
-    def nextWordBigrams(wordBack)
-      nextWordChoicesStuff = @bigramlm[wordBack]
-      if rand < @unpathiness / Math.log( nextWordChoicesStuff[:tokencount])
-        puts "backing off to unigrams." if @debug
-        nextWordChoicesStuff[:data] = @unigramlm
-        nextWordChoicesStuff[:tokencount] = @wordcount
-      end
-      nextWordChoicesStuff
-    end
-    def nextWordTrigrams(wordBack, wordTwoBack)
-      testthingy = @trigramlm[wordTwoBack]
-      nextWordChoicesStuff = testthingy[wordBack] || {:tokencount => 0, :data => []}
-      if rand < @unpathiness / Math.log( nextWordChoicesStuff[:tokencount])
-        puts "backing off to bigrams, aka smoothing." if @debug
-        nextWordChoicesStuff = nextWordBigrams(wordBack)
-      elsif ! nextWordChoicesStuff 
-        puts "backing off to bigrams, since trigrams returned nothing" if @debug
-        nextWordChoicesStuff = nextWordBigrams(wordBack)
-      end
-      nextWordChoicesStuff
-    end
-
 
     soFar = [wordTwoBack, wordBack]
     endOfSentence = false
-    while !endOfSentence
-      #testthingy = @trigramlm[wordTwoBack]
-      #nextWordChoicesStuff = testthingy[wordBack]
-      #if ! nextWordChoicesStuff 
-      #  puts "falling back to bigram dict" if @debug
-      #  nextWordChoicesStuff = @bigramlm[wordBack]
-      #end
-      nextWordChoicesStuff = nextWordTrigrams(wordBack, wordTwoBack)
-      if ! nextWordChoicesStuff 
-        puts "backing off to bigrams, since trigrams returned nothing" if @debug
-        nextWordChoicesStuff = nextWordBigrams(wordBack)
-      end
-      nextWordChoices = nextWordChoicesStuff[:data].reverse
-      tokencount = nextWordChoicesStuff[:tokencount]
 
-      nextWord = nil
-      myRand = rand(tokencount) + 1
-      puts nextWordChoices.inspect if @debug
-      puts "rand: #{myRand}, count: #{tokencount}, unpathiness: #{@unpathiness * 100}%" if @debug
-
-      mostRecentWord = nil
-      nextWordChoices.each_with_index do | valword, index |
-        val,word = valword
-        if (myRand == val) 
-          nextWord = word
-          break
-        elsif (myRand > val) 
-          nextWord = mostRecentWord 
-          break     
-        elsif index == (nextWordChoices.size) - 1
-          nextWord = word
-          break
-        end
-        mostRecentWord = word
-      end
-
+    loop do
+      nextWord = getNextWord(wordBack, wordTwoBack)
       if nextWord
-        if !useEngtagger || checkVerbsAndComplementizers(soFar, nextWord)
+        # conditions under which we reject a word and go back to picking another one.
+        if useEngtagger && ! checkVerbsAndComplementizers(soFar, nextWord)
+          puts "trying to resolve verb-complementizer imbalance, rejecting \"" + nextWord.to_s + "\"" if @debug
+        elsif false #if the word is off topic
+          #given a topic, 
+          #check if an "on topic" word could come next -- with 10% chance, choose it.          
+          
+        else
           soFar << nextWord
           puts soFar.join(" ") if @debug
           wordTwoBack = wordBack
           wordBack = nextWord
-          endOfSentence = true if nextWord == "" || soFar.length >= maxLen
-        else
-          puts "trying to resolve verb-complementizer imbalance, rejecting \"" + nextWord.to_s + "\"" 
+          break if nextWord == "" || (maxLen != 0 && soFar.length >= maxLen) 
         end
       else
-        endOfSentence = true
+        break
       end
     end
-    soFar.join(" ").strip
+    sentence = soFar.join(" ").strip
+
+    if !uselinkParserToValidateSentences
+      sentence
+    else
+      require 'linkparser'
+      sentence = soFar.join(" ").strip
+      @linkparser = LinkParser::Dictionary.new
+      result = @linkparser.parse(sentence)
+      if result.linkages != []
+        sentence
+      else
+        puts "ehhhhh, sentence didn't parse, trying again!" if @debug
+        getPhrase(opts) #if the sentence doesn't parse, throw it out and start again.
+      end
+    end
   end
 
   #accessor methods for debugging, etc.
@@ -289,7 +313,7 @@ threelm[wordTwoBack][wordBack]
   def getWholeDict
     @trigramlm
   end
-  def getLinkparser
+  def getEngtagger
     @engtagger
   end
   def getVerbCount
