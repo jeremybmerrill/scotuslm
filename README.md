@@ -18,17 +18,17 @@ There are only two necessary methods:
 
 1. LanguageModel.new(listOfFilepaths, lambda={|a| a })
 
-    - Specify a list of filepaths to train on and, optionally, a lambda to apply to that list. Only the filenames on which the lambda returns true will be used for training. (For instance, if you glob everything in a folder, you might only want the ones that include the word "SCALIA")
+  - Specify a list of filepaths to train on and, optionally, a lambda to apply to that list. Only the filenames on which the lambda returns true will be used for training. (For instance, if you glob everything in a folder, you might only want the ones that include the word "SCALIA")
 
 2. getPhrase(opts): returns a sentence generated from the language model. Options:
 
-    - :maxLen, default 30. The maximum length of a sentence. Often good to set, in case sentence ends up in a loop.
-    - :unpathiness, default 0. How often to back off to bigrams (only the last known word determines probabilities of following word)
-    - :wordTwoBack, default "". Start the sentence with this word. Definitely a good idea to set wordBack too, if you set this.
-    - :wordBack, default "". Start the sentence with this word.
-    - :debug, default false. Print debug messages. Quite verbose.
-    - :engtagger, default false. Count verbs and complementizers (e.g. which, that) to try to get more coherent sentences. Definitely a work in progress.
-    - :guaranteeParse, default false. Reject sentences that the CMU LinkParser can't parse.
+  - :maxLen, default 30. The maximum length of a sentence. Often good to set, in case sentence ends up in a loop.
+  - :unpathiness, default 0. How often to back off to bigrams (only the last known word determines probabilities of following word)
+  - :wordTwoBack, default "". Start the sentence with this word. Definitely a good idea to set wordBack too, if you set this.
+  - :wordBack, default "". Start the sentence with this word.
+  - :debug, default false. Print debug messages. Quite verbose.
+  - :engtagger, default false. Count verbs and complementizers (e.g. which, that) to try to get more coherent sentences. Definitely a work in progress.
+  - :guaranteeParse, default false. Reject sentences that the CMU LinkParser can't parse.
 
 ####TODO:
 Lots of things!
