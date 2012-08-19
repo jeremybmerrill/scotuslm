@@ -1,4 +1,4 @@
-##scotuslm
+scotuslm
 ==========
 
 ####Trigram language model + Supreme Court opinions = lulzy fake opinions
@@ -14,10 +14,14 @@ There are a couple of unorganized components to this barely-started project:
 ####Usage notes:
 The lm.rb file allows a trigram language model (where the next word is chosen randomly from all of those that have occurred in the training set after the previous two (known) words) to be trivially implemented over any set of data. 
 
-There are only two necessary methods.
-1. LanguageModel.new
+There are only two necessary methods:
+
+1. LanguageModel.new(listOfFilepaths, lambda={|a| a })
+
     - Specify a list of filepaths to train on and, optionally, a lambda to apply to that list. Only the filenames on which the lambda returns true will be used for training. (For instance, if you glob everything in a folder, you might only want the ones that include the word "SCALIA")
-2. #getPhrase: returns a sentence generated from the language model. Options:
+
+2. getPhrase(opts): returns a sentence generated from the language model. Options:
+
     - :maxLen, default 30. The maximum length of a sentence. Often good to set, in case sentence ends up in a loop.
     - :unpathiness, default 0. How often to back off to bigrams (only the last known word determines probabilities of following word)
     - :wordTwoBack, default "". Start the sentence with this word. Definitely a good idea to set wordBack too, if you set this.
