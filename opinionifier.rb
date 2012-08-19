@@ -87,10 +87,9 @@ def formatOpinion(opinion, opinionName, lineCombiner = LineCombiner.new)
     end
 
     newOpinion << newPageCombined.join(" ") #TODO split on punctuation and join('\n') 
-    #TODO: Check if last word of line1 and first word of line 2 don't exist in dictionary but combined, if they do. E.g. ren\ndered => rendere
   end
   #newOpinion += footnotes
-  newOpinion = newOpinion.join(" ").gsub("[", "").gsub("]", "").gsub("(","").gsub(")", "").gsub(" . . .", "...")
+  newOpinion = newOpinion.join(" ").gsub("[", "").gsub("]", "").gsub("(","").gsub("­\n","").gsub("­ ", "").gsub(")", "").gsub(" . . .", "...").gsub(/“|”/, '"')
   if newOpinion.size > $largest[0]
     $largest = [newOpinion.size, opinionName] 
     puts newOpinion.size
