@@ -1,5 +1,6 @@
 # encoding: utf-8 
-require 'linkparser'
+require 'engtagger'
+require 'nokogiri'
 
 class LanguageModel
 =begin
@@ -27,9 +28,12 @@ threelm[wordTwoBack][wordBack]
     trigramcountsmember.default = bigramcountsmember
     trigramcounts.default = trigramcountsmember
 
-    @linkparser = LinkParser::Dictionary.new
-    @complementizer_list = ['AZ', 'TH', 'TS', ]
-    @verb_list = ['S']
+    @engtagger = EngTagger.new
+    #@complementizer_list = ['AZ', 'TH', 'TS', ]
+    #@verb_list = ['S']
+    @complementizer_list = ["wp", "wps," "wdt", "wrb"] #also, "in", dealt with separately
+    @actual_IN_complementizers = ["that", "although", "after", "although", "if", "unless", "as", "inasmuch", "until", "when", "whenever", "since", "while", "because", "before", "though"]
+    @verb_list = ["vb", "vbd", "vbp", "vbz",] #, "vbg", "vbn" #participles, which I don't really want.
     @complementizer_count = 0
     @verb_count = 0
     @makes_things_worse_adjustment = 3 #if the selected part of speech would make things worse, multiply this by probability to make it harder to add the selected word
@@ -116,28 +120,31 @@ threelm[wordTwoBack][wordBack]
     true
   end
 
-  def checkVerbsAndComplementizers(sentenceSoFar, nextWord, probability = 0.2 )
+  def checkVerbsAndComplementizers(sentenceSoFar, nextWord, probability = 0.3 )
     #implements "very shallow parsing" on a sentence
     #if the sentence doesn't have N + 1 verbs for every N complementizers, 
     #   then, with some probability, return false if the next word if it doesn't resolve the imbalance.
     #   and return false with higher probability if the next word increases the imbalance
     #   in hopes of finding a word that satisfies the imbalance on the next go-round.
 
-    parsedSentence = @linkparser.parse( (sentenceSoFar + [nextWord]).join(" ") )
-    begin 
-      linkage = parsedSentence.linkages[-1]
-      links = linkage.links
-    rescue NoMethodError
-      return true #ehh, sentence didn't parse.
+    tagged_sentence = @engtagger.add_tags( sentenceSoFar.join(" ") )
+    tagged_sentence_with_next_word = @engtagger.add_tags( (sentenceSoFar + [nextWord]).join(" ") )
+    last_word_tag_stuff = tagged_sentence_with_next_word.split("> <")[-1].gsub(/^</, "").gsub(/>$/, "")
+    last_word_POS = last_word_tag_stuff[0...last_word_tag_stuff.index(">")]
+    last_word_content = last_word_tag_stuff[last_word_tag_stuff.index(">")+1 ... last_word_tag_stuff.index("<")]
+    if tagged_sentence
+      @verb_count = tagged_sentence.split("> <").select{ |e| @verb_list.include? e[0...e.index(">")] }.count
+      @complementizer_count = tagged_sentence.split("> <").select{ |e| @complementizer_list.include?(e[0...e.index(">")]) || (e[0...e.index(">")] == "in" && @actual_IN_complementizers.include?(last_word_content) )}.count
+    end
+    #@verb_count = links.select{ |link| @verb_list.include? link[:label].chars.select{ |c| c.match(/[A-Z]/) }.join("") }.size
+    #@complementizer_count = links.select{ |link| @complementizer_list.include? link[:label].chars.select{ |c| c.match(/[A-Z]/) }.join("") }.size
+
+    if @verb_count == 0 && @complementizer_count == 0
+      return true
     end
 
-    @verb_count = links.select{ |link| @verb_list.include? link[:label].chars.select{ |c| c.match(/[A-Z]/) }.join("") }.size
-    @complementizer_count = links.select{ |link| @complementizer_list.include? link[:label].chars.select{ |c| c.match(/[A-Z]/) }.join("") }.size
-
-    lastLinkageLabel = parsedSentence.linkages[-1].links[-1][:label]
-    lastLinkagePOS = lastLinkageLabel.chars.select{ |c| c.match(/[A-Z]/) }.join("")
-    puts [nextWord, @verb_count, @complementizer_count, lastLinkagePOS].join(" ") #if @debug
-    if @complementizer_list.include? lastLinkagePOS
+    puts [nextWord, @verb_count, @complementizer_count, last_word_POS].join(" ") #if @debug
+    if @complementizer_list.include? last_word_POS
       if @verb_count == @complementizer_count + 1 #balance
         true
       elsif @verb_count > @complementizer_count + 1  #imbalance -- complementizer needed
@@ -149,7 +156,7 @@ threelm[wordTwoBack][wordBack]
       else 
         false
       end
-    elsif @verb_list.include? lastLinkagePOS
+    elsif @verb_list.include? last_word_POS
       if @verb_count == @complementizer_count + 1 #balance
         true
       elsif @verb_count < @complementizer_count + 1  #imbalance -- verb needed
@@ -181,15 +188,15 @@ threelm[wordTwoBack][wordBack]
       :wordTwoBack => "",
       :wordBack => "", 
       :debug => false,
-      :linkparser => false #TODO: Set to true, see if sentences are more coherent.
+      :engtagger => false #TODO: Set to true, see if sentences are more coherent.
    }.merge(opts)
 		@unpathiness = o[:unpathiness]
     maxLen = o[:maxLen]
     wordTwoBack = o[:wordTwoBack]
     wordBack = o[:wordBack]
     @debug = o[:debug]
-    useLinkparser = o[:linkparser]
-    puts "going to use linkparser" if @debug && useLinkparser
+    useEngtagger = o[:engtagger]
+    puts "going to use engtagger" if @debug && useEngtagger
 
     def nextWordBigrams(wordBack)
       nextWordChoicesStuff = @bigramlm[wordBack]
@@ -253,7 +260,7 @@ threelm[wordTwoBack][wordBack]
       end
 
       if nextWord
-        if !useLinkparser || checkVerbsAndComplementizers(soFar, nextWord)
+        if !useEngtagger || checkVerbsAndComplementizers(soFar, nextWord)
           soFar << nextWord
           puts soFar.join(" ") if @debug
           wordTwoBack = wordBack
@@ -283,7 +290,7 @@ threelm[wordTwoBack][wordBack]
     @trigramlm
   end
   def getLinkparser
-    @linkparser
+    @engtagger
   end
   def getVerbCount
     @verb_count
@@ -294,4 +301,4 @@ threelm[wordTwoBack][wordBack]
 end
 
 @n = LanguageModel.new(["/home/merrillj/scotuslm/opinions", "*", "*", "*"], lambda{|filename| filename == "SCALIA.txt"})
-puts @n.getPhrase({:debug => true, :linkparser => true})
+puts @n.getPhrase({:debug => true, :engtagger => true})
