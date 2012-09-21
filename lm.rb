@@ -183,7 +183,8 @@ threelm[word_two_back][word_back]
 
   def next_word_bigrams(word_back)
     next_word_choices_stuff = @bigramlm[word_back]
-    if rand < @unpathiness / Math.log( next_word_choices_stuff[:tokencount])
+    puts Math.log( next_word_choices_stuff[:tokencount])
+    if rand < @unpathiness / (Math.log( next_word_choices_stuff[:tokencount])) || next_word_choices_stuff[:tokencount] <= 1
       puts "backing off to unigrams." if @debug
       next_word_choices_stuff[:data] = @unigramlm
       next_word_choices_stuff[:tokencount] = @word_count
@@ -193,7 +194,8 @@ threelm[word_two_back][word_back]
   def next_word_trigrams(word_back, word_two_back)
     testthingy = @trigramlm[word_two_back]
     next_word_choices_stuff = testthingy[word_back] || {:tokencount => 0, :data => []}
-    if rand < @unpathiness / Math.log( next_word_choices_stuff[:tokencount])
+    puts Math.log( next_word_choices_stuff[:tokencount])
+    if rand < @unpathiness / Math.log( next_word_choices_stuff[:tokencount]) || next_word_choices_stuff[:tokencount] <= 1
       puts "backing off to bigrams, aka smoothing." if @debug
       next_word_choices_stuff = next_word_bigrams(word_back)
     elsif ! next_word_choices_stuff 
@@ -246,7 +248,7 @@ threelm[word_two_back][word_back]
       :word_two_back => "",
       :word_back => "", 
       :debug => false,
-      :engtagger => false, #TODO: Set to true, see if sentences are more coherent.
+      :engtagger => false,
       :guaranteeParse => false,
    }.merge(opts)
 		@unpathiness = o[:unpathiness]
@@ -300,6 +302,13 @@ threelm[word_two_back][word_back]
     end
   end
 
+  def get_paragraph(length = 10, opts)
+    paragraph = []
+    length.times do
+      self.get_phrase(opts)
+    end
+    paragraph.join(" ")
+  end
 
   attr_reader :trigramlm, :bigramlm, :engtagger, :verb_count, :complementizer_count
   #accessor methods for debugging, etc.
