@@ -223,7 +223,6 @@ class LanguageModel:
         next_word = word
         break
       most_recent_word = word
-    print "returning " + str(next_word)
     return next_word
 
   def get_phrase (self, opts = dict()):
