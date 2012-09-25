@@ -1,7 +1,9 @@
 Fix the random numbers that show up often.
 Remove case citations 
 
-ensure that lines get ended properly (is [2, ""] an element of the list, for whatever 2?)
-are some lines in opinionifier still not being recombined properly, perhaps because they're padded with spaces on one side (e.g. w1)?
-
 teach punkt-segmenter to cope with ellipses
+
+set a 'topic' for the generated sentences to be about.
+ + set the topic in the LM initializer, not per sentence
+ + do a TFIDF-style count of what words are most associated with the topic word ("gun" and "firearm" for instance should co-occur).
+ + for each getPhrase, prefer with some frequency to pick the topic words if they are present in the dictionary for the previous two words.

@@ -27,11 +27,11 @@ class LanguageModel:
 
     #complementizer_list = ['AZ', 'TH', 'TS', ]
     #verb_list = ['S']
-    complementizer_list = ["wp", "wps," "wdt", "wrb"] #also, "in", dealt with separately
+    self.complementizer_list = ["WP", "WPS," "WDT", "WRB"] #also, "in", dealt with separately
     actual_IN_complementizers = ["that", "although", "after", "although", "if", "unless", "as", "inasmuch", "until", "when", "whenever", "since", "while", "because", "before", "though"]
-    verb_list = ["vb", "vbd", "vbp", "vbz",] #, "vbg", "vbn" #participles, which I don't really want.
-    complementizer_count = 0
-    verb_count = 0
+    self.verb_list = ["VB", "VBD", "VBP", "VBZ",] #, "vbg", "vbn" #participles, which I don't really want.
+    #complementizer_count = 0
+    #verb_count = 0
     makes_things_worse_adjustment = 3 #if the selected part of speech would make things worse, multiply this by probability to make it harder to add the selected word
     self.unpathiness = 0
     self.debug = False
@@ -101,68 +101,57 @@ class LanguageModel:
       self.unigramlm.append([count, word])
     print "done generating hashes"
 
-  def check_verbs_and_complementizers(sentence_so_far, next_word, probability = 0.3 ):
-    return True
-  """
+  def check_verbs_and_complementizers(self, sentence_so_far, next_word, probability = 0.3 ):
     #implements "very shallow parsing" on a sentence
     #if the sentence doesn't have N + 1 verbs for every N complementizers, 
     #   then, with some probability, return False if the next word if it doesn't resolve the imbalance.
     #   and return False with higher probability if the next word increases the imbalance
     #   in hopes of finding a word that satisfies the imbalance on the next go-round.
 
-    tagged_sentence = engtagger.add_tags( sentence_so_far.join(" ") )
-    tagged_sentence_with_next_word = engtagger.add_tags( (sentence_so_far + [next_word]).join(" ") )
-    last_word_tag_stuff = tagged_sentence_with_next_word.split("> <")[-1].gsub(/^</, "").gsub(/>$/, "")
-    last_word_POS = last_word_tag_stuff[0...last_word_tag_stuff.index(">")]
-    last_word_content = last_word_tag_stuff[last_word_tag_stuff.index(">")+1 ... last_word_tag_stuff.index("<")]
-    if tagged_sentence
-      verb_count = tagged_sentence.split("> <").select{ |e| verb_list.include? e[0...e.index(">")] }.count
-      complementizer_count = tagged_sentence.split("> <").select{ |e| complementizer_list.include?(e[0...e.index(">")]) || (e[0...e.index(">")] == "in" && actual_IN_complementizers.include?(last_word_content) )}.count
-    end
-    #verb_count = links.select{ |link| verb_list.include? link["label"].chars.select{ |c| c.match(/[A-Z]/) }.join("") }.size
-    #complementizer_count = links.select{ |link| complementizer_list.include? link["label"].chars.select{ |c| c.match(/[A-Z]/) }.join("") }.size
+    tagged_sentence_so_far = nltk.pos_tag(nltk.word_tokenize( " ".join(sentence_so_far) ))
+    tagged_sentence_with_next_word =  nltk.pos_tag(nltk.word_tokenize( " ".join(sentence_so_far + [next_word]) ))
+    next_word_POS = tagged_sentence_with_next_word[-1][1] #the next word's tag is the second element of the final element of the list of words in the sentence.
 
-    if verb_count == 0 && complementizer_count == 0
+    #TODO: what if the sentence didn't get tagged successfully?
+    verb_count = len([pos for word, pos in tagged_sentence_so_far if pos in self.verb_list])
+    complementizer_count = len([pos for word, pos in tagged_sentence_so_far if pos in self.complementizer_list]) #TODO: some complementizers are BS.
+
+    if verb_count == 0 and complementizer_count == 0:
       return True
-    end
 
-    print [next_word, verb_count, complementizer_count, last_word_POS].join(" ") if debug
-    if complementizer_list.include? last_word_POS
-      if verb_count == complementizer_count + 1 #balance
-        True
-      elsif verb_count > complementizer_count + 1  #imbalance -- complementizer needed
+    if self.debug:
+      print " ".join(map(str, [next_word, verb_count, complementizer_count, next_word_POS]))
+    if next_word_POS in self.complementizer_list:
+      if verb_count == complementizer_count + 1: #balance
+        return True
+      elif verb_count > complementizer_count + 1: #imbalance -- complementizer needed
         #accept, this fixes the imbalance!
-        True
-      elsif rand > probability * makes_things_worse_adjustment #verb needed, reject with high probability; allowing this word would increase the imbalance
+        return True
+      elif rand > probability * makes_things_worse_adjustment: #verb needed, reject with high probability; allowing this word would increase the imbalance
         #oh well, keep it.
-        True
-      else 
-        False
-      end
-    elsif verb_list.include? last_word_POS
-      if verb_count == complementizer_count + 1 #balance
-        True
-      elsif verb_count < complementizer_count + 1  #imbalance -- verb needed
+        return True
+      else:
+        return False
+    elif next_word_POS in self.verb_list:
+      if verb_count == complementizer_count + 1: #balance
+        return True
+      elif verb_count < complementizer_count + 1:  #imbalance -- verb needed
         #accept, this fixes the imbalance!
-        True
-      elsif rand > probability * makes_things_worse_adjustment #complementizer needed, reject with high probability; allowing this word would increase the imbalance
+        return True
+      elif rand > probability * makes_things_worse_adjustment: #complementizer needed, reject with high probability; allowing this word would increase the imbalance
         #oh well, keep it.
-        True
-      else 
-        False
-      end
-    else
-      if verb_count == complementizer_count + 1 #balance
-        True
-      elsif rand > probability #selected word doesn't fix the imbalance.
+        return True
+      else:
+        return False
+    else:
+      if verb_count == complementizer_count + 1: #balance
+        return True
+      elif rand > probability: #selected word doesn't fix the imbalance.
         #oh well, keep it.
-        True
-      else 
+        return True
+      else:
         #rejected!
-        False
-      end
-    end
-  end"""
+        return False
 
   def next_word_bigrams(self,word_back):
     get_stuff = self.bigramlm.get(word_back, dict({"tokencount" : 0, "data" : []}))
@@ -232,7 +221,7 @@ class LanguageModel:
         "word_two_back" : "",
         "word_back" : "", 
         "debug" : False,
-        "engtagger" : False,
+        "veryShallowParse" : False,
         "guaranteeParse" : False,
     }).items() + opts.items())
 
@@ -241,10 +230,10 @@ class LanguageModel:
     word_two_back = o["word_two_back"]
     word_back = o["word_back"]
     self.debug = o["debug"]
-    useEngtagger = o["engtagger"]
-    use_linkparser_to_validate_sentences = o["guaranteeParse"]  #should we return only parse-able sentences?
-    if self.debug and useEngtagger:
-      print "going to use engtagger"
+    useShallowParsing = o["veryShallowParse"]
+    only_parseable_sentences = o["guaranteeParse"]  #should we return only parse-able sentences?
+    if self.debug and useShallowParsing:
+      print "going to use very shallow parsing"
 
     so_far = [word_two_back, word_back]
     endOfSentence = False
@@ -253,7 +242,7 @@ class LanguageModel:
       next_word = self.getnext_word(word_back, word_two_back)
       if next_word:
         # conditions under which we reject a word and go back to picking another one.
-        if useEngtagger and not self.check_verbs_and_complementizers(so_far, next_word):
+        if useShallowParsing and not self.check_verbs_and_complementizers(so_far, next_word):
           if self.debug: 
             print "trying to resolve verb-complementizer imbalance, rejecting \"" + next_word.to_s + "\"" 
         elif False: #if the word is off topic
@@ -272,7 +261,7 @@ class LanguageModel:
         break
     sentence = " ".join(so_far).strip()
 
-    if not use_linkparser_to_validate_sentences:
+    if not only_parseable_sentences:
       return sentence
     else:
       raise NotImplementedError
@@ -295,5 +284,5 @@ class LanguageModel:
     return paragraph.join(" ")
 
 myLM = LanguageModel(["/home/merrillj/scotuslm/opinions", "*", "*", "*"], lambda filename: filename == "SCALIA.txt" )
-opts = dict({"debug" : True, "engtagger" : True})
+opts = dict({"debug" : True, "veryShallowParse" : True})
 print myLM.get_phrase( opts )
