@@ -32,9 +32,8 @@ There are only two necessary methods:
 
 ####TODO:
 Lots of things!
-- Topics
-- Find a way to make sentences more coherent.
-- Attempt to write more coherent sentences by counting complementizers (which, that) and verbs to ensure verbs = complementizers +1. This gives the model a bit of "long distance" reasoning to prevent ungrammatical output like "The people that the supreme court" or "The petitioner who files the brief"
+- Topics - cluster words? TFIDF over opinions (or even opinion pages?)
+- Improve very shallow parsing.
 
 ####Known Issues:
 - Everything!

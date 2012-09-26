@@ -1,4 +1,5 @@
-# encoding: utf-8 
+#! /usr/bin/python
+# -*- coding: utf-8 -*-
 
 import os
 import copy
@@ -7,6 +8,7 @@ import random
 import glob
 import re
 import nltk
+import codecs
 
 class LanguageModel:
   """What's the best model for a 3LM?
@@ -32,7 +34,7 @@ class LanguageModel:
     self.verb_list = ["VB", "VBD", "VBP", "VBZ",] #, "vbg", "vbn" #participles, which I don't really want.
     #complementizer_count = 0
     #verb_count = 0
-    makes_things_worse_adjustment = 3 #if the selected part of speech would make things worse, multiply this by probability to make it harder to add the selected word
+    self.makes_things_worse_adjustment = 3 #if the selected part of speech would make things worse, multiply this by probability to make it harder to add the selected word
     self.unpathiness = 0
     self.debug = False
 
@@ -41,13 +43,13 @@ class LanguageModel:
     for f in files:
       if os.path.basename(f) == '.' or os.path.basename(f) == '..' or not lambdaFunc(os.path.basename(f)):
         continue
-      for sentence in open(f): #files are pre-split into sentences
+      for sentence in codecs.open(f, "r", "utf-8"): #files are pre-split into sentences
         #line = line.split(/[.?!]|$/) 
         split_sentence = sentence.strip().split(" ")
         word_two_back = ""
         word_back = ""
         for word in split_sentence:
-          word.replace("—", "")
+          #word.replace("—", "")
           word = re.sub(re.compile("[_\(\),]"), "", word.lower() ) #—
           word_count += 1
 
@@ -84,7 +86,8 @@ class LanguageModel:
         trigram_LM_one_step_inside[word_back]["data"] = trigram_LM_two_steps_inside
       self.trigramlm[word_two_back] = trigram_LM_one_step_inside
 
-    print bigram_counts
+    if self.debug:
+      print(bigram_counts)
     for word_back, inner_hash in bigram_counts.iteritems():
       count = 0
       innerLM = []
@@ -99,7 +102,8 @@ class LanguageModel:
     for word, myCount in unigram_counts.iteritems():
       count += myCount
       self.unigramlm.append([count, word])
-    print "done generating hashes"
+    if self.debug:
+      print("done generating hashes")
 
   def check_verbs_and_complementizers(self, sentence_so_far, next_word, probability = 0.3 ):
     #implements "very shallow parsing" on a sentence
@@ -111,34 +115,35 @@ class LanguageModel:
     tagged_sentence_so_far = nltk.pos_tag(nltk.word_tokenize( " ".join(sentence_so_far) ))
     tagged_sentence_with_next_word =  nltk.pos_tag(nltk.word_tokenize( " ".join(sentence_so_far + [next_word]) ))
     next_word_POS = tagged_sentence_with_next_word[-1][1] #the next word's tag is the second element of the final element of the list of words in the sentence.
-
+    print(str(tagged_sentence_with_next_word ))
     #TODO: what if the sentence didn't get tagged successfully?
     verb_count = len([pos for word, pos in tagged_sentence_so_far if pos in self.verb_list])
     complementizer_count = len([pos for word, pos in tagged_sentence_so_far if pos in self.complementizer_list]) #TODO: some complementizers are BS.
 
+    if self.debug:
+      print(". ".join(map(str, [next_word, verb_count, complementizer_count, next_word_POS])).encode("utf-8"))
+
     if verb_count == 0 and complementizer_count == 0:
       return True
 
-    if self.debug:
-      print " ".join(map(str, [next_word, verb_count, complementizer_count, next_word_POS]))
     if next_word_POS in self.complementizer_list:
       if verb_count == complementizer_count + 1: #balance
         return True
       elif verb_count > complementizer_count + 1: #imbalance -- complementizer needed
         #accept, this fixes the imbalance!
         return True
-      elif rand > probability * makes_things_worse_adjustment: #verb needed, reject with high probability; allowing this word would increase the imbalance
+      elif random.random() > probability * self.makes_things_worse_adjustment: #verb needed, reject with high probability; allowing this word would increase the imbalance
         #oh well, keep it.
         return True
       else:
         return False
     elif next_word_POS in self.verb_list:
-      if verb_count == complementizer_count + 1: #balance
+      if verb_count == complementizer_count: #balance, feel free to take me out of balance verbly. :)
         return True
-      elif verb_count < complementizer_count + 1:  #imbalance -- verb needed
+      elif verb_count < complementizer_count:  #imbalance -- verb needed
         #accept, this fixes the imbalance!
         return True
-      elif rand > probability * makes_things_worse_adjustment: #complementizer needed, reject with high probability; allowing this word would increase the imbalance
+      elif random.random() > probability * self.makes_things_worse_adjustment: #complementizer needed, reject with high probability; allowing this word would increase the imbalance
         #oh well, keep it.
         return True
       else:
@@ -146,7 +151,7 @@ class LanguageModel:
     else:
       if verb_count == complementizer_count + 1: #balance
         return True
-      elif rand > probability: #selected word doesn't fix the imbalance.
+      elif random.random() > probability: #selected word doesn't fix the imbalance.
         #oh well, keep it.
         return True
       else:
@@ -156,9 +161,9 @@ class LanguageModel:
   def next_word_bigrams(self,word_back):
     get_stuff = self.bigramlm.get(word_back, dict({"tokencount" : 0, "data" : []}))
     logthis = float("inf") if get_stuff.get("tokencount", 0) <= 1 else get_stuff["tokencount"]
-    if rand < self.unpathiness / Math.log( logthis ):
+    if random.random() < self.unpathiness / Math.log( logthis ):
       if self.debug: 
-        print "backing off to unigrams."
+        print("backing off to unigrams.")
       get_stuff["data"] = unigramlm
       get_stuff["tokencount"] = word_count
     return get_stuff
@@ -170,11 +175,11 @@ class LanguageModel:
     logthis = float("inf") if get_stuff.get("tokencount", 0) <= 1 else get_stuff["tokencount"]
     if random.random() < self.unpathiness / math.log( logthis ):
       if self.debug:
-        print "backing off to bigrams, aka smoothing."
+        print("backing off to bigrams, aka smoothing.")
       get_stuff = self.next_word_bigrams(word_back)
     elif not get_stuff :
       if self.debug:
-        print "backing off to bigrams, since trigrams returned nothing"
+        print("backing off to bigrams, since trigrams returned nothing")
       get_stuff = self.next_word_bigrams(word_back)
     return get_stuff
 
@@ -185,7 +190,7 @@ class LanguageModel:
     get_stuff = self.next_word_trigrams(word_back, word_two_back)
     if not get_stuff:
       if self.debug:
-        print "backing off to bigrams, since trigrams returned nothing"
+        print("backing off to bigrams, since trigrams returned nothing")
       get_stuff = self.next_word_bigrams(word_back)
     next_word_choices = get_stuff["data"]
 
@@ -196,8 +201,8 @@ class LanguageModel:
     next_word = None
     myRand = random.randint(0, tokencount)  #TODO, double check output here.
     if self.debug:
-      print next_word_choices
-      print "rand: " + str(myRand) + ", count: " + str(tokencount) + ", unpathiness: "+ str(self.unpathiness * 100)
+      print(next_word_choices)
+      print("rand: " + str(myRand) + ", count: " + str(tokencount) + ", unpathiness: "+ str(self.unpathiness * 100))
 
     most_recent_word = None
     for index, valword in enumerate(next_word_choices):
@@ -233,7 +238,7 @@ class LanguageModel:
     useShallowParsing = o["veryShallowParse"]
     only_parseable_sentences = o["guaranteeParse"]  #should we return only parse-able sentences?
     if self.debug and useShallowParsing:
-      print "going to use very shallow parsing"
+      print("going to use very shallow parsing")
 
     so_far = [word_two_back, word_back]
     endOfSentence = False
@@ -244,7 +249,7 @@ class LanguageModel:
         # conditions under which we reject a word and go back to picking another one.
         if useShallowParsing and not self.check_verbs_and_complementizers(so_far, next_word):
           if self.debug: 
-            print "trying to resolve verb-complementizer imbalance, rejecting \"" + next_word.to_s + "\"" 
+            print("trying to resolve verb-complementizer imbalance, rejecting \"" + next_word + "\"" )
         elif False: #if the word is off topic
           #given a topic, 
           #check if an "on topic" word could come next -- with 10% chance, choose it.     
@@ -252,7 +257,7 @@ class LanguageModel:
         else:
           so_far.append(next_word)
           if self.debug: 
-            print " ".join(so_far)
+            print(" ".join(so_far))
           word_two_back = word_back
           word_back = next_word
           if next_word == "" or (maxLen != 0 and len(so_far) >= maxLen):
@@ -273,16 +278,16 @@ class LanguageModel:
       if result.linkages != []
         return sentence
       else
-        print "ehhhhh, sentence didn't parse, trying again!" if debug
+        print("ehhhhh, sentence didn't parse, trying again!" if debug)
         return get_phrase(opts) #if the sentence doesn't parse, throw it out and start again.
       """
 
   def get_paragraph(self, length = 10, opts = dict()):
     paragraph = []
     for i in range(length):
-      self.get_phrase(opts)
-    return paragraph.join(" ")
+      paragraph.append(self.get_phrase(opts))
+    return " ".join(paragraph)
 
 myLM = LanguageModel(["/home/merrillj/scotuslm/opinions", "*", "*", "*"], lambda filename: filename == "SCALIA.txt" )
-opts = dict({"debug" : True, "veryShallowParse" : True})
-print myLM.get_phrase( opts )
+opts = dict({"debug" : True, "veryShallowParse" : True, "maxLen" : 50})
+print(myLM.get_phrase( opts ))
