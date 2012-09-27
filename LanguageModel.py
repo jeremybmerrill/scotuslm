@@ -30,7 +30,7 @@ class LanguageModel:
     #complementizer_list = ['AZ', 'TH', 'TS', ]
     #verb_list = ['S']
     self.complementizer_list = ["WP", "WPS," "WDT", "WRB"] #also, "in", dealt with separately
-    actual_IN_complementizers = ["that", "although", "after", "although", "if", "unless", "as", "inasmuch", "until", "when", "whenever", "since", "while", "because", "before", "though"]
+    #actual_IN_complementizers = ["that", "although", "after", "although", "if", "unless", "as", "inasmuch", "until", "when", "whenever", "since", "while", "because", "before", "though"]
     self.verb_list = ["VB", "VBD", "VBP", "VBZ",] #, "vbg", "vbn" #participles, which I don't really want.
     #complementizer_count = 0
     #verb_count = 0
@@ -45,7 +45,7 @@ class LanguageModel:
         continue
       for sentence in codecs.open(f, "r", "utf-8"): #files are pre-split into sentences
         #line = line.split(/[.?!]|$/) 
-        split_sentence = sentence.strip().split(" ")
+        split_sentence = nltk.word_tokenize(sentence.strip())
         word_two_back = ""
         word_back = ""
         for word in split_sentence:
