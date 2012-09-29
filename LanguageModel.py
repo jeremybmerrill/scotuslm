@@ -22,7 +22,7 @@ class LanguageModel:
   """
 
 
-  def __init__(self, pathglob, lambdaFunc = lambda x: True ):
+  def __init__(self, pathglob, filesFilter = lambda x: True ):
     trigram_counts = dict()
     unigram_counts = dict()
     bigram_counts = dict() #e.g. {San => {Francisco => 50, Jose => 20} }
@@ -41,7 +41,7 @@ class LanguageModel:
     word_count = 0
     files = glob.glob(os.path.join(*pathglob)) #TODO
     for f in files:
-      if os.path.basename(f) == '.' or os.path.basename(f) == '..' or not lambdaFunc(os.path.basename(f)):
+      if os.path.basename(f) == '.' or os.path.basename(f) == '..' or not filesFilter(os.path.basename(f)):
         continue
       for sentence in codecs.open(f, "r", "utf-8"): #files are pre-split into sentences
         #line = line.split(/[.?!]|$/) 
@@ -111,6 +111,8 @@ class LanguageModel:
     #   then, with some probability, return False if the next word if it doesn't resolve the imbalance.
     #   and return False with higher probability if the next word increases the imbalance
     #   in hopes of finding a word that satisfies the imbalance on the next go-round.
+
+    #TODO: rewrite to return a probability of rejection.
 
     tagged_sentence_so_far = nltk.pos_tag(nltk.word_tokenize( " ".join(sentence_so_far) ))
     tagged_sentence_with_next_word =  nltk.pos_tag(nltk.word_tokenize( " ".join(sentence_so_far + [next_word]) ))
@@ -183,7 +185,7 @@ class LanguageModel:
       get_stuff = self.next_word_bigrams(word_back)
     return get_stuff
 
-  def getnext_word(self, word_back, word_two_back):
+  def get_next_word(self, word_back, word_two_back):
     #returns the next word based on the word_back and word_two_back
     #  dumb wrapper around next_word_bigrams, !!Trigrams functions.
     #  i.e. doesn't do any parsing or anything.
@@ -219,24 +221,17 @@ class LanguageModel:
       most_recent_word = word
     return next_word
 
-  def get_phrase (self, opts = dict()):
-    o = dict( dict({ #set defaults
-        "maxLen" : 30, # if you set maxLen to 0, there is no maxLen
-        "unpathiness" : 0.0, #TODO: Remember what this does.
-        "word_two_back" : "",
-        "word_back" : "", 
-        "debug" : False,
-        "veryShallowParse" : False,
-        "guaranteeParse" : False,
-    }).items() + opts.items())
+  def get_phrase (self, **kwargs):
+    #defaults
+    self.unpathiness = kwargs.get("unpathiness", 0.0)
+    maxLen = kwargs.get("maxLen", 30)  # if you set maxLen to 0, there is no maxLen
+    word_two_back = kwargs.get("word_two_back", "")
+    word_back = kwargs.get("word_back", "")
+    self.debug = kwargs.get("debug", False)
+    useShallowParsing = kwargs.get("veryShallowParse", False)
+    only_parseable_sentences = kwargs.get("guaranteeParse", False)  #should we return only parse-able sentences?
+    similar_words = kwargs.get("similar_words", None)
 
-    self.unpathiness = o["unpathiness"]
-    maxLen = o["maxLen"]
-    word_two_back = o["word_two_back"]
-    word_back = o["word_back"]
-    self.debug = o["debug"]
-    useShallowParsing = o["veryShallowParse"]
-    only_parseable_sentences = o["guaranteeParse"]  #should we return only parse-able sentences?
     if self.debug and useShallowParsing:
       print("going to use very shallow parsing")
 
@@ -244,9 +239,10 @@ class LanguageModel:
     endOfSentence = False
 
     while 1:
-      next_word = self.getnext_word(word_back, word_two_back)
+      next_word = self.get_next_word(word_back, word_two_back)
       if next_word:
         # conditions under which we reject a word and go back to picking another one.
+        #TODO: rewrite topics and very-shallow-parsing to each return a "how much we want/don't-want this word", to be run over a handful of words.
         if useShallowParsing and not self.check_verbs_and_complementizers(so_far, next_word):
           if self.debug: 
             print("trying to resolve verb-complementizer imbalance, rejecting \"" + next_word + "\"" )
@@ -262,6 +258,15 @@ class LanguageModel:
           word_back = next_word
           if next_word == "" or (maxLen != 0 and len(so_far) >= maxLen):
             break 
+      """
+      candidate_next_words = []
+      for i in range(10):
+        random_factor = .5
+        candidate_next_words.append([self.get_next_word(word_back, word_two_back), random.random() * random_factor])
+        for word in candidate_next_words:
+          #adjust scores based on topicality and veryShallowParse results.
+        #pick the highest ranked one
+      """
       else:
         break
     sentence = " ".join(so_far).strip()
@@ -282,10 +287,18 @@ class LanguageModel:
         return get_phrase(opts) #if the sentence doesn't parse, throw it out and start again.
       """
 
-  def get_paragraph(self, length = 10, opts = dict()):
+  def get_paragraph(self, length = 10, **kwargs):
     paragraph = []
+    opts = kwargs
+    if "topic" in kwargs:
+      print "building topic similarity engine..."
+      import TopicSimilarity
+      if not self.topic_similarity:
+        self.topic_similarity = TopicSimilarity.TopicSimilarity(glob = ["/home/merrillj/scotuslm/opinions", "*", "*", "*"])
+      similar_words = self.topic_similarity.similar_to(kwargs["topic"], max=20)
+      opts["similar_words"] = similar_words
     for i in range(length):
-      paragraph.append(self.get_phrase(opts))
+      paragraph.append(self.get_phrase(**opts))
     return " ".join(paragraph)
 
 myLM = LanguageModel(["/home/merrillj/scotuslm/opinions", "*", "*", "*"], lambda filename: filename == "SCALIA.txt" )
