@@ -38,6 +38,7 @@ There are only two necessary methods:
 TODO: write this bit.
 
 This implements a backoff scheme which, I'm told, resembles "Stupid Backoff" from _cite_. I call this backoff scheme the "Jeremy left his Jurafsky/Martin five states away" backoff.
+Smarter capitalization (downcase everything but proper nouns, i.e. things not in the wordlist that arrive capitalized.)
 
 #####TopicSimilarity
 This should really be called WordSimilarity. #TODO
@@ -48,6 +49,16 @@ Lots of things!
 - Improve very shallow parsing.
 - Improve backoff. "Stupid backoff", smoothing (Keyser-Ney?)
 - Experiment with TFIDF variants in similarity.
+- Tokenize on words and punctuation (treating punctuation like a word)
+- Re-sentence-tokenize the opinions using NLTK.
+- Find a simple NLTK parser in order to guarantee parseable output.
+- Split the LanguageModel module into just an LM and separate text-generation module.
+- Topics: allow multiple topics to be set, e.g. a document-level topic and a paragraph level topic (so a paragraph that involves habeas will involve habeas, even if the document is about federalism.)
+- Know about paragraphs.
+- LanguageModel on phrases? Structure?
+- LanguageModel indexes on a combo of word and POS? So "REFuse" and "reFUSE" are diff words. (tuples are hashable.)
+(Language model on parts of speech; once a structure is generated, fill it in with words based on frequency, previous words, topic, etc.)
+
 
 ####Known Issues:
 - Everything!
