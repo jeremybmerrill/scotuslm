@@ -22,7 +22,7 @@ There are only two necessary methods:
 
   - Specify a list of filepaths to train on and, optionally, a lambda to apply to that list. Only the filenames on which the lambda returns true will be used for training. (For instance, if you glob everything in a folder, you might only want the ones that include the word "SCALIA")
 
-2. get_hrase(opts): returns a sentence generated from the language model. Options:
+2. get_phrase(opts): returns a sentence generated from the language model. Options:
 
   - "maxLen, default 30. The maximum length of a sentence. Often good to set, in case sentence ends up in a loop.
   - "unpathiness", default 0. How often to back off to bigrams (only the last known word determines probabilities of following word)
@@ -46,18 +46,20 @@ Returns words and their similarity to a given word. Each word is represented by 
 
 ####TODO:
 Lots of things!
-- Improve very shallow parsing.
-- Improve backoff. "Stupid backoff", smoothing (Keyser-Ney?)
-- Experiment with TFIDF variants in similarity.
-- Tokenize on words and punctuation (treating punctuation like a word)
-- Re-sentence-tokenize the opinions using NLTK.
-- Find a simple NLTK parser in order to guarantee parseable output.
-- Split the LanguageModel module into just an LM and separate text-generation module.
-- Topics: allow multiple topics to be set, e.g. a document-level topic and a paragraph level topic (so a paragraph that involves habeas will involve habeas, even if the document is about federalism.)
+General:
 - Know about paragraphs.
 - LanguageModel on phrases? Structure?
+- Improve very shallow parsing.
+- Topics: allow multiple topics to be set, e.g. a document-level topic and a paragraph level topic (so a paragraph that involves habeas will involve habeas, even if the document is about federalism.)
+
+Specific:
+- Tokenize on words, punctuation, word end. (treating punctuation like a word) (Oh shit, do I have one token for both begin and end of a sentence -- ""?)
+- Experiment with TFIDF variants in similarity.
+- Make topicality smarter: look at a word's children to see if they are highly topical, if so, favor the original word.
 - LanguageModel indexes on a combo of word and POS? So "REFuse" and "reFUSE" are diff words. (tuples are hashable.)
 (Language model on parts of speech; once a structure is generated, fill it in with words based on frequency, previous words, topic, etc.)
+- Find a simple NLTK parser in order to guarantee parseable output.
+- Improve backoff. "Stupid backoff", smoothing (Keyser-Ney?) [Do this later: My problem isn't recall, it's precision. Instead, I should work on getting rid of ungrammatical sentences.]
 
 
 ####Known Issues:
