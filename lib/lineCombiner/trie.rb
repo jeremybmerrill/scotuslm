@@ -27,6 +27,6 @@ class Trie
   end
 
   def include?(word)
-    @subtrie.include?(word[0]) && (word[1..-1] == "" || @subtrie[word[0]].include?(word[1..-1]) )
+    @subtrie.include?(word[0]) && (word[1..-1].empty? || (@subtrie[word[0]] && @subtrie[word[0]].include?(word[1..-1]) ) )
   end
 end
