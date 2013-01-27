@@ -91,6 +91,8 @@ class Syllabizer:
     >>> s.syllabize("laughs")
     1
     """
+    if not word:
+      return 0
     if word in self.exceptions:
       return self.exceptions[word]
 

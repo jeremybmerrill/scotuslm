@@ -157,6 +157,7 @@ class ShitsFuckedException(Exception):
   pass
 
 class Poemifier:
+  #TODO: be recursive, so that if an unrhyming line is chosen, the whole poem isn't lost.
   def __init__(self, format_name):
     """Specify the name of a known format or specify a fully-defined format."""
     #TODO specify a name (req) and optionally the format specification
@@ -187,6 +188,7 @@ class Poemifier:
       self.lines_needed = max(len(self.format["syllable_counts"]), len(self.format["rhyme_scheme"])) #TODO: specify a lines_needed param in format.
     self.poem = [None] * self.lines_needed
     self.rhyme_checker = RhymeChecker()
+    self.rhyme_checker.debug = True
     self.syllabizer = Syllabizer()
 
   def try_line(self, line):
@@ -196,7 +198,7 @@ class Poemifier:
         continue #don't put something into a line that already has something in it.
       if self.validate_line(index, line):
         if self.debug:
-          print "Filled line " + str(index)
+          print("Filled line " + str(index) + " with " + line)
         self.poem[index] = line
         break
     return None not in self.poem # return false until the poem is done. 
@@ -215,25 +217,33 @@ class Poemifier:
 
   def validate_rhyme(self, index, line):
     """True if this line fits in the rhyme scheme where it is."""
-    temp_poem = self.poem 
+    temp_poem = list(self.poem) #"copy" the list
     temp_poem[index] = line
 
     last_word = line.split(" ")[-1]
     last_word.strip(".,?!:;\" ")
     #does it fit where it is.
     rhyme_symbol = self.format["rhyme_scheme"][index]
-    lines_to_compare_to = [temp_poem[i] for i, symbol in enumerate(self.format["rhyme_scheme"]) if symbol == rhyme_symbol and temp_poem[i]]
+    lines_to_compare_to = [temp_poem[i] for i, symbol in enumerate(self.format["rhyme_scheme"]) if symbol == rhyme_symbol and temp_poem[i] and i != index]
+    if not lines_to_compare_to:
+      return True
     words_to_compare_to = map(lambda x: x.split(" ")[-1], lines_to_compare_to )
     return True in map(lambda x: self.rhyme_checker.rhymes_with(last_word, x), words_to_compare_to)
 
   def validate_syllables(self, line, syllable_count):
     """True if line has the number of syllables specified in syllable_count."""
     syllable_count_on_this_line = 0
-    for dirty_word in line.split(" "):
+    split_line = line.split(" ")
+
+    #exclude lines with abbreviations
+    if True in map(lambda x: len(x) == 1 and x not in ["a", "A", "I"], split_line):
+      return False
+
+    for dirty_word in split_line:
       word = dirty_word.strip(",.:?!")
       syllable_count_on_this_line += self.syllabizer.syllabize(word)
-    #if self.debug: #leads to huge amounts of output
-    #  print line + ": " + str(syllable_count_on_this_line)
+    if self.debug: #leads to huge amounts of output
+      print line + ": " + str(syllable_count_on_this_line)
     if isinstance(syllable_count, int):
       return syllable_count_on_this_line == syllable_count
     elif isinstance(syllable_count, tuple):
@@ -241,14 +251,10 @@ class Poemifier:
 
   def get_poem(self):
     if None in self.poem:
+      print self.poem
       raise ShitsFuckedException, "No poem could be generated!"
     else:
       return "\n".join(self.poem)
-
-
-  # p = PoemGenerator("haiku")
-  # for line in lines:
-  #   p.try(line)
 
 def _test():
   import doctest
@@ -258,8 +264,9 @@ def _test():
 if __name__ == "__main__":
   import re
   lines = open("./opinions/11txt/National Federation of Independent Business v. Sebelius/SCALIA.txt").read().split("\n")
-  p = Poemifier("limerick")
-  p.debug = True
+  #lines = ["camping is in tents", "my subconscience tries", "between those times I slept none"]
+  p = Poemifier("sonnet")
+  p.debug = False
   for line in lines:
     line = re.sub("[^A-Za-z ']", "", line)
     p.try_line(line)

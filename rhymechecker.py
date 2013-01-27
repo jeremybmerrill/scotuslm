@@ -30,22 +30,36 @@ class RhymeChecker:
         I don't know quite how Rhymebrain's API works. Is it possible that
         word1 is in word2's list of rhymes but word2 is not in word1's list?
         If so, might have to make two requests per non-rhyme.
+
+        >>> r = RhymeChecker()
+        >>> r.rhymes_with("hand", "and")
+        True
+        >>> r.rhymes_with("sand", "band")
+        True
+        >>> r.rhymes_with("IV", "No")
+        False
+        >>> r.rhymes_with("No", "ed")
+        False
     """
     if word1 in self.rhyme_cache:
       data = self.rhyme_cache[word1]
-      words_that_rhyme = [word_dict["word"] for word_dict in data if word_dict["score"] == 300]
-      return word2 in words_that_rhyme or (recurse and self.rhymes_with(word2, word1, False))
     elif word2 in self.rhyme_cache:
       return self.rhymes_with(word2, word1, False)
     else:
       base_url = "http://rhymebrain.com/talk?function=getRhymes&word="
       full_url = base_url + urllib.quote_plus(word1)
-      print "Didn't have cache data; requesting from RhymeBrain"
+      if self.debug:
+        print "Didn't have cache data; requesting from RhymeBrain"
       data_json = urllib2.urlopen(full_url).read()
       data = json.loads(data_json) #a list of dicts, each of which has a word key.
       self.rhyme_cache[word1] = data
       self.dump_rhyme_cache()
-      words_that_rhyme = [word_dict["word"] for word_dict in data if word_dict["score"] == 300]
-      return word2 in words_that_rhyme or (recurse and self.rhymes_with(word2, word1, False))
+    words_that_rhyme = [word_dict["word"] for word_dict in data if word_dict["score"] >= 156] #allows hand to rhyme with and.
+    return word2 in words_that_rhyme or (recurse and self.rhymes_with(word2, word1, False))
 
+def _test():
+  import doctest
+  doctest.testmod()
 
+if __name__ == "__main__":
+  _test()
