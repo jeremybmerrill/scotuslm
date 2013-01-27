@@ -64,6 +64,8 @@ Specific:
 V. Specific:
 Create random tree generator from PCFG. 
 (Figure out how to train PCFG on scotus corpus?)
+- Improve backoff. "Stupid backoff", smoothing (Keyser-Ney?) [Do this later: My problem isn't recall, it's precision. Instead, I should work on getting rid of ungrammatical sentences.]
+- TFIDFs are calculated incorrectly. This is evident in document-similarity stuff, where document similarity correlates strongly with document size. I need to normalize the TF term by dividing each count by the size of the document (in words) or by the largest count of non-stopwords in the document. (Per talking to Jeff)
 
 ####Known Issues:
 - Everything!
