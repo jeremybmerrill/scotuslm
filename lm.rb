@@ -314,5 +314,5 @@ threelm[word_two_back][word_back]
   #accessor methods for debugging, etc.
 end
 
-@n = LanguageModel.new(["/home/merrillj/scotuslm/opinions", "*", "*", "*"], lambda{|filename| filename == "SCALIA.txt"})
+@n = LanguageModel.new(["/home/merrillj/code/scotuslm/opinions", "*", "*", "*"], lambda{|filename| filename == "SCALIA.txt"})
 puts @n.get_phrase({:debug => true, :engtagger => true})

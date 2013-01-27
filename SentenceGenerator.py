@@ -2,6 +2,8 @@
 import random
 import nltk
 
+import time
+
 import LanguageModel
 
 class SentenceGenerator:
@@ -34,7 +36,7 @@ class SentenceGenerator:
     #  dumb wrapper around next_word_bigrams, next_word_trigrams functions.
     #  i.e. doesn't do any parsing or anything.
     get_stuff = self.lm.next_word_trigrams(word_back, word_two_back)
-    if not get_stuff:
+    if not get_stuff['data']:
       if self.debug:
         print("backing off to bigrams, since trigrams returned nothing")
       get_stuff = self.lm.next_word_bigrams(word_back)
@@ -127,8 +129,8 @@ class SentenceGenerator:
   def get_phrase (self, **kwargs):
     #TODO: pass unpathiness through to LanguageModel.
     max_sentence_length = kwargs.get("max_sentence_length", 30)  # if you set max_sentence_length to 0, there is no max_sentence_length
-    word_two_back = kwargs.get("word_two_back", "")
-    word_back = kwargs.get("word_back", "")
+    word_two_back = kwargs.get("word_two_back", '<souter>')
+    word_back = kwargs.get("word_back", '<sinner>')
     self.debug = kwargs.get("debug", False)
     use_topic = kwargs.get("topic", False)
     use_very_shallow_parsing = kwargs.get("veryShallowParse", False) 
@@ -138,10 +140,12 @@ class SentenceGenerator:
       print("going to use very shallow parsing")
 
     if "topic" in kwargs:
-      print "building topic similarity engine..."
+      print "building topic similarity engine... " + time.asctime()
       import TopicSimilarity
       if not self.topic_similarity:
         self.topic_similarity = TopicSimilarity.TopicSimilarity(glob = ["/home/merrillj/scotuslm/opinions", "*", "*", "*"])
+      def similar_to_topic_word(word):
+        return self.topic_similarity.similar_to(kwargs["topic"], word)
 
     so_far = [word_two_back, word_back]
     endOfSentence = False
@@ -160,14 +164,17 @@ class SentenceGenerator:
         word_score = random.random() * random_weight
         if word:
           if use_topic and self.topic_similarity:
-            word_score += ( self.topic_similarity.similar_to(kwargs["topic"], word) ) * topicality_weight
+            similarity_score = ( similar_to_topic_word(word) )
+            child_weights = sum(map(similar_to_topic_word, self.lm.trigram_children(word, word_back)) )
             #TODO: look at the "children" of _word_, if they include high-topicality words, favor _word_; 
+            print str([word, child_weights])
+            word_score += (similarity_score + (child_weights * 0.1 )) * topicality_weight
           if use_very_shallow_parsing:
             word_score += self.very_shallow_parse_score(so_far, word) * very_shallow_parse_weight
         candidate_next_words[word] = word_score
         #TODO: This weights (unnecessarily) towards continuing a sntence, rather than ending it. Fix this.
 
-      next_word = ""
+      next_word = None
       max_word_score = 0.0
       for word, word_score in candidate_next_words.items():
         if word_score > max_word_score:
@@ -175,14 +182,14 @@ class SentenceGenerator:
           next_word = word
           max_word_score = word_score
       if not next_word:
-        next_word = ""
+        next_word = '</sinner>'
       so_far.append(next_word)
       if self.debug: 
         print so_far
         print(" ".join(so_far))
       word_two_back = word_back
       word_back = next_word
-      if next_word == "" or (max_sentence_length != 0 and len(so_far) >= max_sentence_length):
+      if next_word == '</souter>' or (max_sentence_length != 0 and len(so_far) >= max_sentence_length):
         break 
     sentence = " ".join(so_far).strip()
 
@@ -238,7 +245,7 @@ class SentenceGenerator:
     return paragraph
 
   def do_stuff(self):
-    opts = dict({"debug" : True, "veryShallowParse" : True, "max_sentence_length" : 50, "paragraph_length" : 10, #'topic': 'congress',
+    opts = dict({"debug" : True, "veryShallowParse" : True, "max_sentence_length" : 50, "paragraph_length" : 10, 'topic': 'congress',
        'random_weight': 1, 'topicality_weight':3, 'very_shallow_parse_weight':3})
     print(self.get_phrase( **opts )).encode("utf-8")
 

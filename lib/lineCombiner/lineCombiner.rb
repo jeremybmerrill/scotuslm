@@ -8,15 +8,15 @@ class LineCombiner
     f.each_line{ |line| @t.addAWord(line.chomp) }
   end
 
-  def safeToCombine?(w1, w2)
+  def safe_to_combine?(w1, w2)
     @t.include?(w1 + w2) && !(@t.include?(w1) && @t.include?(w2))
   end
 
-  def strictSafeToCombine?(w1, w2)
+  def strict_safe_to_cmbine?(w1, w2)
     @t.include?(w1 + w2) && !(@t.include?(w1) || @t.include?(w2))
   end
 
-  def safeToSplit(w1, w2)
+  def safe_to_split(w1, w2)
     @t.include?(w1) && @t.include?(w2) && !@t.include?(w1 + w2)
   end
 end

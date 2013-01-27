@@ -7,7 +7,7 @@ import json
 import os
 import urllib2
 
-high_level_indices = ["http://www.supremecourt.gov/opinions/11pdf/", "http://www.supremecourt.gov/opinions/10pdf/", "http://www.supremecourt.gov/opinions/09pdf/"]
+high_level_indices = ["http://www.supremecourt.gov/opinions/08pdf/", "http://www.supremecourt.gov/opinions/07pdf/", "http://www.supremecourt.gov/opinions/06pdf/"]
 mech = Browser()
 
 def restoreLinksFromFile(filename):
@@ -25,18 +25,21 @@ def grabPage(url):
   return html
 
 def getPDF(name, url):
-	escapedName = name.replace("/", "")
-	if os.path.exists("pdfs/" + url.split("/")[-2] + "/" + escapedName):
-		print "file exists!"
-	else:
-		if not os.path.exists("pdfs/" + url.split("/")[-2] + "/"):
-			os.mkdir("pdfs/" + url.split("/")[-2] + "/")
-		pdf = open("pdfs/" + url.split("/")[-2] + "/" + escapedName + ".pdf", "wb")
-		req = urllib2.Request(url)
-		opener = urllib2.build_opener()
-		response = opener.open(req)
-		result = pdf.write(response.read())
-		print escapedName + " written successfully"
+  escapedName = name.replace("/", "")
+  if os.path.exists("pdfs/" + url.split("/")[-2] + "/" + escapedName + ".pdf"):
+    print escapedName + " already exists!"
+  else:
+    if not os.path.exists("pdfs/" + url.split("/")[-2] + "/"):
+      os.mkdir("pdfs/" + url.split("/")[-2] + "/")
+    pdf = open("pdfs/" + url.split("/")[-2] + "/" + escapedName + ".pdf", "wb")
+    req = urllib2.Request(url)
+    opener = urllib2.build_opener()
+    try:
+      response = opener.open(req)
+      result = pdf.write(response.read())
+      print escapedName + " written successfully"
+    except urllib2.HTTPError:
+      print escapedName + " failed"
 
 def getCasesFromIndex(html, url):
   soup = BeautifulSoup(html)
@@ -50,7 +53,7 @@ def getCasesFromIndex(html, url):
 for index in high_level_indices:
   links = getCasesFromIndex(grabPage(index), index)
   for link in links:
-  	getPDF(*link)
+    getPDF(*link)
 
 def getCaseText(caseName):
   #use docsplit from doccloud

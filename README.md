@@ -42,7 +42,7 @@ Smarter capitalization (downcase everything but proper nouns, i.e. things not in
 
 #####TopicSimilarity
 This should really be called WordSimilarity. #TODO
-Returns words and their similarity to a given word. Each word is represented by a vector of TFIDFs per document. A word is more similar to the given word if the cosign difference between their vectors is lower.
+Returns words and their similarity to a given word. Each word is represented by a vector of TFIDFs per document. A word is more similar to the given word if the cosine difference between their vectors is lower.
 
 ####TODO:
 Lots of things!
@@ -53,14 +53,17 @@ General:
 - Topics: allow multiple topics to be set, e.g. a document-level topic and a paragraph level topic (so a paragraph that involves habeas will involve habeas, even if the document is about federalism.)
 
 Specific:
-- Tokenize on words, punctuation, word end. (treating punctuation like a word) (Oh shit, do I have one token for both begin and end of a sentence -- ""?)
 - Experiment with TFIDF variants in similarity.
 - Make topicality smarter: look at a word's children to see if they are highly topical, if so, favor the original word.
 - LanguageModel indexes on a combo of word and POS? So "REFuse" and "reFUSE" are diff words. (tuples are hashable.)
 (Language model on parts of speech; once a structure is generated, fill it in with words based on frequency, previous words, topic, etc.)
 - Find a simple NLTK parser in order to guarantee parseable output.
-- Improve backoff. "Stupid backoff", smoothing (Keyser-Ney?) [Do this later: My problem isn't recall, it's precision. Instead, I should work on getting rid of ungrammatical sentences.]
+- Improve backoff. "Stupid backoff", smoothing (Keyser-Ney?)
+- Write sonnets and haikus from lines from Scalia.
 
+V. Specific:
+Create random tree generator from PCFG. 
+(Figure out how to train PCFG on scotus corpus?)
 
 ####Known Issues:
 - Everything!

@@ -25,6 +25,7 @@ class LanguageModel:
 
 
   def __init__(self, pathglob, filesFilter = lambda x: True ):
+    """ Train the language model."""
     trigram_counts = dict()
     unigram_counts = dict()
     bigram_counts = dict() #e.g. {San => {Francisco => 50, Jose => 20} }
@@ -42,10 +43,13 @@ class LanguageModel:
       for sentence in codecs.open(f, "r", encoding = "utf-8"): #files are pre-split into sentences
         #line = line.split(/[.?!]|$/) 
         split_sentence = nltk.word_tokenize(sentence.strip())
-        word_two_back = ""
-        word_back = ""
+        split_sentence.append('</sinner>')
+        split_sentence.append('</souter>')
+
+        word_two_back = '<souter>'
+        word_back = '<sinner>'
         for word in split_sentence:
-          #word.replace("—", "")
+          #word.replace("—", "-")
           word = re.sub(re.compile("[_\(\),]"), "", word.lower() ) #—
           self.word_count += 1
 
@@ -62,6 +66,7 @@ class LanguageModel:
           
           word_two_back = word_back
           word_back = word
+
 
     self.trigramlm = dict()
     self.bigramlm = dict()
@@ -106,7 +111,8 @@ class LanguageModel:
     logthis = float("inf") if next_word_candidates.get("tokencount", 0) <= 1 else next_word_candidates["tokencount"]
     
     #backoff
-    if random.random() < self.unpathiness / math.log( logthis ):
+    if random.random() < self.unpathiness / math.log( logthis ) and word_back != "</sinner>": 
+        #otherwise, in very unlikely scenario, you might get a "X Y Z </sinner>, because it randomly backed off twice in a row."
       if self.debug: 
         print("backing off to unigrams.")
       next_word_candidates["data"] = self.unigramlm
@@ -140,7 +146,7 @@ class LanguageModel:
 
 
 """
-myLM = LanguageModel(["/home/merrillj/scotuslm/opinions", "*", "*", "*"], lambda filename: filename == "SCALIA.txt" )
+myLM = LanguageModel(["/home/merrillj/code/scotuslm/opinions", "*", "*", "*"], lambda filename: filename == "SCALIA.txt" )
 opts = dict({"debug" : True, "veryShallowParse" : True, "max_sentence_length" : 50, "paragraph_length" : 10, 
   'topic':'congress', 'random_weight': 1, 'topicality_weight':3, 'very_shallow_parse_weight':3})
 print(myLM.get_phrase( **opts )).encode("utf-8")

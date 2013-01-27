@@ -11,6 +11,11 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+indices/
+txts/
+opinions/
+pdfs/
+various\ opinions\ backups/
 
 # YARD artifacts
 .yardoc

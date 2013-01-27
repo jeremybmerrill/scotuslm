@@ -12,6 +12,7 @@ import os
 import nltk
 import math
 from scipy.spatial.distance import cosine
+from operator import itemgetter
 
 class TopicSimilarity:
   """ 
@@ -44,9 +45,13 @@ class TopicSimilarity:
   default_dump_path = "TopicSimilarityDump.dat"
 
   def __init__(self, **kwargs):
-    self.tfidfs = {}
+    self.tfidfs = {} #for word similarity, map of words to vector of TFIDF per document
+    self.tfidfs_by_document = {} #for document similarity/topic modeling, map of documents to vector of tfidf per word
     self.puncts = [",", ".", ";", ":", "!", "?", "-", u"’", "\"", ]
     self.stoplist = open("english.stop.txt").read().split("\n")
+    self.tfs = {}
+    self.cached_file_stats = {}
+
     if "infile" in kwargs:
       self.load(kwargs["infile"])
     elif "glob" in kwargs:
@@ -63,15 +68,50 @@ class TopicSimilarity:
     #stoplist via:  http://jmlr.csail.mit.edu/papers/volume5/lewis04a/a11-smart-stop-list/english.stop
 
   def tf(self, text_path):
-    """Construct a dict of term frequencies in the given document. """
+    """Construct a dict of term frequencies in the given document. 
+
+      Also side-effectily populates file-size dict
+    """
     text = codecs.open(text_path, "r", encoding = "utf-8")
-    terms_dict = {}
+    terms_dict = {}    
     for line in text.readlines():
       for word in nltk.word_tokenize(line):
         word = word.lower()
         if word not in self.puncts and word not in self.stoplist:
           terms_dict[word] = terms_dict.get(word, 0) + 1
     return terms_dict
+
+  #damnit python. If it looks like a duck, but doesn't act like a duck, it's not a goddamn duck typed language.
+  #def file_stats(self):
+  #  """Let's totally just imitate an array, Ruby-style."""
+  #  return self.cached_file_stats
+
+  def topical_words(self, document_path, count = 10):
+    minimal_topicality = 0.0
+    topic_words = []
+    for word, val in self.tfidfs_by_document[document_path].iteritems():
+      if val > minimal_topicality:
+        if len(topic_words) >= count:
+          topic_words.pop()
+        topic_words.append((word, val))
+        get_val = lambda x: x[1]
+        minimal_topicality = min( map(lambda x: x[1], topic_words) )
+        topic_words = sorted(topic_words, key=itemgetter(1), reverse=True)
+    return topic_words #map(lambda x: x[0], topic_words)
+
+
+
+  def file_stats(self, filename):
+    def shellquote(s):
+      return "'" + s.replace("'", "'\\''") + "'"
+    stats = os.popen("wc " + shellquote(filename)).read().strip().split(" ")
+    if filename not in self.cached_file_stats:
+      self.cached_file_stats[filename] = {}
+      #self.cached_file_stats[filename]["lines"] = stats[0]
+      self.cached_file_stats[filename]["unique words"] = len(self.tfs[filename].keys())
+      self.cached_file_stats[filename]["words"] = stats[2]
+    return self.cached_file_stats[filename]
+
 
   def generate_tfidfs(self, pathglob, filesFilter = lambda x: True ):
     """ For words in documents specified in pathglob and filesFilter, construct TFIDF vectors.
@@ -83,7 +123,6 @@ class TopicSimilarity:
 
     This method is side-effecty; self.tfidfs contains the TFIDF vectors. This method doens't return anything.
     """
-    tfs = {}
     df = {}
     temp_tfidfs = {}
     document_paths = glob.glob(os.path.join(*pathglob)) #TODO
@@ -91,28 +130,32 @@ class TopicSimilarity:
     for document_path in document_paths:
       if os.path.basename(document_path) == '.' or os.path.basename(document_path) == '..' or not filesFilter(os.path.basename(document_path)):
         continue
-      tfs[document_path] = self.tf(document_path)
+      self.tfs[document_path] = self.tf(document_path)
     #Lots of possibilities for creating DF dict.
     # 1. Create it side-effectily in tf() <-- Gross, but more efficient.
     # 2. Create it on-the-fly when tf() returns a dict. <-- as inefficient as (3).
     # 3. Create it all at once from tfs dict. <-- I chose this one.
-    for tf in tfs.values():
+    for tf in self.tfs.values():
       for word in tf.keys():
         df[word] = df.get(word, 0) + 1 #document frequency.
-    for key, tf in tfs.items():
-      temp_tfidfs[key] = {}
-      for word, count in tf.items():         
-        filepath_word_tfidf = float(count) * math.log(float(number_of_documents) / df[word])
+    for document_path, tf in self.tfs.items():
+      temp_tfidfs[document_path] = {}
+      for word, tf_of_word in tf.items():
+        #N.B. on the line below, I'm normalizing TF by unique word count in documents.     total word count: float( self.file_stats(document_path)["words"] )
+        filepath_word_tfidf = (float(tf_of_word) / len(tf.keys())) * math.log(float(number_of_documents) / df[word])
     #     if filepath_word_tfidf > 40:
-    #       temp_tfidfs[key][word] = filepath_word_tfidf
-    # for key, tfidf_dict in temp_tfidfs.items():
-    #   self.tfidfs[key] = numpy.array(sorted(tfidf_dict.items(), key=lambda x:x[1]))
-        temp_tfidfs[key][word] = filepath_word_tfidf
+    #       temp_tfidfs[document_path][word] = filepath_word_tfidf
+    # for document_path, tfidf_dict in temp_tfidfs.items():
+    #   self.tfidfs[document_path] = numpy.array(sorted(tfidf_dict.items(), document_path=lambda x:x[1]))
+        temp_tfidfs[document_path][word] = filepath_word_tfidf
       #need to pivot documents to be {word : ordered_vector_of_tfidf_by_document}
     for index, docs_to_tfidfs in enumerate(temp_tfidfs.items()):
       filename, tfidfs = docs_to_tfidfs #I don't care what document a TFIDF came from, as long as its consistent.
       for word, tfidf in tfidfs.items():
-        self.tfidfs[word] = self.tfidfs.get(word, numpy.zeros( (1, len(temp_tfidfs)))[0])
+        if filename not in self.tfidfs_by_document:
+          self.tfidfs_by_document[filename] = {}
+        self.tfidfs_by_document[filename][word] = tfidf
+        self.tfidfs[word] = self.tfidfs.get(word, numpy.zeros( len(temp_tfidfs)))
         self.tfidfs[word][index] = tfidf
 
   def similar_words(self, word, max=None):
@@ -139,6 +182,28 @@ class TopicSimilarity:
       return 0.01 #why? I dunno. 
     else:
       return cosine_distance(self.tfidfs[word1.lower()], self.tfidfs[word2.lower()])
+
+  def document_tfidf_vectors(self):
+    """map of filenames to vectors of consistently ordered tfidf values
+
+      algorithm choice: How do I normalize these? My current results correlate very highly with document size.
+        1. Divide each value by the highest TFIDF in any document.
+        2. Divide each value by the highest TFIDF in the given document.
+        3. Divide each value by the highest TFIDF for the given word.
+        4. Same type of things, but where there's 1 point of mass per document. 
+    """
+    filenames_to_tfidf_vectors = {}
+    word_count = len(self.tfidfs.keys())
+    print word_count
+    for document, words_to_tfidfs in self.tfidfs_by_document.iteritems():
+      filenames_to_tfidf_vectors[document] = numpy.zeros(word_count )
+
+    for index, word in enumerate(self.tfidfs.keys()):
+      for document, words_to_tfidfs in self.tfidfs_by_document.iteritems():
+        if word in words_to_tfidfs:
+          print index
+          filenames_to_tfidf_vectors[document][index] = words_to_tfidfs[word]
+    return filenames_to_tfidf_vectors
 
   def load(self, infile="TopicSimilarityDump.dat"):
     """Load from a dump."""
@@ -167,10 +232,33 @@ import time
 before = time.time()
 print time.localtime(before)
 t = TopicSimilarity() # 103.504664898secs
-#t = TopicSimilarity(glob = ["/home/merrillj/scotuslm/opinions", "*", "*", "*"] ) #337.698110104secs
-#t = TopicSimilarity(glob = ["/home/merrillj/scotuslm/opinions", "*", "*", "*"], filesFilter= lambda filename: filename == "SCALIA.txt" ) #crappy results, 6.03190803528secs
+#t = TopicSimilarity(glob = ["/home/merrillj/code/scotuslm/opinions", "*", "*", "*"] ) #337.698110104secs
+#t = TopicSimilarity(glob = ["/home/merrillj/code/scotuslm/opinions", "*", "*", "*"], filesFilter= lambda filename: filename == "SCALIA.txt" ) #crappy results, 6.03190803528secs
 print str(time.time() - before) + "secs"
 print time.localtime()
 
 print t.similar_words("habeas")[0:10]
 """
+
+
+#t = TopicSimilarity() # 103.504664898secs
+#t = TopicSimilarity(glob = ["/home/merrillj/code/scotuslm/opinions", "*", "*", "*"], filesFilter= lambda filename: filename == "SCALIA.txt" )
+t = TopicSimilarity(glob = ["/home/merrillj/code/scotuslm/opinions", "11txt", "*", "*"], filesFilter= lambda filename: filename == "SCALIA.txt" )
+
+print t.document_tfidf_vectors()
+
+
+from hcluster import pdist, linkage, dendrogram
+from os.path import basename
+
+
+document_tfidf_vectors = t.document_tfidf_vectors()
+
+for index, filename in enumerate(document_tfidf_vectors.keys()):
+  print str(index) + ": " + filename.split("/")[-2] + ": " + str(t.file_stats(filename)["words"])
+
+pdist_of_tfidfs = pdist(document_tfidf_vectors.values())
+asdf = linkage(pdist_of_tfidfs)
+dendrogram(asdf)
+
+#1,8,0,11,2,7,4,6,5,10,9,3,12,13
