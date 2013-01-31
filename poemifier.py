@@ -210,10 +210,92 @@ class Poemifier:
     rhyme_scheme = self.format["rhyme_scheme"] * (self.lines_needed / len(self.format["rhyme_scheme"]))
     #TODO: abstract away formats (like above, make a dict of validator functions
     # and call those iff a given format restrictor is in the format dict)
-    status = True
-    status = status and self.validate_syllables(line, syllable_counts[index])
-    status = status and self.validate_rhyme(index, line)
-    return status 
+    valid = True
+    valid = valid and self.validate_syllables(line, syllable_counts[index])
+    valid = valid and self.validate_rhyme(index, line)
+
+    #only do this if the number of syllables in the line is equal to this line plus next line's syllable counts.
+
+    if not valid and (index < (len(self.poem)-1)): 
+      line_syllable_counts = map(lambda x: self.syllabizer.syllabize(x), line.split(" "))
+      line_syllable_counts_need_to_be = [0,0]
+      """
+      if isinstance(syllable_counts[index], int):
+        line_syllable_counts_need_to_be[0] += syllable_counts[index]
+        line_syllable_counts_need_to_be[1] += syllable_counts[index]
+      else:
+        line_syllable_counts_need_to_be[0] += syllable_counts[index][0]
+        line_syllable_counts_need_to_be[1] += syllable_counts[index][1]
+      if isinstance(syllable_counts[index + 1], int):
+        line_syllable_counts_need_to_be[0] += syllable_counts[index + 1]
+        line_syllable_counts_need_to_be[1] += syllable_counts[index + 1]
+      else:
+        line_syllable_counts_need_to_be[0] += syllable_counts[index + 1][0]
+        line_syllable_counts_need_to_be[1] += syllable_counts[index + 1][1]
+
+      possible_to_split = line_syllable_counts_need_to_be[0] <= sum(line_syllable_counts) and line_syllable_counts_need_to_be[1] >= line_syllable_counts
+      """
+      possible_to_split = True
+      if possible_to_split:
+      #              #if not last line
+        split_line = self.split_line_at_syllable_count(line, syllable_counts[index]) #loop over these possibilities
+        #TODO: refactor, this is suuuuuuuuper ugly.
+        if split_line and self.validate_line(index, split_line[0]) and self.validate_line(index+1, split_line[1]):
+          self.poem[index] = split_line[0]
+          self.poem[index+1] = split_line[1]
+          return False
+    return valid
+
+  def split_line_at_syllable_count(self, line, syllable_count ):
+    """Returns a line split at the given number of syllables. False if split is inside a word.
+
+    #TODO: Should this return a list of possible splits? Yes.
+    E.g. for sentence "a man a plan" and range 1,3, 
+    Should this return [["a", "man a plan"], ["a man", "a plan"], ["a man a", "plan"]]?
+
+    >>> p = Poemifier("haiku")
+    >>> p.split_line_at_syllable_count("There once was banana man from the beach", 4)
+    False
+    >>> p.split_line_at_syllable_count("There once was a man from the beach", 4)
+    ['There once was a', 'man from the beach']
+    >>> p.split_line_at_syllable_count("There once was a man from the beach banana", 4)
+    ['There once was a', 'man from the beach banana']
+    >>> p.split_line_at_syllable_count("There once was banana man from the beach banana", (5,7))
+    ['There once was banana', 'man from the beach banana']
+    """
+    split_line = line.strip().split(" ")
+
+    if "" in split_line:
+      return False
+    if isinstance(syllable_count, int):
+      if syllable_count == 0:
+        return ["", line]
+      elif syllable_count > 0:
+        word = split_line[0]
+        this_word_syllables = self.syllabizer.syllabize(word)
+        next_return =  self.split_line_at_syllable_count(" ".join(split_line[1:]), syllable_count - this_word_syllables)
+        if next_return:
+          next_return[0] = " ".join([word] + filter(lambda x: x != "", next_return[0].split(" ")))
+          return next_return
+        else:
+          return False
+      else:
+        return False
+    elif isinstance(syllable_count, tuple):
+      if syllable_count[0] == 0 or syllable_count[0] < 0 and syllable_count[1] >= 0:
+        return ["", line]
+      elif syllable_count[0] > 0:
+        word = split_line[0]
+        this_word_syllables = self.syllabizer.syllabize(word)
+        next_syllable_count = (syllable_count[0] - this_word_syllables, syllable_count[1] - this_word_syllables)
+        next_return =  self.split_line_at_syllable_count(" ".join(split_line[1:]), next_syllable_count)
+        if next_return:
+          next_return[0] = " ".join([word] + filter(lambda x: x != "", next_return[0].split(" ")))
+          return next_return
+        else:
+          return False
+      else:
+        return False
 
   def validate_rhyme(self, index, line):
     """True if this line fits in the rhyme scheme where it is."""
@@ -263,12 +345,22 @@ def _test():
 #TODO: command line file argument (e.g. find a haiku in this document)
 if __name__ == "__main__":
   import re
-  lines = open("./opinions/11txt/National Federation of Independent Business v. Sebelius/SCALIA.txt").read().split("\n")
+  lists_of_lines = map(lambda x: x.split(","), open("./opinions/11txt/National Federation of Independent Business v. Sebelius/SCALIA.txt").read().split("\n"))
+  lines = [line for line_list in lists_of_lines for line in line_list]
+  
   #lines = ["camping is in tents", "my subconscience tries", "between those times I slept none"]
-  p = Poemifier("sonnet")
+  lines = ["one two three four five six", "a bee see dee eff licks",  
+  "This is a line that is twenty long and here is ten more ending in thong", "Jeremy Bee Merrill plays ping pong",
+  ]
+  p = Poemifier("limerick")
   p.debug = False
   for line in lines:
     line = re.sub("[^A-Za-z ']", "", line)
     p.try_line(line)
   print ""
   print p.get_poem()
+
+
+#TODO:
+# be a little more recursive, but not all the way, about pairing lines. maybe one loop per rhyming group? (i.e. for "a"s)
+# Find shorter lines to consider, e.g. breaking sentences into pieces

@@ -13,8 +13,13 @@ class RhymeChecker:
         sys.stderr.write("loaded " + str(len(rhyme_cache)) + " rhymes from cache.")
     except IOError:
       rhyme_cache = {}
-    rhyme_extras = [ ("anatomical", [{"word": "economical"}]) ]
-    self.rhyme_cache = dict(rhyme_cache.items() + rhyme_extras)
+    rhyme_extras = [ ("anatomical", "economical") ]
+
+    processed_rhyme_extras = []
+    for extra in rhyme_extras:
+      processed_rhyme_extras.append( (extra[0], [{"word" : extra[1], "score" : 300 }])  )
+
+    self.rhyme_cache = dict(rhyme_cache.items() + processed_rhyme_extras)
 
 
   def dump_rhyme_cache(self):
@@ -49,7 +54,7 @@ class RhymeChecker:
       base_url = "http://rhymebrain.com/talk?function=getRhymes&word="
       full_url = base_url + urllib.quote_plus(word1)
       if self.debug:
-        print "Didn't have cache data; requesting from RhymeBrain"
+        print "Didn't have cache data; requesting " + word1 + " from RhymeBrain"
       data_json = urllib2.urlopen(full_url).read()
       data = json.loads(data_json) #a list of dicts, each of which has a word key.
       self.rhyme_cache[word1] = data
