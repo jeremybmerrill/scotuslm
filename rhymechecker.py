@@ -46,6 +46,8 @@ class RhymeChecker:
         >>> r.rhymes_with("No", "ed")
         False
     """
+    word1 = word1.lower()
+    word2 = word2.lower()
     if word1 in self.rhyme_cache:
       data = self.rhyme_cache[word1]
     elif word2 in self.rhyme_cache:
@@ -54,7 +56,7 @@ class RhymeChecker:
       base_url = "http://rhymebrain.com/talk?function=getRhymes&word="
       full_url = base_url + urllib.quote_plus(word1)
       if self.debug:
-        print "Didn't have cache data; requesting " + word1 + " from RhymeBrain"
+        print "Didn't have cache data; requesting \"" + word1 + "\" from RhymeBrain"
       data_json = urllib2.urlopen(full_url).read()
       data = json.loads(data_json) #a list of dicts, each of which has a word key.
       self.rhyme_cache[word1] = data
