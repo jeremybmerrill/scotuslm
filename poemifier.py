@@ -1,8 +1,19 @@
 from syllabizer import Syllabizer
 from rhymechecker import RhymeChecker
 
+
+##
+
+
+
+## fix the TODO! things
+
+
+##
+
+
+
 class Poemifier:
-  #TODO: be recursive, so that if an unrhyming line is chosen, the whole poem isn't lost.
   def __init__(self, format_name):
     """Specify the name of a known format or specify a fully-defined format."""
     #TODO specify a name (req) and optionally the format specification
@@ -33,7 +44,7 @@ class Poemifier:
       self.lines_needed = max(len(self.format["syllable_counts"]), len(self.format["rhyme_scheme"])) #TODO: specify a lines_needed param in format.
     self.poems = [ [None] * self.lines_needed ] 
     self.rhyme_checker = RhymeChecker()
-    self.rhyme_checker.debug = True
+    self.rhyme_checker.debug = False
     self.syllabizer = Syllabizer()
 
   def try_line(self, line):
@@ -41,21 +52,22 @@ class Poemifier:
     if len(self.poems) % 10 == 0:
       print len(self.poems)
     if len(self.poems) % 100 == 0:
-      print self.poems.sort(lambda x: -x.count(None))[0:10]
+      #print sorted(self.poems, key=lambda x: x.count(None))[0:10]
+      pass
     for poem_index, temp_poem in enumerate(self.poems):
       for line_index, poem_line in enumerate(temp_poem):
         if poem_line or line in temp_poem:
           continue #don't duplicate a line that's already in the poem
         if self.validate_line(temp_poem, line, line_index):
           if self.debug:
-            print("Filled line " + str(line_index) + " with " + line)
+            print("Filled line " + str(line_index) + " with \"" + line + "\"")
           self.poems[poem_index][line_index] = line
           #early return: I don't think this saves much time, so I'm cutting it out for now.
-          # if len(   filter( lambda x: len(  filter(lambda y: y == None, x)) == len(x), self.poems)   ) == 0:
-          #   self.poems.append([None] * self.lines_needed)
-          # return False in map(lambda x: None in x, self.poems) # return false until the poem is done. 
+          if len(   filter( lambda x: len(  filter(lambda y: y == None, x)) == len(x), self.poems)   ) == 0:
+            self.poems.append([None] * self.lines_needed)
+          return False in map(lambda x: None in x, self.poems) # return false until the poem is done. 
 
-    #TODO: else, try splitting the line.
+    #else, try splitting the line.
     #only do this if the number of syllables in the line is equal to this line plus next line's syllable counts.
 
       #if we've gotten here, the line doesn't fit by itself.
@@ -75,23 +87,28 @@ class Poemifier:
             line_syllable_counts_need_to_be[0] += self.format["syllable_counts"][line_index + 1][0]
             line_syllable_counts_need_to_be[1] += self.format["syllable_counts"][line_index + 1][1]
 
-          possible_to_split = line_syllable_counts_need_to_be[0] <= sum(line_syllable_counts) and line_syllable_counts_need_to_be[1] >= line_syllable_counts
-          possible_to_split = True
+          possible_to_split = line_syllable_counts_need_to_be[0] <= sum(line_syllable_counts) and line_syllable_counts_need_to_be[1] >= sum(line_syllable_counts)
           if possible_to_split:
-          #              #if not last line
             split_line = self.split_line_at_syllable_count(line, self.format["syllable_counts"][line_index]) 
-            if split_line and False not in map(lambda indexy_line_thing: self.validate_line(temp_poem, indexy_line_thing[1], line_index + indexy_line_thing[0]), enumerate(split_line)):
-              #self.validate_line(line_index, split_line[0]) and self.validate_line(line_index+1, split_line[1]):
-              def assign_to_poem(i_and_line):
-                self.poems[poem_index][line_index + i_and_line[0]] = i_and_line[1]
-              map(assign_to_poem , enumerate(split_line))
+            if split_line:
+              temp_temp_poem = list(temp_poem)
+              has_failed_yet = False
+              for temp_line_index, temp_line in enumerate(split_line):
+                if self.validate_line(temp_temp_poem, temp_line, line_index + temp_line_index):
+                  temp_temp_poem[temp_line_index] = temp_line
+                else:
+                  has_failed_yet = True
+              if not has_failed_yet:
+                def assign_to_poem(i_and_line):
+                  self.poems[poem_index][line_index + i_and_line[0]] = i_and_line[1]
+                map(assign_to_poem , enumerate(split_line))
     if len(   filter( lambda x: len(  filter(lambda y: y == None, x)) == len(x), self.poems)   ) == 0:
       self.poems.append([None] * self.lines_needed)
     return False in map(lambda x: None in x, self.poems) # return false until the poem is done. 
 
   def validate_line(self, poem, line, index):
     """ Return line if given line fits into the format positioned at the given index, false otherwise"""
-    #TODO now: make this return n lines that go into the poem at index, if they do fit.
+    #TODO! now: make this return n lines that go into the poem at index, if they do fit.
     #e.g. [line1, line2] is line was split and fits, as split, into two lines.
     #assume a valid format.
     syllable_counts = self.format["syllable_counts"] * (self.lines_needed / len(self.format["syllable_counts"]))
@@ -188,11 +205,16 @@ class Poemifier:
     elif isinstance(syllable_count, tuple):
       return syllable_count_on_this_line >= syllable_count[0] and syllable_count_on_this_line <= syllable_count[1]
 
+  def has_poem(self):
+    return True in map(lambda x: None not in x, self.poems)
+
   def get_poem(self):
-    if True in map(lambda x: None not in x, self.poems):
+    self.rhyme_checker.dump_rhyme_cache()
+    if self.has_poem():
       return "\n".join( filter(lambda x: None not in x, self.poems)[0] )
     else:
-      print self.poems#.sort(key= lambda x: len(x)) #[0:10]
+      self.poems.sort(key= lambda x: x.count(None)) #[0:10]
+      print self.poems[0:10]
       raise ShitsFuckedException, "No poem could be generated!"
 
 def _test():
@@ -210,23 +232,36 @@ if __name__ == "__main__":
   lines = [line for line_list in lists_of_lines for line in line_list]
   
   #lines = ["camping is in tents", "my subconscience tries", "between those times I slept none"]
-  #lines = ["zero words in english rhyme with orange", "one two three four five six", "a bee see dee word kicks",  
-  #"This is a line that is twenty long and here is ten more ending in wrong", "Jeremy Bee Merrill plays ping pong",
-  #]
+  lines = ["many words in english rhyme with song", "one two three four five six", "a bee see dee word kicks",
+  "This is a line that is twenty long and here are ten more ending in wrong", "Jeremy Bee Merrill plays ping pong",
+  ]
+
   p = Poemifier("limerick")
   p.debug = False
   #TODO: make this a do... while (so we quit when we finish a poem)
   for line in lines:
     line = re.sub("[^A-Za-z ']", "", line)
-    p.try_line(line)
+    line = line.strip()
+    if p.try_line(line):
+      print "Done!"
+      break
   print ""
   print p.get_poem()
 
 
-#TODO:
+#TODO: (eventually)
 # be a little more recursive, but not all the way, about pairing lines. maybe one loop per rhyming group? (i.e. for "a"s)
-# Find shorter lines to consider, e.g. breaking sentences into pieces
 
 #have an array of poems
 #try each line in each poem.
 #return all the way down when we finally have a real poem
+
+
+"""
+  #TODO! fix this: 
+  lines = ["many words in english rhyme with song", "one two three four five six", "a bee see dee word kicks",
+  "This is a line that is twenty long and here are ten more ending in wrong", "Jeremy Bee Merrill plays ping pong",
+  ]
+  the ordering is wrong. if the first line is moved to the end, it works.
+  Find a recursive-y way to get the right result here.
+"""
