@@ -11,7 +11,8 @@ class RhymeChecker:
       rhyme_cache = pickle.load(open(self.rhyme_cache_filename, 'r'))
       if self.debug:
         sys.stderr.write("loaded " + str(len(rhyme_cache)) + " rhymes from cache.")
-    except IOError:
+    except EOFError:
+      print "rhyme cache could not be loaded!"
       rhyme_cache = {}
     rhyme_extras = [ ("anatomical", "economical") ]
 
@@ -60,7 +61,8 @@ class RhymeChecker:
       data_json = urllib2.urlopen(full_url).read()
       data = json.loads(data_json) #a list of dicts, each of which has a word key.
       self.rhyme_cache[word1] = data
-      self.dump_rhyme_cache()
+      if len(self.rhyme_cache) % 10 == 0:
+        self.dump_rhyme_cache()
     words_that_rhyme = [word_dict["word"] for word_dict in data if word_dict["score"] >= 156] #allows hand to rhyme with and.
     return word2 in words_that_rhyme or (recurse and self.rhymes_with(word2, word1, False))
 
