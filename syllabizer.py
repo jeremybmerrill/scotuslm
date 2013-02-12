@@ -2,10 +2,8 @@
 
 class Syllabizer:
   def __init__(self):
-    vowels = ["a", "e", "i", "o", "u"] # Y is dealt with separately
-    self.vowels = vowels + map(lambda l: l.upper(), vowels)
-    consonants = ["b", "c", "d", "f", "g" "h", "j", "k", 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z']
-    self.consonants = consonants + map(lambda l: l.upper(), consonants)
+    self.vowels = ["a", "e", "i", "o", "u"] # Y is dealt with separately
+    self.consonants = ["b", "c", "d", "f", "g" "h", "j", "k", 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'v', 'w', 'x', 'y', 'z']
     self.exceptions = {
       "sometimes" : 2,
       "ritual" : 3,
@@ -96,6 +94,8 @@ class Syllabizer:
     if word in self.exceptions:
       return self.exceptions[word]
 
+    word = word.lower()
+
     letters = list(word)
     previous_letter = None
     syllables = 0
@@ -133,4 +133,7 @@ def _test():
   doctest.testmod()
 
 if __name__ == "__main__":
-  _test()
+  s = Syllabizer()
+  print s.syllabize("and")
+  print s.syllabize("JUSTICE")
+  print s.syllabize("alito")
