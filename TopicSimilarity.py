@@ -202,7 +202,7 @@ class TopicSimilarity:
       for document, words_to_tfidfs in self.tfidfs_by_document.iteritems():
         if word in words_to_tfidfs:
           print index
-          filenames_to_tfidf_vectors[document][index] = words_to_tfidfs[word]
+          filenames_to_tfidf_vectors[document][index] = float(words_to_tfidfs[word])
     return filenames_to_tfidf_vectors
 
   def load(self, infile="TopicSimilarityDump.dat"):
@@ -248,17 +248,26 @@ t = TopicSimilarity(glob = ["/home/merrillj/code/scotuslm/opinions", "11txt", "*
 print t.document_tfidf_vectors()
 
 
-from hcluster import pdist, linkage, dendrogram
+#from hcluster import pdist, linkage, dendrogram
 from os.path import basename
 
 
 document_tfidf_vectors = t.document_tfidf_vectors()
 
-for index, filename in enumerate(document_tfidf_vectors.keys()):
-  print str(index) + ": " + filename.split("/")[-2] + ": " + str(t.file_stats(filename)["words"])
+c = nltk.cluster.kmeans.KMeansClusterer(2, nltk.cluster.util.cosine_distance)
+c.cluster(TopicSimilarity.document_tfidf_vectors.values(), True, trace=True)
 
-pdist_of_tfidfs = pdist(document_tfidf_vectors.values())
-asdf = linkage(pdist_of_tfidfs)
-dendrogram(asdf)
+# clusterer = nltk.cluster.kmeans.KMeansClusterer(9, 1)
+# c = nltk.cluster.kmeans.KMeansClusterer(9, nltk.cluster.util.cosine_distance)
+# d = map(lambda outer: map(lambda x: float(x), outer), TopicSimilarity.document_tfidf_vectors.values())
+# c.cluster_vectorspace(d)
+
+
+# for index, filename in enumerate(document_tfidf_vectors.keys()):
+#   print str(index) + ": " + filename.split("/")[-2] + ": " + str(t.file_stats(filename)["words"])
+
+# pdist_of_tfidfs = pdist(document_tfidf_vectors.values())
+# asdf = linkage(pdist_of_tfidfs)
+# dendrogram(asdf)
 
 #1,8,0,11,2,7,4,6,5,10,9,3,12,13
