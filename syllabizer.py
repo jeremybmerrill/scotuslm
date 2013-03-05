@@ -16,8 +16,40 @@ class Syllabizer:
       "7" : 2,
       "8" : 1,
       "9" : 1,
-      "0" : 2
+      "0" : 2,
+      "our" : 2
     }
+
+  #TODO: finish.
+  def syllable_at(self, word, index):
+    """ Return a best guess for the syllable at index in word.
+    >>> s= Syllabizer()
+    >>> s.syllable_at("water", -1)
+    "ter"
+    >>> s.syllable_at("cheese", -1)
+    "cheese"
+
+    corncob -> ["corn", "cob"]
+    computer -> ["com", "pu", "ter"]
+    airplane -> ["air", "plane"]
+    nicar -> ["ni", "car"]
+    biter -> ["bi", "ter"]
+    shimmy -> ["shim", "my"]
+    shiny -> ["shi", "ny"]
+    carob -> ["car", "ob"]
+    garage -> ["ga", "rage"]
+    monster -> ["mon", "ster"] 
+    #generalization: English prefers codas to onsets, but <i> is often realized phonologically as /ij/, so any following consonant is likely an onset.
+    """
+    if not word:
+      return None
+    word = word.lower()
+    if self.syllabize(word) == 1:
+      return word
+    else:
+      syllables = []
+      raise NotYetImplementedError
+
 
 
   def syllabize(self, word):
