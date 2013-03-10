@@ -5,8 +5,11 @@ import sys
 from syllabizer import Syllabizer
 import re
 import os.path
+from syllable_count_guesser import SyllableCountGuesser
 
-#assumes rhyme involves only rime + coda of last syllable; this is incomplete.
+#assumes rhyme involves only rime of last syllable; this is incomplete.
+#for paroxytones (ha! words with penultimate stress, let's include the onset
+# of the last syllable and rime of the penultimate)
 
 #OMG: this has stress?!?!?! so much fun.
 #TODO: make phoneme class with is_vowel(); etc.
@@ -17,6 +20,7 @@ class RhymeChecker:
     self.symbols = {}
     self.pronunciations = {}
     self.syllabifications = {}
+    self.syllable_count_guesser = SyllableCountGuesser()
     #self.consonants = [] #unimplemented
     for line in open(os.path.abspath(os.path.join("./lib/cmudict/cmudict.0.7a.phones")) ,"r"):
       symbol, manner = line.strip().split("\t")
@@ -40,8 +44,15 @@ class RhymeChecker:
       self.pronunciations[word] = RhymeChecker.Pronunciation(pronunciation)
       #self.syllabifications[word] = self.syllabify_pron(pronunciation)
 
-  def dump_rhyme_cache(self):
-    pass #api backwards compatibility. :)
+  def count_syllables(self, word):
+    """ Return the number of syllables in word. 
+
+      #TODO: if the word is unknown, guess using algo from syllabizer.py
+    """
+    if word.upper() in self.syllabifications:
+      return len(self.syllabifications[word.upper()].syllables)
+    else:
+      return self.syllable_count_guesser.count_syllables(word.lower())
 
   def syllabify(self, word):
     """ Divide a word directly into its constituent syllables. 
