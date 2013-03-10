@@ -1,4 +1,3 @@
-from syllabizer import Syllabizer
 from rhymechecker import RhymeChecker
 
 
@@ -13,7 +12,6 @@ Architecture changes:
   3.5: Optionally, pair stuff, e.g. rhyming pairs or triplets (or n-lets where n is the greatest amount of rhyming lines needed in the format, e.g. 3 for a limerick, , but only 2 for a sonnet.) and, if necessary, of the right syllable length.
   3.75 From these pairs, assemble a poem.
   4. iterate over each line of the right syllable length to see if anything rhymes with it (i.e. has the same rhyme_hash value) and if so, insert into the poem. (with the same tricks to keep options open in self.poems)
-
 """
 
 
@@ -30,7 +28,7 @@ class Poemifier:
                       "rhyme_scheme" :  "ababcdcdefefgg"}
       }
     self.debug = False
-    self.poem_complete = False
+    #self.poem_complete = False #dunno what this is.
     #self.poem_validator = PoemValidator()
     if isinstance(format_name, str) and format_name not in self.formats:
       raise TypeError, "Unknown format specified."
@@ -45,8 +43,7 @@ class Poemifier:
     self.lines_needed = self.format["lines_needed"]
     self.poems = [ [None] * self.lines_needed ] 
     self.rhyme_checker = RhymeChecker()
-    self.rhyme_checker.debug = True
-    self.syllabizer = Syllabizer()
+    self.rhyme_checker.debug = False
 
   def _fill_out_format(self, format):
     if "lines_needed" not in format:
@@ -68,10 +65,11 @@ class Poemifier:
 
   def try_line(self, line):
     #TODO: reorganize the finished output to maximize topicality between adjacent lines.
-    if len(self.poems) % 10 == 0:
-      print len(self.poems)
-    if len(self.poems) % 100 == 0:
-      print self.poems.sort(key= lambda x: x.count(None))
+    if self.debug:
+      if len(self.poems) % 10 == 0:
+        print len(self.poems)
+      if len(self.poems) % 10 == 0:
+        print self.poems.sort(key= lambda x: x.count(None))
     extra_poems = []
     for poem_index, temp_poem in enumerate(self.poems):
       for line_index, poem_line in enumerate(temp_poem):
@@ -98,7 +96,7 @@ class Poemifier:
 
       #if we've gotten here, the line doesn't fit by itself.
         if (line_index < (len(temp_poem)-1)): #if we're not trying to fill the last line of the poem 
-          line_syllable_counts = map(lambda x: self.syllabizer.syllabize(x), line.split(" "))
+          line_syllable_counts = map(lambda x: self.rhyme_checker.count_syllables(x), line.split(" "))
           line_syllable_counts_need_to_be = [0,0]
           if isinstance(self.format["syllable_counts"][line_index], int):
             line_syllable_counts_need_to_be[0] += self.format["syllable_counts"][line_index]
@@ -137,7 +135,8 @@ class Poemifier:
     if len(   filter( lambda x: len(  filter(lambda y: y == None, x)) == len(x), self.poems)   ) == 0:
       self.poems.append([None] * self.lines_needed)
     if len(extra_poems) > 0:
-      print "Added: " + str(len(extra_poems))
+      if self.debug:
+        print "Added: " + str(len(extra_poems))
       self.poems.extend(extra_poems)
     return False in map(lambda x: None in x, self.poems) # return false until the poem is done. 
 
@@ -189,7 +188,7 @@ class Poemifier:
       return ["", line]
     elif syllable_count > 0:
       word = split_line[0]
-      this_word_syllables = self.syllabizer.syllabize(word)
+      this_word_syllables = self.rhyme_checker.count_syllables(word)
       next_return =  self._split_line_at_syllable_count_helper(" ".join(split_line[1:]), syllable_count - this_word_syllables)
       if next_return:
         next_return[0] = " ".join([word] + filter(lambda x: x != "", next_return[0].split(" ")))
@@ -228,7 +227,7 @@ class Poemifier:
 
     for dirty_word in split_line:
       word = dirty_word.strip(",.:?!")
-      syllable_count_on_this_line += self.syllabizer.syllabize(word)
+      syllable_count_on_this_line += self.rhyme_checker.count_syllables(word)
     if self.debug: #leads to huge amounts of output
       print line + ": " + str(syllable_count_on_this_line)
     if isinstance(syllable_count, int):
@@ -240,8 +239,7 @@ class Poemifier:
     return True in map(lambda x: None not in x, self.poems)
 
   def get_poem(self):
-    self.rhyme_checker.dump_rhyme_cache()
-    print str(len(self.poems))
+    #print "Created " + str(len(self.poems)) + " partial poems."
     if self.has_poem():
       return "\n".join( filter(lambda x: None not in x, self.poems)[0] )
     else:
@@ -277,7 +275,8 @@ if __name__ == "__main__":
     line = re.sub("[^A-Za-z ']", "", line)
     line = line.strip()
     if p.try_line(line):
-      print "Done!"
+      if p.debug: 
+        print "Done!"
       break
   print ""
   print p.get_poem()
