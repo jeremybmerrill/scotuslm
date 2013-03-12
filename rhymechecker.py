@@ -63,6 +63,19 @@ class RhymeChecker:
     """
     return self.syllabify_pron(self.pronunciations[word.upper()])
 
+  def get_rime(self, word):
+    """
+    Return this word's rime. 
+
+    #TODO: for words with penultimate or antepenultimate stress, return 
+      penultimate syllable's rime and ultimate syllable.
+      (e.g. syllable rhymes with killable, but not edible.)
+    """
+    try:
+      return self.syllabify(word).syllables[-1].rime()
+    except KeyError:
+      return []
+
   def syllabify_pron(self, pronunciation):
     """
     Divide a word's Pronunciation into syllables.
