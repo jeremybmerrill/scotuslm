@@ -175,13 +175,12 @@ class RhymeChecker:
       if not self._nucleus_start_location:
         self._nucleus_start_location = map(lambda x: x in RhymeChecker.vowels, self.phonemes).index(True)
       return self._nucleus_start_location
-
-    #TODO fix.
     def _nucleus_end(self):
       if not self._nucleus_end_location:
-        self._nucleus_end_location = map(lambda x: x in RhymeChecker.vowels, self.phonemes).index(True)
+        reversable_phonemes = list(self.phonemes)
+        reversable_phonemes.reverse()
+        self._nucleus_end_location = len(reversable_phonemes) - map(lambda x: x in RhymeChecker.vowels, reversable_phonemes).index(True) 
       return self._nucleus_end_location
-
     def coda(self):
       return self.phonemes[self._nucleus_end():]
     def rime(self):
